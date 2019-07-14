@@ -1,0 +1,1671 @@
+Sep 28,2016 12:17:43 [info]  ********************Started Executiong the Test Suite at 12:17:43******************
+Sep 28,2016 12:17:43 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Sep 28,2016 12:17:43 [info]  *********************Started Executing 'testscript' Test Case*********************
+Sep 28,2016 12:18:16 [info]  Client: AMCN
+Sep 28,2016 12:18:16 [info]  URL: http://rlv2wb79/login.aspx
+Sep 28,2016 12:18:16 [info]  UserName: automation
+Sep 28,2016 12:18:16 [info]  Password: automation
+Sep 28,2016 12:18:19 [info]  Entered "automation" in field 'User Name'
+Sep 28,2016 12:18:19 [info]  Clicked on the 'Temporary Check Box'
+Sep 28,2016 12:18:20 [info]  Entered "automation" in field 'Password'
+Sep 28,2016 12:18:31 [info]  Clicked on the 'LoginButton'
+Sep 28,2016 12:19:54 [info]  ====Failed==== " Could not find the Frame: div[id*='WebDialogWindow1'][style*=visible]
+Sep 28,2016 12:20:28 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Sep2016\\28\FrameSwitchingFailed0_CheckpointFailure_09-28-2016 12-19-54 PM.jpg
+Sep 28,2016 12:21:42 [info]  ********************Started Executiong the Test Suite at 12:21:42******************
+Sep 28,2016 12:21:42 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Sep 28,2016 12:21:42 [info]  *********************Started Executing 'testscript' Test Case*********************
+Sep 28,2016 12:21:53 [info]  Client: AMCN
+Sep 28,2016 12:21:53 [info]  URL: http://rlv2wb79/login.aspx
+Sep 28,2016 12:21:53 [info]  UserName: automation
+Sep 28,2016 12:21:53 [info]  Password: automation
+Sep 28,2016 12:21:54 [info]  Entered "automation" in field 'User Name'
+Sep 28,2016 12:21:54 [info]  Clicked on the 'Temporary Check Box'
+Sep 28,2016 12:21:55 [info]  Entered "automation" in field 'Password'
+Sep 28,2016 12:22:03 [info]  Clicked on the 'LoginButton'
+Sep 28,2016 12:23:02 [info]  Test 'testscript' PASSED
+Sep 28,2016 12:23:04 [info]  Closed the Browser
+Sep 28,2016 14:12:07 [info]  ********************Started Executiong the Test Suite at 14:12:07******************
+Sep 28,2016 14:12:07 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Sep 28,2016 14:12:07 [info]  *********************Started Executing 'TC1_AttributeUI' Test Case*********************
+Sep 28,2016 14:12:18 [info]  Client: AMCN
+Sep 28,2016 14:12:18 [info]  URL: http://rlv2wb79/login.aspx
+Sep 28,2016 14:12:18 [info]  UserName: automation
+Sep 28,2016 14:12:18 [info]  Password: automation
+Sep 28,2016 14:12:19 [info]  Entered "automation" in field 'User Name'
+Sep 28,2016 14:12:19 [info]  Clicked on the 'Temporary Check Box'
+Sep 28,2016 14:12:20 [info]  Entered "automation" in field 'Password'
+Sep 28,2016 14:12:32 [info]  Clicked on the 'LoginButton'
+Sep 28,2016 14:14:21 [info]  *****Verify Headers of Attribute TAB in Edit mode*****
+Sep 28,2016 14:14:22 [info]  Verified that Expected value :[*Attribute] is matched with Actual value :[*Attribute]
+Sep 28,2016 14:14:22 [info]  Verified that Expected value :[Value1] is matched with Actual value :[Value1]
+Sep 28,2016 14:14:22 [info]  Verified that Expected value :[Value2] is matched with Actual value :[Value2]
+Sep 28,2016 14:14:22 [info]  *****Verify Button available in Edit mode*****
+Sep 28,2016 14:14:22 [info]  Verified that Expected value :[Save] is matched with Actual value :[Save]
+Sep 28,2016 14:14:23 [info]  Verified that Expected value :[Cancel] is matched with Actual value :[Cancel]
+Sep 28,2016 14:14:23 [info]  
+Sep 28,2016 14:14:23 [info]  *****Verify Attributes in Edit mode*****
+Sep 28,2016 14:14:23 [info]  Verified that Expected value :[AUT_Attributes_Film location0927201640644] is matched with Actual value :[AUT_Attributes_Film location0927201640644]
+Sep 28,2016 14:14:33 [info]  ====Failed==== Expected value is:[AUT_Attributes_Media_0928201621207] but Actual value is[]. Please check the screenshot with name: AM_Attributes Namefor more details
+Sep 28,2016 14:14:33 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Sep2016\\28\AM_Attributes Name_CheckpointFailure_09-28-2016 2-14-33 PM.jpg
+Sep 28,2016 14:14:43 [info]  ====Failed==== Expected value is:[AUT_Attributes_ NUMERIC 1_0928201621207] but Actual value is[]. Please check the screenshot with name: AM_Attributes Namefor more details
+Sep 28,2016 14:14:43 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Sep2016\\28\AM_Attributes Name_CheckpointFailure_09-28-2016 2-14-43 PM.jpg
+Sep 28,2016 14:14:53 [info]  ====Failed==== Expected value is:[AUT_Attributes_NUMERIC 2_0928201621207] but Actual value is[]. Please check the screenshot with name: AM_Attributes Namefor more details
+Sep 28,2016 14:14:53 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Sep2016\\28\AM_Attributes Name_CheckpointFailure_09-28-2016 2-14-53 PM.jpg
+Sep 28,2016 14:15:04 [info]  ====Failed==== Expected value is:[AUT_Attributes_CURRENCY 1_0928201621207] but Actual value is[]. Please check the screenshot with name: AM_Attributes Namefor more details
+Sep 28,2016 14:15:04 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Sep2016\\28\AM_Attributes Name_CheckpointFailure_09-28-2016 2-15-04 PM.jpg
+Sep 28,2016 14:15:14 [info]  ====Failed==== Expected value is:[AUT_Attributes_CURRENCY 2_0928201621207] but Actual value is[]. Please check the screenshot with name: AM_Attributes Namefor more details
+Sep 28,2016 14:15:14 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Sep2016\\28\AM_Attributes Name_CheckpointFailure_09-28-2016 2-15-14 PM.jpg
+Sep 28,2016 14:15:24 [info]  ====Failed==== Expected value is:[AUT_Attributes_RANGE 1_0928201621207] but Actual value is[]. Please check the screenshot with name: AM_Attributes Namefor more details
+Sep 28,2016 14:15:24 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Sep2016\\28\AM_Attributes Name_CheckpointFailure_09-28-2016 2-15-24 PM.jpg
+Sep 28,2016 14:15:35 [info]  ====Failed==== Expected value is:[AUT_Attributes_RANGE 2_0928201621207] but Actual value is[]. Please check the screenshot with name: AM_Attributes Namefor more details
+Sep 28,2016 14:15:35 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Sep2016\\28\AM_Attributes Name_CheckpointFailure_09-28-2016 2-15-35 PM.jpg
+Sep 28,2016 14:15:45 [info]  ====Failed==== Expected value is:[AUT_Attributes_RANGE 3_0928201621207] but Actual value is[]. Please check the screenshot with name: AM_Attributes Namefor more details
+Sep 28,2016 14:15:45 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Sep2016\\28\AM_Attributes Name_CheckpointFailure_09-28-2016 2-15-45 PM.jpg
+Sep 28,2016 14:15:55 [info]  ====Failed==== Expected value is:[AUT_Attributes_RANGE 4_0928201621207] but Actual value is[]. Please check the screenshot with name: AM_Attributes Namefor more details
+Sep 28,2016 14:15:55 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Sep2016\\28\AM_Attributes Name_CheckpointFailure_09-28-2016 2-15-55 PM.jpg
+Sep 28,2016 14:16:05 [info]  ====Failed==== Expected value is:[AUT_Attributes_RANGE 5_0928201621207] but Actual value is[]. Please check the screenshot with name: AM_Attributes Namefor more details
+Sep 28,2016 14:16:05 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Sep2016\\28\AM_Attributes Name_CheckpointFailure_09-28-2016 2-16-05 PM.jpg
+Sep 28,2016 14:16:16 [info]  ====Failed==== Expected value is:[AUT_Attributes_RANGE 6_0928201621207] but Actual value is[]. Please check the screenshot with name: AM_Attributes Namefor more details
+Sep 28,2016 14:16:16 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Sep2016\\28\AM_Attributes Name_CheckpointFailure_09-28-2016 2-16-16 PM.jpg
+Sep 28,2016 14:16:26 [info]  ====Failed==== Expected value is:[AUT_Attributes_RANGE 7_0928201621207] but Actual value is[]. Please check the screenshot with name: AM_Attributes Namefor more details
+Sep 28,2016 14:16:26 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Sep2016\\28\AM_Attributes Name_CheckpointFailure_09-28-2016 2-16-26 PM.jpg
+Sep 28,2016 14:16:36 [info]  ====Failed==== Expected value is:[AUT_Attributes_List_0928201621207] but Actual value is[]. Please check the screenshot with name: AM_Attributes Namefor more details
+Sep 28,2016 14:16:36 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Sep2016\\28\AM_Attributes Name_CheckpointFailure_09-28-2016 2-16-36 PM.jpg
+Sep 28,2016 14:16:46 [info]  ====Failed==== Expected value is:[AUT_Attributes_Date1_0928201621207] but Actual value is[]. Please check the screenshot with name: AM_Attributes Namefor more details
+Sep 28,2016 14:16:46 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Sep2016\\28\AM_Attributes Name_CheckpointFailure_09-28-2016 2-16-46 PM.jpg
+Sep 28,2016 14:16:46 [info]  
+Sep 28,2016 14:16:54 [info]  Clicked on the 'Selected Attribute'
+Sep 28,2016 14:17:05 [info]  Clicked on the 'Value1 of AUT_Attributes_Film location0927201640644'
+Sep 28,2016 14:17:06 [info]  Entered "3423423" in field 'AM_AttributeValue1_InputField'
+Sep 28,2016 14:17:07 [info]  Clicked on the 'Save Button at 'Attribute Edit Window'' using JS Executor
+Sep 28,2016 14:17:59 [info]  ====Failed==== Expected value is:[Please enter only text for the attribute.] but Actual value is[]. Please check the screenshot with name: Alert Message on Entering Invalid Data for Attribute Valuefor more details
+Sep 28,2016 14:18:00 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Sep2016\\28\Alert Message on Entering Invalid Data for Attribute Value_CheckpointFailure_09-28-2016 2-17-59 PM.jpg
+Sep 28,2016 14:18:05 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Sep 28,2016 14:18:09 [info]  Clicked on the 'Value1 of AUT_Attributes_Film location0927201640644'
+Sep 28,2016 14:18:14 [info]  Entered "RSG3423423ab" in field 'AM_AttributeValue1_InputField'
+Sep 28,2016 14:18:15 [info]  Clicked on the 'Save Button at 'Attribute Edit Window'' using JS Executor
+Sep 28,2016 14:18:53 [info]  ====Failed==== Expected value is:[Please enter only text for the attribute.] but Actual value is[]. Please check the screenshot with name: Alert Message on Entering Invalid Data for Attribute Valuefor more details
+Sep 28,2016 14:18:54 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Sep2016\\28\Alert Message on Entering Invalid Data for Attribute Value_CheckpointFailure_09-28-2016 2-18-53 PM.jpg
+Sep 28,2016 14:18:56 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Sep 28,2016 14:18:58 [info]  Clicked on the 'Value1 of AUT_Attributes_Film location0927201640644'
+Sep 28,2016 14:18:59 [info]  ====Failed==== "AM_AttributeValue1_InputField" field is not present'AM_AttributeValue1_InputField'
+Sep 28,2016 14:19:00 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Sep2016\\28\AM_AttributeValue1_InputField_CheckpointFailure_09-28-2016 2-18-59 PM.jpg
+Sep 28,2016 14:19:07 [info]  Clicked on the 'Save Button at 'Attribute Edit Window'' using JS Executor
+Sep 28,2016 14:21:57 [info]  ********************Started Executiong the Test Suite at 14:21:57******************
+Sep 28,2016 14:21:57 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Sep 28,2016 14:21:57 [info]  *********************Started Executing 'TC1_AttributeUI' Test Case*********************
+Sep 28,2016 14:22:06 [info]  Client: AMCN
+Sep 28,2016 14:22:06 [info]  URL: http://rlv2wb79/login.aspx
+Sep 28,2016 14:22:06 [info]  UserName: automation
+Sep 28,2016 14:22:06 [info]  Password: automation
+Sep 28,2016 14:22:07 [info]  Entered "automation" in field 'User Name'
+Sep 28,2016 14:22:08 [info]  Clicked on the 'Temporary Check Box'
+Sep 28,2016 14:22:08 [info]  Entered "automation" in field 'Password'
+Sep 28,2016 14:22:19 [info]  Clicked on the 'LoginButton'
+Sep 28,2016 14:23:14 [info]  *****Verify Headers of Attribute TAB in Edit mode*****
+Sep 28,2016 14:23:23 [info]  Verified that Expected value :[*Attribute] is matched with Actual value :[*Attribute]
+Sep 28,2016 14:23:23 [info]  Verified that Expected value :[Value1] is matched with Actual value :[Value1]
+Sep 28,2016 14:23:23 [info]  Verified that Expected value :[Value2] is matched with Actual value :[Value2]
+Sep 28,2016 14:23:23 [info]  *****Verify Button available in Edit mode*****
+Sep 28,2016 14:23:23 [info]  Verified that Expected value :[Save] is matched with Actual value :[Save]
+Sep 28,2016 14:23:23 [info]  Verified that Expected value :[Cancel] is matched with Actual value :[Cancel]
+Sep 28,2016 14:23:23 [info]  
+Sep 28,2016 14:23:23 [info]  *****Verify Attributes in Edit mode*****
+Sep 28,2016 14:23:23 [info]  
+Sep 28,2016 14:23:30 [info]  Clicked on the 'Selected Attribute'
+Sep 28,2016 14:23:33 [info]  Clicked on the 'Value1 of AUT_Attributes_Film location0927201640644'
+Sep 28,2016 14:23:34 [info]  Entered "3423423" in field 'AM_AttributeValue1_InputField'
+Sep 28,2016 14:23:35 [info]  Clicked on the 'Selected Attribute'
+Sep 28,2016 14:23:37 [info]  Clicked on the 'Save Button at 'Attribute Edit Window'' using JS Executor
+Sep 28,2016 14:24:34 [info]  ********************Started Executiong the Test Suite at 14:24:34******************
+Sep 28,2016 14:24:34 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Sep 28,2016 14:24:34 [info]  *********************Started Executing 'TC1_AttributeUI' Test Case*********************
+Sep 28,2016 14:24:44 [info]  Client: AMCN
+Sep 28,2016 14:24:44 [info]  URL: http://rlv2wb79/login.aspx
+Sep 28,2016 14:24:44 [info]  UserName: automation
+Sep 28,2016 14:24:44 [info]  Password: automation
+Sep 28,2016 14:24:45 [info]  Entered "automation" in field 'User Name'
+Sep 28,2016 14:24:45 [info]  Clicked on the 'Temporary Check Box'
+Sep 28,2016 14:24:46 [info]  Entered "automation" in field 'Password'
+Sep 28,2016 14:24:55 [info]  Clicked on the 'LoginButton'
+Sep 28,2016 14:25:44 [info]  *****Verify Headers of Attribute TAB in Edit mode*****
+Sep 28,2016 14:25:45 [info]  Verified that Expected value :[*Attribute] is matched with Actual value :[*Attribute]
+Sep 28,2016 14:25:45 [info]  Verified that Expected value :[Value1] is matched with Actual value :[Value1]
+Sep 28,2016 14:25:46 [info]  Verified that Expected value :[Value2] is matched with Actual value :[Value2]
+Sep 28,2016 14:25:46 [info]  *****Verify Button available in Edit mode*****
+Sep 28,2016 14:25:46 [info]  Verified that Expected value :[Save] is matched with Actual value :[Save]
+Sep 28,2016 14:25:46 [info]  Verified that Expected value :[Cancel] is matched with Actual value :[Cancel]
+Sep 28,2016 14:25:46 [info]  
+Sep 28,2016 14:25:46 [info]  *****Verify Attributes in Edit mode*****
+Sep 28,2016 14:25:46 [info]  
+Sep 28,2016 14:25:52 [info]  Clicked on the 'Selected Attribute'
+Sep 28,2016 14:25:56 [info]  Clicked on the 'Value1 of AUT_Attributes_Film location0927201640644'
+Sep 28,2016 14:25:57 [info]  Entered "3423423" in field 'AM_AttributeValue1_InputField'
+Sep 28,2016 14:25:58 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Sep 28,2016 14:26:04 [info]  ====Failed==== Expected value is:[Please enter only text for the attribute.] but Actual value is[]. Please check the screenshot with name: Alert Message on Entering Invalid Data for Attribute Valuefor more details
+Sep 28,2016 14:26:04 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Sep2016\\28\Alert Message on Entering Invalid Data for Attribute Value_CheckpointFailure_09-28-2016 2-26-04 PM.jpg
+Sep 28,2016 14:26:05 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Sep 28,2016 14:28:06 [info]  Clicked on the 'Value1 of AUT_Attributes_Film location0927201640644'
+Sep 28,2016 14:28:07 [info]  ====Failed==== "AM_AttributeValue1_InputField" field is not present'AM_AttributeValue1_InputField'
+Sep 28,2016 14:28:07 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Sep2016\\28\AM_AttributeValue1_InputField_CheckpointFailure_09-28-2016 2-28-07 PM.jpg
+Sep 28,2016 14:28:15 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Sep 28,2016 14:28:22 [info]  ====Failed==== Expected value is:[Please enter only text for the attribute.] but Actual value is[]. Please check the screenshot with name: Alert Message on Entering Invalid Data for Attribute Valuefor more details
+Sep 28,2016 14:28:23 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Sep2016\\28\Alert Message on Entering Invalid Data for Attribute Value_CheckpointFailure_09-28-2016 2-28-22 PM.jpg
+Sep 28,2016 14:28:30 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Sep 28,2016 14:29:05 [info]  Clicked on the 'Value1 of AUT_Attributes_Film location0927201640644'
+Sep 28,2016 14:29:07 [info]  Entered "RSGab#$%^*%#$" in field 'AM_AttributeValue1_InputField'
+Sep 28,2016 14:29:11 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Sep 28,2016 14:29:40 [info]  Verified that Expected value :[RSGab#$%^*%#$] is matched with Actual value :[RSGab#$%^*%#$]
+Sep 28,2016 14:29:43 [info]  Test 'TC1_AttributeUI' PASSED
+Sep 28,2016 14:29:45 [info]  Closed the Browser
+Sep 28,2016 14:33:19 [info]  ********************Started Executiong the Test Suite at 14:33:19******************
+Sep 28,2016 14:33:19 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Sep 28,2016 14:33:19 [info]  *********************Started Executing 'TC1_AttributeUI' Test Case*********************
+Sep 28,2016 14:33:28 [info]  Client: AMCN
+Sep 28,2016 14:33:28 [info]  URL: http://rlv2wb79/login.aspx
+Sep 28,2016 14:33:28 [info]  UserName: automation
+Sep 28,2016 14:33:28 [info]  Password: automation
+Sep 28,2016 14:33:29 [info]  Entered "automation" in field 'User Name'
+Sep 28,2016 14:33:30 [info]  Clicked on the 'Temporary Check Box'
+Sep 28,2016 14:33:30 [info]  Entered "automation" in field 'Password'
+Sep 28,2016 14:33:40 [info]  Clicked on the 'LoginButton'
+Sep 28,2016 14:34:28 [info]  *****Verify Headers of Attribute TAB in Edit mode*****
+Sep 28,2016 14:34:30 [info]  Verified that Expected value :[*Attribute] is matched with Actual value :[*Attribute]
+Sep 28,2016 14:34:30 [info]  Verified that Expected value :[Value1] is matched with Actual value :[Value1]
+Sep 28,2016 14:34:30 [info]  Verified that Expected value :[Value2] is matched with Actual value :[Value2]
+Sep 28,2016 14:34:30 [info]  *****Verify Button available in Edit mode*****
+Sep 28,2016 14:34:30 [info]  Verified that Expected value :[Save] is matched with Actual value :[Save]
+Sep 28,2016 14:34:30 [info]  Verified that Expected value :[Cancel] is matched with Actual value :[Cancel]
+Sep 28,2016 14:34:30 [info]  
+Sep 28,2016 14:34:30 [info]  *****Verify Attributes in Edit mode*****
+Sep 28,2016 14:34:30 [info]  
+Sep 28,2016 14:34:44 [info]  Clicked on the 'Selected Attribute'
+Sep 28,2016 14:34:45 [info]  Clicked on the 'Value1 of AUT_Attributes_Film location0927201640644'
+Sep 28,2016 14:34:45 [info]  Entered "3423423" in field 'AM_AttributeValue1_InputField'
+Sep 28,2016 14:34:46 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Sep 28,2016 14:34:49 [info]  ====Failed==== Expected value is:[Please enter only text for the attribute.] but Actual value is[]. Please check the screenshot with name: Alert Message on Entering Invalid Data for Attribute Valuefor more details
+Sep 28,2016 14:34:50 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Sep2016\\28\Alert Message on Entering Invalid Data for Attribute Value_CheckpointFailure_09-28-2016 2-34-49 PM.jpg
+Sep 28,2016 14:34:50 [info]  ====Failed==== "OK Button at Alert" field is not present'
+Sep 28,2016 14:34:50 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Sep2016\\28\OK Button at Alert_CheckpointFailure_09-28-2016 2-34-50 PM.jpg
+Sep 28,2016 14:36:42 [info]  ********************Started Executiong the Test Suite at 14:36:42******************
+Sep 28,2016 14:36:42 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Sep 28,2016 14:36:42 [info]  *********************Started Executing 'TC1_AttributeUI' Test Case*********************
+Sep 28,2016 14:36:51 [info]  Client: AMCN
+Sep 28,2016 14:36:51 [info]  URL: http://rlv2wb79/login.aspx
+Sep 28,2016 14:36:51 [info]  UserName: automation
+Sep 28,2016 14:36:51 [info]  Password: automation
+Sep 28,2016 14:36:53 [info]  Entered "automation" in field 'User Name'
+Sep 28,2016 14:36:53 [info]  Clicked on the 'Temporary Check Box'
+Sep 28,2016 14:36:54 [info]  Entered "automation" in field 'Password'
+Sep 28,2016 14:37:04 [info]  Clicked on the 'LoginButton'
+Sep 28,2016 14:37:46 [info]  *****Verify Headers of Attribute TAB in Edit mode*****
+Sep 28,2016 14:37:47 [info]  Verified that Expected value :[*Attribute] is matched with Actual value :[*Attribute]
+Sep 28,2016 14:37:47 [info]  Verified that Expected value :[Value1] is matched with Actual value :[Value1]
+Sep 28,2016 14:37:48 [info]  Verified that Expected value :[Value2] is matched with Actual value :[Value2]
+Sep 28,2016 14:37:48 [info]  *****Verify Button available in Edit mode*****
+Sep 28,2016 14:37:48 [info]  Verified that Expected value :[Save] is matched with Actual value :[Save]
+Sep 28,2016 14:37:48 [info]  Verified that Expected value :[Cancel] is matched with Actual value :[Cancel]
+Sep 28,2016 14:37:48 [info]  
+Sep 28,2016 14:37:48 [info]  *****Verify Attributes in Edit mode*****
+Sep 28,2016 14:37:48 [info]  
+Sep 28,2016 14:37:53 [info]  Clicked on the 'Selected Attribute'
+Sep 28,2016 14:37:53 [info]  Clicked on the 'Value1 of AUT_Attributes_Film location0927201640644'
+Sep 28,2016 14:37:54 [info]  Entered "3423423" in field 'AM_AttributeValue1_InputField'
+Sep 28,2016 14:37:54 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Sep 28,2016 14:37:58 [info]  ====Failed==== Expected value is:[Please enter only text for the attribute.] but Actual value is[]. Please check the screenshot with name: Alert Message on Entering Invalid Data for Attribute Valuefor more details
+Sep 28,2016 14:37:58 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Sep2016\\28\Alert Message on Entering Invalid Data for Attribute Value_CheckpointFailure_09-28-2016 2-37-58 PM.jpg
+Sep 28,2016 14:37:58 [info]  ====Failed==== "OK Button at Alert" field is not present'
+Sep 28,2016 14:37:58 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Sep2016\\28\OK Button at Alert_CheckpointFailure_09-28-2016 2-37-58 PM.jpg
+Sep 28,2016 14:41:43 [info]  ********************Started Executiong the Test Suite at 14:41:43******************
+Sep 28,2016 14:41:43 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Sep 28,2016 14:41:43 [info]  *********************Started Executing 'TC1_AttributeUI' Test Case*********************
+Sep 28,2016 14:41:52 [info]  Client: AMCN
+Sep 28,2016 14:41:52 [info]  URL: http://rlv2wb79/login.aspx
+Sep 28,2016 14:41:52 [info]  UserName: automation
+Sep 28,2016 14:41:52 [info]  Password: automation
+Sep 28,2016 14:41:53 [info]  Entered "automation" in field 'User Name'
+Sep 28,2016 14:41:53 [info]  Clicked on the 'Temporary Check Box'
+Sep 28,2016 14:41:54 [info]  Entered "automation" in field 'Password'
+Sep 28,2016 14:42:04 [info]  Clicked on the 'LoginButton'
+Sep 28,2016 14:42:35 [info]  *****Verify Headers of Attribute TAB in Edit mode*****
+Sep 28,2016 14:42:36 [info]  Verified that Expected value :[*Attribute] is matched with Actual value :[*Attribute]
+Sep 28,2016 14:42:36 [info]  Verified that Expected value :[Value1] is matched with Actual value :[Value1]
+Sep 28,2016 14:42:37 [info]  Verified that Expected value :[Value2] is matched with Actual value :[Value2]
+Sep 28,2016 14:42:37 [info]  *****Verify Button available in Edit mode*****
+Sep 28,2016 14:42:37 [info]  Verified that Expected value :[Save] is matched with Actual value :[Save]
+Sep 28,2016 14:42:37 [info]  Verified that Expected value :[Cancel] is matched with Actual value :[Cancel]
+Sep 28,2016 14:42:37 [info]  
+Sep 28,2016 14:42:37 [info]  *****Verify Attributes in Edit mode*****
+Sep 28,2016 14:42:37 [info]  
+Sep 28,2016 14:42:42 [info]  Clicked on the 'Selected Attribute'
+Sep 28,2016 14:42:42 [info]  Clicked on the 'Value1 of AUT_Attributes_Film location0927201640644'
+Sep 28,2016 14:42:43 [info]  Entered "3423423" in field 'AM_AttributeValue1_InputField'
+Sep 28,2016 14:42:43 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Sep 28,2016 14:42:47 [info]  Verified that Expected value :[Please enter only text for the attribute.] is matched with Actual value :[Please enter only text for the attribute.]
+Sep 28,2016 14:42:47 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Sep 28,2016 14:42:57 [info]  Clicked on the 'Value1 of AUT_Attributes_Film location0927201640644'
+Sep 28,2016 14:42:57 [info]  Entered "RSG3423423ab" in field 'AM_AttributeValue1_InputField'
+Sep 28,2016 14:42:58 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Sep 28,2016 14:43:01 [info]  Verified that Expected value :[Please enter only text for the attribute.] is matched with Actual value :[Please enter only text for the attribute.]
+Sep 28,2016 14:43:02 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Sep 28,2016 14:43:08 [info]  Clicked on the 'Value1 of AUT_Attributes_Film location0927201640644'
+Sep 28,2016 14:43:10 [info]  Entered "RSGab#$%^*%#$" in field 'AM_AttributeValue1_InputField'
+Sep 28,2016 14:43:12 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Sep 28,2016 14:43:16 [info]  Verified that Expected value :[RSGab#$%^*%#$] is matched with Actual value :[RSGab#$%^*%#$]
+Sep 28,2016 14:43:16 [info]  Test 'TC1_AttributeUI' PASSED
+Sep 28,2016 14:43:17 [info]  Closed the Browser
+Sep 28,2016 16:22:58 [info]  ********************Started Executiong the Test Suite at 16:22:58******************
+Sep 28,2016 16:22:58 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Sep 28,2016 16:23:11 [info]  ********************Started Executiong the Test Suite at 16:23:11******************
+Sep 28,2016 16:23:11 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Sep 28,2016 16:23:11 [info]  *********************Started Executing 'TC3_ValueEnter_MediaAttribute' Test Case*********************
+Sep 28,2016 16:23:21 [info]  Client: AMCN
+Sep 28,2016 16:23:21 [info]  URL: http://rlv2wb79/login.aspx
+Sep 28,2016 16:23:21 [info]  UserName: automation
+Sep 28,2016 16:23:21 [info]  Password: automation
+Sep 28,2016 16:23:22 [info]  Entered "automation" in field 'User Name'
+Sep 28,2016 16:23:22 [info]  Clicked on the 'Temporary Check Box'
+Sep 28,2016 16:23:23 [info]  Entered "automation" in field 'Password'
+Sep 28,2016 16:23:34 [info]  Clicked on the 'LoginButton'
+Sep 28,2016 16:29:15 [info]  Clicked on the 'Edit Button' using JS Executor
+Sep 28,2016 16:29:17 [info]  Clicked on the 'Select Attribute AUT_Attributes_Media0927201650927'
+Sep 28,2016 16:29:29 [info]  ====Failed==== "Value1 of AUT_Attributes_Film location0928201642311" field is not present'
+Sep 28,2016 16:29:29 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Sep2016\\28\Value1 of AUT_Attributes_Film location0928201642311_CheckpointFailure_09-28-2016 4-29-29 PM.jpg
+Sep 28,2016 16:29:29 [info]  ====Failed==== "AUT_Attributes_Media0927201650927's Value1 InputField" field is not present'AUT_Attributes_Media0927201650927's Value1 InputField'
+Sep 28,2016 16:29:29 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Sep2016\\28\AUT_Attributes_Media0927201650927's Value1 InputField_CheckpointFailure_09-28-2016 4-29-29 PM.jpg
+Sep 28,2016 16:29:29 [info]  Clicked on the 'Select Attribute AUT_Attributes_Media0927201650927'
+Sep 28,2016 16:29:30 [info]  ====Failed==== Expected value is:[10.1] but Actual value is[10.2]. Please check the screenshot with name: Data of Value1 Field of Attribute AUT_Attributes_Film location0928201642311for more details
+Sep 28,2016 16:29:30 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Sep2016\\28\Data of Value1 Field of Attribute AUT_Attributes_Film location0928201642311_CheckpointFailure_09-28-2016 4-29-30 PM.jpg
+Sep 28,2016 16:29:33 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Sep 28,2016 16:29:37 [info]  ====Failed==== Expected value is:[10.1] but Actual value is[10.2]. Please check the screenshot with name: Data of Value1 Field of Attribute AUT_Attributes_Film location0928201642311for more details
+Sep 28,2016 16:29:37 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Sep2016\\28\Data of Value1 Field of Attribute AUT_Attributes_Film location0928201642311_CheckpointFailure_09-28-2016 4-29-37 PM.jpg
+Sep 28,2016 16:29:37 [info]  Clicked on the 'Edit Button' using JS Executor
+Sep 28,2016 16:29:39 [info]  Clicked on the 'Select Attribute AUT_Attributes_Media0927201650927'
+Sep 28,2016 16:29:49 [info]  ====Failed==== "Value1 of AUT_Attributes_Film location0928201642311" field is not present'
+Sep 28,2016 16:29:49 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Sep2016\\28\Value1 of AUT_Attributes_Film location0928201642311_CheckpointFailure_09-28-2016 4-29-49 PM.jpg
+Sep 28,2016 16:29:49 [info]  ====Failed==== "AUT_Attributes_Media0927201650927's Value1 InputField" field is not present'AUT_Attributes_Media0927201650927's Value1 InputField'
+Sep 28,2016 16:29:50 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Sep2016\\28\AUT_Attributes_Media0927201650927's Value1 InputField_CheckpointFailure_09-28-2016 4-29-49 PM.jpg
+Sep 28,2016 16:29:50 [info]  Clicked on the 'Select Attribute AUT_Attributes_Media0927201650927'
+Sep 28,2016 16:29:50 [info]  ====Failed==== Expected value is:[RSG3423423ab] but Actual value is[10.2]. Please check the screenshot with name: Data of Value1 Field of Attribute AUT_Attributes_Film location0928201642311for more details
+Sep 28,2016 16:29:50 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Sep2016\\28\Data of Value1 Field of Attribute AUT_Attributes_Film location0928201642311_CheckpointFailure_09-28-2016 4-29-50 PM.jpg
+Sep 28,2016 16:31:06 [info]  ********************Started Executiong the Test Suite at 16:31:06******************
+Sep 28,2016 16:31:06 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Sep 28,2016 16:31:06 [info]  *********************Started Executing 'TC3_ValueEnter_MediaAttribute' Test Case*********************
+Sep 28,2016 16:31:15 [info]  Client: AMCN
+Sep 28,2016 16:31:15 [info]  URL: http://rlv2wb79/login.aspx
+Sep 28,2016 16:31:15 [info]  UserName: automation
+Sep 28,2016 16:31:15 [info]  Password: automation
+Sep 28,2016 16:31:16 [info]  Entered "automation" in field 'User Name'
+Sep 28,2016 16:31:16 [info]  Clicked on the 'Temporary Check Box'
+Sep 28,2016 16:31:17 [info]  Entered "automation" in field 'Password'
+Sep 28,2016 16:31:27 [info]  Clicked on the 'LoginButton'
+Sep 28,2016 16:32:43 [info]  Clicked on the 'Edit Button' using JS Executor
+Sep 28,2016 16:32:45 [info]  Clicked on the 'Select Attribute AUT_Attributes_Media0927201650927'
+Sep 28,2016 16:32:46 [info]  Clicked on the 'Value1 of AUT_Attributes_Film location0928201643106'
+Sep 28,2016 16:32:47 [info]  Entered "10.1" in field 'AUT_Attributes_Media0927201650927's Value1 InputField'
+Sep 28,2016 16:32:47 [info]  Clicked on the 'Select Attribute AUT_Attributes_Media0927201650927'
+Sep 28,2016 16:32:47 [info]  Verified that Expected value :[10.1] is matched with Actual value :[10.1]
+Sep 28,2016 16:32:52 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Sep 28,2016 16:32:55 [info]  Verified that Expected value :[10.1] is matched with Actual value :[10.1]
+Sep 28,2016 16:32:56 [info]  Clicked on the 'Edit Button' using JS Executor
+Sep 28,2016 16:32:57 [info]  Clicked on the 'Select Attribute AUT_Attributes_Media0927201650927'
+Sep 28,2016 16:32:58 [info]  Clicked on the 'Value1 of AUT_Attributes_Film location0928201643106'
+Sep 28,2016 16:32:59 [info]  Entered "RSG3423423ab" in field 'AUT_Attributes_Media0927201650927's Value1 InputField'
+Sep 28,2016 16:32:59 [info]  Clicked on the 'Select Attribute AUT_Attributes_Media0927201650927'
+Sep 28,2016 16:32:59 [info]  Verified that Expected value :[RSG3423423ab] is matched with Actual value :[RSG3423423ab]
+Sep 28,2016 16:33:02 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Sep 28,2016 16:33:06 [info]  Verified that Expected value :[RSG3423423ab] is matched with Actual value :[RSG3423423ab]
+Sep 28,2016 16:33:06 [info]  Clicked on the 'Edit Button' using JS Executor
+Sep 28,2016 16:33:08 [info]  Clicked on the 'Select Attribute AUT_Attributes_Media0927201650927'
+Sep 28,2016 16:33:18 [info]  ====Failed==== "Value1 of AUT_Attributes_Film location0928201643106" field is not present'
+Sep 28,2016 16:33:18 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Sep2016\\28\Value1 of AUT_Attributes_Film location0928201643106_CheckpointFailure_09-28-2016 4-33-18 PM.jpg
+Sep 28,2016 16:33:18 [info]  ====Failed==== "AUT_Attributes_Media0927201650927's Value1 InputField" field is not present'AUT_Attributes_Media0927201650927's Value1 InputField'
+Sep 28,2016 16:33:18 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Sep2016\\28\AUT_Attributes_Media0927201650927's Value1 InputField_CheckpointFailure_09-28-2016 4-33-18 PM.jpg
+Sep 28,2016 16:33:18 [info]  Clicked on the 'Select Attribute AUT_Attributes_Media0927201650927'
+Sep 28,2016 16:33:19 [info]  ====Failed==== Expected value is:[RSGab#$%^*%#$] but Actual value is[RSG3423423ab]. Please check the screenshot with name: Data of Value1 Field of Attribute AUT_Attributes_Film location0928201643106for more details
+Sep 28,2016 16:33:19 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Sep2016\\28\Data of Value1 Field of Attribute AUT_Attributes_Film location0928201643106_CheckpointFailure_09-28-2016 4-33-19 PM.jpg
+Sep 28,2016 16:33:21 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Sep 28,2016 16:33:25 [info]  ====Failed==== Expected value is:[RSGab#$%^*%#$] but Actual value is[RSG3423423ab]. Please check the screenshot with name: Data of Value1 Field of Attribute AUT_Attributes_Film location0928201643106for more details
+Sep 28,2016 16:33:25 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Sep2016\\28\Data of Value1 Field of Attribute AUT_Attributes_Film location0928201643106_CheckpointFailure_09-28-2016 4-33-25 PM.jpg
+Sep 28,2016 16:33:25 [info]  Test 'TC3_ValueEnter_MediaAttribute' PASSED
+Sep 28,2016 16:33:27 [info]  Closed the Browser
+Sep 28,2016 16:35:12 [info]  ********************Started Executiong the Test Suite at 16:35:12******************
+Sep 28,2016 16:35:12 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Sep 28,2016 16:35:12 [info]  *********************Started Executing 'TC3_ValueEnter_MediaAttribute' Test Case*********************
+Sep 28,2016 16:35:21 [info]  Client: AMCN
+Sep 28,2016 16:35:21 [info]  URL: http://rlv2wb79/login.aspx
+Sep 28,2016 16:35:21 [info]  UserName: automation
+Sep 28,2016 16:35:21 [info]  Password: automation
+Sep 28,2016 16:35:22 [info]  Entered "automation" in field 'User Name'
+Sep 28,2016 16:35:22 [info]  Clicked on the 'Temporary Check Box'
+Sep 28,2016 16:35:23 [info]  Entered "automation" in field 'Password'
+Sep 28,2016 16:35:35 [info]  Clicked on the 'LoginButton'
+Sep 28,2016 16:36:24 [info]  Clicked on the 'Edit Button' using JS Executor
+Sep 28,2016 16:36:26 [info]  Clicked on the 'Select Attribute AUT_Attributes_Media0927201650927'
+Sep 28,2016 16:36:28 [info]  Clicked on the 'Value1 of AUT_Attributes_Film location0928201643512'
+Sep 28,2016 16:36:28 [info]  Entered "10.1" in field 'AUT_Attributes_Media0927201650927's Value1 InputField'
+Sep 28,2016 16:36:29 [info]  Clicked on the 'Select Attribute AUT_Attributes_Media0927201650927'
+Sep 28,2016 16:36:29 [info]  Verified that Expected value :[10.1] is matched with Actual value :[10.1]
+Sep 28,2016 16:36:32 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Sep 28,2016 16:36:36 [info]  Verified that Expected value :[10.1] is matched with Actual value :[10.1]
+Sep 28,2016 16:36:36 [info]  Clicked on the 'Edit Button' using JS Executor
+Sep 28,2016 16:36:38 [info]  Clicked on the 'Select Attribute AUT_Attributes_Media0927201650927'
+Sep 28,2016 16:36:38 [info]  Clicked on the 'Value1 of AUT_Attributes_Film location0928201643512'
+Sep 28,2016 16:36:39 [info]  Entered "RSG3423423ab" in field 'AUT_Attributes_Media0927201650927's Value1 InputField'
+Sep 28,2016 16:36:39 [info]  Clicked on the 'Select Attribute AUT_Attributes_Media0927201650927'
+Sep 28,2016 16:36:40 [info]  Verified that Expected value :[RSG3423423ab] is matched with Actual value :[RSG3423423ab]
+Sep 28,2016 16:36:42 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Sep 28,2016 16:36:46 [info]  Verified that Expected value :[RSG3423423ab] is matched with Actual value :[RSG3423423ab]
+Sep 28,2016 16:36:46 [info]  Clicked on the 'Edit Button' using JS Executor
+Sep 28,2016 16:36:48 [info]  Clicked on the 'Select Attribute AUT_Attributes_Media0927201650927'
+Sep 28,2016 16:36:48 [info]  Clicked on the 'Value1 of AUT_Attributes_Film location0928201643512'
+Sep 28,2016 16:36:50 [info]  Entered "RSGab#$%^*%#$" in field 'AUT_Attributes_Media0927201650927's Value1 InputField'
+Sep 28,2016 16:36:51 [info]  Clicked on the 'Select Attribute AUT_Attributes_Media0927201650927'
+Sep 28,2016 16:36:51 [info]  Verified that Expected value :[RSGab#$%^*%#$] is matched with Actual value :[RSGab#$%^*%#$]
+Sep 28,2016 16:36:53 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Sep 28,2016 16:36:57 [info]  Verified that Expected value :[RSGab#$%^*%#$] is matched with Actual value :[RSGab#$%^*%#$]
+Sep 28,2016 16:36:57 [info]  Test 'TC3_ValueEnter_MediaAttribute' PASSED
+Sep 28,2016 16:36:58 [info]  Closed the Browser
+Sep 28,2016 16:40:42 [info]  ********************Started Executiong the Test Suite at 16:40:42******************
+Sep 28,2016 16:40:42 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Sep 28,2016 16:40:42 [info]  *********************Started Executing 'TC3_ValueEnter_MediaAttribute' Test Case*********************
+Sep 28,2016 16:40:51 [info]  Client: AMCN
+Sep 28,2016 16:40:51 [info]  URL: http://rlv2wb79/login.aspx
+Sep 28,2016 16:40:51 [info]  UserName: automation
+Sep 28,2016 16:40:51 [info]  Password: automation
+Sep 28,2016 16:40:52 [info]  Entered "automation" in field 'User Name'
+Sep 28,2016 16:40:52 [info]  Clicked on the 'Temporary Check Box'
+Sep 28,2016 16:40:53 [info]  Entered "automation" in field 'Password'
+Sep 28,2016 16:41:04 [info]  Clicked on the 'LoginButton'
+Sep 28,2016 16:41:59 [info]  Clicked on the 'Edit Button' using JS Executor
+Sep 28,2016 16:42:01 [info]  Clicked on the 'Select Attribute AUT_Attributes_Media0927201650927'
+Sep 28,2016 16:42:03 [info]  Clicked on the 'Value1 of AUT_Attributes_Film location0928201644042'
+Sep 28,2016 16:42:03 [info]  Entered "10.1" in field 'AUT_Attributes_Media0927201650927's Value1 InputField'
+Sep 28,2016 16:42:04 [info]  Clicked on the 'Select Attribute AUT_Attributes_Media0927201650927'
+Sep 28,2016 16:42:04 [info]  Verify The data of Data of Value1 Field of Attribute AUT_Attributes_Film location0928201644042 in Edit Mode
+Sep 28,2016 16:42:04 [info]  Verified that Expected value :[10.1] is matched with Actual value :[10.1]
+Sep 28,2016 16:42:07 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Sep 28,2016 16:42:10 [info]  Verify The data of Data of Value1 Field of Attribute AUT_Attributes_Film location0928201644042 in View Mode
+Sep 28,2016 16:42:10 [info]  Verified that Expected value :[10.1] is matched with Actual value :[10.1]
+Sep 28,2016 16:42:11 [info]  Clicked on the 'Edit Button' using JS Executor
+Sep 28,2016 16:42:12 [info]  Clicked on the 'Select Attribute AUT_Attributes_Media0927201650927'
+Sep 28,2016 16:42:13 [info]  Clicked on the 'Value1 of AUT_Attributes_Film location0928201644042'
+Sep 28,2016 16:42:13 [info]  Entered "RSG3423423ab" in field 'AUT_Attributes_Media0927201650927's Value1 InputField'
+Sep 28,2016 16:42:14 [info]  Clicked on the 'Select Attribute AUT_Attributes_Media0927201650927'
+Sep 28,2016 16:42:14 [info]  Verify The data of Data of Value1 Field of Attribute AUT_Attributes_Film location0928201644042 in Edit Mode
+Sep 28,2016 16:42:14 [info]  Verified that Expected value :[RSG3423423ab] is matched with Actual value :[RSG3423423ab]
+Sep 28,2016 16:42:16 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Sep 28,2016 16:42:20 [info]  Verify The data of Data of Value1 Field of Attribute AUT_Attributes_Film location0928201644042 in View Mode
+Sep 28,2016 16:42:20 [info]  Verified that Expected value :[RSG3423423ab] is matched with Actual value :[RSG3423423ab]
+Sep 28,2016 16:42:20 [info]  Clicked on the 'Edit Button' using JS Executor
+Sep 28,2016 16:42:22 [info]  Clicked on the 'Select Attribute AUT_Attributes_Media0927201650927'
+Sep 28,2016 16:42:22 [info]  Clicked on the 'Value1 of AUT_Attributes_Film location0928201644042'
+Sep 28,2016 16:42:24 [info]  Entered "RSGab#$%^*%#$" in field 'AUT_Attributes_Media0927201650927's Value1 InputField'
+Sep 28,2016 16:42:24 [info]  Clicked on the 'Select Attribute AUT_Attributes_Media0927201650927'
+Sep 28,2016 16:42:25 [info]  Verify The data of Data of Value1 Field of Attribute AUT_Attributes_Film location0928201644042 in Edit Mode
+Sep 28,2016 16:42:25 [info]  Verified that Expected value :[RSGab#$%^*%#$] is matched with Actual value :[RSGab#$%^*%#$]
+Sep 28,2016 16:42:27 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Sep 28,2016 16:42:31 [info]  Verify The data of Data of Value1 Field of Attribute AUT_Attributes_Film location0928201644042 in View Mode
+Sep 28,2016 16:42:31 [info]  Verified that Expected value :[RSGab#$%^*%#$] is matched with Actual value :[RSGab#$%^*%#$]
+Sep 28,2016 16:42:31 [info]  Test 'TC3_ValueEnter_MediaAttribute' PASSED
+Sep 28,2016 16:42:32 [info]  Closed the Browser
+Sep 28,2016 17:09:56 [info]  ********************Started Executiong the Test Suite at 17:09:56******************
+Sep 28,2016 17:09:56 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Sep 28,2016 17:09:56 [info]  *********************Started Executing 'TC2_ValueEnter_FilmLocationAttribute' Test Case*********************
+Sep 28,2016 17:10:06 [info]  Client: AMCN
+Sep 28,2016 17:10:06 [info]  URL: http://rlv2wb79/login.aspx
+Sep 28,2016 17:10:06 [info]  UserName: automation
+Sep 28,2016 17:10:06 [info]  Password: automation
+Sep 28,2016 17:10:07 [info]  Entered "automation" in field 'User Name'
+Sep 28,2016 17:10:07 [info]  Clicked on the 'Temporary Check Box'
+Sep 28,2016 17:10:08 [info]  Entered "automation" in field 'Password'
+Sep 28,2016 17:10:16 [info]  Clicked on the 'LoginButton'
+Sep 28,2016 17:11:41 [info]  Clicked on the 'Edit Button' using JS Executor
+Sep 28,2016 17:12:10 [info]  Clicked on the 'Value1 of AUT_Attributes_Film location0927201640644'
+Sep 28,2016 17:12:10 [info]  Entered "3423423" in field 'AM_AttributeValue1_InputField'
+Sep 28,2016 17:12:11 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Sep 28,2016 17:12:14 [info]  Verify The data of Alert Message on Entering Invalid Data for Attribute Value
+Sep 28,2016 17:12:14 [info]  Verified that Expected value :[Please enter only text for the attribute.] is matched with Actual value :[Please enter only text for the attribute.]
+Sep 28,2016 17:12:15 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Sep 28,2016 17:13:23 [info]  Clicked on the 'Value1 of AUT_Attributes_Film location0927201640644'
+Sep 28,2016 17:13:24 [info]  Entered "RSG3423423ab" in field 'AM_AttributeValue1_InputField'
+Sep 28,2016 17:13:25 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Sep 28,2016 17:13:29 [info]  Verify The data of Alert Message on Entering Invalid Data for Attribute Value
+Sep 28,2016 17:13:29 [info]  Verified that Expected value :[Please enter only text for the attribute.] is matched with Actual value :[Please enter only text for the attribute.]
+Sep 28,2016 17:13:29 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Sep 28,2016 17:13:34 [info]  Clicked on the 'Value1 of AUT_Attributes_Film location0927201640644'
+Sep 28,2016 17:13:36 [info]  Entered "RSGab#$%^*%#$" in field 'AM_AttributeValue1_InputField'
+Sep 28,2016 17:13:36 [info]  Clicked on the 'Select Attribute AUT_Attributes_Media_0928201650956'
+Sep 28,2016 17:13:36 [info]  Verify The data of  Value1 Field of Attribute AUT_Attributes_Film location0927201640644 in Edit Mode
+Sep 28,2016 17:13:36 [info]  Verified that Expected value :[RSGab#$%^*%#$] is matched with Actual value :[RSGab#$%^*%#$]
+Sep 28,2016 17:13:40 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Sep 28,2016 17:13:44 [info]  Verify The data of Value1 Field of Attribute AUT_Attributes_Film location0927201640644 in View Mode
+Sep 28,2016 17:13:44 [info]  Verified that Expected value :[RSGab#$%^*%#$] is matched with Actual value :[RSGab#$%^*%#$]
+Sep 28,2016 17:13:46 [info]  Test 'TC2_ValueEnter_FilmLocationAttribute' PASSED
+Sep 28,2016 17:13:47 [info]  Closed the Browser
+Sep 28,2016 17:19:34 [info]  ********************Started Executiong the Test Suite at 17:19:34******************
+Sep 28,2016 17:19:34 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Sep 28,2016 17:19:34 [info]  *********************Started Executing 'TC3_ValueEnter_MediaAttribute' Test Case*********************
+Sep 28,2016 17:19:44 [info]  Client: AMCN
+Sep 28,2016 17:19:44 [info]  URL: http://rlv2wb79/login.aspx
+Sep 28,2016 17:19:44 [info]  UserName: automation
+Sep 28,2016 17:19:44 [info]  Password: automation
+Sep 28,2016 17:19:45 [info]  Entered "automation" in field 'User Name'
+Sep 28,2016 17:19:45 [info]  Clicked on the 'Temporary Check Box'
+Sep 28,2016 17:19:46 [info]  Entered "automation" in field 'Password'
+Sep 28,2016 17:19:54 [info]  Clicked on the 'LoginButton'
+Sep 28,2016 17:20:52 [info]  Clicked on the 'Edit Button' using JS Executor
+Sep 28,2016 17:20:55 [info]  Clicked on the 'Value1 of AUT_Attributes_Media0927201650927'
+Sep 28,2016 17:20:56 [info]  Entered "10.1" in field 'AM_AttributeValue1_InputField'
+Sep 28,2016 17:20:56 [info]  Clicked on the 'Select Attribute AUT_Attributes_Media_0928201651934'
+Sep 28,2016 17:20:56 [info]  Verify The data of  Value1 Field of Attribute AUT_Attributes_Media0927201650927 in Edit Mode
+Sep 28,2016 17:20:56 [info]  Verified that Expected value :[10.1] is matched with Actual value :[10.1]
+Sep 28,2016 17:20:59 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Sep 28,2016 17:21:03 [info]  Verify The data of Value1 Field of Attribute AUT_Attributes_Media0927201650927 in View Mode
+Sep 28,2016 17:21:03 [info]  Verified that Expected value :[10.1] is matched with Actual value :[10.1]
+Sep 28,2016 17:21:04 [info]  Clicked on the 'Edit Button' using JS Executor
+Sep 28,2016 17:21:06 [info]  Clicked on the 'Value1 of AUT_Attributes_Media0927201650927'
+Sep 28,2016 17:21:06 [info]  Entered "RSG3423423ab" in field 'AM_AttributeValue1_InputField'
+Sep 28,2016 17:21:07 [info]  Clicked on the 'Select Attribute AUT_Attributes_Media_0928201651934'
+Sep 28,2016 17:21:07 [info]  Verify The data of  Value1 Field of Attribute AUT_Attributes_Media0927201650927 in Edit Mode
+Sep 28,2016 17:21:07 [info]  Verified that Expected value :[RSG3423423ab] is matched with Actual value :[RSG3423423ab]
+Sep 28,2016 17:21:09 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Sep 28,2016 17:21:13 [info]  Verify The data of Value1 Field of Attribute AUT_Attributes_Media0927201650927 in View Mode
+Sep 28,2016 17:21:13 [info]  Verified that Expected value :[RSG3423423ab] is matched with Actual value :[RSG3423423ab]
+Sep 28,2016 17:21:14 [info]  Clicked on the 'Edit Button' using JS Executor
+Sep 28,2016 17:21:16 [info]  Clicked on the 'Value1 of AUT_Attributes_Media0927201650927'
+Sep 28,2016 17:21:17 [info]  Entered "RSGab#$%^*%#$" in field 'AM_AttributeValue1_InputField'
+Sep 28,2016 17:21:18 [info]  Clicked on the 'Select Attribute AUT_Attributes_Media_0928201651934'
+Sep 28,2016 17:21:18 [info]  Verify The data of  Value1 Field of Attribute AUT_Attributes_Media0927201650927 in Edit Mode
+Sep 28,2016 17:21:18 [info]  Verified that Expected value :[RSGab#$%^*%#$] is matched with Actual value :[RSGab#$%^*%#$]
+Sep 28,2016 17:21:20 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Sep 28,2016 17:21:24 [info]  Verify The data of Value1 Field of Attribute AUT_Attributes_Media0927201650927 in View Mode
+Sep 28,2016 17:21:24 [info]  Verified that Expected value :[RSGab#$%^*%#$] is matched with Actual value :[RSGab#$%^*%#$]
+Sep 28,2016 17:21:24 [info]  Clicked on the 'Edit Button' using JS Executor
+Sep 28,2016 17:21:25 [info]  Test 'TC3_ValueEnter_MediaAttribute' PASSED
+Sep 28,2016 17:21:27 [info]  Closed the Browser
+Sep 28,2016 17:42:59 [info]  ********************Started Executiong the Test Suite at 17:42:59******************
+Sep 28,2016 17:42:59 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Sep 28,2016 17:42:59 [info]  *********************Started Executing 'TC2_ValueEnter_FilmLocationAttribute' Test Case*********************
+Sep 28,2016 17:43:15 [info]  Client: AMCN
+Sep 28,2016 17:43:15 [info]  URL: http://rlv2wb79/login.aspx
+Sep 28,2016 17:43:15 [info]  UserName: automation
+Sep 28,2016 17:43:15 [info]  Password: automation
+Sep 28,2016 17:43:17 [info]  Entered "automation" in field 'User Name'
+Sep 28,2016 17:43:17 [info]  Clicked on the 'Temporary Check Box'
+Sep 28,2016 17:43:18 [info]  Entered "automation" in field 'Password'
+Sep 28,2016 17:43:43 [info]  Clicked on the 'LoginButton'
+Sep 28,2016 17:43:56 [info]  Clicked on the 'MODULE'
+Sep 28,2016 17:44:17 [info]  Clicked on the 'Asset Maintenance'
+Sep 28,2016 17:44:20 [info]  Clicked on the 'Search Menu Icon' using JS Executor
+Sep 28,2016 17:44:21 [info]  Clicked on the 'AssetSearchUnderAsset' using JS Executor
+Sep 28,2016 17:44:35 [info]  Entered "AUT_AssetSeries_0927201661450" in field 'AssetTitle'
+Sep 28,2016 17:44:35 [info]  Clicked on the 'All Check Box' using JS Executor
+Sep 28,2016 17:44:36 [info]  Clicked on the 'Find Button' using JS Executor
+Sep 28,2016 17:45:17 [info]  Moved Mouse over 'First Asset in the Searched Asset'
+Sep 28,2016 17:45:17 [info]  Double clicked on 'First Asset in the Searched Asset'
+Sep 28,2016 17:45:20 [info]  Clicked on the 'View Asset' using JS Executor
+Sep 28,2016 17:45:38 [info]  Verified that Expected value :[AUT_AssetSeries_0927201661450] is matched with Actual value :[AUT_AssetSeries_0927201661450]
+Sep 28,2016 17:45:40 [info]  Clicked on the 'Attributes TAB'
+Sep 28,2016 17:45:44 [info]  Clicked on the 'Edit Button' using JS Executor
+Sep 28,2016 17:45:47 [info]  Clicked on the 'Value1 of AUT_Attributes_Film location0927201640644'
+Sep 28,2016 17:45:48 [info]  Entered "3423423" in field 'AM_AttributeValue1_InputField'
+Sep 28,2016 17:45:48 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Sep 28,2016 17:45:52 [info]  
+Sep 28,2016 17:45:52 [info]  Verify The data of Alert Message on Entering Invalid Data for Attribute Value
+Sep 28,2016 17:45:52 [info]  Verified that Expected value :[Please enter only text for the attribute.] is matched with Actual value :[Please enter only text for the attribute.]
+Sep 28,2016 17:45:52 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Sep 28,2016 17:45:53 [info]  Clicked on the 'Value1 of AUT_Attributes_Film location0927201640644'
+Sep 28,2016 17:45:54 [info]  Entered "RSG3423423ab" in field 'AM_AttributeValue1_InputField'
+Sep 28,2016 17:45:55 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Sep 28,2016 17:45:58 [info]  
+Sep 28,2016 17:45:58 [info]  Verify The data of Alert Message on Entering Invalid Data for Attribute Value
+Sep 28,2016 17:45:58 [info]  Verified that Expected value :[Please enter only text for the attribute.] is matched with Actual value :[Please enter only text for the attribute.]
+Sep 28,2016 17:45:58 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Sep 28,2016 17:46:00 [info]  Clicked on the 'Value1 of AUT_Attributes_Film location0927201640644'
+Sep 28,2016 17:46:01 [info]  Entered "RSGab#$%^*%#$" in field 'AM_AttributeValue1_InputField'
+Sep 28,2016 17:46:02 [info]  Clicked on the 'Select Attribute AUT_Attributes_Media_0928201654259'
+Sep 28,2016 17:46:02 [info]  
+Sep 28,2016 17:46:02 [info]  Verify The data of  Value1 Field of Attribute AUT_Attributes_Film location0927201640644 in Edit Mode
+Sep 28,2016 17:46:02 [info]  Verified that Expected value :[RSGab#$%^*%#$] is matched with Actual value :[RSGab#$%^*%#$]
+Sep 28,2016 17:46:05 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Sep 28,2016 17:46:09 [info]  
+Sep 28,2016 17:46:09 [info]  Verify The data of Value1 Field of Attribute AUT_Attributes_Film location0927201640644 in View Mode
+Sep 28,2016 17:46:09 [info]  Verified that Expected value :[RSGab#$%^*%#$] is matched with Actual value :[RSGab#$%^*%#$]
+Sep 28,2016 17:46:10 [info]  Clicked on the 'Edit Button' using JS Executor
+Sep 28,2016 17:46:11 [info]  Test 'TC2_ValueEnter_FilmLocationAttribute' PASSED
+Sep 28,2016 17:46:12 [info]  Closed the Browser
+Sep 28,2016 17:46:12 [info]  *********************Started Executing 'TC3_ValueEnter_MediaAttribute' Test Case*********************
+Sep 28,2016 17:46:22 [info]  Client: AMCN
+Sep 28,2016 17:46:22 [info]  URL: http://rlv2wb79/login.aspx
+Sep 28,2016 17:46:22 [info]  UserName: automation
+Sep 28,2016 17:46:22 [info]  Password: automation
+Sep 28,2016 17:46:23 [info]  Entered "automation" in field 'User Name'
+Sep 28,2016 17:46:23 [info]  Clicked on the 'Temporary Check Box'
+Sep 28,2016 17:46:24 [info]  Entered "automation" in field 'Password'
+Sep 28,2016 17:46:39 [info]  Clicked on the 'LoginButton'
+Sep 28,2016 17:46:49 [info]  Clicked on the 'MODULE'
+Sep 28,2016 17:47:11 [info]  Clicked on the 'Asset Maintenance'
+Sep 28,2016 17:47:15 [info]  Clicked on the 'Search Menu Icon' using JS Executor
+Sep 28,2016 17:47:15 [info]  Clicked on the 'AssetSearchUnderAsset' using JS Executor
+Sep 28,2016 17:47:29 [info]  Entered "AUT_AssetSeries_0927201661450" in field 'AssetTitle'
+Sep 28,2016 17:47:29 [info]  Clicked on the 'All Check Box' using JS Executor
+Sep 28,2016 17:47:29 [info]  Clicked on the 'Find Button' using JS Executor
+Sep 28,2016 17:48:05 [info]  Moved Mouse over 'First Asset in the Searched Asset'
+Sep 28,2016 17:48:06 [info]  Double clicked on 'First Asset in the Searched Asset'
+Sep 28,2016 17:48:09 [info]  Clicked on the 'View Asset' using JS Executor
+Sep 28,2016 17:48:28 [info]  Verified that Expected value :[AUT_AssetSeries_0927201661450] is matched with Actual value :[AUT_AssetSeries_0927201661450]
+Sep 28,2016 17:48:30 [info]  Clicked on the 'Attributes TAB'
+Sep 28,2016 17:48:34 [info]  Clicked on the 'Edit Button' using JS Executor
+Sep 28,2016 17:48:36 [info]  Clicked on the 'Value1 of AUT_Attributes_Media0927201650927'
+Sep 28,2016 17:48:37 [info]  Entered "10.1" in field 'AM_AttributeValue1_InputField'
+Sep 28,2016 17:48:37 [info]  Clicked on the 'Select Attribute AUT_Attributes_Media_0928201654259'
+Sep 28,2016 17:48:37 [info]  
+Sep 28,2016 17:48:38 [info]  Verify The data of  Value1 Field of Attribute AUT_Attributes_Media0927201650927 in Edit Mode
+Sep 28,2016 17:48:38 [info]  Verified that Expected value :[10.1] is matched with Actual value :[10.1]
+Sep 28,2016 17:48:40 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Sep 28,2016 17:48:44 [info]  
+Sep 28,2016 17:48:44 [info]  Verify The data of Value1 Field of Attribute AUT_Attributes_Media0927201650927 in View Mode
+Sep 28,2016 17:48:44 [info]  Verified that Expected value :[10.1] is matched with Actual value :[10.1]
+Sep 28,2016 17:48:45 [info]  Clicked on the 'Edit Button' using JS Executor
+Sep 28,2016 17:48:47 [info]  Clicked on the 'Value1 of AUT_Attributes_Media0927201650927'
+Sep 28,2016 17:48:48 [info]  Entered "RSG3423423ab" in field 'AM_AttributeValue1_InputField'
+Sep 28,2016 17:48:48 [info]  Clicked on the 'Select Attribute AUT_Attributes_Media_0928201654259'
+Sep 28,2016 17:48:48 [info]  
+Sep 28,2016 17:48:48 [info]  Verify The data of  Value1 Field of Attribute AUT_Attributes_Media0927201650927 in Edit Mode
+Sep 28,2016 17:48:48 [info]  Verified that Expected value :[RSG3423423ab] is matched with Actual value :[RSG3423423ab]
+Sep 28,2016 17:48:52 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Sep 28,2016 17:48:56 [info]  
+Sep 28,2016 17:48:56 [info]  Verify The data of Value1 Field of Attribute AUT_Attributes_Media0927201650927 in View Mode
+Sep 28,2016 17:48:56 [info]  Verified that Expected value :[RSG3423423ab] is matched with Actual value :[RSG3423423ab]
+Sep 28,2016 17:48:56 [info]  Clicked on the 'Edit Button' using JS Executor
+Sep 28,2016 17:48:58 [info]  Clicked on the 'Value1 of AUT_Attributes_Media0927201650927'
+Sep 28,2016 17:49:00 [info]  Entered "RSGab#$%^*%#$" in field 'AM_AttributeValue1_InputField'
+Sep 28,2016 17:49:01 [info]  Clicked on the 'Select Attribute AUT_Attributes_Media_0928201654259'
+Sep 28,2016 17:49:01 [info]  
+Sep 28,2016 17:49:01 [info]  Verify The data of  Value1 Field of Attribute AUT_Attributes_Media0927201650927 in Edit Mode
+Sep 28,2016 17:49:01 [info]  Verified that Expected value :[RSGab#$%^*%#$] is matched with Actual value :[RSGab#$%^*%#$]
+Sep 28,2016 17:49:04 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Sep 28,2016 17:49:07 [info]  
+Sep 28,2016 17:49:07 [info]  Verify The data of Value1 Field of Attribute AUT_Attributes_Media0927201650927 in View Mode
+Sep 28,2016 17:49:07 [info]  Verified that Expected value :[RSGab#$%^*%#$] is matched with Actual value :[RSGab#$%^*%#$]
+Sep 28,2016 17:49:08 [info]  Clicked on the 'Edit Button' using JS Executor
+Sep 28,2016 17:49:10 [info]  Test 'TC3_ValueEnter_MediaAttribute' PASSED
+Sep 28,2016 17:49:11 [info]  Closed the Browser
+Sep 28,2016 17:49:11 [info]  *********************Started Executing 'TC4_ValueEnter_Numeric1Attribute' Test Case*********************
+Sep 28,2016 17:49:20 [info]  Client: AMCN
+Sep 28,2016 17:49:20 [info]  URL: http://rlv2wb79/login.aspx
+Sep 28,2016 17:49:20 [info]  UserName: automation
+Sep 28,2016 17:49:20 [info]  Password: automation
+Sep 28,2016 17:49:21 [info]  Entered "automation" in field 'User Name'
+Sep 28,2016 17:49:22 [info]  Clicked on the 'Temporary Check Box'
+Sep 28,2016 17:49:22 [info]  Entered "automation" in field 'Password'
+Sep 28,2016 17:49:33 [info]  Clicked on the 'LoginButton'
+Sep 28,2016 17:49:43 [info]  Clicked on the 'MODULE'
+Sep 28,2016 17:50:06 [info]  Clicked on the 'Asset Maintenance'
+Sep 28,2016 17:50:09 [info]  Clicked on the 'Search Menu Icon' using JS Executor
+Sep 28,2016 17:50:10 [info]  Clicked on the 'AssetSearchUnderAsset' using JS Executor
+Sep 28,2016 17:50:24 [info]  Entered "AUT_AssetSeries_0927201661450" in field 'AssetTitle'
+Sep 28,2016 17:50:24 [info]  Clicked on the 'All Check Box' using JS Executor
+Sep 28,2016 17:50:25 [info]  Clicked on the 'Find Button' using JS Executor
+Sep 28,2016 17:51:02 [info]  Moved Mouse over 'First Asset in the Searched Asset'
+Sep 28,2016 17:51:03 [info]  Double clicked on 'First Asset in the Searched Asset'
+Sep 28,2016 17:51:06 [info]  Clicked on the 'View Asset' using JS Executor
+Sep 28,2016 17:51:27 [info]  Verified that Expected value :[AUT_AssetSeries_0927201661450] is matched with Actual value :[AUT_AssetSeries_0927201661450]
+Sep 28,2016 17:51:29 [info]  Clicked on the 'Attributes TAB'
+Sep 28,2016 17:51:33 [info]  Clicked on the 'Edit Button' using JS Executor
+Sep 28,2016 17:51:35 [info]  Clicked on the 'Value1 of AUT_Attributes_ NUMERIC 10927201650927'
+Sep 28,2016 17:51:36 [info]  Entered "RSG3423423" in field 'AM_AttributeValue1_InputField'
+Sep 28,2016 17:51:36 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Sep 28,2016 17:51:40 [info]  
+Sep 28,2016 17:51:40 [info]  Verify The data of Alert Message on Entering Invalid Data for Attribute Value
+Sep 28,2016 17:51:40 [info]  ====Failed==== Expected value is:[Please enter only text for the attribute.] but Actual value is[Please enter valid numeric values for the attribute.]. Please check the screenshot with name: Alert Message on Entering Invalid Data for Attribute Valuefor more details
+Sep 28,2016 17:51:41 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Sep2016\\28\Alert Message on Entering Invalid Data for Attribute Value_CheckpointFailure_09-28-2016 5-51-40 PM.jpg
+Sep 28,2016 17:51:41 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Sep 28,2016 17:51:42 [info]  Clicked on the 'Value1 of AUT_Attributes_ NUMERIC 10927201650927'
+Sep 28,2016 17:51:44 [info]  Entered "RSGab#$%^*%#$" in field 'AM_AttributeValue1_InputField'
+Sep 28,2016 17:51:45 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Sep 28,2016 17:51:48 [info]  
+Sep 28,2016 17:51:48 [info]  Verify The data of Alert Message on Entering Invalid Data for Attribute Value
+Sep 28,2016 17:51:48 [info]  ====Failed==== Expected value is:[Please enter only text for the attribute.] but Actual value is[Please enter valid numeric values for the attribute.]. Please check the screenshot with name: Alert Message on Entering Invalid Data for Attribute Valuefor more details
+Sep 28,2016 17:51:48 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Sep2016\\28\Alert Message on Entering Invalid Data for Attribute Value_CheckpointFailure_09-28-2016 5-51-48 PM.jpg
+Sep 28,2016 17:51:49 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Sep 28,2016 17:51:50 [info]  Clicked on the 'Value1 of AUT_Attributes_ NUMERIC 10927201650927'
+Sep 28,2016 17:51:50 [info]  Entered "10.32" in field 'AM_AttributeValue1_InputField'
+Sep 28,2016 17:51:51 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Sep 28,2016 17:51:54 [info]  
+Sep 28,2016 17:51:55 [info]  Verify The data of Alert Message on Entering Invalid Data for Attribute Value
+Sep 28,2016 17:51:55 [info]  ====Failed==== Expected value is:[Please enter only text for the attribute.] but Actual value is[Please enter valid numeric values for the attribute.]. Please check the screenshot with name: Alert Message on Entering Invalid Data for Attribute Valuefor more details
+Sep 28,2016 17:51:55 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Sep2016\\28\Alert Message on Entering Invalid Data for Attribute Value_CheckpointFailure_09-28-2016 5-51-55 PM.jpg
+Sep 28,2016 17:51:55 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Sep 28,2016 17:51:56 [info]  Clicked on the 'Value1 of AUT_Attributes_ NUMERIC 10927201650927'
+Sep 28,2016 17:51:57 [info]  Entered "342342" in field 'AM_AttributeValue1_InputField'
+Sep 28,2016 17:51:57 [info]  Clicked on the 'Select Attribute AUT_Attributes_Media_0928201654259'
+Sep 28,2016 17:51:57 [info]  
+Sep 28,2016 17:51:57 [info]  Verify The data of  Value1 Field of Attribute AUT_Attributes_ NUMERIC 10927201650927 in Edit Mode
+Sep 28,2016 17:51:57 [info]  Verified that Expected value :[342342] is matched with Actual value :[342342]
+Sep 28,2016 17:52:00 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Sep 28,2016 17:52:04 [info]  
+Sep 28,2016 17:52:04 [info]  Verify The data of Value1 Field of Attribute AUT_Attributes_ NUMERIC 10927201650927 in View Mode
+Sep 28,2016 17:52:04 [info]  Verified that Expected value :[342342] is matched with Actual value :[342342]
+Sep 28,2016 17:52:04 [info]  Clicked on the 'Edit Button' using JS Executor
+Sep 28,2016 17:52:05 [info]  Test 'TC4_ValueEnter_Numeric1Attribute' PASSED
+Sep 28,2016 17:52:06 [info]  Closed the Browser
+Sep 28,2016 17:52:06 [info]  *********************Started Executing 'TC5_ValueEnter_Numeric2Attribute' Test Case*********************
+Sep 28,2016 17:52:16 [info]  Client: AMCN
+Sep 28,2016 17:52:16 [info]  URL: http://rlv2wb79/login.aspx
+Sep 28,2016 17:52:16 [info]  UserName: automation
+Sep 28,2016 17:52:16 [info]  Password: automation
+Sep 28,2016 17:52:17 [info]  Entered "automation" in field 'User Name'
+Sep 28,2016 17:52:17 [info]  Clicked on the 'Temporary Check Box'
+Sep 28,2016 17:52:18 [info]  Entered "automation" in field 'Password'
+Sep 28,2016 17:52:31 [info]  Clicked on the 'LoginButton'
+Sep 28,2016 17:52:41 [info]  Clicked on the 'MODULE'
+Sep 28,2016 17:53:02 [info]  Clicked on the 'Asset Maintenance'
+Sep 28,2016 17:53:06 [info]  Clicked on the 'Search Menu Icon' using JS Executor
+Sep 28,2016 17:53:06 [info]  Clicked on the 'AssetSearchUnderAsset' using JS Executor
+Sep 28,2016 17:53:20 [info]  Entered "AUT_AssetSeries_0927201661450" in field 'AssetTitle'
+Sep 28,2016 17:53:20 [info]  Clicked on the 'All Check Box' using JS Executor
+Sep 28,2016 17:53:20 [info]  Clicked on the 'Find Button' using JS Executor
+Sep 28,2016 17:53:59 [info]  Moved Mouse over 'First Asset in the Searched Asset'
+Sep 28,2016 17:54:00 [info]  Double clicked on 'First Asset in the Searched Asset'
+Sep 28,2016 17:54:03 [info]  Clicked on the 'View Asset' using JS Executor
+Sep 28,2016 17:54:20 [info]  Verified that Expected value :[AUT_AssetSeries_0927201661450] is matched with Actual value :[AUT_AssetSeries_0927201661450]
+Sep 28,2016 17:54:22 [info]  Clicked on the 'Attributes TAB'
+Sep 28,2016 17:54:26 [info]  Clicked on the 'Edit Button' using JS Executor
+Sep 28,2016 17:54:27 [info]  Clicked on the 'Value1 of AUT_Attributes_NUMERIC 20927201650927'
+Sep 28,2016 17:54:28 [info]  Entered "RSG3423423" in field 'AM_AttributeValue1_InputField'
+Sep 28,2016 17:54:29 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Sep 28,2016 17:54:32 [info]  
+Sep 28,2016 17:54:32 [info]  Verify The data of Alert Message on Entering Invalid Data for Attribute Value
+Sep 28,2016 17:54:32 [info]  ====Failed==== Expected value is:[Please enter only text for the attribute.] but Actual value is[Please enter decimal values for the attribute.]. Please check the screenshot with name: Alert Message on Entering Invalid Data for Attribute Valuefor more details
+Sep 28,2016 17:54:32 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Sep2016\\28\Alert Message on Entering Invalid Data for Attribute Value_CheckpointFailure_09-28-2016 5-54-32 PM.jpg
+Sep 28,2016 17:54:33 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Sep 28,2016 17:54:34 [info]  Clicked on the 'Value1 of AUT_Attributes_NUMERIC 20927201650927'
+Sep 28,2016 17:54:36 [info]  Entered "RSGab#$%^*%#$" in field 'AM_AttributeValue1_InputField'
+Sep 28,2016 17:54:36 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Sep 28,2016 17:54:39 [info]  
+Sep 28,2016 17:54:40 [info]  Verify The data of Alert Message on Entering Invalid Data for Attribute Value
+Sep 28,2016 17:54:40 [info]  ====Failed==== Expected value is:[Please enter only text for the attribute.] but Actual value is[Please enter decimal values for the attribute.]. Please check the screenshot with name: Alert Message on Entering Invalid Data for Attribute Valuefor more details
+Sep 28,2016 17:54:40 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Sep2016\\28\Alert Message on Entering Invalid Data for Attribute Value_CheckpointFailure_09-28-2016 5-54-40 PM.jpg
+Sep 28,2016 17:54:40 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Sep 28,2016 17:54:51 [info]  ====Failed==== "Value1 of AUT_Attributes_ NUMERIC 1_0928201654259" field is not present'
+Sep 28,2016 17:54:51 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Sep2016\\28\Value1 of AUT_Attributes_ NUMERIC 1_0928201654259_CheckpointFailure_09-28-2016 5-54-51 PM.jpg
+Sep 28,2016 17:54:52 [info]  ====Failed==== "AM_AttributeValue1_InputField" field is not present'AM_AttributeValue1_InputField'
+Sep 28,2016 17:54:52 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Sep2016\\28\AM_AttributeValue1_InputField_CheckpointFailure_09-28-2016 5-54-52 PM.jpg
+Sep 28,2016 17:54:56 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Sep 28,2016 17:54:59 [info]  
+Sep 28,2016 17:54:59 [info]  Verify The data of Alert Message on Entering Invalid Data for Attribute Value
+Sep 28,2016 17:54:59 [info]  ====Failed==== Expected value is:[Please enter only text for the attribute.] but Actual value is[]. Please check the screenshot with name: Alert Message on Entering Invalid Data for Attribute Valuefor more details
+Sep 28,2016 17:55:00 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Sep2016\\28\Alert Message on Entering Invalid Data for Attribute Value_CheckpointFailure_09-28-2016 5-54-59 PM.jpg
+Sep 28,2016 17:55:00 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Sep 28,2016 17:55:10 [info]  ====Failed==== " Could not find the Frame: div[id*='WebDialogWindow1'][style*=visible]
+Sep 28,2016 17:55:10 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Sep2016\\28\FrameSwitchingFailed0_CheckpointFailure_09-28-2016 5-55-10 PM.jpg
+Sep 28,2016 17:55:20 [info]  ====Failed==== " Could not find the Frame: div[id*='WebDialogWindow1'][style*=visible]
+Sep 28,2016 17:55:20 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Sep2016\\28\FrameSwitchingFailed1_CheckpointFailure_09-28-2016 5-55-20 PM.jpg
+Sep 28,2016 17:55:31 [info]  ====Failed==== "Value1 of AUT_Attributes_ NUMERIC 1_0928201654259" field is not present'
+Sep 28,2016 17:55:31 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Sep2016\\28\Value1 of AUT_Attributes_ NUMERIC 1_0928201654259_CheckpointFailure_09-28-2016 5-55-31 PM.jpg
+Sep 28,2016 17:55:41 [info]  ====Failed==== "AM_AttributeValue1_InputField" field is not present'AM_AttributeValue1_InputField'
+Sep 28,2016 17:55:41 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Sep2016\\28\AM_AttributeValue1_InputField_CheckpointFailure_09-28-2016 5-55-41 PM.jpg
+Sep 28,2016 17:55:51 [info]  ====Failed==== "Select Attribute AUT_Attributes_Media_0928201654259" field is not present'
+Sep 28,2016 17:55:51 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Sep2016\\28\Select Attribute AUT_Attributes_Media_0928201654259_CheckpointFailure_09-28-2016 5-55-51 PM.jpg
+Sep 28,2016 17:55:51 [info]  
+Sep 28,2016 17:56:02 [info]  Verify The data of  Value1 Field of Attribute AUT_Attributes_ NUMERIC 1_0928201654259 in Edit Mode
+Sep 28,2016 17:56:02 [info]  ====Failed==== Expected value is:[342342.33] but Actual value is[]. Please check the screenshot with name:  Value1 Field of Attribute AUT_Attributes_ NUMERIC 1_0928201654259 in Edit Modefor more details
+Sep 28,2016 17:56:02 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Sep2016\\28\ Value1 Field of Attribute AUT_Attributes_ NUMERIC 1_0928201654259 in Edit Mode_CheckpointFailure_09-28-2016 5-56-02 PM.jpg
+Sep 28,2016 17:56:12 [info]  ====Failed==== "Save Button at 'Attribute Edit Window'" field is not present'
+Sep 28,2016 17:56:12 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Sep2016\\28\Save Button at 'Attribute Edit Window'_CheckpointFailure_09-28-2016 5-56-12 PM.jpg
+Sep 28,2016 17:56:16 [info]  
+Sep 28,2016 17:56:26 [info]  Verify The data of Value1 Field of Attribute AUT_Attributes_ NUMERIC 1_0928201654259 in View Mode
+Sep 28,2016 17:56:26 [info]  ====Failed==== Expected value is:[342342.33] but Actual value is[]. Please check the screenshot with name: Value1 Field of Attribute AUT_Attributes_ NUMERIC 1_0928201654259 in View Modefor more details
+Sep 28,2016 17:56:26 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Sep2016\\28\Value1 Field of Attribute AUT_Attributes_ NUMERIC 1_0928201654259 in View Mode_CheckpointFailure_09-28-2016 5-56-26 PM.jpg
+Sep 28,2016 17:56:26 [info]  Clicked on the 'Edit Button' using JS Executor
+Sep 28,2016 17:56:28 [info]  Test 'TC5_ValueEnter_Numeric2Attribute' PASSED
+Sep 28,2016 17:56:29 [info]  Closed the Browser
+Sep 28,2016 17:56:29 [info]  *********************Started Executing 'TC6_ValueEnter_Currency1Attribute' Test Case*********************
+Sep 28,2016 17:56:38 [info]  Client: AMCN
+Sep 28,2016 17:56:38 [info]  URL: http://rlv2wb79/login.aspx
+Sep 28,2016 17:56:38 [info]  UserName: automation
+Sep 28,2016 17:56:38 [info]  Password: automation
+Sep 28,2016 17:56:40 [info]  Entered "automation" in field 'User Name'
+Sep 28,2016 17:56:40 [info]  Clicked on the 'Temporary Check Box'
+Sep 28,2016 17:56:41 [info]  Entered "automation" in field 'Password'
+Sep 28,2016 17:56:56 [info]  Clicked on the 'LoginButton'
+Sep 28,2016 17:57:06 [info]  Clicked on the 'MODULE'
+Sep 28,2016 17:57:28 [info]  Clicked on the 'Asset Maintenance'
+Sep 28,2016 17:57:32 [info]  Clicked on the 'Search Menu Icon' using JS Executor
+Sep 28,2016 17:57:32 [info]  Clicked on the 'AssetSearchUnderAsset' using JS Executor
+Sep 28,2016 17:57:46 [info]  Entered "AUT_AssetSeries_0927201661450" in field 'AssetTitle'
+Sep 28,2016 17:57:46 [info]  Clicked on the 'All Check Box' using JS Executor
+Sep 28,2016 17:57:46 [info]  Clicked on the 'Find Button' using JS Executor
+Sep 28,2016 17:58:34 [info]  Moved Mouse over 'First Asset in the Searched Asset'
+Sep 28,2016 17:58:35 [info]  Double clicked on 'First Asset in the Searched Asset'
+Sep 28,2016 17:58:39 [info]  Clicked on the 'View Asset' using JS Executor
+Sep 28,2016 17:58:56 [info]  Verified that Expected value :[AUT_AssetSeries_0927201661450] is matched with Actual value :[AUT_AssetSeries_0927201661450]
+Sep 28,2016 17:58:58 [info]  Clicked on the 'Attributes TAB'
+Sep 28,2016 17:59:02 [info]  Clicked on the 'Edit Button' using JS Executor
+Sep 28,2016 17:59:04 [info]  Clicked on the 'Value1 of AUT_Attributes_CURRENCY 10927201650927'
+Sep 28,2016 17:59:05 [info]  Entered "RSG3423423" in field 'AM_AttributeValue1_InputField'
+Sep 28,2016 17:59:05 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Sep 28,2016 17:59:09 [info]  
+Sep 28,2016 17:59:09 [info]  Verify The data of Alert Message on Entering Invalid Data for Attribute Value
+Sep 28,2016 17:59:09 [info]  ====Failed==== Expected value is:[Please enter only text for the attribute.] but Actual value is[Please enter valid numeric values for the attribute.]. Please check the screenshot with name: Alert Message on Entering Invalid Data for Attribute Valuefor more details
+Sep 28,2016 17:59:09 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Sep2016\\28\Alert Message on Entering Invalid Data for Attribute Value_CheckpointFailure_09-28-2016 5-59-09 PM.jpg
+Sep 28,2016 17:59:09 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Sep 28,2016 17:59:11 [info]  Clicked on the 'Value1 of AUT_Attributes_CURRENCY 10927201650927'
+Sep 28,2016 17:59:12 [info]  Entered "12RSGab#$%^*%#$" in field 'AM_AttributeValue1_InputField'
+Sep 28,2016 17:59:13 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Sep 28,2016 17:59:16 [info]  
+Sep 28,2016 17:59:17 [info]  Verify The data of Alert Message on Entering Invalid Data for Attribute Value
+Sep 28,2016 17:59:17 [info]  ====Failed==== Expected value is:[Please enter only text for the attribute.] but Actual value is[Please enter valid numeric values for the attribute.]. Please check the screenshot with name: Alert Message on Entering Invalid Data for Attribute Valuefor more details
+Sep 28,2016 17:59:17 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Sep2016\\28\Alert Message on Entering Invalid Data for Attribute Value_CheckpointFailure_09-28-2016 5-59-17 PM.jpg
+Sep 28,2016 17:59:17 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Sep 28,2016 17:59:18 [info]  Clicked on the 'Value1 of AUT_Attributes_CURRENCY 10927201650927'
+Sep 28,2016 17:59:19 [info]  Entered "10.32" in field 'AM_AttributeValue1_InputField'
+Sep 28,2016 17:59:19 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Sep 28,2016 17:59:23 [info]  
+Sep 28,2016 17:59:23 [info]  Verify The data of Alert Message on Entering Invalid Data for Attribute Value
+Sep 28,2016 17:59:23 [info]  ====Failed==== Expected value is:[Please enter only text for the attribute.] but Actual value is[Please enter non decimal values for the attribute.]. Please check the screenshot with name: Alert Message on Entering Invalid Data for Attribute Valuefor more details
+Sep 28,2016 17:59:23 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Sep2016\\28\Alert Message on Entering Invalid Data for Attribute Value_CheckpointFailure_09-28-2016 5-59-23 PM.jpg
+Sep 28,2016 17:59:23 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Sep 28,2016 17:59:34 [info]  ====Failed==== "Value1 of AUT_Attributes_ NUMERIC 1_0928201654259" field is not present'
+Sep 28,2016 17:59:34 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Sep2016\\28\Value1 of AUT_Attributes_ NUMERIC 1_0928201654259_CheckpointFailure_09-28-2016 5-59-34 PM.jpg
+Sep 28,2016 17:59:34 [info]  ====Failed==== "AM_AttributeValue1_InputField" field is not present'AM_AttributeValue1_InputField'
+Sep 28,2016 17:59:35 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Sep2016\\28\AM_AttributeValue1_InputField_CheckpointFailure_09-28-2016 5-59-34 PM.jpg
+Sep 28,2016 17:59:45 [info]  ====Failed==== "Select Attribute AUT_Attributes_Media_0928201654259" field is not present'
+Sep 28,2016 17:59:45 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Sep2016\\28\Select Attribute AUT_Attributes_Media_0928201654259_CheckpointFailure_09-28-2016 5-59-45 PM.jpg
+Sep 28,2016 17:59:45 [info]  
+Sep 28,2016 17:59:55 [info]  Verify The data of  Value1 Field of Attribute AUT_Attributes_ NUMERIC 1_0928201654259 in Edit Mode
+Sep 28,2016 17:59:55 [info]  ====Failed==== Expected value is:[342342] but Actual value is[]. Please check the screenshot with name:  Value1 Field of Attribute AUT_Attributes_ NUMERIC 1_0928201654259 in Edit Modefor more details
+Sep 28,2016 17:59:55 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Sep2016\\28\ Value1 Field of Attribute AUT_Attributes_ NUMERIC 1_0928201654259 in Edit Mode_CheckpointFailure_09-28-2016 5-59-55 PM.jpg
+Sep 28,2016 17:59:58 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Sep 28,2016 18:00:02 [info]  
+Sep 28,2016 18:00:12 [info]  Verify The data of Value1 Field of Attribute AUT_Attributes_ NUMERIC 1_0928201654259 in View Mode
+Sep 28,2016 18:00:12 [info]  ====Failed==== Expected value is:[342342] but Actual value is[]. Please check the screenshot with name: Value1 Field of Attribute AUT_Attributes_ NUMERIC 1_0928201654259 in View Modefor more details
+Sep 28,2016 18:00:12 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Sep2016\\28\Value1 Field of Attribute AUT_Attributes_ NUMERIC 1_0928201654259 in View Mode_CheckpointFailure_09-28-2016 6-00-12 PM.jpg
+Sep 28,2016 18:00:13 [info]  Clicked on the 'Edit Button' using JS Executor
+Sep 28,2016 18:00:14 [info]  Test 'TC6_ValueEnter_Currency1Attribute' PASSED
+Sep 28,2016 18:00:15 [info]  Closed the Browser
+Sep 28,2016 18:00:15 [info]  *********************Started Executing 'TC7_ValueEnter_Currency2Attribute' Test Case*********************
+Sep 28,2016 18:00:25 [info]  Client: AMCN
+Sep 28,2016 18:00:25 [info]  URL: http://rlv2wb79/login.aspx
+Sep 28,2016 18:00:25 [info]  UserName: automation
+Sep 28,2016 18:00:25 [info]  Password: automation
+Sep 28,2016 18:00:26 [info]  Entered "automation" in field 'User Name'
+Sep 28,2016 18:00:26 [info]  Clicked on the 'Temporary Check Box'
+Sep 28,2016 18:00:27 [info]  Entered "automation" in field 'Password'
+Sep 28,2016 18:00:42 [info]  Clicked on the 'LoginButton'
+Sep 28,2016 18:00:52 [info]  Clicked on the 'MODULE'
+Sep 28,2016 18:01:15 [info]  Clicked on the 'Asset Maintenance'
+Sep 28,2016 18:01:19 [info]  Clicked on the 'Search Menu Icon' using JS Executor
+Sep 28,2016 18:01:19 [info]  Clicked on the 'AssetSearchUnderAsset' using JS Executor
+Sep 28,2016 18:01:32 [info]  Entered "AUT_AssetSeries_0927201661450" in field 'AssetTitle'
+Sep 28,2016 18:01:32 [info]  Clicked on the 'All Check Box' using JS Executor
+Sep 28,2016 18:01:32 [info]  Clicked on the 'Find Button' using JS Executor
+Sep 28,2016 18:02:12 [info]  Moved Mouse over 'First Asset in the Searched Asset'
+Sep 28,2016 18:02:13 [info]  Double clicked on 'First Asset in the Searched Asset'
+Sep 28,2016 18:02:16 [info]  Clicked on the 'View Asset' using JS Executor
+Sep 28,2016 18:02:37 [info]  Verified that Expected value :[AUT_AssetSeries_0927201661450] is matched with Actual value :[AUT_AssetSeries_0927201661450]
+Sep 28,2016 18:02:39 [info]  Clicked on the 'Attributes TAB'
+Sep 28,2016 18:02:43 [info]  Clicked on the 'Edit Button' using JS Executor
+Sep 28,2016 18:02:45 [info]  Clicked on the 'Value1 of AUT_Attributes_CURRENCY 20927201650927'
+Sep 28,2016 18:02:46 [info]  Entered "RSG3423423" in field 'AM_AttributeValue1_InputField'
+Sep 28,2016 18:02:46 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Sep 28,2016 18:02:49 [info]  
+Sep 28,2016 18:02:50 [info]  Verify The data of Alert Message on Entering Invalid Data for Attribute Value
+Sep 28,2016 18:02:50 [info]  ====Failed==== Expected value is:[Please enter only text for the attribute.] but Actual value is[Please enter valid decimal values for the attribute.]. Please check the screenshot with name: Alert Message on Entering Invalid Data for Attribute Valuefor more details
+Sep 28,2016 18:02:50 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Sep2016\\28\Alert Message on Entering Invalid Data for Attribute Value_CheckpointFailure_09-28-2016 6-02-50 PM.jpg
+Sep 28,2016 18:02:50 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Sep 28,2016 18:02:51 [info]  Clicked on the 'Value1 of AUT_Attributes_CURRENCY 20927201650927'
+Sep 28,2016 18:02:53 [info]  Entered "12RSGab#$%^*%#$" in field 'AM_AttributeValue1_InputField'
+Sep 28,2016 18:02:53 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Sep 28,2016 18:02:56 [info]  
+Sep 28,2016 18:02:57 [info]  Verify The data of Alert Message on Entering Invalid Data for Attribute Value
+Sep 28,2016 18:02:57 [info]  ====Failed==== Expected value is:[Please enter only text for the attribute.] but Actual value is[Please enter valid decimal values for the attribute.]. Please check the screenshot with name: Alert Message on Entering Invalid Data for Attribute Valuefor more details
+Sep 28,2016 18:02:57 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Sep2016\\28\Alert Message on Entering Invalid Data for Attribute Value_CheckpointFailure_09-28-2016 6-02-57 PM.jpg
+Sep 28,2016 18:02:57 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Sep 28,2016 18:02:58 [info]  Clicked on the 'Value1 of AUT_Attributes_CURRENCY 20927201650927'
+Sep 28,2016 18:02:58 [info]  Entered "10003" in field 'AM_AttributeValue1_InputField'
+Sep 28,2016 18:02:59 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Sep 28,2016 18:03:02 [info]  
+Sep 28,2016 18:03:02 [info]  Verify The data of Alert Message on Entering Invalid Data for Attribute Value
+Sep 28,2016 18:03:02 [info]  ====Failed==== Expected value is:[Please enter only text for the attribute.] but Actual value is[Please enter decimal values for the attribute.]. Please check the screenshot with name: Alert Message on Entering Invalid Data for Attribute Valuefor more details
+Sep 28,2016 18:03:03 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Sep2016\\28\Alert Message on Entering Invalid Data for Attribute Value_CheckpointFailure_09-28-2016 6-03-02 PM.jpg
+Sep 28,2016 18:03:03 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Sep 28,2016 18:03:13 [info]  ====Failed==== "Value1 of AUT_Attributes_ NUMERIC 1_0928201654259" field is not present'
+Sep 28,2016 18:03:13 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Sep2016\\28\Value1 of AUT_Attributes_ NUMERIC 1_0928201654259_CheckpointFailure_09-28-2016 6-03-13 PM.jpg
+Sep 28,2016 18:03:14 [info]  ====Failed==== "AM_AttributeValue1_InputField" field is not present'AM_AttributeValue1_InputField'
+Sep 28,2016 18:03:14 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Sep2016\\28\AM_AttributeValue1_InputField_CheckpointFailure_09-28-2016 6-03-14 PM.jpg
+Sep 28,2016 18:03:24 [info]  ====Failed==== "Select Attribute AUT_Attributes_Media_0928201654259" field is not present'
+Sep 28,2016 18:03:24 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Sep2016\\28\Select Attribute AUT_Attributes_Media_0928201654259_CheckpointFailure_09-28-2016 6-03-24 PM.jpg
+Sep 28,2016 18:03:24 [info]  
+Sep 28,2016 18:03:34 [info]  Verify The data of  Value1 Field of Attribute AUT_Attributes_ NUMERIC 1_0928201654259 in Edit Mode
+Sep 28,2016 18:03:34 [info]  ====Failed==== Expected value is:[342342.33] but Actual value is[]. Please check the screenshot with name:  Value1 Field of Attribute AUT_Attributes_ NUMERIC 1_0928201654259 in Edit Modefor more details
+Sep 28,2016 18:03:34 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Sep2016\\28\ Value1 Field of Attribute AUT_Attributes_ NUMERIC 1_0928201654259 in Edit Mode_CheckpointFailure_09-28-2016 6-03-34 PM.jpg
+Sep 28,2016 18:03:37 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Sep 28,2016 18:03:41 [info]  
+Sep 28,2016 18:03:51 [info]  Verify The data of Value1 Field of Attribute AUT_Attributes_ NUMERIC 1_0928201654259 in View Mode
+Sep 28,2016 18:03:51 [info]  ====Failed==== Expected value is:[342342.33] but Actual value is[]. Please check the screenshot with name: Value1 Field of Attribute AUT_Attributes_ NUMERIC 1_0928201654259 in View Modefor more details
+Sep 28,2016 18:03:51 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Sep2016\\28\Value1 Field of Attribute AUT_Attributes_ NUMERIC 1_0928201654259 in View Mode_CheckpointFailure_09-28-2016 6-03-51 PM.jpg
+Sep 28,2016 18:03:51 [info]  Clicked on the 'Edit Button' using JS Executor
+Sep 28,2016 18:03:52 [info]  Test 'TC7_ValueEnter_Currency2Attribute' PASSED
+Sep 28,2016 18:03:54 [info]  Closed the Browser
+Sep 28,2016 18:50:32 [info]  ********************Started Executiong the Test Suite at 18:50:32******************
+Sep 28,2016 18:50:32 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Sep 28,2016 18:50:32 [info]  *********************Started Executing 'TC2_ValueEnter_FilmLocationAttribute' Test Case*********************
+Sep 28,2016 18:50:43 [info]  Client: AMCN
+Sep 28,2016 18:50:43 [info]  URL: http://rlv2wb79/login.aspx
+Sep 28,2016 18:50:43 [info]  UserName: automation
+Sep 28,2016 18:50:43 [info]  Password: automation
+Sep 28,2016 18:50:44 [info]  Entered "automation" in field 'User Name'
+Sep 28,2016 18:50:44 [info]  Clicked on the 'Temporary Check Box'
+Sep 28,2016 18:50:45 [info]  Entered "automation" in field 'Password'
+Sep 28,2016 18:50:56 [info]  Clicked on the 'LoginButton'
+Sep 28,2016 18:52:56 [info]  Clicked on the 'Attributes TAB'
+Sep 28,2016 18:53:00 [info]  Clicked on the 'Edit Button' using JS Executor
+Sep 28,2016 18:53:03 [info]  Clicked on the 'Value1 of AUT_Attributes_Film location0927201640644'
+Sep 28,2016 18:53:03 [info]  Entered "3423423" in field 'AM_AttributeValue1_InputField'
+Sep 28,2016 18:53:04 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Sep 28,2016 18:53:07 [info]  
+Sep 28,2016 18:53:08 [info]  Verify The data of Alert Message on Entering Invalid Data for Attribute Value
+Sep 28,2016 18:53:08 [info]  Verified that Expected value :[Please enter only text for the attribute.] is matched with Actual value :[Please enter only text for the attribute.]
+Sep 28,2016 18:53:08 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Sep 28,2016 18:53:09 [info]  Clicked on the 'Value1 of AUT_Attributes_Film location0927201640644'
+Sep 28,2016 18:53:10 [info]  Entered "RSG3423423ab" in field 'AM_AttributeValue1_InputField'
+Sep 28,2016 18:53:10 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Sep 28,2016 18:53:13 [info]  
+Sep 28,2016 18:53:14 [info]  Verify The data of Alert Message on Entering Invalid Data for Attribute Value
+Sep 28,2016 18:53:14 [info]  Verified that Expected value :[Please enter only text for the attribute.] is matched with Actual value :[Please enter only text for the attribute.]
+Sep 28,2016 18:53:14 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Sep 28,2016 18:53:15 [info]  Clicked on the 'Value1 of AUT_Attributes_Film location0927201640644'
+Sep 28,2016 18:53:16 [info]  Entered "RSGab#$%^*%#$" in field 'AM_AttributeValue1_InputField'
+Sep 28,2016 18:53:17 [info]  Clicked on the 'Select Attribute AUT_Attributes_Media_0928201665032'
+Sep 28,2016 18:53:17 [info]  
+Sep 28,2016 18:53:17 [info]  Verify The data of  Value1 Field of Attribute AUT_Attributes_Film location0927201640644 in Edit Mode
+Sep 28,2016 18:53:17 [info]  Verified that Expected value :[RSGab#$%^*%#$] is matched with Actual value :[RSGab#$%^*%#$]
+Sep 28,2016 18:53:20 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Sep 28,2016 18:53:24 [info]  
+Sep 28,2016 18:53:24 [info]  Verify The data of Value1 Field of Attribute AUT_Attributes_Film location0927201640644 in View Mode
+Sep 28,2016 18:53:24 [info]  Verified that Expected value :[RSGab#$%^*%#$] is matched with Actual value :[RSGab#$%^*%#$]
+Sep 28,2016 18:53:24 [info]  Clicked on the 'Edit Button' using JS Executor
+Sep 28,2016 18:53:26 [info]  Test 'TC2_ValueEnter_FilmLocationAttribute' PASSED
+Sep 28,2016 18:53:27 [info]  Closed the Browser
+Sep 28,2016 18:53:27 [info]  *********************Started Executing 'TC3_ValueEnter_MediaAttribute' Test Case*********************
+Sep 28,2016 18:53:35 [info]  Client: AMCN
+Sep 28,2016 18:53:35 [info]  URL: http://rlv2wb79/login.aspx
+Sep 28,2016 18:53:35 [info]  UserName: automation
+Sep 28,2016 18:53:35 [info]  Password: automation
+Sep 28,2016 18:53:37 [info]  Entered "automation" in field 'User Name'
+Sep 28,2016 18:53:37 [info]  Clicked on the 'Temporary Check Box'
+Sep 28,2016 18:53:37 [info]  Entered "automation" in field 'Password'
+Sep 28,2016 18:53:48 [info]  Clicked on the 'LoginButton'
+Sep 28,2016 18:54:25 [info]  ====Failed==== " Could not find the Frame: div[id*='WebDialogWindow1'][style*=visible]
+Sep 28,2016 18:54:26 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Sep2016\\28\FrameSwitchingFailed0_CheckpointFailure_09-28-2016 6-54-25 PM.jpg
+Sep 28,2016 18:54:36 [info]  ====Failed==== "Value1 of AUT_Attributes_Media0927201650927" field is not present'
+Sep 28,2016 18:54:36 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Sep2016\\28\Value1 of AUT_Attributes_Media0927201650927_CheckpointFailure_09-28-2016 6-54-36 PM.jpg
+Sep 28,2016 18:58:32 [info]  ********************Started Executiong the Test Suite at 18:58:32******************
+Sep 28,2016 18:58:32 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Sep 28,2016 18:58:32 [info]  *********************Started Executing 'TC4_ValueEnter_Numeric1Attribute' Test Case*********************
+Sep 28,2016 18:58:41 [info]  Client: AMCN
+Sep 28,2016 18:58:41 [info]  URL: http://rlv2wb79/login.aspx
+Sep 28,2016 18:58:41 [info]  UserName: automation
+Sep 28,2016 18:58:41 [info]  Password: automation
+Sep 28,2016 18:58:42 [info]  Entered "automation" in field 'User Name'
+Sep 28,2016 18:58:42 [info]  Clicked on the 'Temporary Check Box'
+Sep 28,2016 18:58:43 [info]  Entered "automation" in field 'Password'
+Sep 28,2016 18:58:53 [info]  Clicked on the 'LoginButton'
+Sep 28,2016 18:59:36 [info]  Clicked on the 'Edit Button' using JS Executor
+Sep 28,2016 18:59:39 [info]  Clicked on the 'Value1 of AUT_Attributes_ NUMERIC 10927201650927'
+Sep 28,2016 18:59:40 [info]  Entered "RSG3423423" in field 'AM_AttributeValue1_InputField'
+Sep 28,2016 18:59:41 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Sep 28,2016 18:59:44 [info]  
+Sep 28,2016 18:59:44 [info]  Verify The data of Alert Message on Entering Invalid Data for Attribute Value
+Sep 28,2016 18:59:44 [info]  Verified that Expected value :[Please enter valid numeric values for the attribute.] is matched with Actual value :[Please enter valid numeric values for the attribute.]
+Sep 28,2016 18:59:45 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Sep 28,2016 18:59:46 [info]  Clicked on the 'Value1 of AUT_Attributes_ NUMERIC 10927201650927'
+Sep 28,2016 18:59:47 [info]  Entered "RSGab#$%^*%#$" in field 'AM_AttributeValue1_InputField'
+Sep 28,2016 18:59:48 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Sep 28,2016 18:59:51 [info]  
+Sep 28,2016 18:59:51 [info]  Verify The data of Alert Message on Entering Invalid Data for Attribute Value
+Sep 28,2016 18:59:51 [info]  Verified that Expected value :[Please enter valid numeric values for the attribute.] is matched with Actual value :[Please enter valid numeric values for the attribute.]
+Sep 28,2016 18:59:51 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Sep 28,2016 18:59:52 [info]  Clicked on the 'Value1 of AUT_Attributes_ NUMERIC 10927201650927'
+Sep 28,2016 18:59:53 [info]  Entered "10.32" in field 'AM_AttributeValue1_InputField'
+Sep 28,2016 18:59:53 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Sep 28,2016 18:59:57 [info]  
+Sep 28,2016 18:59:57 [info]  Verify The data of Alert Message on Entering Invalid Data for Attribute Value
+Sep 28,2016 18:59:57 [info]  Verified that Expected value :[Please enter valid numeric values for the attribute.] is matched with Actual value :[Please enter valid numeric values for the attribute.]
+Sep 28,2016 18:59:57 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Sep 28,2016 18:59:58 [info]  Clicked on the 'Value1 of AUT_Attributes_ NUMERIC 10927201650927'
+Sep 28,2016 18:59:58 [info]  Entered "342342" in field 'AM_AttributeValue1_InputField'
+Sep 28,2016 18:59:59 [info]  Clicked on the 'Select Attribute AUT_Attributes_Media_0928201665831'
+Sep 28,2016 18:59:59 [info]  
+Sep 28,2016 18:59:59 [info]  Verify The data of  Value1 Field of Attribute AUT_Attributes_ NUMERIC 10927201650927 in Edit Mode
+Sep 28,2016 18:59:59 [info]  Verified that Expected value :[342342] is matched with Actual value :[342342]
+Sep 28,2016 19:00:02 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Sep 28,2016 19:00:06 [info]  
+Sep 28,2016 19:00:06 [info]  Verify The data of Value1 Field of Attribute AUT_Attributes_ NUMERIC 10927201650927 in View Mode
+Sep 28,2016 19:00:06 [info]  Verified that Expected value :[342342] is matched with Actual value :[342342]
+Sep 28,2016 19:00:06 [info]  Clicked on the 'Edit Button' using JS Executor
+Sep 28,2016 19:00:07 [info]  Test 'TC4_ValueEnter_Numeric1Attribute' PASSED
+Sep 28,2016 19:00:08 [info]  Closed the Browser
+Sep 28,2016 19:01:23 [info]  ********************Started Executiong the Test Suite at 19:01:23******************
+Sep 28,2016 19:01:23 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Sep 28,2016 19:01:23 [info]  *********************Started Executing 'TC5_ValueEnter_Numeric2Attribute' Test Case*********************
+Sep 28,2016 19:01:32 [info]  Client: AMCN
+Sep 28,2016 19:01:32 [info]  URL: http://rlv2wb79/login.aspx
+Sep 28,2016 19:01:32 [info]  UserName: automation
+Sep 28,2016 19:01:32 [info]  Password: automation
+Sep 28,2016 19:01:33 [info]  Entered "automation" in field 'User Name'
+Sep 28,2016 19:01:33 [info]  Clicked on the 'Temporary Check Box'
+Sep 28,2016 19:01:34 [info]  Entered "automation" in field 'Password'
+Sep 28,2016 19:01:45 [info]  Clicked on the 'LoginButton'
+Sep 28,2016 19:02:56 [info]  Test 'TC5_ValueEnter_Numeric2Attribute' FAILED
+Sep 28,2016 19:02:56 [info]  2
+Sep 28,2016 19:02:56 [info]  Test Case :TC5_ValueEnter_Numeric2Attribute's Screenshot of Failure Page: C:\SeleniumProject\Screenshots\Sep2016\\28\TC5_ValueEnter_Numeric2Attribute_09-28-2016 7-02-56 PM.jpg
+Sep 28,2016 19:02:57 [info]  Closed the Browser
+Sep 28,2016 19:03:30 [info]  ********************Started Executiong the Test Suite at 19:03:30******************
+Sep 28,2016 19:03:30 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Sep 28,2016 19:03:30 [info]  *********************Started Executing 'TC5_ValueEnter_Numeric2Attribute' Test Case*********************
+Sep 28,2016 19:03:39 [info]  Client: AMCN
+Sep 28,2016 19:03:39 [info]  URL: http://rlv2wb79/login.aspx
+Sep 28,2016 19:03:39 [info]  UserName: automation
+Sep 28,2016 19:03:39 [info]  Password: automation
+Sep 28,2016 19:03:40 [info]  Entered "automation" in field 'User Name'
+Sep 28,2016 19:03:41 [info]  Clicked on the 'Temporary Check Box'
+Sep 28,2016 19:03:41 [info]  Entered "automation" in field 'Password'
+Sep 28,2016 19:03:52 [info]  Clicked on the 'LoginButton'
+Sep 28,2016 19:04:48 [info]  Clicked on the 'Edit Button' using JS Executor
+Sep 28,2016 19:04:51 [info]  Clicked on the 'Value1 of AUT_Attributes_NUMERIC 20927201650927'
+Sep 28,2016 19:04:52 [info]  Entered "RSG3423423" in field 'AM_AttributeValue1_InputField'
+Sep 28,2016 19:04:53 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Sep 28,2016 19:04:56 [info]  
+Sep 28,2016 19:04:56 [info]  ====Failed===="Alert Message on Entering Invalid Data for Attribute Value" is not Present
+Sep 28,2016 19:04:57 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Sep2016\\28\Alert Message on Entering Invalid Data for Attribute Value_CheckpointFailure_09-28-2016 7-04-56 PM.jpg
+Sep 28,2016 19:04:57 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Sep 28,2016 19:04:58 [info]  Clicked on the 'Value1 of AUT_Attributes_NUMERIC 20927201650927'
+Sep 28,2016 19:04:59 [info]  Entered "RSGab#$%^*%#$" in field 'AM_AttributeValue1_InputField'
+Sep 28,2016 19:05:00 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Sep 28,2016 19:05:03 [info]  
+Sep 28,2016 19:05:04 [info]  ====Failed===="Alert Message on Entering Invalid Data for Attribute Value" is not Present
+Sep 28,2016 19:05:04 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Sep2016\\28\Alert Message on Entering Invalid Data for Attribute Value_CheckpointFailure_09-28-2016 7-05-04 PM.jpg
+Sep 28,2016 19:05:04 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Sep 28,2016 19:05:05 [info]  Clicked on the 'Value1 of AUT_Attributes_NUMERIC 20927201650927'
+Sep 28,2016 19:05:05 [info]  Entered "10003" in field 'AM_AttributeValue1_InputField'
+Sep 28,2016 19:05:06 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Sep 28,2016 19:05:09 [info]  
+Sep 28,2016 19:05:09 [info]  ====Failed===="Alert Message on Entering Invalid Data for Attribute Value" is not Present
+Sep 28,2016 19:05:09 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Sep2016\\28\Alert Message on Entering Invalid Data for Attribute Value_CheckpointFailure_09-28-2016 7-05-09 PM.jpg
+Sep 28,2016 19:05:10 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Sep 28,2016 19:05:11 [info]  Clicked on the 'Value1 of AUT_Attributes_NUMERIC 20927201650927'
+Sep 28,2016 19:05:11 [info]  Entered "342342.33" in field 'AM_AttributeValue1_InputField'
+Sep 28,2016 19:05:12 [info]  Clicked on the 'Select Attribute AUT_Attributes_Media_0928201670330'
+Sep 28,2016 19:05:12 [info]  
+Sep 28,2016 19:05:12 [info]  Verify The data of  Value1 Field of Attribute AUT_Attributes_NUMERIC 20927201650927 in Edit Mode
+Sep 28,2016 19:05:12 [info]  Verified that Expected value :[342342.33] is matched with Actual value :[342342.33]
+Sep 28,2016 19:05:15 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Sep 28,2016 19:05:18 [info]  
+Sep 28,2016 19:05:18 [info]  Verify The data of Value1 Field of Attribute AUT_Attributes_NUMERIC 20927201650927 in View Mode
+Sep 28,2016 19:05:18 [info]  Verified that Expected value :[342342.33] is matched with Actual value :[342342.33]
+Sep 28,2016 19:05:19 [info]  Clicked on the 'Edit Button' using JS Executor
+Sep 28,2016 19:05:20 [info]  Test 'TC5_ValueEnter_Numeric2Attribute' PASSED
+Sep 28,2016 19:05:21 [info]  Closed the Browser
+Sep 28,2016 19:08:56 [info]  ********************Started Executiong the Test Suite at 19:08:56******************
+Sep 28,2016 19:08:56 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Sep 28,2016 19:08:56 [info]  *********************Started Executing 'TC5_ValueEnter_Numeric2Attribute' Test Case*********************
+Sep 28,2016 19:09:05 [info]  Client: AMCN
+Sep 28,2016 19:09:05 [info]  URL: http://rlv2wb79/login.aspx
+Sep 28,2016 19:09:05 [info]  UserName: automation
+Sep 28,2016 19:09:05 [info]  Password: automation
+Sep 28,2016 19:09:06 [info]  Entered "automation" in field 'User Name'
+Sep 28,2016 19:09:06 [info]  Clicked on the 'Temporary Check Box'
+Sep 28,2016 19:09:07 [info]  Entered "automation" in field 'Password'
+Sep 28,2016 19:09:17 [info]  Clicked on the 'LoginButton'
+Sep 28,2016 19:11:24 [info]  Clicked on the 'Edit Button' using JS Executor
+Sep 28,2016 19:13:16 [info]  Clicked on the 'Value1 of AUT_Attributes_NUMERIC 20927201650927'
+Sep 28,2016 19:13:16 [info]  Entered "RSG3423423" in field 'AM_AttributeValue1_InputField'
+Sep 28,2016 19:13:17 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Sep 28,2016 19:13:25 [info]  
+Sep 28,2016 19:13:29 [info]  ====Failed===="Alert Message on Entering Invalid Data for Attribute Value" is not Present
+Sep 28,2016 19:13:30 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Sep2016\\28\Alert Message on Entering Invalid Data for Attribute Value_CheckpointFailure_09-28-2016 7-13-29 PM.jpg
+Sep 28,2016 19:13:39 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Sep 28,2016 19:17:12 [info]  ********************Started Executiong the Test Suite at 19:17:12******************
+Sep 28,2016 19:17:12 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Sep 28,2016 19:17:12 [info]  *********************Started Executing 'TC5_ValueEnter_Numeric2Attribute' Test Case*********************
+Sep 28,2016 19:17:21 [info]  Client: AMCN
+Sep 28,2016 19:17:21 [info]  URL: http://rlv2wb79/login.aspx
+Sep 28,2016 19:17:21 [info]  UserName: automation
+Sep 28,2016 19:17:21 [info]  Password: automation
+Sep 28,2016 19:17:22 [info]  Entered "automation" in field 'User Name'
+Sep 28,2016 19:17:23 [info]  Clicked on the 'Temporary Check Box'
+Sep 28,2016 19:17:23 [info]  Entered "automation" in field 'Password'
+Sep 28,2016 19:17:32 [info]  Clicked on the 'LoginButton'
+Sep 28,2016 19:19:56 [info]  Clicked on the 'Edit Button' using JS Executor
+Sep 28,2016 19:20:00 [info]  Clicked on the 'Value1 of AUT_Attributes_NUMERIC 20927201650927'
+Sep 28,2016 19:20:00 [info]  Entered "RSG3423423" in field 'AM_AttributeValue1_InputField'
+Sep 28,2016 19:20:01 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Sep 28,2016 19:20:10 [info]  
+Sep 28,2016 19:20:10 [info]  Verify The data of Alert Message on Entering Invalid Data for Attribute Value
+Sep 28,2016 19:20:10 [info]  Verified that Expected value :[Please enter decimal values for the attribute.] is matched with Actual value :[Please enter decimal values for the attribute.]
+Sep 28,2016 19:20:10 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Sep 28,2016 19:20:11 [info]  Clicked on the 'Value1 of AUT_Attributes_NUMERIC 20927201650927'
+Sep 28,2016 19:20:13 [info]  Entered "RSGab#$%^*%#$" in field 'AM_AttributeValue1_InputField'
+Sep 28,2016 19:20:13 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Sep 28,2016 19:20:23 [info]  
+Sep 28,2016 19:20:23 [info]  Verify The data of Alert Message on Entering Invalid Data for Attribute Value
+Sep 28,2016 19:20:23 [info]  Verified that Expected value :[Please enter decimal values for the attribute.] is matched with Actual value :[Please enter decimal values for the attribute.]
+Sep 28,2016 19:20:23 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Sep 28,2016 19:20:24 [info]  Clicked on the 'Value1 of AUT_Attributes_NUMERIC 20927201650927'
+Sep 28,2016 19:20:25 [info]  Entered "10003" in field 'AM_AttributeValue1_InputField'
+Sep 28,2016 19:20:25 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Sep 28,2016 19:20:28 [info]  
+Sep 28,2016 19:20:29 [info]  Verify The data of Alert Message on Entering Invalid Data for Attribute Value
+Sep 28,2016 19:20:29 [info]  Verified that Expected value :[Please enter decimal values for the attribute.] is matched with Actual value :[Please enter decimal values for the attribute.]
+Sep 28,2016 19:20:29 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Sep 28,2016 19:20:30 [info]  Clicked on the 'Value1 of AUT_Attributes_NUMERIC 20927201650927'
+Sep 28,2016 19:20:30 [info]  Entered "342342.33" in field 'AM_AttributeValue1_InputField'
+Sep 28,2016 19:20:31 [info]  Clicked on the 'Select Attribute AUT_Attributes_Media_0928201671712'
+Sep 28,2016 19:20:31 [info]  
+Sep 28,2016 19:20:31 [info]  Verify The data of  Value1 Field of Attribute AUT_Attributes_NUMERIC 20927201650927 in Edit Mode
+Sep 28,2016 19:20:31 [info]  Verified that Expected value :[342342.33] is matched with Actual value :[342342.33]
+Sep 28,2016 19:20:34 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Sep 28,2016 19:20:37 [info]  
+Sep 28,2016 19:20:37 [info]  Verify The data of Value1 Field of Attribute AUT_Attributes_NUMERIC 20927201650927 in View Mode
+Sep 28,2016 19:20:37 [info]  Verified that Expected value :[342342.33] is matched with Actual value :[342342.33]
+Sep 28,2016 19:20:38 [info]  Clicked on the 'Edit Button' using JS Executor
+Sep 28,2016 19:20:39 [info]  Test 'TC5_ValueEnter_Numeric2Attribute' PASSED
+Sep 28,2016 19:20:40 [info]  Closed the Browser
+Sep 28,2016 19:21:18 [info]  ********************Started Executiong the Test Suite at 19:21:18******************
+Sep 28,2016 19:21:18 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Sep 28,2016 19:21:18 [info]  *********************Started Executing 'TC6_ValueEnter_Currency1Attribute' Test Case*********************
+Sep 28,2016 19:21:27 [info]  Client: AMCN
+Sep 28,2016 19:21:27 [info]  URL: http://rlv2wb79/login.aspx
+Sep 28,2016 19:21:27 [info]  UserName: automation
+Sep 28,2016 19:21:27 [info]  Password: automation
+Sep 28,2016 19:21:28 [info]  Entered "automation" in field 'User Name'
+Sep 28,2016 19:21:28 [info]  Clicked on the 'Temporary Check Box'
+Sep 28,2016 19:21:29 [info]  Entered "automation" in field 'Password'
+Sep 28,2016 19:21:40 [info]  Clicked on the 'LoginButton'
+Sep 28,2016 19:21:57 [info]  Test 'TC6_ValueEnter_Currency1Attribute' FAILED
+Sep 28,2016 19:21:57 [info]  2
+Sep 28,2016 19:21:57 [info]  Test Case :TC6_ValueEnter_Currency1Attribute's Screenshot of Failure Page: C:\SeleniumProject\Screenshots\Sep2016\\28\TC6_ValueEnter_Currency1Attribute_09-28-2016 7-21-57 PM.jpg
+Sep 28,2016 19:21:58 [info]  Closed the Browser
+Sep 28,2016 19:22:12 [info]  ********************Started Executiong the Test Suite at 19:22:12******************
+Sep 28,2016 19:22:12 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Sep 28,2016 19:22:12 [info]  *********************Started Executing 'TC6_ValueEnter_Currency1Attribute' Test Case*********************
+Sep 28,2016 19:22:21 [info]  Client: AMCN
+Sep 28,2016 19:22:21 [info]  URL: http://rlv2wb79/login.aspx
+Sep 28,2016 19:22:21 [info]  UserName: automation
+Sep 28,2016 19:22:21 [info]  Password: automation
+Sep 28,2016 19:22:22 [info]  Entered "automation" in field 'User Name'
+Sep 28,2016 19:22:22 [info]  Clicked on the 'Temporary Check Box'
+Sep 28,2016 19:22:23 [info]  Entered "automation" in field 'Password'
+Sep 28,2016 19:22:23 [info]  Clicked on the 'LoginButton'
+Sep 28,2016 19:23:14 [info]  Clicked on the 'Edit Button' using JS Executor
+Sep 28,2016 19:23:17 [info]  Clicked on the 'Value1 of AUT_Attributes_CURRENCY 10927201650927'
+Sep 28,2016 19:23:17 [info]  Entered "RSG3423423" in field 'AM_AttributeValue1_InputField'
+Sep 28,2016 19:23:18 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Sep 28,2016 19:23:21 [info]  
+Sep 28,2016 19:23:22 [info]  Verify The data of Alert Message on Entering Invalid Data for Attribute Value
+Sep 28,2016 19:23:22 [info]  Verified that Expected value :[Please enter valid numeric values for the attribute.] is matched with Actual value :[Please enter valid numeric values for the attribute.]
+Sep 28,2016 19:23:22 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Sep 28,2016 19:23:23 [info]  Clicked on the 'Value1 of AUT_Attributes_CURRENCY 10927201650927'
+Sep 28,2016 19:23:24 [info]  Entered "12RSGab#$%^*%#$" in field 'AM_AttributeValue1_InputField'
+Sep 28,2016 19:23:25 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Sep 28,2016 19:23:28 [info]  
+Sep 28,2016 19:23:28 [info]  Verify The data of Alert Message on Entering Invalid Data for Attribute Value
+Sep 28,2016 19:23:28 [info]  Verified that Expected value :[Please enter valid numeric values for the attribute.] is matched with Actual value :[Please enter valid numeric values for the attribute.]
+Sep 28,2016 19:23:29 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Sep 28,2016 19:23:29 [info]  Clicked on the 'Value1 of AUT_Attributes_CURRENCY 10927201650927'
+Sep 28,2016 19:23:30 [info]  Entered "10.32" in field 'AM_AttributeValue1_InputField'
+Sep 28,2016 19:23:30 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Sep 28,2016 19:23:34 [info]  
+Sep 28,2016 19:23:34 [info]  Verify The data of Alert Message on Entering Invalid Data for Attribute Value
+Sep 28,2016 19:23:34 [info]  ====Failed==== Expected value is:[Please enter valid numeric values for the attribute.] but Actual value is[Please enter non decimal values for the attribute.]. Please check the screenshot with name: Alert Message on Entering Invalid Data for Attribute Valuefor more details
+Sep 28,2016 19:23:34 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Sep2016\\28\Alert Message on Entering Invalid Data for Attribute Value_CheckpointFailure_09-28-2016 7-23-34 PM.jpg
+Sep 28,2016 19:23:34 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Sep 28,2016 19:23:35 [info]  Clicked on the 'Value1 of AUT_Attributes_CURRENCY 10927201650927'
+Sep 28,2016 19:23:36 [info]  Entered "342342" in field 'AM_AttributeValue1_InputField'
+Sep 28,2016 19:23:36 [info]  Clicked on the 'Select Attribute AUT_Attributes_Media_0928201672212'
+Sep 28,2016 19:23:36 [info]  
+Sep 28,2016 19:23:36 [info]  Verify The data of  Value1 Field of Attribute AUT_Attributes_CURRENCY 10927201650927 in Edit Mode
+Sep 28,2016 19:23:36 [info]  Verified that Expected value :[342342] is matched with Actual value :[342342]
+Sep 28,2016 19:23:39 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Sep 28,2016 19:23:43 [info]  
+Sep 28,2016 19:23:43 [info]  Verify The data of Value1 Field of Attribute AUT_Attributes_CURRENCY 10927201650927 in View Mode
+Sep 28,2016 19:23:43 [info]  Verified that Expected value :[342342] is matched with Actual value :[342342]
+Sep 28,2016 19:23:43 [info]  Clicked on the 'Edit Button' using JS Executor
+Sep 28,2016 19:23:44 [info]  Test 'TC6_ValueEnter_Currency1Attribute' PASSED
+Sep 28,2016 19:23:46 [info]  Closed the Browser
+Sep 28,2016 19:30:45 [info]  ********************Started Executiong the Test Suite at 19:30:45******************
+Sep 28,2016 19:30:45 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Sep 28,2016 19:30:45 [info]  *********************Started Executing 'TC7_ValueEnter_Currency2Attribute' Test Case*********************
+Sep 28,2016 19:30:54 [info]  Client: AMCN
+Sep 28,2016 19:30:54 [info]  URL: http://rlv2wb79/login.aspx
+Sep 28,2016 19:30:54 [info]  UserName: automation
+Sep 28,2016 19:30:54 [info]  Password: automation
+Sep 28,2016 19:30:55 [info]  Entered "automation" in field 'User Name'
+Sep 28,2016 19:30:56 [info]  Clicked on the 'Temporary Check Box'
+Sep 28,2016 19:30:56 [info]  Entered "automation" in field 'Password'
+Sep 28,2016 19:31:06 [info]  Clicked on the 'LoginButton'
+Sep 28,2016 19:31:22 [info]  Test 'TC7_ValueEnter_Currency2Attribute' FAILED
+Sep 28,2016 19:31:22 [info]  2
+Sep 28,2016 19:31:23 [info]  Test Case :TC7_ValueEnter_Currency2Attribute's Screenshot of Failure Page: C:\SeleniumProject\Screenshots\Sep2016\\28\TC7_ValueEnter_Currency2Attribute_09-28-2016 7-31-22 PM.jpg
+Sep 28,2016 19:31:24 [info]  Closed the Browser
+Sep 28,2016 19:31:35 [info]  ********************Started Executiong the Test Suite at 19:31:35******************
+Sep 28,2016 19:31:35 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Sep 28,2016 19:31:35 [info]  *********************Started Executing 'TC7_ValueEnter_Currency2Attribute' Test Case*********************
+Sep 28,2016 19:31:44 [info]  Client: AMCN
+Sep 28,2016 19:31:44 [info]  URL: http://rlv2wb79/login.aspx
+Sep 28,2016 19:31:44 [info]  UserName: automation
+Sep 28,2016 19:31:44 [info]  Password: automation
+Sep 28,2016 19:31:45 [info]  Entered "automation" in field 'User Name'
+Sep 28,2016 19:31:45 [info]  Clicked on the 'Temporary Check Box'
+Sep 28,2016 19:31:46 [info]  Entered "automation" in field 'Password'
+Sep 28,2016 19:32:12 [info]  Clicked on the 'LoginButton'
+Sep 28,2016 19:32:29 [info]  Clicked on the 'Edit Button' using JS Executor
+Sep 28,2016 19:32:32 [info]  Clicked on the 'Value1 of AUT_Attributes_CURRENCY 20927201650927'
+Sep 28,2016 19:32:33 [info]  Entered "RSG3423423" in field 'AM_AttributeValue1_InputField'
+Sep 28,2016 19:32:34 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Sep 28,2016 19:32:37 [info]  
+Sep 28,2016 19:32:37 [info]  Verify The data of Alert Message on Entering Invalid Data for Attribute Value
+Sep 28,2016 19:32:37 [info]  ====Failed==== Expected value is:[Please enter decimal values for the attribute.] but Actual value is[Please enter valid decimal values for the attribute.]. Please check the screenshot with name: Alert Message on Entering Invalid Data for Attribute Valuefor more details
+Sep 28,2016 19:32:37 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Sep2016\\28\Alert Message on Entering Invalid Data for Attribute Value_CheckpointFailure_09-28-2016 7-32-37 PM.jpg
+Sep 28,2016 19:32:38 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Sep 28,2016 19:32:39 [info]  Clicked on the 'Value1 of AUT_Attributes_CURRENCY 20927201650927'
+Sep 28,2016 19:32:41 [info]  Entered "12RSGab#$%^*%#$" in field 'AM_AttributeValue1_InputField'
+Sep 28,2016 19:32:41 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Sep 28,2016 19:32:45 [info]  
+Sep 28,2016 19:32:45 [info]  Verify The data of Alert Message on Entering Invalid Data for Attribute Value
+Sep 28,2016 19:32:45 [info]  ====Failed==== Expected value is:[Please enter decimal values for the attribute.] but Actual value is[Please enter valid decimal values for the attribute.]. Please check the screenshot with name: Alert Message on Entering Invalid Data for Attribute Valuefor more details
+Sep 28,2016 19:32:45 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Sep2016\\28\Alert Message on Entering Invalid Data for Attribute Value_CheckpointFailure_09-28-2016 7-32-45 PM.jpg
+Sep 28,2016 19:32:45 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Sep 28,2016 19:32:47 [info]  Clicked on the 'Value1 of AUT_Attributes_CURRENCY 20927201650927'
+Sep 28,2016 19:32:47 [info]  Entered "10003" in field 'AM_AttributeValue1_InputField'
+Sep 28,2016 19:32:48 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Sep 28,2016 19:32:51 [info]  
+Sep 28,2016 19:32:51 [info]  Verify The data of Alert Message on Entering Invalid Data for Attribute Value
+Sep 28,2016 19:32:51 [info]  Verified that Expected value :[Please enter decimal values for the attribute.] is matched with Actual value :[Please enter decimal values for the attribute.]
+Sep 28,2016 19:32:52 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Sep 28,2016 19:32:53 [info]  Clicked on the 'Value1 of AUT_Attributes_CURRENCY 20927201650927'
+Sep 28,2016 19:32:54 [info]  Entered "342342.33" in field 'AM_AttributeValue1_InputField'
+Sep 28,2016 19:32:54 [info]  Clicked on the 'Select Attribute AUT_Attributes_Media_0928201673135'
+Sep 28,2016 19:32:54 [info]  
+Sep 28,2016 19:32:54 [info]  Verify The data of  Value1 Field of Attribute AUT_Attributes_CURRENCY 20927201650927 in Edit Mode
+Sep 28,2016 19:32:54 [info]  Verified that Expected value :[342342.33] is matched with Actual value :[342342.33]
+Sep 28,2016 19:32:57 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Sep 28,2016 19:33:01 [info]  
+Sep 28,2016 19:33:01 [info]  Verify The data of Value1 Field of Attribute AUT_Attributes_CURRENCY 20927201650927 in View Mode
+Sep 28,2016 19:33:01 [info]  Verified that Expected value :[342342.33] is matched with Actual value :[342342.33]
+Sep 28,2016 19:33:02 [info]  Clicked on the 'Edit Button' using JS Executor
+Sep 28,2016 19:33:03 [info]  Test 'TC7_ValueEnter_Currency2Attribute' PASSED
+Sep 28,2016 19:33:04 [info]  Closed the Browser
+Sep 28,2016 19:43:03 [info]  ********************Started Executiong the Test Suite at 19:43:03******************
+Sep 28,2016 19:43:03 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Sep 28,2016 19:43:03 [info]  *********************Started Executing 'TC1_DocumentUI' Test Case*********************
+Sep 28,2016 19:43:12 [info]  Client: AMCN
+Sep 28,2016 19:43:12 [info]  URL: http://rlv2wb79/login.aspx
+Sep 28,2016 19:43:12 [info]  UserName: automation
+Sep 28,2016 19:43:12 [info]  Password: automation
+Sep 28,2016 19:43:13 [info]  Entered "automation" in field 'User Name'
+Sep 28,2016 19:43:13 [info]  Clicked on the 'Temporary Check Box'
+Sep 28,2016 19:43:14 [info]  Entered "automation" in field 'Password'
+Sep 28,2016 19:43:25 [info]  Clicked on the 'LoginButton'
+Sep 28,2016 19:43:31 [info]  AUT_AssetSeries_0928201674331
+Sep 28,2016 19:43:32 [info]  ************************Started Creating Asset of Type: Program - Series************************
+Sep 28,2016 19:43:36 [info]  Clicked on the 'MODULE'
+Sep 28,2016 19:43:56 [info]  Clicked on the 'Asset Maintenance'
+Sep 28,2016 19:44:04 [info]  Clicked on the 'New Button' using JS Executor
+Sep 28,2016 19:44:04 [info]  Clicked on the 'Program' using JS Executor
+Sep 28,2016 19:44:14 [info]  Clicked on the 'General TAB'
+Sep 28,2016 19:44:17 [info]  Selected "Program - Series" in "AssetTypeDropDown" drop down
+Sep 28,2016 19:44:30 [info]  Entered "AUT_AssetSeries_0928201674331" in field 'AssetTitle'
+Sep 28,2016 19:44:30 [info]  Clicked on the 'Vendor Img Icon' using JS Executor
+Sep 28,2016 19:44:32 [info]  Entered "AMC Networks Central Europe s.r.o." in field 'SearchvalueVendor'
+Sep 28,2016 19:44:35 [info]  Clicked on the 'VendorWindowButtonfind' using JS Executor
+Sep 28,2016 19:44:38 [info]  Clicked on the 'VendorName At VendorWindow'
+Sep 28,2016 19:44:38 [info]  Clicked on the 'Vendor Select Button' using JS Executor
+Sep 28,2016 19:44:42 [info]  Clicked on the 'StudioImageIcon' using JS Executor
+Sep 28,2016 19:44:44 [info]  Verified that Expected value :[Studio] is matched with Actual value :[Studio]
+Sep 28,2016 19:44:45 [info]  Entered "AMC Networks Latin America LLC" in field 'Studio Name'
+Sep 28,2016 19:44:45 [info]  Clicked on the 'Find Button' using JS Executor
+Sep 28,2016 19:44:47 [info]  Clicked on the 'Searched Studio: 'AMC Networks Latin America LLC''
+Sep 28,2016 19:44:48 [info]  Clicked on the 'Select Button at Studio Window' using JS Executor
+Sep 28,2016 19:44:55 [info]  Clicked on the 'SBUImage' using JS Executor
+Sep 28,2016 19:44:56 [info]  Verified that Expected value :[Source Business Unit Template] is matched with Actual value :[Source Business Unit Template]
+Sep 28,2016 19:44:57 [info]  Clicked on the ''Select All' CheckBox at SBU' using JS Executor
+Sep 28,2016 19:45:03 [info]  Clicked on the 'First CheckBox At SBU window'
+Sep 28,2016 19:45:03 [info]  Clicked on the 'Ninth CheckBox At SBU winodw'
+Sep 28,2016 19:45:05 [info]  Clicked on the 'Apply Button' using JS Executor
+Sep 28,2016 19:45:06 [info]  Entered "11:11:11" in field 'Duration'
+Sep 28,2016 19:45:17 [info]  Selected "Production" in "Asset Status" drop down
+Sep 28,2016 19:45:17 [info]  Selected "Licensed Acquired" in "Asset Source" drop down
+Sep 28,2016 19:45:18 [info]  Selected "TBD" in "Asset Category/Group" drop down
+Sep 28,2016 19:45:19 [info]  Entered "AUT_Series" in field 'Short Name'
+Sep 28,2016 19:45:19 [info]  Entered "Test" in field 'ProjectID'
+Sep 28,2016 19:45:20 [info]  Clicked on the 'Genre Add Button' using JS Executor
+Sep 28,2016 19:45:20 [info]  Clicked on the 'Genre Type Row Field' using JS Executor
+Sep 28,2016 19:45:21 [info]  Clicked on the 'Genere Type Dropdown Image'
+Sep 28,2016 19:45:21 [info]  Clicked on the 'First Genere Type DropDown Value in the list'
+Sep 28,2016 19:45:21 [info]  Clicked on the 'Genre Row Field' using JS Executor
+Sep 28,2016 19:45:22 [info]  Clicked on the 'Genere Dropdown Image'
+Sep 28,2016 19:45:22 [info]  Clicked on the 'Genere Dropdown value'
+Sep 28,2016 19:45:22 [info]  Clicked on the 'Add Button of Note' using JS Executor
+Sep 28,2016 19:45:25 [info]  Entered "Medium" in field 'Asset Priority'
+Sep 28,2016 19:45:26 [info]  Entered "Subject For the Deal" in field 'Asset Subject'
+Sep 28,2016 19:45:26 [info]  Entered "New Asset" in field 'AssetNotes TextField'
+Sep 28,2016 19:45:27 [info]  Clicked on the 'OK button'
+Sep 28,2016 19:45:29 [info]  Clicked on the 'Save Button' using JS Executor
+Sep 28,2016 19:45:53 [info]  Verified that Expected value :[AUT_AssetSeries_0928201674331] is matched with Actual value :[AUT_AssetSeries_0928201674331]
+Sep 28,2016 19:45:53 [info]  ************************Created Asset of TypeProgram - Series************************
+Sep 28,2016 19:45:57 [info]  Clicked on the 'MODULE'
+Sep 28,2016 19:46:22 [info]  Clicked on the 'Asset Maintenance'
+Sep 28,2016 19:46:26 [info]  Clicked on the 'Search Menu Icon' using JS Executor
+Sep 28,2016 19:46:26 [info]  Clicked on the 'AssetSearchUnderAsset' using JS Executor
+Sep 28,2016 19:46:41 [info]  Entered "AUT_AssetSeries_0928201674331" in field 'AssetTitle'
+Sep 28,2016 19:46:41 [info]  Clicked on the 'All Check Box' using JS Executor
+Sep 28,2016 19:46:41 [info]  Clicked on the 'Find Button' using JS Executor
+Sep 28,2016 19:47:13 [info]  Moved Mouse over 'First Asset in the Searched Asset'
+Sep 28,2016 19:47:13 [info]  Double clicked on 'First Asset in the Searched Asset'
+Sep 28,2016 19:47:16 [info]  Clicked on the 'View Asset' using JS Executor
+Sep 28,2016 19:47:35 [info]  Verified that Expected value :[AUT_AssetSeries_0928201674331] is matched with Actual value :[AUT_AssetSeries_0928201674331]
+Sep 28,2016 19:47:43 [info]  Clicked on the 'Episodes TAB'
+Sep 28,2016 19:47:47 [info]  Clicked on the ''Edit' Button at Episode window' using JS Executor
+Sep 28,2016 19:47:50 [info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Sep 28,2016 19:47:54 [info]  Entered "101" in field 'Add Episode input field'
+Sep 28,2016 19:47:54 [info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Sep 28,2016 19:48:03 [info]  Clicked on the 'Season Field of Episode101' using JS Executor
+Sep 28,2016 19:48:03 [info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Sep 28,2016 19:48:04 [info]  Clicked on the 'Season 1'
+Sep 28,2016 19:48:04 [info]  Clicked on the 'Support click to select season'
+Sep 28,2016 19:48:07 [info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Sep 28,2016 19:48:08 [info]  Entered "102" in field 'Add Episode input field'
+Sep 28,2016 19:48:08 [info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Sep 28,2016 19:48:12 [info]  Clicked on the 'Season Field of Episode102' using JS Executor
+Sep 28,2016 19:48:12 [info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Sep 28,2016 19:48:13 [info]  Clicked on the 'Season 1'
+Sep 28,2016 19:48:13 [info]  Clicked on the 'Support click to select season'
+Sep 28,2016 19:48:13 [info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Sep 28,2016 19:48:14 [info]  Entered "201" in field 'Add Episode input field'
+Sep 28,2016 19:48:14 [info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Sep 28,2016 19:48:18 [info]  Clicked on the 'Season Field of Episode201' using JS Executor
+Sep 28,2016 19:48:18 [info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Sep 28,2016 19:48:18 [info]  Clicked on the 'Season 2'
+Sep 28,2016 19:48:19 [info]  Clicked on the 'Support click to select season'
+Sep 28,2016 19:48:22 [info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Sep 28,2016 19:48:23 [info]  Entered "202" in field 'Add Episode input field'
+Sep 28,2016 19:48:23 [info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Sep 28,2016 19:48:29 [info]  Clicked on the 'Support click to select season'
+Sep 28,2016 19:48:29 [info]  Clicked on the 'Season Field of Episode201' using JS Executor
+Sep 28,2016 19:48:29 [info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Sep 28,2016 19:48:30 [info]  Clicked on the 'Season 2'
+Sep 28,2016 19:48:30 [info]  Clicked on the 'Support click to select season'
+Sep 28,2016 19:48:33 [info]  Clicked on the 'Save Button at 'Episode Edit Window'' using JS Executor
+Sep 28,2016 19:48:53 [info]  Clicked on the 'Close Button at 'Episode Edit Window'' using JS Executor
+Sep 28,2016 19:49:04 [info]  Clicked on the 'MODULE'
+Sep 28,2016 19:49:24 [info]  Clicked on the 'Asset Maintenance'
+Sep 28,2016 19:49:27 [info]  Clicked on the 'Search Menu Icon' using JS Executor
+Sep 28,2016 19:49:27 [info]  Clicked on the 'AssetSearchUnderAsset' using JS Executor
+Sep 28,2016 19:49:41 [info]  Entered "AUT_AssetSeries_0928201674331" in field 'AssetTitle'
+Sep 28,2016 19:49:42 [info]  Clicked on the 'All Check Box' using JS Executor
+Sep 28,2016 19:49:42 [info]  Clicked on the 'Find Button' using JS Executor
+Sep 28,2016 19:50:16 [info]  Moved Mouse over 'First Asset in the Searched Asset'
+Sep 28,2016 19:50:17 [info]  Double clicked on 'First Asset in the Searched Asset'
+Sep 28,2016 19:50:20 [info]  Clicked on the 'View Asset' using JS Executor
+Sep 28,2016 19:50:40 [info]  Verified that Expected value :[AUT_AssetSeries_0928201674331] is matched with Actual value :[AUT_AssetSeries_0928201674331]
+Sep 28,2016 19:50:43 [info]  Clicked on the 'Documents TAB'
+Sep 28,2016 19:50:47 [info]  ***********Verifying AllButtons Present on the Document TAB in view Mode***********
+Sep 28,2016 19:50:47 [info]  Verified that Expected value :[View Document] is matched with Actual value :[View Document]
+Sep 28,2016 19:50:47 [info]  Verified that Expected value :[Add...] is matched with Actual value :[Add...]
+Sep 28,2016 19:50:47 [info]  Verified that Expected value :[Edit Profile] is matched with Actual value :[Edit Profile]
+Sep 28,2016 19:50:48 [info]  Verified that Expected value :[Delete] is matched with Actual value :[Delete]
+Sep 28,2016 19:50:48 [info]  Verified that Expected value :[Edit Documents] is matched with Actual value :[Edit Documents]
+Sep 28,2016 19:50:48 [info]  Verified that Expected value :[Applies To] is matched with Actual value :[Applies To]
+Sep 28,2016 19:50:48 [info]  ******Verifying the Fields and Buttons on the Add Document Window******
+Sep 28,2016 19:50:48 [info]  Clicked on the 'Document_AddDocumentButton' using JS Executor
+Sep 28,2016 19:50:51 [info]  Verified that Expected value :[*Applies To] is matched with Actual value :[*Applies To]
+Sep 28,2016 19:50:52 [info]  Verified that Expected value :[*Document Name] is matched with Actual value :[*Document Name]
+Sep 28,2016 19:50:52 [info]  Verified that Expected value :[*Document Type] is matched with Actual value :[*Document Type]
+Sep 28,2016 19:50:52 [info]  Verified that Expected value :[Document Date] is matched with Actual value :[Document Date]
+Sep 28,2016 19:50:52 [info]  Verified that Expected value :[Description] is matched with Actual value :[Description]
+Sep 28,2016 19:50:52 [info]  Verified that Expected value :[*Select File to Upload] is matched with Actual value :[*Select File to Upload]
+Sep 28,2016 19:50:52 [info]  Verified that Expected value :[Save] is matched with Actual value :[Save]
+Sep 28,2016 19:50:52 [info]  Verified that Expected value :[Cancel] is matched with Actual value :[Cancel]
+Sep 28,2016 19:50:52 [info]  *****Verifying all Associated Assets and Episodes are prefixed with 'Ep.'*****
+Sep 28,2016 19:50:53 [info]  Verified that Expected value :[AUT_AssetSeries_0928201674331] is matched with Actual value :[AUT_AssetSeries_0928201674331]
+Sep 28,2016 19:50:53 [info]  Verified that Expected value :[Season 1] is present in the Applies TO DropDown Values drop down
+Sep 28,2016 19:50:54 [info]  Verified that Expected value :[Ep.101: Episode101] is present in the Applies TO DropDown Values S1_Episode1 drop down
+Sep 28,2016 19:50:54 [info]  Verified that Expected value :[Ep.102: Episode102] is present in the Applies TO DropDown Values S1_Episode2 drop down
+Sep 28,2016 19:50:54 [info]  Verified that Expected value :[Season 2] is present in the Applies TO DropDown Values Season 2 drop down
+Sep 28,2016 19:50:55 [info]  Verified that Expected value :[Ep.201: Episode201] is present in the Applies TO DropDown Values S2_Episode1 drop down
+Sep 28,2016 19:50:55 [info]  Verified that Expected value :[Ep.202: Episode202] is present in the Applies TO DropDown Values S2_Episode2 drop down
+Sep 28,2016 19:50:55 [info]  Selected "Amendment" in "Document_AddDoc_DocTypeDropDown" drop down
+Sep 28,2016 19:50:55 [info]  Verified that Expected value :[Amendment] is matched with Actual value :[Amendment]
+Sep 28,2016 19:50:57 [info]  Entered "Declaration from the Legal HeirDeclaration 1234567890 @#$% @&*" in field 'Document_AddDoc_DocNameField'
+Sep 28,2016 19:50:58 [info]  Clicked on the 'Outside the Document Name Field'
+Sep 28,2016 19:50:58 [info]  Verify The data of Alert Message on Entering the invalid Names
+Sep 28,2016 19:50:58 [info]  Verified that Expected value :[Please enter a valid file name!] is matched with Actual value :[Please enter a valid file name!]
+Sep 28,2016 19:50:58 [info]  Clicked on the 'OK Button at Alert on Entering the invalid Names' using JS Executor
+Sep 28,2016 19:51:00 [info]  Entered "AT_Document_Name_001" in field 'Document_AddDoc_DocNameField'
+Sep 28,2016 19:51:00 [info]  Clicked on the 'Save Button at 'Add Document Window'' using JS Executor
+Sep 28,2016 19:51:03 [info]  Verified that Expected value :[Please select a document to upload.] is matched with Actual value :[  Please select a document to upload.  ]
+Sep 28,2016 19:56:37 [info]  Entered "C:\SeleniumProject\Workspace\RightsLogic\TestUploadFiles\AUTTestFile100KB.bmp" in field 'Upload File 'AUTTestFile100KB.bmp''
+Sep 28,2016 19:56:41 [info]  Entered "12/31/2010" in field 'Document Date'
+Sep 28,2016 19:56:44 [info]  ====Failed==== "Document Discription" field is not present'Document Discription'
+Sep 28,2016 19:56:44 [info]  Test 'TC1_DocumentUI' FAILED
+Sep 28,2016 19:56:44 [info]  2
+Sep 28,2016 19:56:44 [info]  Test 'TC1_DocumentUI' FAILED
+Sep 28,2016 19:56:44 [info]  2
+Sep 28,2016 19:58:44 [info]  ********************Started Executiong the Test Suite at 19:58:44******************
+Sep 28,2016 19:58:44 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Sep 28,2016 19:58:44 [info]  *********************Started Executing 'TC1_DocumentUI' Test Case*********************
+Sep 28,2016 19:58:54 [info]  Client: AMCN
+Sep 28,2016 19:58:54 [info]  URL: http://rlv2wb79/login.aspx
+Sep 28,2016 19:58:54 [info]  UserName: automation
+Sep 28,2016 19:58:54 [info]  Password: automation
+Sep 28,2016 19:58:54 [info]  Entered "automation" in field 'User Name'
+Sep 28,2016 19:58:55 [info]  Clicked on the 'Temporary Check Box'
+Sep 28,2016 19:58:55 [info]  Entered "automation" in field 'Password'
+Sep 28,2016 19:59:07 [info]  Clicked on the 'LoginButton'
+Sep 28,2016 19:59:17 [info]  Clicked on the 'MODULE'
+Sep 28,2016 19:59:35 [info]  Clicked on the 'Asset Maintenance'
+Sep 28,2016 19:59:39 [info]  Clicked on the 'Search Menu Icon' using JS Executor
+Sep 28,2016 19:59:39 [info]  Clicked on the 'AssetSearchUnderAsset' using JS Executor
+Sep 28,2016 19:59:53 [info]  Entered "AUT_AssetSeries_0928201674331" in field 'AssetTitle'
+Sep 28,2016 19:59:53 [info]  Clicked on the 'All Check Box' using JS Executor
+Sep 28,2016 19:59:53 [info]  Clicked on the 'Find Button' using JS Executor
+Sep 28,2016 20:00:34 [info]  Moved Mouse over 'First Asset in the Searched Asset'
+Sep 28,2016 20:00:35 [info]  Double clicked on 'First Asset in the Searched Asset'
+Sep 28,2016 20:00:38 [info]  Clicked on the 'View Asset' using JS Executor
+Sep 28,2016 20:00:58 [info]  Verified that Expected value :[AUT_AssetSeries_0928201674331] is matched with Actual value :[AUT_AssetSeries_0928201674331]
+Sep 28,2016 20:01:00 [info]  Clicked on the 'Documents TAB'
+Sep 28,2016 20:01:04 [info]  ***********Verifying AllButtons Present on the Document TAB in view Mode***********
+Sep 28,2016 20:01:05 [info]  Verified that Expected value :[View Document] is matched with Actual value :[View Document]
+Sep 28,2016 20:01:05 [info]  Verified that Expected value :[Add...] is matched with Actual value :[Add...]
+Sep 28,2016 20:01:06 [info]  Verified that Expected value :[Edit Profile] is matched with Actual value :[Edit Profile]
+Sep 28,2016 20:01:06 [info]  Verified that Expected value :[Delete] is matched with Actual value :[Delete]
+Sep 28,2016 20:01:06 [info]  Verified that Expected value :[Edit Documents] is matched with Actual value :[Edit Documents]
+Sep 28,2016 20:01:06 [info]  Verified that Expected value :[Applies To] is matched with Actual value :[Applies To]
+Sep 28,2016 20:01:06 [info]  ******Verifying the Fields and Buttons on the Add Document Window******
+Sep 28,2016 20:01:06 [info]  Clicked on the 'Document_AddDocumentButton' using JS Executor
+Sep 28,2016 20:01:09 [info]  Verified that Expected value :[*Applies To] is matched with Actual value :[*Applies To]
+Sep 28,2016 20:01:10 [info]  Verified that Expected value :[*Document Name] is matched with Actual value :[*Document Name]
+Sep 28,2016 20:01:10 [info]  Verified that Expected value :[*Document Type] is matched with Actual value :[*Document Type]
+Sep 28,2016 20:01:10 [info]  Verified that Expected value :[Document Date] is matched with Actual value :[Document Date]
+Sep 28,2016 20:01:10 [info]  Verified that Expected value :[Description] is matched with Actual value :[Description]
+Sep 28,2016 20:01:10 [info]  Verified that Expected value :[*Select File to Upload] is matched with Actual value :[*Select File to Upload]
+Sep 28,2016 20:01:10 [info]  Verified that Expected value :[Save] is matched with Actual value :[Save]
+Sep 28,2016 20:01:10 [info]  Verified that Expected value :[Cancel] is matched with Actual value :[Cancel]
+Sep 28,2016 20:01:10 [info]  *****Verifying all Associated Assets and Episodes are prefixed with 'Ep.'*****
+Sep 28,2016 20:01:11 [info]  Verified that Expected value :[AUT_AssetSeries_0928201674331] is matched with Actual value :[AUT_AssetSeries_0928201674331]
+Sep 28,2016 20:01:11 [info]  Verified that Expected value :[Season 1] is present in the Applies TO DropDown Values drop down
+Sep 28,2016 20:01:11 [info]  Verified that Expected value :[Ep.101: Episode101] is present in the Applies TO DropDown Values S1_Episode1 drop down
+Sep 28,2016 20:01:12 [info]  Verified that Expected value :[Ep.102: Episode102] is present in the Applies TO DropDown Values S1_Episode2 drop down
+Sep 28,2016 20:01:12 [info]  Verified that Expected value :[Season 2] is present in the Applies TO DropDown Values Season 2 drop down
+Sep 28,2016 20:01:12 [info]  Verified that Expected value :[Ep.201: Episode201] is present in the Applies TO DropDown Values S2_Episode1 drop down
+Sep 28,2016 20:01:13 [info]  Verified that Expected value :[Ep.202: Episode202] is present in the Applies TO DropDown Values S2_Episode2 drop down
+Sep 28,2016 20:01:13 [info]  Selected "Amendment" in "Document_AddDoc_DocTypeDropDown" drop down
+Sep 28,2016 20:01:13 [info]  Verified that Expected value :[Amendment] is matched with Actual value :[Amendment]
+Sep 28,2016 20:01:15 [info]  Entered "Declaration from the Legal HeirDeclaration 1234567890 @#$% @&*" in field 'Document_AddDoc_DocNameField'
+Sep 28,2016 20:01:15 [info]  Clicked on the 'Outside the Document Name Field'
+Sep 28,2016 20:01:16 [info]  Verify The data of Alert Message on Entering the invalid Names
+Sep 28,2016 20:01:16 [info]  Verified that Expected value :[Please enter a valid file name!] is matched with Actual value :[Please enter a valid file name!]
+Sep 28,2016 20:01:16 [info]  Clicked on the 'OK Button at Alert on Entering the invalid Names' using JS Executor
+Sep 28,2016 20:01:17 [info]  Entered "AT_Document_Name_001" in field 'Document_AddDoc_DocNameField'
+Sep 28,2016 20:01:17 [info]  Clicked on the 'Save Button at 'Add Document Window'' using JS Executor
+Sep 28,2016 20:01:21 [info]  Verified that Expected value :[Please select a document to upload.] is matched with Actual value :[  Please select a document to upload.  ]
+Sep 28,2016 20:01:27 [info]  Entered "C:\SeleniumProject\Workspace\RightsLogic\TestUploadFiles\AUTTestFile100KB.bmp" in field 'Upload File 'AUTTestFile100KB.bmp''
+Sep 28,2016 20:01:30 [info]  Entered "12/31/2010" in field 'Document Date'
+Sep 28,2016 20:01:33 [info]  Entered "Amendment" in field 'Document Discription'
+Sep 28,2016 20:01:34 [info]  Clicked on the 'Save Button at 'Add Document Window'' using JS Executor
+Sep 28,2016 20:01:37 [info]  ****Verifying all the Headers Name shown in View Mode After adding the Document****
+Sep 28,2016 20:01:40 [info]  Verified that Expected value :[Document Type] is matched with Actual value :[Document Type]
+Sep 28,2016 20:01:40 [info]  Verified that Expected value :[Document Name] is matched with Actual value :[Document Name]
+Sep 28,2016 20:01:40 [info]  Verified that Expected value :[Document Date] is matched with Actual value :[Document Date]
+Sep 28,2016 20:01:41 [info]  Verified that Expected value :[Description] is matched with Actual value :[Description]
+Sep 28,2016 20:01:41 [info]  Verified that Expected value :[Description] is matched with Actual value :[Description]
+Sep 28,2016 20:01:41 [info]  Verified that Expected value :[Description] is matched with Actual value :[Description]
+Sep 28,2016 20:01:41 [info]  ****Verifying all the Header's Values are shown orrectly in View Mode After adding the Document****
+Sep 28,2016 20:01:41 [info]  Verify The data of AMDocumentTypeValue
+Sep 28,2016 20:01:41 [info]  Verified that Expected value :[Amendment] is matched with Actual value :[Amendment]
+Sep 28,2016 20:01:41 [info]  Verify The data of AMDocumentNameData
+Sep 28,2016 20:01:41 [info]  Verified that Expected value :[AT_Document_Name_001] is matched with Actual value :[AT_Document_Name_001.bmp]
+Sep 28,2016 20:01:42 [info]  Verify The data of AMDocumentDate
+Sep 28,2016 20:01:42 [info]  Verified that Expected value :[12/31/2010] is matched with Actual value :[12/31/2010]
+Sep 28,2016 20:01:42 [info]  ******Click on View Button without selecting the row******
+Sep 28,2016 20:01:42 [info]  Clicked on the 'View Button' using JS Executor
+Sep 28,2016 20:01:46 [info]  Verify The data of Alert Message on clicking 'View Button'
+Sep 28,2016 20:01:46 [info]  Verified that Expected value :[Please select a row which contains document before clicking View Document.] is matched with Actual value :[Please select a row which contains document before clicking View Document.]
+Sep 28,2016 20:01:46 [info]  Clicked on the 'OK Button at Alert on clicking 'View Button'' using JS Executor
+Sep 28,2016 20:01:46 [info]  ******Click on Edit Button without selecting the row******
+Sep 28,2016 20:01:46 [info]  Clicked on the 'Edit Button' using JS Executor
+Sep 28,2016 20:01:47 [info]  Verify The data of Alert Message on clicking 'View Button'
+Sep 28,2016 20:01:47 [info]  Verified that Expected value :[Please select a row which contains document before clicking Edit Profile] is matched with Actual value :[Please select a row which contains document before clicking Edit Profile.]
+Sep 28,2016 20:01:47 [info]  Clicked on the 'OK Button at Alert on clicking 'View Button'' using JS Executor
+Sep 28,2016 20:01:47 [info]  ******Click on Edit Document Button and change the data and verify in view mode******
+Sep 28,2016 20:01:50 [info]  Clicked on the 'Select the Row in View Mode' using JS Executor
+Sep 28,2016 20:01:53 [info]  Clicked on the 'Edit Button' using JS Executor
+Sep 28,2016 20:01:59 [info]  Selected "Cue Sheet" in "Document_AddDoc_DocTypeDropDown" drop down
+Sep 28,2016 20:01:59 [info]  Verified that Expected value :[Cue Sheet] is matched with Actual value :[Cue Sheet]
+Sep 28,2016 20:02:01 [info]  Entered "AT_Document_Name_001_Changed" in field 'Document_AddDoc_DocNameField'
+Sep 28,2016 20:02:04 [info]  Entered "Amendment" in field 'Document Discription'
+Sep 28,2016 20:02:04 [info]  Clicked on the 'Save Button at 'Add Document Window'' using JS Executor
+Sep 28,2016 20:02:08 [info]  Verify The data of AMDocumentTypeValue
+Sep 28,2016 20:02:08 [info]  Verified that Expected value :[Cue Sheet] is matched with Actual value :[Cue Sheet]
+Sep 28,2016 20:02:08 [info]  Verify The data of AMDocumentNameData
+Sep 28,2016 20:02:08 [info]  Verified that Expected value :[AT_Document_Name_001_Changed] is matched with Actual value :[AT_Document_Name_001_Changed.bmp]
+Sep 28,2016 20:02:08 [info]  ******Click on Remove Button without selecting the row******
+Sep 28,2016 20:02:08 [info]  Clicked on the 'Delete Document Button' using JS Executor
+Sep 28,2016 20:02:09 [info]  Verify The data of Alert Message on clicking 'Delete Button'
+Sep 28,2016 20:02:09 [info]  Verified that Expected value :[Please select a row before clicking Delete.] is matched with Actual value :[Please select a row before clicking Delete.]
+Sep 28,2016 20:02:09 [info]  Clicked on the 'OK Button at Alert on clicking 'View Button'' using JS Executor
+Sep 28,2016 20:02:09 [info]  ******Remove/Delete the Document row******
+Sep 28,2016 20:02:10 [info]  Clicked on the 'Select the Row in View Mode'
+Sep 28,2016 20:02:10 [info]  Clicked on the 'Delete Document Button' using JS Executor
+Sep 28,2016 20:02:14 [info]  Verify The data of Alert Message on clicking 'Remove Button'
+Sep 28,2016 20:02:14 [info]  Verified that Expected value :[Are you sure you want to delete the document?] is matched with Actual value :[Are you sure you want to delete the document?]
+Sep 28,2016 20:02:14 [info]  Clicked on the 'OK Button at Alert on clicking 'View Button'' using JS Executor
+Sep 28,2016 20:02:29 [info]  "Document Row" is not Present
+Sep 28,2016 20:02:29 [info]  ******Verify the validation message on uploading 20480 KB file****
+Sep 28,2016 20:02:29 [info]  Clicked on the 'Document_AddDocumentButton' using JS Executor
+Sep 28,2016 20:02:32 [info]  Selected "Amendment" in "Document_AddDoc_DocTypeDropDown" drop down
+Sep 28,2016 20:02:33 [info]  Verified that Expected value :[Amendment] is matched with Actual value :[Amendment]
+Sep 28,2016 20:02:34 [info]  Entered "AT_Document_Name_001" in field 'Document_AddDoc_DocNameField'
+Sep 28,2016 20:02:37 [info]  Entered "12/31/2010" in field 'Document Date'
+Sep 28,2016 20:02:41 [info]  Entered "Amendment" in field 'Document Discription'
+Sep 28,2016 20:02:43 [info]  Entered "C:\SeleniumProject\Workspace\RightsLogic\TestUploadFiles\AUTTestFile21MB.bmp" in field 'Upload File 'AUTTestFile21MB.bmp''
+Sep 28,2016 20:02:46 [info]  Clicked on the 'Save Button at 'Add Document Window'' using JS Executor
+Sep 28,2016 20:02:50 [info]  Verified that Expected value :[The size of the file you are trying to upload exceeds the threshold limit(20480KB).] is matched with Actual value :[  The size of the file you are trying to upload exceeds the threshold limit(20480KB).]
+Sep 28,2016 20:02:50 [info]  *****Verify the message while uploadiing WinRAR file*****
+Sep 28,2016 20:02:53 [info]  Entered "C:\SeleniumProject\Workspace\RightsLogic\TestUploadFiles\AUTTestFile900KB.rar" in field 'Upload File 'AUTTestFile21MB.bmp''
+Sep 28,2016 20:02:56 [info]  Clicked on the 'Save Button at 'Add Document Window'' using JS Executor
+Sep 28,2016 20:02:59 [info]  Verified that Expected value :[Cannot Upload Document of this Type. The Valid Types are .DOC, .DOCX, .JPEG, .MPEG, .PPT, .PPTX, .TXT, .WMV, .XLS, .XLSX, .PDF, .JPG, .GIF, .RTF, .MSG, .TIF, .VSD, .EML, .BMP only.] is matched with Actual value :[Cannot Upload Document of this Type. The Valid Types are .DOC, .DOCX, .JPEG, .MPEG, .PPT, .PPTX, .TXT, .WMV, .XLS, .XLSX, .PDF, .JPG, .GIF, .RTF, .MSG, .TIF, .VSD, .EML, .BMP only.]
+Sep 28,2016 20:02:59 [info]  Test 'TC1_DocumentUI' PASSED
+Sep 28,2016 20:03:00 [info]  Closed the Browser
+Sep 28,2016 20:04:24 [info]  ********************Started Executiong the Test Suite at 20:04:24******************
+Sep 28,2016 20:04:24 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Sep 28,2016 20:04:24 [info]  *********************Started Executing 'TC1_DocumentUI' Test Case*********************
+Sep 28,2016 20:04:33 [info]  Client: SALESDEMO
+Sep 28,2016 20:04:33 [info]  URL: http://salesdemo3.rightslogic.com
+Sep 28,2016 20:04:33 [info]  UserName: admin
+Sep 28,2016 20:04:33 [info]  Password: admin1
+Sep 28,2016 20:04:37 [info]  Entered "admin" in field 'User Name'
+Sep 28,2016 20:04:37 [info]  Clicked on the 'Temporary Check Box'
+Sep 28,2016 20:04:38 [info]  Entered "admin1" in field 'Password'
+Sep 28,2016 20:04:38 [info]  Clicked on the 'LoginButton'
+Sep 28,2016 20:04:44 [info]  AUT_AssetSeries_0928201680444
+Sep 28,2016 20:04:45 [info]  ************************Started Creating Asset of Type: Program - Series************************
+Sep 28,2016 20:04:45 [info]  ====Failed==== " Could not find the Frame: //div[@clientid='RL_SplitterPane_Navigation']
+Sep 28,2016 20:04:45 [info]  Test 'TC1_DocumentUI' FAILED
+Sep 28,2016 20:04:45 [info]  2
+Sep 28,2016 20:04:45 [info]  Test 'TC1_DocumentUI' FAILED
+Sep 28,2016 20:04:45 [info]  2
+Sep 28,2016 20:05:21 [info]  ********************Started Executiong the Test Suite at 20:05:21******************
+Sep 28,2016 20:05:21 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Sep 28,2016 20:05:21 [info]  *********************Started Executing 'TC1_DocumentUI' Test Case*********************
+Sep 28,2016 20:05:32 [info]  Client: SALESDEMO
+Sep 28,2016 20:05:32 [info]  URL: http://salesdemo3.rightslogic.com
+Sep 28,2016 20:05:32 [info]  UserName: admin
+Sep 28,2016 20:05:32 [info]  Password: admin1
+Sep 28,2016 20:05:35 [info]  Entered "admin" in field 'User Name'
+Sep 28,2016 20:05:35 [info]  Clicked on the 'Temporary Check Box'
+Sep 28,2016 20:05:35 [info]  Entered "admin1" in field 'Password'
+Sep 28,2016 20:05:35 [info]  Clicked on the 'LoginButton'
+Sep 28,2016 20:05:41 [info]  AUT_AssetSeries_0928201680541
+Sep 28,2016 20:05:42 [info]  ************************Started Creating Asset of Type: Program - Series************************
+Sep 28,2016 20:05:46 [info]  Clicked on the 'MODULE'
+Sep 28,2016 20:05:49 [info]  Clicked on the 'Asset Maintenance'
+Sep 28,2016 20:05:55 [info]  Clicked on the 'New Button' using JS Executor
+Sep 28,2016 20:06:00 [info]  Clicked on the 'Program' using JS Executor
+Sep 28,2016 20:06:09 [info]  Clicked on the 'General TAB'
+Sep 28,2016 20:06:12 [info]  Selected "Program - Series" in "AssetTypeDropDown" drop down
+Sep 28,2016 20:06:15 [info]  Entered "AUT_AssetSeries_0928201680541" in field 'AssetTitle'
+Sep 28,2016 20:06:26 [info]  Test 'TC1_DocumentUI' FAILED
+Sep 28,2016 20:06:26 [info]  2
+Sep 28,2016 20:06:26 [info]  Test Case :TC1_DocumentUI's Screenshot of Failure Page: C:\SeleniumProject\Screenshots\Sep2016\\28\TC1_DocumentUI_09-28-2016 8-06-26 PM.jpg
+Sep 28,2016 20:06:27 [info]  Closed the Browser
+Sep 28,2016 20:06:27 [info]  *********************Started Executing 'TC2_DocumentTAB_AcrossEpisodesAsset' Test Case*********************
+Sep 28,2016 20:06:35 [info]  AUT_AssetSeries_0928201680635
+Sep 28,2016 20:06:35 [info]  ************************Started Creating Asset of Type: Program - Series************************
+Sep 28,2016 20:06:37 [info]  ====Failed==== " Could not find the Frame: //div[@clientid='RL_SplitterPane_Navigation']
+Sep 28,2016 20:06:39 [info]  Test 'TC2_DocumentTAB_AcrossEpisodesAsset' FAILED
+Sep 28,2016 20:06:39 [info]  2
+Sep 28,2016 20:06:59 [info]  ********************Started Executiong the Test Suite at 20:06:59******************
+Sep 28,2016 20:06:59 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Sep 28,2016 20:06:59 [info]  *********************Started Executing 'TC1_DocumentUI' Test Case*********************
+Sep 28,2016 20:07:08 [info]  Client: CORUS
+Sep 28,2016 20:07:08 [info]  URL: https://corus-rsgqa.rightslogic.com/Login.aspx 
+Sep 28,2016 20:07:08 [info]  UserName: admin
+Sep 28,2016 20:07:08 [info]  Password: admin_corus
+Sep 28,2016 20:07:08 [info]  Entered "admin" in field 'User Name'
+Sep 28,2016 20:07:09 [info]  Clicked on the 'Temporary Check Box'
+Sep 28,2016 20:07:09 [info]  Entered "admin_corus" in field 'Password'
+Sep 28,2016 20:07:09 [info]  Clicked on the 'LoginButton'
+Sep 28,2016 20:07:15 [info]  AUT_AssetSeries_0928201680715
+Sep 28,2016 20:07:16 [info]  ************************Started Creating Asset of Type: Program - Series************************
+Sep 28,2016 20:07:20 [info]  Clicked on the 'MODULE'
+Sep 28,2016 20:07:23 [info]  Clicked on the 'Asset Maintenance'
+Sep 28,2016 20:07:31 [info]  Clicked on the 'New Button' using JS Executor
+Sep 28,2016 20:07:35 [info]  Clicked on the 'Program' using JS Executor
+Sep 28,2016 20:07:44 [info]  Clicked on the 'General TAB'
+Sep 28,2016 20:07:47 [info]  Selected "Program - Series" in "AssetTypeDropDown" drop down
+Sep 28,2016 20:07:50 [info]  Entered "AUT_AssetSeries_0928201680715" in field 'AssetTitle'
+Sep 28,2016 20:07:50 [info]  Clicked on the 'SBUImage' using JS Executor
+Sep 28,2016 20:07:52 [info]  Verified that Expected value :[Primary Channel Template] is matched with Actual value :[Primary Channel Template]
+Sep 28,2016 20:07:52 [info]  Clicked on the ''Select All' CheckBox at SBU' using JS Executor
+Sep 28,2016 20:07:58 [info]  Clicked on the 'First CheckBox At SBU window'
+Sep 28,2016 20:07:58 [info]  Clicked on the 'Ninth CheckBox At SBU winodw'
+Sep 28,2016 20:08:00 [info]  Clicked on the 'Apply Button' using JS Executor
+Sep 28,2016 20:08:01 [info]  Entered "00:30:00" in field 'Duration'
+Sep 28,2016 20:08:01 [info]  ====Failed==== "Duration" field is not present'Duration'
+Sep 28,2016 20:08:01 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Sep2016\\28\Duration_CheckpointFailure_09-28-2016 8-08-01 PM.jpg
+Sep 28,2016 20:08:01 [info]  Selected "Production" in "Asset Status" drop down
+Sep 28,2016 20:08:01 [info]  Selected "Licensed Acquired Production" in "Asset Source" drop down
+Sep 28,2016 20:08:02 [info]  Selected "DVD" in "Asset Category/Group" drop down
+Sep 28,2016 20:08:02 [info]  Entered "AUT_Series" in field 'Short Name'
+Sep 28,2016 20:08:02 [info]  Clicked on the 'Genre Add Button' using JS Executor
+Sep 28,2016 20:08:02 [info]  Clicked on the 'Genre Type Row Field' using JS Executor
+Sep 28,2016 20:08:02 [info]  Clicked on the 'Genere Type Dropdown Image'
+Sep 28,2016 20:08:02 [info]  Clicked on the 'First Genere Type DropDown Value in the list'
+Sep 28,2016 20:08:02 [info]  Clicked on the 'Genre Row Field' using JS Executor
+Sep 28,2016 20:08:02 [info]  Clicked on the 'Genere Dropdown Image'
+Sep 28,2016 20:08:02 [info]  Clicked on the 'Genere Dropdown value'
+Sep 28,2016 20:08:03 [info]  Clicked on the 'Add Button of Note' using JS Executor
+Sep 28,2016 20:08:05 [info]  Entered "Medium" in field 'Asset Priority'
+Sep 28,2016 20:08:05 [info]  Entered "Subject For the Deal" in field 'Asset Subject'
+Sep 28,2016 20:08:05 [info]  Entered "New Asset" in field 'AssetNotes TextField'
+Sep 28,2016 20:08:05 [info]  Clicked on the 'OK button'
+Sep 28,2016 20:08:08 [info]  Clicked on the 'Save Button' using JS Executor
+Sep 28,2016 20:08:19 [info]  Verified that Expected value :[AUT_AssetSeries_0928201680715] is matched with Actual value :[AUT_AssetSeries_0928201680715]
+Sep 28,2016 20:08:19 [info]  ************************Created Asset of TypeProgram - Series************************
+Sep 28,2016 20:08:22 [info]  Clicked on the 'MODULE'
+Sep 28,2016 20:08:25 [info]  Clicked on the 'Asset Maintenance'
+Sep 28,2016 20:08:29 [info]  Clicked on the 'Search Menu Icon' using JS Executor
+Sep 28,2016 20:08:31 [info]  Clicked on the 'AssetSearchUnderAsset' using JS Executor
+Sep 28,2016 20:08:39 [info]  Entered "AUT_AssetSeries_0928201680715" in field 'AssetTitle'
+Sep 28,2016 20:08:44 [info]  Clicked on the 'Find Button' using JS Executor
+Sep 28,2016 20:09:01 [info]  Moved Mouse over 'First Asset in the Searched Asset'
+Sep 28,2016 20:09:01 [info]  Double clicked on 'First Asset in the Searched Asset'
+Sep 28,2016 20:09:16 [info]  ====Failed==== "View Asset" field is not present'
+Sep 28,2016 20:09:16 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Sep2016\\28\View Asset_CheckpointFailure_09-28-2016 8-09-16 PM.jpg
+Sep 28,2016 20:09:29 [info]  Verified that Expected value :[AUT_AssetSeries_0928201680715] is matched with Actual value :[AUT_AssetSeries_0928201680715]
+Sep 28,2016 20:09:35 [info]  Clicked on the 'Episodes TAB'
+Sep 28,2016 20:09:38 [info]  Clicked on the ''Edit' Button at Episode window' using JS Executor
+Sep 28,2016 20:09:41 [info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Sep 28,2016 20:09:44 [info]  Entered "101" in field 'Add Episode input field'
+Sep 28,2016 20:09:46 [info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Sep 28,2016 20:09:52 [info]  Clicked on the 'Season Field of Episode101' using JS Executor
+Sep 28,2016 20:09:52 [info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Sep 28,2016 20:09:52 [info]  Clicked on the 'Season 1'
+Sep 28,2016 20:09:52 [info]  Clicked on the 'Support click to select season'
+Sep 28,2016 20:09:55 [info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Sep 28,2016 20:09:56 [info]  Entered "102" in field 'Add Episode input field'
+Sep 28,2016 20:09:57 [info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Sep 28,2016 20:10:00 [info]  Clicked on the 'Season Field of Episode102' using JS Executor
+Sep 28,2016 20:10:00 [info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Sep 28,2016 20:10:01 [info]  Clicked on the 'Season 1'
+Sep 28,2016 20:10:01 [info]  Clicked on the 'Support click to select season'
+Sep 28,2016 20:10:01 [info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Sep 28,2016 20:10:01 [info]  Entered "201" in field 'Add Episode input field'
+Sep 28,2016 20:10:02 [info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Sep 28,2016 20:10:05 [info]  Clicked on the 'Season Field of Episode201' using JS Executor
+Sep 28,2016 20:10:05 [info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Sep 28,2016 20:10:06 [info]  Clicked on the 'Season 2'
+Sep 28,2016 20:10:06 [info]  Clicked on the 'Support click to select season'
+Sep 28,2016 20:10:09 [info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Sep 28,2016 20:10:09 [info]  Entered "202" in field 'Add Episode input field'
+Sep 28,2016 20:10:10 [info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Sep 28,2016 20:10:13 [info]  Clicked on the 'Support click to select season'
+Sep 28,2016 20:10:14 [info]  Clicked on the 'Season Field of Episode201' using JS Executor
+Sep 28,2016 20:10:14 [info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Sep 28,2016 20:10:14 [info]  Clicked on the 'Season 2'
+Sep 28,2016 20:10:14 [info]  Clicked on the 'Support click to select season'
+Sep 28,2016 20:10:20 [info]  Clicked on the 'Save Button at 'Episode Edit Window'' using JS Executor
+Sep 28,2016 20:10:31 [info]  Clicked on the 'Close Button at 'Episode Edit Window'' using JS Executor
+Sep 28,2016 20:10:40 [info]  Clicked on the 'MODULE'
+Sep 28,2016 20:10:43 [info]  Clicked on the 'Asset Maintenance'
+Sep 28,2016 20:10:47 [info]  Clicked on the 'Search Menu Icon' using JS Executor
+Sep 28,2016 20:10:49 [info]  Clicked on the 'AssetSearchUnderAsset' using JS Executor
+Sep 28,2016 20:10:58 [info]  Entered "AUT_AssetSeries_0928201680715" in field 'AssetTitle'
+Sep 28,2016 20:11:00 [info]  Clicked on the 'Find Button' using JS Executor
+Sep 28,2016 20:11:17 [info]  Moved Mouse over 'First Asset in the Searched Asset'
+Sep 28,2016 20:11:17 [info]  Double clicked on 'First Asset in the Searched Asset'
+Sep 28,2016 20:11:32 [info]  ====Failed==== "View Asset" field is not present'
+Sep 28,2016 20:11:33 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Sep2016\\28\View Asset_CheckpointFailure_09-28-2016 8-11-32 PM.jpg
+Sep 28,2016 20:11:45 [info]  Verified that Expected value :[AUT_AssetSeries_0928201680715] is matched with Actual value :[AUT_AssetSeries_0928201680715]
+Sep 28,2016 20:11:45 [info]  Clicked on the 'Documents TAB'
+Sep 28,2016 20:11:50 [info]  ***********Verifying AllButtons Present on the Document TAB in view Mode***********
+Sep 28,2016 20:11:50 [info]  Verified that Expected value :[View Document] is matched with Actual value :[View Document]
+Sep 28,2016 20:11:51 [info]  Verified that Expected value :[Add...] is matched with Actual value :[Add...]
+Sep 28,2016 20:11:51 [info]  Verified that Expected value :[Edit Profile] is matched with Actual value :[Edit Profile]
+Sep 28,2016 20:11:51 [info]  Verified that Expected value :[Delete] is matched with Actual value :[Delete]
+Sep 28,2016 20:11:51 [info]  Verified that Expected value :[Edit Documents] is matched with Actual value :[Edit Documents]
+Sep 28,2016 20:11:51 [info]  Verified that Expected value :[Applies To] is matched with Actual value :[Applies To]
+Sep 28,2016 20:11:51 [info]  ******Verifying the Fields and Buttons on the Add Document Window******
+Sep 28,2016 20:11:52 [info]  Clicked on the 'Document_AddDocumentButton' using JS Executor
+Sep 28,2016 20:11:55 [info]  Verified that Expected value :[*Applies To] is matched with Actual value :[*Applies To]
+Sep 28,2016 20:11:55 [info]  Verified that Expected value :[*Document Name] is matched with Actual value :[*Document Name]
+Sep 28,2016 20:11:55 [info]  Verified that Expected value :[*Document Type] is matched with Actual value :[*Document Type]
+Sep 28,2016 20:11:55 [info]  Verified that Expected value :[Document Date] is matched with Actual value :[Document Date]
+Sep 28,2016 20:11:55 [info]  Verified that Expected value :[Description] is matched with Actual value :[Description]
+Sep 28,2016 20:11:55 [info]  Verified that Expected value :[*Select File to Upload] is matched with Actual value :[*Select File to Upload]
+Sep 28,2016 20:11:55 [info]  Verified that Expected value :[Save] is matched with Actual value :[Save]
+Sep 28,2016 20:11:55 [info]  Verified that Expected value :[Cancel] is matched with Actual value :[Cancel]
+Sep 28,2016 20:11:55 [info]  *****Verifying all Associated Assets and Episodes are prefixed with 'Ep.'*****
+Sep 28,2016 20:11:56 [info]  Verified that Expected value :[AUT_AssetSeries_0928201680715] is matched with Actual value :[AUT_AssetSeries_0928201680715]
+Sep 28,2016 20:11:56 [info]  ====Failed==== Expected value is:[Season 1.Original Version] is not present in the Applies TO DropDown Values drop down. please see the screenshot: Season 1.Original Versionfor more details
+Sep 28,2016 20:11:56 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Sep2016\\28\Season 1.Original Version_CheckpointFailure_09-28-2016 8-11-56 PM.jpg
+Sep 28,2016 20:11:56 [info]  ====Failed==== Expected value is:[Ep.101: Episode101] is not present in the Applies TO DropDown Values S1_Episode1 drop down. please see the screenshot: Ep.101: Episode101for more details
+Sep 28,2016 20:11:56 [info]  Test 'TC1_DocumentUI' FAILED
+Sep 28,2016 20:11:56 [info]  2
+Sep 28,2016 20:11:57 [info]  Test Case :TC1_DocumentUI's Screenshot of Failure Page: C:\SeleniumProject\Screenshots\Sep2016\\28\TC1_DocumentUI_09-28-2016 8-11-56 PM.jpg
+Sep 28,2016 20:11:58 [info]  Closed the Browser
+Sep 28,2016 20:11:58 [info]  *********************Started Executing 'TC2_DocumentTAB_AcrossEpisodesAsset' Test Case*********************
+Sep 28,2016 20:12:06 [info]  Client: CORUS
+Sep 28,2016 20:12:06 [info]  URL: https://corus-rsgqa.rightslogic.com/Login.aspx 
+Sep 28,2016 20:12:06 [info]  UserName: admin
+Sep 28,2016 20:12:06 [info]  Password: admin_corus
+Sep 28,2016 20:12:07 [info]  Entered "admin" in field 'User Name'
+Sep 28,2016 20:12:07 [info]  Clicked on the 'Temporary Check Box'
+Sep 28,2016 20:12:07 [info]  Entered "admin_corus" in field 'Password'
+Sep 28,2016 20:12:07 [info]  Clicked on the 'LoginButton'

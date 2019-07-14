@@ -1,0 +1,2231 @@
+Dec 08,2016 12:16:39 [info]  ********************Started Executiong the Test Suite at 12:16:39******************
+Dec 08,2016 12:16:39 [info]  Client: AMCN
+Dec 08,2016 12:16:39 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Dec 08,2016 12:16:39 [info]  *********************Started Executing 'TC4_SelectMediaRow_WhileDefiningExhRights' Test Case*********************
+Dec 08,2016 12:16:51 [info]  Client: AMCN
+Dec 08,2016 12:16:51 [info]  URL: http://rlv2wb79/login.aspx
+Dec 08,2016 12:16:51 [info]  UserName: automation
+Dec 08,2016 12:16:51 [info]  Password: automation
+Dec 08,2016 12:16:52 [info]  Entered "automation" in field 'User Name'
+Dec 08,2016 12:16:52 [info]  Clicked on the 'Temporary Check Box'
+Dec 08,2016 12:16:52 [info]  Entered "automation" in field 'Password'
+Dec 08,2016 12:17:00 [info]  Clicked on the 'LoginButton'
+Dec 08,2016 12:17:10 [info]  Double clicked on 'AUT_Deal_TC1_1207201624633Deal'
+Dec 08,2016 12:17:13 [info]  Clicked on the 'Exhibition Rights TAB'
+Dec 08,2016 12:17:18 [info]  Clicked on the ''Edit' Button at Media Rights TAB' using JS Executor
+Dec 08,2016 12:17:18 [info]  
+Dec 08,2016 12:17:18 [info]  Add Button >> Verify Media Rights's rows >> verify Select Check Box is shown >> Verify Buttons
+Dec 08,2016 12:17:19 [info]  Clicked on the 'Add Button'
+Dec 08,2016 12:17:24 [info]  Clicked on the 'Select Check Box'
+Dec 08,2016 12:17:26 [info]  Clicked on the 'Add Button at Media rights Pop up Window'
+Dec 08,2016 12:17:29 [info]  Verify The data of Media Row Number
+Dec 08,2016 12:17:29 [info]  Verified that Expected value :[Media Row No] is matched with Actual value :[Media Row No]
+Dec 08,2016 12:17:29 [info]  Verify The data of Exhibit APPLIESTO
+Dec 08,2016 12:17:29 [info]  Verified that Expected value :[Applies To] is matched with Actual value :[Applies To]
+Dec 08,2016 12:17:29 [info]  Verify The data of UNLIMITED Header
+Dec 08,2016 12:17:29 [info]  Verified that Expected value :[Unlimited] is matched with Actual value :[Unlimited]
+Dec 08,2016 12:17:29 [info]  Verify The data of EXHIBIT DATE UPDATE Header
+Dec 08,2016 12:17:29 [info]  Verified that Expected value :[Update] is matched with Actual value :[*Update]
+Dec 08,2016 12:17:29 [info]  Verify The data of EXHIBITION_DAYSHeader
+Dec 08,2016 12:17:29 [info]  Verified that Expected value :[Exhib.Days] is matched with Actual value :[Exhib.Days]
+Dec 08,2016 12:17:29 [info]  Verify The data of RESERVED_EXHIBITION Header
+Dec 08,2016 12:17:29 [info]  Verified that Expected value :[Reserved Exhibitions] is matched with Actual value :[Reserved Exhibitions]
+Dec 08,2016 12:17:29 [info]  Verify The data of POOLED Header
+Dec 08,2016 12:17:29 [info]  Verified that Expected value :[Pooled] is matched with Actual value :[Pooled]
+Dec 08,2016 12:17:30 [info]  Verify The data of EXHIBITIONDAYSCOPE_Header
+Dec 08,2016 12:17:30 [info]  Verified that Expected value :[Exhib.Day Scope] is matched with Actual value :[*Exhib.Day Scope]
+Dec 08,2016 12:17:30 [info]  Verify The data of STARTDATE Header
+Dec 08,2016 12:17:30 [info]  Verified that Expected value :[Start Date] is matched with Actual value :[Start Date]
+Dec 08,2016 12:17:30 [info]  Verify The data of ENDDATEHeader
+Dec 08,2016 12:17:30 [info]  Verified that Expected value :[End Date] is matched with Actual value :[End Date]
+Dec 08,2016 12:17:30 [info]  Verify The data of ExhibitBUSINESS_TERMSHeader
+Dec 08,2016 12:17:30 [info]  Verified that Expected value :[Notes] is matched with Actual value :[Notes]
+Dec 08,2016 12:17:30 [info]  
+Dec 08,2016 12:17:30 [info]  Verifying the headers of Child Row in Edit Mode
+Dec 08,2016 12:17:30 [info]  Verify The data of WINDOWNAME
+Dec 08,2016 12:17:30 [info]  Verified that Expected value :[Window Name] is matched with Actual value :[*Window Name]
+Dec 08,2016 12:17:30 [info]  Verify The data of WINDOW_TYPE Header
+Dec 08,2016 12:17:30 [info]  Verified that Expected value :[Window Type] is matched with Actual value :[Window Type]
+Dec 08,2016 12:17:30 [info]  Verify The data of RIGHTSTYPE UPDATE Header
+Dec 08,2016 12:17:30 [info]  Verified that Expected value :[Rights Type] is matched with Actual value :[*Rights Type]
+Dec 08,2016 12:17:30 [info]  Verify The data of EXHIBITION_DAYSHeader
+Dec 08,2016 12:17:30 [info]  Verified that Expected value :[Exhib.Days] is matched with Actual value :[Exhib.Days]
+Dec 08,2016 12:17:30 [info]  Verify The data of POOLED Header
+Dec 08,2016 12:17:30 [info]  Verified that Expected value :[Pooled] is matched with Actual value :[Pooled]
+Dec 08,2016 12:17:30 [info]  Verify The data of STARTDATECHILD_Header
+Dec 08,2016 12:17:30 [info]  Verified that Expected value :[Start Date] is matched with Actual value :[*Start Date]
+Dec 08,2016 12:17:30 [info]  Verify The data of NETWORK_SUMMARY Header
+Dec 08,2016 12:17:30 [info]  Verified that Expected value :[Exhib.Network] is matched with Actual value :[*Exhib.Network]
+Dec 08,2016 12:17:30 [info]  Verify The data of TERRITORY_TERMSHeader
+Dec 08,2016 12:17:30 [info]  Verified that Expected value :[Territory] is matched with Actual value :[Territory]
+Dec 08,2016 12:17:30 [info]  Verify The data of EXHIBITIONDAYTYPE_Header
+Dec 08,2016 12:17:30 [info]  Verified that Expected value :[Day Type] is matched with Actual value :[Day Type]
+Dec 08,2016 12:17:31 [info]  Verify The data of EXHIBITIONDAYPERIOD Header
+Dec 08,2016 12:17:31 [info]  Verified that Expected value :[Day Period] is matched with Actual value :[*Day Period]
+Dec 08,2016 12:17:31 [info]  Verify The data of PLAYSPEREXHIBITION Header
+Dec 08,2016 12:17:31 [info]  Verified that Expected value :[Plays] is matched with Actual value :[*Plays]
+Dec 08,2016 12:17:31 [info]  Verify The data of ADDLNETWORKUSAGE_Header
+Dec 08,2016 12:17:31 [info]  Verified that Expected value :[Addl.Exhib.Restrictions] is matched with Actual value :[Addl.Exhib.Restrictions]
+Dec 08,2016 12:17:31 [info]  Verify The data of RID_RATING_TERMSHeader
+Dec 08,2016 12:17:31 [info]  Verified that Expected value :[Evaluation] is matched with Actual value :[Evaluation]
+Dec 08,2016 12:17:31 [info]  Verify The data of Applies to
+Dec 08,2016 12:17:31 [info]  Verified that Expected value :[All] is matched with Actual value :[All]
+Dec 08,2016 12:17:31 [info]  Verify The data of Applies to
+Dec 08,2016 12:17:31 [info]  Verified that Expected value :[Automatic] is matched with Actual value :[Automatic]
+Dec 08,2016 12:17:31 [info]  Verify The data of STARTDATE
+Dec 08,2016 12:17:31 [info]  Verified that Expected value :[01/01/2007] is matched with Actual value :[01/01/2007]
+Dec 08,2016 12:17:31 [info]  Verify The data of ENDDATE
+Dec 08,2016 12:17:31 [info]  Verified that Expected value :[12/31/2008] is matched with Actual value :[12/31/2008]
+Dec 08,2016 12:17:32 [info]  Verify The data of UNLIMITED Check box
+Dec 08,2016 12:17:32 [info]  Verified that Expected value :[Checked] is matched with Actual value :[Checked]
+Dec 08,2016 12:17:32 [info]  Verify The data of POOLED Check box
+Dec 08,2016 12:17:32 [info]  Verified that Expected value :[Checked] is matched with Actual value :[Checked]
+Dec 08,2016 12:17:32 [info]  Verify The data of Window Type
+Dec 08,2016 12:17:32 [info]  ====Failed==== Expected value is:[Primary] but Actual value is[1]. Please check the screenshot with name: Window Typefor more details
+Dec 08,2016 12:17:32 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\08\Window Type_CheckpointFailure_12-08-2016 12-17-32 PM.jpg
+Dec 08,2016 12:17:32 [info]  Verify The data of Start Date Child
+Dec 08,2016 12:17:32 [info]  Verified that Expected value :[01/01/2007] is matched with Actual value :[01/01/2007]
+Dec 08,2016 12:17:33 [info]  Verify The data of PLAYS
+Dec 08,2016 12:17:33 [info]  Verified that Expected value :[Unlimited] is matched with Actual value :[Unlimited]
+Dec 08,2016 12:17:33 [info]  Verify The data of Day Type
+Dec 08,2016 12:17:33 [info]  Verified that Expected value :[Consecutive Period] is matched with Actual value :[Consecutive Period]
+Dec 08,2016 12:17:33 [info]  Verify The data of Day Period
+Dec 08,2016 12:17:33 [info]  Verified that Expected value :[24 HR] is matched with Actual value :[24 HR]
+Dec 08,2016 12:17:33 [info]  Verify The data of Add Exhibition
+Dec 08,2016 12:17:33 [info]  Verified that Expected value :[Same Network] is matched with Actual value :[Same Network]
+Dec 08,2016 12:17:34 [info]  Clicked on the ''Save' Button at Exhibition Rights Edit window' using JS Executor
+Dec 08,2016 12:17:38 [info]  ====Failed==== Expected value is:[Please enter values for required(*) fields.] but Actual value is[Please enter values for required (*) fields.]. Please check the screenshot with name: Validation messagefor more details
+Dec 08,2016 12:17:38 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\08\Validation message_CheckpointFailure_12-08-2016 12-17-38 PM.jpg
+Dec 08,2016 12:17:38 [info]  Clicked on the 'Exhibition Day Scope Field'
+Dec 08,2016 12:17:38 [info]  Clicked on the 'Exhibition Day Scope Drop Down'
+Dec 08,2016 12:17:38 [info]  Verify The data of Series
+Dec 08,2016 12:17:38 [info]  Verified that Expected value :[Series] is matched with Actual value :[Series]
+Dec 08,2016 12:17:38 [info]  Verify The data of Season
+Dec 08,2016 12:17:38 [info]  Verified that Expected value :[Season] is matched with Actual value :[Season]
+Dec 08,2016 12:17:38 [info]  Verify The data of Episode
+Dec 08,2016 12:17:38 [info]  Verified that Expected value :[Episode] is matched with Actual value :[Episode]
+Dec 08,2016 12:17:39 [info]  Verify The data of Asset
+Dec 08,2016 12:17:39 [info]  Verified that Expected value :[Asset] is matched with Actual value :[Asset]
+Dec 08,2016 12:17:39 [info]  Clicked on the ''Series' in Exhi Scope field'
+Dec 08,2016 12:17:39 [info]  ====Failed==== "Support Click" field is not present'
+Dec 08,2016 12:17:39 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\08\Support Click_CheckpointFailure_12-08-2016 12-17-39 PM.jpg
+Dec 08,2016 12:17:39 [info]  Verify The data of ExhiScope
+Dec 08,2016 12:17:39 [info]  ====Failed==== Expected value is:[Series] but Actual value is[ ]. Please check the screenshot with name: ExhiScopefor more details
+Dec 08,2016 12:17:39 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\08\ExhiScope_CheckpointFailure_12-08-2016 12-17-39 PM.jpg
+Dec 08,2016 12:17:39 [info]  Test 'TC4_SelectMediaRow_WhileDefiningExhRights' PASSED
+Dec 08,2016 12:17:40 [info]  Closed the Browser
+Dec 08,2016 12:23:47 [info]  ********************Started Executiong the Test Suite at 12:23:47******************
+Dec 08,2016 12:23:47 [info]  Client: AMCN
+Dec 08,2016 12:23:47 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Dec 08,2016 12:23:47 [info]  *********************Started Executing 'TC4_SelectMediaRow_WhileDefiningExhRights' Test Case*********************
+Dec 08,2016 12:23:59 [info]  Client: AMCN
+Dec 08,2016 12:23:59 [info]  URL: http://rlv2wb79/login.aspx
+Dec 08,2016 12:23:59 [info]  UserName: automation
+Dec 08,2016 12:23:59 [info]  Password: automation
+Dec 08,2016 12:24:00 [info]  Entered "automation" in field 'User Name'
+Dec 08,2016 12:24:00 [info]  Clicked on the 'Temporary Check Box'
+Dec 08,2016 12:24:00 [info]  Entered "automation" in field 'Password'
+Dec 08,2016 12:24:06 [info]  Clicked on the 'LoginButton'
+Dec 08,2016 12:24:16 [info]  Double clicked on 'AUT_Deal_TC1_1207201624633Deal'
+Dec 08,2016 12:24:19 [info]  Clicked on the 'Exhibition Rights TAB'
+Dec 08,2016 12:24:23 [info]  Clicked on the ''Edit' Button at Media Rights TAB' using JS Executor
+Dec 08,2016 12:24:23 [info]  
+Dec 08,2016 12:24:23 [info]  Add Button >> Verify Media Rights's rows >> verify Select Check Box is shown >> Verify Buttons
+Dec 08,2016 12:24:24 [info]  Clicked on the 'Add Button'
+Dec 08,2016 12:24:29 [info]  Clicked on the 'Select Check Box'
+Dec 08,2016 12:24:29 [info]  Clicked on the 'Add Button at Media rights Pop up Window'
+Dec 08,2016 12:24:34 [info]  Verify The data of Media Row Number
+Dec 08,2016 12:24:34 [info]  Verified that Expected value :[Media Row No] is matched with Actual value :[Media Row No]
+Dec 08,2016 12:24:34 [info]  Verify The data of Exhibit APPLIESTO
+Dec 08,2016 12:24:34 [info]  Verified that Expected value :[Applies To] is matched with Actual value :[Applies To]
+Dec 08,2016 12:24:34 [info]  Verify The data of UNLIMITED Header
+Dec 08,2016 12:24:34 [info]  Verified that Expected value :[Unlimited] is matched with Actual value :[Unlimited]
+Dec 08,2016 12:24:34 [info]  Verify The data of EXHIBIT DATE UPDATE Header
+Dec 08,2016 12:24:34 [info]  Verified that Expected value :[Update] is matched with Actual value :[*Update]
+Dec 08,2016 12:24:34 [info]  Verify The data of EXHIBITION_DAYSHeader
+Dec 08,2016 12:24:34 [info]  Verified that Expected value :[Exhib.Days] is matched with Actual value :[Exhib.Days]
+Dec 08,2016 12:24:34 [info]  Verify The data of RESERVED_EXHIBITION Header
+Dec 08,2016 12:24:34 [info]  Verified that Expected value :[Reserved Exhibitions] is matched with Actual value :[Reserved Exhibitions]
+Dec 08,2016 12:24:34 [info]  Verify The data of POOLED Header
+Dec 08,2016 12:24:34 [info]  Verified that Expected value :[Pooled] is matched with Actual value :[Pooled]
+Dec 08,2016 12:24:34 [info]  Verify The data of EXHIBITIONDAYSCOPE_Header
+Dec 08,2016 12:24:34 [info]  Verified that Expected value :[Exhib.Day Scope] is matched with Actual value :[*Exhib.Day Scope]
+Dec 08,2016 12:24:34 [info]  Verify The data of STARTDATE Header
+Dec 08,2016 12:24:35 [info]  Verified that Expected value :[Start Date] is matched with Actual value :[Start Date]
+Dec 08,2016 12:24:35 [info]  Verify The data of ENDDATEHeader
+Dec 08,2016 12:24:35 [info]  Verified that Expected value :[End Date] is matched with Actual value :[End Date]
+Dec 08,2016 12:24:35 [info]  Verify The data of ExhibitBUSINESS_TERMSHeader
+Dec 08,2016 12:24:35 [info]  Verified that Expected value :[Notes] is matched with Actual value :[Notes]
+Dec 08,2016 12:24:35 [info]  
+Dec 08,2016 12:24:35 [info]  Verifying the headers of Child Row in Edit Mode
+Dec 08,2016 12:24:35 [info]  Verify The data of WINDOWNAME
+Dec 08,2016 12:24:35 [info]  Verified that Expected value :[Window Name] is matched with Actual value :[*Window Name]
+Dec 08,2016 12:24:35 [info]  Verify The data of WINDOW_TYPE Header
+Dec 08,2016 12:24:35 [info]  Verified that Expected value :[Window Type] is matched with Actual value :[Window Type]
+Dec 08,2016 12:24:35 [info]  Verify The data of RIGHTSTYPE UPDATE Header
+Dec 08,2016 12:24:35 [info]  Verified that Expected value :[Rights Type] is matched with Actual value :[*Rights Type]
+Dec 08,2016 12:24:35 [info]  Verify The data of EXHIBITION_DAYSHeader
+Dec 08,2016 12:24:35 [info]  Verified that Expected value :[Exhib.Days] is matched with Actual value :[Exhib.Days]
+Dec 08,2016 12:24:35 [info]  Verify The data of POOLED Header
+Dec 08,2016 12:24:35 [info]  Verified that Expected value :[Pooled] is matched with Actual value :[Pooled]
+Dec 08,2016 12:24:35 [info]  Verify The data of STARTDATECHILD_Header
+Dec 08,2016 12:24:35 [info]  Verified that Expected value :[Start Date] is matched with Actual value :[*Start Date]
+Dec 08,2016 12:24:35 [info]  Verify The data of NETWORK_SUMMARY Header
+Dec 08,2016 12:24:35 [info]  Verified that Expected value :[Exhib.Network] is matched with Actual value :[*Exhib.Network]
+Dec 08,2016 12:24:35 [info]  Verify The data of TERRITORY_TERMSHeader
+Dec 08,2016 12:24:35 [info]  Verified that Expected value :[Territory] is matched with Actual value :[Territory]
+Dec 08,2016 12:24:35 [info]  Verify The data of EXHIBITIONDAYTYPE_Header
+Dec 08,2016 12:24:35 [info]  Verified that Expected value :[Day Type] is matched with Actual value :[Day Type]
+Dec 08,2016 12:24:35 [info]  Verify The data of EXHIBITIONDAYPERIOD Header
+Dec 08,2016 12:24:35 [info]  Verified that Expected value :[Day Period] is matched with Actual value :[*Day Period]
+Dec 08,2016 12:24:35 [info]  Verify The data of PLAYSPEREXHIBITION Header
+Dec 08,2016 12:24:35 [info]  Verified that Expected value :[Plays] is matched with Actual value :[*Plays]
+Dec 08,2016 12:24:36 [info]  Verify The data of ADDLNETWORKUSAGE_Header
+Dec 08,2016 12:24:36 [info]  Verified that Expected value :[Addl.Exhib.Restrictions] is matched with Actual value :[Addl.Exhib.Restrictions]
+Dec 08,2016 12:24:36 [info]  Verify The data of RID_RATING_TERMSHeader
+Dec 08,2016 12:24:36 [info]  Verified that Expected value :[Evaluation] is matched with Actual value :[Evaluation]
+Dec 08,2016 12:24:36 [info]  Verify the default data of Parent Row
+Dec 08,2016 12:24:36 [info]  Verify The data of Applies to
+Dec 08,2016 12:24:36 [info]  Verified that Expected value :[All] is matched with Actual value :[All]
+Dec 08,2016 12:24:36 [info]  Verify The data of Applies to
+Dec 08,2016 12:24:36 [info]  Verified that Expected value :[Automatic] is matched with Actual value :[Automatic]
+Dec 08,2016 12:24:36 [info]  Verify The data of STARTDATE
+Dec 08,2016 12:24:36 [info]  Verified that Expected value :[01/01/2007] is matched with Actual value :[01/01/2007]
+Dec 08,2016 12:24:36 [info]  Verify The data of ENDDATE
+Dec 08,2016 12:24:36 [info]  Verified that Expected value :[12/31/2008] is matched with Actual value :[12/31/2008]
+Dec 08,2016 12:24:37 [info]  Verify The data of UNLIMITED Check box
+Dec 08,2016 12:24:37 [info]  Verified that Expected value :[Checked] is matched with Actual value :[Checked]
+Dec 08,2016 12:24:37 [info]  Verify The data of POOLED Check box
+Dec 08,2016 12:24:37 [info]  Verified that Expected value :[Checked] is matched with Actual value :[Checked]
+Dec 08,2016 12:24:37 [info]  Verify the default data of Child Row
+Dec 08,2016 12:24:37 [info]  Verify The data of Window Type
+Dec 08,2016 12:24:37 [info]  ====Failed==== Expected value is:[Primary] but Actual value is[1]. Please check the screenshot with name: Window Typefor more details
+Dec 08,2016 12:24:37 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\08\Window Type_CheckpointFailure_12-08-2016 12-24-37 PM.jpg
+Dec 08,2016 12:24:37 [info]  Verify The data of Start Date Child
+Dec 08,2016 12:24:37 [info]  Verified that Expected value :[01/01/2007] is matched with Actual value :[01/01/2007]
+Dec 08,2016 12:24:37 [info]  Verify The data of PLAYS
+Dec 08,2016 12:24:37 [info]  Verified that Expected value :[Unlimited] is matched with Actual value :[Unlimited]
+Dec 08,2016 12:24:38 [info]  Verify The data of Day Type
+Dec 08,2016 12:24:38 [info]  Verified that Expected value :[Consecutive Period] is matched with Actual value :[Consecutive Period]
+Dec 08,2016 12:24:38 [info]  Verify The data of Day Period
+Dec 08,2016 12:24:38 [info]  Verified that Expected value :[24 HR] is matched with Actual value :[24 HR]
+Dec 08,2016 12:24:38 [info]  Verify The data of Add Exhibition
+Dec 08,2016 12:24:38 [info]  Verified that Expected value :[Same Network] is matched with Actual value :[Same Network]
+Dec 08,2016 12:24:40 [info]  Clicked on the ''Save' Button at Exhibition Rights Edit window' using JS Executor
+Dec 08,2016 12:24:43 [info]  ====Failed==== Expected value is:[Please enter values for required(*) fields.] but Actual value is[Please enter values for required (*) fields.]. Please check the screenshot with name: Validation messagefor more details
+Dec 08,2016 12:24:43 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\08\Validation message_CheckpointFailure_12-08-2016 12-24-43 PM.jpg
+Dec 08,2016 12:24:43 [info]  Clicked on the 'Exhibition Day Scope Field'
+Dec 08,2016 12:24:43 [info]  Clicked on the 'Exhibition Day Scope Drop Down'
+Dec 08,2016 12:24:43 [info]  Verify The data of Series
+Dec 08,2016 12:24:43 [info]  Verified that Expected value :[Series] is matched with Actual value :[Series]
+Dec 08,2016 12:24:44 [info]  Verify The data of Season
+Dec 08,2016 12:24:44 [info]  Verified that Expected value :[Season] is matched with Actual value :[Season]
+Dec 08,2016 12:24:44 [info]  Verify The data of Episode
+Dec 08,2016 12:24:44 [info]  Verified that Expected value :[Episode] is matched with Actual value :[Episode]
+Dec 08,2016 12:24:44 [info]  Verify The data of Asset
+Dec 08,2016 12:24:44 [info]  Verified that Expected value :[Asset] is matched with Actual value :[Asset]
+Dec 08,2016 12:24:44 [info]  Clicked on the ''Series' in Exhi Scope field'
+Dec 08,2016 12:24:44 [info]  Clicked on the 'Support Click'
+Dec 08,2016 12:24:44 [info]  Verify The data of ExhiScope
+Dec 08,2016 12:24:44 [info]  Verified that Expected value :[Series] is matched with Actual value :[Series]
+Dec 08,2016 12:24:44 [info]  Test 'TC4_SelectMediaRow_WhileDefiningExhRights' PASSED
+Dec 08,2016 12:24:45 [info]  Closed the Browser
+Dec 08,2016 15:49:56 [info]  ********************Started Executiong the Test Suite at 15:49:56******************
+Dec 08,2016 15:49:56 [info]  Client: AMCN
+Dec 08,2016 15:49:56 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Dec 08,2016 15:49:56 [info]  *********************Started Executing 'TC4_SelectMediaRow_WhileDefiningExhRights' Test Case*********************
+Dec 08,2016 15:50:07 [info]  Client: AMCN
+Dec 08,2016 15:50:07 [info]  URL: http://rlv2wb79/login.aspx
+Dec 08,2016 15:50:07 [info]  UserName: automation
+Dec 08,2016 15:50:07 [info]  Password: automation
+Dec 08,2016 15:50:10 [info]  Entered "automation" in field 'User Name'
+Dec 08,2016 15:50:10 [info]  Clicked on the 'Temporary Check Box'
+Dec 08,2016 15:50:10 [info]  Entered "automation" in field 'Password'
+Dec 08,2016 15:50:17 [info]  Clicked on the 'LoginButton'
+Dec 08,2016 15:50:27 [info]  Double clicked on 'AUT_Deal_TC1_1207201624633Deal'
+Dec 08,2016 15:50:30 [info]  Clicked on the 'Exhibition Rights TAB'
+Dec 08,2016 15:50:35 [info]  Clicked on the ''Edit' Button at Media Rights TAB' using JS Executor
+Dec 08,2016 15:50:35 [info]  
+Dec 08,2016 15:50:35 [info]  Add Button >> Verify Media Rights's rows >> verify Select Check Box is shown >> Verify Buttons
+Dec 08,2016 15:50:35 [info]  Clicked on the 'Add Button'
+Dec 08,2016 15:50:40 [info]  Clicked on the 'Select Check Box'
+Dec 08,2016 15:50:42 [info]  Clicked on the 'Add Button at Media rights Pop up Window'
+Dec 08,2016 15:50:45 [info]  Verify The data of Media Row Number
+Dec 08,2016 15:50:45 [info]  Verified that Expected value :[Media Row No] is matched with Actual value :[Media Row No]
+Dec 08,2016 15:50:46 [info]  Verify The data of Exhibit APPLIESTO
+Dec 08,2016 15:50:46 [info]  Verified that Expected value :[Applies To] is matched with Actual value :[Applies To]
+Dec 08,2016 15:50:46 [info]  Verify The data of UNLIMITED Header
+Dec 08,2016 15:50:46 [info]  Verified that Expected value :[Unlimited] is matched with Actual value :[Unlimited]
+Dec 08,2016 15:50:46 [info]  Verify The data of EXHIBIT DATE UPDATE Header
+Dec 08,2016 15:50:46 [info]  Verified that Expected value :[Update] is matched with Actual value :[*Update]
+Dec 08,2016 15:50:46 [info]  Verify The data of EXHIBITION_DAYSHeader
+Dec 08,2016 15:50:46 [info]  Verified that Expected value :[Exhib.Days] is matched with Actual value :[Exhib.Days]
+Dec 08,2016 15:50:46 [info]  Verify The data of RESERVED_EXHIBITION Header
+Dec 08,2016 15:50:46 [info]  Verified that Expected value :[Reserved Exhibitions] is matched with Actual value :[Reserved Exhibitions]
+Dec 08,2016 15:50:46 [info]  Verify The data of POOLED Header
+Dec 08,2016 15:50:46 [info]  Verified that Expected value :[Pooled] is matched with Actual value :[Pooled]
+Dec 08,2016 15:50:46 [info]  Verify The data of EXHIBITIONDAYSCOPE_Header
+Dec 08,2016 15:50:46 [info]  Verified that Expected value :[Exhib.Day Scope] is matched with Actual value :[*Exhib.Day Scope]
+Dec 08,2016 15:50:46 [info]  Verify The data of STARTDATE Header
+Dec 08,2016 15:50:46 [info]  Verified that Expected value :[Start Date] is matched with Actual value :[Start Date]
+Dec 08,2016 15:50:46 [info]  Verify The data of ENDDATEHeader
+Dec 08,2016 15:50:46 [info]  Verified that Expected value :[End Date] is matched with Actual value :[End Date]
+Dec 08,2016 15:50:46 [info]  Verify The data of ExhibitBUSINESS_TERMSHeader
+Dec 08,2016 15:50:46 [info]  Verified that Expected value :[Notes] is matched with Actual value :[Notes]
+Dec 08,2016 15:50:46 [info]  
+Dec 08,2016 15:50:46 [info]  Verifying the headers of Child Row in Edit Mode
+Dec 08,2016 15:50:46 [info]  Verify The data of WINDOWNAME
+Dec 08,2016 15:50:46 [info]  Verified that Expected value :[*Window Name] is matched with Actual value :[*Window Name]
+Dec 08,2016 15:50:47 [info]  Verify The data of WINDOW_TYPE Header
+Dec 08,2016 15:50:47 [info]  ====Failed==== Expected value is:[*Window Type] but Actual value is[Window Type]. Please check the screenshot with name: WINDOW_TYPE Headerfor more details
+Dec 08,2016 15:50:47 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\08\WINDOW_TYPE Header_CheckpointFailure_12-08-2016 3-50-47 PM.jpg
+Dec 08,2016 15:50:47 [info]  Verify The data of RIGHTSTYPE UPDATE Header
+Dec 08,2016 15:50:47 [info]  Verified that Expected value :[*Rights Type] is matched with Actual value :[*Rights Type]
+Dec 08,2016 15:50:47 [info]  Verify The data of EXHIBITION_DAYSHeader
+Dec 08,2016 15:50:47 [info]  Verified that Expected value :[Exhib.Days] is matched with Actual value :[Exhib.Days]
+Dec 08,2016 15:50:47 [info]  Verify The data of POOLED Header
+Dec 08,2016 15:50:47 [info]  Verified that Expected value :[Pooled] is matched with Actual value :[Pooled]
+Dec 08,2016 15:50:47 [info]  Verify The data of STARTDATECHILD_Header
+Dec 08,2016 15:50:47 [info]  Verified that Expected value :[*Start Date] is matched with Actual value :[*Start Date]
+Dec 08,2016 15:50:47 [info]  Verify The data of ENDDATECHILD Header
+Dec 08,2016 15:50:47 [info]  Verified that Expected value :[*End Date] is matched with Actual value :[*End Date]
+Dec 08,2016 15:50:47 [info]  Verify The data of NETWORK_SUMMARY Header
+Dec 08,2016 15:50:47 [info]  Verified that Expected value :[*Exhib.Network] is matched with Actual value :[*Exhib.Network]
+Dec 08,2016 15:50:47 [info]  Verify The data of TERRITORY_TERMSHeader
+Dec 08,2016 15:50:47 [info]  Verified that Expected value :[Territory] is matched with Actual value :[Territory]
+Dec 08,2016 15:50:48 [info]  Verify The data of EXHIBITIONDAYTYPE_Header
+Dec 08,2016 15:50:48 [info]  Verified that Expected value :[Day Type] is matched with Actual value :[Day Type]
+Dec 08,2016 15:50:48 [info]  Verify The data of EXHIBITIONDAYPERIOD Header
+Dec 08,2016 15:50:48 [info]  Verified that Expected value :[*Day Period] is matched with Actual value :[*Day Period]
+Dec 08,2016 15:50:48 [info]  Verify The data of PLAYSPEREXHIBITION Header
+Dec 08,2016 15:50:48 [info]  Verified that Expected value :[*Plays] is matched with Actual value :[*Plays]
+Dec 08,2016 15:50:48 [info]  Verify The data of ADDLNETWORKUSAGE_Header
+Dec 08,2016 15:50:48 [info]  Verified that Expected value :[Addl.Exhib.Restrictions] is matched with Actual value :[Addl.Exhib.Restrictions]
+Dec 08,2016 15:50:48 [info]  Verify The data of RID_RATING_TERMSHeader
+Dec 08,2016 15:50:48 [info]  Verified that Expected value :[Evaluation] is matched with Actual value :[Evaluation]
+Dec 08,2016 15:50:48 [info]  Verify the default data of Parent Row
+Dec 08,2016 15:50:48 [info]  Verify The data of Applies to
+Dec 08,2016 15:50:48 [info]  Verified that Expected value :[All] is matched with Actual value :[All]
+Dec 08,2016 15:50:48 [info]  Verify The data of Applies to
+Dec 08,2016 15:50:48 [info]  Verified that Expected value :[Automatic] is matched with Actual value :[Automatic]
+Dec 08,2016 15:50:48 [info]  Verify The data of STARTDATE
+Dec 08,2016 15:50:48 [info]  Verified that Expected value :[01/01/2007] is matched with Actual value :[01/01/2007]
+Dec 08,2016 15:50:49 [info]  Verify The data of ENDDATE
+Dec 08,2016 15:50:49 [info]  Verified that Expected value :[12/31/2008] is matched with Actual value :[12/31/2008]
+Dec 08,2016 15:50:49 [info]  Verify The data of UNLIMITED Check box
+Dec 08,2016 15:50:49 [info]  Verified that Expected value :[Checked] is matched with Actual value :[Checked]
+Dec 08,2016 15:50:49 [info]  Verify The data of POOLED Check box
+Dec 08,2016 15:50:49 [info]  Verified that Expected value :[Checked] is matched with Actual value :[Checked]
+Dec 08,2016 15:50:49 [info]  Verify the default data of Child Row
+Dec 08,2016 15:50:49 [info]  Verify The data of Window Type
+Dec 08,2016 15:50:49 [info]  ====Failed==== Expected value is:[Primary] but Actual value is[]. Please check the screenshot with name: Window Typefor more details
+Dec 08,2016 15:50:49 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\08\Window Type_CheckpointFailure_12-08-2016 3-50-49 PM.jpg
+Dec 08,2016 15:50:50 [info]  Verify The data of Start Date Child
+Dec 08,2016 15:50:50 [info]  ====Failed==== Expected value is:[01/01/2007] but Actual value is[]. Please check the screenshot with name: Start Date Childfor more details
+Dec 08,2016 15:50:50 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\08\Start Date Child_CheckpointFailure_12-08-2016 3-50-50 PM.jpg
+Dec 08,2016 15:50:50 [info]  Verify The data of End Date Child
+Dec 08,2016 15:50:50 [info]  ====Failed==== Expected value is:[12/31/2008] but Actual value is[]. Please check the screenshot with name: End Date Childfor more details
+Dec 08,2016 15:50:50 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\08\End Date Child_CheckpointFailure_12-08-2016 3-50-50 PM.jpg
+Dec 08,2016 15:50:50 [info]  Verify The data of PLAYS
+Dec 08,2016 15:50:50 [info]  ====Failed==== Expected value is:[Unlimited] but Actual value is[]. Please check the screenshot with name: PLAYSfor more details
+Dec 08,2016 15:50:51 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\08\PLAYS_CheckpointFailure_12-08-2016 3-50-50 PM.jpg
+Dec 08,2016 15:50:51 [info]  Verify The data of Day Type
+Dec 08,2016 15:50:51 [info]  ====Failed==== Expected value is:[Consecutive Period] but Actual value is[]. Please check the screenshot with name: Day Typefor more details
+Dec 08,2016 15:50:51 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\08\Day Type_CheckpointFailure_12-08-2016 3-50-51 PM.jpg
+Dec 08,2016 15:50:51 [info]  Verify The data of Day Period
+Dec 08,2016 15:50:51 [info]  ====Failed==== Expected value is:[24 HR] but Actual value is[]. Please check the screenshot with name: Day Periodfor more details
+Dec 08,2016 15:50:51 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\08\Day Period_CheckpointFailure_12-08-2016 3-50-51 PM.jpg
+Dec 08,2016 15:50:52 [info]  Verify The data of Add Exhibition
+Dec 08,2016 15:50:52 [info]  ====Failed==== Expected value is:[Same Network] but Actual value is[]. Please check the screenshot with name: Add Exhibitionfor more details
+Dec 08,2016 15:50:52 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\08\Add Exhibition_CheckpointFailure_12-08-2016 3-50-52 PM.jpg
+Dec 08,2016 15:50:54 [info]  Clicked on the ''Save' Button at Exhibition Rights Edit window' using JS Executor
+Dec 08,2016 15:50:57 [info]  ====Failed==== Expected value is:[Please enter values for required(*) fields.] but Actual value is[Please enter values for required (*) fields.]. Please check the screenshot with name: Validation messagefor more details
+Dec 08,2016 15:50:57 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\08\Validation message_CheckpointFailure_12-08-2016 3-50-57 PM.jpg
+Dec 08,2016 15:50:58 [info]  Clicked on the 'Exhibition Day Scope Field'
+Dec 08,2016 15:50:58 [info]  Clicked on the 'Exhibition Day Scope Drop Down'
+Dec 08,2016 15:50:58 [info]  Verify The data of Series
+Dec 08,2016 15:50:58 [info]  Verified that Expected value :[Series] is matched with Actual value :[Series]
+Dec 08,2016 15:50:58 [info]  Verify The data of Season
+Dec 08,2016 15:50:58 [info]  Verified that Expected value :[Season] is matched with Actual value :[Season]
+Dec 08,2016 15:50:58 [info]  Verify The data of Episode
+Dec 08,2016 15:50:58 [info]  Verified that Expected value :[Episode] is matched with Actual value :[Episode]
+Dec 08,2016 15:50:58 [info]  Verify The data of Asset
+Dec 08,2016 15:50:58 [info]  Verified that Expected value :[Asset] is matched with Actual value :[Asset]
+Dec 08,2016 15:50:58 [info]  Clicked on the ''Series' in Exhi Scope field'
+Dec 08,2016 15:50:58 [info]  Clicked on the 'Support Click'
+Dec 08,2016 15:51:18 [info]  Verify The data of ExhiScope
+Dec 08,2016 15:51:18 [info]  ====Failed==== Expected value is:[Series] but Actual value is[]. Please check the screenshot with name: ExhiScopefor more details
+Dec 08,2016 15:51:19 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\08\ExhiScope_CheckpointFailure_12-08-2016 3-51-18 PM.jpg
+Dec 08,2016 15:51:19 [info]  ====Failed==== "Window Name Field" field is not present'
+Dec 08,2016 15:51:19 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\08\Window Name Field_CheckpointFailure_12-08-2016 3-51-19 PM.jpg
+Dec 08,2016 15:51:29 [info]  ====Failed==== "Win Name" field is not present'Win Name'
+Dec 08,2016 15:51:29 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\08\Win Name_CheckpointFailure_12-08-2016 3-51-29 PM.jpg
+Dec 08,2016 15:51:30 [info]  Clicked on the 'Support Click'
+Dec 08,2016 15:51:30 [info]  Clicked on the 'Window Name Field'
+Dec 08,2016 15:51:31 [info]  "Check Box Linear" is Present
+Dec 08,2016 15:51:31 [info]  "Check Box Non-Linear" is Present
+Dec 08,2016 15:51:31 [info]  Clicked on the 'Check box Linear'
+Dec 08,2016 15:51:31 [info]  "Linear Check box is checked" is Present
+Dec 08,2016 15:51:32 [info]  Clicked on the 'Apply Button at RIGHTSTYPE_POPUP'
+Dec 08,2016 15:51:32 [info]  Verify The data of Linear
+Dec 08,2016 15:51:32 [info]  Verified that Expected value :[Linear] is matched with Actual value :[Linear]
+Dec 08,2016 15:51:32 [info]  Clicked on the 'Support Click'
+Dec 08,2016 15:51:32 [info]  Test 'TC4_SelectMediaRow_WhileDefiningExhRights' PASSED
+Dec 08,2016 15:51:33 [info]  Closed the Browser
+Dec 08,2016 16:07:32 [info]  ********************Started Executiong the Test Suite at 16:07:32******************
+Dec 08,2016 16:07:32 [info]  Client: AMCN
+Dec 08,2016 16:07:32 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Dec 08,2016 16:07:32 [info]  *********************Started Executing 'TC4_SelectMediaRow_WhileDefiningExhRights' Test Case*********************
+Dec 08,2016 16:07:42 [info]  Client: AMCN
+Dec 08,2016 16:07:42 [info]  URL: http://rlv2wb79/login.aspx
+Dec 08,2016 16:07:42 [info]  UserName: automation
+Dec 08,2016 16:07:42 [info]  Password: automation
+Dec 08,2016 16:07:43 [info]  Entered "automation" in field 'User Name'
+Dec 08,2016 16:07:43 [info]  Clicked on the 'Temporary Check Box'
+Dec 08,2016 16:07:44 [info]  Entered "automation" in field 'Password'
+Dec 08,2016 16:07:51 [info]  Clicked on the 'LoginButton'
+Dec 08,2016 16:08:01 [info]  Double clicked on 'AUT_Deal_TC1_1207201624633Deal'
+Dec 08,2016 16:08:04 [info]  Clicked on the 'Exhibition Rights TAB'
+Dec 08,2016 16:08:07 [info]  Clicked on the ''Edit' Button at Media Rights TAB' using JS Executor
+Dec 08,2016 16:08:07 [info]  
+Dec 08,2016 16:08:07 [info]  Add Button >> Verify Media Rights's rows >> verify Select Check Box is shown >> Verify Buttons
+Dec 08,2016 16:08:08 [info]  Clicked on the 'Add Button'
+Dec 08,2016 16:08:13 [info]  Clicked on the 'Select Check Box'
+Dec 08,2016 16:08:13 [info]  Clicked on the 'Add Button at Media rights Pop up Window'
+Dec 08,2016 16:08:18 [info]  Verify The data of Media Row Number
+Dec 08,2016 16:08:18 [info]  Verified that Expected value :[Media Row No] is matched with Actual value :[Media Row No]
+Dec 08,2016 16:08:18 [info]  Verify The data of Exhibit APPLIESTO
+Dec 08,2016 16:08:18 [info]  Verified that Expected value :[Applies To] is matched with Actual value :[Applies To]
+Dec 08,2016 16:08:18 [info]  Verify The data of UNLIMITED Header
+Dec 08,2016 16:08:18 [info]  Verified that Expected value :[Unlimited] is matched with Actual value :[Unlimited]
+Dec 08,2016 16:08:18 [info]  Verify The data of EXHIBIT DATE UPDATE Header
+Dec 08,2016 16:08:18 [info]  Verified that Expected value :[Update] is matched with Actual value :[*Update]
+Dec 08,2016 16:08:18 [info]  Verify The data of EXHIBITION_DAYSHeader
+Dec 08,2016 16:08:18 [info]  Verified that Expected value :[Exhib.Days] is matched with Actual value :[Exhib.Days]
+Dec 08,2016 16:08:18 [info]  Verify The data of RESERVED_EXHIBITION Header
+Dec 08,2016 16:08:18 [info]  Verified that Expected value :[Reserved Exhibitions] is matched with Actual value :[Reserved Exhibitions]
+Dec 08,2016 16:08:18 [info]  Verify The data of POOLED Header
+Dec 08,2016 16:08:18 [info]  Verified that Expected value :[Pooled] is matched with Actual value :[Pooled]
+Dec 08,2016 16:08:19 [info]  Verify The data of EXHIBITIONDAYSCOPE_Header
+Dec 08,2016 16:08:19 [info]  Verified that Expected value :[Exhib.Day Scope] is matched with Actual value :[*Exhib.Day Scope]
+Dec 08,2016 16:08:19 [info]  Verify The data of STARTDATE Header
+Dec 08,2016 16:08:19 [info]  Verified that Expected value :[Start Date] is matched with Actual value :[Start Date]
+Dec 08,2016 16:08:19 [info]  Verify The data of ENDDATEHeader
+Dec 08,2016 16:08:19 [info]  Verified that Expected value :[End Date] is matched with Actual value :[End Date]
+Dec 08,2016 16:08:19 [info]  Verify The data of ExhibitBUSINESS_TERMSHeader
+Dec 08,2016 16:08:19 [info]  Verified that Expected value :[Notes] is matched with Actual value :[Notes]
+Dec 08,2016 16:08:19 [info]  
+Dec 08,2016 16:08:19 [info]  Verifying the headers of Child Row in Edit Mode
+Dec 08,2016 16:08:19 [info]  Verify The data of WINDOWNAME
+Dec 08,2016 16:08:19 [info]  Verified that Expected value :[*Window Name] is matched with Actual value :[*Window Name]
+Dec 08,2016 16:08:19 [info]  Verify The data of WINDOW_TYPE Header
+Dec 08,2016 16:08:19 [info]  Verified that Expected value :[*Window Type] is matched with Actual value :[*Window Type]
+Dec 08,2016 16:08:19 [info]  Verify The data of RIGHTSTYPE UPDATE Header
+Dec 08,2016 16:08:19 [info]  Verified that Expected value :[*Rights Type] is matched with Actual value :[*Rights Type]
+Dec 08,2016 16:08:19 [info]  Verify The data of EXHIBITION_DAYSHeader
+Dec 08,2016 16:08:19 [info]  Verified that Expected value :[Exhib.Days] is matched with Actual value :[Exhib.Days]
+Dec 08,2016 16:08:19 [info]  Verify The data of POOLED Header
+Dec 08,2016 16:08:19 [info]  Verified that Expected value :[Pooled] is matched with Actual value :[Pooled]
+Dec 08,2016 16:08:19 [info]  Verify The data of STARTDATECHILD_Header
+Dec 08,2016 16:08:19 [info]  Verified that Expected value :[*Start Date] is matched with Actual value :[*Start Date]
+Dec 08,2016 16:08:19 [info]  Verify The data of ENDDATECHILD Header
+Dec 08,2016 16:08:19 [info]  Verified that Expected value :[*End Date] is matched with Actual value :[*End Date]
+Dec 08,2016 16:08:20 [info]  Verify The data of NETWORK_SUMMARY Header
+Dec 08,2016 16:08:20 [info]  Verified that Expected value :[*Exhib.Network] is matched with Actual value :[*Exhib.Network]
+Dec 08,2016 16:08:20 [info]  Verify The data of TERRITORY_TERMSHeader
+Dec 08,2016 16:08:20 [info]  Verified that Expected value :[Territory] is matched with Actual value :[Territory]
+Dec 08,2016 16:08:20 [info]  Verify The data of EXHIBITIONDAYTYPE_Header
+Dec 08,2016 16:08:20 [info]  Verified that Expected value :[Day Type] is matched with Actual value :[Day Type]
+Dec 08,2016 16:08:20 [info]  Verify The data of EXHIBITIONDAYPERIOD Header
+Dec 08,2016 16:08:20 [info]  Verified that Expected value :[*Day Period] is matched with Actual value :[*Day Period]
+Dec 08,2016 16:08:20 [info]  Verify The data of PLAYSPEREXHIBITION Header
+Dec 08,2016 16:08:20 [info]  Verified that Expected value :[*Plays] is matched with Actual value :[*Plays]
+Dec 08,2016 16:08:20 [info]  Verify The data of ADDLNETWORKUSAGE_Header
+Dec 08,2016 16:08:20 [info]  Verified that Expected value :[Addl.Exhib.Restrictions] is matched with Actual value :[Addl.Exhib.Restrictions]
+Dec 08,2016 16:08:20 [info]  Verify The data of RID_RATING_TERMSHeader
+Dec 08,2016 16:08:20 [info]  Verified that Expected value :[Evaluation] is matched with Actual value :[Evaluation]
+Dec 08,2016 16:08:20 [info]  Verify the default data of Parent Row
+Dec 08,2016 16:08:20 [info]  Verify The data of Applies to
+Dec 08,2016 16:08:20 [info]  Verified that Expected value :[All] is matched with Actual value :[All]
+Dec 08,2016 16:08:20 [info]  Verify The data of Applies to
+Dec 08,2016 16:08:20 [info]  Verified that Expected value :[Automatic] is matched with Actual value :[Automatic]
+Dec 08,2016 16:08:20 [info]  Verify The data of STARTDATE
+Dec 08,2016 16:08:20 [info]  Verified that Expected value :[01/01/2007] is matched with Actual value :[01/01/2007]
+Dec 08,2016 16:08:21 [info]  Verify The data of ENDDATE
+Dec 08,2016 16:08:21 [info]  Verified that Expected value :[12/31/2008] is matched with Actual value :[12/31/2008]
+Dec 08,2016 16:08:21 [info]  Verify The data of UNLIMITED Check box
+Dec 08,2016 16:08:21 [info]  Verified that Expected value :[Checked] is matched with Actual value :[Checked]
+Dec 08,2016 16:08:21 [info]  Verify The data of POOLED Check box
+Dec 08,2016 16:08:21 [info]  Verified that Expected value :[Checked] is matched with Actual value :[Checked]
+Dec 08,2016 16:08:21 [info]  Verify the default data of Child Row
+Dec 08,2016 16:08:21 [info]  Verify The data of Window Type
+Dec 08,2016 16:08:21 [info]  ====Failed==== Expected value is:[Primary] but Actual value is[]. Please check the screenshot with name: Window Typefor more details
+Dec 08,2016 16:08:21 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\08\Window Type_CheckpointFailure_12-08-2016 4-08-21 PM.jpg
+Dec 08,2016 16:08:22 [info]  Verify The data of Start Date Child
+Dec 08,2016 16:08:22 [info]  ====Failed==== Expected value is:[01/01/2007] but Actual value is[]. Please check the screenshot with name: Start Date Childfor more details
+Dec 08,2016 16:08:22 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\08\Start Date Child_CheckpointFailure_12-08-2016 4-08-22 PM.jpg
+Dec 08,2016 16:08:22 [info]  Verify The data of End Date Child
+Dec 08,2016 16:08:22 [info]  ====Failed==== Expected value is:[12/31/2008] but Actual value is[]. Please check the screenshot with name: End Date Childfor more details
+Dec 08,2016 16:08:22 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\08\End Date Child_CheckpointFailure_12-08-2016 4-08-22 PM.jpg
+Dec 08,2016 16:08:22 [info]  Verify The data of PLAYS
+Dec 08,2016 16:08:22 [info]  ====Failed==== Expected value is:[Unlimited] but Actual value is[]. Please check the screenshot with name: PLAYSfor more details
+Dec 08,2016 16:08:23 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\08\PLAYS_CheckpointFailure_12-08-2016 4-08-22 PM.jpg
+Dec 08,2016 16:08:23 [info]  Verify The data of Day Type
+Dec 08,2016 16:08:23 [info]  ====Failed==== Expected value is:[Consecutive Period] but Actual value is[]. Please check the screenshot with name: Day Typefor more details
+Dec 08,2016 16:08:23 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\08\Day Type_CheckpointFailure_12-08-2016 4-08-23 PM.jpg
+Dec 08,2016 16:08:23 [info]  Verify The data of Day Period
+Dec 08,2016 16:08:23 [info]  ====Failed==== Expected value is:[24 HR] but Actual value is[]. Please check the screenshot with name: Day Periodfor more details
+Dec 08,2016 16:08:23 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\08\Day Period_CheckpointFailure_12-08-2016 4-08-23 PM.jpg
+Dec 08,2016 16:08:24 [info]  Verify The data of Add Exhibition
+Dec 08,2016 16:08:24 [info]  ====Failed==== Expected value is:[Same Network] but Actual value is[]. Please check the screenshot with name: Add Exhibitionfor more details
+Dec 08,2016 16:08:24 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\08\Add Exhibition_CheckpointFailure_12-08-2016 4-08-24 PM.jpg
+Dec 08,2016 16:08:25 [info]  Clicked on the ''Save' Button at Exhibition Rights Edit window' using JS Executor
+Dec 08,2016 16:08:29 [info]  ====Failed==== Expected value is:[Please enter values for required(*) fields.] but Actual value is[Please enter values for required (*) fields.]. Please check the screenshot with name: Validation messagefor more details
+Dec 08,2016 16:08:29 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\08\Validation message_CheckpointFailure_12-08-2016 4-08-29 PM.jpg
+Dec 08,2016 16:08:29 [info]  Clicked on the 'Exhibition Day Scope Field'
+Dec 08,2016 16:08:29 [info]  Clicked on the 'Exhibition Day Scope Drop Down'
+Dec 08,2016 16:08:29 [info]  Verify The data of Series
+Dec 08,2016 16:08:29 [info]  Verified that Expected value :[Series] is matched with Actual value :[Series]
+Dec 08,2016 16:08:29 [info]  Verify The data of Season
+Dec 08,2016 16:08:29 [info]  Verified that Expected value :[Season] is matched with Actual value :[Season]
+Dec 08,2016 16:08:29 [info]  Verify The data of Episode
+Dec 08,2016 16:08:29 [info]  Verified that Expected value :[Episode] is matched with Actual value :[Episode]
+Dec 08,2016 16:08:30 [info]  Verify The data of Asset
+Dec 08,2016 16:08:30 [info]  Verified that Expected value :[Asset] is matched with Actual value :[Asset]
+Dec 08,2016 16:08:30 [info]  Clicked on the ''Series' in Exhi Scope field'
+Dec 08,2016 16:08:30 [info]  Clicked on the 'Support Click'
+Dec 08,2016 16:08:40 [info]  Verify The data of ExhiScope
+Dec 08,2016 16:08:40 [info]  ====Failed==== Expected value is:[Series] but Actual value is[]. Please check the screenshot with name: ExhiScopefor more details
+Dec 08,2016 16:08:40 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\08\ExhiScope_CheckpointFailure_12-08-2016 4-08-40 PM.jpg
+Dec 08,2016 16:08:40 [info]  ====Failed==== "Window Name Field" field is not present'
+Dec 08,2016 16:08:41 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\08\Window Name Field_CheckpointFailure_12-08-2016 4-08-40 PM.jpg
+Dec 08,2016 16:08:51 [info]  ====Failed==== "Win Name" field is not present'Win Name'
+Dec 08,2016 16:08:51 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\08\Win Name_CheckpointFailure_12-08-2016 4-08-51 PM.jpg
+Dec 08,2016 16:08:51 [info]  Clicked on the 'Support Click'
+Dec 08,2016 16:08:51 [info]  Clicked on the 'Window Name Field'
+Dec 08,2016 16:08:52 [info]  "Check Box Linear" is Present
+Dec 08,2016 16:08:52 [info]  "Check Box Non-Linear" is Present
+Dec 08,2016 16:08:52 [info]  Clicked on the 'Check box Linear'
+Dec 08,2016 16:08:52 [info]  "Linear Check box is checked" is Present
+Dec 08,2016 16:08:52 [info]  Clicked on the 'Apply Button at RIGHTSTYPE_POPUP'
+Dec 08,2016 16:08:53 [info]  Verify The data of Linear
+Dec 08,2016 16:08:53 [info]  Verified that Expected value :[Linear] is matched with Actual value :[Linear]
+Dec 08,2016 16:08:53 [info]  Clicked on the 'Support Click'
+Dec 08,2016 16:08:53 [info]  Test 'TC4_SelectMediaRow_WhileDefiningExhRights' PASSED
+Dec 08,2016 16:08:54 [info]  Closed the Browser
+Dec 08,2016 16:17:27 [info]  ********************Started Executiong the Test Suite at 16:17:27******************
+Dec 08,2016 16:17:27 [info]  Client: AMCN
+Dec 08,2016 16:17:27 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Dec 08,2016 16:17:27 [info]  *********************Started Executing 'TC4_SelectMediaRow_WhileDefiningExhRights' Test Case*********************
+Dec 08,2016 16:17:37 [info]  Client: AMCN
+Dec 08,2016 16:17:37 [info]  URL: http://rlv2wb79/login.aspx
+Dec 08,2016 16:17:37 [info]  UserName: automation
+Dec 08,2016 16:17:37 [info]  Password: automation
+Dec 08,2016 16:17:39 [info]  Entered "automation" in field 'User Name'
+Dec 08,2016 16:17:39 [info]  Clicked on the 'Temporary Check Box'
+Dec 08,2016 16:17:39 [info]  Entered "automation" in field 'Password'
+Dec 08,2016 16:17:46 [info]  Clicked on the 'LoginButton'
+Dec 08,2016 16:17:56 [info]  Double clicked on 'AUT_Deal_TC1_1207201624633Deal'
+Dec 08,2016 16:17:59 [info]  Clicked on the 'Exhibition Rights TAB'
+Dec 08,2016 16:18:02 [info]  Clicked on the ''Edit' Button at Media Rights TAB' using JS Executor
+Dec 08,2016 16:18:02 [info]  
+Dec 08,2016 16:18:02 [info]  Add Button >> Verify Media Rights's rows >> verify Select Check Box is shown >> Verify Buttons
+Dec 08,2016 16:18:03 [info]  Clicked on the 'Add Button'
+Dec 08,2016 16:18:08 [info]  Clicked on the 'Select Check Box'
+Dec 08,2016 16:18:08 [info]  Clicked on the 'Add Button at Media rights Pop up Window'
+Dec 08,2016 16:18:14 [info]  Verify The data of Media Row Number
+Dec 08,2016 16:18:14 [info]  Verified that Expected value :[Media Row No] is matched with Actual value :[Media Row No]
+Dec 08,2016 16:18:14 [info]  Verify The data of Exhibit APPLIESTO
+Dec 08,2016 16:18:14 [info]  Verified that Expected value :[Applies To] is matched with Actual value :[Applies To]
+Dec 08,2016 16:18:14 [info]  Verify The data of UNLIMITED Header
+Dec 08,2016 16:18:14 [info]  Verified that Expected value :[Unlimited] is matched with Actual value :[Unlimited]
+Dec 08,2016 16:18:14 [info]  Verify The data of EXHIBIT DATE UPDATE Header
+Dec 08,2016 16:18:14 [info]  Verified that Expected value :[Update] is matched with Actual value :[*Update]
+Dec 08,2016 16:18:14 [info]  Verify The data of EXHIBITION_DAYSHeader
+Dec 08,2016 16:18:14 [info]  Verified that Expected value :[Exhib.Days] is matched with Actual value :[Exhib.Days]
+Dec 08,2016 16:18:14 [info]  Verify The data of RESERVED_EXHIBITION Header
+Dec 08,2016 16:18:14 [info]  Verified that Expected value :[Reserved Exhibitions] is matched with Actual value :[Reserved Exhibitions]
+Dec 08,2016 16:18:14 [info]  Verify The data of POOLED Header
+Dec 08,2016 16:18:14 [info]  Verified that Expected value :[Pooled] is matched with Actual value :[Pooled]
+Dec 08,2016 16:18:15 [info]  Verify The data of EXHIBITIONDAYSCOPE_Header
+Dec 08,2016 16:18:15 [info]  Verified that Expected value :[Exhib.Day Scope] is matched with Actual value :[*Exhib.Day Scope]
+Dec 08,2016 16:18:15 [info]  Verify The data of STARTDATE Header
+Dec 08,2016 16:18:15 [info]  Verified that Expected value :[Start Date] is matched with Actual value :[Start Date]
+Dec 08,2016 16:18:15 [info]  Verify The data of ENDDATEHeader
+Dec 08,2016 16:18:15 [info]  Verified that Expected value :[End Date] is matched with Actual value :[End Date]
+Dec 08,2016 16:18:15 [info]  Verify The data of ExhibitBUSINESS_TERMSHeader
+Dec 08,2016 16:18:15 [info]  Verified that Expected value :[Notes] is matched with Actual value :[Notes]
+Dec 08,2016 16:18:15 [info]  
+Dec 08,2016 16:18:15 [info]  Verifying the headers of Child Row in Edit Mode
+Dec 08,2016 16:18:15 [info]  Verify The data of WINDOWNAME
+Dec 08,2016 16:18:15 [info]  Verified that Expected value :[*Window Name] is matched with Actual value :[*Window Name]
+Dec 08,2016 16:18:15 [info]  Verify The data of WINDOW_TYPE Header
+Dec 08,2016 16:18:15 [info]  Verified that Expected value :[*Window Type] is matched with Actual value :[*Window Type]
+Dec 08,2016 16:18:15 [info]  Verify The data of RIGHTSTYPE UPDATE Header
+Dec 08,2016 16:18:15 [info]  Verified that Expected value :[*Rights Type] is matched with Actual value :[*Rights Type]
+Dec 08,2016 16:18:15 [info]  Verify The data of EXHIBITION_DAYSHeader
+Dec 08,2016 16:18:15 [info]  Verified that Expected value :[Exhib.Days] is matched with Actual value :[Exhib.Days]
+Dec 08,2016 16:18:15 [info]  Verify The data of POOLED Header
+Dec 08,2016 16:18:15 [info]  Verified that Expected value :[Pooled] is matched with Actual value :[Pooled]
+Dec 08,2016 16:18:15 [info]  Verify The data of STARTDATECHILD_Header
+Dec 08,2016 16:18:15 [info]  Verified that Expected value :[*Start Date] is matched with Actual value :[*Start Date]
+Dec 08,2016 16:18:15 [info]  Verify The data of ENDDATECHILD Header
+Dec 08,2016 16:18:15 [info]  Verified that Expected value :[*End Date] is matched with Actual value :[*End Date]
+Dec 08,2016 16:18:16 [info]  Verify The data of NETWORK_SUMMARY Header
+Dec 08,2016 16:18:16 [info]  Verified that Expected value :[*Exhib.Network] is matched with Actual value :[*Exhib.Network]
+Dec 08,2016 16:18:16 [info]  Verify The data of TERRITORY_TERMSHeader
+Dec 08,2016 16:18:16 [info]  Verified that Expected value :[Territory] is matched with Actual value :[Territory]
+Dec 08,2016 16:18:16 [info]  Verify The data of EXHIBITIONDAYTYPE_Header
+Dec 08,2016 16:18:16 [info]  Verified that Expected value :[Day Type] is matched with Actual value :[Day Type]
+Dec 08,2016 16:18:16 [info]  Verify The data of EXHIBITIONDAYPERIOD Header
+Dec 08,2016 16:18:16 [info]  Verified that Expected value :[*Day Period] is matched with Actual value :[*Day Period]
+Dec 08,2016 16:18:16 [info]  Verify The data of PLAYSPEREXHIBITION Header
+Dec 08,2016 16:18:16 [info]  Verified that Expected value :[*Plays] is matched with Actual value :[*Plays]
+Dec 08,2016 16:18:16 [info]  Verify The data of ADDLNETWORKUSAGE_Header
+Dec 08,2016 16:18:16 [info]  Verified that Expected value :[Addl.Exhib.Restrictions] is matched with Actual value :[Addl.Exhib.Restrictions]
+Dec 08,2016 16:18:16 [info]  Verify The data of RID_RATING_TERMSHeader
+Dec 08,2016 16:18:16 [info]  Verified that Expected value :[Evaluation] is matched with Actual value :[Evaluation]
+Dec 08,2016 16:18:16 [info]  Verify the default data of Parent Row
+Dec 08,2016 16:18:16 [info]  Verify The data of Applies to
+Dec 08,2016 16:18:16 [info]  Verified that Expected value :[All] is matched with Actual value :[All]
+Dec 08,2016 16:18:16 [info]  Verify The data of Applies to
+Dec 08,2016 16:18:16 [info]  Verified that Expected value :[Automatic] is matched with Actual value :[Automatic]
+Dec 08,2016 16:18:17 [info]  Verify The data of STARTDATE
+Dec 08,2016 16:18:17 [info]  Verified that Expected value :[01/01/2007] is matched with Actual value :[01/01/2007]
+Dec 08,2016 16:18:17 [info]  Verify The data of ENDDATE
+Dec 08,2016 16:18:17 [info]  Verified that Expected value :[12/31/2008] is matched with Actual value :[12/31/2008]
+Dec 08,2016 16:18:17 [info]  Verify The data of UNLIMITED Check box
+Dec 08,2016 16:18:17 [info]  Verified that Expected value :[Checked] is matched with Actual value :[Checked]
+Dec 08,2016 16:18:17 [info]  Verify The data of POOLED Check box
+Dec 08,2016 16:18:17 [info]  Verified that Expected value :[Checked] is matched with Actual value :[Checked]
+Dec 08,2016 16:18:17 [info]  Verify the default data of Child Row
+Dec 08,2016 16:18:17 [info]  Verify The data of Window Type
+Dec 08,2016 16:18:17 [info]  Verified that Expected value :[Primary] is matched with Actual value :[Primary]
+Dec 08,2016 16:18:17 [info]  Verify The data of Start Date Child
+Dec 08,2016 16:18:17 [info]  Verified that Expected value :[01/01/2007] is matched with Actual value :[01/01/2007]
+Dec 08,2016 16:18:17 [info]  Verify The data of End Date Child
+Dec 08,2016 16:18:17 [info]  Verified that Expected value :[12/31/2008] is matched with Actual value :[12/31/2008]
+Dec 08,2016 16:18:17 [info]  Verify The data of PLAYS
+Dec 08,2016 16:18:17 [info]  Verified that Expected value :[Unlimited] is matched with Actual value :[Unlimited]
+Dec 08,2016 16:18:18 [info]  Verify The data of Day Type
+Dec 08,2016 16:18:18 [info]  Verified that Expected value :[Consecutive Period] is matched with Actual value :[Consecutive Period]
+Dec 08,2016 16:18:18 [info]  Verify The data of Day Period
+Dec 08,2016 16:18:18 [info]  Verified that Expected value :[24 HR] is matched with Actual value :[24 HR]
+Dec 08,2016 16:18:18 [info]  Verify The data of Add Exhibition
+Dec 08,2016 16:18:18 [info]  Verified that Expected value :[Same Network] is matched with Actual value :[Same Network]
+Dec 08,2016 16:18:20 [info]  Clicked on the ''Save' Button at Exhibition Rights Edit window' using JS Executor
+Dec 08,2016 16:18:23 [info]  ====Failed==== Expected value is:[Please enter values for required(*) fields.] but Actual value is[Please enter values for required (*) fields.]. Please check the screenshot with name: Validation messagefor more details
+Dec 08,2016 16:18:24 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\08\Validation message_CheckpointFailure_12-08-2016 4-18-23 PM.jpg
+Dec 08,2016 16:18:24 [info]  Clicked on the 'Exhibition Day Scope Field'
+Dec 08,2016 16:18:24 [info]  Clicked on the 'Exhibition Day Scope Drop Down'
+Dec 08,2016 16:18:24 [info]  Verify The data of Series
+Dec 08,2016 16:18:24 [info]  Verified that Expected value :[Series] is matched with Actual value :[Series]
+Dec 08,2016 16:18:24 [info]  Verify The data of Season
+Dec 08,2016 16:18:24 [info]  Verified that Expected value :[Season] is matched with Actual value :[Season]
+Dec 08,2016 16:18:24 [info]  Verify The data of Episode
+Dec 08,2016 16:18:24 [info]  Verified that Expected value :[Episode] is matched with Actual value :[Episode]
+Dec 08,2016 16:18:24 [info]  Verify The data of Asset
+Dec 08,2016 16:18:24 [info]  Verified that Expected value :[Asset] is matched with Actual value :[Asset]
+Dec 08,2016 16:18:24 [info]  Clicked on the ''Series' in Exhi Scope field'
+Dec 08,2016 16:18:25 [info]  Clicked on the 'Support Click'
+Dec 08,2016 16:18:35 [info]  Verify The data of ExhiScope
+Dec 08,2016 16:18:35 [info]  ====Failed==== Expected value is:[Series] but Actual value is[]. Please check the screenshot with name: ExhiScopefor more details
+Dec 08,2016 16:18:35 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\08\ExhiScope_CheckpointFailure_12-08-2016 4-18-35 PM.jpg
+Dec 08,2016 16:18:35 [info]  Clicked on the 'Window Name Field'
+Dec 08,2016 16:18:35 [info]  Entered "RSG Window" in field 'Win Name'
+Dec 08,2016 16:18:35 [info]  Clicked on the 'Support Click'
+Dec 08,2016 16:18:36 [info]  Clicked on the 'Window Name Field'
+Dec 08,2016 16:18:36 [info]  "Check Box Linear" is Present
+Dec 08,2016 16:18:36 [info]  "Check Box Non-Linear" is Present
+Dec 08,2016 16:18:36 [info]  Clicked on the 'Check box Linear'
+Dec 08,2016 16:18:36 [info]  "Linear Check box is checked" is Present
+Dec 08,2016 16:18:37 [info]  Clicked on the 'Apply Button at RIGHTSTYPE_POPUP'
+Dec 08,2016 16:18:37 [info]  Verify The data of Linear
+Dec 08,2016 16:18:37 [info]  Verified that Expected value :[Linear] is matched with Actual value :[Linear]
+Dec 08,2016 16:18:37 [info]  Clicked on the 'Support Click'
+Dec 08,2016 16:18:37 [info]  Test 'TC4_SelectMediaRow_WhileDefiningExhRights' PASSED
+Dec 08,2016 16:18:38 [info]  Closed the Browser
+Dec 08,2016 16:21:44 [info]  ********************Started Executiong the Test Suite at 16:21:44******************
+Dec 08,2016 16:21:44 [info]  Client: AMCN
+Dec 08,2016 16:21:44 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Dec 08,2016 16:21:44 [info]  *********************Started Executing 'TC4_SelectMediaRow_WhileDefiningExhRights' Test Case*********************
+Dec 08,2016 16:21:55 [info]  Client: AMCN
+Dec 08,2016 16:21:55 [info]  URL: http://rlv2wb79/login.aspx
+Dec 08,2016 16:21:55 [info]  UserName: automation
+Dec 08,2016 16:21:55 [info]  Password: automation
+Dec 08,2016 16:21:55 [info]  Entered "automation" in field 'User Name'
+Dec 08,2016 16:21:56 [info]  Clicked on the 'Temporary Check Box'
+Dec 08,2016 16:21:56 [info]  Entered "automation" in field 'Password'
+Dec 08,2016 16:22:02 [info]  Clicked on the 'LoginButton'
+Dec 08,2016 16:22:11 [info]  Double clicked on 'AUT_Deal_TC1_1207201624633Deal'
+Dec 08,2016 16:22:15 [info]  Clicked on the 'Exhibition Rights TAB'
+Dec 08,2016 16:22:18 [info]  Clicked on the ''Edit' Button at Media Rights TAB' using JS Executor
+Dec 08,2016 16:22:18 [info]  
+Dec 08,2016 16:22:18 [info]  Add Button >> Verify Media Rights's rows >> verify Select Check Box is shown >> Verify Buttons
+Dec 08,2016 16:22:19 [info]  Clicked on the 'Add Button'
+Dec 08,2016 16:22:24 [info]  Clicked on the 'Select Check Box'
+Dec 08,2016 16:22:26 [info]  Clicked on the 'Add Button at Media rights Pop up Window'
+Dec 08,2016 16:22:29 [info]  Verify The data of Media Row Number
+Dec 08,2016 16:22:29 [info]  Verified that Expected value :[Media Row No] is matched with Actual value :[Media Row No]
+Dec 08,2016 16:22:29 [info]  Verify The data of Exhibit APPLIESTO
+Dec 08,2016 16:22:29 [info]  Verified that Expected value :[Applies To] is matched with Actual value :[Applies To]
+Dec 08,2016 16:22:29 [info]  Verify The data of UNLIMITED Header
+Dec 08,2016 16:22:29 [info]  Verified that Expected value :[Unlimited] is matched with Actual value :[Unlimited]
+Dec 08,2016 16:22:29 [info]  Verify The data of EXHIBIT DATE UPDATE Header
+Dec 08,2016 16:22:29 [info]  Verified that Expected value :[Update] is matched with Actual value :[*Update]
+Dec 08,2016 16:22:29 [info]  Verify The data of EXHIBITION_DAYSHeader
+Dec 08,2016 16:22:29 [info]  Verified that Expected value :[Exhib.Days] is matched with Actual value :[Exhib.Days]
+Dec 08,2016 16:22:29 [info]  Verify The data of RESERVED_EXHIBITION Header
+Dec 08,2016 16:22:29 [info]  Verified that Expected value :[Reserved Exhibitions] is matched with Actual value :[Reserved Exhibitions]
+Dec 08,2016 16:22:29 [info]  Verify The data of POOLED Header
+Dec 08,2016 16:22:29 [info]  Verified that Expected value :[Pooled] is matched with Actual value :[Pooled]
+Dec 08,2016 16:22:29 [info]  Verify The data of EXHIBITIONDAYSCOPE_Header
+Dec 08,2016 16:22:29 [info]  Verified that Expected value :[Exhib.Day Scope] is matched with Actual value :[*Exhib.Day Scope]
+Dec 08,2016 16:22:29 [info]  Verify The data of STARTDATE Header
+Dec 08,2016 16:22:29 [info]  Verified that Expected value :[Start Date] is matched with Actual value :[Start Date]
+Dec 08,2016 16:22:30 [info]  Verify The data of ENDDATEHeader
+Dec 08,2016 16:22:30 [info]  Verified that Expected value :[End Date] is matched with Actual value :[End Date]
+Dec 08,2016 16:22:30 [info]  Verify The data of ExhibitBUSINESS_TERMSHeader
+Dec 08,2016 16:22:30 [info]  Verified that Expected value :[Notes] is matched with Actual value :[Notes]
+Dec 08,2016 16:22:30 [info]  
+Dec 08,2016 16:22:30 [info]  Verifying the headers of Child Row in Edit Mode
+Dec 08,2016 16:22:30 [info]  Verify The data of WINDOWNAME
+Dec 08,2016 16:22:30 [info]  Verified that Expected value :[*Window Name] is matched with Actual value :[*Window Name]
+Dec 08,2016 16:22:30 [info]  Verify The data of WINDOW_TYPE Header
+Dec 08,2016 16:22:30 [info]  Verified that Expected value :[*Window Type] is matched with Actual value :[*Window Type]
+Dec 08,2016 16:22:30 [info]  Verify The data of RIGHTSTYPE UPDATE Header
+Dec 08,2016 16:22:30 [info]  Verified that Expected value :[*Rights Type] is matched with Actual value :[*Rights Type]
+Dec 08,2016 16:22:30 [info]  Verify The data of EXHIBITION_DAYSHeader
+Dec 08,2016 16:22:30 [info]  Verified that Expected value :[Exhib.Days] is matched with Actual value :[Exhib.Days]
+Dec 08,2016 16:22:30 [info]  Verify The data of POOLED Header
+Dec 08,2016 16:22:30 [info]  Verified that Expected value :[Pooled] is matched with Actual value :[Pooled]
+Dec 08,2016 16:22:30 [info]  Verify The data of STARTDATECHILD_Header
+Dec 08,2016 16:22:30 [info]  Verified that Expected value :[*Start Date] is matched with Actual value :[*Start Date]
+Dec 08,2016 16:22:30 [info]  Verify The data of ENDDATECHILD Header
+Dec 08,2016 16:22:30 [info]  Verified that Expected value :[*End Date] is matched with Actual value :[*End Date]
+Dec 08,2016 16:22:30 [info]  Verify The data of NETWORK_SUMMARY Header
+Dec 08,2016 16:22:30 [info]  Verified that Expected value :[*Exhib.Network] is matched with Actual value :[*Exhib.Network]
+Dec 08,2016 16:22:30 [info]  Verify The data of TERRITORY_TERMSHeader
+Dec 08,2016 16:22:30 [info]  Verified that Expected value :[Territory] is matched with Actual value :[Territory]
+Dec 08,2016 16:22:30 [info]  Verify The data of EXHIBITIONDAYTYPE_Header
+Dec 08,2016 16:22:30 [info]  Verified that Expected value :[Day Type] is matched with Actual value :[Day Type]
+Dec 08,2016 16:22:31 [info]  Verify The data of EXHIBITIONDAYPERIOD Header
+Dec 08,2016 16:22:31 [info]  Verified that Expected value :[*Day Period] is matched with Actual value :[*Day Period]
+Dec 08,2016 16:22:31 [info]  Verify The data of PLAYSPEREXHIBITION Header
+Dec 08,2016 16:22:31 [info]  Verified that Expected value :[*Plays] is matched with Actual value :[*Plays]
+Dec 08,2016 16:22:31 [info]  Verify The data of ADDLNETWORKUSAGE_Header
+Dec 08,2016 16:22:31 [info]  Verified that Expected value :[Addl.Exhib.Restrictions] is matched with Actual value :[Addl.Exhib.Restrictions]
+Dec 08,2016 16:22:31 [info]  Verify The data of RID_RATING_TERMSHeader
+Dec 08,2016 16:22:31 [info]  Verified that Expected value :[Evaluation] is matched with Actual value :[Evaluation]
+Dec 08,2016 16:22:31 [info]  Verify the default data of Parent Row
+Dec 08,2016 16:22:31 [info]  Verify The data of Applies to
+Dec 08,2016 16:22:31 [info]  Verified that Expected value :[All] is matched with Actual value :[All]
+Dec 08,2016 16:22:31 [info]  Verify The data of Applies to
+Dec 08,2016 16:22:31 [info]  Verified that Expected value :[Automatic] is matched with Actual value :[Automatic]
+Dec 08,2016 16:22:31 [info]  Verify The data of STARTDATE
+Dec 08,2016 16:22:31 [info]  Verified that Expected value :[01/01/2007] is matched with Actual value :[01/01/2007]
+Dec 08,2016 16:22:32 [info]  Verify The data of ENDDATE
+Dec 08,2016 16:22:32 [info]  Verified that Expected value :[12/31/2008] is matched with Actual value :[12/31/2008]
+Dec 08,2016 16:22:32 [info]  Verify The data of UNLIMITED Check box
+Dec 08,2016 16:22:32 [info]  Verified that Expected value :[Checked] is matched with Actual value :[Checked]
+Dec 08,2016 16:22:32 [info]  Verify The data of POOLED Check box
+Dec 08,2016 16:22:32 [info]  Verified that Expected value :[Checked] is matched with Actual value :[Checked]
+Dec 08,2016 16:22:32 [info]  Verify the default data of Child Row
+Dec 08,2016 16:22:32 [info]  Verify The data of Window Type
+Dec 08,2016 16:22:32 [info]  Verified that Expected value :[Primary] is matched with Actual value :[Primary]
+Dec 08,2016 16:22:32 [info]  Verify The data of Start Date Child
+Dec 08,2016 16:22:32 [info]  Verified that Expected value :[01/01/2007] is matched with Actual value :[01/01/2007]
+Dec 08,2016 16:22:32 [info]  Verify The data of End Date Child
+Dec 08,2016 16:22:32 [info]  Verified that Expected value :[12/31/2008] is matched with Actual value :[12/31/2008]
+Dec 08,2016 16:22:32 [info]  Verify The data of PLAYS
+Dec 08,2016 16:22:32 [info]  Verified that Expected value :[Unlimited] is matched with Actual value :[Unlimited]
+Dec 08,2016 16:22:32 [info]  Verify The data of Day Type
+Dec 08,2016 16:22:32 [info]  Verified that Expected value :[Consecutive Period] is matched with Actual value :[Consecutive Period]
+Dec 08,2016 16:22:33 [info]  Verify The data of Day Period
+Dec 08,2016 16:22:33 [info]  Verified that Expected value :[24 HR] is matched with Actual value :[24 HR]
+Dec 08,2016 16:22:33 [info]  Verify The data of Add Exhibition
+Dec 08,2016 16:22:33 [info]  Verified that Expected value :[Same Network] is matched with Actual value :[Same Network]
+Dec 08,2016 16:22:35 [info]  Clicked on the ''Save' Button at Exhibition Rights Edit window' using JS Executor
+Dec 08,2016 16:22:38 [info]  ====Failed==== Expected value is:[Please enter values for required(*) fields.] but Actual value is[Please enter values for required (*) fields.]. Please check the screenshot with name: Validation messagefor more details
+Dec 08,2016 16:22:38 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\08\Validation message_CheckpointFailure_12-08-2016 4-22-38 PM.jpg
+Dec 08,2016 16:22:39 [info]  Clicked on the 'Exhibition Day Scope Field'
+Dec 08,2016 16:22:39 [info]  Clicked on the 'Exhibition Day Scope Drop Down'
+Dec 08,2016 16:22:39 [info]  Verify The data of Series
+Dec 08,2016 16:22:39 [info]  Verified that Expected value :[Series] is matched with Actual value :[Series]
+Dec 08,2016 16:22:39 [info]  Verify The data of Season
+Dec 08,2016 16:22:39 [info]  Verified that Expected value :[Season] is matched with Actual value :[Season]
+Dec 08,2016 16:22:39 [info]  Verify The data of Episode
+Dec 08,2016 16:22:39 [info]  Verified that Expected value :[Episode] is matched with Actual value :[Episode]
+Dec 08,2016 16:22:39 [info]  Verify The data of Asset
+Dec 08,2016 16:22:39 [info]  Verified that Expected value :[Asset] is matched with Actual value :[Asset]
+Dec 08,2016 16:22:39 [info]  Clicked on the ''Series' in Exhi Scope field'
+Dec 08,2016 16:22:39 [info]  Clicked on the 'Support Click'
+Dec 08,2016 16:22:49 [info]  Verify The data of ExhiScope
+Dec 08,2016 16:22:49 [info]  ====Failed==== Expected value is:[Series] but Actual value is[]. Please check the screenshot with name: ExhiScopefor more details
+Dec 08,2016 16:22:50 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\08\ExhiScope_CheckpointFailure_12-08-2016 4-22-49 PM.jpg
+Dec 08,2016 16:22:50 [info]  Clicked on the 'Window Name Field'
+Dec 08,2016 16:22:50 [info]  Entered "RSG Window" in field 'Win Name'
+Dec 08,2016 16:22:50 [info]  Clicked on the 'Support Click'
+Dec 08,2016 16:22:50 [info]  Clicked on the 'Window Name Field'
+Dec 08,2016 16:22:51 [info]  "Check Box Linear" is Present
+Dec 08,2016 16:22:51 [info]  "Check Box Non-Linear" is Present
+Dec 08,2016 16:22:51 [info]  Clicked on the 'Check box Linear'
+Dec 08,2016 16:22:51 [info]  "Linear Check box is checked" is Present
+Dec 08,2016 16:22:52 [info]  Clicked on the 'Apply Button at RIGHTSTYPE_POPUP'
+Dec 08,2016 16:22:53 [info]  Verify The data of Linear
+Dec 08,2016 16:22:53 [info]  Verified that Expected value :[Linear] is matched with Actual value :[Linear]
+Dec 08,2016 16:22:53 [info]  Clicked on the 'Support Click'
+Dec 08,2016 16:22:53 [info]  Test 'TC4_SelectMediaRow_WhileDefiningExhRights' PASSED
+Dec 08,2016 16:22:54 [info]  Closed the Browser
+Dec 08,2016 16:25:30 [info]  ********************Started Executiong the Test Suite at 16:25:30******************
+Dec 08,2016 16:25:30 [info]  Client: AMCN
+Dec 08,2016 16:25:30 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Dec 08,2016 16:25:30 [info]  *********************Started Executing 'TC4_SelectMediaRow_WhileDefiningExhRights' Test Case*********************
+Dec 08,2016 16:25:40 [info]  Client: AMCN
+Dec 08,2016 16:25:40 [info]  URL: http://rlv2wb79/login.aspx
+Dec 08,2016 16:25:40 [info]  UserName: automation
+Dec 08,2016 16:25:40 [info]  Password: automation
+Dec 08,2016 16:25:41 [info]  Entered "automation" in field 'User Name'
+Dec 08,2016 16:25:42 [info]  Clicked on the 'Temporary Check Box'
+Dec 08,2016 16:25:42 [info]  Entered "automation" in field 'Password'
+Dec 08,2016 16:25:49 [info]  Clicked on the 'LoginButton'
+Dec 08,2016 16:25:58 [info]  Double clicked on 'AUT_Deal_TC1_1207201624633Deal'
+Dec 08,2016 16:26:01 [info]  Clicked on the 'Exhibition Rights TAB'
+Dec 08,2016 16:26:05 [info]  Clicked on the ''Edit' Button at Media Rights TAB' using JS Executor
+Dec 08,2016 16:26:05 [info]  
+Dec 08,2016 16:26:05 [info]  Add Button >> Verify Media Rights's rows >> verify Select Check Box is shown >> Verify Buttons
+Dec 08,2016 16:26:06 [info]  Clicked on the 'Add Button'
+Dec 08,2016 16:26:11 [info]  Clicked on the 'Select Check Box'
+Dec 08,2016 16:26:11 [info]  Clicked on the 'Add Button at Media rights Pop up Window'
+Dec 08,2016 16:26:16 [info]  Verify The data of Media Row Number
+Dec 08,2016 16:26:16 [info]  Verified that Expected value :[Media Row No] is matched with Actual value :[Media Row No]
+Dec 08,2016 16:26:16 [info]  Verify The data of Exhibit APPLIESTO
+Dec 08,2016 16:26:16 [info]  Verified that Expected value :[Applies To] is matched with Actual value :[Applies To]
+Dec 08,2016 16:26:16 [info]  Verify The data of UNLIMITED Header
+Dec 08,2016 16:26:16 [info]  Verified that Expected value :[Unlimited] is matched with Actual value :[Unlimited]
+Dec 08,2016 16:26:16 [info]  Verify The data of EXHIBIT DATE UPDATE Header
+Dec 08,2016 16:26:16 [info]  Verified that Expected value :[Update] is matched with Actual value :[*Update]
+Dec 08,2016 16:26:16 [info]  Verify The data of EXHIBITION_DAYSHeader
+Dec 08,2016 16:26:16 [info]  Verified that Expected value :[Exhib.Days] is matched with Actual value :[Exhib.Days]
+Dec 08,2016 16:26:16 [info]  Verify The data of RESERVED_EXHIBITION Header
+Dec 08,2016 16:26:16 [info]  Verified that Expected value :[Reserved Exhibitions] is matched with Actual value :[Reserved Exhibitions]
+Dec 08,2016 16:26:17 [info]  Verify The data of POOLED Header
+Dec 08,2016 16:26:17 [info]  Verified that Expected value :[Pooled] is matched with Actual value :[Pooled]
+Dec 08,2016 16:26:17 [info]  Verify The data of EXHIBITIONDAYSCOPE_Header
+Dec 08,2016 16:26:17 [info]  Verified that Expected value :[Exhib.Day Scope] is matched with Actual value :[*Exhib.Day Scope]
+Dec 08,2016 16:26:17 [info]  Verify The data of STARTDATE Header
+Dec 08,2016 16:26:17 [info]  Verified that Expected value :[Start Date] is matched with Actual value :[Start Date]
+Dec 08,2016 16:26:17 [info]  Verify The data of ENDDATEHeader
+Dec 08,2016 16:26:17 [info]  Verified that Expected value :[End Date] is matched with Actual value :[End Date]
+Dec 08,2016 16:26:17 [info]  Verify The data of ExhibitBUSINESS_TERMSHeader
+Dec 08,2016 16:26:17 [info]  Verified that Expected value :[Notes] is matched with Actual value :[Notes]
+Dec 08,2016 16:26:17 [info]  
+Dec 08,2016 16:26:17 [info]  Verifying the headers of Child Row in Edit Mode
+Dec 08,2016 16:26:17 [info]  Verify The data of WINDOWNAME
+Dec 08,2016 16:26:17 [info]  Verified that Expected value :[*Window Name] is matched with Actual value :[*Window Name]
+Dec 08,2016 16:26:17 [info]  Verify The data of WINDOW_TYPE Header
+Dec 08,2016 16:26:17 [info]  Verified that Expected value :[*Window Type] is matched with Actual value :[*Window Type]
+Dec 08,2016 16:26:17 [info]  Verify The data of RIGHTSTYPE UPDATE Header
+Dec 08,2016 16:26:17 [info]  Verified that Expected value :[*Rights Type] is matched with Actual value :[*Rights Type]
+Dec 08,2016 16:26:17 [info]  Verify The data of EXHIBITION_DAYSHeader
+Dec 08,2016 16:26:17 [info]  Verified that Expected value :[Exhib.Days] is matched with Actual value :[Exhib.Days]
+Dec 08,2016 16:26:17 [info]  Verify The data of POOLED Header
+Dec 08,2016 16:26:17 [info]  Verified that Expected value :[Pooled] is matched with Actual value :[Pooled]
+Dec 08,2016 16:26:17 [info]  Verify The data of STARTDATECHILD_Header
+Dec 08,2016 16:26:17 [info]  Verified that Expected value :[*Start Date] is matched with Actual value :[*Start Date]
+Dec 08,2016 16:26:17 [info]  Verify The data of ENDDATECHILD Header
+Dec 08,2016 16:26:17 [info]  Verified that Expected value :[*End Date] is matched with Actual value :[*End Date]
+Dec 08,2016 16:26:18 [info]  Verify The data of NETWORK_SUMMARY Header
+Dec 08,2016 16:26:18 [info]  Verified that Expected value :[*Exhib.Network] is matched with Actual value :[*Exhib.Network]
+Dec 08,2016 16:26:18 [info]  Verify The data of TERRITORY_TERMSHeader
+Dec 08,2016 16:26:18 [info]  Verified that Expected value :[Territory] is matched with Actual value :[Territory]
+Dec 08,2016 16:26:18 [info]  Verify The data of EXHIBITIONDAYTYPE_Header
+Dec 08,2016 16:26:18 [info]  Verified that Expected value :[Day Type] is matched with Actual value :[Day Type]
+Dec 08,2016 16:26:18 [info]  Verify The data of EXHIBITIONDAYPERIOD Header
+Dec 08,2016 16:26:18 [info]  Verified that Expected value :[*Day Period] is matched with Actual value :[*Day Period]
+Dec 08,2016 16:26:18 [info]  Verify The data of PLAYSPEREXHIBITION Header
+Dec 08,2016 16:26:18 [info]  Verified that Expected value :[*Plays] is matched with Actual value :[*Plays]
+Dec 08,2016 16:26:18 [info]  Verify The data of ADDLNETWORKUSAGE_Header
+Dec 08,2016 16:26:18 [info]  Verified that Expected value :[Addl.Exhib.Restrictions] is matched with Actual value :[Addl.Exhib.Restrictions]
+Dec 08,2016 16:26:18 [info]  Verify The data of RID_RATING_TERMSHeader
+Dec 08,2016 16:26:18 [info]  Verified that Expected value :[Evaluation] is matched with Actual value :[Evaluation]
+Dec 08,2016 16:26:18 [info]  Verify the default data of Parent Row
+Dec 08,2016 16:26:18 [info]  Verify The data of Applies to
+Dec 08,2016 16:26:18 [info]  Verified that Expected value :[All] is matched with Actual value :[All]
+Dec 08,2016 16:26:18 [info]  Verify The data of Applies to
+Dec 08,2016 16:26:18 [info]  Verified that Expected value :[Automatic] is matched with Actual value :[Automatic]
+Dec 08,2016 16:26:19 [info]  Verify The data of STARTDATE
+Dec 08,2016 16:26:19 [info]  Verified that Expected value :[01/01/2007] is matched with Actual value :[01/01/2007]
+Dec 08,2016 16:26:19 [info]  Verify The data of ENDDATE
+Dec 08,2016 16:26:19 [info]  Verified that Expected value :[12/31/2008] is matched with Actual value :[12/31/2008]
+Dec 08,2016 16:26:19 [info]  Verify The data of UNLIMITED Check box
+Dec 08,2016 16:26:19 [info]  Verified that Expected value :[Checked] is matched with Actual value :[Checked]
+Dec 08,2016 16:26:19 [info]  Verify The data of POOLED Check box
+Dec 08,2016 16:26:19 [info]  Verified that Expected value :[Checked] is matched with Actual value :[Checked]
+Dec 08,2016 16:26:19 [info]  Verify the default data of Child Row
+Dec 08,2016 16:26:19 [info]  Verify The data of Window Type
+Dec 08,2016 16:26:19 [info]  Verified that Expected value :[Primary] is matched with Actual value :[Primary]
+Dec 08,2016 16:26:19 [info]  Verify The data of Start Date Child
+Dec 08,2016 16:26:19 [info]  Verified that Expected value :[01/01/2007] is matched with Actual value :[01/01/2007]
+Dec 08,2016 16:26:19 [info]  Verify The data of End Date Child
+Dec 08,2016 16:26:19 [info]  Verified that Expected value :[12/31/2008] is matched with Actual value :[12/31/2008]
+Dec 08,2016 16:26:19 [info]  Verify The data of PLAYS
+Dec 08,2016 16:26:19 [info]  Verified that Expected value :[Unlimited] is matched with Actual value :[Unlimited]
+Dec 08,2016 16:26:20 [info]  Verify The data of Day Type
+Dec 08,2016 16:26:20 [info]  Verified that Expected value :[Consecutive Period] is matched with Actual value :[Consecutive Period]
+Dec 08,2016 16:26:20 [info]  Verify The data of Day Period
+Dec 08,2016 16:26:20 [info]  Verified that Expected value :[24 HR] is matched with Actual value :[24 HR]
+Dec 08,2016 16:26:20 [info]  Verify The data of Add Exhibition
+Dec 08,2016 16:26:20 [info]  Verified that Expected value :[Same Network] is matched with Actual value :[Same Network]
+Dec 08,2016 16:26:22 [info]  Clicked on the ''Save' Button at Exhibition Rights Edit window' using JS Executor
+Dec 08,2016 16:26:25 [info]  ====Failed==== Expected value is:[Please enter values for required(*) fields.] but Actual value is[Please enter values for required (*) fields.]. Please check the screenshot with name: Validation messagefor more details
+Dec 08,2016 16:26:25 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\08\Validation message_CheckpointFailure_12-08-2016 4-26-25 PM.jpg
+Dec 08,2016 16:26:25 [info]  Clicked on the 'Exhibition Day Scope Field'
+Dec 08,2016 16:26:25 [info]  Clicked on the 'Exhibition Day Scope Drop Down'
+Dec 08,2016 16:26:26 [info]  Verify The data of Series
+Dec 08,2016 16:26:26 [info]  Verified that Expected value :[Series] is matched with Actual value :[Series]
+Dec 08,2016 16:26:26 [info]  Verify The data of Season
+Dec 08,2016 16:26:26 [info]  Verified that Expected value :[Season] is matched with Actual value :[Season]
+Dec 08,2016 16:26:26 [info]  Verify The data of Episode
+Dec 08,2016 16:26:26 [info]  Verified that Expected value :[Episode] is matched with Actual value :[Episode]
+Dec 08,2016 16:26:26 [info]  Verify The data of Asset
+Dec 08,2016 16:26:26 [info]  Verified that Expected value :[Asset] is matched with Actual value :[Asset]
+Dec 08,2016 16:26:26 [info]  Clicked on the ''Series' in Exhi Scope field'
+Dec 08,2016 16:26:26 [info]  Clicked on the 'Support Click'
+Dec 08,2016 16:26:26 [info]  Verify The data of ExhiScope
+Dec 08,2016 16:26:26 [info]  Verified that Expected value :[Series] is matched with Actual value :[Series]
+Dec 08,2016 16:26:26 [info]  Clicked on the 'Window Name Field'
+Dec 08,2016 16:26:26 [info]  Entered "RSG Window" in field 'Win Name'
+Dec 08,2016 16:26:26 [info]  Clicked on the 'Support Click'
+Dec 08,2016 16:26:27 [info]  Clicked on the 'Window Name Field'
+Dec 08,2016 16:26:27 [info]  "Check Box Linear" is Present
+Dec 08,2016 16:26:27 [info]  "Check Box Non-Linear" is Present
+Dec 08,2016 16:26:28 [info]  Clicked on the 'Check box Linear'
+Dec 08,2016 16:26:28 [info]  "Linear Check box is checked" is Present
+Dec 08,2016 16:26:28 [info]  Clicked on the 'Apply Button at RIGHTSTYPE_POPUP'
+Dec 08,2016 16:26:29 [info]  Verify The data of Linear
+Dec 08,2016 16:26:29 [info]  Verified that Expected value :[Linear] is matched with Actual value :[Linear]
+Dec 08,2016 16:26:29 [info]  Clicked on the 'Support Click'
+Dec 08,2016 16:26:29 [info]  Test 'TC4_SelectMediaRow_WhileDefiningExhRights' PASSED
+Dec 08,2016 16:26:29 [info]  Closed the Browser
+Dec 08,2016 16:54:27 [info]  ********************Started Executiong the Test Suite at 16:54:27******************
+Dec 08,2016 16:54:27 [info]  Client: AMCN
+Dec 08,2016 16:54:27 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Dec 08,2016 16:54:27 [info]  *********************Started Executing 'TC4_SelectMediaRow_WhileDefiningExhRights' Test Case*********************
+Dec 08,2016 16:54:37 [info]  Client: AMCN
+Dec 08,2016 16:54:37 [info]  URL: http://rlv2wb79/login.aspx
+Dec 08,2016 16:54:37 [info]  UserName: automation
+Dec 08,2016 16:54:37 [info]  Password: automation
+Dec 08,2016 16:54:38 [info]  Entered "automation" in field 'User Name'
+Dec 08,2016 16:54:38 [info]  Clicked on the 'Temporary Check Box'
+Dec 08,2016 16:54:38 [info]  Entered "automation" in field 'Password'
+Dec 08,2016 16:54:45 [info]  Clicked on the 'LoginButton'
+Dec 08,2016 16:54:54 [info]  Double clicked on 'AUT_Deal_TC1_1207201624633Deal'
+Dec 08,2016 16:54:58 [info]  Clicked on the 'Exhibition Rights TAB'
+Dec 08,2016 16:55:02 [info]  Clicked on the ''Edit' Button at Media Rights TAB' using JS Executor
+Dec 08,2016 16:55:02 [info]  
+Dec 08,2016 16:55:02 [info]  Add Button >> Verify Media Rights's rows >> verify Select Check Box is shown >> Verify Buttons
+Dec 08,2016 16:55:02 [info]  Clicked on the 'Add Button'
+Dec 08,2016 16:55:07 [info]  Clicked on the 'Select Check Box'
+Dec 08,2016 16:55:09 [info]  Clicked on the 'Add Button at Media rights Pop up Window'
+Dec 08,2016 16:55:13 [info]  Verify The data of Media Row Number
+Dec 08,2016 16:55:13 [info]  Verified that Expected value :[Media Row No] is matched with Actual value :[Media Row No]
+Dec 08,2016 16:55:13 [info]  Verify The data of Exhibit APPLIESTO
+Dec 08,2016 16:55:13 [info]  Verified that Expected value :[Applies To] is matched with Actual value :[Applies To]
+Dec 08,2016 16:55:13 [info]  Verify The data of UNLIMITED Header
+Dec 08,2016 16:55:13 [info]  Verified that Expected value :[Unlimited] is matched with Actual value :[Unlimited]
+Dec 08,2016 16:55:13 [info]  Verify The data of EXHIBIT DATE UPDATE Header
+Dec 08,2016 16:55:13 [info]  Verified that Expected value :[Update] is matched with Actual value :[*Update]
+Dec 08,2016 16:55:13 [info]  Verify The data of EXHIBITION_DAYSHeader
+Dec 08,2016 16:55:13 [info]  Verified that Expected value :[Exhib.Days] is matched with Actual value :[Exhib.Days]
+Dec 08,2016 16:55:13 [info]  Verify The data of RESERVED_EXHIBITION Header
+Dec 08,2016 16:55:13 [info]  Verified that Expected value :[Reserved Exhibitions] is matched with Actual value :[Reserved Exhibitions]
+Dec 08,2016 16:55:13 [info]  Verify The data of POOLED Header
+Dec 08,2016 16:55:13 [info]  Verified that Expected value :[Pooled] is matched with Actual value :[Pooled]
+Dec 08,2016 16:55:13 [info]  Verify The data of EXHIBITIONDAYSCOPE_Header
+Dec 08,2016 16:55:13 [info]  Verified that Expected value :[Exhib.Day Scope] is matched with Actual value :[*Exhib.Day Scope]
+Dec 08,2016 16:55:13 [info]  Verify The data of STARTDATE Header
+Dec 08,2016 16:55:13 [info]  Verified that Expected value :[Start Date] is matched with Actual value :[Start Date]
+Dec 08,2016 16:55:13 [info]  Verify The data of ENDDATEHeader
+Dec 08,2016 16:55:13 [info]  Verified that Expected value :[End Date] is matched with Actual value :[End Date]
+Dec 08,2016 16:55:13 [info]  Verify The data of ExhibitBUSINESS_TERMSHeader
+Dec 08,2016 16:55:13 [info]  Verified that Expected value :[Notes] is matched with Actual value :[Notes]
+Dec 08,2016 16:55:13 [info]  
+Dec 08,2016 16:55:13 [info]  Verifying the headers of Child Row in Edit Mode
+Dec 08,2016 16:55:13 [info]  Verify The data of WINDOWNAME
+Dec 08,2016 16:55:13 [info]  Verified that Expected value :[*Window Name] is matched with Actual value :[*Window Name]
+Dec 08,2016 16:55:14 [info]  Verify The data of WINDOW_TYPE Header
+Dec 08,2016 16:55:14 [info]  Verified that Expected value :[*Window Type] is matched with Actual value :[*Window Type]
+Dec 08,2016 16:55:14 [info]  Verify The data of RIGHTSTYPE UPDATE Header
+Dec 08,2016 16:55:14 [info]  Verified that Expected value :[*Rights Type] is matched with Actual value :[*Rights Type]
+Dec 08,2016 16:55:14 [info]  Verify The data of EXHIBITION_DAYSHeader
+Dec 08,2016 16:55:14 [info]  Verified that Expected value :[Exhib.Days] is matched with Actual value :[Exhib.Days]
+Dec 08,2016 16:55:14 [info]  Verify The data of POOLED Header
+Dec 08,2016 16:55:14 [info]  Verified that Expected value :[Pooled] is matched with Actual value :[Pooled]
+Dec 08,2016 16:55:14 [info]  Verify The data of STARTDATECHILD_Header
+Dec 08,2016 16:55:14 [info]  Verified that Expected value :[*Start Date] is matched with Actual value :[*Start Date]
+Dec 08,2016 16:55:14 [info]  Verify The data of ENDDATECHILD Header
+Dec 08,2016 16:55:14 [info]  Verified that Expected value :[*End Date] is matched with Actual value :[*End Date]
+Dec 08,2016 16:55:14 [info]  Verify The data of NETWORK_SUMMARY Header
+Dec 08,2016 16:55:14 [info]  Verified that Expected value :[*Exhib.Network] is matched with Actual value :[*Exhib.Network]
+Dec 08,2016 16:55:14 [info]  Verify The data of TERRITORY_TERMSHeader
+Dec 08,2016 16:55:14 [info]  Verified that Expected value :[Territory] is matched with Actual value :[Territory]
+Dec 08,2016 16:55:14 [info]  Verify The data of EXHIBITIONDAYTYPE_Header
+Dec 08,2016 16:55:14 [info]  Verified that Expected value :[Day Type] is matched with Actual value :[Day Type]
+Dec 08,2016 16:55:14 [info]  Verify The data of EXHIBITIONDAYPERIOD Header
+Dec 08,2016 16:55:14 [info]  Verified that Expected value :[*Day Period] is matched with Actual value :[*Day Period]
+Dec 08,2016 16:55:14 [info]  Verify The data of PLAYSPEREXHIBITION Header
+Dec 08,2016 16:55:14 [info]  Verified that Expected value :[*Plays] is matched with Actual value :[*Plays]
+Dec 08,2016 16:55:15 [info]  Verify The data of ADDLNETWORKUSAGE_Header
+Dec 08,2016 16:55:15 [info]  Verified that Expected value :[Addl.Exhib.Restrictions] is matched with Actual value :[Addl.Exhib.Restrictions]
+Dec 08,2016 16:55:15 [info]  Verify The data of RID_RATING_TERMSHeader
+Dec 08,2016 16:55:15 [info]  Verified that Expected value :[Evaluation] is matched with Actual value :[Evaluation]
+Dec 08,2016 16:55:15 [info]  Verify the default data of Parent Row
+Dec 08,2016 16:55:15 [info]  Verify The data of Applies to
+Dec 08,2016 16:55:15 [info]  Verified that Expected value :[All] is matched with Actual value :[All]
+Dec 08,2016 16:55:15 [info]  Verify The data of Applies to
+Dec 08,2016 16:55:15 [info]  Verified that Expected value :[Automatic] is matched with Actual value :[Automatic]
+Dec 08,2016 16:55:15 [info]  Verify The data of STARTDATE
+Dec 08,2016 16:55:15 [info]  Verified that Expected value :[01/01/2007] is matched with Actual value :[01/01/2007]
+Dec 08,2016 16:55:15 [info]  Verify The data of ENDDATE
+Dec 08,2016 16:55:15 [info]  Verified that Expected value :[12/31/2008] is matched with Actual value :[12/31/2008]
+Dec 08,2016 16:55:15 [info]  Verify The data of UNLIMITED Check box
+Dec 08,2016 16:55:15 [info]  Verified that Expected value :[Checked] is matched with Actual value :[Checked]
+Dec 08,2016 16:55:16 [info]  Verify The data of POOLED Check box
+Dec 08,2016 16:55:16 [info]  Verified that Expected value :[Checked] is matched with Actual value :[Checked]
+Dec 08,2016 16:55:16 [info]  Verify the default data of Child Row
+Dec 08,2016 16:55:16 [info]  Verify The data of Window Type
+Dec 08,2016 16:55:16 [info]  Verified that Expected value :[Primary] is matched with Actual value :[Primary]
+Dec 08,2016 16:55:16 [info]  Verify The data of Start Date Child
+Dec 08,2016 16:55:16 [info]  Verified that Expected value :[01/01/2007] is matched with Actual value :[01/01/2007]
+Dec 08,2016 16:55:16 [info]  Verify The data of End Date Child
+Dec 08,2016 16:55:16 [info]  Verified that Expected value :[12/31/2008] is matched with Actual value :[12/31/2008]
+Dec 08,2016 16:55:16 [info]  Verify The data of PLAYS
+Dec 08,2016 16:55:16 [info]  Verified that Expected value :[Unlimited] is matched with Actual value :[Unlimited]
+Dec 08,2016 16:55:16 [info]  Verify The data of Day Type
+Dec 08,2016 16:55:16 [info]  Verified that Expected value :[Consecutive Period] is matched with Actual value :[Consecutive Period]
+Dec 08,2016 16:55:16 [info]  Verify The data of Day Period
+Dec 08,2016 16:55:16 [info]  Verified that Expected value :[24 HR] is matched with Actual value :[24 HR]
+Dec 08,2016 16:55:16 [info]  Verify The data of Add Exhibition
+Dec 08,2016 16:55:16 [info]  Verified that Expected value :[Same Network] is matched with Actual value :[Same Network]
+Dec 08,2016 16:55:18 [info]  Clicked on the ''Save' Button at Exhibition Rights Edit window' using JS Executor
+Dec 08,2016 16:55:21 [info]  ====Failed==== Expected value is:[Please enter values for required(*) fields.] but Actual value is[Please enter values for required (*) fields.]. Please check the screenshot with name: Validation messagefor more details
+Dec 08,2016 16:55:22 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\08\Validation message_CheckpointFailure_12-08-2016 4-55-21 PM.jpg
+Dec 08,2016 16:55:22 [info]  Clicked on the 'Exhibition Day Scope Field'
+Dec 08,2016 16:55:22 [info]  Clicked on the 'Exhibition Day Scope Drop Down'
+Dec 08,2016 16:55:22 [info]  Verify The data of Series
+Dec 08,2016 16:55:22 [info]  Verified that Expected value :[Series] is matched with Actual value :[Series]
+Dec 08,2016 16:55:22 [info]  Verify The data of Season
+Dec 08,2016 16:55:22 [info]  Verified that Expected value :[Season] is matched with Actual value :[Season]
+Dec 08,2016 16:55:22 [info]  Verify The data of Episode
+Dec 08,2016 16:55:22 [info]  Verified that Expected value :[Episode] is matched with Actual value :[Episode]
+Dec 08,2016 16:55:22 [info]  Verify The data of Asset
+Dec 08,2016 16:55:22 [info]  Verified that Expected value :[Asset] is matched with Actual value :[Asset]
+Dec 08,2016 16:55:22 [info]  Clicked on the ''Series' in Exhi Scope field'
+Dec 08,2016 16:55:23 [info]  Clicked on the 'Support Click'
+Dec 08,2016 16:55:23 [info]  Verify The data of ExhiScope
+Dec 08,2016 16:55:23 [info]  Verified that Expected value :[Series] is matched with Actual value :[Series]
+Dec 08,2016 16:55:23 [info]  Clicked on the 'Window Name Field'
+Dec 08,2016 16:55:23 [info]  Entered "RSG Window" in field 'Win Name'
+Dec 08,2016 16:55:23 [info]  Clicked on the 'Support Click'
+Dec 08,2016 16:55:23 [info]  Open Rights Type window and check Linear Check Box
+Dec 08,2016 16:55:23 [info]  Clicked on the 'Window Name Field'
+Dec 08,2016 16:55:24 [info]  "Check Box Linear" is Present
+Dec 08,2016 16:55:24 [info]  "Check Box Non-Linear" is Present
+Dec 08,2016 16:55:24 [info]  Clicked on the 'Check box Linear'
+Dec 08,2016 16:55:24 [info]  "Linear Check box is checked" is Present
+Dec 08,2016 16:55:25 [info]  Clicked on the 'Apply Button at RIGHTSTYPE_POPUP'
+Dec 08,2016 16:55:25 [info]  Verify The data of Linear
+Dec 08,2016 16:55:25 [info]  Verified that Expected value :[Linear] is matched with Actual value :[Linear]
+Dec 08,2016 16:55:25 [info]  Day Type
+Dec 08,2016 16:55:35 [info]  ====Failed==== "Day Type Field" field is not present'
+Dec 08,2016 16:55:36 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\08\Day Type Field_CheckpointFailure_12-08-2016 4-55-35 PM.jpg
+Dec 08,2016 16:55:46 [info]  ====Failed==== "DAYS Type Drop Down" field is not present'
+Dec 08,2016 16:55:46 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\08\DAYS Type Drop Down_CheckpointFailure_12-08-2016 4-55-46 PM.jpg
+Dec 08,2016 16:55:56 [info]  Verify The data of Consecutive Period
+Dec 08,2016 16:55:56 [info]  ====Failed==== Expected value is:[Consecutive Period] but Actual value is[]. Please check the screenshot with name: Consecutive Periodfor more details
+Dec 08,2016 16:55:56 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\08\Consecutive Period_CheckpointFailure_12-08-2016 4-55-56 PM.jpg
+Dec 08,2016 16:56:06 [info]  Verify The data of Programming Day
+Dec 08,2016 16:56:06 [info]  ====Failed==== Expected value is:[Programming Day] but Actual value is[]. Please check the screenshot with name: Programming Dayfor more details
+Dec 08,2016 16:56:07 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\08\Programming Day_CheckpointFailure_12-08-2016 4-56-06 PM.jpg
+Dec 08,2016 16:56:17 [info]  ====Failed==== "Consecutive Period in Exhi Days Type field" field is not present'
+Dec 08,2016 16:56:17 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\08\Consecutive Period in Exhi Days Type field_CheckpointFailure_12-08-2016 4-56-17 PM.jpg
+Dec 08,2016 16:56:17 [info]  Clicked on the 'Support Click'
+Dec 08,2016 16:56:17 [info]  Verify The data of Day Type
+Dec 08,2016 16:56:17 [info]  Verified that Expected value :[Consecutive Period] is matched with Actual value :[Consecutive Period]
+Dec 08,2016 16:56:17 [info]  Day Type
+Dec 08,2016 16:56:27 [info]  ====Failed==== "Day Period Field" field is not present'
+Dec 08,2016 16:56:28 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\08\Day Period Field_CheckpointFailure_12-08-2016 4-56-27 PM.jpg
+Dec 08,2016 16:56:38 [info]  ====Failed==== "DAYS Period Drop Down" field is not present'
+Dec 08,2016 16:56:38 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\08\DAYS Period Drop Down_CheckpointFailure_12-08-2016 4-56-38 PM.jpg
+Dec 08,2016 16:56:48 [info]  Verify The data of 24 HR
+Dec 08,2016 16:56:48 [info]  ====Failed==== Expected value is:[24 HR] but Actual value is[]. Please check the screenshot with name: 24 HRfor more details
+Dec 08,2016 16:56:48 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\08\24 HR_CheckpointFailure_12-08-2016 4-56-48 PM.jpg
+Dec 08,2016 16:56:58 [info]  Verify The data of 12
+Dec 08,2016 16:56:58 [info]  ====Failed==== Expected value is:[12] but Actual value is[]. Please check the screenshot with name: 12for more details
+Dec 08,2016 16:56:59 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\08\12_CheckpointFailure_12-08-2016 4-56-58 PM.jpg
+Dec 08,2016 16:57:09 [info]  Verify The data of 7 Days
+Dec 08,2016 16:57:09 [info]  ====Failed==== Expected value is:[7 Days] but Actual value is[]. Please check the screenshot with name: 7 Daysfor more details
+Dec 08,2016 16:57:09 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\08\7 Days_CheckpointFailure_12-08-2016 4-57-09 PM.jpg
+Dec 08,2016 16:57:19 [info]  Verify The data of 14 Days
+Dec 08,2016 16:57:19 [info]  ====Failed==== Expected value is:[14 Days] but Actual value is[]. Please check the screenshot with name: 14 Daysfor more details
+Dec 08,2016 16:57:19 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\08\14 Days_CheckpointFailure_12-08-2016 4-57-19 PM.jpg
+Dec 08,2016 16:57:29 [info]  ====Failed==== "24 HR in Day Period field" field is not present'
+Dec 08,2016 16:57:30 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\08\24 HR in Day Period field_CheckpointFailure_12-08-2016 4-57-29 PM.jpg
+Dec 08,2016 16:57:30 [info]  Clicked on the 'Support Click'
+Dec 08,2016 16:57:30 [info]  Verify The data of Day Period
+Dec 08,2016 16:57:30 [info]  ====Failed==== Expected value is:[Consecutive Period] but Actual value is[24 HR]. Please check the screenshot with name: Day Periodfor more details
+Dec 08,2016 16:57:30 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\08\Day Period_CheckpointFailure_12-08-2016 4-57-30 PM.jpg
+Dec 08,2016 16:57:30 [info]  Day Type
+Dec 08,2016 16:57:40 [info]  ====Failed==== "Plays Field" field is not present'
+Dec 08,2016 16:57:41 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\08\Plays Field_CheckpointFailure_12-08-2016 4-57-40 PM.jpg
+Dec 08,2016 16:57:51 [info]  ====Failed==== "Plays Drop Down" field is not present'
+Dec 08,2016 16:57:51 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\08\Plays Drop Down_CheckpointFailure_12-08-2016 4-57-51 PM.jpg
+Dec 08,2016 16:58:01 [info]  Verify The data of Unlimited
+Dec 08,2016 16:58:01 [info]  ====Failed==== Expected value is:[Unlimited] but Actual value is[]. Please check the screenshot with name: Unlimitedfor more details
+Dec 08,2016 16:58:01 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\08\Unlimited_CheckpointFailure_12-08-2016 4-58-01 PM.jpg
+Dec 08,2016 16:58:11 [info]  Verify The data of 1
+Dec 08,2016 16:58:11 [info]  ====Failed==== Expected value is:[1] but Actual value is[]. Please check the screenshot with name: 1for more details
+Dec 08,2016 16:58:12 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\08\1_CheckpointFailure_12-08-2016 4-58-11 PM.jpg
+Dec 08,2016 16:58:22 [info]  Verify The data of 2
+Dec 08,2016 16:58:22 [info]  ====Failed==== Expected value is:[2] but Actual value is[]. Please check the screenshot with name: 2for more details
+Dec 08,2016 16:58:22 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\08\2_CheckpointFailure_12-08-2016 4-58-22 PM.jpg
+Dec 08,2016 16:58:32 [info]  Verify The data of 3
+Dec 08,2016 16:58:32 [info]  ====Failed==== Expected value is:[3] but Actual value is[]. Please check the screenshot with name: 3for more details
+Dec 08,2016 16:58:32 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\08\3_CheckpointFailure_12-08-2016 4-58-32 PM.jpg
+Dec 08,2016 17:40:42 [info]  ********************Started Executiong the Test Suite at 17:40:42******************
+Dec 08,2016 17:40:42 [info]  Client: AMCN
+Dec 08,2016 17:40:42 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Dec 08,2016 17:40:42 [info]  *********************Started Executing 'TC4_SelectMediaRow_WhileDefiningExhRights' Test Case*********************
+Dec 08,2016 17:40:53 [info]  Client: AMCN
+Dec 08,2016 17:40:53 [info]  URL: http://rlv2wb79/login.aspx
+Dec 08,2016 17:40:53 [info]  UserName: automation
+Dec 08,2016 17:40:53 [info]  Password: automation
+Dec 08,2016 17:40:54 [info]  Entered "automation" in field 'User Name'
+Dec 08,2016 17:40:54 [info]  Clicked on the 'Temporary Check Box'
+Dec 08,2016 17:40:54 [info]  Entered "automation" in field 'Password'
+Dec 08,2016 17:41:02 [info]  Clicked on the 'LoginButton'
+Dec 08,2016 17:41:11 [info]  Double clicked on 'AUT_Deal_TC1_1207201624633Deal'
+Dec 08,2016 17:41:14 [info]  Clicked on the 'Exhibition Rights TAB'
+Dec 08,2016 17:41:17 [info]  Clicked on the ''Edit' Button at Media Rights TAB' using JS Executor
+Dec 08,2016 17:41:17 [info]  
+Dec 08,2016 17:41:17 [info]  Add Button >> Verify Media Rights's rows >> verify Select Check Box is shown >> Verify Buttons
+Dec 08,2016 17:41:18 [info]  Clicked on the 'Add Button'
+Dec 08,2016 17:41:23 [info]  Clicked on the 'Select Check Box'
+Dec 08,2016 17:41:24 [info]  Clicked on the 'Add Button at Media rights Pop up Window'
+Dec 08,2016 17:41:28 [info]  Verify The data of Media Row Number
+Dec 08,2016 17:41:28 [info]  Verified that Expected value :[Media Row No] is matched with Actual value :[Media Row No]
+Dec 08,2016 17:41:28 [info]  Verify The data of Exhibit APPLIESTO
+Dec 08,2016 17:41:28 [info]  Verified that Expected value :[Applies To] is matched with Actual value :[Applies To]
+Dec 08,2016 17:41:28 [info]  Verify The data of UNLIMITED Header
+Dec 08,2016 17:41:28 [info]  Verified that Expected value :[Unlimited] is matched with Actual value :[Unlimited]
+Dec 08,2016 17:41:28 [info]  Verify The data of EXHIBIT DATE UPDATE Header
+Dec 08,2016 17:41:28 [info]  Verified that Expected value :[Update] is matched with Actual value :[*Update]
+Dec 08,2016 17:41:28 [info]  Verify The data of EXHIBITION_DAYSHeader
+Dec 08,2016 17:41:28 [info]  Verified that Expected value :[Exhib.Days] is matched with Actual value :[Exhib.Days]
+Dec 08,2016 17:41:28 [info]  Verify The data of RESERVED_EXHIBITION Header
+Dec 08,2016 17:41:28 [info]  Verified that Expected value :[Reserved Exhibitions] is matched with Actual value :[Reserved Exhibitions]
+Dec 08,2016 17:41:28 [info]  Verify The data of POOLED Header
+Dec 08,2016 17:41:28 [info]  Verified that Expected value :[Pooled] is matched with Actual value :[Pooled]
+Dec 08,2016 17:41:28 [info]  Verify The data of EXHIBITIONDAYSCOPE_Header
+Dec 08,2016 17:41:28 [info]  Verified that Expected value :[Exhib.Day Scope] is matched with Actual value :[*Exhib.Day Scope]
+Dec 08,2016 17:41:28 [info]  Verify The data of STARTDATE Header
+Dec 08,2016 17:41:28 [info]  Verified that Expected value :[Start Date] is matched with Actual value :[Start Date]
+Dec 08,2016 17:41:29 [info]  Verify The data of ENDDATEHeader
+Dec 08,2016 17:41:29 [info]  Verified that Expected value :[End Date] is matched with Actual value :[End Date]
+Dec 08,2016 17:41:29 [info]  Verify The data of ExhibitBUSINESS_TERMSHeader
+Dec 08,2016 17:41:29 [info]  Verified that Expected value :[Notes] is matched with Actual value :[Notes]
+Dec 08,2016 17:41:29 [info]  
+Dec 08,2016 17:41:29 [info]  Verifying the headers of Child Row in Edit Mode
+Dec 08,2016 17:41:29 [info]  Verify The data of WINDOWNAME
+Dec 08,2016 17:41:29 [info]  Verified that Expected value :[*Window Name] is matched with Actual value :[*Window Name]
+Dec 08,2016 17:41:29 [info]  Verify The data of WINDOW_TYPE Header
+Dec 08,2016 17:41:29 [info]  Verified that Expected value :[*Window Type] is matched with Actual value :[*Window Type]
+Dec 08,2016 17:41:29 [info]  Verify The data of RIGHTSTYPE UPDATE Header
+Dec 08,2016 17:41:29 [info]  Verified that Expected value :[*Rights Type] is matched with Actual value :[*Rights Type]
+Dec 08,2016 17:41:29 [info]  Verify The data of EXHIBITION_DAYSHeader
+Dec 08,2016 17:41:29 [info]  Verified that Expected value :[Exhib.Days] is matched with Actual value :[Exhib.Days]
+Dec 08,2016 17:41:29 [info]  Verify The data of POOLED Header
+Dec 08,2016 17:41:29 [info]  Verified that Expected value :[Pooled] is matched with Actual value :[Pooled]
+Dec 08,2016 17:41:29 [info]  Verify The data of STARTDATECHILD_Header
+Dec 08,2016 17:41:29 [info]  Verified that Expected value :[*Start Date] is matched with Actual value :[*Start Date]
+Dec 08,2016 17:41:29 [info]  Verify The data of ENDDATECHILD Header
+Dec 08,2016 17:41:29 [info]  Verified that Expected value :[*End Date] is matched with Actual value :[*End Date]
+Dec 08,2016 17:41:29 [info]  Verify The data of NETWORK_SUMMARY Header
+Dec 08,2016 17:41:29 [info]  Verified that Expected value :[*Exhib.Network] is matched with Actual value :[*Exhib.Network]
+Dec 08,2016 17:41:29 [info]  Verify The data of TERRITORY_TERMSHeader
+Dec 08,2016 17:41:29 [info]  Verified that Expected value :[Territory] is matched with Actual value :[Territory]
+Dec 08,2016 17:41:29 [info]  Verify The data of EXHIBITIONDAYTYPE_Header
+Dec 08,2016 17:41:29 [info]  Verified that Expected value :[Day Type] is matched with Actual value :[Day Type]
+Dec 08,2016 17:41:30 [info]  Verify The data of EXHIBITIONDAYPERIOD Header
+Dec 08,2016 17:41:30 [info]  Verified that Expected value :[*Day Period] is matched with Actual value :[*Day Period]
+Dec 08,2016 17:41:30 [info]  Verify The data of PLAYSPEREXHIBITION Header
+Dec 08,2016 17:41:30 [info]  Verified that Expected value :[*Plays] is matched with Actual value :[*Plays]
+Dec 08,2016 17:41:30 [info]  Verify The data of ADDLNETWORKUSAGE_Header
+Dec 08,2016 17:41:30 [info]  Verified that Expected value :[Addl.Exhib.Restrictions] is matched with Actual value :[Addl.Exhib.Restrictions]
+Dec 08,2016 17:41:30 [info]  Verify The data of RID_RATING_TERMSHeader
+Dec 08,2016 17:41:30 [info]  Verified that Expected value :[Evaluation] is matched with Actual value :[Evaluation]
+Dec 08,2016 17:41:30 [info]  Verify the default data of Parent Row
+Dec 08,2016 17:41:30 [info]  Verify The data of Applies to
+Dec 08,2016 17:41:30 [info]  Verified that Expected value :[All] is matched with Actual value :[All]
+Dec 08,2016 17:41:30 [info]  Verify The data of Applies to
+Dec 08,2016 17:41:30 [info]  Verified that Expected value :[Automatic] is matched with Actual value :[Automatic]
+Dec 08,2016 17:41:30 [info]  Verify The data of STARTDATE
+Dec 08,2016 17:41:30 [info]  Verified that Expected value :[01/01/2007] is matched with Actual value :[01/01/2007]
+Dec 08,2016 17:41:30 [info]  Verify The data of ENDDATE
+Dec 08,2016 17:41:30 [info]  Verified that Expected value :[12/31/2008] is matched with Actual value :[12/31/2008]
+Dec 08,2016 17:41:31 [info]  Verify The data of UNLIMITED Check box
+Dec 08,2016 17:41:31 [info]  Verified that Expected value :[Checked] is matched with Actual value :[Checked]
+Dec 08,2016 17:41:31 [info]  Verify The data of POOLED Check box
+Dec 08,2016 17:41:31 [info]  Verified that Expected value :[Checked] is matched with Actual value :[Checked]
+Dec 08,2016 17:41:31 [info]  Verify the default data of Child Row
+Dec 08,2016 17:41:31 [info]  Verify The data of Window Type
+Dec 08,2016 17:41:31 [info]  Verified that Expected value :[Primary] is matched with Actual value :[Primary]
+Dec 08,2016 17:41:31 [info]  Verify The data of Start Date Child
+Dec 08,2016 17:41:31 [info]  Verified that Expected value :[01/01/2007] is matched with Actual value :[01/01/2007]
+Dec 08,2016 17:41:31 [info]  Verify The data of End Date Child
+Dec 08,2016 17:41:31 [info]  Verified that Expected value :[12/31/2008] is matched with Actual value :[12/31/2008]
+Dec 08,2016 17:41:31 [info]  Verify The data of PLAYS
+Dec 08,2016 17:41:31 [info]  Verified that Expected value :[Unlimited] is matched with Actual value :[Unlimited]
+Dec 08,2016 17:41:31 [info]  Verify The data of Day Type
+Dec 08,2016 17:41:31 [info]  Verified that Expected value :[Consecutive Period] is matched with Actual value :[Consecutive Period]
+Dec 08,2016 17:41:31 [info]  Verify The data of Day Period
+Dec 08,2016 17:41:31 [info]  Verified that Expected value :[24 HR] is matched with Actual value :[24 HR]
+Dec 08,2016 17:41:32 [info]  Verify The data of Add Exhibition
+Dec 08,2016 17:41:32 [info]  Verified that Expected value :[Same Network] is matched with Actual value :[Same Network]
+Dec 08,2016 17:41:33 [info]  Clicked on the ''Save' Button at Exhibition Rights Edit window' using JS Executor
+Dec 08,2016 17:41:36 [info]  ====Failed==== Expected value is:[Please enter values for required(*) fields.] but Actual value is[Please enter values for required (*) fields.]. Please check the screenshot with name: Validation messagefor more details
+Dec 08,2016 17:41:36 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\08\Validation message_CheckpointFailure_12-08-2016 5-41-36 PM.jpg
+Dec 08,2016 17:41:37 [info]  Clicked on the 'Exhibition Day Scope Field'
+Dec 08,2016 17:41:37 [info]  Clicked on the 'Exhibition Day Scope Drop Down'
+Dec 08,2016 17:41:37 [info]  Verify The data of Series
+Dec 08,2016 17:41:37 [info]  Verified that Expected value :[Series] is matched with Actual value :[Series]
+Dec 08,2016 17:41:37 [info]  Verify The data of Season
+Dec 08,2016 17:41:37 [info]  Verified that Expected value :[Season] is matched with Actual value :[Season]
+Dec 08,2016 17:41:37 [info]  Verify The data of Episode
+Dec 08,2016 17:41:37 [info]  Verified that Expected value :[Episode] is matched with Actual value :[Episode]
+Dec 08,2016 17:41:37 [info]  Verify The data of Asset
+Dec 08,2016 17:41:37 [info]  Verified that Expected value :[Asset] is matched with Actual value :[Asset]
+Dec 08,2016 17:41:37 [info]  Clicked on the ''Series' in Exhi Scope field'
+Dec 08,2016 17:41:37 [info]  Clicked on the 'Support Click'
+Dec 08,2016 17:41:37 [info]  Verify The data of ExhiScope
+Dec 08,2016 17:41:37 [info]  Verified that Expected value :[Series] is matched with Actual value :[Series]
+Dec 08,2016 17:41:37 [info]  Clicked on the 'Window Name Field'
+Dec 08,2016 17:41:38 [info]  Entered "RSG Window" in field 'Win Name'
+Dec 08,2016 17:41:38 [info]  Clicked on the 'Support Click'
+Dec 08,2016 17:41:38 [info]  Open Rights Type window and check Linear Check Box
+Dec 08,2016 17:41:38 [info]  Clicked on the 'Window Name Field'
+Dec 08,2016 17:41:39 [info]  "Check Box Linear" is Present
+Dec 08,2016 17:41:39 [info]  "Check Box Non-Linear" is Present
+Dec 08,2016 17:41:39 [info]  Clicked on the 'Check box Linear'
+Dec 08,2016 17:41:39 [info]  "Linear Check box is checked" is Present
+Dec 08,2016 17:41:40 [info]  Clicked on the 'Apply Button at RIGHTSTYPE_POPUP'
+Dec 08,2016 17:41:40 [info]  Verify The data of Linear
+Dec 08,2016 17:41:40 [info]  Verified that Expected value :[Linear] is matched with Actual value :[Linear]
+Dec 08,2016 17:41:40 [info]  Day Type
+Dec 08,2016 17:41:40 [info]  Clicked on the 'Day Type Field'
+Dec 08,2016 17:41:40 [info]  Clicked on the 'DAYS Type Drop Down'
+Dec 08,2016 17:41:40 [info]  Verify The data of Consecutive Period
+Dec 08,2016 17:41:40 [info]  Verified that Expected value :[Consecutive Period] is matched with Actual value :[Consecutive Period]
+Dec 08,2016 17:41:40 [info]  Verify The data of Programming Day
+Dec 08,2016 17:41:40 [info]  Verified that Expected value :[Programming Day] is matched with Actual value :[Programming Day]
+Dec 08,2016 17:41:40 [info]  Clicked on the 'Consecutive Period in Exhi Days Type field'
+Dec 08,2016 17:41:41 [info]  Clicked on the 'Support Click'
+Dec 08,2016 17:41:41 [info]  Verify The data of Day Type
+Dec 08,2016 17:41:41 [info]  ====Failed==== Expected value is:[Consecutive Period] but Actual value is[]. Please check the screenshot with name: Day Typefor more details
+Dec 08,2016 17:41:41 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\08\Day Type_CheckpointFailure_12-08-2016 5-41-41 PM.jpg
+Dec 08,2016 17:41:41 [info]  Day Type
+Dec 08,2016 17:41:41 [info]  Clicked on the 'Day Period Field'
+Dec 08,2016 17:41:41 [info]  Clicked on the 'DAYS Period Drop Down'
+Dec 08,2016 17:41:41 [info]  Verify The data of 24 HR
+Dec 08,2016 17:41:41 [info]  Verified that Expected value :[24 HR] is matched with Actual value :[24 HR]
+Dec 08,2016 17:41:41 [info]  Verify The data of 12
+Dec 08,2016 17:41:41 [info]  Verified that Expected value :[12] is matched with Actual value :[12]
+Dec 08,2016 17:41:41 [info]  Verify The data of 7 Days
+Dec 08,2016 17:41:41 [info]  Verified that Expected value :[7 Days] is matched with Actual value :[7 Days]
+Dec 08,2016 17:41:42 [info]  Verify The data of 14 Days
+Dec 08,2016 17:41:42 [info]  Verified that Expected value :[14 Days] is matched with Actual value :[14 Days]
+Dec 08,2016 17:41:42 [info]  Clicked on the '24 HR in Day Period field'
+Dec 08,2016 17:41:42 [info]  Clicked on the 'Support Click'
+Dec 08,2016 17:41:42 [info]  Verify The data of Day Period
+Dec 08,2016 17:41:42 [info]  ====Failed==== Expected value is:[Consecutive Period] but Actual value is[]. Please check the screenshot with name: Day Periodfor more details
+Dec 08,2016 17:41:42 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\08\Day Period_CheckpointFailure_12-08-2016 5-41-42 PM.jpg
+Dec 08,2016 17:41:42 [info]  Day Type
+Dec 08,2016 17:41:42 [info]  Clicked on the 'Plays Field'
+Dec 08,2016 17:41:42 [info]  Clicked on the 'Plays Drop Down'
+Dec 08,2016 17:41:42 [info]  Verify The data of Unlimited
+Dec 08,2016 17:41:42 [info]  Verified that Expected value :[Unlimited] is matched with Actual value :[Unlimited]
+Dec 08,2016 17:41:43 [info]  Verify The data of 1
+Dec 08,2016 17:41:43 [info]  Verified that Expected value :[1] is matched with Actual value :[1]
+Dec 08,2016 17:41:43 [info]  Verify The data of 2
+Dec 08,2016 17:41:43 [info]  Verified that Expected value :[2] is matched with Actual value :[2]
+Dec 08,2016 17:41:43 [info]  Verify The data of 3
+Dec 08,2016 17:41:43 [info]  Verified that Expected value :[3] is matched with Actual value :[3]
+Dec 08,2016 17:41:43 [info]  Verify The data of 4
+Dec 08,2016 17:41:43 [info]  Verified that Expected value :[4] is matched with Actual value :[4]
+Dec 08,2016 17:41:43 [info]  Verify The data of Unlimited
+Dec 08,2016 17:41:43 [info]  ====Failed==== Expected value is:[Unlimited] but Actual value is[5]. Please check the screenshot with name: Unlimitedfor more details
+Dec 08,2016 17:41:43 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\08\Unlimited_CheckpointFailure_12-08-2016 5-41-43 PM.jpg
+Dec 08,2016 17:41:43 [info]  Verify The data of 1
+Dec 08,2016 17:41:43 [info]  ====Failed==== Expected value is:[1] but Actual value is[6]. Please check the screenshot with name: 1for more details
+Dec 08,2016 17:41:44 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\08\1_CheckpointFailure_12-08-2016 5-41-43 PM.jpg
+Dec 08,2016 17:41:44 [info]  Verify The data of 2
+Dec 08,2016 17:41:44 [info]  ====Failed==== Expected value is:[2] but Actual value is[8]. Please check the screenshot with name: 2for more details
+Dec 08,2016 17:41:44 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\08\2_CheckpointFailure_12-08-2016 5-41-44 PM.jpg
+Dec 08,2016 17:41:44 [info]  Verify The data of 3
+Dec 08,2016 17:41:44 [info]  ====Failed==== Expected value is:[3] but Actual value is[12]. Please check the screenshot with name: 3for more details
+Dec 08,2016 17:41:44 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\08\3_CheckpointFailure_12-08-2016 5-41-44 PM.jpg
+Dec 08,2016 17:41:44 [info]  Verify The data of 4
+Dec 08,2016 17:41:44 [info]  Verified that Expected value :[4] is matched with Actual value :[45]
+Dec 08,2016 17:41:44 [info]  Verify The data of 4
+Dec 08,2016 17:41:44 [info]  ====Failed==== Expected value is:[4] but Actual value is[99]. Please check the screenshot with name: 4for more details
+Dec 08,2016 17:41:45 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\08\4_CheckpointFailure_12-08-2016 5-41-44 PM.jpg
+Dec 08,2016 17:41:45 [info]  Clicked on the 'Unlimited in Plays field'
+Dec 08,2016 17:41:45 [info]  Clicked on the 'Support Click'
+Dec 08,2016 17:41:45 [info]  Verify The data of Plays
+Dec 08,2016 17:41:45 [info]  ====Failed==== Expected value is:[Unlimited] but Actual value is[]. Please check the screenshot with name: Playsfor more details
+Dec 08,2016 17:41:45 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\08\Plays_CheckpointFailure_12-08-2016 5-41-45 PM.jpg
+Dec 08,2016 17:41:45 [info]  Day Type
+Dec 08,2016 17:41:45 [info]  ====Failed==== "Add Exhibition" field is not present'
+Dec 08,2016 17:41:46 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\08\Add Exhibition_CheckpointFailure_12-08-2016 5-41-45 PM.jpg
+Dec 08,2016 17:41:56 [info]  ====Failed==== "Add Exhibition Drop Down" field is not present'
+Dec 08,2016 17:41:56 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\08\Add Exhibition Drop Down_CheckpointFailure_12-08-2016 5-41-56 PM.jpg
+Dec 08,2016 17:42:06 [info]  Verify The data of Unlimited
+Dec 08,2016 17:42:06 [info]  ====Failed==== Expected value is:[Unlimited] but Actual value is[]. Please check the screenshot with name: Unlimitedfor more details
+Dec 08,2016 17:42:06 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\08\Unlimited_CheckpointFailure_12-08-2016 5-42-06 PM.jpg
+Dec 08,2016 17:42:16 [info]  Verify The data of 1
+Dec 08,2016 17:42:16 [info]  ====Failed==== Expected value is:[1] but Actual value is[]. Please check the screenshot with name: 1for more details
+Dec 08,2016 17:42:16 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\08\1_CheckpointFailure_12-08-2016 5-42-16 PM.jpg
+Dec 08,2016 17:42:27 [info]  ====Failed==== "Unlimited in Add Exhibition field" field is not present'
+Dec 08,2016 17:42:27 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\08\Unlimited in Add Exhibition field_CheckpointFailure_12-08-2016 5-42-27 PM.jpg
+Dec 08,2016 17:42:27 [info]  Clicked on the 'Support Click'
+Dec 08,2016 17:42:27 [info]  Verify The data of Add Exhibition
+Dec 08,2016 17:42:27 [info]  ====Failed==== Expected value is:[Unlimited] but Actual value is[]. Please check the screenshot with name: Add Exhibitionfor more details
+Dec 08,2016 17:42:27 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\08\Add Exhibition_CheckpointFailure_12-08-2016 5-42-27 PM.jpg
+Dec 08,2016 17:42:27 [info]  Test 'TC4_SelectMediaRow_WhileDefiningExhRights' PASSED
+Dec 08,2016 17:42:28 [info]  Closed the Browser
+Dec 08,2016 17:50:58 [info]  ********************Started Executiong the Test Suite at 17:50:58******************
+Dec 08,2016 17:50:58 [info]  Client: AMCN
+Dec 08,2016 17:50:58 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Dec 08,2016 17:50:58 [info]  *********************Started Executing 'TC4_SelectMediaRow_WhileDefiningExhRights' Test Case*********************
+Dec 08,2016 17:51:08 [info]  Client: AMCN
+Dec 08,2016 17:51:08 [info]  URL: http://rlv2wb79/login.aspx
+Dec 08,2016 17:51:08 [info]  UserName: automation
+Dec 08,2016 17:51:08 [info]  Password: automation
+Dec 08,2016 17:51:09 [info]  Entered "automation" in field 'User Name'
+Dec 08,2016 17:51:09 [info]  Clicked on the 'Temporary Check Box'
+Dec 08,2016 17:51:09 [info]  Entered "automation" in field 'Password'
+Dec 08,2016 17:51:16 [info]  Clicked on the 'LoginButton'
+Dec 08,2016 17:51:25 [info]  Double clicked on 'AUT_Deal_TC1_1207201624633Deal'
+Dec 08,2016 17:51:29 [info]  Clicked on the 'Exhibition Rights TAB'
+Dec 08,2016 17:51:33 [info]  Clicked on the ''Edit' Button at Media Rights TAB' using JS Executor
+Dec 08,2016 17:51:33 [info]  
+Dec 08,2016 17:51:33 [info]  Add Button >> Verify Media Rights's rows >> verify Select Check Box is shown >> Verify Buttons
+Dec 08,2016 17:51:33 [info]  Clicked on the 'Add Button'
+Dec 08,2016 17:51:39 [info]  Clicked on the 'Select Check Box'
+Dec 08,2016 17:51:40 [info]  Clicked on the 'Add Button at Media rights Pop up Window'
+Dec 08,2016 17:51:43 [info]  Verify The data of Media Row Number
+Dec 08,2016 17:51:43 [info]  Verified that Expected value :[Media Row No] is matched with Actual value :[Media Row No]
+Dec 08,2016 17:51:44 [info]  Verify The data of Exhibit APPLIESTO
+Dec 08,2016 17:51:44 [info]  Verified that Expected value :[Applies To] is matched with Actual value :[Applies To]
+Dec 08,2016 17:51:44 [info]  Verify The data of UNLIMITED Header
+Dec 08,2016 17:51:44 [info]  Verified that Expected value :[Unlimited] is matched with Actual value :[Unlimited]
+Dec 08,2016 17:51:44 [info]  Verify The data of EXHIBIT DATE UPDATE Header
+Dec 08,2016 17:51:44 [info]  Verified that Expected value :[Update] is matched with Actual value :[*Update]
+Dec 08,2016 17:51:44 [info]  Verify The data of EXHIBITION_DAYSHeader
+Dec 08,2016 17:51:44 [info]  Verified that Expected value :[Exhib.Days] is matched with Actual value :[Exhib.Days]
+Dec 08,2016 17:51:44 [info]  Verify The data of RESERVED_EXHIBITION Header
+Dec 08,2016 17:51:44 [info]  Verified that Expected value :[Reserved Exhibitions] is matched with Actual value :[Reserved Exhibitions]
+Dec 08,2016 17:51:44 [info]  Verify The data of POOLED Header
+Dec 08,2016 17:51:44 [info]  Verified that Expected value :[Pooled] is matched with Actual value :[Pooled]
+Dec 08,2016 17:51:44 [info]  Verify The data of EXHIBITIONDAYSCOPE_Header
+Dec 08,2016 17:51:44 [info]  Verified that Expected value :[Exhib.Day Scope] is matched with Actual value :[*Exhib.Day Scope]
+Dec 08,2016 17:51:44 [info]  Verify The data of STARTDATE Header
+Dec 08,2016 17:51:44 [info]  Verified that Expected value :[Start Date] is matched with Actual value :[Start Date]
+Dec 08,2016 17:51:44 [info]  Verify The data of ENDDATEHeader
+Dec 08,2016 17:51:44 [info]  Verified that Expected value :[End Date] is matched with Actual value :[End Date]
+Dec 08,2016 17:51:44 [info]  Verify The data of ExhibitBUSINESS_TERMSHeader
+Dec 08,2016 17:51:44 [info]  Verified that Expected value :[Notes] is matched with Actual value :[Notes]
+Dec 08,2016 17:51:44 [info]  
+Dec 08,2016 17:51:44 [info]  Verifying the headers of Child Row in Edit Mode
+Dec 08,2016 17:51:44 [info]  Verify The data of WINDOWNAME
+Dec 08,2016 17:51:44 [info]  Verified that Expected value :[*Window Name] is matched with Actual value :[*Window Name]
+Dec 08,2016 17:51:45 [info]  Verify The data of WINDOW_TYPE Header
+Dec 08,2016 17:51:45 [info]  Verified that Expected value :[*Window Type] is matched with Actual value :[*Window Type]
+Dec 08,2016 17:51:45 [info]  Verify The data of RIGHTSTYPE UPDATE Header
+Dec 08,2016 17:51:45 [info]  Verified that Expected value :[*Rights Type] is matched with Actual value :[*Rights Type]
+Dec 08,2016 17:51:45 [info]  Verify The data of EXHIBITION_DAYSHeader
+Dec 08,2016 17:51:45 [info]  Verified that Expected value :[Exhib.Days] is matched with Actual value :[Exhib.Days]
+Dec 08,2016 17:51:45 [info]  Verify The data of POOLED Header
+Dec 08,2016 17:51:45 [info]  Verified that Expected value :[Pooled] is matched with Actual value :[Pooled]
+Dec 08,2016 17:51:45 [info]  Verify The data of STARTDATECHILD_Header
+Dec 08,2016 17:51:45 [info]  Verified that Expected value :[*Start Date] is matched with Actual value :[*Start Date]
+Dec 08,2016 17:51:45 [info]  Verify The data of ENDDATECHILD Header
+Dec 08,2016 17:51:45 [info]  Verified that Expected value :[*End Date] is matched with Actual value :[*End Date]
+Dec 08,2016 17:51:45 [info]  Verify The data of NETWORK_SUMMARY Header
+Dec 08,2016 17:51:45 [info]  Verified that Expected value :[*Exhib.Network] is matched with Actual value :[*Exhib.Network]
+Dec 08,2016 17:51:45 [info]  Verify The data of TERRITORY_TERMSHeader
+Dec 08,2016 17:51:45 [info]  Verified that Expected value :[Territory] is matched with Actual value :[Territory]
+Dec 08,2016 17:51:45 [info]  Verify The data of EXHIBITIONDAYTYPE_Header
+Dec 08,2016 17:51:45 [info]  Verified that Expected value :[Day Type] is matched with Actual value :[Day Type]
+Dec 08,2016 17:51:45 [info]  Verify The data of EXHIBITIONDAYPERIOD Header
+Dec 08,2016 17:51:45 [info]  Verified that Expected value :[*Day Period] is matched with Actual value :[*Day Period]
+Dec 08,2016 17:51:45 [info]  Verify The data of PLAYSPEREXHIBITION Header
+Dec 08,2016 17:51:45 [info]  Verified that Expected value :[*Plays] is matched with Actual value :[*Plays]
+Dec 08,2016 17:51:46 [info]  Verify The data of ADDLNETWORKUSAGE_Header
+Dec 08,2016 17:51:46 [info]  Verified that Expected value :[Addl.Exhib.Restrictions] is matched with Actual value :[Addl.Exhib.Restrictions]
+Dec 08,2016 17:51:46 [info]  Verify The data of RID_RATING_TERMSHeader
+Dec 08,2016 17:51:46 [info]  Verified that Expected value :[Evaluation] is matched with Actual value :[Evaluation]
+Dec 08,2016 17:51:46 [info]  Verify the default data of Parent Row
+Dec 08,2016 17:51:46 [info]  Verify The data of Applies to
+Dec 08,2016 17:51:46 [info]  Verified that Expected value :[All] is matched with Actual value :[All]
+Dec 08,2016 17:51:46 [info]  Verify The data of Applies to
+Dec 08,2016 17:51:46 [info]  Verified that Expected value :[Automatic] is matched with Actual value :[Automatic]
+Dec 08,2016 17:51:46 [info]  Verify The data of STARTDATE
+Dec 08,2016 17:51:46 [info]  Verified that Expected value :[01/01/2007] is matched with Actual value :[01/01/2007]
+Dec 08,2016 17:51:46 [info]  Verify The data of ENDDATE
+Dec 08,2016 17:51:46 [info]  Verified that Expected value :[12/31/2008] is matched with Actual value :[12/31/2008]
+Dec 08,2016 17:51:46 [info]  Verify The data of UNLIMITED Check box
+Dec 08,2016 17:51:46 [info]  Verified that Expected value :[Checked] is matched with Actual value :[Checked]
+Dec 08,2016 17:51:46 [info]  Verify The data of POOLED Check box
+Dec 08,2016 17:51:46 [info]  Verified that Expected value :[Checked] is matched with Actual value :[Checked]
+Dec 08,2016 17:51:46 [info]  Verify the default data of Child Row
+Dec 08,2016 17:51:47 [info]  Verify The data of Window Type
+Dec 08,2016 17:51:47 [info]  Verified that Expected value :[Primary] is matched with Actual value :[Primary]
+Dec 08,2016 17:51:47 [info]  Verify The data of Start Date Child
+Dec 08,2016 17:51:47 [info]  Verified that Expected value :[01/01/2007] is matched with Actual value :[01/01/2007]
+Dec 08,2016 17:51:47 [info]  Verify The data of End Date Child
+Dec 08,2016 17:51:47 [info]  Verified that Expected value :[12/31/2008] is matched with Actual value :[12/31/2008]
+Dec 08,2016 17:51:47 [info]  Verify The data of PLAYS
+Dec 08,2016 17:51:47 [info]  Verified that Expected value :[Unlimited] is matched with Actual value :[Unlimited]
+Dec 08,2016 17:51:47 [info]  Verify The data of Day Type
+Dec 08,2016 17:51:47 [info]  Verified that Expected value :[Consecutive Period] is matched with Actual value :[Consecutive Period]
+Dec 08,2016 17:51:47 [info]  Verify The data of Day Period
+Dec 08,2016 17:51:47 [info]  Verified that Expected value :[24 HR] is matched with Actual value :[24 HR]
+Dec 08,2016 17:51:47 [info]  Verify The data of Add Exhibition
+Dec 08,2016 17:51:47 [info]  Verified that Expected value :[Same Network] is matched with Actual value :[Same Network]
+Dec 08,2016 17:51:49 [info]  Clicked on the ''Save' Button at Exhibition Rights Edit window' using JS Executor
+Dec 08,2016 17:51:52 [info]  Verified that Expected value :[Please enter values for required (*) fields.] is matched with Actual value :[Please enter values for required (*) fields.]
+Dec 08,2016 17:51:52 [info]  Clicked on the 'Exhibition Day Scope Field'
+Dec 08,2016 17:51:52 [info]  Clicked on the 'Exhibition Day Scope Drop Down'
+Dec 08,2016 17:51:52 [info]  Verify The data of Series
+Dec 08,2016 17:51:52 [info]  Verified that Expected value :[Series] is matched with Actual value :[Series]
+Dec 08,2016 17:51:53 [info]  Verify The data of Season
+Dec 08,2016 17:51:53 [info]  Verified that Expected value :[Season] is matched with Actual value :[Season]
+Dec 08,2016 17:51:53 [info]  Verify The data of Episode
+Dec 08,2016 17:51:53 [info]  Verified that Expected value :[Episode] is matched with Actual value :[Episode]
+Dec 08,2016 17:51:53 [info]  Verify The data of Asset
+Dec 08,2016 17:51:53 [info]  Verified that Expected value :[Asset] is matched with Actual value :[Asset]
+Dec 08,2016 17:51:53 [info]  Clicked on the ''Series' in Exhi Scope field'
+Dec 08,2016 17:51:53 [info]  Clicked on the 'Support Click'
+Dec 08,2016 17:51:53 [info]  Verify The data of ExhiScope
+Dec 08,2016 17:51:53 [info]  Verified that Expected value :[Series] is matched with Actual value :[Series]
+Dec 08,2016 17:51:53 [info]  Clicked on the 'Window Name Field'
+Dec 08,2016 17:51:53 [info]  Entered "RSG Window" in field 'Win Name'
+Dec 08,2016 17:51:53 [info]  Clicked on the 'Support Click'
+Dec 08,2016 17:51:53 [info]  Open Rights Type window and check Linear Check Box
+Dec 08,2016 17:51:54 [info]  Clicked on the 'Window Name Field'
+Dec 08,2016 17:51:54 [info]  "Check Box Linear" is Present
+Dec 08,2016 17:51:54 [info]  "Check Box Non-Linear" is Present
+Dec 08,2016 17:51:55 [info]  Clicked on the 'Check box Linear'
+Dec 08,2016 17:51:55 [info]  "Linear Check box is checked" is Present
+Dec 08,2016 17:51:55 [info]  Clicked on the 'Apply Button at RIGHTSTYPE_POPUP'
+Dec 08,2016 17:52:05 [info]  Verify The data of Linear
+Dec 08,2016 17:52:05 [info]  ====Failed==== Expected value is:[Linear] but Actual value is[]. Please check the screenshot with name: Linearfor more details
+Dec 08,2016 17:52:05 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\08\Linear_CheckpointFailure_12-08-2016 5-52-05 PM.jpg
+Dec 08,2016 17:52:05 [info]  Day Type
+Dec 08,2016 17:52:05 [info]  Clicked on the 'Day Type Field'
+Dec 08,2016 17:52:05 [info]  Clicked on the 'DAYS Type Drop Down'
+Dec 08,2016 17:52:06 [info]  Verify The data of Consecutive Period
+Dec 08,2016 17:52:06 [info]  Verified that Expected value :[Consecutive Period] is matched with Actual value :[Consecutive Period]
+Dec 08,2016 17:52:06 [info]  Verify The data of Programming Day
+Dec 08,2016 17:52:06 [info]  Verified that Expected value :[Programming Day] is matched with Actual value :[Programming Day]
+Dec 08,2016 17:52:06 [info]  Clicked on the 'Consecutive Period in Exhi Days Type field'
+Dec 08,2016 17:52:06 [info]  Clicked on the 'Support Click'
+Dec 08,2016 17:52:06 [info]  Verify The data of Day Type
+Dec 08,2016 17:52:06 [info]  Verified that Expected value :[Consecutive Period] is matched with Actual value :[Consecutive Period]
+Dec 08,2016 17:52:06 [info]  Day Period
+Dec 08,2016 17:52:06 [info]  Clicked on the 'Day Period Field'
+Dec 08,2016 17:52:06 [info]  Clicked on the 'DAYS Period Drop Down'
+Dec 08,2016 17:52:06 [info]  Verify The data of 24 HR
+Dec 08,2016 17:52:06 [info]  Verified that Expected value :[24 HR] is matched with Actual value :[24 HR]
+Dec 08,2016 17:52:06 [info]  Verify The data of 12
+Dec 08,2016 17:52:06 [info]  Verified that Expected value :[12] is matched with Actual value :[12]
+Dec 08,2016 17:52:06 [info]  Verify The data of 7 Days
+Dec 08,2016 17:52:06 [info]  Verified that Expected value :[7 Days] is matched with Actual value :[7 Days]
+Dec 08,2016 17:52:06 [info]  Verify The data of 14 Days
+Dec 08,2016 17:52:06 [info]  Verified that Expected value :[14 Days] is matched with Actual value :[14 Days]
+Dec 08,2016 17:52:06 [info]  Clicked on the '24 HR in Day Period field'
+Dec 08,2016 17:52:07 [info]  Clicked on the 'Support Click'
+Dec 08,2016 17:52:07 [info]  Verify The data of Day Period
+Dec 08,2016 17:52:07 [info]  Verified that Expected value :[24 HR] is matched with Actual value :[24 HR]
+Dec 08,2016 17:52:07 [info]  Day Type
+Dec 08,2016 17:52:07 [info]  Clicked on the 'Plays Field'
+Dec 08,2016 17:52:07 [info]  Clicked on the 'Plays Drop Down'
+Dec 08,2016 17:52:07 [info]  Verify The data of Unlimited
+Dec 08,2016 17:52:07 [info]  Verified that Expected value :[Unlimited] is matched with Actual value :[Unlimited]
+Dec 08,2016 17:52:07 [info]  Verify The data of 1
+Dec 08,2016 17:52:07 [info]  Verified that Expected value :[1] is matched with Actual value :[1]
+Dec 08,2016 17:52:07 [info]  Verify The data of 2
+Dec 08,2016 17:52:07 [info]  Verified that Expected value :[2] is matched with Actual value :[2]
+Dec 08,2016 17:52:07 [info]  Verify The data of 3
+Dec 08,2016 17:52:07 [info]  Verified that Expected value :[3] is matched with Actual value :[3]
+Dec 08,2016 17:52:07 [info]  Verify The data of 4
+Dec 08,2016 17:52:07 [info]  Verified that Expected value :[4] is matched with Actual value :[4]
+Dec 08,2016 17:52:07 [info]  Verify The data of 5
+Dec 08,2016 17:52:07 [info]  Verified that Expected value :[5] is matched with Actual value :[5]
+Dec 08,2016 17:52:07 [info]  Verify The data of 6
+Dec 08,2016 17:52:07 [info]  Verified that Expected value :[6] is matched with Actual value :[6]
+Dec 08,2016 17:52:07 [info]  Verify The data of 8
+Dec 08,2016 17:52:07 [info]  Verified that Expected value :[8] is matched with Actual value :[8]
+Dec 08,2016 17:52:08 [info]  Verify The data of 12
+Dec 08,2016 17:52:08 [info]  Verified that Expected value :[12] is matched with Actual value :[12]
+Dec 08,2016 17:52:08 [info]  Verify The data of 45
+Dec 08,2016 17:52:08 [info]  Verified that Expected value :[45] is matched with Actual value :[45]
+Dec 08,2016 17:52:08 [info]  Verify The data of 99
+Dec 08,2016 17:52:08 [info]  Verified that Expected value :[99] is matched with Actual value :[99]
+Dec 08,2016 17:52:08 [info]  Clicked on the 'Unlimited in Plays field'
+Dec 08,2016 17:52:08 [info]  Clicked on the 'Support Click'
+Dec 08,2016 17:52:08 [info]  Verify The data of Plays
+Dec 08,2016 17:52:08 [info]  Verified that Expected value :[Unlimited] is matched with Actual value :[Unlimited]
+Dec 08,2016 17:52:08 [info]  Day Type
+Dec 08,2016 17:52:08 [info]  ====Failed==== "Add Exhibition" field is not present'
+Dec 08,2016 17:52:08 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\08\Add Exhibition_CheckpointFailure_12-08-2016 5-52-08 PM.jpg
+Dec 08,2016 17:52:17 [info]  Clicked on the 'Add Exhibition Drop Down'
+Dec 08,2016 17:52:27 [info]  Verify The data of Unlimited
+Dec 08,2016 17:52:27 [info]  ====Failed==== Expected value is:[Unlimited] but Actual value is[]. Please check the screenshot with name: Unlimitedfor more details
+Dec 08,2016 17:52:27 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\08\Unlimited_CheckpointFailure_12-08-2016 5-52-27 PM.jpg
+Dec 08,2016 17:52:37 [info]  Verify The data of 1
+Dec 08,2016 17:52:37 [info]  ====Failed==== Expected value is:[1] but Actual value is[]. Please check the screenshot with name: 1for more details
+Dec 08,2016 17:52:37 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\08\1_CheckpointFailure_12-08-2016 5-52-37 PM.jpg
+Dec 08,2016 17:52:47 [info]  ====Failed==== "Unlimited in Add Exhibition field" field is not present'
+Dec 08,2016 17:52:48 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\08\Unlimited in Add Exhibition field_CheckpointFailure_12-08-2016 5-52-47 PM.jpg
+Dec 08,2016 17:52:48 [info]  ====Failed==== "Support Click" field is not present'
+Dec 08,2016 17:52:48 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\08\Support Click_CheckpointFailure_12-08-2016 5-52-48 PM.jpg
+Dec 08,2016 17:52:48 [info]  Verify The data of Add Exhibition
+Dec 08,2016 17:52:48 [info]  ====Failed==== Expected value is:[Unlimited] but Actual value is[Same Network]. Please check the screenshot with name: Add Exhibitionfor more details
+Dec 08,2016 17:52:48 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\08\Add Exhibition_CheckpointFailure_12-08-2016 5-52-48 PM.jpg
+Dec 08,2016 17:52:48 [info]  Test 'TC4_SelectMediaRow_WhileDefiningExhRights' PASSED
+Dec 08,2016 17:52:49 [info]  Closed the Browser
+Dec 08,2016 17:55:18 [info]  ********************Started Executiong the Test Suite at 17:55:18******************
+Dec 08,2016 17:55:18 [info]  Client: AMCN
+Dec 08,2016 17:55:18 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Dec 08,2016 17:55:18 [info]  *********************Started Executing 'TC4_SelectMediaRow_WhileDefiningExhRights' Test Case*********************
+Dec 08,2016 17:55:28 [info]  Client: AMCN
+Dec 08,2016 17:55:28 [info]  URL: http://rlv2wb79/login.aspx
+Dec 08,2016 17:55:28 [info]  UserName: automation
+Dec 08,2016 17:55:28 [info]  Password: automation
+Dec 08,2016 17:55:29 [info]  Entered "automation" in field 'User Name'
+Dec 08,2016 17:55:29 [info]  Clicked on the 'Temporary Check Box'
+Dec 08,2016 17:55:29 [info]  Entered "automation" in field 'Password'
+Dec 08,2016 17:55:36 [info]  Clicked on the 'LoginButton'
+Dec 08,2016 17:55:45 [info]  Double clicked on 'AUT_Deal_TC1_1207201624633Deal'
+Dec 08,2016 17:55:49 [info]  Clicked on the 'Exhibition Rights TAB'
+Dec 08,2016 17:55:53 [info]  Clicked on the ''Edit' Button at Media Rights TAB' using JS Executor
+Dec 08,2016 17:55:53 [info]  
+Dec 08,2016 17:55:53 [info]  Add Button >> Verify Media Rights's rows >> verify Select Check Box is shown >> Verify Buttons
+Dec 08,2016 17:55:53 [info]  Clicked on the 'Add Button'
+Dec 08,2016 17:55:59 [info]  Clicked on the 'Select Check Box'
+Dec 08,2016 17:56:01 [info]  Clicked on the 'Add Button at Media rights Pop up Window'
+Dec 08,2016 17:56:04 [info]  Verify The data of Media Row Number
+Dec 08,2016 17:56:04 [info]  Verified that Expected value :[Media Row No] is matched with Actual value :[Media Row No]
+Dec 08,2016 17:56:04 [info]  Verify The data of Exhibit APPLIESTO
+Dec 08,2016 17:56:04 [info]  Verified that Expected value :[Applies To] is matched with Actual value :[Applies To]
+Dec 08,2016 17:56:04 [info]  Verify The data of UNLIMITED Header
+Dec 08,2016 17:56:04 [info]  Verified that Expected value :[Unlimited] is matched with Actual value :[Unlimited]
+Dec 08,2016 17:56:04 [info]  Verify The data of EXHIBIT DATE UPDATE Header
+Dec 08,2016 17:56:04 [info]  Verified that Expected value :[Update] is matched with Actual value :[*Update]
+Dec 08,2016 17:56:04 [info]  Verify The data of EXHIBITION_DAYSHeader
+Dec 08,2016 17:56:04 [info]  Verified that Expected value :[Exhib.Days] is matched with Actual value :[Exhib.Days]
+Dec 08,2016 17:56:04 [info]  Verify The data of RESERVED_EXHIBITION Header
+Dec 08,2016 17:56:04 [info]  Verified that Expected value :[Reserved Exhibitions] is matched with Actual value :[Reserved Exhibitions]
+Dec 08,2016 17:56:04 [info]  Verify The data of POOLED Header
+Dec 08,2016 17:56:04 [info]  Verified that Expected value :[Pooled] is matched with Actual value :[Pooled]
+Dec 08,2016 17:56:04 [info]  Verify The data of EXHIBITIONDAYSCOPE_Header
+Dec 08,2016 17:56:04 [info]  Verified that Expected value :[Exhib.Day Scope] is matched with Actual value :[*Exhib.Day Scope]
+Dec 08,2016 17:56:05 [info]  Verify The data of STARTDATE Header
+Dec 08,2016 17:56:05 [info]  Verified that Expected value :[Start Date] is matched with Actual value :[Start Date]
+Dec 08,2016 17:56:05 [info]  Verify The data of ENDDATEHeader
+Dec 08,2016 17:56:05 [info]  Verified that Expected value :[End Date] is matched with Actual value :[End Date]
+Dec 08,2016 17:56:05 [info]  Verify The data of ExhibitBUSINESS_TERMSHeader
+Dec 08,2016 17:56:05 [info]  Verified that Expected value :[Notes] is matched with Actual value :[Notes]
+Dec 08,2016 17:56:05 [info]  
+Dec 08,2016 17:56:05 [info]  Verifying the headers of Child Row in Edit Mode
+Dec 08,2016 17:56:05 [info]  Verify The data of WINDOWNAME
+Dec 08,2016 17:56:05 [info]  Verified that Expected value :[*Window Name] is matched with Actual value :[*Window Name]
+Dec 08,2016 17:56:05 [info]  Verify The data of WINDOW_TYPE Header
+Dec 08,2016 17:56:05 [info]  Verified that Expected value :[*Window Type] is matched with Actual value :[*Window Type]
+Dec 08,2016 17:56:05 [info]  Verify The data of RIGHTSTYPE UPDATE Header
+Dec 08,2016 17:56:05 [info]  Verified that Expected value :[*Rights Type] is matched with Actual value :[*Rights Type]
+Dec 08,2016 17:56:05 [info]  Verify The data of EXHIBITION_DAYSHeader
+Dec 08,2016 17:56:05 [info]  Verified that Expected value :[Exhib.Days] is matched with Actual value :[Exhib.Days]
+Dec 08,2016 17:56:05 [info]  Verify The data of POOLED Header
+Dec 08,2016 17:56:05 [info]  Verified that Expected value :[Pooled] is matched with Actual value :[Pooled]
+Dec 08,2016 17:56:05 [info]  Verify The data of STARTDATECHILD_Header
+Dec 08,2016 17:56:05 [info]  Verified that Expected value :[*Start Date] is matched with Actual value :[*Start Date]
+Dec 08,2016 17:56:05 [info]  Verify The data of ENDDATECHILD Header
+Dec 08,2016 17:56:05 [info]  Verified that Expected value :[*End Date] is matched with Actual value :[*End Date]
+Dec 08,2016 17:56:05 [info]  Verify The data of NETWORK_SUMMARY Header
+Dec 08,2016 17:56:05 [info]  Verified that Expected value :[*Exhib.Network] is matched with Actual value :[*Exhib.Network]
+Dec 08,2016 17:56:05 [info]  Verify The data of TERRITORY_TERMSHeader
+Dec 08,2016 17:56:05 [info]  Verified that Expected value :[Territory] is matched with Actual value :[Territory]
+Dec 08,2016 17:56:06 [info]  Verify The data of EXHIBITIONDAYTYPE_Header
+Dec 08,2016 17:56:06 [info]  Verified that Expected value :[Day Type] is matched with Actual value :[Day Type]
+Dec 08,2016 17:56:06 [info]  Verify The data of EXHIBITIONDAYPERIOD Header
+Dec 08,2016 17:56:06 [info]  Verified that Expected value :[*Day Period] is matched with Actual value :[*Day Period]
+Dec 08,2016 17:56:06 [info]  Verify The data of PLAYSPEREXHIBITION Header
+Dec 08,2016 17:56:06 [info]  Verified that Expected value :[*Plays] is matched with Actual value :[*Plays]
+Dec 08,2016 17:56:06 [info]  Verify The data of ADDLNETWORKUSAGE_Header
+Dec 08,2016 17:56:06 [info]  Verified that Expected value :[Addl.Exhib.Restrictions] is matched with Actual value :[Addl.Exhib.Restrictions]
+Dec 08,2016 17:56:06 [info]  Verify The data of RID_RATING_TERMSHeader
+Dec 08,2016 17:56:06 [info]  Verified that Expected value :[Evaluation] is matched with Actual value :[Evaluation]
+Dec 08,2016 17:56:06 [info]  Verify the default data of Parent Row
+Dec 08,2016 17:56:06 [info]  Verify The data of Applies to
+Dec 08,2016 17:56:06 [info]  Verified that Expected value :[All] is matched with Actual value :[All]
+Dec 08,2016 17:56:06 [info]  Verify The data of Applies to
+Dec 08,2016 17:56:06 [info]  Verified that Expected value :[Automatic] is matched with Actual value :[Automatic]
+Dec 08,2016 17:56:06 [info]  Verify The data of STARTDATE
+Dec 08,2016 17:56:06 [info]  Verified that Expected value :[01/01/2007] is matched with Actual value :[01/01/2007]
+Dec 08,2016 17:56:07 [info]  Verify The data of ENDDATE
+Dec 08,2016 17:56:07 [info]  Verified that Expected value :[12/31/2008] is matched with Actual value :[12/31/2008]
+Dec 08,2016 17:56:07 [info]  Verify The data of UNLIMITED Check box
+Dec 08,2016 17:56:07 [info]  Verified that Expected value :[Checked] is matched with Actual value :[Checked]
+Dec 08,2016 17:56:07 [info]  Verify The data of POOLED Check box
+Dec 08,2016 17:56:07 [info]  Verified that Expected value :[Checked] is matched with Actual value :[Checked]
+Dec 08,2016 17:56:07 [info]  Verify the default data of Child Row
+Dec 08,2016 17:56:07 [info]  Verify The data of Window Type
+Dec 08,2016 17:56:07 [info]  Verified that Expected value :[Primary] is matched with Actual value :[Primary]
+Dec 08,2016 17:56:07 [info]  Verify The data of Start Date Child
+Dec 08,2016 17:56:07 [info]  Verified that Expected value :[01/01/2007] is matched with Actual value :[01/01/2007]
+Dec 08,2016 17:56:07 [info]  Verify The data of End Date Child
+Dec 08,2016 17:56:07 [info]  Verified that Expected value :[12/31/2008] is matched with Actual value :[12/31/2008]
+Dec 08,2016 17:56:07 [info]  Verify The data of PLAYS
+Dec 08,2016 17:56:07 [info]  Verified that Expected value :[Unlimited] is matched with Actual value :[Unlimited]
+Dec 08,2016 17:56:07 [info]  Verify The data of Day Type
+Dec 08,2016 17:56:07 [info]  Verified that Expected value :[Consecutive Period] is matched with Actual value :[Consecutive Period]
+Dec 08,2016 17:56:07 [info]  Verify The data of Day Period
+Dec 08,2016 17:56:07 [info]  Verified that Expected value :[24 HR] is matched with Actual value :[24 HR]
+Dec 08,2016 17:56:08 [info]  Verify The data of Add Exhibition
+Dec 08,2016 17:56:08 [info]  Verified that Expected value :[Same Network] is matched with Actual value :[Same Network]
+Dec 08,2016 17:56:09 [info]  Clicked on the ''Save' Button at Exhibition Rights Edit window' using JS Executor
+Dec 08,2016 17:56:13 [info]  Verified that Expected value :[Please enter values for required (*) fields.] is matched with Actual value :[Please enter values for required (*) fields.]
+Dec 08,2016 17:56:13 [info]  Clicked on the 'Exhibition Day Scope Field'
+Dec 08,2016 17:56:13 [info]  Clicked on the 'Exhibition Day Scope Drop Down'
+Dec 08,2016 17:56:13 [info]  Verify The data of Series
+Dec 08,2016 17:56:13 [info]  Verified that Expected value :[Series] is matched with Actual value :[Series]
+Dec 08,2016 17:56:13 [info]  Verify The data of Season
+Dec 08,2016 17:56:13 [info]  Verified that Expected value :[Season] is matched with Actual value :[Season]
+Dec 08,2016 17:56:13 [info]  Verify The data of Episode
+Dec 08,2016 17:56:13 [info]  Verified that Expected value :[Episode] is matched with Actual value :[Episode]
+Dec 08,2016 17:56:13 [info]  Verify The data of Asset
+Dec 08,2016 17:56:13 [info]  Verified that Expected value :[Asset] is matched with Actual value :[Asset]
+Dec 08,2016 17:56:13 [info]  Clicked on the ''Series' in Exhi Scope field'
+Dec 08,2016 17:56:13 [info]  Clicked on the 'Support Click'
+Dec 08,2016 17:56:14 [info]  Verify The data of ExhiScope
+Dec 08,2016 17:56:14 [info]  Verified that Expected value :[Series] is matched with Actual value :[Series]
+Dec 08,2016 17:56:14 [info]  Clicked on the 'Window Name Field'
+Dec 08,2016 17:56:14 [info]  Entered "RSG Window" in field 'Win Name'
+Dec 08,2016 17:56:14 [info]  Clicked on the 'Support Click'
+Dec 08,2016 17:56:14 [info]  Open Rights Type window and check Linear Check Box
+Dec 08,2016 17:56:14 [info]  Clicked on the 'Window Name Field'
+Dec 08,2016 17:56:15 [info]  "Check Box Linear" is Present
+Dec 08,2016 17:56:15 [info]  "Check Box Non-Linear" is Present
+Dec 08,2016 17:56:15 [info]  Clicked on the 'Check box Linear'
+Dec 08,2016 17:56:15 [info]  "Linear Check box is checked" is Present
+Dec 08,2016 17:56:16 [info]  Clicked on the 'Apply Button at RIGHTSTYPE_POPUP'
+Dec 08,2016 17:56:16 [info]  Verify The data of Linear
+Dec 08,2016 17:56:16 [info]  Verified that Expected value :[Linear] is matched with Actual value :[Linear]
+Dec 08,2016 17:56:16 [info]  Day Type
+Dec 08,2016 17:56:16 [info]  Clicked on the 'Day Type Field'
+Dec 08,2016 17:56:16 [info]  Clicked on the 'DAYS Type Drop Down'
+Dec 08,2016 17:56:17 [info]  Verify The data of Consecutive Period
+Dec 08,2016 17:56:17 [info]  Verified that Expected value :[Consecutive Period] is matched with Actual value :[Consecutive Period]
+Dec 08,2016 17:56:17 [info]  Verify The data of Programming Day
+Dec 08,2016 17:56:17 [info]  Verified that Expected value :[Programming Day] is matched with Actual value :[Programming Day]
+Dec 08,2016 17:56:17 [info]  Clicked on the 'Consecutive Period in Exhi Days Type field'
+Dec 08,2016 17:56:17 [info]  Clicked on the 'Support Click'
+Dec 08,2016 17:56:17 [info]  Verify The data of Day Type
+Dec 08,2016 17:56:17 [info]  Verified that Expected value :[Consecutive Period] is matched with Actual value :[Consecutive Period]
+Dec 08,2016 17:56:17 [info]  Day Period
+Dec 08,2016 17:56:17 [info]  Clicked on the 'Day Period Field'
+Dec 08,2016 17:56:17 [info]  Clicked on the 'DAYS Period Drop Down'
+Dec 08,2016 17:56:17 [info]  Verify The data of 24 HR
+Dec 08,2016 17:56:17 [info]  Verified that Expected value :[24 HR] is matched with Actual value :[24 HR]
+Dec 08,2016 17:56:17 [info]  Verify The data of 12
+Dec 08,2016 17:56:17 [info]  Verified that Expected value :[12] is matched with Actual value :[12]
+Dec 08,2016 17:56:17 [info]  Verify The data of 7 Days
+Dec 08,2016 17:56:17 [info]  Verified that Expected value :[7 Days] is matched with Actual value :[7 Days]
+Dec 08,2016 17:56:17 [info]  Verify The data of 14 Days
+Dec 08,2016 17:56:17 [info]  Verified that Expected value :[14 Days] is matched with Actual value :[14 Days]
+Dec 08,2016 17:56:18 [info]  Clicked on the '24 HR in Day Period field'
+Dec 08,2016 17:56:18 [info]  Clicked on the 'Support Click'
+Dec 08,2016 17:56:18 [info]  Verify The data of Day Period
+Dec 08,2016 17:56:18 [info]  Verified that Expected value :[24 HR] is matched with Actual value :[24 HR]
+Dec 08,2016 17:56:18 [info]  Day Type
+Dec 08,2016 17:56:18 [info]  Clicked on the 'Plays Field'
+Dec 08,2016 17:56:18 [info]  Clicked on the 'Plays Drop Down'
+Dec 08,2016 17:56:18 [info]  Verify The data of Unlimited
+Dec 08,2016 17:56:18 [info]  Verified that Expected value :[Unlimited] is matched with Actual value :[Unlimited]
+Dec 08,2016 17:56:18 [info]  Verify The data of 1
+Dec 08,2016 17:56:18 [info]  Verified that Expected value :[1] is matched with Actual value :[1]
+Dec 08,2016 17:56:18 [info]  Verify The data of 2
+Dec 08,2016 17:56:18 [info]  Verified that Expected value :[2] is matched with Actual value :[2]
+Dec 08,2016 17:56:18 [info]  Verify The data of 3
+Dec 08,2016 17:56:18 [info]  Verified that Expected value :[3] is matched with Actual value :[3]
+Dec 08,2016 17:56:18 [info]  Verify The data of 4
+Dec 08,2016 17:56:18 [info]  Verified that Expected value :[4] is matched with Actual value :[4]
+Dec 08,2016 17:56:19 [info]  Verify The data of 5
+Dec 08,2016 17:56:19 [info]  Verified that Expected value :[5] is matched with Actual value :[5]
+Dec 08,2016 17:56:19 [info]  Verify The data of 6
+Dec 08,2016 17:56:19 [info]  Verified that Expected value :[6] is matched with Actual value :[6]
+Dec 08,2016 17:56:19 [info]  Verify The data of 8
+Dec 08,2016 17:56:19 [info]  Verified that Expected value :[8] is matched with Actual value :[8]
+Dec 08,2016 17:56:19 [info]  Verify The data of 12
+Dec 08,2016 17:56:19 [info]  Verified that Expected value :[12] is matched with Actual value :[12]
+Dec 08,2016 17:56:19 [info]  Verify The data of 45
+Dec 08,2016 17:56:19 [info]  Verified that Expected value :[45] is matched with Actual value :[45]
+Dec 08,2016 17:56:19 [info]  Verify The data of 99
+Dec 08,2016 17:56:19 [info]  Verified that Expected value :[99] is matched with Actual value :[99]
+Dec 08,2016 17:56:19 [info]  Clicked on the 'Unlimited in Plays field'
+Dec 08,2016 17:56:19 [info]  Clicked on the 'Support Click'
+Dec 08,2016 17:56:19 [info]  Verify The data of Plays
+Dec 08,2016 17:56:19 [info]  Verified that Expected value :[Unlimited] is matched with Actual value :[Unlimited]
+Dec 08,2016 17:56:19 [info]  Day Type
+Dec 08,2016 17:56:19 [info]  ====Failed==== "Add Exhibition" field is not present'
+Dec 08,2016 17:56:20 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\08\Add Exhibition_CheckpointFailure_12-08-2016 5-56-19 PM.jpg
+Dec 08,2016 17:56:30 [info]  ====Failed==== "Add Exhibition Drop Down" field is not present'
+Dec 08,2016 17:56:30 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\08\Add Exhibition Drop Down_CheckpointFailure_12-08-2016 5-56-30 PM.jpg
+Dec 08,2016 17:56:40 [info]  Verify The data of Unlimited
+Dec 08,2016 17:56:40 [info]  ====Failed==== Expected value is:[Unlimited] but Actual value is[]. Please check the screenshot with name: Unlimitedfor more details
+Dec 08,2016 17:56:40 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\08\Unlimited_CheckpointFailure_12-08-2016 5-56-40 PM.jpg
+Dec 08,2016 17:56:50 [info]  Verify The data of 1
+Dec 08,2016 17:56:50 [info]  ====Failed==== Expected value is:[1] but Actual value is[]. Please check the screenshot with name: 1for more details
+Dec 08,2016 17:56:51 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\08\1_CheckpointFailure_12-08-2016 5-56-50 PM.jpg
+Dec 08,2016 17:57:01 [info]  ====Failed==== "Unlimited in Add Exhibition field" field is not present'
+Dec 08,2016 17:57:01 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\08\Unlimited in Add Exhibition field_CheckpointFailure_12-08-2016 5-57-01 PM.jpg
+Dec 08,2016 17:57:01 [info]  ====Failed==== "Support Click" field is not present'
+Dec 08,2016 17:57:01 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\08\Support Click_CheckpointFailure_12-08-2016 5-57-01 PM.jpg
+Dec 08,2016 17:57:01 [info]  Verify The data of Add Exhibition
+Dec 08,2016 17:57:01 [info]  ====Failed==== Expected value is:[Unlimited] but Actual value is[Same Network]. Please check the screenshot with name: Add Exhibitionfor more details
+Dec 08,2016 17:57:02 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\08\Add Exhibition_CheckpointFailure_12-08-2016 5-57-01 PM.jpg
+Dec 08,2016 17:57:02 [info]  Test 'TC4_SelectMediaRow_WhileDefiningExhRights' PASSED
+Dec 08,2016 17:57:03 [info]  Closed the Browser
+Dec 08,2016 17:58:35 [info]  ********************Started Executiong the Test Suite at 17:58:35******************
+Dec 08,2016 17:58:35 [info]  Client: AMCN
+Dec 08,2016 17:58:35 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Dec 08,2016 17:58:35 [info]  *********************Started Executing 'TC4_SelectMediaRow_WhileDefiningExhRights' Test Case*********************
+Dec 08,2016 17:58:45 [info]  Client: AMCN
+Dec 08,2016 17:58:45 [info]  URL: http://rlv2wb79/login.aspx
+Dec 08,2016 17:58:45 [info]  UserName: automation
+Dec 08,2016 17:58:45 [info]  Password: automation
+Dec 08,2016 17:58:46 [info]  Entered "automation" in field 'User Name'
+Dec 08,2016 17:58:46 [info]  Clicked on the 'Temporary Check Box'
+Dec 08,2016 17:58:46 [info]  Entered "automation" in field 'Password'
+Dec 08,2016 17:58:53 [info]  Clicked on the 'LoginButton'
+Dec 08,2016 17:59:03 [info]  Double clicked on 'AUT_Deal_TC1_1207201624633Deal'
+Dec 08,2016 17:59:06 [info]  Clicked on the 'Exhibition Rights TAB'
+Dec 08,2016 17:59:10 [info]  Clicked on the ''Edit' Button at Media Rights TAB' using JS Executor
+Dec 08,2016 17:59:10 [info]  
+Dec 08,2016 17:59:10 [info]  Add Button >> Verify Media Rights's rows >> verify Select Check Box is shown >> Verify Buttons
+Dec 08,2016 17:59:11 [info]  Clicked on the 'Add Button'
+Dec 08,2016 17:59:16 [info]  Clicked on the 'Select Check Box'
+Dec 08,2016 17:59:18 [info]  Clicked on the 'Add Button at Media rights Pop up Window'
+Dec 08,2016 17:59:21 [info]  Verify The data of Media Row Number
+Dec 08,2016 17:59:21 [info]  Verified that Expected value :[Media Row No] is matched with Actual value :[Media Row No]
+Dec 08,2016 17:59:21 [info]  Verify The data of Exhibit APPLIESTO
+Dec 08,2016 17:59:21 [info]  Verified that Expected value :[Applies To] is matched with Actual value :[Applies To]
+Dec 08,2016 17:59:21 [info]  Verify The data of UNLIMITED Header
+Dec 08,2016 17:59:21 [info]  Verified that Expected value :[Unlimited] is matched with Actual value :[Unlimited]
+Dec 08,2016 17:59:21 [info]  Verify The data of EXHIBIT DATE UPDATE Header
+Dec 08,2016 17:59:21 [info]  Verified that Expected value :[Update] is matched with Actual value :[*Update]
+Dec 08,2016 17:59:21 [info]  Verify The data of EXHIBITION_DAYSHeader
+Dec 08,2016 17:59:21 [info]  Verified that Expected value :[Exhib.Days] is matched with Actual value :[Exhib.Days]
+Dec 08,2016 17:59:22 [info]  Verify The data of RESERVED_EXHIBITION Header
+Dec 08,2016 17:59:22 [info]  Verified that Expected value :[Reserved Exhibitions] is matched with Actual value :[Reserved Exhibitions]
+Dec 08,2016 17:59:22 [info]  Verify The data of POOLED Header
+Dec 08,2016 17:59:22 [info]  Verified that Expected value :[Pooled] is matched with Actual value :[Pooled]
+Dec 08,2016 17:59:22 [info]  Verify The data of EXHIBITIONDAYSCOPE_Header
+Dec 08,2016 17:59:22 [info]  Verified that Expected value :[Exhib.Day Scope] is matched with Actual value :[*Exhib.Day Scope]
+Dec 08,2016 17:59:22 [info]  Verify The data of STARTDATE Header
+Dec 08,2016 17:59:22 [info]  Verified that Expected value :[Start Date] is matched with Actual value :[Start Date]
+Dec 08,2016 17:59:22 [info]  Verify The data of ENDDATEHeader
+Dec 08,2016 17:59:22 [info]  Verified that Expected value :[End Date] is matched with Actual value :[End Date]
+Dec 08,2016 17:59:22 [info]  Verify The data of ExhibitBUSINESS_TERMSHeader
+Dec 08,2016 17:59:22 [info]  Verified that Expected value :[Notes] is matched with Actual value :[Notes]
+Dec 08,2016 17:59:22 [info]  
+Dec 08,2016 17:59:22 [info]  Verifying the headers of Child Row in Edit Mode
+Dec 08,2016 17:59:22 [info]  Verify The data of WINDOWNAME
+Dec 08,2016 17:59:22 [info]  Verified that Expected value :[*Window Name] is matched with Actual value :[*Window Name]
+Dec 08,2016 17:59:22 [info]  Verify The data of WINDOW_TYPE Header
+Dec 08,2016 17:59:22 [info]  Verified that Expected value :[*Window Type] is matched with Actual value :[*Window Type]
+Dec 08,2016 17:59:22 [info]  Verify The data of RIGHTSTYPE UPDATE Header
+Dec 08,2016 17:59:22 [info]  Verified that Expected value :[*Rights Type] is matched with Actual value :[*Rights Type]
+Dec 08,2016 17:59:22 [info]  Verify The data of EXHIBITION_DAYSHeader
+Dec 08,2016 17:59:22 [info]  Verified that Expected value :[Exhib.Days] is matched with Actual value :[Exhib.Days]
+Dec 08,2016 17:59:22 [info]  Verify The data of POOLED Header
+Dec 08,2016 17:59:22 [info]  Verified that Expected value :[Pooled] is matched with Actual value :[Pooled]
+Dec 08,2016 17:59:23 [info]  Verify The data of STARTDATECHILD_Header
+Dec 08,2016 17:59:23 [info]  Verified that Expected value :[*Start Date] is matched with Actual value :[*Start Date]
+Dec 08,2016 17:59:23 [info]  Verify The data of ENDDATECHILD Header
+Dec 08,2016 17:59:23 [info]  Verified that Expected value :[*End Date] is matched with Actual value :[*End Date]
+Dec 08,2016 17:59:23 [info]  Verify The data of NETWORK_SUMMARY Header
+Dec 08,2016 17:59:23 [info]  Verified that Expected value :[*Exhib.Network] is matched with Actual value :[*Exhib.Network]
+Dec 08,2016 17:59:23 [info]  Verify The data of TERRITORY_TERMSHeader
+Dec 08,2016 17:59:23 [info]  Verified that Expected value :[Territory] is matched with Actual value :[Territory]
+Dec 08,2016 17:59:23 [info]  Verify The data of EXHIBITIONDAYTYPE_Header
+Dec 08,2016 17:59:23 [info]  Verified that Expected value :[Day Type] is matched with Actual value :[Day Type]
+Dec 08,2016 17:59:23 [info]  Verify The data of EXHIBITIONDAYPERIOD Header
+Dec 08,2016 17:59:23 [info]  Verified that Expected value :[*Day Period] is matched with Actual value :[*Day Period]
+Dec 08,2016 17:59:23 [info]  Verify The data of PLAYSPEREXHIBITION Header
+Dec 08,2016 17:59:23 [info]  Verified that Expected value :[*Plays] is matched with Actual value :[*Plays]
+Dec 08,2016 17:59:23 [info]  Verify The data of ADDLNETWORKUSAGE_Header
+Dec 08,2016 17:59:23 [info]  Verified that Expected value :[Addl.Exhib.Restrictions] is matched with Actual value :[Addl.Exhib.Restrictions]
+Dec 08,2016 17:59:23 [info]  Verify The data of RID_RATING_TERMSHeader
+Dec 08,2016 17:59:23 [info]  Verified that Expected value :[Evaluation] is matched with Actual value :[Evaluation]
+Dec 08,2016 17:59:23 [info]  Verify the default data of Parent Row
+Dec 08,2016 17:59:23 [info]  Verify The data of Applies to
+Dec 08,2016 17:59:23 [info]  Verified that Expected value :[All] is matched with Actual value :[All]
+Dec 08,2016 17:59:24 [info]  Verify The data of Applies to
+Dec 08,2016 17:59:24 [info]  Verified that Expected value :[Automatic] is matched with Actual value :[Automatic]
+Dec 08,2016 17:59:24 [info]  Verify The data of STARTDATE
+Dec 08,2016 17:59:24 [info]  Verified that Expected value :[01/01/2007] is matched with Actual value :[01/01/2007]
+Dec 08,2016 17:59:24 [info]  Verify The data of ENDDATE
+Dec 08,2016 17:59:24 [info]  Verified that Expected value :[12/31/2008] is matched with Actual value :[12/31/2008]
+Dec 08,2016 17:59:24 [info]  Verify The data of UNLIMITED Check box
+Dec 08,2016 17:59:24 [info]  Verified that Expected value :[Checked] is matched with Actual value :[Checked]
+Dec 08,2016 17:59:24 [info]  Verify The data of POOLED Check box
+Dec 08,2016 17:59:24 [info]  Verified that Expected value :[Checked] is matched with Actual value :[Checked]
+Dec 08,2016 17:59:24 [info]  Verify the default data of Child Row
+Dec 08,2016 17:59:24 [info]  Verify The data of Window Type
+Dec 08,2016 17:59:24 [info]  Verified that Expected value :[Primary] is matched with Actual value :[Primary]
+Dec 08,2016 17:59:24 [info]  Verify The data of Start Date Child
+Dec 08,2016 17:59:24 [info]  Verified that Expected value :[01/01/2007] is matched with Actual value :[01/01/2007]
+Dec 08,2016 17:59:24 [info]  Verify The data of End Date Child
+Dec 08,2016 17:59:24 [info]  Verified that Expected value :[12/31/2008] is matched with Actual value :[12/31/2008]
+Dec 08,2016 17:59:25 [info]  Verify The data of PLAYS
+Dec 08,2016 17:59:25 [info]  Verified that Expected value :[Unlimited] is matched with Actual value :[Unlimited]
+Dec 08,2016 17:59:25 [info]  Verify The data of Day Type
+Dec 08,2016 17:59:25 [info]  Verified that Expected value :[Consecutive Period] is matched with Actual value :[Consecutive Period]
+Dec 08,2016 17:59:25 [info]  Verify The data of Day Period
+Dec 08,2016 17:59:25 [info]  Verified that Expected value :[24 HR] is matched with Actual value :[24 HR]
+Dec 08,2016 17:59:25 [info]  Verify The data of Add Exhibition
+Dec 08,2016 17:59:25 [info]  Verified that Expected value :[Same Network] is matched with Actual value :[Same Network]
+Dec 08,2016 17:59:27 [info]  Clicked on the ''Save' Button at Exhibition Rights Edit window' using JS Executor
+Dec 08,2016 17:59:35 [info]  Day Type
+Dec 08,2016 17:59:47 [info]  Clicked on the 'Add Exhibition'
+Dec 08,2016 17:59:48 [info]  Clicked on the 'Add Exhibition Drop Down'
+Dec 08,2016 17:59:59 [info]  Verify The data of Unlimited
+Dec 08,2016 17:59:59 [info]  ====Failed==== Expected value is:[Unlimited] but Actual value is[]. Please check the screenshot with name: Unlimitedfor more details
+Dec 08,2016 17:59:59 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\08\Unlimited_CheckpointFailure_12-08-2016 5-59-59 PM.jpg
+Dec 08,2016 18:00:14 [info]  Verify The data of 1
+Dec 08,2016 18:00:14 [info]  ====Failed==== Expected value is:[1] but Actual value is[]. Please check the screenshot with name: 1for more details
+Dec 08,2016 18:00:14 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\08\1_CheckpointFailure_12-08-2016 6-00-14 PM.jpg
+Dec 08,2016 18:00:58 [info]  ====Failed==== "Unlimited in Add Exhibition field" field is not present'
+Dec 08,2016 18:00:59 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\08\Unlimited in Add Exhibition field_CheckpointFailure_12-08-2016 6-00-58 PM.jpg
+Dec 08,2016 18:01:04 [info]  Verify The data of Add Exhibition
+Dec 08,2016 18:01:04 [info]  ====Failed==== Expected value is:[Unlimited] but Actual value is[Same Network]. Please check the screenshot with name: Add Exhibitionfor more details
+Dec 08,2016 18:01:05 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\08\Add Exhibition_CheckpointFailure_12-08-2016 6-01-04 PM.jpg
+Dec 08,2016 18:01:08 [info]  Test 'TC4_SelectMediaRow_WhileDefiningExhRights' PASSED
+Dec 08,2016 18:01:09 [info]  Closed the Browser
+Dec 08,2016 18:02:14 [info]  ********************Started Executiong the Test Suite at 18:02:14******************
+Dec 08,2016 18:02:14 [info]  Client: AMCN
+Dec 08,2016 18:02:14 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Dec 08,2016 18:02:14 [info]  *********************Started Executing 'TC4_SelectMediaRow_WhileDefiningExhRights' Test Case*********************
+Dec 08,2016 18:02:24 [info]  Client: AMCN
+Dec 08,2016 18:02:24 [info]  URL: http://rlv2wb79/login.aspx
+Dec 08,2016 18:02:24 [info]  UserName: automation
+Dec 08,2016 18:02:24 [info]  Password: automation
+Dec 08,2016 18:02:25 [info]  Entered "automation" in field 'User Name'
+Dec 08,2016 18:02:26 [info]  Clicked on the 'Temporary Check Box'
+Dec 08,2016 18:02:26 [info]  Entered "automation" in field 'Password'
+Dec 08,2016 18:02:32 [info]  Clicked on the 'LoginButton'
+Dec 08,2016 18:02:53 [info]  ********************Started Executiong the Test Suite at 18:02:53******************
+Dec 08,2016 18:02:53 [info]  Client: AMCN
+Dec 08,2016 18:02:53 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Dec 08,2016 18:02:53 [info]  *********************Started Executing 'TC4_SelectMediaRow_WhileDefiningExhRights' Test Case*********************
+Dec 08,2016 18:03:03 [info]  Client: AMCN
+Dec 08,2016 18:03:03 [info]  URL: http://rlv2wb79/login.aspx
+Dec 08,2016 18:03:03 [info]  UserName: automation
+Dec 08,2016 18:03:03 [info]  Password: automation
+Dec 08,2016 18:03:05 [info]  Entered "automation" in field 'User Name'
+Dec 08,2016 18:03:05 [info]  Clicked on the 'Temporary Check Box'
+Dec 08,2016 18:03:07 [info]  Entered "automation" in field 'Password'
+Dec 08,2016 18:03:16 [info]  Clicked on the 'LoginButton'
+Dec 08,2016 18:03:22 [info]  Double clicked on 'AUT_Deal_TC1_1207201624633Deal'
+Dec 08,2016 18:03:33 [info]  Clicked on the 'Exhibition Rights TAB'
+Dec 08,2016 18:03:33 [info]  Clicked on the ''Edit' Button at Media Rights TAB' using JS Executor
+Dec 08,2016 18:03:33 [info]  
+Dec 08,2016 18:03:33 [info]  Add Button >> Verify Media Rights's rows >> verify Select Check Box is shown >> Verify Buttons
+Dec 08,2016 18:03:38 [info]  Clicked on the 'Add Button'
+Dec 08,2016 18:03:42 [info]  Clicked on the 'Select Check Box'
+Dec 08,2016 18:03:45 [info]  Clicked on the 'Add Button at Media rights Pop up Window'
+Dec 08,2016 18:03:52 [info]  Verify The data of Media Row Number
+Dec 08,2016 18:03:52 [info]  Verified that Expected value :[Media Row No] is matched with Actual value :[Media Row No]
+Dec 08,2016 18:03:52 [info]  Verify The data of Exhibit APPLIESTO
+Dec 08,2016 18:03:52 [info]  Verified that Expected value :[Applies To] is matched with Actual value :[Applies To]
+Dec 08,2016 18:03:52 [info]  Verify The data of UNLIMITED Header
+Dec 08,2016 18:03:52 [info]  Verified that Expected value :[Unlimited] is matched with Actual value :[Unlimited]
+Dec 08,2016 18:03:52 [info]  Verify The data of EXHIBIT DATE UPDATE Header
+Dec 08,2016 18:03:52 [info]  Verified that Expected value :[Update] is matched with Actual value :[*Update]
+Dec 08,2016 18:03:52 [info]  Verify The data of EXHIBITION_DAYSHeader
+Dec 08,2016 18:03:52 [info]  Verified that Expected value :[Exhib.Days] is matched with Actual value :[Exhib.Days]
+Dec 08,2016 18:03:52 [info]  Verify The data of RESERVED_EXHIBITION Header
+Dec 08,2016 18:03:52 [info]  Verified that Expected value :[Reserved Exhibitions] is matched with Actual value :[Reserved Exhibitions]
+Dec 08,2016 18:03:52 [info]  Verify The data of POOLED Header
+Dec 08,2016 18:03:52 [info]  Verified that Expected value :[Pooled] is matched with Actual value :[Pooled]
+Dec 08,2016 18:03:52 [info]  Verify The data of EXHIBITIONDAYSCOPE_Header
+Dec 08,2016 18:03:52 [info]  Verified that Expected value :[Exhib.Day Scope] is matched with Actual value :[*Exhib.Day Scope]
+Dec 08,2016 18:03:53 [info]  Verify The data of STARTDATE Header
+Dec 08,2016 18:03:53 [info]  Verified that Expected value :[Start Date] is matched with Actual value :[Start Date]
+Dec 08,2016 18:03:53 [info]  Verify The data of ENDDATEHeader
+Dec 08,2016 18:03:53 [info]  Verified that Expected value :[End Date] is matched with Actual value :[End Date]
+Dec 08,2016 18:03:53 [info]  Verify The data of ExhibitBUSINESS_TERMSHeader
+Dec 08,2016 18:03:53 [info]  Verified that Expected value :[Notes] is matched with Actual value :[Notes]
+Dec 08,2016 18:03:53 [info]  
+Dec 08,2016 18:03:53 [info]  Verifying the headers of Child Row in Edit Mode
+Dec 08,2016 18:03:55 [info]  Verify The data of WINDOWNAME
+Dec 08,2016 18:03:55 [info]  Verified that Expected value :[*Window Name] is matched with Actual value :[*Window Name]
+Dec 08,2016 18:03:55 [info]  Verify The data of WINDOW_TYPE Header
+Dec 08,2016 18:03:55 [info]  Verified that Expected value :[*Window Type] is matched with Actual value :[*Window Type]
+Dec 08,2016 18:03:55 [info]  Verify The data of RIGHTSTYPE UPDATE Header
+Dec 08,2016 18:03:55 [info]  Verified that Expected value :[*Rights Type] is matched with Actual value :[*Rights Type]
+Dec 08,2016 18:03:56 [info]  Verify The data of EXHIBITION_DAYSHeader
+Dec 08,2016 18:03:56 [info]  Verified that Expected value :[Exhib.Days] is matched with Actual value :[Exhib.Days]
+Dec 08,2016 18:03:56 [info]  Verify The data of POOLED Header
+Dec 08,2016 18:03:56 [info]  Verified that Expected value :[Pooled] is matched with Actual value :[Pooled]
+Dec 08,2016 18:03:56 [info]  Verify The data of STARTDATECHILD_Header
+Dec 08,2016 18:03:56 [info]  Verified that Expected value :[*Start Date] is matched with Actual value :[*Start Date]
+Dec 08,2016 18:03:56 [info]  Verify The data of ENDDATECHILD Header
+Dec 08,2016 18:03:56 [info]  Verified that Expected value :[*End Date] is matched with Actual value :[*End Date]
+Dec 08,2016 18:03:56 [info]  Verify The data of NETWORK_SUMMARY Header
+Dec 08,2016 18:03:56 [info]  Verified that Expected value :[*Exhib.Network] is matched with Actual value :[*Exhib.Network]
+Dec 08,2016 18:03:56 [info]  Verify The data of TERRITORY_TERMSHeader
+Dec 08,2016 18:03:56 [info]  Verified that Expected value :[Territory] is matched with Actual value :[Territory]
+Dec 08,2016 18:03:57 [info]  Verify The data of EXHIBITIONDAYTYPE_Header
+Dec 08,2016 18:03:57 [info]  Verified that Expected value :[Day Type] is matched with Actual value :[Day Type]
+Dec 08,2016 18:03:57 [info]  Verify The data of EXHIBITIONDAYPERIOD Header
+Dec 08,2016 18:03:57 [info]  Verified that Expected value :[*Day Period] is matched with Actual value :[*Day Period]
+Dec 08,2016 18:03:57 [info]  Verify The data of PLAYSPEREXHIBITION Header
+Dec 08,2016 18:03:57 [info]  Verified that Expected value :[*Plays] is matched with Actual value :[*Plays]
+Dec 08,2016 18:03:57 [info]  Verify The data of ADDLNETWORKUSAGE_Header
+Dec 08,2016 18:03:57 [info]  Verified that Expected value :[Addl.Exhib.Restrictions] is matched with Actual value :[Addl.Exhib.Restrictions]
+Dec 08,2016 18:03:57 [info]  Verify The data of RID_RATING_TERMSHeader
+Dec 08,2016 18:03:57 [info]  Verified that Expected value :[Evaluation] is matched with Actual value :[Evaluation]
+Dec 08,2016 18:03:59 [info]  Verify the default data of Parent Row
+Dec 08,2016 18:04:00 [info]  Verify The data of Applies to
+Dec 08,2016 18:04:00 [info]  Verified that Expected value :[All] is matched with Actual value :[All]
+Dec 08,2016 18:04:00 [info]  Verify The data of Applies to
+Dec 08,2016 18:04:00 [info]  Verified that Expected value :[Automatic] is matched with Actual value :[Automatic]
+Dec 08,2016 18:04:00 [info]  Verify The data of STARTDATE
+Dec 08,2016 18:04:00 [info]  Verified that Expected value :[01/01/2007] is matched with Actual value :[01/01/2007]
+Dec 08,2016 18:04:00 [info]  Verify The data of ENDDATE
+Dec 08,2016 18:04:00 [info]  Verified that Expected value :[12/31/2008] is matched with Actual value :[12/31/2008]
+Dec 08,2016 18:04:01 [info]  Verify The data of UNLIMITED Check box
+Dec 08,2016 18:04:01 [info]  Verified that Expected value :[Checked] is matched with Actual value :[Checked]
+Dec 08,2016 18:04:01 [info]  Verify The data of POOLED Check box
+Dec 08,2016 18:04:01 [info]  Verified that Expected value :[Checked] is matched with Actual value :[Checked]
+Dec 08,2016 18:04:01 [info]  Verify the default data of Child Row
+Dec 08,2016 18:04:01 [info]  Verify The data of Window Type
+Dec 08,2016 18:04:01 [info]  Verified that Expected value :[Primary] is matched with Actual value :[Primary]
+Dec 08,2016 18:04:02 [info]  Verify The data of Start Date Child
+Dec 08,2016 18:04:02 [info]  Verified that Expected value :[01/01/2007] is matched with Actual value :[01/01/2007]
+Dec 08,2016 18:04:02 [info]  Verify The data of End Date Child
+Dec 08,2016 18:04:02 [info]  Verified that Expected value :[12/31/2008] is matched with Actual value :[12/31/2008]
+Dec 08,2016 18:04:02 [info]  Verify The data of PLAYS
+Dec 08,2016 18:04:02 [info]  Verified that Expected value :[Unlimited] is matched with Actual value :[Unlimited]
+Dec 08,2016 18:04:02 [info]  Verify The data of Day Type
+Dec 08,2016 18:04:02 [info]  Verified that Expected value :[Consecutive Period] is matched with Actual value :[Consecutive Period]
+Dec 08,2016 18:04:03 [info]  Verify The data of Day Period
+Dec 08,2016 18:04:03 [info]  Verified that Expected value :[24 HR] is matched with Actual value :[24 HR]
+Dec 08,2016 18:04:03 [info]  Verify The data of Add Exhibition
+Dec 08,2016 18:04:03 [info]  Verified that Expected value :[Same Network] is matched with Actual value :[Same Network]
+Dec 08,2016 18:04:05 [info]  Clicked on the ''Save' Button at Exhibition Rights Edit window' using JS Executor
+Dec 08,2016 18:04:12 [info]  Verified that Expected value :[Please enter values for required (*) fields.] is matched with Actual value :[Please enter values for required (*) fields.]
+Dec 08,2016 18:04:13 [info]  Clicked on the 'Exhibition Day Scope Field'
+Dec 08,2016 18:04:14 [info]  Clicked on the 'Exhibition Day Scope Drop Down'
+Dec 08,2016 18:04:14 [info]  Verify The data of Series
+Dec 08,2016 18:04:14 [info]  Verified that Expected value :[Series] is matched with Actual value :[Series]
+Dec 08,2016 18:04:14 [info]  Verify The data of Season
+Dec 08,2016 18:04:14 [info]  Verified that Expected value :[Season] is matched with Actual value :[Season]
+Dec 08,2016 18:04:14 [info]  Verify The data of Episode
+Dec 08,2016 18:04:14 [info]  Verified that Expected value :[Episode] is matched with Actual value :[Episode]
+Dec 08,2016 18:04:14 [info]  Verify The data of Asset
+Dec 08,2016 18:04:14 [info]  Verified that Expected value :[Asset] is matched with Actual value :[Asset]
+Dec 08,2016 18:04:15 [info]  Clicked on the ''Series' in Exhi Scope field'
+Dec 08,2016 18:04:16 [info]  Clicked on the 'Support Click'
+Dec 08,2016 18:04:16 [info]  Verify The data of ExhiScope
+Dec 08,2016 18:04:16 [info]  Verified that Expected value :[Series] is matched with Actual value :[Series]
+Dec 08,2016 18:04:17 [info]  Clicked on the 'Window Name Field'
+Dec 08,2016 18:04:18 [info]  Entered "RSG Window" in field 'Win Name'
+Dec 08,2016 18:04:18 [info]  Clicked on the 'Support Click'
+Dec 08,2016 18:04:18 [info]  Open Rights Type window and check Linear Check Box
+Dec 08,2016 18:04:20 [info]  Clicked on the 'Window Name Field'
+Dec 08,2016 18:04:20 [info]  "Check Box Linear" is Present
+Dec 08,2016 18:04:20 [info]  "Check Box Non-Linear" is Present
+Dec 08,2016 18:04:21 [info]  Clicked on the 'Check box Linear'
+Dec 08,2016 18:04:21 [info]  "Linear Check box is checked" is Present
+Dec 08,2016 18:04:22 [info]  Clicked on the 'Apply Button at RIGHTSTYPE_POPUP'
+Dec 08,2016 18:04:22 [info]  Verify The data of Linear
+Dec 08,2016 18:04:22 [info]  Verified that Expected value :[Linear] is matched with Actual value :[Linear]
+Dec 08,2016 18:04:22 [info]  Day Type
+Dec 08,2016 18:04:23 [info]  Clicked on the 'Day Type Field'
+Dec 08,2016 18:04:23 [info]  Clicked on the 'DAYS Type Drop Down'
+Dec 08,2016 18:04:23 [info]  Verify The data of Consecutive Period
+Dec 08,2016 18:04:23 [info]  Verified that Expected value :[Consecutive Period] is matched with Actual value :[Consecutive Period]
+Dec 08,2016 18:04:24 [info]  Verify The data of Programming Day
+Dec 08,2016 18:04:24 [info]  Verified that Expected value :[Programming Day] is matched with Actual value :[Programming Day]
+Dec 08,2016 18:04:24 [info]  Clicked on the 'Consecutive Period in Exhi Days Type field'
+Dec 08,2016 18:04:25 [info]  Clicked on the 'Support Click'
+Dec 08,2016 18:04:25 [info]  Verify The data of Day Type
+Dec 08,2016 18:04:25 [info]  Verified that Expected value :[Consecutive Period] is matched with Actual value :[Consecutive Period]
+Dec 08,2016 18:04:25 [info]  Day Period
+Dec 08,2016 18:04:26 [info]  Clicked on the 'Day Period Field'
+Dec 08,2016 18:04:27 [info]  Clicked on the 'DAYS Period Drop Down'
+Dec 08,2016 18:04:27 [info]  Verify The data of 24 HR
+Dec 08,2016 18:04:27 [info]  Verified that Expected value :[24 HR] is matched with Actual value :[24 HR]
+Dec 08,2016 18:04:27 [info]  Verify The data of 12
+Dec 08,2016 18:04:27 [info]  Verified that Expected value :[12] is matched with Actual value :[12]
+Dec 08,2016 18:04:27 [info]  Verify The data of 7 Days
+Dec 08,2016 18:04:27 [info]  Verified that Expected value :[7 Days] is matched with Actual value :[7 Days]
+Dec 08,2016 18:04:27 [info]  Verify The data of 14 Days
+Dec 08,2016 18:04:27 [info]  Verified that Expected value :[14 Days] is matched with Actual value :[14 Days]
+Dec 08,2016 18:04:28 [info]  Clicked on the '24 HR in Day Period field'
+Dec 08,2016 18:04:29 [info]  Clicked on the 'Support Click'
+Dec 08,2016 18:04:29 [info]  Verify The data of Day Period
+Dec 08,2016 18:04:29 [info]  Verified that Expected value :[24 HR] is matched with Actual value :[24 HR]
+Dec 08,2016 18:04:29 [info]  Day Type
+Dec 08,2016 18:04:30 [info]  Clicked on the 'Plays Field'
+Dec 08,2016 18:04:31 [info]  Clicked on the 'Plays Drop Down'
+Dec 08,2016 18:04:31 [info]  Verify The data of Unlimited
+Dec 08,2016 18:04:31 [info]  Verified that Expected value :[Unlimited] is matched with Actual value :[Unlimited]
+Dec 08,2016 18:04:31 [info]  Verify The data of 1
+Dec 08,2016 18:04:31 [info]  Verified that Expected value :[1] is matched with Actual value :[1]
+Dec 08,2016 18:04:31 [info]  Verify The data of 2
+Dec 08,2016 18:04:31 [info]  Verified that Expected value :[2] is matched with Actual value :[2]
+Dec 08,2016 18:04:31 [info]  Verify The data of 3
+Dec 08,2016 18:04:31 [info]  Verified that Expected value :[3] is matched with Actual value :[3]
+Dec 08,2016 18:04:31 [info]  Verify The data of 4
+Dec 08,2016 18:04:31 [info]  Verified that Expected value :[4] is matched with Actual value :[4]
+Dec 08,2016 18:04:32 [info]  Verify The data of 5
+Dec 08,2016 18:04:32 [info]  Verified that Expected value :[5] is matched with Actual value :[5]
+Dec 08,2016 18:04:32 [info]  Verify The data of 6
+Dec 08,2016 18:04:32 [info]  Verified that Expected value :[6] is matched with Actual value :[6]
+Dec 08,2016 18:04:32 [info]  Verify The data of 8
+Dec 08,2016 18:04:32 [info]  Verified that Expected value :[8] is matched with Actual value :[8]
+Dec 08,2016 18:04:32 [info]  Verify The data of 12
+Dec 08,2016 18:04:32 [info]  Verified that Expected value :[12] is matched with Actual value :[12]
+Dec 08,2016 18:04:32 [info]  Verify The data of 45
+Dec 08,2016 18:04:32 [info]  Verified that Expected value :[45] is matched with Actual value :[45]
+Dec 08,2016 18:04:32 [info]  Verify The data of 99
+Dec 08,2016 18:04:32 [info]  Verified that Expected value :[99] is matched with Actual value :[99]
+Dec 08,2016 18:04:33 [info]  Clicked on the 'Unlimited in Plays field'
+Dec 08,2016 18:04:34 [info]  Clicked on the 'Support Click'
+Dec 08,2016 18:04:34 [info]  Verify The data of Plays
+Dec 08,2016 18:04:34 [info]  Verified that Expected value :[Unlimited] is matched with Actual value :[Unlimited]
+Dec 08,2016 18:04:37 [info]  Day Type
+Dec 08,2016 18:04:38 [info]  Clicked on the 'Add Exhibition'
+Dec 08,2016 18:04:39 [info]  Clicked on the 'Add Exhibition Drop Down'
+Dec 08,2016 18:04:39 [info]  Verify The data of Same Network
+Dec 08,2016 18:04:39 [info]  Verified that Expected value :[Same Network] is matched with Actual value :[Same Network]
+Dec 08,2016 18:04:39 [info]  Verify The data of Across Networks
+Dec 08,2016 18:04:39 [info]  Verified that Expected value :[Across Networks] is matched with Actual value :[Across Networks]
+Dec 08,2016 18:04:39 [info]  Clicked on the 'Same Network in Add Exhibition field'
+Dec 08,2016 18:04:40 [info]  Verify The data of Add Exhibition
+Dec 08,2016 18:04:40 [info]  Verified that Expected value :[Same Network] is matched with Actual value :[Same Network]
+Dec 08,2016 18:04:40 [info]  Test 'TC4_SelectMediaRow_WhileDefiningExhRights' PASSED
+Dec 08,2016 18:04:41 [info]  Closed the Browser
+Dec 08,2016 18:04:59 [info]  ********************Started Executiong the Test Suite at 18:04:59******************
+Dec 08,2016 18:04:59 [info]  Client: AMCN
+Dec 08,2016 18:04:59 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Dec 08,2016 18:04:59 [info]  *********************Started Executing 'TC4_SelectMediaRow_WhileDefiningExhRights' Test Case*********************
+Dec 08,2016 18:05:16 [info]  Client: AMCN
+Dec 08,2016 18:05:16 [info]  URL: http://rlv2wb79/login.aspx
+Dec 08,2016 18:05:16 [info]  UserName: automation
+Dec 08,2016 18:05:16 [info]  Password: automation
+Dec 08,2016 18:05:16 [info]  Entered "automation" in field 'User Name'
+Dec 08,2016 18:05:16 [info]  Clicked on the 'Temporary Check Box'
+Dec 08,2016 18:05:16 [info]  Entered "automation" in field 'Password'
+Dec 08,2016 18:05:23 [info]  Clicked on the 'LoginButton'
+Dec 08,2016 18:05:30 [info]  Double clicked on 'AUT_Deal_TC1_1207201624633Deal'
+Dec 08,2016 18:05:37 [info]  Clicked on the 'Exhibition Rights TAB'
+Dec 08,2016 18:05:39 [info]  Clicked on the ''Edit' Button at Media Rights TAB' using JS Executor
+Dec 08,2016 18:05:39 [info]  
+Dec 08,2016 18:05:39 [info]  Add Button >> Verify Media Rights's rows >> verify Select Check Box is shown >> Verify Buttons
+Dec 08,2016 18:05:41 [info]  Clicked on the 'Add Button'
+Dec 08,2016 18:05:47 [info]  Clicked on the 'Select Check Box'
+Dec 08,2016 18:05:47 [info]  Clicked on the 'Add Button at Media rights Pop up Window'
+Dec 08,2016 18:05:53 [info]  Verify The data of Media Row Number
+Dec 08,2016 18:05:53 [info]  Verified that Expected value :[Media Row No] is matched with Actual value :[Media Row No]
+Dec 08,2016 18:05:53 [info]  Verify The data of Exhibit APPLIESTO
+Dec 08,2016 18:05:53 [info]  Verified that Expected value :[Applies To] is matched with Actual value :[Applies To]
+Dec 08,2016 18:05:54 [info]  Verify The data of UNLIMITED Header
+Dec 08,2016 18:05:54 [info]  Verified that Expected value :[Unlimited] is matched with Actual value :[Unlimited]
+Dec 08,2016 18:05:54 [info]  Verify The data of EXHIBIT DATE UPDATE Header
+Dec 08,2016 18:05:54 [info]  Verified that Expected value :[Update] is matched with Actual value :[*Update]
+Dec 08,2016 18:05:54 [info]  Verify The data of EXHIBITION_DAYSHeader
+Dec 08,2016 18:05:54 [info]  Verified that Expected value :[Exhib.Days] is matched with Actual value :[Exhib.Days]
+Dec 08,2016 18:05:54 [info]  Verify The data of RESERVED_EXHIBITION Header
+Dec 08,2016 18:05:54 [info]  Verified that Expected value :[Reserved Exhibitions] is matched with Actual value :[Reserved Exhibitions]
+Dec 08,2016 18:05:54 [info]  Verify The data of POOLED Header
+Dec 08,2016 18:05:54 [info]  Verified that Expected value :[Pooled] is matched with Actual value :[Pooled]
+Dec 08,2016 18:05:54 [info]  Verify The data of EXHIBITIONDAYSCOPE_Header
+Dec 08,2016 18:05:54 [info]  Verified that Expected value :[Exhib.Day Scope] is matched with Actual value :[*Exhib.Day Scope]
+Dec 08,2016 18:05:54 [info]  Verify The data of STARTDATE Header
+Dec 08,2016 18:05:54 [info]  Verified that Expected value :[Start Date] is matched with Actual value :[Start Date]
+Dec 08,2016 18:05:54 [info]  Verify The data of ENDDATEHeader
+Dec 08,2016 18:05:54 [info]  Verified that Expected value :[End Date] is matched with Actual value :[End Date]
+Dec 08,2016 18:05:54 [info]  Verify The data of ExhibitBUSINESS_TERMSHeader
+Dec 08,2016 18:05:54 [info]  Verified that Expected value :[Notes] is matched with Actual value :[Notes]
+Dec 08,2016 18:05:54 [info]  
+Dec 08,2016 18:05:54 [info]  Verifying the headers of Child Row in Edit Mode
+Dec 08,2016 18:05:54 [info]  Verify The data of WINDOWNAME
+Dec 08,2016 18:05:54 [info]  Verified that Expected value :[*Window Name] is matched with Actual value :[*Window Name]
+Dec 08,2016 18:05:54 [info]  Verify The data of WINDOW_TYPE Header
+Dec 08,2016 18:05:54 [info]  Verified that Expected value :[*Window Type] is matched with Actual value :[*Window Type]
+Dec 08,2016 18:05:54 [info]  Verify The data of RIGHTSTYPE UPDATE Header
+Dec 08,2016 18:05:54 [info]  Verified that Expected value :[*Rights Type] is matched with Actual value :[*Rights Type]
+Dec 08,2016 18:05:54 [info]  Verify The data of EXHIBITION_DAYSHeader
+Dec 08,2016 18:05:54 [info]  Verified that Expected value :[Exhib.Days] is matched with Actual value :[Exhib.Days]
+Dec 08,2016 18:05:55 [info]  Verify The data of POOLED Header
+Dec 08,2016 18:05:55 [info]  Verified that Expected value :[Pooled] is matched with Actual value :[Pooled]
+Dec 08,2016 18:05:55 [info]  Verify The data of STARTDATECHILD_Header
+Dec 08,2016 18:05:55 [info]  Verified that Expected value :[*Start Date] is matched with Actual value :[*Start Date]
+Dec 08,2016 18:05:55 [info]  Verify The data of ENDDATECHILD Header
+Dec 08,2016 18:05:55 [info]  Verified that Expected value :[*End Date] is matched with Actual value :[*End Date]
+Dec 08,2016 18:05:55 [info]  Verify The data of NETWORK_SUMMARY Header
+Dec 08,2016 18:05:55 [info]  Verified that Expected value :[*Exhib.Network] is matched with Actual value :[*Exhib.Network]
+Dec 08,2016 18:05:55 [info]  Verify The data of TERRITORY_TERMSHeader
+Dec 08,2016 18:05:55 [info]  Verified that Expected value :[Territory] is matched with Actual value :[Territory]
+Dec 08,2016 18:05:55 [info]  Verify The data of EXHIBITIONDAYTYPE_Header
+Dec 08,2016 18:05:55 [info]  Verified that Expected value :[Day Type] is matched with Actual value :[Day Type]
+Dec 08,2016 18:05:55 [info]  Verify The data of EXHIBITIONDAYPERIOD Header
+Dec 08,2016 18:05:55 [info]  Verified that Expected value :[*Day Period] is matched with Actual value :[*Day Period]
+Dec 08,2016 18:05:55 [info]  Verify The data of PLAYSPEREXHIBITION Header
+Dec 08,2016 18:05:55 [info]  Verified that Expected value :[*Plays] is matched with Actual value :[*Plays]
+Dec 08,2016 18:05:55 [info]  Verify The data of ADDLNETWORKUSAGE_Header
+Dec 08,2016 18:05:55 [info]  Verified that Expected value :[Addl.Exhib.Restrictions] is matched with Actual value :[Addl.Exhib.Restrictions]
+Dec 08,2016 18:05:55 [info]  Verify The data of RID_RATING_TERMSHeader
+Dec 08,2016 18:05:55 [info]  Verified that Expected value :[Evaluation] is matched with Actual value :[Evaluation]
+Dec 08,2016 18:05:55 [info]  Verify the default data of Parent Row
+Dec 08,2016 18:05:55 [info]  Verify The data of Applies to
+Dec 08,2016 18:05:55 [info]  Verified that Expected value :[All] is matched with Actual value :[All]
+Dec 08,2016 18:05:55 [info]  Verify The data of Applies to
+Dec 08,2016 18:05:55 [info]  Verified that Expected value :[Automatic] is matched with Actual value :[Automatic]
+Dec 08,2016 18:05:56 [info]  Verify The data of STARTDATE
+Dec 08,2016 18:05:56 [info]  Verified that Expected value :[01/01/2007] is matched with Actual value :[01/01/2007]
+Dec 08,2016 18:05:56 [info]  Verify The data of ENDDATE
+Dec 08,2016 18:05:56 [info]  Verified that Expected value :[12/31/2008] is matched with Actual value :[12/31/2008]
+Dec 08,2016 18:05:56 [info]  Verify The data of UNLIMITED Check box
+Dec 08,2016 18:05:56 [info]  Verified that Expected value :[Checked] is matched with Actual value :[Checked]
+Dec 08,2016 18:05:56 [info]  Verify The data of POOLED Check box
+Dec 08,2016 18:05:56 [info]  Verified that Expected value :[Checked] is matched with Actual value :[Checked]
+Dec 08,2016 18:05:56 [info]  Verify the default data of Child Row
+Dec 08,2016 18:05:56 [info]  Verify The data of Window Type
+Dec 08,2016 18:05:56 [info]  Verified that Expected value :[Primary] is matched with Actual value :[Primary]
+Dec 08,2016 18:05:56 [info]  Verify The data of Start Date Child
+Dec 08,2016 18:05:56 [info]  Verified that Expected value :[01/01/2007] is matched with Actual value :[01/01/2007]
+Dec 08,2016 18:05:56 [info]  Verify The data of End Date Child
+Dec 08,2016 18:05:56 [info]  Verified that Expected value :[12/31/2008] is matched with Actual value :[12/31/2008]
+Dec 08,2016 18:05:56 [info]  Verify The data of PLAYS
+Dec 08,2016 18:05:56 [info]  Verified that Expected value :[Unlimited] is matched with Actual value :[Unlimited]
+Dec 08,2016 18:05:57 [info]  Verify The data of Day Type
+Dec 08,2016 18:05:57 [info]  Verified that Expected value :[Consecutive Period] is matched with Actual value :[Consecutive Period]
+Dec 08,2016 18:05:57 [info]  Verify The data of Day Period
+Dec 08,2016 18:05:57 [info]  Verified that Expected value :[24 HR] is matched with Actual value :[24 HR]
+Dec 08,2016 18:05:57 [info]  Verify The data of Add Exhibition
+Dec 08,2016 18:05:57 [info]  Verified that Expected value :[Same Network] is matched with Actual value :[Same Network]
+Dec 08,2016 18:05:57 [info]  Clicked on the ''Save' Button at Exhibition Rights Edit window' using JS Executor
+Dec 08,2016 18:06:02 [info]  Verified that Expected value :[Please enter values for required (*) fields.] is matched with Actual value :[Please enter values for required (*) fields.]
+Dec 08,2016 18:06:02 [info]  Clicked on the 'Exhibition Day Scope Field'
+Dec 08,2016 18:06:03 [info]  Clicked on the 'Exhibition Day Scope Drop Down'
+Dec 08,2016 18:06:03 [info]  Verify The data of Series
+Dec 08,2016 18:06:03 [info]  Verified that Expected value :[Series] is matched with Actual value :[Series]
+Dec 08,2016 18:06:03 [info]  Verify The data of Season
+Dec 08,2016 18:06:03 [info]  Verified that Expected value :[Season] is matched with Actual value :[Season]
+Dec 08,2016 18:06:03 [info]  Verify The data of Episode
+Dec 08,2016 18:06:03 [info]  Verified that Expected value :[Episode] is matched with Actual value :[Episode]
+Dec 08,2016 18:06:03 [info]  Verify The data of Asset
+Dec 08,2016 18:06:03 [info]  Verified that Expected value :[Asset] is matched with Actual value :[Asset]
+Dec 08,2016 18:06:03 [info]  Clicked on the ''Series' in Exhi Scope field'
+Dec 08,2016 18:06:03 [info]  Clicked on the 'Support Click'
+Dec 08,2016 18:06:03 [info]  Verify The data of ExhiScope
+Dec 08,2016 18:06:03 [info]  Verified that Expected value :[Series] is matched with Actual value :[Series]
+Dec 08,2016 18:06:03 [info]  Clicked on the 'Window Name Field'
+Dec 08,2016 18:06:04 [info]  Entered "RSG Window" in field 'Win Name'
+Dec 08,2016 18:06:04 [info]  Clicked on the 'Support Click'
+Dec 08,2016 18:06:04 [info]  Open Rights Type window and check Linear Check Box
+Dec 08,2016 18:06:04 [info]  Clicked on the 'Window Name Field'
+Dec 08,2016 18:06:05 [info]  "Check Box Linear" is Present
+Dec 08,2016 18:06:05 [info]  "Check Box Non-Linear" is Present
+Dec 08,2016 18:06:05 [info]  Clicked on the 'Check box Linear'
+Dec 08,2016 18:06:05 [info]  "Linear Check box is checked" is Present
+Dec 08,2016 18:06:05 [info]  Clicked on the 'Apply Button at RIGHTSTYPE_POPUP'
+Dec 08,2016 18:06:07 [info]  Verify The data of Linear
+Dec 08,2016 18:06:07 [info]  Verified that Expected value :[Linear] is matched with Actual value :[Linear]
+Dec 08,2016 18:06:07 [info]  Day Type
+Dec 08,2016 18:06:07 [info]  Clicked on the 'Day Type Field'
+Dec 08,2016 18:06:07 [info]  Clicked on the 'DAYS Type Drop Down'
+Dec 08,2016 18:06:07 [info]  Verify The data of Consecutive Period
+Dec 08,2016 18:06:07 [info]  Verified that Expected value :[Consecutive Period] is matched with Actual value :[Consecutive Period]
+Dec 08,2016 18:06:07 [info]  Verify The data of Programming Day
+Dec 08,2016 18:06:07 [info]  Verified that Expected value :[Programming Day] is matched with Actual value :[Programming Day]
+Dec 08,2016 18:06:07 [info]  Clicked on the 'Consecutive Period in Exhi Days Type field'
+Dec 08,2016 18:06:07 [info]  Clicked on the 'Support Click'
+Dec 08,2016 18:06:08 [info]  Verify The data of Day Type
+Dec 08,2016 18:06:08 [info]  Verified that Expected value :[Consecutive Period] is matched with Actual value :[Consecutive Period]
+Dec 08,2016 18:06:08 [info]  Day Period
+Dec 08,2016 18:06:08 [info]  Clicked on the 'Day Period Field'
+Dec 08,2016 18:06:08 [info]  Clicked on the 'DAYS Period Drop Down'
+Dec 08,2016 18:06:08 [info]  Verify The data of 24 HR
+Dec 08,2016 18:06:08 [info]  Verified that Expected value :[24 HR] is matched with Actual value :[24 HR]
+Dec 08,2016 18:06:08 [info]  Verify The data of 12
+Dec 08,2016 18:06:08 [info]  Verified that Expected value :[12] is matched with Actual value :[12]
+Dec 08,2016 18:06:08 [info]  Verify The data of 7 Days
+Dec 08,2016 18:06:08 [info]  Verified that Expected value :[7 Days] is matched with Actual value :[7 Days]
+Dec 08,2016 18:06:08 [info]  Verify The data of 14 Days
+Dec 08,2016 18:06:08 [info]  Verified that Expected value :[14 Days] is matched with Actual value :[14 Days]
+Dec 08,2016 18:06:08 [info]  Clicked on the '24 HR in Day Period field'
+Dec 08,2016 18:06:09 [info]  Clicked on the 'Support Click'
+Dec 08,2016 18:06:09 [info]  Verify The data of Day Period
+Dec 08,2016 18:06:09 [info]  Verified that Expected value :[24 HR] is matched with Actual value :[24 HR]
+Dec 08,2016 18:06:09 [info]  Day Type
+Dec 08,2016 18:06:09 [info]  Clicked on the 'Plays Field'
+Dec 08,2016 18:06:09 [info]  Clicked on the 'Plays Drop Down'
+Dec 08,2016 18:06:10 [info]  Verify The data of Unlimited
+Dec 08,2016 18:06:10 [info]  Verified that Expected value :[Unlimited] is matched with Actual value :[Unlimited]
+Dec 08,2016 18:06:10 [info]  Verify The data of 1
+Dec 08,2016 18:06:10 [info]  Verified that Expected value :[1] is matched with Actual value :[1]
+Dec 08,2016 18:06:10 [info]  Verify The data of 2
+Dec 08,2016 18:06:10 [info]  Verified that Expected value :[2] is matched with Actual value :[2]
+Dec 08,2016 18:06:10 [info]  Verify The data of 3
+Dec 08,2016 18:06:10 [info]  Verified that Expected value :[3] is matched with Actual value :[3]
+Dec 08,2016 18:06:10 [info]  Verify The data of 4
+Dec 08,2016 18:06:10 [info]  Verified that Expected value :[4] is matched with Actual value :[4]
+Dec 08,2016 18:06:10 [info]  Verify The data of 5
+Dec 08,2016 18:06:10 [info]  Verified that Expected value :[5] is matched with Actual value :[5]
+Dec 08,2016 18:06:10 [info]  Verify The data of 6
+Dec 08,2016 18:06:10 [info]  Verified that Expected value :[6] is matched with Actual value :[6]
+Dec 08,2016 18:06:10 [info]  Verify The data of 8
+Dec 08,2016 18:06:10 [info]  Verified that Expected value :[8] is matched with Actual value :[8]
+Dec 08,2016 18:06:10 [info]  Verify The data of 12
+Dec 08,2016 18:06:10 [info]  Verified that Expected value :[12] is matched with Actual value :[12]
+Dec 08,2016 18:06:10 [info]  Verify The data of 45
+Dec 08,2016 18:06:10 [info]  Verified that Expected value :[45] is matched with Actual value :[45]
+Dec 08,2016 18:06:10 [info]  Verify The data of 99
+Dec 08,2016 18:06:10 [info]  Verified that Expected value :[99] is matched with Actual value :[99]
+Dec 08,2016 18:06:10 [info]  Clicked on the 'Unlimited in Plays field'
+Dec 08,2016 18:06:10 [info]  Clicked on the 'Support Click'
+Dec 08,2016 18:06:11 [info]  Verify The data of Plays
+Dec 08,2016 18:06:11 [info]  Verified that Expected value :[Unlimited] is matched with Actual value :[Unlimited]
+Dec 08,2016 18:06:14 [info]  Day Type
+Dec 08,2016 18:06:14 [info]  Clicked on the 'Add Exhibition'
+Dec 08,2016 18:06:14 [info]  Clicked on the 'Add Exhibition Drop Down'
+Dec 08,2016 18:06:14 [info]  Verify The data of Same Network
+Dec 08,2016 18:06:14 [info]  Verified that Expected value :[Same Network] is matched with Actual value :[Same Network]
+Dec 08,2016 18:06:14 [info]  Verify The data of Across Networks
+Dec 08,2016 18:06:14 [info]  Verified that Expected value :[Across Networks] is matched with Actual value :[Across Networks]
+Dec 08,2016 18:06:15 [info]  Clicked on the 'Same Network in Add Exhibition field'
+Dec 08,2016 18:06:15 [info]  Verify The data of Add Exhibition
+Dec 08,2016 18:06:15 [info]  Verified that Expected value :[Same Network] is matched with Actual value :[Same Network]
+Dec 08,2016 18:06:15 [info]  Test 'TC4_SelectMediaRow_WhileDefiningExhRights' PASSED
+Dec 08,2016 18:06:16 [info]  Closed the Browser

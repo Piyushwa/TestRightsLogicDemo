@@ -1,0 +1,1681 @@
+Mar 23,2017 00:00:05 [Info]  Clicked on the 'MODULE'
+Mar 23,2017 00:00:14 [Info]  Clicked on the 'Title Maintenance'
+Mar 23,2017 00:00:25 [Info]  Double clicked on 'AUT_AssetSeries_03222017115107AssetName'
+Mar 23,2017 00:00:40 [Info]  Clicked on the 'Episodes TAB'
+<span style="color:blue;"> [Manual Test Step]  *****************The below are buttons in the window*****************</span>
+Mar 23,2017 00:00:41 [Info]  Verify The data of EditEpisodes Button
+<span style="color:green;">Mar 23,2017 00:00:41 [Verification]  Verified that Expected value :[Edit Episode] is matched with Actual value :[Edit Episode]</span>
+Mar 23,2017 00:00:41 [Info]  Verify The data of Edit button
+<span style="color:green;">Mar 23,2017 00:00:41 [Verification]  Verified that Expected value :[Edit] is matched with Actual value :[Edit...]</span>
+Mar 23,2017 00:00:41 [Info]  Clicked on the ''Edit' Button at Episode window' using JS Executor
+Mar 23,2017 00:00:44 [Info]  Clicked on the ''ClearFilter' at Episode window' using JS Executor
+Mar 23,2017 00:00:47 [Info]  *****Copy Episode : Multiple select using Ctrl Key******
+Mar 23,2017 00:00:51 [Info]  Clicked on the 'first Row'
+Mar 23,2017 00:00:52 [Info]  Double clicked on 'first Row'
+Mar 23,2017 00:00:55 [Info]  Clicked on the 'Second Row'
+Mar 23,2017 00:00:55 [Info]  Clicked on the 'Episodes_CopySeason' using JS Executor
+<span style="color:blue;"> [Manual Test Step]  ********Validation mesage*************</span>
+Mar 23,2017 00:00:58 [Info]  Verify The data of Alert Message While Copying season after selecting multiple Episodes
+<span style="color:red;">Mar 23,2017 00:00:58 [Fail]  ====Failed==== Expected value is:[Please select a single Season before attempting to click on the Copy Season button.] but Actual value is[]. Please check the screenshot with name: Alert Message While Copying season after selecting multiple Episodesfor more details</span>
+Mar 23,2017 00:01:21 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\23\AlertMessageWhileCopyingseasonafterselectingmultipleEpisodes_CheckpointFailure_03-23-2017 12-00-58 AM.jpg
+Mar 23,2017 00:01:22 [Info]  Clicked on the 'OK Button at Alert While deleting the Episode' using JS Executor
+Mar 23,2017 00:01:22 [Info]  Clicked on the 'Save Button at 'Episode Edit Window'' using JS Executor
+<span style="color:blue;"> [Manual Test Step]  *******Select the Episode and Copy Season**********</span>
+Mar 23,2017 00:01:29 [Info]  Test 'TC6_EpisodeCopySeason' PASSED
+Mar 23,2017 00:01:34 [Info]  Closed the Browser
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 09:37:06******************</span>
+Mar 23,2017 09:37:06 [Info]  Client: SKY
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************</span>
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing 'TC6_EpisodeCopySeason' Test Case*********************</span>
+Mar 23,2017 09:37:17 [Info]  Client: SKY
+Mar 23,2017 09:37:17 [Info]  URL: http://rlv2wb85/Home.aspx
+Mar 23,2017 09:37:17 [Info]  UserName: admin
+Mar 23,2017 09:37:17 [Info]  Password: admin
+Mar 23,2017 09:37:18 [Info]  Entered "admin" in field 'User Name'
+Mar 23,2017 09:37:19 [Info]  Clicked on the 'Temporary Check Box'
+Mar 23,2017 09:37:19 [Info]  Entered "admin" in field 'Password'
+Mar 23,2017 09:37:30 [Info]  Clicked on the 'LoginButton'
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 09:37:57******************</span>
+Mar 23,2017 09:37:57 [Info]  Client: SKY
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************</span>
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing 'TC6_EpisodeCopySeason' Test Case*********************</span>
+Mar 23,2017 09:38:07 [Info]  Client: SKY
+Mar 23,2017 09:38:07 [Info]  URL: http://rlv2wb85/Home.aspx
+Mar 23,2017 09:38:07 [Info]  UserName: admin
+Mar 23,2017 09:38:07 [Info]  Password: admin
+Mar 23,2017 09:38:08 [Info]  Entered "admin" in field 'User Name'
+Mar 23,2017 09:38:09 [Info]  Clicked on the 'Temporary Check Box'
+Mar 23,2017 09:38:09 [Info]  Entered "admin" in field 'Password'
+Mar 23,2017 09:38:22 [Info]  Clicked on the 'LoginButton'
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 09:38:52******************</span>
+Mar 23,2017 09:38:52 [Info]  Client: SKY
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************</span>
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing 'TC6_EpisodeCopySeason' Test Case*********************</span>
+Mar 23,2017 09:39:02 [Info]  Client: SKY
+Mar 23,2017 09:39:02 [Info]  URL: http://rlv2wb85/Home.aspx
+Mar 23,2017 09:39:02 [Info]  UserName: admin
+Mar 23,2017 09:39:02 [Info]  Password: admin
+Mar 23,2017 09:39:03 [Info]  Entered "admin" in field 'User Name'
+Mar 23,2017 09:39:04 [Info]  Clicked on the 'Temporary Check Box'
+Mar 23,2017 09:39:04 [Info]  Entered "admin" in field 'Password'
+Mar 23,2017 09:39:20 [Info]  Clicked on the 'LoginButton'
+Mar 23,2017 09:39:37 [Info]  Clicked on the 'MODULE'
+Mar 23,2017 09:39:46 [Info]  Clicked on the 'Title Maintenance'
+Mar 23,2017 09:39:57 [Info]  Double clicked on 'AUT_AssetSeries_03222017115107AssetName'
+Mar 23,2017 09:40:06 [Info]  Clicked on the 'Episodes TAB'
+<span style="color:blue;"> [Manual Test Step]  *****************The below are buttons in the window*****************</span>
+Mar 23,2017 09:40:07 [Info]  Verify The data of EditEpisodes Button
+<span style="color:green;">Mar 23,2017 09:40:07 [Verification]  Verified that Expected value :[Edit Episode] is matched with Actual value :[Edit Episode]</span>
+Mar 23,2017 09:40:07 [Info]  Verify The data of Edit button
+<span style="color:green;">Mar 23,2017 09:40:07 [Verification]  Verified that Expected value :[Edit] is matched with Actual value :[Edit...]</span>
+Mar 23,2017 09:40:07 [Info]  Clicked on the ''Edit' Button at Episode window' using JS Executor
+Mar 23,2017 09:40:11 [Info]  Clicked on the ''ClearFilter' at Episode window' using JS Executor
+Mar 23,2017 09:40:15 [Info]  
+<span style="color:blue;"> [Manual Test Step]  Manual Test Step: TC_2.5_Episode Tab_1</span>
+Mar 23,2017 09:40:15 [Info]  *****Copy Episode : Multiple select using Ctrl Key	- Episodes****
+Mar 23,2017 09:40:15 [Info]  *****Copy Episode : Multiple select using Ctrl Key******
+Mar 23,2017 09:40:17 [Info]  Clicked on the 'first Row'
+Mar 23,2017 09:40:18 [Info]  Double clicked on 'first Row'
+Mar 23,2017 09:40:21 [Info]  Clicked on the 'Second Row'
+Mar 23,2017 09:40:22 [Info]  Clicked on the 'Episodes_CopySeason' using JS Executor
+Mar 23,2017 09:40:22 [Info]  Verify The data of Alert Message While Copying season after selecting multiple Episodes
+<span style="color:green;">Mar 23,2017 09:40:22 [Verification]  Verified that Expected value :[Please select a single Season before attempting to click on the Copy Season button.] is matched with Actual value :[  RightsLogic Alert  
+    Please select a single Season before attempting to click on the Copy Season button.
+       ]</span>
+Mar 23,2017 09:40:23 [Info]  Clicked on the 'OK Button at Alert While deleting the Episode' using JS Executor
+Mar 23,2017 09:40:23 [Info]  Clicked on the 'Save Button at 'Episode Edit Window'' using JS Executor
+Mar 23,2017 09:40:29 [Info]  Test 'TC6_EpisodeCopySeason' PASSED
+Mar 23,2017 09:40:30 [Info]  Closed the Browser
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 10:23:19******************</span>
+Mar 23,2017 10:23:19 [Info]  Client: SKY
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************</span>
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing 'TC8_EpisodeUpdateTool' Test Case*********************</span>
+Mar 23,2017 10:23:29 [Info]  Client: SKY
+Mar 23,2017 10:23:29 [Info]  URL: http://rlv2wb85/Home.aspx
+Mar 23,2017 10:23:29 [Info]  UserName: admin
+Mar 23,2017 10:23:29 [Info]  Password: admin
+Mar 23,2017 10:23:30 [Info]  Entered "admin" in field 'User Name'
+Mar 23,2017 10:23:30 [Info]  Clicked on the 'Temporary Check Box'
+Mar 23,2017 10:23:31 [Info]  Entered "admin" in field 'Password'
+Mar 23,2017 10:23:34 [Info]  Clicked on the 'LoginButton'
+<span style="color:blue;"> [Manual Test Step]  ************************Started Creating Asset of Type: Program - Series************************</span>
+Mar 23,2017 10:24:30 [Info]  Clicked on the 'MODULE'
+Mar 23,2017 10:24:38 [Info]  Clicked on the 'Title Maintenance'
+Mar 23,2017 10:24:49 [Info]  Clicked on the 'New Button' using JS Executor
+Mar 23,2017 10:24:49 [Info]  Clicked on the 'Program' using JS Executor
+Mar 23,2017 10:25:03 [Info]  Clicked on the 'General TAB'
+Mar 23,2017 10:25:05 [Info]  Selected "Program - Series" in "AssetTypeDropDown" drop down
+Mar 23,2017 10:25:17 [Info]  Entered "AUT_AssetSeries_03232017102340" in field 'AssetTitle'
+Mar 23,2017 10:25:18 [Info]  Clicked on the 'SBUImage' using JS Executor
+Mar 23,2017 10:25:19 [Info]  Verify The data of SBU Window/Owner Channel Header
+<span style="color:green;">Mar 23,2017 10:25:19 [Verification]  Verified that Expected value :[Source Business Unit Template] is matched with Actual value :[Source Business Unit Template]</span>
+Mar 23,2017 10:25:26 [Info]  Clicked on the 'First CheckBox At SBU window'
+Mar 23,2017 10:25:28 [Info]  Clicked on the 'Apply Button' using JS Executor
+Mar 23,2017 10:25:29 [Info]  Entered "11:11:11" in field 'Duration'
+Mar 23,2017 10:25:40 [Info]  Selected "Active" in "Asset Status" drop down
+Mar 23,2017 10:25:40 [Info]  Selected "Event" in "Asset Format" drop down
+Mar 23,2017 10:25:41 [Info]  Selected "License Acquired" in "Asset Source" drop down
+Mar 23,2017 10:25:42 [Info]  Entered "AUT_Series" in field 'Short Name'
+Mar 23,2017 10:25:42 [Info]  Clicked on the 'Save Button' using JS Executor
+Mar 23,2017 10:26:31 [Info]  Verify The data of Created AssetAUT_AssetSeries_03232017102340
+<span style="color:green;">Mar 23,2017 10:26:31 [Verification]  Verified that Expected value :[AUT_AssetSeries_03232017102340] is matched with Actual value :[AUT_AssetSeries_03232017102340]</span>
+<span style="color:blue;"> [Manual Test Step]  ************************Created Asset of TypeProgram - Series************************</span>
+Mar 23,2017 10:26:42 [Info]  Clicked on the 'MODULE'
+Mar 23,2017 10:26:50 [Info]  Clicked on the 'Title Maintenance'
+Mar 23,2017 10:27:01 [Info]  Double clicked on 'AUT_AssetSeries_03232017102340AssetName'
+Mar 23,2017 10:27:09 [Info]  Clicked on the 'Episodes TAB'
+<span style="color:blue;"> [Manual Test Step]  *****************The below are buttons in the window*****************</span>
+Mar 23,2017 10:27:09 [Info]  Verify The data of EditEpisodes Button
+<span style="color:green;">Mar 23,2017 10:27:09 [Verification]  Verified that Expected value :[Edit Episode] is matched with Actual value :[Edit Episode]</span>
+Mar 23,2017 10:27:09 [Info]  Verify The data of Edit button
+<span style="color:green;">Mar 23,2017 10:27:09 [Verification]  Verified that Expected value :[Edit] is matched with Actual value :[Edit...]</span>
+Mar 23,2017 10:27:09 [Info]  Clicked on the ''Edit' Button at Episode window' using JS Executor
+Mar 23,2017 10:27:13 [Info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Mar 23,2017 10:27:13 [Info]  
+<span style="color:blue;"> [Manual Test Step]  Manual Test Step: TC_2.5_Episode Tab_5</span>
+Mar 23,2017 10:27:13 [Info]  *****Create 1-5 Episodes and Select Season1****
+Mar 23,2017 10:27:14 [Info]  Entered "1-5" in field 'Add Episode input field'
+Mar 23,2017 10:27:14 [Info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Mar 23,2017 10:27:17 [Info]  Clicked on the 'Season Field of Episode001' using JS Executor
+Mar 23,2017 10:27:17 [Info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Mar 23,2017 10:27:18 [Info]  Clicked on the 'Season 1'
+Mar 23,2017 10:27:18 [Info]  Clicked on the 'Support click to select season'
+Mar 23,2017 10:27:21 [Info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Mar 23,2017 10:27:21 [Info]  
+<span style="color:blue;"> [Manual Test Step]  Manual Test Step: TC_2.5_Episode Tab_5</span>
+<span style="color:blue;"> [Manual Test Step]  **********Create 6-10 Episodes and Select Season2*********</span>
+Mar 23,2017 10:27:22 [Info]  Entered "6-10" in field 'Add Episode input field'
+Mar 23,2017 10:27:22 [Info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Mar 23,2017 10:27:26 [Info]  Clicked on the 'Season Field of Episode006' using JS Executor
+Mar 23,2017 10:27:26 [Info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Mar 23,2017 10:27:27 [Info]  Clicked on the 'Season 2'
+Mar 23,2017 10:27:27 [Info]  Clicked on the 'Support click to select season'
+Mar 23,2017 10:27:31 [Info]  Clicked on the 'Select 1st Row'
+Mar 23,2017 10:27:31 [Info]  
+<span style="color:blue;"> [Manual Test Step]  Manual Test Step: TC_2.5_Episode Tab_12</span>
+<span style="color:blue;"> [Manual Test Step]  **********Copy TBA value for all episodes of the selected Season*********</span>
+Mar 23,2017 10:27:42 [Info]  Clicked on the 'TBA Check Box'
+Mar 23,2017 10:27:45 [Info]  Clicked on the 'Update Tool' using JS Executor
+Mar 23,2017 10:27:46 [Info]  Verify The data of Episodes_UpdateTool_TBAValueCheckBox
+<span style="color:green;">Mar 23,2017 10:27:46 [Verification]  Verified that Expected value :[Copy TBA value to all episodes displayed below the selected episode] is matched with Actual value :[Copy TBA value to all episodes displayed below the selected episode]</span>
+Mar 23,2017 10:27:46 [Info]  Verify The data of Episodes_UpdateTool_SeasonCheckBox
+<span style="color:green;">Mar 23,2017 10:27:46 [Verification]  Verified that Expected value :[Copy Season value to all episodes displayed below the selected episode] is matched with Actual value :[Copy Season value to all episodes displayed below the selected episode]</span>
+Mar 23,2017 10:27:46 [Info]  Verify The data of Episodes_UpdateTool_DurationValueCheckBox
+<span style="color:green;">Mar 23,2017 10:27:46 [Verification]  Verified that Expected value :[Copy Duration value to all episodes displayed below the selected episode] is matched with Actual value :[Copy Duration value to all episodes displayed below the selected episode]</span>
+Mar 23,2017 10:27:46 [Info]  Verify The data of Episodes_UpdateTool_UpdateEpisodeTitle
+<span style="color:green;">Mar 23,2017 10:27:46 [Verification]  Verified that Expected value :[Update Episode Title] is matched with Actual value :[Update Episode Title]</span>
+Mar 23,2017 10:27:46 [Info]  Verify The data of Episodes_UpdateTool_TitleLabel
+<span style="color:green;">Mar 23,2017 10:27:46 [Verification]  Verified that Expected value :[Title] is matched with Actual value :[Title]</span>
+Mar 23,2017 10:27:46 [Info]  
+<span style="color:blue;"> [Manual Test Step]  **********Verifying the button on Update tool Pop - Up************</span>
+Mar 23,2017 10:27:47 [Info]  Verify The data of OK button
+<span style="color:green;">Mar 23,2017 10:27:47 [Verification]  Verified that Expected value :[OK] is matched with Actual value :[OK]</span>
+Mar 23,2017 10:27:47 [Info]  Verify The data of Cancel button
+<span style="color:green;">Mar 23,2017 10:27:47 [Verification]  Verified that Expected value :[Cancel] is matched with Actual value :[Cancel]</span>
+Mar 23,2017 10:27:47 [Info]  Clicked on the 'Episodes_UpdateTool_TBAValueCheckBox' using JS Executor
+Mar 23,2017 10:27:47 [Info]  Clicked on the 'OKButton' using JS Executor
+<span style="color:blue;"> [Manual Test Step]  **********Verify that TBA check box is check for all episodes Season 1 but not for Season 2*********</span>
+Mar 23,2017 10:27:48 [Info]  Verify The data of TBA Check Box for Episode1 of Seseaon1
+<span style="color:green;">Mar 23,2017 10:27:48 [Verification]  Verified that Expected value :[Checked] is matched with Actual value :[Checked]</span>
+Mar 23,2017 10:27:48 [Info]  Verify The data of TBA Check Box for Episode2 of Seseaon1
+<span style="color:green;">Mar 23,2017 10:27:48 [Verification]  Verified that Expected value :[Checked] is matched with Actual value :[Checked]</span>
+Mar 23,2017 10:27:48 [Info]  Verify The data of TBA Check Box for Episode6 of Seseaon2
+<span style="color:green;">Mar 23,2017 10:27:48 [Verification]  Verified that Expected value :[Checked] is matched with Actual value :[Checked]</span>
+Mar 23,2017 10:27:48 [Info]  Clicked on the 'Select 1st Row of Episode 1'
+Mar 23,2017 10:27:49 [Info]  Clicked on the 'Uncheck TBA of Episode 1'
+Mar 23,2017 10:27:49 [Info]  
+<span style="color:blue;"> [Manual Test Step]  Manual Test Step: TC_2.5_Episode Tab_14</span>
+Mar 23,2017 10:27:49 [Info]  Uncheck 'Copy TBA' check box for All Episodes of Season 1 at Update Tool and Verify that TBA is unchecked at Edit Episdoe Window
+Mar 23,2017 10:27:49 [Info]  Clicked on the 'Update Tool' using JS Executor
+Mar 23,2017 10:27:51 [Info]  Clicked on the 'Episodes_UpdateTool_TBAValueCheckBox' using JS Executor
+Mar 23,2017 10:27:51 [Info]  Clicked on the 'OKButton at Update tool Window' using JS Executor
+Mar 23,2017 10:27:51 [Info]  Verify The data of TBA Check Box for Episode1 of Seseaon1
+<span style="color:green;">Mar 23,2017 10:27:51 [Verification]  Verified that Expected value :[Unchecked] is matched with Actual value :[Unchecked]</span>
+Mar 23,2017 10:27:51 [Info]  Verify The data of TBA Check Box for Episode2 of Seseaon1
+<span style="color:green;">Mar 23,2017 10:27:51 [Verification]  Verified that Expected value :[Unchecked] is matched with Actual value :[Unchecked]</span>
+Mar 23,2017 10:27:52 [Info]  Verify The data of TBA Check Box for Episode6 of Seseaon2 is unchecked
+<span style="color:green;">Mar 23,2017 10:27:52 [Verification]  Verified that Expected value :[Unchecked] is matched with Actual value :[Unchecked]</span>
+Mar 23,2017 10:27:52 [Info]  
+<span style="color:blue;"> [Manual Test Step]  // Manual Test Step : TC_2.5_Episode Tab_18</span>
+Mar 23,2017 10:27:52 [Info]  Clicked on the 'Select 1st Row'
+Mar 23,2017 10:27:52 [Info]  Clicked on the 'Update Tool' using JS Executor
+Mar 23,2017 10:27:53 [Info]  Clicked on the 'Episodes_UpdateTool_UpdateEpisodeTitle'
+Mar 23,2017 10:27:57 [Info]  Entered "RSG" in field 'Episodes_UpdateTool_TitleField'
+Mar 23,2017 10:27:57 [Info]  Clicked on the 'OKButton at Update tool Window' using JS Executor
+Mar 23,2017 10:27:57 [Info]  
+<span style="color:blue;"> [Manual Test Step]  Manual Test Step : TC_2.5_Episode Tab_19</span>
+Mar 23,2017 10:27:57 [Info]  ******Change the Episode name of Season 1 from "Episode" to "RSG"******
+Mar 23,2017 10:27:58 [Info]  Verify The data of TBA Check Box for 1st Row
+<span style="color:green;">Mar 23,2017 10:27:58 [Verification]  Verified that Expected value :[RSG 001] is matched with Actual value :[RSG 001]</span>
+Mar 23,2017 10:27:58 [Info]  Verify The data of TBA Check Box for 6th Row
+<span style="color:green;">Mar 23,2017 10:27:58 [Verification]  Verified that Expected value :[RSG 006] is matched with Actual value :[RSG 006]</span>
+Mar 23,2017 10:27:58 [Info]  Clicked on the 'Save Button at 'Episode Edit Window'' using JS Executor
+Mar 23,2017 10:28:21 [Info]  Clicked on the 'Close Button at 'Episode Edit Window'' using JS Executor
+Mar 23,2017 10:29:08 [Info]  Test 'TC8_EpisodeUpdateTool' PASSED
+Mar 23,2017 10:29:09 [Info]  Closed the Browser
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 10:32:22******************</span>
+Mar 23,2017 10:32:22 [Info]  Client: SKY
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************</span>
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing 'TC7_SeasonFilters' Test Case*********************</span>
+Mar 23,2017 10:32:32 [Info]  Client: SKY
+Mar 23,2017 10:32:32 [Info]  URL: http://rlv2wb85/Home.aspx
+Mar 23,2017 10:32:32 [Info]  UserName: admin
+Mar 23,2017 10:32:32 [Info]  Password: admin
+Mar 23,2017 10:32:33 [Info]  Entered "admin" in field 'User Name'
+Mar 23,2017 10:32:33 [Info]  Clicked on the 'Temporary Check Box'
+Mar 23,2017 10:32:34 [Info]  Entered "admin" in field 'Password'
+Mar 23,2017 10:32:39 [Info]  Clicked on the 'LoginButton'
+<span style="color:blue;"> [Manual Test Step]  ************************Started Creating Asset of Type: Program - Series************************</span>
+<span style="color:red;">Mar 23,2017 10:32:55 [Fail]  ====Failed==== " Could not find the Frame: //div[@clientid='RL_SplitterPane_Navigation']</span>
+<span style="color:red;">Mar 23,2017 10:32:58 [Fail]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\23\FrameSwitchingFailed0_CheckpointFailure_03-23-2017 10-32-55 AM.jpg</span>
+Mar 23,2017 10:32:58 [Info]  Unable to find element with xpath == //div[@clientid='RL_SplitterPane_Navigation'] (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.24 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: '9P4G6BS', ip: '10.10.22.71', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=true, ie.forceCreateProcessApi=false, pageLoadStrategy=normal, ie.usePerProcessProxy=false, ignoreZoomSetting=false, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=false, browserName=internet explorer, initialBrowserUrl=http://localhost:14695/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=false, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: 5259e17b-b66a-49f8-a0ac-d654e4cc18ac
+*** Element info: {Using=xpath, value=//div[@clientid='RL_SplitterPane_Navigation']}
+<span style="color:red;">Mar 23,2017 10:33:18 [Fail]  ====Failed==== " Could not find the Frame: //div[@clientid='RL_SplitterPane_Navigation']</span>
+<span style="color:red;">Mar 23,2017 10:33:20 [Fail]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\23\FrameSwitchingFailed1_CheckpointFailure_03-23-2017 10-33-18 AM.jpg</span>
+Mar 23,2017 10:33:20 [Info]  Unable to find element with xpath == //div[@clientid='RL_SplitterPane_Navigation'] (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.19 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: '9P4G6BS', ip: '10.10.22.71', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=true, ie.forceCreateProcessApi=false, pageLoadStrategy=normal, ie.usePerProcessProxy=false, ignoreZoomSetting=false, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=false, browserName=internet explorer, initialBrowserUrl=http://localhost:14695/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=false, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: 5259e17b-b66a-49f8-a0ac-d654e4cc18ac
+*** Element info: {Using=xpath, value=//div[@clientid='RL_SplitterPane_Navigation']}
+<span style="color:red;">Mar 23,2017 10:33:31 [Fail]  ====Failed==== "MODULE" field is not present'</span>
+Mar 23,2017 10:33:33 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\23\MODULE_CheckpointFailure_03-23-2017 10-33-31 AM.jpg
+<span style="color:red;">Mar 23,2017 10:33:46 [Fail]  ====Failed==== "Title Maintenance" field is not present'</span>
+Mar 23,2017 10:33:48 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\23\TitleMaintenance_CheckpointFailure_03-23-2017 10-33-46 AM.jpg
+<span style="color:red;">Mar 23,2017 10:34:19 [Fail]  ====Failed==== " Could not find the Frame: //div[@clientid='RL_SplitterPane_Content']</span>
+<span style="color:red;">Mar 23,2017 10:34:21 [Fail]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\23\FrameSwitchingFailed2_CheckpointFailure_03-23-2017 10-34-19 AM.jpg</span>
+Mar 23,2017 10:34:21 [Info]  Unable to find element with xpath == //div[@clientid='RL_SplitterPane_Content'] (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.19 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: '9P4G6BS', ip: '10.10.22.71', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=true, ie.forceCreateProcessApi=false, pageLoadStrategy=normal, ie.usePerProcessProxy=false, ignoreZoomSetting=false, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=false, browserName=internet explorer, initialBrowserUrl=http://localhost:14695/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=false, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: 5259e17b-b66a-49f8-a0ac-d654e4cc18ac
+*** Element info: {Using=xpath, value=//div[@clientid='RL_SplitterPane_Content']}
+<span style="color:red;">Mar 23,2017 10:34:32 [Fail]  ====Failed==== " Could not find the Frame: //div[@clientid='RL_SplitterPane_Content']</span>
+<span style="color:red;">Mar 23,2017 10:34:34 [Fail]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\23\FrameSwitchingFailed3_CheckpointFailure_03-23-2017 10-34-32 AM.jpg</span>
+Mar 23,2017 10:34:34 [Info]  Unable to find element with xpath == //div[@clientid='RL_SplitterPane_Content'] (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.19 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: '9P4G6BS', ip: '10.10.22.71', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=true, ie.forceCreateProcessApi=false, pageLoadStrategy=normal, ie.usePerProcessProxy=false, ignoreZoomSetting=false, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=false, browserName=internet explorer, initialBrowserUrl=http://localhost:14695/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=false, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: 5259e17b-b66a-49f8-a0ac-d654e4cc18ac
+*** Element info: {Using=xpath, value=//div[@clientid='RL_SplitterPane_Content']}
+<span style="color:red;">Mar 23,2017 10:34:44 [Fail]  ====Failed==== "New Button" field is not present'</span>
+Mar 23,2017 10:34:46 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\23\NewButton_CheckpointFailure_03-23-2017 10-34-44 AM.jpg
+<span style="color:red;">Mar 23,2017 10:34:57 [Fail]  ====Failed==== "Program" field is not present'</span>
+Mar 23,2017 10:34:59 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\23\Program_CheckpointFailure_03-23-2017 10-34-57 AM.jpg
+<span style="color:red;">Mar 23,2017 10:35:17 [Fail]  ====Failed==== " Could not find the Frame: //div[@clientid='RL_SplitterPane_Content']</span>
+<span style="color:red;">Mar 23,2017 10:35:19 [Fail]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\23\FrameSwitchingFailed4_CheckpointFailure_03-23-2017 10-35-17 AM.jpg</span>
+Mar 23,2017 10:35:51 [Info]  Test 'TC7_SeasonFilters' FAILED
+Mar 23,2017 10:35:51 [Info]  2
+Mar 23,2017 10:35:53 [Info]  Test Case :TC7_SeasonFilters's Screenshot of Failure Page: 
+C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\23\TC7_SeasonFilters_03-23-2017 10-35-51 AM.jpg
+Mar 23,2017 10:35:54 [Info]  Closed the Browser
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 12:08:57******************</span>
+Mar 23,2017 12:08:57 [Info]  Client: SKY
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************</span>
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing 'TC7_SeasonFilters' Test Case*********************</span>
+Mar 23,2017 12:09:07 [Info]  Client: SKY
+Mar 23,2017 12:09:07 [Info]  URL: http://rlv2wb85/Home.aspx
+Mar 23,2017 12:09:07 [Info]  UserName: admin
+Mar 23,2017 12:09:07 [Info]  Password: admin
+Mar 23,2017 12:09:08 [Info]  Entered "admin" in field 'User Name'
+Mar 23,2017 12:09:08 [Info]  Clicked on the 'Temporary Check Box'
+Mar 23,2017 12:09:09 [Info]  Entered "admin" in field 'Password'
+Mar 23,2017 12:09:14 [Info]  Clicked on the 'LoginButton'
+Mar 23,2017 12:09:24 [Info]  Clicked on the 'Change Pssword Page Login Button'
+<span style="color:blue;"> [Manual Test Step]  ************************Started Creating Asset of Type: Program - Series************************</span>
+Mar 23,2017 12:09:42 [Info]  Clicked on the 'MODULE'
+Mar 23,2017 12:09:50 [Info]  Clicked on the 'Title Maintenance'
+Mar 23,2017 12:10:02 [Info]  Clicked on the 'New Button' using JS Executor
+Mar 23,2017 12:10:02 [Info]  Clicked on the 'Program' using JS Executor
+Mar 23,2017 12:10:23 [Info]  Clicked on the 'General TAB'
+Mar 23,2017 12:10:25 [Info]  Selected "Program - Series" in "AssetTypeDropDown" drop down
+Mar 23,2017 12:10:43 [Info]  Entered "AUT_AssetSeries_03232017120930" in field 'AssetTitle'
+Mar 23,2017 12:10:45 [Info]  Clicked on the 'SBUImage' using JS Executor
+Mar 23,2017 12:10:46 [Info]  Verify The data of SBU Window/Owner Channel Header
+<span style="color:green;">Mar 23,2017 12:10:46 [Verification]  Verified that Expected value :[Source Business Unit Template] is matched with Actual value :[Source Business Unit Template]</span>
+Mar 23,2017 12:10:53 [Info]  Clicked on the 'First CheckBox At SBU window'
+Mar 23,2017 12:10:55 [Info]  Clicked on the 'Apply Button' using JS Executor
+Mar 23,2017 12:10:56 [Info]  Entered "11:11:11" in field 'Duration'
+Mar 23,2017 12:11:07 [Info]  Selected "Active" in "Asset Status" drop down
+Mar 23,2017 12:11:07 [Info]  Selected "Event" in "Asset Format" drop down
+Mar 23,2017 12:11:07 [Info]  Selected "License Acquired" in "Asset Source" drop down
+Mar 23,2017 12:11:08 [Info]  Entered "AUT_Series" in field 'Short Name'
+Mar 23,2017 12:11:09 [Info]  Clicked on the 'Save Button' using JS Executor
+Mar 23,2017 12:11:29 [Info]  Verify The data of Created AssetAUT_AssetSeries_03232017120930
+<span style="color:green;">Mar 23,2017 12:11:29 [Verification]  Verified that Expected value :[AUT_AssetSeries_03232017120930] is matched with Actual value :[AUT_AssetSeries_03232017120930]</span>
+<span style="color:blue;"> [Manual Test Step]  ************************Created Asset of TypeProgram - Series************************</span>
+Mar 23,2017 12:11:40 [Info]  Clicked on the 'MODULE'
+Mar 23,2017 12:11:48 [Info]  Clicked on the 'Title Maintenance'
+Mar 23,2017 12:11:59 [Info]  Double clicked on 'AUT_AssetSeries_03232017120930AssetName'
+Mar 23,2017 12:12:06 [Info]  Clicked on the 'Episodes TAB'
+<span style="color:blue;"> [Manual Test Step]  *****************The below are buttons in the EditEpisodes Window*****************</span>
+Mar 23,2017 12:12:07 [Info]  Verify The data of EditEpisodes Button
+<span style="color:green;">Mar 23,2017 12:12:07 [Verification]  Verified that Expected value :[Edit Episode] is matched with Actual value :[Edit Episode]</span>
+Mar 23,2017 12:12:07 [Info]  Verify The data of Edit button
+<span style="color:green;">Mar 23,2017 12:12:07 [Verification]  Verified that Expected value :[Edit] is matched with Actual value :[Edit...]</span>
+Mar 23,2017 12:12:07 [Info]  Clicked on the ''Edit' Button at Episode window' using JS Executor
+Mar 23,2017 12:12:13 [Info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Mar 23,2017 12:12:13 [Info]  
+<span style="color:blue;"> [Manual Test Step]  Manual Test Step : TC_2.5_Episode Tab_6</span>
+Mar 23,2017 12:12:13 [Info]  create 1-300 Episodes and select Season 1 for All Episodes
+Mar 23,2017 12:12:13 [Info]  Entered "1-300" in field 'Add Episode input field'
+Mar 23,2017 12:12:14 [Info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+<span style="color:red;">Mar 23,2017 12:12:17 [Fail]  ====Failed==== "Season Field of Episode001" field is not present'</span>
+Mar 23,2017 12:12:29 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\23\SeasonFieldofEpisode001_CheckpointFailure_03-23-2017 12-12-17 PM.jpg
+<span style="color:red;">Mar 23,2017 12:12:29 [Fail]  ====Failed==== "Image Drop Down at 'Episode Edit Window'" field is not present'</span>
+Mar 23,2017 12:12:30 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\23\ImageDropDownat'EpisodeEditWindow'_CheckpointFailure_03-23-2017 12-12-29 PM.jpg
+<span style="color:red;">Mar 23,2017 12:12:30 [Fail]  ====Failed==== "Season 1" field is not present'</span>
+Mar 23,2017 12:12:30 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\23\Season1_CheckpointFailure_03-23-2017 12-12-30 PM.jpg
+Mar 23,2017 12:12:31 [Info]  Clicked on the 'Support click to select season'
+Mar 23,2017 12:12:35 [Info]  Clicked on the 'Save Button at 'Episode Edit Window'' using JS Executor
+Mar 23,2017 12:12:55 [Info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Mar 23,2017 12:12:55 [Info]  
+<span style="color:blue;"> [Manual Test Step]  Manual Test Step : TC_2.5_Episode Tab_6</span>
+Mar 23,2017 12:12:55 [Info]  Create 301-600 Episodes and select Season 2 for All Episodes
+<span style="color:red;">Mar 23,2017 12:12:55 [Fail]  ====Failed==== "Add Episode input field" field is not present'Add Episode input field'</span>
+Mar 23,2017 12:12:56 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\23\AddEpisodeinputfield_CheckpointFailure_03-23-2017 12-12-55 PM.jpg
+Mar 23,2017 12:12:56 [Info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Mar 23,2017 12:12:57 [Info]  Clicked on the 'Season Field of Episode001' using JS Executor
+Mar 23,2017 12:12:58 [Info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+<span style="color:red;">Mar 23,2017 12:12:58 [Fail]  ====Failed==== "Season 2" field is not present'</span>
+Mar 23,2017 12:12:58 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\23\Season2_CheckpointFailure_03-23-2017 12-12-58 PM.jpg
+Mar 23,2017 12:12:58 [Info]  Clicked on the 'Support click to select season'
+Mar 23,2017 12:13:02 [Info]  Clicked on the 'Save Button at 'Episode Edit Window'' using JS Executor
+Mar 23,2017 12:13:21 [Info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+<span style="color:red;">Mar 23,2017 12:13:22 [Fail]  ====Failed==== "Add Episode input field" field is not present'Add Episode input field'</span>
+Mar 23,2017 12:13:22 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\23\AddEpisodeinputfield_CheckpointFailure_03-23-2017 12-13-22 PM.jpg
+Mar 23,2017 12:13:22 [Info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Mar 23,2017 12:13:23 [Info]  Clicked on the 'Season Field of Episode001' using JS Executor
+Mar 23,2017 12:13:24 [Info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+<span style="color:red;">Mar 23,2017 12:13:24 [Fail]  ====Failed==== "Season 3" field is not present'</span>
+Mar 23,2017 12:13:24 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\23\Season3_CheckpointFailure_03-23-2017 12-13-24 PM.jpg
+Mar 23,2017 12:13:25 [Info]  Clicked on the 'Support click to select season'
+Mar 23,2017 12:13:28 [Info]  Clicked on the 'Save Button at 'Episode Edit Window'' using JS Executor
+Mar 23,2017 12:13:48 [Info]  Clicked on the 'Close Button at 'Episode Edit Window'' using JS Executor
+Mar 23,2017 12:13:54 [Info]  Clicked on the ''Edit' Button at Episode window' using JS Executor
+<span style="color:blue;"> [Manual Test Step]  **********The default values for the filter functionality ************</span>
+Mar 23,2017 12:13:58 [Info]  Verifying the data of TC7_EpisodeFilters_Season3
+<span style="color:red;">Mar 23,2017 12:13:58 [Fail]  ====Failed==== Expected value is:[Season 3] but Actual value is[(Select All)]. Please check the screenshot with name: Season 3for more details</span>
+Mar 23,2017 12:13:58 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\23\TC7_EpisodeFilters_Season3_CheckpointFailure_03-23-2017 12-13-58 PM.jpg
+<span style="color:blue;"> [Manual Test Step]  **********The dropdown values of season filter ************</span>
+Mar 23,2017 12:13:59 [Info]  Drop Down values of Episodes_Filter1 DropDown Values are: 
+Mar 23,2017 12:13:59 [Info]  Actual Drop Down Values are: 
+[(Select All)]
+Mar 23,2017 12:13:59 [Info]  Expected Drop Down Values are: 
+[, , , (Select All)]
+Mar 23,2017 12:13:59 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\23\Episodes_Filter1DropDownValues_CheckpointFailure_03-23-2017 12-13-59 PM.jpg
+Mar 23,2017 12:13:59 [Info]  Total Number of Dropdown Valus in Episodes_Filter1 DropDown Values:1
+<span style="color:green;">Mar 23,2017 12:13:59 [Verification]  Verified that [(Select All)] is present in the dropdown Episodes_Filter1 DropDown Values</span>
+<span style="color:red;">Mar 23,2017 12:14:20 [Fail]  ====Failed==== "Season 1" is not present in 'filter 1Drop Down'</span>
+Mar 23,2017 12:14:20 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\23\filter1_CheckpointFailure_03-23-2017 12-14-20 PM.jpg
+Mar 23,2017 12:16:22 [Info]  Verifying the data of Season of First Row
+<span style="color:red;">Mar 23,2017 12:16:22 [Fail]  ====Failed==== Expected value is:[Season 1] but Actual value is[]. Please check the screenshot with name: Season 1for more details</span>
+Mar 23,2017 12:16:22 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\23\SeasonofFirstRow_CheckpointFailure_03-23-2017 12-16-22 PM.jpg
+<span style="color:red;">Mar 23,2017 12:16:43 [Fail]  ====Failed==== "Season 2" is not present in 'filter 1Drop Down'</span>
+Mar 23,2017 12:16:43 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\23\filter1_CheckpointFailure_03-23-2017 12-16-43 PM.jpg
+Mar 23,2017 12:18:49 [Info]  Verifying the data of Season of First Row
+<span style="color:red;">Mar 23,2017 12:18:49 [Fail]  ====Failed==== Expected value is:[Season 2] but Actual value is[]. Please check the screenshot with name: Season 2for more details</span>
+Mar 23,2017 12:18:49 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\23\SeasonofFirstRow_CheckpointFailure_03-23-2017 12-18-49 PM.jpg
+Mar 23,2017 12:18:50 [Info]  Clicked on the 'MultiSelect season Icon' using JS Executor
+Mar 23,2017 12:18:51 [Info]  Clicked on the 'Episodes_Filter_DeselectAllCheckBox' using JS Executor
+<span style="color:red;">Mar 23,2017 12:19:14 [Fail]  ====Failed==== "Episodes_MultiSelectSeason_CheckBox1" field is not present'</span>
+Mar 23,2017 12:19:14 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\23\Episodes_MultiSelectSeason_CheckBox1_CheckpointFailure_03-23-2017 12-19-14 PM.jpg
+<span style="color:red;">Mar 23,2017 12:19:35 [Fail]  ====Failed==== "Episodes_MultiSelectSeason_CheckBox2" field is not present'</span>
+Mar 23,2017 12:19:35 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\23\Episodes_MultiSelectSeason_CheckBox2_CheckpointFailure_03-23-2017 12-19-35 PM.jpg
+Mar 23,2017 12:19:35 [Info]  Clicked on the 'Apply button at MultiSelectSeason window' using JS Executor
+Mar 23,2017 12:19:37 [Info]  Verifying the data of Season of First Row
+<span style="color:red;">Mar 23,2017 12:19:37 [Fail]  ====Failed==== Expected value is:[Season 1] but Actual value is[<!---->]. Please check the screenshot with name: Season 1for more details</span>
+Mar 23,2017 12:19:37 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\23\SeasonofFirstRow_CheckpointFailure_03-23-2017 12-19-37 PM.jpg
+Mar 23,2017 12:19:57 [Info]  Could not Scroll Element in View Range: 
+Mar 23,2017 12:19:57 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\23\ScrollIssue_1_CheckpointFailure_03-23-2017 12-19-57 PM.jpg
+Mar 23,2017 12:19:57 [Info]  Verifying the data of Season of row number 301
+<span style="color:red;">Mar 23,2017 12:19:57 [Fail]  ====Failed==== Expected value is:[Season 2] but Actual value is[No element is present on Web Page (DriverHelper.getAttribute())]. Please check the screenshot with name: Season 2for more details</span>
+Mar 23,2017 12:19:57 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\23\Seasonofrownumber301_CheckpointFailure_03-23-2017 12-19-57 PM.jpg
+Mar 23,2017 12:19:57 [Info]  
+<span style="color:blue;"> [Manual Test Step]  Manual Test Step : TC_2.5_Episode Tab_8</span>
+Mar 23,2017 12:19:58 [Info]  Verify The data of Paginated View of Record
+<span style="color:red;">Mar 23,2017 12:19:58 [Fail]  ====Failed==== Expected value is:[Records in Page: 500 of 500] but Actual value is[Records in Page: 300 of 300]. Please check the screenshot with name: Paginated View of Recordfor more details</span>
+Mar 23,2017 12:19:58 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\23\PaginatedViewofRecord_CheckpointFailure_03-23-2017 12-19-58 PM.jpg
+<span style="color:green;">Mar 23,2017 12:19:59 [Verification]  Verified that Expected value :[1] is present in the Page Drop down drop down</span>
+<span style="color:red;">Mar 23,2017 12:19:59 [Fail]  ====Failed==== Expected value is:[2] is not present in the Page Drop down drop down. please see the screenshot: 2for more details</span>
+Mar 23,2017 12:19:59 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\23\PageDropdown_CheckpointFailure_03-23-2017 12-19-59 PM.jpg
+Mar 23,2017 12:19:59 [Info]  Clicked on the ''ClearFilter' at Episode window' using JS Executor
+Mar 23,2017 12:20:01 [Info]  Verifying the data of Season of First Row
+<span style="color:red;">Mar 23,2017 12:20:01 [Fail]  ====Failed==== Expected value is:[Season 1] but Actual value is[<!---->]. Please check the screenshot with name: Season 1for more details</span>
+Mar 23,2017 12:20:01 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\23\SeasonofFirstRow_CheckpointFailure_03-23-2017 12-20-01 PM.jpg
+Mar 23,2017 12:20:11 [Info]  Verifying the data of Season of row number 301
+<span style="color:red;">Mar 23,2017 12:20:11 [Fail]  ====Failed==== Expected value is:[Season 2] but Actual value is[No element is present on Web Page (DriverHelper.getAttribute())]. Please check the screenshot with name: Season 2for more details</span>
+Mar 23,2017 12:20:12 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\23\Seasonofrownumber301_CheckpointFailure_03-23-2017 12-20-11 PM.jpg
+Mar 23,2017 12:20:12 [Info]  Verify The data of Paginated View of Record
+<span style="color:red;">Mar 23,2017 12:20:12 [Fail]  ====Failed==== Expected value is:[Records in Page: 500 of 900] but Actual value is[Records in Page: 300 of 300]. Please check the screenshot with name: Paginated View of Recordfor more details</span>
+Mar 23,2017 12:20:12 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\23\PaginatedViewofRecord_CheckpointFailure_03-23-2017 12-20-12 PM.jpg
+<span style="color:green;">Mar 23,2017 12:20:13 [Verification]  Verified that Expected value :[1] is present in the Page Drop down drop down</span>
+<span style="color:red;">Mar 23,2017 12:20:13 [Fail]  ====Failed==== Expected value is:[2] is not present in the Page Drop down drop down. please see the screenshot: 2for more details</span>
+Mar 23,2017 12:20:13 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\23\PageDropdown_CheckpointFailure_03-23-2017 12-20-13 PM.jpg
+Mar 23,2017 12:20:13 [Info]  
+<span style="color:blue;"> [Manual Test Step]  Manual Test Step : TC_2.5_Episode Tab_9</span>
+Mar 23,2017 12:20:13 [Info]  Select All in the Filter Drop down
+<span style="color:green;">Mar 23,2017 12:20:14 [Verification]  Verified that Expected value :[(Select All)] is matched with Actual value :[(Select All)]</span>
+Mar 23,2017 12:20:14 [Info]  Clicked on the 'Close Button at 'Episode Edit Window'' using JS Executor
+Mar 23,2017 12:20:14 [Info]  Test 'TC7_SeasonFilters' PASSED
+Mar 23,2017 12:20:18 [Info]  Closed the Browser
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 12:52:47******************</span>
+Mar 23,2017 12:52:47 [Info]  Client: SKY
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************</span>
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing 'TC7_SeasonFilters' Test Case*********************</span>
+Mar 23,2017 12:52:57 [Info]  Client: SKY
+Mar 23,2017 12:52:57 [Info]  URL: http://rlv2wb85/Home.aspx
+Mar 23,2017 12:52:57 [Info]  UserName: admin
+Mar 23,2017 12:52:57 [Info]  Password: admin
+Mar 23,2017 12:52:59 [Info]  Entered "admin" in field 'User Name'
+Mar 23,2017 12:52:59 [Info]  Clicked on the 'Temporary Check Box'
+Mar 23,2017 12:53:00 [Info]  Entered "admin" in field 'Password'
+Mar 23,2017 12:53:03 [Info]  Clicked on the 'LoginButton'
+Mar 23,2017 12:53:12 [Info]  Clicked on the 'Change Pssword Page Login Button'
+Mar 23,2017 12:53:30 [Info]  Clicked on the 'MODULE'
+Mar 23,2017 12:53:38 [Info]  Clicked on the 'Title Maintenance'
+Mar 23,2017 12:53:49 [Info]  Double clicked on 'AUT_AssetSeries_03232017120930AssetName'
+Mar 23,2017 12:53:56 [Info]  Clicked on the 'Episodes TAB'
+<span style="color:blue;"> [Manual Test Step]  *****************The below are buttons in the EditEpisodes Window*****************</span>
+Mar 23,2017 12:53:57 [Info]  Verify The data of EditEpisodes Button
+<span style="color:green;">Mar 23,2017 12:53:57 [Verification]  Verified that Expected value :[Edit Episode] is matched with Actual value :[Edit Episode]</span>
+Mar 23,2017 12:53:57 [Info]  Verify The data of Edit button
+<span style="color:green;">Mar 23,2017 12:53:57 [Verification]  Verified that Expected value :[Edit] is matched with Actual value :[Edit...]</span>
+Mar 23,2017 12:53:57 [Info]  Clicked on the ''Edit' Button at Episode window' using JS Executor
+Mar 23,2017 12:54:03 [Info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Mar 23,2017 12:54:03 [Info]  
+<span style="color:blue;"> [Manual Test Step]  Manual Test Step : TC_2.5_Episode Tab_6</span>
+Mar 23,2017 12:54:03 [Info]  create 1-300 Episodes and select Season 1 for All Episodes
+Mar 23,2017 12:54:04 [Info]  Entered "1-300" in field 'Add Episode input field'
+Mar 23,2017 12:54:04 [Info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Mar 23,2017 12:54:20 [Info]  Clicked on the 'Season Field of Episode001' using JS Executor
+Mar 23,2017 12:54:21 [Info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Mar 23,2017 12:54:23 [Info]  Clicked on the 'Season 1'
+Mar 23,2017 13:08:29 [Info]  ********************Started Executiong the Test Suite at 13:08:29******************
+Mar 23,2017 13:08:29 [Info]  Client: SKY
+Mar 23,2017 13:08:29 [Info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Mar 23,2017 13:08:29 [Info]  *********************Started Executing 'TC8_EpisodeUpdateTool' Test Case*********************
+Mar 23,2017 13:08:39 [Info]  Client: SKY
+Mar 23,2017 13:08:39 [Info]  URL: http://rlv2wb85/Home.aspx
+Mar 23,2017 13:08:39 [Info]  UserName: admin
+Mar 23,2017 13:08:39 [Info]  Password: admin
+Mar 23,2017 13:08:40 [Info]  Entered "admin" in field 'User Name'
+Mar 23,2017 13:08:40 [Info]  Clicked on the 'Temporary Check Box'
+Mar 23,2017 13:08:41 [Info]  Entered "admin" in field 'Password'
+Mar 23,2017 13:08:54 [Info]  Clicked on the 'LoginButton'
+<span style="color:red;">Mar 23,2017 13:09:07 [Fail]  ====Failed==== "Change Pssword Page Login Button" field is not present'</span>
+Mar 23,2017 13:09:07 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\23\ChangePsswordPageLoginButton_CheckpointFailure_03-23-2017 1-09-07 PM.jpg
+Mar 23,2017 13:09:13 [Info]  ************************Started Creating Asset of Type: Program - Series************************
+Mar 23,2017 13:09:24 [Info]  Clicked on the 'MODULE'
+Mar 23,2017 13:09:33 [Info]  Clicked on the 'Title Maintenance'
+Mar 23,2017 13:09:45 [Info]  Clicked on the 'New Button' using JS Executor
+Mar 23,2017 13:09:45 [Info]  Clicked on the 'Program' using JS Executor
+Mar 23,2017 13:10:04 [Info]  Clicked on the 'General TAB'
+Mar 23,2017 13:10:06 [Info]  Selected "Program - Series" in "AssetTypeDropDown" drop down
+Mar 23,2017 13:10:25 [Info]  Entered "AUT_AssetSeries_0323201710913" in field 'AssetTitle'
+Mar 23,2017 13:10:26 [Info]  Clicked on the 'SBUImage' using JS Executor
+Mar 23,2017 13:10:27 [Info]  Verify The data of SBU Window/Owner Channel Header
+<span style="color:green;">Mar 23,2017 13:10:27 [Verification]  Verified that Expected value :[Source Business Unit Template] is matched with Actual value :[Source Business Unit Template]</span>
+Mar 23,2017 13:10:34 [Info]  Clicked on the 'First CheckBox At SBU window'
+Mar 23,2017 13:10:36 [Info]  Clicked on the 'Apply Button' using JS Executor
+Mar 23,2017 13:10:37 [Info]  Entered "11:11:11" in field 'Duration'
+Mar 23,2017 13:10:47 [Info]  Selected "Active" in "Asset Status" drop down
+Mar 23,2017 13:10:48 [Info]  Selected "Event" in "Asset Format" drop down
+Mar 23,2017 13:10:48 [Info]  Selected "License Acquired" in "Asset Source" drop down
+Mar 23,2017 13:10:49 [Info]  Entered "AUT_Series" in field 'Short Name'
+Mar 23,2017 13:10:49 [Info]  Clicked on the 'Save Button' using JS Executor
+Mar 23,2017 13:11:16 [Info]  Verify The data of Created AssetAUT_AssetSeries_0323201710913
+<span style="color:green;">Mar 23,2017 13:11:16 [Verification]  Verified that Expected value :[AUT_AssetSeries_0323201710913] is matched with Actual value :[AUT_AssetSeries_0323201710913]</span>
+Mar 23,2017 13:11:16 [Info]  ************************Created Asset of TypeProgram - Series************************
+Mar 23,2017 13:11:27 [Info]  Clicked on the 'MODULE'
+Mar 23,2017 13:11:35 [Info]  Clicked on the 'Title Maintenance'
+Mar 23,2017 13:11:46 [Info]  Double clicked on 'AUT_AssetSeries_0323201710913AssetName'
+Mar 23,2017 13:11:54 [Info]  Clicked on the 'Episodes TAB'
+Mar 23,2017 13:11:54 [Info]  *****************The below are buttons in the window*****************
+Mar 23,2017 13:11:54 [Info]  Verify The data of EditEpisodes Button
+<span style="color:green;">Mar 23,2017 13:11:54 [Verification]  Verified that Expected value :[Edit Episode] is matched with Actual value :[Edit Episode]</span>
+Mar 23,2017 13:11:54 [Info]  Verify The data of Edit button
+<span style="color:green;">Mar 23,2017 13:11:54 [Verification]  Verified that Expected value :[Edit] is matched with Actual value :[Edit...]</span>
+Mar 23,2017 13:11:54 [Info]  Clicked on the ''Edit' Button at Episode window' using JS Executor
+Mar 23,2017 13:11:58 [Info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Mar 23,2017 13:11:58 [Info]  
+<span style="color:blue;"> [Manual Test Step]: TC_2.5_Episode Tab_5</span>
+Mar 23,2017 13:11:58 [Info]  *****Create 1-5 Episodes and Select Season1****
+Mar 23,2017 13:11:59 [Info]  Entered "1-5" in field 'Add Episode input field'
+Mar 23,2017 13:11:59 [Info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Mar 23,2017 13:12:01 [Info]  Clicked on the 'Season Field of Episode001' using JS Executor
+Mar 23,2017 13:12:02 [Info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Mar 23,2017 13:12:03 [Info]  Clicked on the 'Season 1'
+Mar 23,2017 13:12:03 [Info]  Clicked on the 'Support click to select season'
+Mar 23,2017 13:12:06 [Info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Mar 23,2017 13:12:06 [Info]  
+<span style="color:blue;"> [Manual Test Step]: TC_2.5_Episode Tab_5</span>
+Mar 23,2017 13:12:06 [Info]  **********Create 6-10 Episodes and Select Season2*********
+Mar 23,2017 13:12:07 [Info]  Entered "6-10" in field 'Add Episode input field'
+Mar 23,2017 13:12:08 [Info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Mar 23,2017 13:12:11 [Info]  Clicked on the 'Season Field of Episode006' using JS Executor
+Mar 23,2017 13:12:12 [Info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Mar 23,2017 13:12:12 [Info]  Clicked on the 'Season 2'
+Mar 23,2017 13:12:13 [Info]  Clicked on the 'Support click to select season'
+Mar 23,2017 13:12:16 [Info]  Clicked on the 'Select 1st Row'
+Mar 23,2017 13:12:16 [Info]  
+<span style="color:blue;"> [Manual Test Step]: TC_2.5_Episode Tab_12</span>
+Mar 23,2017 13:12:16 [Info]  **********Copy TBA value for all episodes of the selected Season*********
+Mar 23,2017 13:12:17 [Info]  Clicked on the 'TBA Check Box'
+Mar 23,2017 13:12:17 [Info]  Clicked on the 'Update Tool' using JS Executor
+<span style="color:red;">Mar 23,2017 13:12:27 [Fail]  ====Failed==== " Could not find the Frame: div[id*='WebDialogWindow2'][style*=visible]</span>
+<span style="color:red;">Mar 23,2017 13:12:27 [Fail]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\23\FrameSwitchingFailed0_CheckpointFailure_03-23-2017 1-12-27 PM.jpg</span>
+Mar 23,2017 13:12:27 [Info]  Unable to find element with css selector == div[id*='WebDialogWindow2'][style*=visible] (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.33 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: '9P4G6BS', ip: '10.10.22.71', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=true, ie.forceCreateProcessApi=false, pageLoadStrategy=normal, ie.usePerProcessProxy=false, ignoreZoomSetting=false, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=false, browserName=internet explorer, initialBrowserUrl=http://localhost:9780/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=false, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: 8543786f-7de2-4ef7-8ef8-253c17260d07
+*** Element info: {Using=css selector, value=div[id*='WebDialogWindow2'][style*=visible]}
+Mar 23,2017 13:14:03 [Info]  Test 'TC8_EpisodeUpdateTool' FAILED
+Mar 23,2017 13:14:03 [Info]  2
+Mar 23,2017 13:14:04 [Info]  Test Case :TC8_EpisodeUpdateTool's Screenshot of Failure Page: 
+C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\23\TC8_EpisodeUpdateTool_03-23-2017 1-14-03 PM.jpg
+Mar 23,2017 13:14:05 [Info]  Closed the Browser
+Mar 23,2017 13:17:31 [Info]  ********************Started Executiong the Test Suite at 13:17:31******************
+Mar 23,2017 13:17:31 [Info]  Client: SKY
+Mar 23,2017 13:17:31 [Info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Mar 23,2017 13:17:31 [Info]  *********************Started Executing 'TC8_EpisodeUpdateTool' Test Case*********************
+Mar 23,2017 13:17:41 [Info]  Client: SKY
+Mar 23,2017 13:17:41 [Info]  URL: http://rlv2wb85/Home.aspx
+Mar 23,2017 13:17:41 [Info]  UserName: admin
+Mar 23,2017 13:17:41 [Info]  Password: admin
+Mar 23,2017 13:17:42 [Info]  Entered "admin" in field 'User Name'
+Mar 23,2017 13:17:42 [Info]  Clicked on the 'Temporary Check Box'
+Mar 23,2017 13:17:42 [Info]  Entered "admin" in field 'Password'
+Mar 23,2017 13:17:55 [Info]  Clicked on the 'LoginButton'
+<span style="color:red;">Mar 23,2017 13:18:07 [Fail]  ====Failed==== "Change Pssword Page Login Button" field is not present'</span>
+Mar 23,2017 13:18:07 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\23\ChangePsswordPageLoginButton_CheckpointFailure_03-23-2017 1-18-07 PM.jpg
+Mar 23,2017 13:18:32 [Info]  Clicked on the 'MODULE'
+Mar 23,2017 13:18:41 [Info]  Clicked on the 'Title Maintenance'
+Mar 23,2017 13:18:51 [Info]  Double clicked on 'AUT_AssetSeries_0323201710913AssetName'
+Mar 23,2017 13:19:00 [Info]  Clicked on the 'Episodes TAB'
+Mar 23,2017 13:19:01 [Info]  *****************The below are buttons in the window*****************
+Mar 23,2017 13:19:01 [Info]  Verify The data of EditEpisodes Button
+<span style="color:green;">Mar 23,2017 13:19:01 [Verification]  Verified that Expected value :[Edit Episode] is matched with Actual value :[Edit Episode]</span>
+Mar 23,2017 13:19:01 [Info]  Verify The data of Edit button
+<span style="color:green;">Mar 23,2017 13:19:01 [Verification]  Verified that Expected value :[Edit] is matched with Actual value :[Edit...]</span>
+Mar 23,2017 13:19:02 [Info]  Clicked on the ''Edit' Button at Episode window' using JS Executor
+Mar 23,2017 13:19:08 [Info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Mar 23,2017 13:20:08 [Info]  
+<span style="color:blue;"> [Manual Test Step]: TC_2.5_Episode Tab_5</span>
+Mar 23,2017 13:20:08 [Info]  **********Create 6-10 Episodes and Select Season2*********
+Mar 23,2017 13:20:09 [Info]  Entered "6-10" in field 'Add Episode input field'
+Mar 23,2017 13:20:09 [Info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Mar 23,2017 13:20:13 [Info]  Clicked on the 'Season Field of Episode006' using JS Executor
+Mar 23,2017 13:20:13 [Info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Mar 23,2017 13:20:14 [Info]  Clicked on the 'Season 2'
+Mar 23,2017 13:20:14 [Info]  Clicked on the 'Support click to select season'
+Mar 23,2017 13:20:18 [Info]  Double clicked on 'Select 1st Row'
+Mar 23,2017 13:20:18 [Info]  
+<span style="color:blue;"> [Manual Test Step]: TC_2.5_Episode Tab_12</span>
+Mar 23,2017 13:20:18 [Info]  **********Copy TBA value for all episodes of the selected Season*********
+Mar 23,2017 13:20:18 [Info]  Clicked on the 'TBA Check Box'
+Mar 23,2017 13:20:18 [Info]  Clicked on the 'Update Tool' using JS Executor
+Mar 23,2017 13:20:19 [Info]  Verify The data of Episodes_UpdateTool_TBAValueCheckBox
+<span style="color:red;">Mar 23,2017 13:20:19 [Fail]  ====Failed===="Episodes_UpdateTool_TBAValueCheckBox" is not Present</span>
+Mar 23,2017 13:20:19 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\23\Episodes_UpdateTool_TBAValueCheckBox_CheckpointFailure_03-23-2017 1-20-19 PM.jpg
+Mar 23,2017 13:20:19 [Info]  Verify The data of Episodes_UpdateTool_SeasonCheckBox
+<span style="color:green;">Mar 23,2017 13:20:19 [Verification]  Verified that Expected value :[Copy Season value to all episodes displayed below the selected episode] is matched with Actual value :[Copy Season value to all episodes displayed below the selected episode]</span>
+Mar 23,2017 13:20:19 [Info]  Verify The data of Episodes_UpdateTool_DurationValueCheckBox
+<span style="color:green;">Mar 23,2017 13:20:19 [Verification]  Verified that Expected value :[Copy Duration value to all episodes displayed below the selected episode] is matched with Actual value :[Copy Duration value to all episodes displayed below the selected episode]</span>
+Mar 23,2017 13:20:19 [Info]  Verify The data of Episodes_UpdateTool_UpdateEpisodeTitle
+<span style="color:green;">Mar 23,2017 13:20:19 [Verification]  Verified that Expected value :[Update Episode Title] is matched with Actual value :[Update Episode Title]</span>
+Mar 23,2017 13:20:20 [Info]  Verify The data of Episodes_UpdateTool_TitleLabel
+<span style="color:green;">Mar 23,2017 13:20:20 [Verification]  Verified that Expected value :[Title] is matched with Actual value :[Title]</span>
+Mar 23,2017 13:20:20 [Info]  
+Mar 23,2017 13:20:20 [Info]  **********Verifying the button on Update tool Pop - Up************
+Mar 23,2017 13:20:20 [Info]  Verify The data of OK button
+<span style="color:green;">Mar 23,2017 13:20:20 [Verification]  Verified that Expected value :[OK] is matched with Actual value :[OK]</span>
+Mar 23,2017 13:20:20 [Info]  Verify The data of Cancel button
+<span style="color:green;">Mar 23,2017 13:20:20 [Verification]  Verified that Expected value :[Cancel] is matched with Actual value :[Cancel]</span>
+Mar 23,2017 13:20:20 [Info]  Clicked on the 'Episodes_UpdateTool_TBAValueCheckBox' using JS Executor
+Mar 23,2017 13:20:20 [Info]  Clicked on the 'OKButton' using JS Executor
+Mar 23,2017 13:20:21 [Info]  **********Verify that TBA check box is check for all episodes Season 1 but not for Season 2*********
+Mar 23,2017 13:20:21 [Info]  Verify The data of TBA Check Box for Episode1 of Seseaon1
+<span style="color:green;">Mar 23,2017 13:20:21 [Verification]  Verified that Expected value :[Checked] is matched with Actual value :[Checked]</span>
+Mar 23,2017 13:20:21 [Info]  Verify The data of TBA Check Box for Episode2 of Seseaon1
+<span style="color:green;">Mar 23,2017 13:20:21 [Verification]  Verified that Expected value :[Checked] is matched with Actual value :[Checked]</span>
+Mar 23,2017 13:20:21 [Info]  Verify The data of TBA Check Box for Episode6 of Seseaon2
+<span style="color:green;">Mar 23,2017 13:20:21 [Verification]  Verified that Expected value :[Checked] is matched with Actual value :[Checked]</span>
+Mar 23,2017 13:20:22 [Info]  Clicked on the 'Select 1st Row of Episode 1'
+Mar 23,2017 13:20:22 [Info]  Clicked on the 'Uncheck TBA of Episode 1'
+Mar 23,2017 13:20:22 [Info]  
+<span style="color:blue;"> [Manual Test Step]: TC_2.5_Episode Tab_14</span>
+Mar 23,2017 13:20:22 [Info]  Uncheck 'Copy TBA' check box for All Episodes of Season 1 at Update Tool and Verify that TBA is unchecked at Edit Episdoe Window
+Mar 23,2017 13:20:22 [Info]  Clicked on the 'Update Tool' using JS Executor
+Mar 23,2017 13:20:24 [Info]  Clicked on the 'Episodes_UpdateTool_TBAValueCheckBox' using JS Executor
+Mar 23,2017 13:20:24 [Info]  Clicked on the 'OKButton at Update tool Window' using JS Executor
+Mar 23,2017 13:20:24 [Info]  Verify The data of TBA Check Box for Episode1 of Seseaon1
+<span style="color:green;">Mar 23,2017 13:20:24 [Verification]  Verified that Expected value :[Unchecked] is matched with Actual value :[Unchecked]</span>
+Mar 23,2017 13:20:25 [Info]  Verify The data of TBA Check Box for Episode2 of Seseaon1
+<span style="color:green;">Mar 23,2017 13:20:25 [Verification]  Verified that Expected value :[Unchecked] is matched with Actual value :[Unchecked]</span>
+Mar 23,2017 13:20:25 [Info]  Verify The data of TBA Check Box for Episode6 of Seseaon2 is unchecked
+<span style="color:green;">Mar 23,2017 13:20:25 [Verification]  Verified that Expected value :[Unchecked] is matched with Actual value :[Unchecked]</span>
+Mar 23,2017 13:20:25 [Info]  
+<span style="color:blue;">//  [Manual Test Step] : TC_2.5_Episode Tab_18</span>
+Mar 23,2017 13:20:25 [Info]  Clicked on the 'Select 1st Row'
+Mar 23,2017 13:20:25 [Info]  Clicked on the 'Update Tool' using JS Executor
+Mar 23,2017 13:20:26 [Info]  Clicked on the 'Episodes_UpdateTool_UpdateEpisodeTitle'
+Mar 23,2017 13:20:30 [Info]  Entered "RSG" in field 'Episodes_UpdateTool_TitleField'
+Mar 23,2017 13:20:30 [Info]  Clicked on the 'OKButton at Update tool Window' using JS Executor
+Mar 23,2017 13:20:30 [Info]  
+<span style="color:blue;"> [Manual Test Step] : TC_2.5_Episode Tab_19</span>
+Mar 23,2017 13:20:30 [Info]  ******Change the Episode name of Season 1 from "Episode" to "RSG"******
+Mar 23,2017 13:20:31 [Info]  Verify The data of TBA Check Box for 1st Row
+<span style="color:green;">Mar 23,2017 13:20:31 [Verification]  Verified that Expected value :[RSG 001] is matched with Actual value :[RSG 001]</span>
+Mar 23,2017 13:20:31 [Info]  Verify The data of TBA Check Box for 6th Row
+<span style="color:green;">Mar 23,2017 13:20:31 [Verification]  Verified that Expected value :[RSG 006] is matched with Actual value :[RSG 006]</span>
+Mar 23,2017 13:20:31 [Info]  Clicked on the 'Save Button at 'Episode Edit Window'' using JS Executor
+Mar 23,2017 13:20:48 [Info]  Clicked on the 'Close Button at 'Episode Edit Window'' using JS Executor
+Mar 23,2017 13:20:56 [Info]  Test 'TC8_EpisodeUpdateTool' PASSED
+Mar 23,2017 13:20:57 [Info]  Closed the Browser
+Mar 23,2017 13:29:26 [Info]  ********************Started Executiong the Test Suite at 13:29:26******************
+Mar 23,2017 13:29:26 [Info]  Client: SKY
+Mar 23,2017 13:29:26 [Info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Mar 23,2017 13:29:26 [Info]  *********************Started Executing 'TC9_Program_Mini_Series' Test Case*********************
+Mar 23,2017 13:29:35 [Info]  Client: SKY
+Mar 23,2017 13:29:35 [Info]  URL: http://rlv2wb85/Home.aspx
+Mar 23,2017 13:29:35 [Info]  UserName: admin
+Mar 23,2017 13:29:35 [Info]  Password: admin
+Mar 23,2017 13:29:37 [Info]  Entered "admin" in field 'User Name'
+Mar 23,2017 13:29:37 [Info]  Clicked on the 'Temporary Check Box'
+Mar 23,2017 13:29:37 [Info]  Entered "admin" in field 'Password'
+Mar 23,2017 13:29:50 [Info]  Clicked on the 'LoginButton'
+<span style="color:red;">Mar 23,2017 13:30:03 [Fail]  ====Failed==== "Change Pssword Page Login Button" field is not present'</span>
+Mar 23,2017 13:30:03 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\23\ChangePsswordPageLoginButton_CheckpointFailure_03-23-2017 1-30-03 PM.jpg
+Mar 23,2017 13:30:09 [Info]  Test 'TC9_Program_Mini_Series' PASSED
+Mar 23,2017 13:30:10 [Info]  Closed the Browser
+Mar 23,2017 13:40:22 [Info]  ********************Started Executiong the Test Suite at 13:40:22******************
+Mar 23,2017 13:40:22 [Info]  Client: SKY
+Mar 23,2017 13:40:22 [Info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Mar 23,2017 13:40:22 [Info]  *********************Started Executing 'TC1_EpisodeUI' Test Case*********************
+Mar 23,2017 13:40:32 [Info]  Client: SKY
+Mar 23,2017 13:40:32 [Info]  URL: http://rlv2wb85/Home.aspx
+Mar 23,2017 13:40:32 [Info]  UserName: admin
+Mar 23,2017 13:40:32 [Info]  Password: admin
+Mar 23,2017 13:40:33 [Info]  Entered "admin" in field 'User Name'
+Mar 23,2017 13:40:33 [Info]  Clicked on the 'Temporary Check Box'
+Mar 23,2017 13:40:34 [Info]  Entered "admin" in field 'Password'
+Mar 23,2017 13:40:46 [Info]  Clicked on the 'LoginButton'
+<span style="color:red;">Mar 23,2017 13:40:58 [Fail]  ====Failed==== "Change Pssword Page Login Button" field is not present'</span>
+Mar 23,2017 13:40:58 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\23\ChangePsswordPageLoginButton_CheckpointFailure_03-23-2017 1-40-58 PM.jpg
+Mar 23,2017 13:41:05 [Info]  ************************Started Creating Asset of Type: Program - Series************************
+Mar 23,2017 13:41:16 [Info]  Clicked on the 'MODULE'
+Mar 23,2017 13:41:24 [Info]  Clicked on the 'Title Maintenance'
+Mar 23,2017 13:41:36 [Info]  Clicked on the 'New Button' using JS Executor
+Mar 23,2017 13:41:36 [Info]  Clicked on the 'Program' using JS Executor
+Mar 23,2017 13:41:51 [Info]  Clicked on the 'General TAB'
+Mar 23,2017 13:41:54 [Info]  Selected "Program - Series" in "AssetTypeDropDown" drop down
+Mar 23,2017 13:42:07 [Info]  Entered "AUT_AssetSeries_0323201714104" in field 'AssetTitle'
+Mar 23,2017 13:42:08 [Info]  Clicked on the 'SBUImage' using JS Executor
+Mar 23,2017 13:42:09 [Info]  Verify The data of SBU Window/Owner Channel Header
+<span style="color:green;">Mar 23,2017 13:42:09 [Verification]  Verified that Expected value :[Source Business Unit Template] is matched with Actual value :[Source Business Unit Template]</span>
+Mar 23,2017 13:42:16 [Info]  Clicked on the 'First CheckBox At SBU window'
+Mar 23,2017 13:42:18 [Info]  Clicked on the 'Apply Button' using JS Executor
+Mar 23,2017 13:42:19 [Info]  Entered "11:11:11" in field 'Duration'
+Mar 23,2017 13:42:30 [Info]  Selected "Active" in "Asset Status" drop down
+Mar 23,2017 13:42:30 [Info]  Selected "Event" in "Asset Format" drop down
+Mar 23,2017 13:42:31 [Info]  Selected "License Acquired" in "Asset Source" drop down
+Mar 23,2017 13:42:32 [Info]  Entered "AUT_Series" in field 'Short Name'
+Mar 23,2017 13:42:32 [Info]  Clicked on the 'Save Button' using JS Executor
+Mar 23,2017 13:42:48 [Info]  Verify The data of Created AssetAUT_AssetSeries_0323201714104
+<span style="color:green;">Mar 23,2017 13:42:48 [Verification]  Verified that Expected value :[AUT_AssetSeries_0323201714104] is matched with Actual value :[AUT_AssetSeries_0323201714104]</span>
+Mar 23,2017 13:42:48 [Info]  ************************Created Asset of TypeProgram - Series************************
+Mar 23,2017 13:42:59 [Info]  Clicked on the 'MODULE'
+Mar 23,2017 13:43:07 [Info]  Clicked on the 'Title Maintenance'
+Mar 23,2017 13:43:18 [Info]  Double clicked on 'AUT_AssetSeries_0323201714104AssetName'
+Mar 23,2017 13:43:25 [Info]  Clicked on the 'Episodes TAB'
+Mar 23,2017 13:43:26 [Info]  
+<span style="color:blue;"> [Manual Test Step]: TC_2.5_Episode Tab_002</span>
+Mar 23,2017 13:43:26 [Info]  *****************The below are buttons in the Episode Wiondow at View Mode*****************
+Mar 23,2017 13:43:26 [Info]  Verify The data of EditEpisodes Button
+<span style="color:green;">Mar 23,2017 13:43:26 [Verification]  Verified that Expected value :[Edit Episode] is matched with Actual value :[Edit Episode]</span>
+Mar 23,2017 13:43:26 [Info]  Verify The data of Edit button
+<span style="color:green;">Mar 23,2017 13:43:26 [Verification]  Verified that Expected value :[Edit] is matched with Actual value :[Edit...]</span>
+Mar 23,2017 13:43:26 [Info]  Clicked on the ''Edit' Button at Episode window' using JS Executor
+Mar 23,2017 13:43:29 [Info]  
+Mar 23,2017 13:43:29 [Info]  *****Verifying the Filters of 'Edit Episodes window'*****
+Mar 23,2017 13:43:30 [Info]  Verify The data of filter Criteria 1
+<span style="color:green;">Mar 23,2017 13:43:30 [Verification]  Verified that Expected value :[Filter Criteria: Season:] is matched with Actual value :[Filter Criteria: Season:]</span>
+Mar 23,2017 13:43:30 [Info]  Verify The data of filter Criteria 2
+<span style="color:green;">Mar 23,2017 13:43:30 [Verification]  Verified that Expected value :[Episode:] is matched with Actual value :[Episode:]</span>
+Mar 23,2017 13:43:30 [Info]  
+<span style="color:blue;"> [Manual Test Step]: TC_2.5_Episode Tab_003</span>
+Mar 23,2017 13:43:30 [Info]  *****Verifying the Headers of 'Edit Episodes window'*****
+Mar 23,2017 13:43:30 [Info]  Verify The data of Title Header
+<span style="color:green;">Mar 23,2017 13:43:30 [Verification]  Verified that Expected value :[*Title] is matched with Actual value :[*Title]</span>
+Mar 23,2017 13:43:30 [Info]  Verify The data of Season Header
+<span style="color:green;">Mar 23,2017 13:43:30 [Verification]  Verified that Expected value :[Season] is matched with Actual value :[Season]</span>
+Mar 23,2017 13:43:30 [Info]  Verify The data of Episode Number Header
+<span style="color:green;">Mar 23,2017 13:43:30 [Verification]  Verified that Expected value :[Episode Number] is matched with Actual value :[Episode Number]</span>
+Mar 23,2017 13:43:30 [Info]  Verify The data of TBA Header
+<span style="color:green;">Mar 23,2017 13:43:30 [Verification]  Verified that Expected value :[TBA] is matched with Actual value :[TBA]</span>
+Mar 23,2017 13:43:31 [Info]  Verify The data of AirOrder Header
+<span style="color:green;">Mar 23,2017 13:43:31 [Verification]  Verified that Expected value :[Airing Order] is matched with Actual value :[Airing Order]</span>
+Mar 23,2017 13:43:31 [Info]  Verify The data of Program Duration Header
+<span style="color:green;">Mar 23,2017 13:43:31 [Verification]  Verified that Expected value :[Program Duration] is matched with Actual value :[Program Duration]</span>
+Mar 23,2017 13:43:31 [Info]  Verify The data of Highlights Header
+<span style="color:green;">Mar 23,2017 13:43:31 [Verification]  Verified that Expected value :[Highlight] is matched with Actual value :[Highlight]</span>
+Mar 23,2017 13:43:31 [Info]  Verify The data of Notes Header
+<span style="color:green;">Mar 23,2017 13:43:31 [Verification]  Verified that Expected value :[Notes] is matched with Actual value :[Notes]</span>
+Mar 23,2017 13:43:31 [Info]  
+Mar 23,2017 13:43:31 [Info]  *****Verifying the available Buttons at 'Edit Episodes window'*****
+Mar 23,2017 13:43:31 [Info]  Verify The data of Copy Episodes
+<span style="color:green;">Mar 23,2017 13:43:31 [Verification]  Verified that Expected value :[Copy Episodes...] is matched with Actual value :[Copy Episodes...]</span>
+Mar 23,2017 13:43:31 [Info]  Verify The data of CopySeason
+<span style="color:green;">Mar 23,2017 13:43:31 [Verification]  Verified that Expected value :[Copy Season...] is matched with Actual value :[Copy Season...]</span>
+Mar 23,2017 13:43:32 [Info]  Verify The data of UpdateTool
+<span style="color:green;">Mar 23,2017 13:43:32 [Verification]  Verified that Expected value :[Update Tool] is matched with Actual value :[Update Tool]</span>
+Mar 23,2017 13:43:32 [Info]  Verify The data of Add Episodes
+<span style="color:green;">Mar 23,2017 13:43:32 [Verification]  Verified that Expected value :[Add...] is matched with Actual value :[Add...]</span>
+Mar 23,2017 13:43:32 [Info]  Verify The data of Delete Episodes
+<span style="color:green;">Mar 23,2017 13:43:32 [Verification]  Verified that Expected value :[Delete] is matched with Actual value :[Delete]</span>
+Mar 23,2017 13:43:32 [Info]  Verify The data of Save Episodes
+<span style="color:green;">Mar 23,2017 13:43:32 [Verification]  Verified that Expected value :[Save] is matched with Actual value :[Save]</span>
+Mar 23,2017 13:43:32 [Info]  Verify The data of Close Episodes
+<span style="color:green;">Mar 23,2017 13:43:32 [Verification]  Verified that Expected value :[Close] is matched with Actual value :[Close]</span>
+Mar 23,2017 13:43:32 [Info]  
+Mar 23,2017 13:43:32 [Info]  *****Click on Delete Episodes, verify the Alert message and Click on OK button*****
+Mar 23,2017 13:43:32 [Info]  Clicked on the ''Delete' Button at Episode window' using JS Executor
+Mar 23,2017 13:43:33 [Info]  Verify The data of Alert Message While deleting the Episode
+<span style="color:green;">Mar 23,2017 13:43:33 [Verification]  Verified that Expected value :[Please select an episode before clicking on Delete button.] is matched with Actual value :[  RightsLogic Alert  
+    Please select an episode before clicking on Delete button.
+       ]</span>
+Mar 23,2017 13:43:36 [Info]  Clicked on the 'OK Button at Alert While deleting the Episode' using JS Executor
+Mar 23,2017 13:43:36 [Info]  
+<span style="color:blue;"> [Manual Test Step]: TC_2.5_Episode Tab_006</span>
+Mar 23,2017 13:43:37 [Info]  ******Click on 'Copy Episode', verify the Alert message and Click on OK button******
+Mar 23,2017 13:43:37 [Info]  Clicked on the ''CopyEpisodes' Button at Episode window' using JS Executor
+Mar 23,2017 13:43:37 [Info]  Verify The data of Alert Message While Copying the Episode
+<span style="color:green;">Mar 23,2017 13:43:37 [Verification]  Verified that Expected value :[Please select at least one Episode before attempting to click on the Copy Episode button.] is matched with Actual value :[  RightsLogic Alert  
+    Please select at least one Episode before attempting to click on the Copy Episode button.
+       ]</span>
+Mar 23,2017 13:43:38 [Info]  Clicked on the 'OK Button at Alert While Copying the Episode' using JS Executor
+Mar 23,2017 13:43:38 [Info]  
+Mar 23,2017 13:43:38 [Info]  ******Click on 'Copy Season', verify the Alert message and Click on OK button******
+Mar 23,2017 13:43:38 [Info]  Clicked on the ''Copy Season' Button at Episode window' using JS Executor
+Mar 23,2017 13:43:39 [Info]  Verify The data of Alert Message While Copying the Season
+<span style="color:green;">Mar 23,2017 13:43:39 [Verification]  Verified that Expected value :[Please select a Season before attempting to click on the Copy Season button.] is matched with Actual value :[  RightsLogic Alert  
+    Please select a Season before attempting to click on the Copy Season button.
+       ]</span>
+Mar 23,2017 13:43:39 [Info]  Clicked on the 'OK Button at Alert While Copying the Season' using JS Executor
+Mar 23,2017 13:43:39 [Info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Mar 23,2017 13:43:39 [Info]  *****Verifying the available Buttons at 'Add Episodes window'*****
+Mar 23,2017 13:43:40 [Info]  Verify The data of AddEpisodes Window Header
+<span style="color:green;">Mar 23,2017 13:43:40 [Verification]  Verified that Expected value :[Please enter the episode number (e.g. 300) or range of episodes (e.g. 1-300) you wish to add. The number of episodes you could add at a time is limited to 300.] is matched with Actual value :[Please enter the episode number (e.g. 300) or range of episodes (e.g. 1-300) you wish to add. The number of episodes you could add at a time is limited to 300.]</span>
+Mar 23,2017 13:43:40 [Info]  Verify The data of 'OK' button AddEpisodes Window
+<span style="color:green;">Mar 23,2017 13:43:40 [Verification]  Verified that Expected value :[OK] is matched with Actual value :[OK]</span>
+Mar 23,2017 13:43:40 [Info]  Verify The data of 'Cancel' button AddEpisodes Window
+<span style="color:green;">Mar 23,2017 13:43:40 [Verification]  Verified that Expected value :[Cancel] is matched with Actual value :[Cancel]</span>
+Mar 23,2017 13:43:40 [Info]  
+<span style="color:blue;"> [Manual Test Step] : TC_2.5_Episode Tab_011</span>
+Mar 23,2017 13:43:41 [Info]  Entered "1-5" in field 'Add Episode input field'
+Mar 23,2017 13:43:41 [Info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Mar 23,2017 13:43:44 [Info]  ******Select Season 1 for Episode 1 and Verify the default season for Episode 2*****
+Mar 23,2017 13:43:44 [Info]  Clicked on the 'Season Field of First Row' using JS Executor
+Mar 23,2017 13:43:46 [Info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Mar 23,2017 13:43:46 [Info]  Clicked on the 'Season 1'
+Mar 23,2017 13:43:47 [Info]  Clicked on the 'Support click to select season'
+Mar 23,2017 13:43:50 [Info]  Verify The data of 'deafult' value for 2nd Episodes of Edit Episode window after selecting 'Season 1' for 'Episode 1'
+<span style="color:green;">Mar 23,2017 13:43:50 [Verification]  Verified that Expected value :[Season 1] is matched with Actual value :[Season 1]</span>
+Mar 23,2017 13:43:50 [Info]  
+Mar 23,2017 13:43:50 [Info]  ******Select Season 2 for Episode 2 and Verify the default season for Episode 3*****
+Mar 23,2017 13:43:50 [Info]  Clicked on the 'Season Field of Episode002' using JS Executor
+Mar 23,2017 13:43:53 [Info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Mar 23,2017 13:43:53 [Info]  Clicked on the 'Season 2'
+Mar 23,2017 13:43:54 [Info]  Clicked on the 'Support click to select season'
+Mar 23,2017 13:43:54 [Info]  Verify The data of 'deafult' value for 3rd Episodes of 'Edit Episode Window' after selecting 'Season 2' for 'Episode 2'
+<span style="color:green;">Mar 23,2017 13:43:54 [Verification]  Verified that Expected value :[Season 2] is matched with Actual value :[Season 2]</span>
+Mar 23,2017 13:43:57 [Info]  
+Mar 23,2017 13:43:57 [Info]  ******Select Season 3 for Episode 3 and Verify the default season for Episode 4*****
+Mar 23,2017 13:43:57 [Info]  Clicked on the 'Season Field of Episode002' using JS Executor
+Mar 23,2017 13:44:02 [Info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Mar 23,2017 13:44:03 [Info]  Clicked on the 'Season 3'
+Mar 23,2017 13:44:03 [Info]  Clicked on the 'Support click to select season'
+Mar 23,2017 13:44:03 [Info]  Verify The data of 'deafult' value for 4th Episodes of 'Edit Episode Window' after selecting 'Season 3' for 'Episode 3'
+<span style="color:green;">Mar 23,2017 13:44:03 [Verification]  Verified that Expected value :[Season 3] is matched with Actual value :[Season 3]</span>
+Mar 23,2017 13:44:07 [Info]  Clicked on the 'Save Button at 'Episode Edit Window'' using JS Executor
+Mar 23,2017 13:44:12 [Info]  Clicked on the 'Close Button at 'Episode Edit Window'' using JS Executor
+Mar 23,2017 13:44:18 [Info]  Test 'TC1_EpisodeUI' PASSED
+Mar 23,2017 13:44:19 [Info]  Closed the Browser
+Mar 23,2017 13:52:56 [Info]  
+
+Mar 23,2017 13:53:29 [Info]  ***
+Mar 23,2017 13:53:29 [Info]  
+
+Mar 23,2017 13:53:29 [Info]  
+
+Mar 23,2017 13:53:29 [Info]  ***
+***
+
+
+
+
+***
+***
+
+
+***
+<span style="color:red;">Mar 23,2017 13:55:33 [Fail]  *BUG**</span>
+
+
+Mar 23,2017 13:55:35 [Info]  ***
+<span style="color:red;">Mar 23,2017 13:56:04 [Fail]  *BUG**</span>
+
+
+Mar 23,2017 13:56:06 [Info]  ***
+<span style="color:blue;"> [Manual Test Step]</span>
+Mar 23,2017 15:00:00 [Info]  ********************Started Executiong the Test Suite at 15:00:00******************
+Mar 23,2017 15:00:00 [Info]  Client: PROSIBIEN
+Mar 23,2017 15:00:00 [Info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Mar 23,2017 15:00:00 [Info]  *********************Started Executing 'TC1_EpisodeUI' Test Case*********************
+Mar 23,2017 15:00:10 [Info]  Client: PROSIBIEN
+Mar 23,2017 15:00:10 [Info]  URL: http://rlv3wb59/Home.aspx 
+Mar 23,2017 15:00:10 [Info]  UserName: admin
+Mar 23,2017 15:00:10 [Info]  Password: admin
+Mar 23,2017 15:00:11 [Info]  Entered "admin" in field 'User Name'
+Mar 23,2017 15:00:11 [Info]  Clicked on the 'Temporary Check Box'
+Mar 23,2017 15:00:12 [Info]  Entered "admin" in field 'Password'
+Mar 23,2017 15:00:12 [Info]  Clicked on the 'LoginButton'
+Mar 23,2017 15:00:19 [Info]  ************************Started Creating Asset of Type: Program - Series************************
+Mar 23,2017 15:00:30 [Info]  Clicked on the 'MODULE'
+Mar 23,2017 15:00:38 [Info]  Clicked on the 'Asset Maintenance'
+Mar 23,2017 15:00:50 [Info]  Clicked on the 'New Button' using JS Executor
+Mar 23,2017 15:00:50 [Info]  Clicked on the 'Program' using JS Executor
+Mar 23,2017 15:00:59 [Info]  Clicked on the 'General TAB'
+Mar 23,2017 15:01:01 [Info]  Selected "Program - Series" in "AssetTypeDropDown" drop down
+Mar 23,2017 15:01:06 [Info]  Entered "AUT_AssetSeries_0323201730018" in field 'AssetTitle'
+Mar 23,2017 15:01:06 [Info]  Clicked on the 'Vendor Img Icon' using JS Executor
+Mar 23,2017 15:01:08 [Info]  Entered "AUT_PRO_Vendor1" in field 'SearchvalueVendor'
+Mar 23,2017 15:01:11 [Info]  Clicked on the 'VendorWindowButtonfind' using JS Executor
+Mar 23,2017 15:01:16 [Info]  Clicked on the 'VendorName At VendorWindow'
+Mar 23,2017 15:01:16 [Info]  Clicked on the 'Vendor Select Button' using JS Executor
+Mar 23,2017 15:01:20 [Info]  Verify The data of Vendor1
+<span style="color:green;">Mar 23,2017 15:01:20 [Verification]  Verified that Expected value :[AUT_PRO_Vendor1] is matched with Actual value :[AUT_PRO_Vendor1]</span>
+Mar 23,2017 15:01:21 [Info]  Clicked on the 'SBUImage' using JS Executor
+Mar 23,2017 15:01:22 [Info]  Verify The data of SBU Window/Owner Channel Header
+<span style="color:green;">Mar 23,2017 15:01:22 [Verification]  Verified that Expected value :[Source Business Unit Template] is matched with Actual value :[Source Business Unit Template]</span>
+Mar 23,2017 15:01:28 [Info]  Clicked on the 'First CheckBox At SBU window'
+Mar 23,2017 15:01:30 [Info]  Clicked on the 'Apply Button' using JS Executor
+Mar 23,2017 15:01:31 [Info]  Entered "11:11:11" in field 'Duration'
+Mar 23,2017 15:01:42 [Info]  Selected "Scripted" in "Asset Format" drop down
+Mar 23,2017 15:01:42 [Info]  Selected "Licensed Acquired" in "Asset Source" drop down
+Mar 23,2017 15:01:43 [Info]  Selected "Spielfilm" in "Asset Category/Group" drop down
+Mar 23,2017 15:01:44 [Info]  Entered "AUT_Series" in field 'Short Name'
+Mar 23,2017 15:01:44 [Info]  Clicked on the 'Save Button' using JS Executor
+Mar 23,2017 15:01:50 [Info]  Verify The data of Created AssetAUT_AssetSeries_0323201730018
+<span style="color:green;">Mar 23,2017 15:01:50 [Verification]  Verified that Expected value :[AUT_AssetSeries_0323201730018] is matched with Actual value :[AUT_AssetSeries_0323201730018]</span>
+Mar 23,2017 15:01:51 [Info]  ************************Created Asset of TypeProgram - Series************************
+Mar 23,2017 15:02:01 [Info]  Clicked on the 'MODULE'
+Mar 23,2017 15:02:10 [Info]  Clicked on the 'Asset Maintenance'
+Mar 23,2017 15:02:21 [Info]  Double clicked on 'AUT_AssetSeries_0323201730018AssetName'
+Mar 23,2017 15:02:27 [Info]  Clicked on the 'Episodes TAB'
+
+<span style="color:blue;"> [Manual Test Step]: TC_2.5_Episode Tab_002</span>
+Mar 23,2017 15:02:27 [Info]  *****************The below are buttons in the Episode Wiondow at View Mode*****************
+Mar 23,2017 15:02:27 [Info]  Verify The data of EditEpisodes Button
+<span style="color:green;">Mar 23,2017 15:02:27 [Verification]  Verified that Expected value :[Edit Episode] is matched with Actual value :[Edit Episode]</span>
+Mar 23,2017 15:02:27 [Info]  Verify The data of Edit button
+<span style="color:green;">Mar 23,2017 15:02:27 [Verification]  Verified that Expected value :[Edit...] is matched with Actual value :[Edit...]</span>
+Mar 23,2017 15:02:27 [Info]  Clicked on the ''Edit' Button at Episode window' using JS Executor
+
+Mar 23,2017 15:02:30 [Info]  *****Verifying the Filters of 'Edit Episodes window'*****
+Mar 23,2017 15:02:31 [Info]  Verify The data of filter Criteria 1
+<span style="color:green;">Mar 23,2017 15:02:31 [Verification]  Verified that Expected value :[Filter Criteria: Season:] is matched with Actual value :[Filter Criteria: Season:]</span>
+Mar 23,2017 15:02:31 [Info]  Verify The data of filter Criteria 2
+<span style="color:red;">Mar 23,2017 15:02:31 [Fail]  ====Failed==== Expected value is:[Episode: ] but Actual value is[Episode:]. Please check the screenshot with name: filter Criteria 2for more details</span>
+Mar 23,2017 15:02:31 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\23\filterCriteria2_CheckpointFailure_03-23-2017 3-02-31 PM.jpg
+
+<span style="color:blue;"> [Manual Test Step]: TC_2.5_Episode Tab_003</span>
+Mar 23,2017 15:02:31 [Info]  *****Verifying the Headers of 'Edit Episodes window'*****
+Mar 23,2017 15:02:31 [Info]  Verify The data of Title Header
+<span style="color:green;">Mar 23,2017 15:02:31 [Verification]  Verified that Expected value :[*Episode Name] is matched with Actual value :[*Episode Name]</span>
+Mar 23,2017 15:02:31 [Info]  Verify The data of Season Header
+<span style="color:green;">Mar 23,2017 15:02:31 [Verification]  Verified that Expected value :[Season] is matched with Actual value :[Season]</span>
+Mar 23,2017 15:02:31 [Info]  Verify The data of Episode Number Header
+<span style="color:green;">Mar 23,2017 15:02:31 [Verification]  Verified that Expected value :[Episode#] is matched with Actual value :[Episode#]</span>
+Mar 23,2017 15:02:32 [Info]  Verify The data of TBA Header
+<span style="color:red;">Mar 23,2017 15:02:32 [Fail]  ====Failed==== Expected value is:[TBA] but Actual value is[Status Planned]. Please check the screenshot with name: TBA Headerfor more details</span>
+Mar 23,2017 15:02:32 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\23\TBAHeader_CheckpointFailure_03-23-2017 3-02-32 PM.jpg
+Mar 23,2017 15:02:32 [Info]  Verify The data of Season Closer Header
+<span style="color:green;">Mar 23,2017 15:02:32 [Verification]  Verified that Expected value :[Season Finale] is matched with Actual value :[Season Finale]</span>
+Mar 23,2017 15:02:32 [Info]  Verify The data of AirOrder Header
+<span style="color:green;">Mar 23,2017 15:02:32 [Verification]  Verified that Expected value :[Airing Order] is matched with Actual value :[Airing Order]</span>
+Mar 23,2017 15:02:32 [Info]  Verify The data of Program Duration Header
+<span style="color:green;">Mar 23,2017 15:02:32 [Verification]  Verified that Expected value :[Duration] is matched with Actual value :[Duration]</span>
+Mar 23,2017 15:02:32 [Info]  Verify The data of VMID Header
+<span style="color:green;">Mar 23,2017 15:02:32 [Verification]  Verified that Expected value :[English Name] is matched with Actual value :[English Name]</span>
+
+Mar 23,2017 15:02:32 [Info]  *****Verifying the available Buttons at 'Edit Episodes window'*****
+Mar 23,2017 15:02:32 [Info]  Verify The data of Copy Episodes
+<span style="color:green;">Mar 23,2017 15:02:32 [Verification]  Verified that Expected value :[Copy Episodes...] is matched with Actual value :[Copy Episodes...]</span>
+Mar 23,2017 15:02:33 [Info]  Verify The data of CopySeason
+<span style="color:green;">Mar 23,2017 15:02:33 [Verification]  Verified that Expected value :[Copy Season...] is matched with Actual value :[Copy Season...]</span>
+Mar 23,2017 15:02:33 [Info]  Verify The data of UpdateTool
+<span style="color:green;">Mar 23,2017 15:02:33 [Verification]  Verified that Expected value :[Update Tool] is matched with Actual value :[Update Tool]</span>
+Mar 23,2017 15:02:33 [Info]  Verify The data of Add Episodes
+<span style="color:green;">Mar 23,2017 15:02:33 [Verification]  Verified that Expected value :[Add...] is matched with Actual value :[Add...]</span>
+Mar 23,2017 15:02:33 [Info]  Verify The data of Delete Episodes
+<span style="color:green;">Mar 23,2017 15:02:33 [Verification]  Verified that Expected value :[Delete] is matched with Actual value :[Delete]</span>
+Mar 23,2017 15:02:33 [Info]  Verify The data of Save Episodes
+<span style="color:green;">Mar 23,2017 15:02:33 [Verification]  Verified that Expected value :[Save] is matched with Actual value :[Save]</span>
+Mar 23,2017 15:02:33 [Info]  Verify The data of Close Episodes
+<span style="color:green;">Mar 23,2017 15:02:33 [Verification]  Verified that Expected value :[Close] is matched with Actual value :[Close]</span>
+
+Mar 23,2017 15:02:33 [Info]  *****Click on Delete Episodes, verify the Alert message and Click on OK button*****
+Mar 23,2017 15:02:33 [Info]  Clicked on the ''Delete' Button at Episode window' using JS Executor
+Mar 23,2017 15:02:34 [Info]  Verify The data of Alert Message While deleting the Episode
+<span style="color:green;">Mar 23,2017 15:02:34 [Verification]  Verified that Expected value :[Please select an episode before clicking on Delete button.] is matched with Actual value :[  RightsLogic Alert  
+    Please select an episode before clicking on Delete button.
+       ]</span>
+Mar 23,2017 15:02:37 [Info]  Clicked on the 'OK Button at Alert While deleting the Episode' using JS Executor
+
+<span style="color:blue;"> [Manual Test Step]: TC_2.5_Episode Tab_006</span>
+Mar 23,2017 15:02:37 [Info]  ******Click on 'Copy Episode', verify the Alert message and Click on OK button******
+Mar 23,2017 15:02:38 [Info]  Clicked on the ''CopyEpisodes' Button at Episode window' using JS Executor
+Mar 23,2017 15:02:38 [Info]  Verify The data of Alert Message While Copying the Episode
+<span style="color:green;">Mar 23,2017 15:02:38 [Verification]  Verified that Expected value :[Please select at least one Episode before attempting to click on the Copy Episode button.] is matched with Actual value :[  RightsLogic Alert  
+    Please select at least one Episode before attempting to click on the Copy Episode button.
+       ]</span>
+Mar 23,2017 15:02:38 [Info]  Clicked on the 'OK Button at Alert While Copying the Episode' using JS Executor
+
+Mar 23,2017 15:02:39 [Info]  ******Click on 'Copy Season', verify the Alert message and Click on OK button******
+Mar 23,2017 15:02:39 [Info]  Clicked on the ''Copy Season' Button at Episode window' using JS Executor
+Mar 23,2017 15:02:39 [Info]  Verify The data of Alert Message While Copying the Season
+<span style="color:green;">Mar 23,2017 15:02:39 [Verification]  Verified that Expected value :[Please select a Season before attempting to click on the Copy Season button.] is matched with Actual value :[  RightsLogic Alert  
+    Please select a Season before attempting to click on the Copy Season button.
+       ]</span>
+Mar 23,2017 15:02:39 [Info]  Clicked on the 'OK Button at Alert While Copying the Season' using JS Executor
+Mar 23,2017 15:02:40 [Info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Mar 23,2017 15:02:40 [Info]  *****Verifying the available Buttons at 'Add Episodes window'*****
+Mar 23,2017 15:02:40 [Info]  Verify The data of AddEpisodes Window Header
+<span style="color:green;">Mar 23,2017 15:02:40 [Verification]  Verified that Expected value :[Please enter the episode number (e.g. 300) or range of episodes (e.g. 1-300) you wish to add. The number of episodes you could add at a time is limited to 300.] is matched with Actual value :[Please enter the episode number (e.g. 300) or range of episodes (e.g. 1-300) you wish to add. The number of episodes you could add at a time is limited to 300.]</span>
+Mar 23,2017 15:02:41 [Info]  Verify The data of 'OK' button AddEpisodes Window
+<span style="color:green;">Mar 23,2017 15:02:41 [Verification]  Verified that Expected value :[OK] is matched with Actual value :[OK]</span>
+Mar 23,2017 15:02:41 [Info]  Verify The data of 'Cancel' button AddEpisodes Window
+<span style="color:green;">Mar 23,2017 15:02:41 [Verification]  Verified that Expected value :[Cancel] is matched with Actual value :[Cancel]</span>
+
+<span style="color:blue;"> [Manual Test Step] : TC_2.5_Episode Tab_011</span>
+Mar 23,2017 15:02:42 [Info]  Entered "1-5" in field 'Add Episode input field'
+Mar 23,2017 15:02:42 [Info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Mar 23,2017 15:02:44 [Info]  ******Select Season 1 for Episode 1 and Verify the default season for Episode 2*****
+Mar 23,2017 15:02:44 [Info]  Clicked on the 'Season Field of First Row' using JS Executor
+Mar 23,2017 15:02:46 [Info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Mar 23,2017 15:02:46 [Info]  Clicked on the 'Season 1'
+Mar 23,2017 15:02:47 [Info]  Clicked on the 'Support click to select season'
+Mar 23,2017 15:02:50 [Info]  Verify The data of 'deafult' value for 2nd Episodes of Edit Episode window after selecting 'Season 1' for 'Episode 1'
+<span style="color:green;">Mar 23,2017 15:02:50 [Verification]  Verified that Expected value :[Season 1] is matched with Actual value :[Season 1]</span>
+
+Mar 23,2017 15:02:50 [Info]  ******Select Season 2 for Episode 2 and Verify the default season for Episode 3*****
+Mar 23,2017 15:02:50 [Info]  Clicked on the 'Season Field of Episode002' using JS Executor
+Mar 23,2017 15:02:53 [Info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Mar 23,2017 15:02:53 [Info]  Clicked on the 'Season 2'
+Mar 23,2017 15:02:53 [Info]  Clicked on the 'Support click to select season'
+Mar 23,2017 15:02:53 [Info]  Verify The data of 'deafult' value for 3rd Episodes of 'Edit Episode Window' after selecting 'Season 2' for 'Episode 2'
+<span style="color:green;">Mar 23,2017 15:02:53 [Verification]  Verified that Expected value :[Season 2] is matched with Actual value :[Season 2]</span>
+
+Mar 23,2017 15:02:56 [Info]  ******Select Season 3 for Episode 3 and Verify the default season for Episode 4*****
+Mar 23,2017 15:02:57 [Info]  Clicked on the 'Season Field of Episode002' using JS Executor
+Mar 23,2017 15:03:02 [Info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Mar 23,2017 15:03:03 [Info]  Clicked on the 'Season 3'
+Mar 23,2017 15:03:03 [Info]  Clicked on the 'Support click to select season'
+Mar 23,2017 15:03:03 [Info]  Verify The data of 'deafult' value for 4th Episodes of 'Edit Episode Window' after selecting 'Season 3' for 'Episode 3'
+<span style="color:green;">Mar 23,2017 15:03:03 [Verification]  Verified that Expected value :[Season 3] is matched with Actual value :[Season 3]</span>
+Mar 23,2017 15:03:06 [Info]  Clicked on the 'Save Button at 'Episode Edit Window'' using JS Executor
+Mar 23,2017 15:03:10 [Info]  Clicked on the 'Close Button at 'Episode Edit Window'' using JS Executor
+
+<span style="color:blue;"> [Manual Test Step] : TC_2.5_Episode Tab_018</span>
+Mar 23,2017 15:03:17 [Info]  *******verify that 'Same Episode Numbers with the Same Rights Version Type are not allowed.'  *****
+Mar 23,2017 15:03:17 [Info]  Clicked on the ''Edit' Button at Episode window' using JS Executor
+Mar 23,2017 15:03:20 [Info]  Clicked on the ''ClearFilter' at Episode window' using JS Executor
+Mar 23,2017 15:03:23 [Info]  Clicked on the ''Add Episodes' at Episode window' using JS Executor
+Mar 23,2017 15:03:24 [Info]  Entered "1" in field 'Add Episode input field'
+Mar 23,2017 15:03:24 [Info]  Clicked on the ''OK Button' at AddEpisode window' using JS Executor
+Mar 23,2017 15:03:26 [Info]  Clicked on the 'Season Field of Episode006' using JS Executor
+Mar 23,2017 15:03:27 [Info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Mar 23,2017 15:03:28 [Info]  Clicked on the 'Season 1'
+Mar 23,2017 15:03:28 [Info]  Clicked on the 'Support click to select season'
+Mar 23,2017 15:03:29 [Info]  Clicked on the 'Save Button at 'Episode Edit Window'' using JS Executor
+Mar 23,2017 15:03:35 [Info]  Clicked on the 'Episode Number'
+Mar 23,2017 15:03:35 [Info]  Entered "6" in field 'Episodes Number'
+Mar 23,2017 15:03:35 [Info]  Clicked on the 'Support click to select season'
+Mar 23,2017 15:03:36 [Info]  Clicked on the 'Save Button at 'Episode Edit Window'' using JS Executor
+Mar 23,2017 15:03:41 [Info]  Clicked on the 'Close Button at 'Episode Edit Window'' using JS Executor
+Mar 23,2017 15:03:47 [Info]  Test 'TC1_EpisodeUI' PASSED
+Mar 23,2017 15:03:48 [Info]  Closed the Browser
+Mar 23,2017 15:07:44 [Info]  ********************Started Executiong the Test Suite at 15:07:44******************
+Mar 23,2017 15:07:44 [Info]  Client: PROSIBIEN
+Mar 23,2017 15:07:44 [Info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Mar 23,2017 15:07:44 [Info]  *********************Started Executing 'TC2_EpisodeAutoNo' Test Case*********************
+Mar 23,2017 15:07:53 [Info]  Client: PROSIBIEN
+Mar 23,2017 15:07:53 [Info]  URL: http://rlv3wb59/Home.aspx 
+Mar 23,2017 15:07:53 [Info]  UserName: admin
+Mar 23,2017 15:07:53 [Info]  Password: admin
+Mar 23,2017 15:07:55 [Info]  Entered "admin" in field 'User Name'
+Mar 23,2017 15:07:55 [Info]  Clicked on the 'Temporary Check Box'
+Mar 23,2017 15:07:55 [Info]  Entered "admin" in field 'Password'
+Mar 23,2017 15:07:56 [Info]  Clicked on the 'LoginButton'
+Mar 23,2017 15:08:02 [Info]  ************************Started Creating Asset of Type: Program - Series************************
+Mar 23,2017 15:08:13 [Info]  Clicked on the 'MODULE'
+Mar 23,2017 15:08:22 [Info]  Clicked on the 'Asset Maintenance'
+Mar 23,2017 15:08:33 [Info]  Clicked on the 'New Button' using JS Executor
+Mar 23,2017 15:08:34 [Info]  Clicked on the 'Program' using JS Executor
+Mar 23,2017 15:08:43 [Info]  Clicked on the 'General TAB'
+Mar 23,2017 15:08:45 [Info]  Selected "Program - Series" in "AssetTypeDropDown" drop down
+Mar 23,2017 15:08:49 [Info]  Entered "AUT_AssetSeries_0323201730802" in field 'AssetTitle'
+Mar 23,2017 15:08:50 [Info]  Clicked on the 'Vendor Img Icon' using JS Executor
+Mar 23,2017 15:08:52 [Info]  Entered "AUT_PRO_Vendor1" in field 'SearchvalueVendor'
+Mar 23,2017 15:08:54 [Info]  Clicked on the 'VendorWindowButtonfind' using JS Executor
+Mar 23,2017 15:08:59 [Info]  Clicked on the 'VendorName At VendorWindow'
+Mar 23,2017 15:08:59 [Info]  Clicked on the 'Vendor Select Button' using JS Executor
+Mar 23,2017 15:09:03 [Info]  Verify The data of Vendor1
+<span style="color:green;">Mar 23,2017 15:09:03 [Verification]  Verified that Expected value :[AUT_PRO_Vendor1] is matched with Actual value :[AUT_PRO_Vendor1]</span>
+Mar 23,2017 15:09:03 [Info]  Clicked on the 'SBUImage' using JS Executor
+Mar 23,2017 15:09:04 [Info]  Verify The data of SBU Window/Owner Channel Header
+<span style="color:green;">Mar 23,2017 15:09:04 [Verification]  Verified that Expected value :[Source Business Unit Template] is matched with Actual value :[Source Business Unit Template]</span>
+Mar 23,2017 15:09:11 [Info]  Clicked on the 'First CheckBox At SBU window'
+Mar 23,2017 15:09:13 [Info]  Clicked on the 'Apply Button' using JS Executor
+Mar 23,2017 15:09:14 [Info]  Entered "11:11:11" in field 'Duration'
+Mar 23,2017 15:09:25 [Info]  Selected "Scripted" in "Asset Format" drop down
+Mar 23,2017 15:09:25 [Info]  Selected "Licensed Acquired" in "Asset Source" drop down
+Mar 23,2017 15:09:26 [Info]  Selected "Spielfilm" in "Asset Category/Group" drop down
+Mar 23,2017 15:09:27 [Info]  Entered "AUT_Series" in field 'Short Name'
+Mar 23,2017 15:09:27 [Info]  Clicked on the 'Save Button' using JS Executor
+Mar 23,2017 15:09:33 [Info]  Verify The data of Created AssetAUT_AssetSeries_0323201730802
+<span style="color:green;">Mar 23,2017 15:09:33 [Verification]  Verified that Expected value :[AUT_AssetSeries_0323201730802] is matched with Actual value :[AUT_AssetSeries_0323201730802]</span>
+Mar 23,2017 15:09:33 [Info]  ************************Created Asset of TypeProgram - Series************************
+Mar 23,2017 15:09:43 [Info]  Clicked on the 'MODULE'
+Mar 23,2017 15:09:52 [Info]  Clicked on the 'Asset Maintenance'
+Mar 23,2017 15:10:03 [Info]  Double clicked on 'AUT_AssetSeries_0323201730802AssetName'
+Mar 23,2017 15:10:09 [Info]  Clicked on the 'Episodes TAB'
+
+Mar 23,2017 15:10:09 [Info]  *****************The below are buttons in the window*****************
+Mar 23,2017 15:10:09 [Info]  Verify The data of EditEpisodes Button
+<span style="color:green;">Mar 23,2017 15:10:09 [Verification]  Verified that Expected value :[Edit Episode] is matched with Actual value :[Edit Episode]</span>
+Mar 23,2017 15:10:09 [Info]  Verify The data of Edit button
+<span style="color:green;">Mar 23,2017 15:10:09 [Verification]  Verified that Expected value :[Edit...] is matched with Actual value :[Edit...]</span>
+
+Mar 23,2017 15:10:09 [Info]  Clicked on the ''Edit' Button at Episode window' using JS Executor
+Mar 23,2017 15:10:13 [Info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Mar 23,2017 15:10:14 [Info]  Entered "1" in field 'Add Episode input field'
+Mar 23,2017 15:10:14 [Info]  Clicked on the ''OK Button' at AddEpisode window' using JS Executor
+
+Mar 23,2017 15:10:16 [Info]  ******Select Season 1 for Episode 1 and Verify the default season for Episode 2*****
+Mar 23,2017 15:10:16 [Info]  Clicked on the 'Season Field of First Row' using JS Executor
+Mar 23,2017 15:10:18 [Info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Mar 23,2017 15:10:18 [Info]  Clicked on the 'Season 1'
+Mar 23,2017 15:10:19 [Info]  Clicked on the 'Support click to select season'
+Mar 23,2017 15:10:22 [Info]  Clicked on the 'Support click to select Initial Air Date'
+
+<span style="color:blue;"> [Manual Test Step] : TC_2.5_Episode Tab_08</span>
+<span style="color:red;">Mar 23,2017 15:10:35 [Fail]  ====Failed==== " Could not find the Frame: div[id*='WebDialogWindow2'][style*=visible]</span>
+<span style="color:red;">Mar 23,2017 15:10:36 [Fail]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\23\FrameSwitchingFailed0_CheckpointFailure_03-23-2017 3-10-35 PM.jpg</span>
+Mar 23,2017 15:10:36 [Info]  Unable to find element with css selector == div[id*='WebDialogWindow2'][style*=visible] (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.28 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: '9P4G6BS', ip: '10.10.22.71', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=true, ie.forceCreateProcessApi=false, pageLoadStrategy=normal, ie.usePerProcessProxy=false, ignoreZoomSetting=false, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=false, browserName=internet explorer, initialBrowserUrl=http://localhost:40945/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=false, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: 57745d11-b0a3-4ff3-98e7-83e134e07495
+*** Element info: {Using=css selector, value=div[id*='WebDialogWindow2'][style*=visible]}
+<span style="color:red;">Mar 23,2017 15:10:46 [Fail]  ====Failed==== "Note_Restriction Check Box" field is not present'</span>
+Mar 23,2017 15:10:46 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\23\Note_RestrictionCheckBox_CheckpointFailure_03-23-2017 3-10-46 PM.jpg
+<span style="color:red;">Mar 23,2017 15:10:56 [Fail]  ====Failed==== "OK button at Note Window" field is not present'</span>
+Mar 23,2017 15:10:56 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\23\OKbuttonatNoteWindow_CheckpointFailure_03-23-2017 3-10-56 PM.jpg
+Mar 23,2017 15:10:57 [Info]  Clicked on the 'Save Button at 'Edit Window'' using JS Executor
+Mar 23,2017 15:11:00 [Info]  Clicked on the 'Close Button at 'Episode Edit Window'' using JS Executor
+
+<span style="color:blue;"> [Manual Test Step] : TC_2.5_Episode Tab_14</span>
+Mar 23,2017 15:11:07 [Info]  Verify that "Asset/Property/Episode Id" is system generated
+Mar 23,2017 15:11:07 [Info]  =====Info===== System Generated Asset/Property/Episode Id and Source System Name are not applicable for : -PROSIBIEN
+Mar 23,2017 15:11:07 [Info]  Test 'TC2_EpisodeAutoNo' PASSED
+Mar 23,2017 15:11:08 [Info]  Closed the Browser
+Mar 23,2017 15:16:16 [Info]  ********************Started Executiong the Test Suite at 15:16:16******************
+Mar 23,2017 15:16:16 [Info]  Client: PROSIBIEN
+Mar 23,2017 15:16:16 [Info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Mar 23,2017 15:16:16 [Info]  *********************Started Executing 'TC3_EpisodeRightVersion' Test Case*********************
+Mar 23,2017 15:16:26 [Info]  Client: PROSIBIEN
+Mar 23,2017 15:16:26 [Info]  URL: http://rlv3wb59/Home.aspx 
+Mar 23,2017 15:16:26 [Info]  UserName: admin
+Mar 23,2017 15:16:26 [Info]  Password: admin
+Mar 23,2017 15:16:27 [Info]  Entered "admin" in field 'User Name'
+Mar 23,2017 15:16:28 [Info]  Clicked on the 'Temporary Check Box'
+Mar 23,2017 15:16:28 [Info]  Entered "admin" in field 'Password'
+Mar 23,2017 15:16:33 [Info]  Clicked on the 'LoginButton'
+Mar 23,2017 15:16:40 [Info]  ************************Started Creating Asset of Type: Program - Series************************
+Mar 23,2017 15:16:51 [Info]  Clicked on the 'MODULE'
+Mar 23,2017 15:16:59 [Info]  Clicked on the 'Asset Maintenance'
+Mar 23,2017 15:17:11 [Info]  Clicked on the 'New Button' using JS Executor
+Mar 23,2017 15:17:11 [Info]  Clicked on the 'Program' using JS Executor
+Mar 23,2017 15:17:21 [Info]  Clicked on the 'General TAB'
+Mar 23,2017 15:17:23 [Info]  Selected "Program - Series" in "AssetTypeDropDown" drop down
+Mar 23,2017 15:17:27 [Info]  Entered "AUT_AssetSeries_0323201731639" in field 'AssetTitle'
+Mar 23,2017 15:17:27 [Info]  Clicked on the 'Vendor Img Icon' using JS Executor
+Mar 23,2017 15:17:30 [Info]  Entered "AUT_PRO_Vendor1" in field 'SearchvalueVendor'
+Mar 23,2017 15:17:32 [Info]  Clicked on the 'VendorWindowButtonfind' using JS Executor
+Mar 23,2017 15:17:37 [Info]  Clicked on the 'VendorName At VendorWindow'
+Mar 23,2017 15:17:37 [Info]  Clicked on the 'Vendor Select Button' using JS Executor
+Mar 23,2017 15:17:41 [Info]  Verify The data of Vendor1
+<span style="color:green;">Mar 23,2017 15:17:41 [Verification]  Verified that Expected value :[AUT_PRO_Vendor1] is matched with Actual value :[AUT_PRO_Vendor1]</span>
+Mar 23,2017 15:17:41 [Info]  Clicked on the 'SBUImage' using JS Executor
+Mar 23,2017 15:17:42 [Info]  Verify The data of SBU Window/Owner Channel Header
+<span style="color:green;">Mar 23,2017 15:17:42 [Verification]  Verified that Expected value :[Source Business Unit Template] is matched with Actual value :[Source Business Unit Template]</span>
+Mar 23,2017 15:17:49 [Info]  Clicked on the 'First CheckBox At SBU window'
+Mar 23,2017 15:17:51 [Info]  Clicked on the 'Apply Button' using JS Executor
+Mar 23,2017 15:17:52 [Info]  Entered "11:11:11" in field 'Duration'
+Mar 23,2017 15:18:03 [Info]  Selected "Scripted" in "Asset Format" drop down
+Mar 23,2017 15:18:03 [Info]  Selected "Licensed Acquired" in "Asset Source" drop down
+Mar 23,2017 15:18:04 [Info]  Selected "Spielfilm" in "Asset Category/Group" drop down
+Mar 23,2017 15:18:05 [Info]  Entered "AUT_Series" in field 'Short Name'
+Mar 23,2017 15:18:05 [Info]  Clicked on the 'Save Button' using JS Executor
+Mar 23,2017 15:18:11 [Info]  Verify The data of Created AssetAUT_AssetSeries_0323201731639
+<span style="color:green;">Mar 23,2017 15:18:11 [Verification]  Verified that Expected value :[AUT_AssetSeries_0323201731639] is matched with Actual value :[AUT_AssetSeries_0323201731639]</span>
+Mar 23,2017 15:18:11 [Info]  ************************Created Asset of TypeProgram - Series************************
+Mar 23,2017 15:18:22 [Info]  Clicked on the 'MODULE'
+Mar 23,2017 15:18:30 [Info]  Clicked on the 'Asset Maintenance'
+Mar 23,2017 15:18:41 [Info]  Double clicked on 'AUT_AssetSeries_0323201731639AssetName'
+Mar 23,2017 15:18:47 [Info]  Clicked on the 'Episodes TAB'
+Mar 23,2017 15:18:47 [Info]  Clicked on the ''Edit' Button at Episode window' using JS Executor
+Mar 23,2017 15:18:51 [Info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Mar 23,2017 15:18:51 [Info]  Entered "1-2" in field 'Add Episode input field'
+Mar 23,2017 15:18:52 [Info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Mar 23,2017 15:18:54 [Info]  Clicked on the 'Season Field of Episode001' using JS Executor
+Mar 23,2017 15:18:55 [Info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Mar 23,2017 15:18:56 [Info]  Clicked on the 'Season 1'
+Mar 23,2017 15:18:56 [Info]  Clicked on the 'Support click to select season'
+
+Mar 23,2017 15:18:59 [Info]  *****************Change season of Episode002 to Season 2 from Season 1*****************
+Mar 23,2017 15:18:59 [Info]  Clicked on the 'Season Field of Episode002' using JS Executor
+Mar 23,2017 15:19:01 [Info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Mar 23,2017 15:19:01 [Info]  Clicked on the 'Season 2'
+Mar 23,2017 15:19:01 [Info]  Clicked on the 'Support click to select season'
+Mar 23,2017 15:19:05 [Info]  Clicked on the 'Save Button at 'Episode Edit Window'' using JS Executor
+Mar 23,2017 15:19:08 [Info]  Clicked on the ''ClearFilter' at Episode window' using JS Executor
+
+Mar 23,2017 15:19:10 [Info]  *****************Verify that Airing order does not change after changing the Season of Episode002*******
+Mar 23,2017 15:19:10 [Info]  Verify The data of Airing Order
+<span style="color:green;">Mar 23,2017 15:19:10 [Verification]  Verified that Expected value :[2] is matched with Actual value :[2]</span>
+Mar 23,2017 15:19:10 [Info]  Clicked on the ''ClearFilter' at Episode window' using JS Executor
+Mar 23,2017 15:19:13 [Info]  *******Change Episode's season name and airing order*******
+Mar 23,2017 15:19:13 [Info]  Clicked on the 'Season Field of Episode002' using JS Executor
+Mar 23,2017 15:19:15 [Info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Mar 23,2017 15:19:15 [Info]  Clicked on the 'Season 1'
+Mar 23,2017 15:19:16 [Info]  Clicked on the 'Support click to select season'
+
+Mar 23,2017 15:19:16 [Info]  *******Uncheck Season Closed for Episode 1*******
+Mar 23,2017 15:19:16 [Info]  Clicked on the 'UnCheck Season closed Check Box'
+Mar 23,2017 15:19:19 [Info]  Clicked on the 'Save Button at 'Episode Edit Window'' using JS Executor
+Mar 23,2017 15:19:22 [Info]  Clicked on the ''ClearFilter' at Episode window' using JS Executor
+Mar 23,2017 15:19:25 [Info]  Verify The data of Airing Order
+<span style="color:green;">Mar 23,2017 15:19:25 [Verification]  Verified that Expected value :[1] is matched with Actual value :[1]</span>
+Mar 23,2017 15:19:25 [Info]  Verify The data of Airing Order does not change after changing the Season of Episode002
+<span style="color:green;">Mar 23,2017 15:19:25 [Verification]  Verified that Expected value :[2] is matched with Actual value :[2]</span>
+
+<span style="color:blue;"> [Manual Test Step] : TC_2.5_Episode Tab_07</span>
+Mar 23,2017 15:19:25 [Info]  *****Verify that Airing order can not be duplicate*****
+Mar 23,2017 15:19:25 [Info]  Clicked on the 'Airing Order'
+Mar 23,2017 15:19:26 [Info]  Entered "1" in field 'Airing Order for Row 2'
+Mar 23,2017 15:19:26 [Info]  Clicked on the 'Support click to select season'
+Mar 23,2017 15:19:26 [Info]  Clicked on the 'Save Button at 'Episode Edit Window'' using JS Executor
+Mar 23,2017 15:19:29 [Info]  Verify The data of Alert Message for duplicate Airing Order
+<span style="color:green;">Mar 23,2017 15:19:29 [Verification]  Verified that Expected value :[  Please enter different Airing Order, they cannot be same.] is matched with Actual value :[  Validate Airing Order  
+      Please enter different Airing Order, they cannot be same.  
+       ]</span>
+Mar 23,2017 15:19:29 [Info]  Clicked on the 'OK Button at Alert duplicate Airing Order' using JS Executor
+
+<span style="color:blue;"> [Manual Test Step] : TC_2.5_Episode Tab_11</span>
+Mar 23,2017 15:19:29 [Info]  *****Check the Season User Defined check box and Click on the Season title field.*****
+Mar 23,2017 15:19:30 [Info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Mar 23,2017 15:19:30 [Info]  Entered "7" in field 'Add Episode input field'
+Mar 23,2017 15:19:31 [Info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Mar 23,2017 15:19:33 [Info]  Clicked on the 'user defined check box'
+Mar 23,2017 15:19:34 [Info]  Clicked on the 'Support click to check user-defined check box'
+Mar 23,2017 15:19:35 [Info]  Clicked on the 'Episode 003's season field'
+
+Mar 23,2017 15:19:35 [Info]  **********Verifying 'Edit Season pop up' fields AND Buttons************
+Mar 23,2017 15:19:35 [Info]  Verify The data of Episodes_EditSeason_Series title Label
+<span style="color:green;">Mar 23,2017 15:19:35 [Verification]  Verified that Expected value :[Title] is matched with Actual value :[Title]</span>
+Mar 23,2017 15:19:35 [Info]  Verify The data of Episodes_EditSeason_userDefinedLabel
+<span style="color:green;">Mar 23,2017 15:19:35 [Verification]  Verified that Expected value :[User-defined Season Name] is matched with Actual value :[User-defined Season Name]</span>
+Mar 23,2017 15:19:35 [Info]  Verify The data of OK button
+<span style="color:green;">Mar 23,2017 15:19:35 [Verification]  Verified that Expected value :[OK] is matched with Actual value :[OK]</span>
+Mar 23,2017 15:19:35 [Info]  Verify The data of Cancel button
+<span style="color:green;">Mar 23,2017 15:19:35 [Verification]  Verified that Expected value :[Cancel] is matched with Actual value :[Cancel]</span>
+Mar 23,2017 15:19:36 [Info]  Entered "Test Season" in field 'Episodes_EditSeason_userDefined Field'
+
+<span style="color:blue;"> [Manual Test Step] : TC_2.5_Episode Tab_13</span>
+Mar 23,2017 15:19:36 [Info]  *****Verify Validation Message "Please Enter Rights Version Type for this Season"*****
+Mar 23,2017 15:19:39 [Info]  Clicked on the 'OK Button at Alert While for User-defined Season' using JS Executor
+Mar 23,2017 15:19:40 [Info]  Clicked on the 'OKButton' using JS Executor
+Mar 23,2017 15:19:40 [Info]  Clicked on the 'Save Button at 'Episode Edit Window'' using JS Executor
+Mar 23,2017 15:19:43 [Info]  Clicked on the 'Close Button at 'Episode Edit Window'' using JS Executor
+Mar 23,2017 15:19:49 [Info]  Test 'TC3_EpisodeRightVersion' PASSED
+Mar 23,2017 15:19:51 [Info]  Closed the Browser
+Mar 23,2017 15:26:34 [Info]  ********************Started Executiong the Test Suite at 15:26:34******************
+Mar 23,2017 15:26:34 [Info]  Client: PROSIBIEN
+Mar 23,2017 15:26:34 [Info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Mar 23,2017 15:26:34 [Info]  *********************Started Executing 'TC4_EpisodeDelete' Test Case*********************
+Mar 23,2017 15:26:44 [Info]  Client: PROSIBIEN
+Mar 23,2017 15:26:44 [Info]  URL: http://rlv3wb59/Home.aspx 
+Mar 23,2017 15:26:44 [Info]  UserName: admin
+Mar 23,2017 15:26:44 [Info]  Password: admin
+Mar 23,2017 15:26:45 [Info]  Entered "admin" in field 'User Name'
+Mar 23,2017 15:26:45 [Info]  Clicked on the 'Temporary Check Box'
+Mar 23,2017 15:26:46 [Info]  Entered "admin" in field 'Password'
+Mar 23,2017 15:26:51 [Info]  Clicked on the 'LoginButton'
+Mar 23,2017 15:26:57 [Info]  ************************Started Creating Asset of Type: Program - Series************************
+Mar 23,2017 15:27:09 [Info]  Clicked on the 'MODULE'
+Mar 23,2017 15:27:17 [Info]  Clicked on the 'Asset Maintenance'
+Mar 23,2017 15:27:29 [Info]  Clicked on the 'New Button' using JS Executor
+Mar 23,2017 15:27:29 [Info]  Clicked on the 'Program' using JS Executor
+Mar 23,2017 15:27:38 [Info]  Clicked on the 'General TAB'
+Mar 23,2017 15:27:40 [Info]  Selected "Program - Series" in "AssetTypeDropDown" drop down
+Mar 23,2017 15:27:45 [Info]  Entered "AUT_AssetSeries_0323201732657" in field 'AssetTitle'
+Mar 23,2017 15:27:45 [Info]  Clicked on the 'Vendor Img Icon' using JS Executor
+Mar 23,2017 15:27:47 [Info]  Entered "AUT_PRO_Vendor1" in field 'SearchvalueVendor'
+Mar 23,2017 15:27:50 [Info]  Clicked on the 'VendorWindowButtonfind' using JS Executor
+Mar 23,2017 15:27:55 [Info]  Clicked on the 'VendorName At VendorWindow'
+Mar 23,2017 15:27:55 [Info]  Clicked on the 'Vendor Select Button' using JS Executor
+Mar 23,2017 15:27:59 [Info]  Verify The data of Vendor1
+<span style="color:green;">Mar 23,2017 15:27:59 [Verification]  Verified that Expected value :[AUT_PRO_Vendor1] is matched with Actual value :[AUT_PRO_Vendor1]</span>
+Mar 23,2017 15:27:59 [Info]  Clicked on the 'SBUImage' using JS Executor
+Mar 23,2017 15:28:01 [Info]  Verify The data of SBU Window/Owner Channel Header
+<span style="color:green;">Mar 23,2017 15:28:01 [Verification]  Verified that Expected value :[Source Business Unit Template] is matched with Actual value :[Source Business Unit Template]</span>
+Mar 23,2017 15:28:07 [Info]  Clicked on the 'First CheckBox At SBU window'
+Mar 23,2017 15:28:09 [Info]  Clicked on the 'Apply Button' using JS Executor
+Mar 23,2017 15:28:10 [Info]  Entered "11:11:11" in field 'Duration'
+Mar 23,2017 15:28:21 [Info]  Selected "Scripted" in "Asset Format" drop down
+Mar 23,2017 15:28:21 [Info]  Selected "Licensed Acquired" in "Asset Source" drop down
+Mar 23,2017 15:28:22 [Info]  Selected "Spielfilm" in "Asset Category/Group" drop down
+Mar 23,2017 15:28:23 [Info]  Entered "AUT_Series" in field 'Short Name'
+Mar 23,2017 15:28:23 [Info]  Clicked on the 'Save Button' using JS Executor
+Mar 23,2017 15:28:29 [Info]  Verify The data of Created AssetAUT_AssetSeries_0323201732657
+<span style="color:green;">Mar 23,2017 15:28:29 [Verification]  Verified that Expected value :[AUT_AssetSeries_0323201732657] is matched with Actual value :[AUT_AssetSeries_0323201732657]</span>
+Mar 23,2017 15:28:29 [Info]  ************************Created Asset of TypeProgram - Series************************
+Mar 23,2017 15:28:40 [Info]  Clicked on the 'MODULE'
+Mar 23,2017 15:28:48 [Info]  Clicked on the 'Asset Maintenance'
+Mar 23,2017 15:29:09 [Info]  Clicked on the 'MODULE'
+Mar 23,2017 15:29:18 [Info]  Clicked on the 'Asset Maintenance'
+Mar 23,2017 15:29:29 [Info]  Double clicked on 'AUT_AssetSeries_0323201732657AssetName'
+Mar 23,2017 15:29:35 [Info]  Clicked on the 'Episodes TAB'
+Mar 23,2017 15:29:35 [Info]  Clicked on the ''Edit' Button at Episode window' using JS Executor
+Mar 23,2017 15:29:39 [Info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Mar 23,2017 15:29:40 [Info]  Entered "1-5" in field 'Add Episode input field'
+Mar 23,2017 15:29:40 [Info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Mar 23,2017 15:29:42 [Info]  Clicked on the 'Season Field of Episode001' using JS Executor
+Mar 23,2017 15:29:42 [Info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Mar 23,2017 15:29:43 [Info]  Clicked on the 'Season 1'
+Mar 23,2017 15:29:43 [Info]  Clicked on the 'Support click to select season'
+Mar 23,2017 15:29:47 [Info]  Clicked on the 'Save Button at 'Episode Edit Window'' using JS Executor
+Mar 23,2017 15:29:50 [Info]  Clicked on the ''ClearFilter' at Episode window' using JS Executor
+
+<span style="color:blue;"> [Manual Test Step] : TC_2.5_Episode Tab_07</span>
+Mar 23,2017 15:29:53 [Info]  *****Verify the Validation message"Please select at least one Episode before clicking Remove"******
+Mar 23,2017 15:29:53 [Info]  Clicked on the ''Delete Button' at Episode window' using JS Executor
+Mar 23,2017 15:29:54 [Info]  Verify The data of Alert Message While deleting the Episode
+<span style="color:green;">Mar 23,2017 15:29:54 [Verification]  Verified that Expected value :[Please select an episode before clicking on Delete button.] is matched with Actual value :[  RightsLogic Alert  
+    Please select an episode before clicking on Delete button.
+       ]</span>
+Mar 23,2017 15:29:57 [Info]  Clicked on the 'OK Button at Alert While deleting the Episode' using JS Executor
+
+<span style="color:blue;"> [Manual Test Step] :TC_2.5_Episode Tab_11</span>
+Mar 23,2017 15:29:57 [Info]  *****Delete the First Episode******
+Mar 23,2017 15:29:58 [Info]  Clicked on the 'Select First Row of Episodes'
+Mar 23,2017 15:29:58 [Info]  Clicked on the ''Delete Button' at Episode window' using JS Executor
+Mar 23,2017 15:29:59 [Info]  Clicked on the 'OKButton' using JS Executor
+Mar 23,2017 15:30:02 [Info]  Clicked on the 'Save Button at 'Episode Edit Window'' using JS Executor
+Mar 23,2017 15:30:06 [Info]  Clicked on the ''ClearFilter' at Episode window' using JS Executor
+Mar 23,2017 15:30:09 [Info]  Verify The data of First Episodes name in first row of Episode after deleting Episodes001
+<span style="color:green;">Mar 23,2017 15:30:09 [Verification]  Verified that Expected value :[Episode002] is matched with Actual value :[Episode002]</span>
+Mar 23,2017 15:30:09 [Info]  Clicked on the 'Close Button at 'Episode Edit Window'' using JS Executor
+Mar 23,2017 15:30:16 [Info]  Verify The data of First Episodes name in first row of Episode after deleting Episodes001 in VIEW MODE
+<span style="color:green;">Mar 23,2017 15:30:16 [Verification]  Verified that Expected value :[Episode002] is matched with Actual value :[Episode002]</span>
+Mar 23,2017 15:30:16 [Info]  Test 'TC4_EpisodeDelete' PASSED
+Mar 23,2017 15:30:16 [Info]  Closed the Browser
+Mar 23,2017 15:31:33 [Info]  ********************Started Executiong the Test Suite at 15:31:33******************
+Mar 23,2017 15:31:33 [Info]  Client: PROSIBIEN
+Mar 23,2017 15:31:33 [Info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Mar 23,2017 15:31:33 [Info]  *********************Started Executing 'TC5_EpisodeCopy' Test Case*********************
+Mar 23,2017 15:31:43 [Info]  Client: PROSIBIEN
+Mar 23,2017 15:31:43 [Info]  URL: http://rlv3wb59/Home.aspx 
+Mar 23,2017 15:31:43 [Info]  UserName: admin
+Mar 23,2017 15:31:43 [Info]  Password: admin
+Mar 23,2017 15:31:44 [Info]  Entered "admin" in field 'User Name'
+Mar 23,2017 15:31:44 [Info]  Clicked on the 'Temporary Check Box'
+Mar 23,2017 15:31:45 [Info]  Entered "admin" in field 'Password'
+Mar 23,2017 15:31:45 [Info]  Clicked on the 'LoginButton'
+Mar 23,2017 15:31:52 [Info]  ************************Started Creating Asset of Type: Program - Series************************
+Mar 23,2017 15:32:03 [Info]  Clicked on the 'MODULE'
+Mar 23,2017 15:32:11 [Info]  Clicked on the 'Asset Maintenance'
+Mar 23,2017 15:32:22 [Info]  Clicked on the 'New Button' using JS Executor
+Mar 23,2017 15:32:22 [Info]  Clicked on the 'Program' using JS Executor
+Mar 23,2017 15:32:31 [Info]  Clicked on the 'General TAB'
+Mar 23,2017 15:32:33 [Info]  Selected "Program - Series" in "AssetTypeDropDown" drop down
+Mar 23,2017 15:32:37 [Info]  Entered "AUT_AssetSeries_0323201733151" in field 'AssetTitle'
+Mar 23,2017 15:32:38 [Info]  Clicked on the 'Vendor Img Icon' using JS Executor
+Mar 23,2017 15:32:40 [Info]  Entered "AUT_PRO_Vendor1" in field 'SearchvalueVendor'
+Mar 23,2017 15:32:42 [Info]  Clicked on the 'VendorWindowButtonfind' using JS Executor
+Mar 23,2017 15:32:47 [Info]  Clicked on the 'VendorName At VendorWindow'
+Mar 23,2017 15:32:47 [Info]  Clicked on the 'Vendor Select Button' using JS Executor
+Mar 23,2017 15:32:51 [Info]  Verify The data of Vendor1
+<span style="color:green;">Mar 23,2017 15:32:51 [Verification]  Verified that Expected value :[AUT_PRO_Vendor1] is matched with Actual value :[AUT_PRO_Vendor1]</span>
+Mar 23,2017 15:32:52 [Info]  Clicked on the 'SBUImage' using JS Executor
+Mar 23,2017 15:32:52 [Info]  Verify The data of SBU Window/Owner Channel Header
+<span style="color:green;">Mar 23,2017 15:32:52 [Verification]  Verified that Expected value :[Source Business Unit Template] is matched with Actual value :[Source Business Unit Template]</span>
+Mar 23,2017 15:32:59 [Info]  Clicked on the 'First CheckBox At SBU window'
+Mar 23,2017 15:33:01 [Info]  Clicked on the 'Apply Button' using JS Executor
+Mar 23,2017 15:33:02 [Info]  Entered "11:11:11" in field 'Duration'
+Mar 23,2017 15:33:13 [Info]  Selected "Scripted" in "Asset Format" drop down
+Mar 23,2017 15:33:13 [Info]  Selected "Licensed Acquired" in "Asset Source" drop down
+Mar 23,2017 15:33:14 [Info]  Selected "Spielfilm" in "Asset Category/Group" drop down
+Mar 23,2017 15:33:15 [Info]  Entered "AUT_Series" in field 'Short Name'
+Mar 23,2017 15:33:16 [Info]  Clicked on the 'Save Button' using JS Executor
+Mar 23,2017 15:33:21 [Info]  Verify The data of Created AssetAUT_AssetSeries_0323201733151
+<span style="color:green;">Mar 23,2017 15:33:21 [Verification]  Verified that Expected value :[AUT_AssetSeries_0323201733151] is matched with Actual value :[AUT_AssetSeries_0323201733151]</span>
+Mar 23,2017 15:33:21 [Info]  ************************Created Asset of TypeProgram - Series************************
+Mar 23,2017 15:33:31 [Info]  Clicked on the 'MODULE'
+Mar 23,2017 15:33:39 [Info]  Clicked on the 'Asset Maintenance'
+Mar 23,2017 15:33:50 [Info]  Double clicked on 'AUT_AssetSeries_0323201733151AssetName'
+Mar 23,2017 15:34:01 [Info]  Clicked on the 'Episodes TAB'
+Mar 23,2017 15:34:05 [Info]  Clicked on the ''Edit' Button at Episode window' using JS Executor
+Mar 23,2017 15:34:09 [Info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Mar 23,2017 15:34:10 [Info]  Entered "101" in field 'Add Episode input field'
+Mar 23,2017 15:34:11 [Info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Mar 23,2017 15:34:18 [Info]  Clicked on the 'Season Field of Episode101' using JS Executor
+Mar 23,2017 15:34:18 [Info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Mar 23,2017 15:34:19 [Info]  Clicked on the 'Season 1'
+Mar 23,2017 15:34:19 [Info]  Clicked on the 'Support click to select season'
+Mar 23,2017 15:34:20 [Info]  Entered "00:30:00" in field 'duration Program'
+Mar 23,2017 15:34:20 [Info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Mar 23,2017 15:34:21 [Info]  Entered "102" in field 'Add Episode input field'
+Mar 23,2017 15:34:21 [Info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Mar 23,2017 15:34:29 [Info]  Clicked on the 'Season Field of Episode101' using JS Executor
+Mar 23,2017 15:34:29 [Info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Mar 23,2017 15:34:29 [Info]  Clicked on the 'Season 1'
+Mar 23,2017 15:34:30 [Info]  Clicked on the 'Support click to select season'
+Mar 23,2017 15:34:30 [Info]  Entered "00:30:00" in field 'duration Program'
+Mar 23,2017 15:34:31 [Info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Mar 23,2017 15:34:32 [Info]  Entered "201" in field 'Add Episode input field'
+Mar 23,2017 15:34:32 [Info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Mar 23,2017 15:34:40 [Info]  Clicked on the 'Season Field of Episode101' using JS Executor
+Mar 23,2017 15:34:40 [Info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Mar 23,2017 15:34:40 [Info]  Clicked on the 'Season 1'
+Mar 23,2017 15:34:41 [Info]  Clicked on the 'Support click to select season'
+Mar 23,2017 15:34:42 [Info]  Entered "00:30:00" in field 'duration Program'
+Mar 23,2017 15:34:42 [Info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Mar 23,2017 15:34:43 [Info]  Entered "202" in field 'Add Episode input field'
+Mar 23,2017 15:34:43 [Info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Mar 23,2017 15:34:51 [Info]  Clicked on the 'Season Field of Episode101' using JS Executor
+Mar 23,2017 15:34:51 [Info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Mar 23,2017 15:34:51 [Info]  Clicked on the 'Season 1'
+Mar 23,2017 15:34:52 [Info]  Clicked on the 'Support click to select season'
+Mar 23,2017 15:34:52 [Info]  Entered "00:30:00" in field 'duration Program'
+Mar 23,2017 15:34:56 [Info]  Clicked on the 'Save Button at 'Episode Edit Window'' using JS Executor
+Mar 23,2017 15:35:02 [Info]  Clicked on the 'Close Button at 'Episode Edit Window'' using JS Executor
+Mar 23,2017 15:35:09 [Info]  Clicked on the 'Module '
+Mar 23,2017 15:35:19 [Info]  Clicked on the 'Rights IN TAB '
+Mar 23,2017 15:35:25 [Info]  Clicked on the 'New Button' using JS Executor
+Mar 23,2017 15:35:25 [Info]  Clicked on the 'Standalone Agreement' using JS Executor
+<span style="color:red;">Mar 23,2017 15:35:41 [Fail]  ====Failed===== Field Deal Id is not shown.</span>
+Mar 23,2017 15:35:41 [Info]  Clicked on the 'DealTitleField' using JS Executor
+Mar 23,2017 15:35:43 [Info]  Entered "AUT_Deal_0323201733151" in field 'Deal Name Field'
+Mar 23,2017 15:35:44 [Info]  Entered "AUT_Deal_0323201733151_desc" in field 'Deal Description/ContractID'
+<span style="color:red;">Mar 23,2017 15:35:55 [Fail]  ====Failed==== "" is not present in 'DealType_DropDownFieldDrop Down'</span>
+Mar 23,2017 15:35:55 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\23\DealType_DropDownField_CheckpointFailure_03-23-2017 3-35-55 PM.jpg
+<span style="color:red;">Mar 23,2017 15:36:05 [Fail]  ====Failed==== "" is not present in 'Deal/Agreement Sub TypeDrop Down'</span>
+Mar 23,2017 15:36:05 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\23\Deal/AgreementSubType_CheckpointFailure_03-23-2017 3-36-05 PM.jpg
+Mar 23,2017 15:36:05 [Info]  Entered "" in field 'Deal Creation Contract Status'
+Mar 23,2017 15:36:06 [Info]  Entered "" in field 'DealCreationCDEStatus'
+Mar 23,2017 15:36:06 [Info]  Entered "" in field 'DateExecuted_InputField'
+Mar 23,2017 15:36:07 [Info]  Entered "" in field 'DateEffective_InputField'
+<span style="color:red;">Mar 23,2017 15:36:17 [Fail]  ====Failed==== "DealCreationCurrency" field is not present'DealCreationCurrency'</span>
+Mar 23,2017 15:36:17 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\23\DealCreationCurrency_CheckpointFailure_03-23-2017 3-36-17 PM.jpg
+<span style="color:red;">Mar 23,2017 15:36:27 [Fail]  ====Failed==== "ProjectStatus" field is not present'ProjectStatus'</span>
+Mar 23,2017 15:36:27 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\23\ProjectStatus_CheckpointFailure_03-23-2017 3-36-27 PM.jpg
+<span style="color:red;">Mar 23,2017 15:36:37 [Fail]  ====Failed==== "ProjectID_InputField" field is not present'ProjectID_InputField'</span>
+Mar 23,2017 15:36:37 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\23\ProjectID_InputField_CheckpointFailure_03-23-2017 3-36-37 PM.jpg
+<span style="color:red;">Mar 23,2017 15:36:47 [Fail]  ====Failed==== "" is not present in 'ProfitCenter_InputFieldDrop Down'</span>
+Mar 23,2017 15:36:47 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\23\ProfitCenter_InputField_CheckpointFailure_03-23-2017 3-36-47 PM.jpg
+<span style="color:red;">Mar 23,2017 15:37:03 [Fail]  ====Failed==== "" is not present in 'BudgetLine_InputFieldDrop Down'</span>
+Mar 23,2017 15:37:04 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\23\BudgetLine_InputField_CheckpointFailure_03-23-2017 3-37-03 PM.jpg
+<span style="color:red;">Mar 23,2017 15:37:24 [Fail]  ====Failed==== "SBU" field is not present'SBU'</span>
+Mar 23,2017 15:37:24 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\23\SBU_CheckpointFailure_03-23-2017 3-37-24 PM.jpg
+<span style="color:red;">Mar 23,2017 15:37:37 [Fail]  ====Failed==== "Doc Type look up Icon" field is not present'</span>
+Mar 23,2017 15:37:37 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\23\DocTypelookupIcon_CheckpointFailure_03-23-2017 3-37-37 PM.jpg
+<span style="color:red;">Mar 23,2017 15:37:53 [Fail]  ====Failed==== " Could not find the Frame: div[id*='WebDialogWindow1'][style*=visible]</span>
+<span style="color:red;">Mar 23,2017 15:37:54 [Fail]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\23\FrameSwitchingFailed0_CheckpointFailure_03-23-2017 3-37-53 PM.jpg</span>
+<span style="color:red;">Mar 23,2017 15:38:04 [Fail]  ====Failed==== "Select All Button at SBU" field is not present'</span>
+Mar 23,2017 15:38:04 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\23\SelectAllButtonatSBU_CheckpointFailure_03-23-2017 3-38-04 PM.jpg
+<span style="color:red;">Mar 23,2017 15:38:14 [Fail]  ====Failed==== "FirstCheckBoxAtSBU" field is not present'</span>
+Mar 23,2017 15:38:14 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\23\FirstCheckBoxAtSBU_CheckpointFailure_03-23-2017 3-38-14 PM.jpg
+<span style="color:red;">Mar 23,2017 15:38:24 [Fail]  ====Failed==== "NinthCheckBoxAtSBU" field is not present'</span>
+Mar 23,2017 15:38:24 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\23\NinthCheckBoxAtSBU_CheckpointFailure_03-23-2017 3-38-24 PM.jpg
+<span style="color:red;">Mar 23,2017 15:38:35 [Fail]  ====Failed==== "Apply Button" field is not present'</span>
+Mar 23,2017 15:38:35 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\23\ApplyButton_CheckpointFailure_03-23-2017 3-38-35 PM.jpg
+Mar 23,2017 15:38:38 [Info]  Moved Mouse over 'Party_AddButton'
+Mar 23,2017 15:38:39 [Info]  Clicked on the 'Party_AddButton'
+Mar 23,2017 15:38:52 [Info]  ********************Started Executiong the Test Suite at 15:38:52******************
+Mar 23,2017 15:38:52 [Info]  Client: PROSIBIEN
+Mar 23,2017 15:38:52 [Info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Mar 23,2017 15:38:52 [Info]  *********************Started Executing 'TC6_EpisodeCopySeason' Test Case*********************
+Mar 23,2017 15:39:02 [Info]  Client: PROSIBIEN
+Mar 23,2017 15:39:02 [Info]  URL: http://rlv3wb59/Home.aspx 
+Mar 23,2017 15:39:02 [Info]  UserName: admin
+Mar 23,2017 15:39:02 [Info]  Password: admin
+Mar 23,2017 15:39:03 [Info]  Entered "admin" in field 'User Name'
+Mar 23,2017 15:39:04 [Info]  Clicked on the 'Temporary Check Box'
+Mar 23,2017 15:39:04 [Info]  Entered "admin" in field 'Password'
+Mar 23,2017 15:39:10 [Info]  Clicked on the 'LoginButton'
+Mar 23,2017 15:39:16 [Info]  ************************Started Creating Asset of Type: Program - Series************************
+Mar 23,2017 15:39:27 [Info]  Clicked on the 'MODULE'
+Mar 23,2017 15:39:36 [Info]  Clicked on the 'Asset Maintenance'
+Mar 23,2017 15:39:48 [Info]  Clicked on the 'New Button' using JS Executor
+Mar 23,2017 15:39:48 [Info]  Clicked on the 'Program' using JS Executor
+Mar 23,2017 15:39:57 [Info]  Clicked on the 'General TAB'
+Mar 23,2017 15:40:00 [Info]  Selected "Program - Series" in "AssetTypeDropDown" drop down
+Mar 23,2017 15:40:04 [Info]  Entered "AUT_AssetSeries_0323201733916" in field 'AssetTitle'
+Mar 23,2017 15:40:04 [Info]  Clicked on the 'Vendor Img Icon' using JS Executor
+Mar 23,2017 15:40:07 [Info]  Entered "AUT_PRO_Vendor1" in field 'SearchvalueVendor'
+Mar 23,2017 15:40:09 [Info]  Clicked on the 'VendorWindowButtonfind' using JS Executor
+Mar 23,2017 15:40:14 [Info]  Clicked on the 'VendorName At VendorWindow'
+Mar 23,2017 15:40:14 [Info]  Clicked on the 'Vendor Select Button' using JS Executor
+Mar 23,2017 15:40:18 [Info]  Verify The data of Vendor1
+<span style="color:green;">Mar 23,2017 15:40:18 [Verification]  Verified that Expected value :[AUT_PRO_Vendor1] is matched with Actual value :[AUT_PRO_Vendor1]</span>
+Mar 23,2017 15:40:19 [Info]  Clicked on the 'SBUImage' using JS Executor
+Mar 23,2017 15:40:20 [Info]  Verify The data of SBU Window/Owner Channel Header
+<span style="color:green;">Mar 23,2017 15:40:20 [Verification]  Verified that Expected value :[Source Business Unit Template] is matched with Actual value :[Source Business Unit Template]</span>
+Mar 23,2017 15:40:26 [Info]  Clicked on the 'First CheckBox At SBU window'
+Mar 23,2017 15:40:28 [Info]  Clicked on the 'Apply Button' using JS Executor
+Mar 23,2017 15:40:29 [Info]  Entered "11:11:11" in field 'Duration'
+Mar 23,2017 15:40:40 [Info]  Selected "Scripted" in "Asset Format" drop down
+Mar 23,2017 15:40:40 [Info]  Selected "Licensed Acquired" in "Asset Source" drop down
+Mar 23,2017 15:40:41 [Info]  Selected "Spielfilm" in "Asset Category/Group" drop down
+Mar 23,2017 15:40:42 [Info]  Entered "AUT_Series" in field 'Short Name'
+Mar 23,2017 15:40:42 [Info]  Clicked on the 'Save Button' using JS Executor
+Mar 23,2017 15:40:48 [Info]  Verify The data of Created AssetAUT_AssetSeries_0323201733916
+<span style="color:green;">Mar 23,2017 15:40:48 [Verification]  Verified that Expected value :[AUT_AssetSeries_0323201733916] is matched with Actual value :[AUT_AssetSeries_0323201733916]</span>
+Mar 23,2017 15:40:48 [Info]  ************************Created Asset of TypeProgram - Series************************
+Mar 23,2017 15:40:59 [Info]  Clicked on the 'MODULE'
+Mar 23,2017 15:41:07 [Info]  Clicked on the 'Asset Maintenance'
+Mar 23,2017 15:41:17 [Info]  Double clicked on 'AUT_AssetSeries_0323201733916AssetName'
+Mar 23,2017 15:41:29 [Info]  Clicked on the 'Episodes TAB'
+Mar 23,2017 15:41:33 [Info]  Clicked on the ''Edit' Button at Episode window' using JS Executor
+Mar 23,2017 15:41:37 [Info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Mar 23,2017 15:41:38 [Info]  Entered "101" in field 'Add Episode input field'
+Mar 23,2017 15:41:38 [Info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Mar 23,2017 15:41:46 [Info]  Clicked on the 'Season Field of Episode101' using JS Executor
+Mar 23,2017 15:41:46 [Info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Mar 23,2017 15:41:47 [Info]  Clicked on the 'Season 1'
+Mar 23,2017 15:41:47 [Info]  Clicked on the 'Support click to select season'
+Mar 23,2017 15:41:48 [Info]  Entered "00:30:00" in field 'duration Program'
+Mar 23,2017 15:41:48 [Info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Mar 23,2017 15:41:49 [Info]  Entered "102" in field 'Add Episode input field'
+Mar 23,2017 15:41:50 [Info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Mar 23,2017 15:41:57 [Info]  Clicked on the 'Season Field of Episode101' using JS Executor
+Mar 23,2017 15:41:57 [Info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Mar 23,2017 15:41:58 [Info]  Clicked on the 'Season 1'
+Mar 23,2017 15:41:59 [Info]  Clicked on the 'Support click to select season'
+Mar 23,2017 15:41:59 [Info]  Entered "00:30:00" in field 'duration Program'
+Mar 23,2017 15:41:59 [Info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Mar 23,2017 15:42:01 [Info]  Entered "201" in field 'Add Episode input field'
+Mar 23,2017 15:42:01 [Info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Mar 23,2017 15:42:09 [Info]  Clicked on the 'Season Field of Episode101' using JS Executor
+Mar 23,2017 15:42:09 [Info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Mar 23,2017 15:42:10 [Info]  Clicked on the 'Season 1'
+Mar 23,2017 15:42:10 [Info]  Clicked on the 'Support click to select season'
+Mar 23,2017 15:42:11 [Info]  Entered "00:30:00" in field 'duration Program'
+Mar 23,2017 15:42:11 [Info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Mar 23,2017 15:42:12 [Info]  Entered "202" in field 'Add Episode input field'
+Mar 23,2017 15:42:13 [Info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Mar 23,2017 15:42:20 [Info]  Clicked on the 'Season Field of Episode101' using JS Executor
+Mar 23,2017 15:42:21 [Info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Mar 23,2017 15:42:21 [Info]  Clicked on the 'Season 1'
+Mar 23,2017 15:42:22 [Info]  Clicked on the 'Support click to select season'
+Mar 23,2017 15:42:22 [Info]  Entered "00:30:00" in field 'duration Program'
+Mar 23,2017 15:42:26 [Info]  Clicked on the 'Save Button at 'Episode Edit Window'' using JS Executor
+Mar 23,2017 15:42:32 [Info]  Clicked on the 'Close Button at 'Episode Edit Window'' using JS Executor
+Mar 23,2017 15:42:49 [Info]  Clicked on the 'MODULE'
+Mar 23,2017 15:42:57 [Info]  Clicked on the 'Asset Maintenance'
+Mar 23,2017 15:43:08 [Info]  Double clicked on 'AUT_AssetSeries_0323201733916AssetName'
+Mar 23,2017 15:43:14 [Info]  Clicked on the 'Episodes TAB'
+
+Mar 23,2017 15:43:14 [Info]  *****************The below are buttons in the window*****************
+Mar 23,2017 15:43:14 [Info]  Verify The data of EditEpisodes Button
+<span style="color:green;">Mar 23,2017 15:43:14 [Verification]  Verified that Expected value :[Edit Episode] is matched with Actual value :[Edit Episode]</span>
+Mar 23,2017 15:43:14 [Info]  Verify The data of Edit button
+<span style="color:green;">Mar 23,2017 15:43:14 [Verification]  Verified that Expected value :[Edit...] is matched with Actual value :[Edit...]</span>
+Mar 23,2017 15:43:14 [Info]  Clicked on the ''Edit' Button at Episode window' using JS Executor
+Mar 23,2017 15:43:18 [Info]  Clicked on the ''ClearFilter' at Episode window' using JS Executor
+
+<span style="color:blue;"> [Manual Test Step]: TC_2.5_Episode Tab_1</span>
+Mar 23,2017 15:43:20 [Info]  *****Copy Episode : Multiple select using Ctrl Key	- Episodes****
+Mar 23,2017 15:43:23 [Info]  Clicked on the 'first Row'
+Mar 23,2017 15:43:23 [Info]  Double clicked on 'first Row'
+Mar 23,2017 15:43:27 [Info]  Clicked on the 'Second Row'
+Mar 23,2017 15:43:27 [Info]  Clicked on the 'Episodes_CopySeason' using JS Executor
+Mar 23,2017 15:43:28 [Info]  Verify The data of Alert Message While Copying season after selecting multiple Episodes
+<span style="color:green;">Mar 23,2017 15:43:28 [Verification]  Verified that Expected value :[Please select a single Season before attempting to click on the Copy Season button.] is matched with Actual value :[  RightsLogic Alert  
+    Please select a single Season before attempting to click on the Copy Season button.
+       ]</span>
+Mar 23,2017 15:43:28 [Info]  Clicked on the 'OK Button at Alert While deleting the Episode' using JS Executor
+Mar 23,2017 15:43:28 [Info]  Clicked on the 'Save Button at 'Episode Edit Window'' using JS Executor
+Mar 23,2017 15:43:31 [Info]  Test 'TC6_EpisodeCopySeason' PASSED
+Mar 23,2017 15:43:32 [Info]  Closed the Browser
+Mar 23,2017 16:44:54 [Info]  ********************Started Executiong the Test Suite at 16:44:54******************
+Mar 23,2017 16:44:54 [Info]  Client: PROSIBIEN
+Mar 23,2017 16:44:54 [Info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Mar 23,2017 16:44:54 [Info]  *********************Started Executing 'TC8_EpisodeUpdateTool' Test Case*********************
+Mar 23,2017 16:45:07 [Info]  Client: PROSIBIEN
+Mar 23,2017 16:45:07 [Info]  URL: http://rlv3wb59/Home.aspx 
+Mar 23,2017 16:45:07 [Info]  UserName: admin
+Mar 23,2017 16:45:07 [Info]  Password: admin
+Mar 23,2017 16:45:09 [Info]  Entered "admin" in field 'User Name'
+Mar 23,2017 16:45:10 [Info]  Clicked on the 'Temporary Check Box'
+Mar 23,2017 16:45:10 [Info]  Entered "admin" in field 'Password'
+Mar 23,2017 16:45:19 [Info]  Clicked on the 'LoginButton'
+Mar 23,2017 16:45:26 [Info]  ************************Started Creating Asset of Type: Program - Series************************
+Mar 23,2017 16:45:37 [Info]  Clicked on the 'MODULE'
+Mar 23,2017 16:45:45 [Info]  Clicked on the 'Asset Maintenance'
+Mar 23,2017 16:45:57 [Info]  Clicked on the 'New Button' using JS Executor
+Mar 23,2017 16:45:57 [Info]  Clicked on the 'Program' using JS Executor
+Mar 23,2017 16:46:06 [Info]  Clicked on the 'General TAB'
+Mar 23,2017 16:46:08 [Info]  Selected "Program - Series" in "AssetTypeDropDown" drop down
+Mar 23,2017 16:46:12 [Info]  Entered "AUT_AssetSeries_0323201744525" in field 'AssetTitle'
+Mar 23,2017 16:46:13 [Info]  Clicked on the 'Vendor Img Icon' using JS Executor
+Mar 23,2017 16:46:15 [Info]  Entered "AUT_PRO_Vendor1" in field 'SearchvalueVendor'
+Mar 23,2017 16:46:17 [Info]  Clicked on the 'VendorWindowButtonfind' using JS Executor
+Mar 23,2017 16:46:23 [Info]  Clicked on the 'VendorName At VendorWindow'
+Mar 23,2017 16:46:23 [Info]  Clicked on the 'Vendor Select Button' using JS Executor
+Mar 23,2017 16:46:26 [Info]  Verify The data of Vendor1
+<span style="color:green;">Mar 23,2017 16:46:26 [Verification]  Verified that Expected value :[AUT_PRO_Vendor1] is matched with Actual value :[AUT_PRO_Vendor1]</span>
+Mar 23,2017 16:46:27 [Info]  Clicked on the 'SBUImage' using JS Executor
+Mar 23,2017 16:46:28 [Info]  Verify The data of SBU Window/Owner Channel Header
+<span style="color:green;">Mar 23,2017 16:46:28 [Verification]  Verified that Expected value :[Source Business Unit Template] is matched with Actual value :[Source Business Unit Template]</span>
+Mar 23,2017 16:46:34 [Info]  Clicked on the 'First CheckBox At SBU window'
+Mar 23,2017 16:46:37 [Info]  Clicked on the 'Apply Button' using JS Executor
+Mar 23,2017 16:46:38 [Info]  Entered "11:11:11" in field 'Duration'
+Mar 23,2017 16:46:48 [Info]  Selected "Scripted" in "Asset Format" drop down
+Mar 23,2017 16:46:48 [Info]  Selected "Licensed Acquired" in "Asset Source" drop down
+Mar 23,2017 16:46:49 [Info]  Selected "Spielfilm" in "Asset Category/Group" drop down
+Mar 23,2017 16:46:50 [Info]  Entered "AUT_Series" in field 'Short Name'
+Mar 23,2017 16:46:50 [Info]  Clicked on the 'Save Button' using JS Executor
+Mar 23,2017 16:46:56 [Info]  Verify The data of Created AssetAUT_AssetSeries_0323201744525
+<span style="color:green;">Mar 23,2017 16:46:56 [Verification]  Verified that Expected value :[AUT_AssetSeries_0323201744525] is matched with Actual value :[AUT_AssetSeries_0323201744525]</span>
+Mar 23,2017 16:46:56 [Info]  ************************Created Asset of TypeProgram - Series************************
+Mar 23,2017 16:47:07 [Info]  Clicked on the 'MODULE'
+Mar 23,2017 16:47:15 [Info]  Clicked on the 'Asset Maintenance'
+Mar 23,2017 16:47:26 [Info]  Double clicked on 'AUT_AssetSeries_0323201744525AssetName'
+Mar 23,2017 16:47:32 [Info]  Clicked on the 'Episodes TAB'
+Mar 23,2017 16:47:32 [Info]  *****************The below are buttons in the window*****************
+Mar 23,2017 16:47:32 [Info]  Verify The data of EditEpisodes Button
+<span style="color:green;">Mar 23,2017 16:47:32 [Verification]  Verified that Expected value :[Edit Episode] is matched with Actual value :[Edit Episode]</span>
+Mar 23,2017 16:47:32 [Info]  Verify The data of Edit button
+<span style="color:green;">Mar 23,2017 16:47:32 [Verification]  Verified that Expected value :[Edit...] is matched with Actual value :[Edit...]</span>
+Mar 23,2017 16:47:32 [Info]  Clicked on the ''Edit' Button at Episode window' using JS Executor
+Mar 23,2017 16:47:36 [Info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+
+<span style="color:blue;"> [Manual Test Step]: TC_2.5_Episode Tab_5</span>
+Mar 23,2017 16:47:36 [Info]  *****Create 1-5 Episodes and Select Season1****
+Mar 23,2017 16:47:37 [Info]  Entered "1-5" in field 'Add Episode input field'
+Mar 23,2017 16:47:37 [Info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Mar 23,2017 16:47:39 [Info]  Clicked on the 'Season Field of Episode001' using JS Executor
+Mar 23,2017 16:47:40 [Info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Mar 23,2017 16:47:40 [Info]  Clicked on the 'Season 1'
+Mar 23,2017 16:47:41 [Info]  Clicked on the 'Support click to select season'
+Mar 23,2017 16:47:44 [Info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+
+<span style="color:blue;"> [Manual Test Step]: TC_2.5_Episode Tab_5</span>
+Mar 23,2017 16:47:44 [Info]  **********Create 6-10 Episodes and Select Season2*********
+Mar 23,2017 16:47:45 [Info]  Entered "6-10" in field 'Add Episode input field'
+Mar 23,2017 16:47:45 [Info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Mar 23,2017 16:47:49 [Info]  Clicked on the 'Season Field of Episode006' using JS Executor
+Mar 23,2017 16:47:49 [Info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Mar 23,2017 16:47:50 [Info]  Clicked on the 'Season 2'
+Mar 23,2017 16:47:50 [Info]  Clicked on the 'Support click to select season'
+Mar 23,2017 16:47:53 [Info]  Double clicked on 'Select 1st Row'
+
+<span style="color:blue;"> [Manual Test Step]: TC_2.5_Episode Tab_12</span>
+Mar 23,2017 16:47:53 [Info]  **********Copy TBA value for all episodes of the selected Season*********
+Mar 23,2017 16:47:54 [Info]  Clicked on the 'TBA Check Box'
+Mar 23,2017 16:47:54 [Info]  Clicked on the 'Update Tool' using JS Executor
+Mar 23,2017 16:47:55 [Info]  Verify The data of Episodes_UpdateTool_TBAValueCheckBox
+<span style="color:green;">Mar 23,2017 16:47:55 [Verification]  Verified that Expected value :[Copy TBA value to all episodes displayed below the selected episode] is matched with Actual value :[Copy TBA value to all episodes displayed below the selected episode]</span>
+Mar 23,2017 16:48:05 [Info]  Verify The data of Episodes_UpdateTool_SeasonCheckBox
+<span style="color:red;">Mar 23,2017 16:48:05 [Fail]  ====Failed==== Expected value is:[Copy Library value to all episodes of the selected season] but Actual value is[]. Please check the screenshot with name: Episodes_UpdateTool_SeasonCheckBoxfor more details</span>
+Mar 23,2017 16:48:05 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\23\Episodes_UpdateTool_SeasonCheckBox_CheckpointFailure_03-23-2017 4-48-05 PM.jpg
+Mar 23,2017 16:48:05 [Info]  Verify The data of Episodes_UpdateTool_UpdateEpisodeTitle
+<span style="color:green;">Mar 23,2017 16:48:05 [Verification]  Verified that Expected value :[Update Episode Title] is matched with Actual value :[Update Episode Title]</span>
+Mar 23,2017 16:48:05 [Info]  Verify The data of Episodes_UpdateTool_TitleLabel
+<span style="color:green;">Mar 23,2017 16:48:05 [Verification]  Verified that Expected value :[Title] is matched with Actual value :[Title]</span>
+
+Mar 23,2017 16:48:05 [Info]  **********Verifying the button on Update tool Pop - Up************
+Mar 23,2017 16:48:05 [Info]  Verify The data of OK button
+<span style="color:green;">Mar 23,2017 16:48:05 [Verification]  Verified that Expected value :[OK] is matched with Actual value :[OK]</span>
+Mar 23,2017 16:48:06 [Info]  Verify The data of Cancel button
+<span style="color:green;">Mar 23,2017 16:48:06 [Verification]  Verified that Expected value :[Cancel] is matched with Actual value :[Cancel]</span>
+Mar 23,2017 16:48:06 [Info]  Clicked on the 'Episodes_UpdateTool_TBAValueCheckBox' using JS Executor
+Mar 23,2017 16:48:06 [Info]  Clicked on the 'OKButton' using JS Executor
+Mar 23,2017 16:48:07 [Info]  **********Verify that TBA check box is check for all episodes Season 1 but not for Season 2*********
+Mar 23,2017 16:48:07 [Info]  Verify The data of TBA Check Box for Episode1 of Seseaon1
+<span style="color:green;">Mar 23,2017 16:48:07 [Verification]  Verified that Expected value :[Checked] is matched with Actual value :[Checked]</span>
+Mar 23,2017 16:48:07 [Info]  Verify The data of TBA Check Box for Episode2 of Seseaon1
+<span style="color:green;">Mar 23,2017 16:48:07 [Verification]  Verified that Expected value :[Checked] is matched with Actual value :[Checked]</span>
+Mar 23,2017 16:48:07 [Info]  Verify The data of TBA Check Box for Episode6 of Seseaon2
+<span style="color:green;">Mar 23,2017 16:48:07 [Verification]  Verified that Expected value :[Checked] is matched with Actual value :[Checked]</span>
+Mar 23,2017 16:48:07 [Info]  Clicked on the 'Select 1st Row of Episode 1'
+Mar 23,2017 16:48:08 [Info]  Clicked on the 'Uncheck TBA of Episode 1'
+
+<span style="color:blue;"> [Manual Test Step]: TC_2.5_Episode Tab_14</span>
+Mar 23,2017 16:48:08 [Info]  Uncheck 'Copy TBA' check box for All Episodes of Season 1 at Update Tool and Verify that TBA is unchecked at Edit Episdoe Window
+Mar 23,2017 16:48:08 [Info]  Clicked on the 'Update Tool' using JS Executor
+Mar 23,2017 16:48:08 [Info]  Clicked on the 'Episodes_UpdateTool_TBAValueCheckBox' using JS Executor
+Mar 23,2017 16:48:09 [Info]  Clicked on the 'OKButton at Update tool Window' using JS Executor
+Mar 23,2017 16:48:09 [Info]  Verify The data of TBA Check Box for Episode1 of Seseaon1
+<span style="color:green;">Mar 23,2017 16:48:09 [Verification]  Verified that Expected value :[Unchecked] is matched with Actual value :[Unchecked]</span>
+Mar 23,2017 16:48:09 [Info]  Verify The data of TBA Check Box for Episode2 of Seseaon1
+<span style="color:green;">Mar 23,2017 16:48:09 [Verification]  Verified that Expected value :[Unchecked] is matched with Actual value :[Unchecked]</span>
+Mar 23,2017 16:48:09 [Info]  Verify The data of TBA Check Box for Episode6 of Seseaon2 is unchecked
+<span style="color:green;">Mar 23,2017 16:48:09 [Verification]  Verified that Expected value :[Unchecked] is matched with Actual value :[Unchecked]</span>
+
+<span style="color:blue;">//  [Manual Test Step] : TC_2.5_Episode Tab_18</span>
+Mar 23,2017 16:48:10 [Info]  Clicked on the 'Select 1st Row'
+Mar 23,2017 16:48:10 [Info]  Clicked on the 'Update Tool' using JS Executor
+Mar 23,2017 16:48:11 [Info]  Clicked on the 'Episodes_UpdateTool_UpdateEpisodeTitle'
+Mar 23,2017 16:48:14 [Info]  Entered "RSG" in field 'Episodes_UpdateTool_TitleField'
+Mar 23,2017 16:48:15 [Info]  Clicked on the 'OKButton at Update tool Window' using JS Executor
+
+<span style="color:blue;"> [Manual Test Step] : TC_2.5_Episode Tab_19</span>
+Mar 23,2017 16:48:15 [Info]  ******Change the Episode name of Season 1 from "Episode" to "RSG"******
+Mar 23,2017 16:48:15 [Info]  Verify The data of TBA Check Box for 1st Row
+<span style="color:green;">Mar 23,2017 16:48:15 [Verification]  Verified that Expected value :[RSG 001] is matched with Actual value :[RSG 001]</span>
+Mar 23,2017 16:48:16 [Info]  Verify The data of TBA Check Box for 6th Row
+<span style="color:green;">Mar 23,2017 16:48:16 [Verification]  Verified that Expected value :[RSG 006] is matched with Actual value :[RSG 006]</span>
+Mar 23,2017 16:48:16 [Info]  Clicked on the 'Save Button at 'Episode Edit Window'' using JS Executor
+Mar 23,2017 16:48:26 [Info]  Clicked on the 'Close Button at 'Episode Edit Window'' using JS Executor
+Mar 23,2017 16:48:27 [Info]  Test 'TC8_EpisodeUpdateTool' PASSED
+Mar 23,2017 16:48:29 [Info]  Closed the Browser

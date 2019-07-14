@@ -1,0 +1,299 @@
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 12:41:10******************</span>
+Mar 16,2017 12:41:10 [Info]  Client: SKY
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing the Test Area(Modules/TAB): 'AM_Attribute TAB'*********************</span>
+Mar 16,2017 12:41:22 [Info]  Client: SKY
+Mar 16,2017 12:41:22 [Info]  URL: http://rlv2wb85/Home.aspx
+Mar 16,2017 12:41:22 [Info]  UserName: admin
+Mar 16,2017 12:41:22 [Info]  Password: admin
+Mar 16,2017 12:41:23 [Info]  Entered "admin" in field 'User Name'
+Mar 16,2017 12:41:23 [Info]  Clicked on the 'Temporary Check Box'
+Mar 16,2017 12:41:23 [Info]  Entered "admin" in field 'Password'
+Mar 16,2017 12:41:36 [Info]  Clicked on the 'LoginButton'
+Mar 16,2017 12:41:43 [Info]  Clicked on the 'Administration'
+Mar 16,2017 12:41:52 [Info]  Clicked on the 'ListMaintenance'
+Mar 16,2017 12:41:59 [Info]  Clicked on the 'Link at Menu' using JS Executor
+Mar 16,2017 12:42:08 [Info]  Clicked on the ''Custom Attributes' Link under Maintain Menu Link' using JS Executor
+Mar 16,2017 12:42:09 [Info]  Clicked on the 'New Button to Add Attribute' using JS Executor
+Mar 16,2017 12:42:11 [Info]  Clicked on the 'Module Field'
+Mar 16,2017 12:42:11 [Info]  Entered "Title Maintenance" in field 'Entered Title Maintenance in Module Input Field'
+Mar 16,2017 12:42:12 [Info]  Clicked on the 'AttributeName Field'
+Mar 16,2017 12:42:12 [Info]  Entered "AUT_Attributes_Film location03162017124110" in field 'Entered AUT_Attributes_Film location03162017124110 in Attribute Name Input Field'
+Mar 16,2017 12:42:12 [Info]  Clicked on the 'DataType Field'
+Mar 16,2017 12:42:12 [Info]  Entered "Text only" in field 'Entered Text only in DataType Input Field'
+Mar 16,2017 12:42:13 [Info]  Clicked on the 'Format Field'
+Mar 16,2017 12:42:13 [Info]  Entered "Text" in field 'Entered Text in Format Input Field'
+Mar 16,2017 12:42:43 [Info]  Clicked on the 'Save Button to Add Attribute' using JS Executor
+Mar 16,2017 12:42:43 [Info]  Verify the details of Created Custom Attribute
+Mar 16,2017 12:42:44 [Info]  Verify The data of ModuleName Field
+<span style="color:green;">Mar 16,2017 12:42:44 [Verification]  Verified that Expected value :[Title Maintenance] is matched with Actual value :[Title Maintenance]</span>
+Mar 16,2017 12:42:44 [Info]  Verify The data of Format Field
+<span style="color:green;">Mar 16,2017 12:42:44 [Verification]  Verified that Expected value :[Text] is matched with Actual value :[Text]</span>
+Mar 16,2017 12:42:44 [Info]  Verify The data of DataType Field
+<span style="color:green;">Mar 16,2017 12:42:44 [Verification]  Verified that Expected value :[Text only] is matched with Actual value :[Text only]</span>
+Mar 16,2017 12:42:44 [Info]  
+Mar 16,2017 12:42:44 [Info]  Clicked on the 'New Button to Add Attribute' using JS Executor
+Mar 16,2017 12:42:46 [Info]  Clicked on the 'Module Field'
+Mar 16,2017 12:42:46 [Info]  Entered "Title Maintenance" in field 'Entered Title Maintenance in Module Input Field'
+Mar 16,2017 12:42:47 [Info]  Clicked on the 'AttributeName Field'
+Mar 16,2017 12:42:47 [Info]  Entered "AUT_Attributes_Media_03162017124110" in field 'Entered AUT_Attributes_Media_03162017124110 in Attribute Name Input Field'
+Mar 16,2017 12:42:47 [Info]  Clicked on the 'DataType Field'
+Mar 16,2017 12:42:47 [Info]  Entered "Text only" in field 'Entered Text only in DataType Input Field'
+Mar 16,2017 12:42:48 [Info]  Clicked on the 'Format Field'
+Mar 16,2017 12:42:48 [Info]  Entered "AlphaNumeric" in field 'Entered AlphaNumeric in Format Input Field'
+Mar 16,2017 12:43:47 [Info]  Clicked on the 'Save Button to Add Attribute' using JS Executor
+Mar 16,2017 12:43:47 [Info]  Verify the details of Created Custom Attribute
+Mar 16,2017 12:43:48 [Info]  Verify The data of ModuleName Field
+<span style="color:green;">Mar 16,2017 12:43:48 [Verification]  Verified that Expected value :[Title Maintenance] is matched with Actual value :[Title Maintenance]</span>
+Mar 16,2017 12:43:48 [Info]  Verify The data of Format Field
+<span style="color:green;">Mar 16,2017 12:43:48 [Verification]  Verified that Expected value :[AlphaNumeric] is matched with Actual value :[AlphaNumeric]</span>
+Mar 16,2017 12:43:48 [Info]  Verify The data of DataType Field
+<span style="color:green;">Mar 16,2017 12:43:48 [Verification]  Verified that Expected value :[Text only] is matched with Actual value :[Text only]</span>
+Mar 16,2017 12:43:48 [Info]  
+Mar 16,2017 12:43:48 [Info]  Clicked on the 'New Button to Add Attribute' using JS Executor
+Mar 16,2017 12:43:50 [Info]  Clicked on the 'Module Field'
+Mar 16,2017 12:43:50 [Info]  Entered "Title Maintenance" in field 'Entered Title Maintenance in Module Input Field'
+Mar 16,2017 12:43:51 [Info]  Clicked on the 'AttributeName Field'
+Mar 16,2017 12:43:51 [Info]  Entered "AUT_Attributes_ NUMERIC 1_03162017124110" in field 'Entered AUT_Attributes_ NUMERIC 1_03162017124110 in Attribute Name Input Field'
+Mar 16,2017 12:43:51 [Info]  Clicked on the 'DataType Field'
+Mar 16,2017 12:43:51 [Info]  Entered "Numeric" in field 'Entered Numeric in DataType Input Field'
+Mar 16,2017 12:43:51 [Info]  Clicked on the 'Format Field'
+Mar 16,2017 12:43:52 [Info]  Entered "Number" in field 'Entered Number in Format Input Field'
+Mar 16,2017 12:45:08 [Info]  Clicked on the 'Save Button to Add Attribute' using JS Executor
+Mar 16,2017 12:45:08 [Info]  Verify the details of Created Custom Attribute
+Mar 16,2017 12:45:08 [Info]  Verify The data of ModuleName Field
+<span style="color:green;">Mar 16,2017 12:45:08 [Verification]  Verified that Expected value :[Title Maintenance] is matched with Actual value :[Title Maintenance]</span>
+Mar 16,2017 12:45:08 [Info]  Verify The data of Format Field
+<span style="color:green;">Mar 16,2017 12:45:08 [Verification]  Verified that Expected value :[Number] is matched with Actual value :[Number]</span>
+Mar 16,2017 12:45:08 [Info]  Verify The data of DataType Field
+<span style="color:green;">Mar 16,2017 12:45:08 [Verification]  Verified that Expected value :[Numeric] is matched with Actual value :[Numeric]</span>
+Mar 16,2017 12:45:08 [Info]  
+Mar 16,2017 12:45:09 [Info]  Clicked on the 'New Button to Add Attribute' using JS Executor
+Mar 16,2017 12:45:11 [Info]  Clicked on the 'Module Field'
+Mar 16,2017 12:45:11 [Info]  Entered "Title Maintenance" in field 'Entered Title Maintenance in Module Input Field'
+Mar 16,2017 12:45:11 [Info]  Clicked on the 'AttributeName Field'
+Mar 16,2017 12:45:11 [Info]  Entered "AUT_Attributes_NUMERIC 2_03162017124110" in field 'Entered AUT_Attributes_NUMERIC 2_03162017124110 in Attribute Name Input Field'
+Mar 16,2017 12:45:12 [Info]  Clicked on the 'DataType Field'
+Mar 16,2017 12:45:12 [Info]  Entered "Numeric" in field 'Entered Numeric in DataType Input Field'
+Mar 16,2017 12:45:12 [Info]  Clicked on the 'Format Field'
+Mar 16,2017 12:45:12 [Info]  Entered "Decimal" in field 'Entered Decimal in Format Input Field'
+Mar 16,2017 12:46:55 [Info]  Clicked on the 'Save Button to Add Attribute' using JS Executor
+Mar 16,2017 12:46:55 [Info]  Verify the details of Created Custom Attribute
+Mar 16,2017 12:46:56 [Info]  Verify The data of ModuleName Field
+<span style="color:green;">Mar 16,2017 12:46:56 [Verification]  Verified that Expected value :[Title Maintenance] is matched with Actual value :[Title Maintenance]</span>
+Mar 16,2017 12:46:56 [Info]  Verify The data of Format Field
+<span style="color:green;">Mar 16,2017 12:46:56 [Verification]  Verified that Expected value :[Decimal] is matched with Actual value :[Decimal]</span>
+Mar 16,2017 12:46:56 [Info]  Verify The data of DataType Field
+<span style="color:green;">Mar 16,2017 12:46:56 [Verification]  Verified that Expected value :[Numeric] is matched with Actual value :[Numeric]</span>
+Mar 16,2017 12:46:56 [Info]  
+Mar 16,2017 12:46:56 [Info]  Clicked on the 'New Button to Add Attribute' using JS Executor
+Mar 16,2017 12:46:58 [Info]  Clicked on the 'Module Field'
+Mar 16,2017 12:46:59 [Info]  Entered "Title Maintenance" in field 'Entered Title Maintenance in Module Input Field'
+Mar 16,2017 12:46:59 [Info]  Clicked on the 'AttributeName Field'
+Mar 16,2017 12:46:59 [Info]  Entered "AUT_Attributes_CURRENCY 1_03162017124110" in field 'Entered AUT_Attributes_CURRENCY 1_03162017124110 in Attribute Name Input Field'
+Mar 16,2017 12:46:59 [Info]  Clicked on the 'DataType Field'
+Mar 16,2017 12:46:59 [Info]  Entered "Currency" in field 'Entered Currency in DataType Input Field'
+Mar 16,2017 12:47:00 [Info]  Clicked on the 'Format Field'
+Mar 16,2017 12:47:00 [Info]  Entered "$$$$$" in field 'Entered $$$$$ in Format Input Field'
+Mar 16,2017 12:49:52 [Info]  Clicked on the 'Save Button to Add Attribute' using JS Executor
+Mar 16,2017 12:49:52 [Info]  Verify the details of Created Custom Attribute
+Mar 16,2017 12:49:53 [Info]  Verify The data of ModuleName Field
+<span style="color:green;">Mar 16,2017 12:49:53 [Verification]  Verified that Expected value :[Title Maintenance] is matched with Actual value :[Title Maintenance]</span>
+Mar 16,2017 12:49:53 [Info]  Verify The data of Format Field
+<span style="color:green;">Mar 16,2017 12:49:53 [Verification]  Verified that Expected value :[$$$$$] is matched with Actual value :[$$$$$]</span>
+Mar 16,2017 12:49:53 [Info]  Verify The data of DataType Field
+<span style="color:green;">Mar 16,2017 12:49:53 [Verification]  Verified that Expected value :[Currency] is matched with Actual value :[Currency]</span>
+Mar 16,2017 12:49:53 [Info]  
+Mar 16,2017 12:49:53 [Info]  Clicked on the 'New Button to Add Attribute' using JS Executor
+Mar 16,2017 12:49:56 [Info]  Clicked on the 'Module Field'
+Mar 16,2017 12:49:56 [Info]  Entered "Title Maintenance" in field 'Entered Title Maintenance in Module Input Field'
+Mar 16,2017 12:49:56 [Info]  Clicked on the 'AttributeName Field'
+Mar 16,2017 12:49:56 [Info]  Entered "AUT_Attributes_CURRENCY 2_03162017124110" in field 'Entered AUT_Attributes_CURRENCY 2_03162017124110 in Attribute Name Input Field'
+Mar 16,2017 12:49:57 [Info]  Clicked on the 'DataType Field'
+Mar 16,2017 12:49:57 [Info]  Entered "Currency" in field 'Entered Currency in DataType Input Field'
+Mar 16,2017 12:49:57 [Info]  Clicked on the 'Format Field'
+Mar 16,2017 12:49:57 [Info]  Entered "$$$$$.cc" in field 'Entered $$$$$.cc in Format Input Field'
+Mar 16,2017 12:52:44 [Info]  Clicked on the 'Save Button to Add Attribute' using JS Executor
+Mar 16,2017 12:52:44 [Info]  Verify the details of Created Custom Attribute
+Mar 16,2017 12:52:44 [Info]  Verify The data of ModuleName Field
+<span style="color:green;">Mar 16,2017 12:52:44 [Verification]  Verified that Expected value :[Title Maintenance] is matched with Actual value :[Title Maintenance]</span>
+Mar 16,2017 12:52:44 [Info]  Verify The data of Format Field
+<span style="color:green;">Mar 16,2017 12:52:44 [Verification]  Verified that Expected value :[$$$$$.cc] is matched with Actual value :[$$$$$.cc]</span>
+Mar 16,2017 12:52:44 [Info]  Verify The data of DataType Field
+<span style="color:green;">Mar 16,2017 12:52:44 [Verification]  Verified that Expected value :[Currency] is matched with Actual value :[Currency]</span>
+Mar 16,2017 12:52:44 [Info]  
+Mar 16,2017 12:52:44 [Info]  Clicked on the 'New Button to Add Attribute' using JS Executor
+Mar 16,2017 12:52:46 [Info]  Clicked on the 'Module Field'
+Mar 16,2017 12:52:47 [Info]  Entered "Title Maintenance" in field 'Entered Title Maintenance in Module Input Field'
+Mar 16,2017 12:52:47 [Info]  Clicked on the 'AttributeName Field'
+Mar 16,2017 12:52:47 [Info]  Entered "AUT_Attributes_RANGE 1_03162017124110" in field 'Entered AUT_Attributes_RANGE 1_03162017124110 in Attribute Name Input Field'
+Mar 16,2017 12:52:47 [Info]  Clicked on the 'DataType Field'
+Mar 16,2017 12:52:48 [Info]  Entered "Range" in field 'Entered Range in DataType Input Field'
+Mar 16,2017 12:52:48 [Info]  Clicked on the 'Format Field'
+Mar 16,2017 12:52:48 [Info]  Entered "AlphaNumeric" in field 'Entered AlphaNumeric in Format Input Field'
+Mar 16,2017 12:55:48 [Info]  Clicked on the 'Save Button to Add Attribute' using JS Executor
+Mar 16,2017 12:55:48 [Info]  Verify the details of Created Custom Attribute
+Mar 16,2017 12:55:48 [Info]  Verify The data of ModuleName Field
+<span style="color:green;">Mar 16,2017 12:55:48 [Verification]  Verified that Expected value :[Title Maintenance] is matched with Actual value :[Title Maintenance]</span>
+Mar 16,2017 12:55:48 [Info]  Verify The data of Format Field
+<span style="color:green;">Mar 16,2017 12:55:48 [Verification]  Verified that Expected value :[AlphaNumeric] is matched with Actual value :[AlphaNumeric]</span>
+Mar 16,2017 12:55:48 [Info]  Verify The data of DataType Field
+<span style="color:green;">Mar 16,2017 12:55:48 [Verification]  Verified that Expected value :[Range] is matched with Actual value :[Range]</span>
+Mar 16,2017 12:55:48 [Info]  
+Mar 16,2017 12:55:49 [Info]  Clicked on the 'New Button to Add Attribute' using JS Executor
+Mar 16,2017 12:55:51 [Info]  Clicked on the 'Module Field'
+Mar 16,2017 12:55:51 [Info]  Entered "Title Maintenance" in field 'Entered Title Maintenance in Module Input Field'
+Mar 16,2017 12:55:51 [Info]  Clicked on the 'AttributeName Field'
+Mar 16,2017 12:55:51 [Info]  Entered "AUT_Attributes_RANGE 2_03162017124110" in field 'Entered AUT_Attributes_RANGE 2_03162017124110 in Attribute Name Input Field'
+Mar 16,2017 12:55:52 [Info]  Clicked on the 'DataType Field'
+Mar 16,2017 12:55:52 [Info]  Entered "Range" in field 'Entered Range in DataType Input Field'
+Mar 16,2017 12:55:52 [Info]  Clicked on the 'Format Field'
+Mar 16,2017 12:55:52 [Info]  Entered "Number" in field 'Entered Number in Format Input Field'
+Mar 16,2017 12:59:22 [Info]  Clicked on the 'Save Button to Add Attribute' using JS Executor
+Mar 16,2017 12:59:22 [Info]  Verify the details of Created Custom Attribute
+Mar 16,2017 12:59:22 [Info]  Verify The data of ModuleName Field
+<span style="color:green;">Mar 16,2017 12:59:22 [Verification]  Verified that Expected value :[Title Maintenance] is matched with Actual value :[Title Maintenance]</span>
+Mar 16,2017 12:59:22 [Info]  Verify The data of Format Field
+<span style="color:green;">Mar 16,2017 12:59:22 [Verification]  Verified that Expected value :[Number] is matched with Actual value :[Number]</span>
+Mar 16,2017 12:59:22 [Info]  Verify The data of DataType Field
+<span style="color:green;">Mar 16,2017 12:59:22 [Verification]  Verified that Expected value :[Range] is matched with Actual value :[Range]</span>
+Mar 16,2017 12:59:22 [Info]  
+Mar 16,2017 12:59:22 [Info]  Clicked on the 'New Button to Add Attribute' using JS Executor
+Mar 16,2017 12:59:24 [Info]  Clicked on the 'Module Field'
+Mar 16,2017 12:59:25 [Info]  Entered "Title Maintenance" in field 'Entered Title Maintenance in Module Input Field'
+Mar 16,2017 12:59:25 [Info]  Clicked on the 'AttributeName Field'
+Mar 16,2017 12:59:25 [Info]  Entered "AUT_Attributes_RANGE 3_03162017124110" in field 'Entered AUT_Attributes_RANGE 3_03162017124110 in Attribute Name Input Field'
+Mar 16,2017 12:59:25 [Info]  Clicked on the 'DataType Field'
+Mar 16,2017 12:59:26 [Info]  Entered "Range" in field 'Entered Range in DataType Input Field'
+Mar 16,2017 12:59:26 [Info]  Clicked on the 'Format Field'
+Mar 16,2017 12:59:26 [Info]  Entered "Decimal" in field 'Entered Decimal in Format Input Field'
+Mar 16,2017 13:03:55 [Info]  Clicked on the 'Save Button to Add Attribute' using JS Executor
+Mar 16,2017 13:03:55 [Info]  Verify the details of Created Custom Attribute
+Mar 16,2017 13:03:56 [Info]  Verify The data of ModuleName Field
+<span style="color:green;">Mar 16,2017 13:03:56 [Verification]  Verified that Expected value :[Title Maintenance] is matched with Actual value :[Title Maintenance]</span>
+Mar 16,2017 13:03:56 [Info]  Verify The data of Format Field
+<span style="color:green;">Mar 16,2017 13:03:56 [Verification]  Verified that Expected value :[Decimal] is matched with Actual value :[Decimal]</span>
+Mar 16,2017 13:03:56 [Info]  Verify The data of DataType Field
+<span style="color:green;">Mar 16,2017 13:03:56 [Verification]  Verified that Expected value :[Range] is matched with Actual value :[Range]</span>
+Mar 16,2017 13:03:56 [Info]  
+Mar 16,2017 13:03:56 [Info]  Clicked on the 'New Button to Add Attribute' using JS Executor
+Mar 16,2017 13:03:58 [Info]  Clicked on the 'Module Field'
+Mar 16,2017 13:03:59 [Info]  Entered "Title Maintenance" in field 'Entered Title Maintenance in Module Input Field'
+Mar 16,2017 13:03:59 [Info]  Clicked on the 'AttributeName Field'
+Mar 16,2017 13:03:59 [Info]  Entered "AUT_Attributes_RANGE 4_03162017124110" in field 'Entered AUT_Attributes_RANGE 4_03162017124110 in Attribute Name Input Field'
+Mar 16,2017 13:03:59 [Info]  Clicked on the 'DataType Field'
+Mar 16,2017 13:04:00 [Info]  Entered "Range" in field 'Entered Range in DataType Input Field'
+Mar 16,2017 13:04:00 [Info]  Clicked on the 'Format Field'
+Mar 16,2017 13:04:00 [Info]  Entered "$$$$$" in field 'Entered $$$$$ in Format Input Field'
+Mar 16,2017 13:07:51 [Info]  Clicked on the 'Save Button to Add Attribute' using JS Executor
+Mar 16,2017 13:07:51 [Info]  Verify the details of Created Custom Attribute
+Mar 16,2017 13:07:51 [Info]  Verify The data of ModuleName Field
+<span style="color:green;">Mar 16,2017 13:07:51 [Verification]  Verified that Expected value :[Title Maintenance] is matched with Actual value :[Title Maintenance]</span>
+Mar 16,2017 13:07:51 [Info]  Verify The data of Format Field
+<span style="color:green;">Mar 16,2017 13:07:51 [Verification]  Verified that Expected value :[$$$$$] is matched with Actual value :[$$$$$]</span>
+Mar 16,2017 13:07:51 [Info]  Verify The data of DataType Field
+<span style="color:green;">Mar 16,2017 13:07:51 [Verification]  Verified that Expected value :[Range] is matched with Actual value :[Range]</span>
+Mar 16,2017 13:07:51 [Info]  
+Mar 16,2017 13:07:51 [Info]  Clicked on the 'New Button to Add Attribute' using JS Executor
+Mar 16,2017 13:07:54 [Info]  Clicked on the 'Module Field'
+Mar 16,2017 13:07:54 [Info]  Entered "Title Maintenance" in field 'Entered Title Maintenance in Module Input Field'
+Mar 16,2017 13:07:54 [Info]  Clicked on the 'AttributeName Field'
+Mar 16,2017 13:07:54 [Info]  Entered "AUT_Attributes_RANGE 5_03162017124110" in field 'Entered AUT_Attributes_RANGE 5_03162017124110 in Attribute Name Input Field'
+Mar 16,2017 13:07:55 [Info]  Clicked on the 'DataType Field'
+Mar 16,2017 13:07:55 [Info]  Entered "Range" in field 'Entered Range in DataType Input Field'
+Mar 16,2017 13:07:55 [Info]  Clicked on the 'Format Field'
+Mar 16,2017 13:07:55 [Info]  Entered "$$$$$.cc" in field 'Entered $$$$$.cc in Format Input Field'
+Mar 16,2017 13:12:47 [Info]  Clicked on the 'Save Button to Add Attribute' using JS Executor
+Mar 16,2017 13:12:47 [Info]  Verify the details of Created Custom Attribute
+Mar 16,2017 13:12:48 [Info]  Verify The data of ModuleName Field
+<span style="color:green;">Mar 16,2017 13:12:48 [Verification]  Verified that Expected value :[Title Maintenance] is matched with Actual value :[Title Maintenance]</span>
+Mar 16,2017 13:12:48 [Info]  Verify The data of Format Field
+<span style="color:green;">Mar 16,2017 13:12:48 [Verification]  Verified that Expected value :[$$$$$.cc] is matched with Actual value :[$$$$$.cc]</span>
+Mar 16,2017 13:12:48 [Info]  Verify The data of DataType Field
+<span style="color:green;">Mar 16,2017 13:12:48 [Verification]  Verified that Expected value :[Range] is matched with Actual value :[Range]</span>
+Mar 16,2017 13:12:48 [Info]  
+Mar 16,2017 13:12:48 [Info]  Clicked on the 'New Button to Add Attribute' using JS Executor
+Mar 16,2017 13:12:50 [Info]  Clicked on the 'Module Field'
+Mar 16,2017 13:12:50 [Info]  Entered "Title Maintenance" in field 'Entered Title Maintenance in Module Input Field'
+Mar 16,2017 13:12:51 [Info]  Clicked on the 'AttributeName Field'
+Mar 16,2017 13:12:51 [Info]  Entered "AUT_Attributes_RANGE 6_03162017124110" in field 'Entered AUT_Attributes_RANGE 6_03162017124110 in Attribute Name Input Field'
+Mar 16,2017 13:12:51 [Info]  Clicked on the 'DataType Field'
+Mar 16,2017 13:12:51 [Info]  Entered "Range" in field 'Entered Range in DataType Input Field'
+Mar 16,2017 13:12:51 [Info]  Clicked on the 'Format Field'
+Mar 16,2017 13:12:52 [Info]  Entered "No Format" in field 'Entered No Format in Format Input Field'
+<span style="color:red;">Mar 16,2017 13:17:55 [Fail]  ====Failed==== "Save Button to Add Attribute" field is not present'</span>
+Mar 16,2017 13:19:56 [Info]  Verify the details of Created Custom Attribute
+Mar 16,2017 13:19:56 [Info]  Verify The data of ModuleName Field
+<span style="color:green;">Mar 16,2017 13:19:56 [Verification]  Verified that Expected value :[Title Maintenance] is matched with Actual value :[Title Maintenance]</span>
+Mar 16,2017 13:19:57 [Info]  Verify The data of Format Field
+<span style="color:green;">Mar 16,2017 13:19:57 [Verification]  Verified that Expected value :[No Format] is matched with Actual value :[No Format]</span>
+Mar 16,2017 13:19:57 [Info]  Verify The data of DataType Field
+<span style="color:green;">Mar 16,2017 13:19:57 [Verification]  Verified that Expected value :[Range] is matched with Actual value :[Range]</span>
+Mar 16,2017 13:19:57 [Info]  
+Mar 16,2017 13:19:57 [Info]  Clicked on the 'New Button to Add Attribute' using JS Executor
+<span style="color:red;">Mar 16,2017 13:19:59 [Fail]  ====Failed==== "Module Field" field is not present'</span>
+<span style="color:red;">Mar 16,2017 13:20:09 [Fail]  ====Failed==== "Entered Title Maintenance in Module Input Field" field is not present'Entered Title Maintenance in Module Input Field'</span>
+<span style="color:red;">Mar 16,2017 13:20:10 [Fail]  ====Failed==== "AttributeName Field" field is not present'</span>
+<span style="color:red;">Mar 16,2017 13:20:21 [Fail]  ====Failed==== "Entered AUT_Attributes_RANGE 7_03162017124110 in Attribute Name Input Field" field is not present'Entered AUT_Attributes_RANGE 7_03162017124110 in Attribute Name Input Field'</span>
+<span style="color:red;">Mar 16,2017 13:20:21 [Fail]  ====Failed==== "DataType Field" field is not present'</span>
+<span style="color:red;">Mar 16,2017 13:20:32 [Fail]  ====Failed==== "Entered Range in DataType Input Field" field is not present'Entered Range in DataType Input Field'</span>
+<span style="color:red;">Mar 16,2017 13:20:33 [Fail]  ====Failed==== "Format Field" field is not present'</span>
+<span style="color:red;">Mar 16,2017 13:20:43 [Fail]  ====Failed==== "Entered Text in Format Input Field" field is not present'Entered Text in Format Input Field'</span>
+Mar 16,2017 13:20:47 [Info]  Clicked on the 'Save Button to Add Attribute' using JS Executor
+Mar 16,2017 13:22:47 [Info]  Verify the details of Created Custom Attribute
+Mar 16,2017 13:22:57 [Info]  Verify The data of ModuleName Field
+<span style="color:red;">Mar 16,2017 13:22:57 [Fail]  ====Failed==== Expected value is:[Title Maintenance] but Actual value is[]. Please check the screenshot with name: ModuleName Fieldfor more details</span>
+Mar 16,2017 13:23:08 [Info]  Verify The data of Format Field
+<span style="color:red;">Mar 16,2017 13:23:08 [Fail]  ====Failed==== Expected value is:[Text] but Actual value is[]. Please check the screenshot with name: Format Fieldfor more details</span>
+Mar 16,2017 13:23:18 [Info]  Verify The data of DataType Field
+<span style="color:red;">Mar 16,2017 13:23:18 [Fail]  ====Failed==== Expected value is:[Range] but Actual value is[]. Please check the screenshot with name: DataType Fieldfor more details</span>
+Mar 16,2017 13:23:19 [Info]  
+Mar 16,2017 13:23:19 [Info]  Clicked on the 'New Button to Add Attribute' using JS Executor
+<span style="color:red;">Mar 16,2017 13:23:21 [Fail]  ====Failed==== "Module Field" field is not present'</span>
+<span style="color:red;">Mar 16,2017 13:23:32 [Fail]  ====Failed==== "Entered Title Maintenance in Module Input Field" field is not present'Entered Title Maintenance in Module Input Field'</span>
+<span style="color:red;">Mar 16,2017 13:23:32 [Fail]  ====Failed==== "AttributeName Field" field is not present'</span>
+<span style="color:red;">Mar 16,2017 13:23:43 [Fail]  ====Failed==== "Entered AUT_Attributes_List_03162017124110 in Attribute Name Input Field" field is not present'Entered AUT_Attributes_List_03162017124110 in Attribute Name Input Field'</span>
+<span style="color:red;">Mar 16,2017 13:23:43 [Fail]  ====Failed==== "DataType Field" field is not present'</span>
+<span style="color:red;">Mar 16,2017 13:23:54 [Fail]  ====Failed==== "Entered List in DataType Input Field" field is not present'Entered List in DataType Input Field'</span>
+<span style="color:red;">Mar 16,2017 13:23:55 [Fail]  ====Failed==== "Format Field" field is not present'</span>
+<span style="color:red;">Mar 16,2017 13:24:05 [Fail]  ====Failed==== "Entered No Format in Format Input Field" field is not present'Entered No Format in Format Input Field'</span>
+<span style="color:red;">Mar 16,2017 13:24:09 [Fail]  ====Failed==== "ListElement Field" field is not present'</span>
+<span style="color:red;">Mar 16,2017 13:24:20 [Fail]  ====Failed==== "Entered Volume 1,Volume 2,Volume 3,Volume 4,Volume 5,Volume 6,Volume 7,Volume 8,Volume 9,Volume 10,Special in DataType Input Field" field is not present'Entered Volume 1,Volume 2,Volume 3,Volume 4,Volume 5,Volume 6,Volume 7,Volume 8,Volume 9,Volume 10,Special in DataType Input Field'</span>
+Mar 16,2017 13:24:23 [Info]  Clicked on the 'Save Button to Add Attribute' using JS Executor
+Mar 16,2017 13:26:23 [Info]  Verify the details of Created Custom Attribute
+Mar 16,2017 13:26:34 [Info]  Verify The data of ModuleName Field
+<span style="color:red;">Mar 16,2017 13:26:34 [Fail]  ====Failed==== Expected value is:[Title Maintenance] but Actual value is[]. Please check the screenshot with name: ModuleName Fieldfor more details</span>
+Mar 16,2017 13:26:50 [Info]  Verify The data of Format Field
+<span style="color:red;">Mar 16,2017 13:26:50 [Fail]  ====Failed==== Expected value is:[No Format] but Actual value is[]. Please check the screenshot with name: Format Fieldfor more details</span>
+Mar 16,2017 13:27:00 [Info]  Verify The data of DataType Field
+<span style="color:red;">Mar 16,2017 13:27:00 [Fail]  ====Failed==== Expected value is:[List] but Actual value is[]. Please check the screenshot with name: DataType Fieldfor more details</span>
+Mar 16,2017 13:27:21 [Info]  Verify The data of ListElement
+<span style="color:red;">Mar 16,2017 13:27:21 [Fail]  ====Failed==== Expected value is:[Volume 1,Volume 2,Volume 3,Volume 4,Volume 5,Volume 6,Volume 7,Volume 8,Volume 9,Volume 10,Special] but Actual value is[]. Please check the screenshot with name: ListElementfor more details</span>
+Mar 16,2017 13:27:21 [Info]  
+<span style="color:red;">Mar 16,2017 13:27:31 [Fail]  ====Failed==== "New Button to Add Attribute" field is not present'</span>
+<span style="color:red;">Mar 16,2017 13:27:54 [Fail]  ====Failed==== "Module Field" field is not present'</span>
+<span style="color:red;">Mar 16,2017 13:28:04 [Fail]  ====Failed==== "Entered Title Maintenance in Module Input Field" field is not present'Entered Title Maintenance in Module Input Field'</span>
+<span style="color:red;">Mar 16,2017 13:28:24 [Fail]  ====Failed==== "AttributeName Field" field is not present'</span>
+<span style="color:red;">Mar 16,2017 13:28:35 [Fail]  ====Failed==== "Entered AUT_Attributes_Date1_03162017124110 in Attribute Name Input Field" field is not present'Entered AUT_Attributes_Date1_03162017124110 in Attribute Name Input Field'</span>
+<span style="color:red;">Mar 16,2017 13:28:55 [Fail]  ====Failed==== "DataType Field" field is not present'</span>
+<span style="color:red;">Mar 16,2017 13:29:06 [Fail]  ====Failed==== "Entered Date in DataType Input Field" field is not present'Entered Date in DataType Input Field'</span>
+<span style="color:red;">Mar 16,2017 13:29:26 [Fail]  ====Failed==== "Format Field" field is not present'</span>
+<span style="color:red;">Mar 16,2017 13:29:36 [Fail]  ====Failed==== "Entered Custom in Format Input Field" field is not present'Entered Custom in Format Input Field'</span>
+<span style="color:red;">Mar 16,2017 13:29:50 [Fail]  ====Failed==== "Save Button to Add Attribute" field is not present'</span>
+Mar 16,2017 13:29:50 [Info]  Verify the details of Created Custom Attribute
+Mar 16,2017 13:30:44 [Info]  Verify The data of ModuleName Field
+<span style="color:red;">Mar 16,2017 13:30:44 [Fail]  ====Failed==== Expected value is:[Title Maintenance] but Actual value is[]. Please check the screenshot with name: ModuleName Fieldfor more details</span>
+Mar 16,2017 13:30:54 [Info]  Verify The data of Format Field
+<span style="color:red;">Mar 16,2017 13:30:54 [Fail]  ====Failed==== Expected value is:[Custom] but Actual value is[]. Please check the screenshot with name: Format Fieldfor more details</span>
+Mar 16,2017 13:31:04 [Info]  Verify The data of DataType Field
+<span style="color:red;">Mar 16,2017 13:31:04 [Fail]  ====Failed==== Expected value is:[Date] but Actual value is[]. Please check the screenshot with name: DataType Fieldfor more details</span>
+Mar 16,2017 13:31:05 [Info]  
+Mar 16,2017 13:31:05 [Info]  Test 'createCustomAttributes_Prerequisites' PASSED
+Mar 16,2017 13:31:06 [Info]  Closed the Browser
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 19:22:20******************</span>
+Mar 16,2017 19:22:20 [Info]  Client: AMCN
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing the Test Area(Modules/TAB): 'General TAB'*********************</span>
+<span style="color:red;">Mar 16,2017 19:22:45 [Fail]  ====Failed==== " Could not find the Frame: //div[@clientid='RL_SplitterPane_Navigation']</span>
+Mar 16,2017 19:22:49 [Info]  Test 'TC1_AssetCreationTest' FAILED
+Mar 16,2017 19:22:49 [Info]  2
+Mar 16,2017 19:22:53 [Info]  Test 'TC1_AssetCreationTest' FAILED
+Mar 16,2017 19:22:53 [Info]  2

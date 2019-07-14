@@ -1,0 +1,1039 @@
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 15:19:57******************</span>
+Mar 14,2017 15:19:57 [Info]  Client: SKY
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************</span>
+Mar 14,2017 15:20:12 [Info]  Client: SKY
+Mar 14,2017 15:20:12 [Info]  URL: http://rlv2wb85/Home.aspx
+Mar 14,2017 15:20:12 [Info]  UserName: admin
+Mar 14,2017 15:20:12 [Info]  Password: admin
+Mar 14,2017 15:20:13 [Info]  Entered "admin" in field 'User Name'
+Mar 14,2017 15:20:13 [Info]  Clicked on the 'Temporary Check Box'
+Mar 14,2017 15:20:14 [Info]  Entered "admin" in field 'Password'
+Mar 14,2017 15:20:28 [Info]  Clicked on the 'LoginButton'
+Mar 14,2017 15:20:34 [Info]  Test 'TC1_CreateStandaloneDeal' PASSED
+Mar 14,2017 15:20:36 [Info]  Closed the Browser
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 15:34:45******************</span>
+Mar 14,2017 15:34:45 [Info]  Client: SKY
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************</span>
+Mar 14,2017 15:34:56 [Info]  Client: SKY
+Mar 14,2017 15:34:56 [Info]  URL: http://rlv2wb85/Home.aspx
+Mar 14,2017 15:34:56 [Info]  UserName: admin
+Mar 14,2017 15:34:56 [Info]  Password: admin
+<span style="color:red;">Mar 14,2017 15:35:49 [Fail]  ====Failed==== "User Name" field is not present'User Name'</span>
+<span style="color:red;">Mar 14,2017 15:35:55 [Fail]  ====Failed==== "Temporary Check Box" field is not present'</span>
+<span style="color:red;">Mar 14,2017 15:35:55 [Fail]  ====Failed==== " Could not find the Frame: //div[@clientid='RL_SplitterPane_Navigation']</span>
+Mar 14,2017 15:35:55 [Info]  Test 'TC2_ValidateCopyCurrentAgreement' FAILED
+Mar 14,2017 15:35:55 [Info]  2
+Mar 14,2017 15:35:55 [Info]  Test 'TC2_ValidateCopyCurrentAgreement' FAILED
+Mar 14,2017 15:35:55 [Info]  2
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 15:46:20******************</span>
+Mar 14,2017 15:46:20 [Info]  Client: SKY
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************</span>
+Mar 14,2017 15:46:31 [Info]  Client: SKY
+Mar 14,2017 15:46:31 [Info]  URL: http://rlv2wb85/Home.aspx
+Mar 14,2017 15:46:31 [Info]  UserName: admin
+Mar 14,2017 15:46:31 [Info]  Password: admin
+Mar 14,2017 15:46:32 [Info]  Entered "admin" in field 'User Name'
+Mar 14,2017 15:46:32 [Info]  Clicked on the 'Temporary Check Box'
+Mar 14,2017 15:46:32 [Info]  Entered "admin" in field 'Password'
+Mar 14,2017 15:46:58 [Info]  Clicked on the 'LoginButton'
+Mar 14,2017 15:47:04 [Info]  Clicked on the 'Module '
+Mar 14,2017 15:47:14 [Info]  Clicked on the 'Rights IN TAB '
+Mar 14,2017 15:47:20 [Info]  Clicked on the 'New Button' using JS Executor
+Mar 14,2017 15:47:22 [Info]  Clicked on the 'Master Agreement' using JS Executor
+Mar 14,2017 15:47:25 [Info]  Generated Deal Id is:  7055
+Mar 14,2017 15:47:25 [Info]  Clicked on the 'DealTitleField' using JS Executor
+Mar 14,2017 15:47:26 [Info]  Entered "AUT_Deal_TC2_0314201734620_Master" in field 'Deal Name Field'
+Mar 14,2017 15:47:26 [Info]  Selected "Acquisition-Program" in "DealType_DropDownField" drop down
+Mar 14,2017 15:47:26 [Info]  Selected "Events" in "Deal/Agreement Sub Type" drop down
+Mar 14,2017 15:47:26 [Info]  Entered "Fully Executed" in field 'Deal Creation Contract Status'
+Mar 14,2017 15:47:26 [Info]  Entered "In Progress" in field 'DealCreationCDEStatus'
+Mar 14,2017 15:47:26 [Info]  Entered "01/01/2014" in field 'DateExecuted_InputField'
+Mar 14,2017 15:47:27 [Info]  Entered "USD" in field 'DealCreationCurrency'
+Mar 14,2017 15:47:27 [Info]  Selected "Sky Movies" in "ProfitCenter_InputField" drop down
+Mar 14,2017 15:47:33 [Info]  Selected "Sky Movies" in "BudgetLine_InputField" drop down
+Mar 14,2017 15:47:55 [Info]  Moved Mouse over 'Party_AddButton'
+Mar 14,2017 15:47:56 [Info]  Clicked on the 'Party_AddButton'
+<span style="color:red;">Mar 14,2017 15:48:06 [Fail]  ====Failed==== "PartyPopUp Icon" field is not present'</span>
+Mar 14,2017 15:48:10 [Info]  Entered "AUT_SKY_RI_PRIMARY_PARTY" in field 'Search Party InputField'
+Mar 14,2017 15:48:11 [Info]  Double clicked on 'RI Search Party Window Find Button'
+Mar 14,2017 15:48:12 [Info]  Clicked on the 'AUT_SKY_RI_PRIMARY_PARTY'
+Mar 14,2017 15:48:13 [Info]  Clicked on the 'Select Button'
+Mar 14,2017 15:48:19 [Info]  Clicked on the 'Party Type Field' using JS Executor
+Mar 14,2017 15:48:19 [Info]  Entered "Primary" in field 'Party Party InputField'
+Mar 14,2017 15:48:19 [Info]  Clicked on the 'Support Click '
+Mar 14,2017 15:48:19 [Info]  Clicked on the 'Party_AddButton' using JS Executor
+<span style="color:red;">Mar 14,2017 15:48:29 [Fail]  ====Failed==== "PartyPopUp Icon" field is not present'</span>
+Mar 14,2017 15:48:35 [Info]  Entered "AUT_SKY_RI_LICENSOR_PARTY" in field 'Search Party InputField'
+Mar 14,2017 15:48:36 [Info]  Double clicked on 'RI Search Party Window Find Button'
+Mar 14,2017 15:48:41 [Info]  Clicked on the 'Select Party'
+Mar 14,2017 15:48:41 [Info]  Clicked on the 'Select Button'
+Mar 14,2017 15:48:48 [Info]  Clicked on the 'Party Type Field' using JS Executor
+Mar 14,2017 15:48:48 [Info]  Entered "Licensor" in field 'Party Party InputField'
+Mar 14,2017 15:48:48 [Info]  Clicked on the 'Support Click '
+Mar 14,2017 15:48:53 [Info]  Clicked on the 'Save Button' using JS Executor
+Mar 14,2017 15:48:53 [Info]  Clicked on the 'OK Buttom' using JS Executor
+Mar 14,2017 15:48:56 [Info]  Verify The data of CreatedDeal
+<span style="color:red;">Mar 14,2017 15:48:56 [Fail]  ====Failed==== Expected value is:[AUT_Deal_TC2_0314201734620_Master] but Actual value is[]. Please check the screenshot with name: CreatedDealfor more details</span>
+Mar 14,2017 15:48:56 [Info]  Clicked on the 'Module '
+<span style="color:red;">Mar 14,2017 15:49:04 [Fail]  ====Failed==== "Rights IN TAB " field is not present'</span>
+Mar 14,2017 15:49:11 [Info]  Clicked on the 'New Button' using JS Executor
+Mar 14,2017 15:49:15 [Info]  Clicked on the 'Attachment & Link to Master' using JS Executor
+Mar 14,2017 15:49:16 [Info]  Entered "AUT_Deal_TC2_0314201734620_Master" in field 'Deal Name'
+Mar 14,2017 15:49:26 [Info]  Clicked on the 'Find Button' using JS Executor
+Mar 14,2017 15:49:26 [Info]  Moved Mouse over 'First Deal in the Searched Deal'
+Mar 14,2017 15:49:26 [Info]  Clicked on the 'First Deal in the Searched Deal'
+Mar 14,2017 15:49:29 [Info]  Clicked on the 'View Deal' using JS Executor
+Mar 14,2017 15:49:35 [Info]  Generated Deal Id is:  7056
+Mar 14,2017 15:49:35 [Info]  Clicked on the 'DealTitleField' using JS Executor
+Mar 14,2017 15:49:36 [Info]  Entered "AUT_Deal_TC2_0314201734620" in field 'Deal Name Field'
+Mar 14,2017 15:49:36 [Info]  Selected "Acquisition-Program" in "DealType_DropDownField" drop down
+Mar 14,2017 15:49:36 [Info]  Selected "Events" in "Deal/Agreement Sub Type" drop down
+Mar 14,2017 15:49:36 [Info]  Entered "Fully Executed" in field 'Deal Creation Contract Status'
+Mar 14,2017 15:49:36 [Info]  Entered "In Progress" in field 'DealCreationCDEStatus'
+Mar 14,2017 15:49:36 [Info]  Entered "01/01/2014" in field 'DateExecuted_InputField'
+Mar 14,2017 15:49:36 [Info]  Entered "USD" in field 'DealCreationCurrency'
+Mar 14,2017 15:49:36 [Info]  Selected "Sky Movies" in "ProfitCenter_InputField" drop down
+Mar 14,2017 15:49:42 [Info]  Selected "Sky Movies" in "BudgetLine_InputField" drop down
+Mar 14,2017 15:50:06 [Info]  Clicked on the 'Save Button' using JS Executor
+Mar 14,2017 15:50:06 [Info]  Clicked on the 'OK Buttom' using JS Executor
+Mar 14,2017 15:50:09 [Info]  Verify The data of CreatedDeal
+<span style="color:red;">Mar 14,2017 15:50:09 [Fail]  ====Failed==== Expected value is:[AUT_Deal_TC2_0314201734620] but Actual value is[]. Please check the screenshot with name: CreatedDealfor more details</span>
+Mar 14,2017 15:50:10 [Info]  Test 'TC2_ValidateCopyCurrentAgreement' PASSED
+Mar 14,2017 15:50:11 [Info]  Closed the Browser
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 16:00:45******************</span>
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 16:25:45******************</span>
+Mar 14,2017 16:25:45 [Info]  Client: SKY
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************</span>
+Mar 14,2017 16:25:57 [Info]  Client: SKY
+Mar 14,2017 16:25:57 [Info]  URL: http://rlv2wb85/Home.aspx
+Mar 14,2017 16:25:57 [Info]  UserName: admin
+Mar 14,2017 16:25:57 [Info]  Password: admin
+Mar 14,2017 16:25:58 [Info]  Entered "admin" in field 'User Name'
+Mar 14,2017 16:25:58 [Info]  Clicked on the 'Temporary Check Box'
+Mar 14,2017 16:25:58 [Info]  Entered "admin" in field 'Password'
+Mar 14,2017 16:26:15 [Info]  Clicked on the 'LoginButton'
+Mar 14,2017 16:26:21 [Info]  Clicked on the 'Module '
+Mar 14,2017 16:26:33 [Info]  Clicked on the 'Rights IN TAB '
+Mar 14,2017 16:26:39 [Info]  Clicked on the 'New Button' using JS Executor
+Mar 14,2017 16:26:41 [Info]  Clicked on the 'Master Agreement' using JS Executor
+Mar 14,2017 16:26:45 [Info]  Generated Deal Id is:  7062
+Mar 14,2017 16:26:45 [Info]  Clicked on the 'DealTitleField' using JS Executor
+Mar 14,2017 16:26:46 [Info]  Entered "AUT_Deal_TC2_0314201742545_Master" in field 'Deal Name Field'
+Mar 14,2017 16:28:15 [Info]  Selected "Acquisition-Program" in "DealType_DropDownField" drop down
+Mar 14,2017 16:28:15 [Info]  Selected "Events" in "Deal/Agreement Sub Type" drop down
+Mar 14,2017 16:28:16 [Info]  Entered "Fully Executed" in field 'Deal Creation Contract Status'
+Mar 14,2017 16:28:16 [Info]  Entered "In Progress" in field 'DealCreationCDEStatus'
+Mar 14,2017 16:28:16 [Info]  Entered "01/01/2014" in field 'DateExecuted_InputField'
+Mar 14,2017 16:28:16 [Info]  Entered "USD" in field 'DealCreationCurrency'
+Mar 14,2017 16:28:16 [Info]  Selected "Sky Movies" in "ProfitCenter_InputField" drop down
+Mar 14,2017 16:28:22 [Info]  Selected "Sky Movies" in "BudgetLine_InputField" drop down
+Mar 14,2017 16:28:45 [Info]  Moved Mouse over 'Party_AddButton'
+Mar 14,2017 16:28:45 [Info]  Clicked on the 'Party_AddButton'
+Mar 14,2017 16:28:49 [Info]  Entered "AUT_SKY_RI_PRIMARY_PARTY" in field 'Search Party InputField'
+Mar 14,2017 16:28:50 [Info]  Double clicked on 'RI Search Party Window Find Button'
+Mar 14,2017 16:28:51 [Info]  Clicked on the 'AUT_SKY_RI_PRIMARY_PARTY'
+Mar 14,2017 16:28:51 [Info]  Clicked on the 'Select Button'
+Mar 14,2017 16:28:57 [Info]  Clicked on the 'Party Type Field' using JS Executor
+Mar 14,2017 16:28:57 [Info]  Entered "Primary" in field 'Party Party InputField'
+Mar 14,2017 16:28:58 [Info]  Clicked on the 'Support Click '
+Mar 14,2017 16:28:58 [Info]  Clicked on the 'Party_AddButton' using JS Executor
+Mar 14,2017 16:29:03 [Info]  Entered "AUT_SKY_RI_LICENSOR_PARTY" in field 'Search Party InputField'
+Mar 14,2017 16:29:04 [Info]  Double clicked on 'RI Search Party Window Find Button'
+Mar 14,2017 16:29:09 [Info]  Clicked on the 'Select Party'
+Mar 14,2017 16:29:09 [Info]  Clicked on the 'Select Button'
+Mar 14,2017 16:29:15 [Info]  Clicked on the 'Party Type Field' using JS Executor
+Mar 14,2017 16:29:16 [Info]  Entered "Licensor" in field 'Party Party InputField'
+Mar 14,2017 16:29:16 [Info]  Clicked on the 'Support Click '
+Mar 14,2017 16:29:20 [Info]  Clicked on the 'Save Button' using JS Executor
+Mar 14,2017 16:29:20 [Info]  Clicked on the 'OK Buttom' using JS Executor
+Mar 14,2017 16:29:23 [Info]  Verify The data of CreatedDeal
+<span style="color:red;">Mar 14,2017 16:29:23 [Fail]  ====Failed==== Expected value is:[AUT_Deal_TC2_0314201742545_Master] but Actual value is[]. Please check the screenshot with name: CreatedDealfor more details</span>
+Mar 14,2017 16:29:24 [Info]  Clicked on the 'Module '
+Mar 14,2017 16:29:35 [Info]  Clicked on the 'Rights IN TAB '
+Mar 14,2017 16:29:42 [Info]  Clicked on the 'New Button' using JS Executor
+Mar 14,2017 16:29:44 [Info]  Clicked on the 'Attachment & Link to Master' using JS Executor
+Mar 14,2017 16:29:44 [Info]  Entered "AUT_Deal_TC2_0314201742545_Master" in field 'Deal Name'
+Mar 14,2017 16:29:51 [Info]  Clicked on the 'Find Button' using JS Executor
+Mar 14,2017 16:29:51 [Info]  Moved Mouse over 'First Deal in the Searched Deal'
+Mar 14,2017 16:29:51 [Info]  Clicked on the 'First Deal in the Searched Deal'
+Mar 14,2017 16:29:54 [Info]  Clicked on the 'View Deal' using JS Executor
+Mar 14,2017 16:30:00 [Info]  Generated Deal Id is:  7064
+Mar 14,2017 16:30:00 [Info]  Clicked on the 'DealTitleField' using JS Executor
+Mar 14,2017 16:30:01 [Info]  Entered "AUT_Deal_TC2_0314201742545" in field 'Deal Name Field'
+Mar 14,2017 16:35:40 [Info]  Selected "Acquisition-Program" in "DealType_DropDownField" drop down
+Mar 14,2017 16:35:40 [Info]  Selected "Events" in "Deal/Agreement Sub Type" drop down
+Mar 14,2017 16:35:41 [Info]  Entered "Fully Executed" in field 'Deal Creation Contract Status'
+Mar 14,2017 16:35:41 [Info]  Entered "In Progress" in field 'DealCreationCDEStatus'
+Mar 14,2017 16:35:41 [Info]  Entered "01/01/2014" in field 'DateExecuted_InputField'
+Mar 14,2017 16:35:41 [Info]  Entered "USD" in field 'DealCreationCurrency'
+Mar 14,2017 16:35:41 [Info]  Selected "Sky Movies" in "ProfitCenter_InputField" drop down
+Mar 14,2017 16:35:47 [Info]  Selected "Sky Movies" in "BudgetLine_InputField" drop down
+Mar 14,2017 16:36:15 [Info]  Clicked on the 'Save Button' using JS Executor
+Mar 14,2017 16:36:16 [Info]  Clicked on the 'OK Buttom' using JS Executor
+Mar 14,2017 16:36:19 [Info]  Verify The data of CreatedDeal
+<span style="color:green;">Mar 14,2017 16:36:19 [Verification]  Verified that Expected value :[AUT_Deal_TC2_0314201742545] is matched with Actual value :[AUT_Deal_TC2_0314201742545]</span>
+Mar 14,2017 16:36:19 [Info]  Test 'TC2_ValidateCopyCurrentAgreement' PASSED
+Mar 14,2017 16:36:20 [Info]  Closed the Browser
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 16:37:23******************</span>
+Mar 14,2017 16:37:23 [Info]  Client: SKY
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************</span>
+Mar 14,2017 16:37:35 [Info]  Client: SKY
+Mar 14,2017 16:37:35 [Info]  URL: http://rlv2wb85/Home.aspx
+Mar 14,2017 16:37:35 [Info]  UserName: admin
+Mar 14,2017 16:37:35 [Info]  Password: admin
+Mar 14,2017 16:37:36 [Info]  Entered "admin" in field 'User Name'
+Mar 14,2017 16:37:36 [Info]  Clicked on the 'Temporary Check Box'
+Mar 14,2017 16:37:36 [Info]  Entered "admin" in field 'Password'
+Mar 14,2017 16:38:00 [Info]  Clicked on the 'LoginButton'
+Mar 14,2017 16:38:07 [Info]  Clicked on the 'Module '
+Mar 14,2017 16:38:20 [Info]  Clicked on the 'Rights IN TAB '
+Mar 14,2017 16:38:26 [Info]  Clicked on the 'New Button' using JS Executor
+<span style="color:blue;"> [Manual Test Step]  Manual Test Step : TC_RI_GT_002</span>
+Mar 14,2017 16:38:26 [Info]  ****** Verify the "Sub Menu Icon" under the "New Menu" *******
+Mar 14,2017 16:38:26 [Info]  "Master Deal" is Present
+Mar 14,2017 16:38:26 [Info]  "MasterAttach Deal" is Present
+Mar 14,2017 16:38:26 [Info]  "RI_AttachMentfromMaster" is Present
+Mar 14,2017 16:38:26 [Info]  "CopyAgreement Deal" is Present
+<span style="color:blue;"> [Manual Test Step]  Manual Test Step : TC_RI_GT_003</span>
+<span style="color:blue;"> [Manual Test Step]  ****** Verify the Labels/fields available on Deal Creation Form page **********</span>
+<span style="color:red;">Mar 14,2017 16:38:37 [Fail]  ====Failed==== "Standalone Agreement" field is not present'</span>
+Mar 14,2017 16:38:43 [Info]  Verify The data of Deal ID
+<span style="color:green;">Mar 14,2017 16:38:43 [Verification]  Verified that Expected value :[*Deal ID] is matched with Actual value :[*Deal ID]</span>
+Mar 14,2017 16:38:43 [Info]  Verify The data of DealName
+<span style="color:green;">Mar 14,2017 16:38:43 [Verification]  Verified that Expected value :[*Deal Name] is matched with Actual value :[*Deal Name]</span>
+Mar 14,2017 16:38:43 [Info]  Verify The data of DealType
+<span style="color:green;">Mar 14,2017 16:38:43 [Verification]  Verified that Expected value :[*Agreement Type] is matched with Actual value :[*Agreement Type]</span>
+Mar 14,2017 16:38:44 [Info]  Verify The data of DealSubType
+<span style="color:green;">Mar 14,2017 16:38:44 [Verification]  Verified that Expected value :[*Agreement Sub-Type] is matched with Actual value :[*Agreement Sub-Type]</span>
+Mar 14,2017 16:38:44 [Info]  Verify The data of ContractStatus
+<span style="color:green;">Mar 14,2017 16:38:44 [Verification]  Verified that Expected value :[*Contract Status] is matched with Actual value :[*Contract Status]</span>
+Mar 14,2017 16:38:44 [Info]  Verify The data of DataEntryContractStatus
+<span style="color:green;">Mar 14,2017 16:38:44 [Verification]  Verified that Expected value :[*Contract Data Entry Status] is matched with Actual value :[*Contract Data Entry Status]</span>
+Mar 14,2017 16:38:44 [Info]  Verify The data of DateExecutedStatus
+<span style="color:green;">Mar 14,2017 16:38:44 [Verification]  Verified that Expected value :[Approval Date] is matched with Actual value :[Approval Date]</span>
+Mar 14,2017 16:38:44 [Info]  Verify The data of CurrentCurrency
+<span style="color:green;">Mar 14,2017 16:38:44 [Verification]  Verified that Expected value :[*Contract Currency] is matched with Actual value :[*Contract Currency]</span>
+Mar 14,2017 16:38:44 [Info]  Verify The data of ProfitCenter
+<span style="color:green;">Mar 14,2017 16:38:44 [Verification]  Verified that Expected value :[*Profit Center] is matched with Actual value :[*Profit Center]</span>
+Mar 14,2017 16:38:44 [Info]  Verify The data of BudgetLine
+<span style="color:green;">Mar 14,2017 16:38:44 [Verification]  Verified that Expected value :[*Budget Line] is matched with Actual value :[*Budget Line]</span>
+Mar 14,2017 16:38:44 [Info]  *******Verify that Deal ID field is auto populated****
+Mar 14,2017 16:38:44 [Info]  Generated Deal Id is:  7068
+Mar 14,2017 16:38:45 [Info]  Drop Down values of 'Deal Type' Drop Down are: 
+Mar 14,2017 16:38:45 [Info]  Actual Drop Down Values are: 
+[(Select one), Acquisition-Rights, Acquisition-Program, Development, Commission, Co-Production, In-House Production, Sponsor/Ad Funded, Format, 3rd Party, VOD/Anytime +, Sports - Highly Confidential]
+Mar 14,2017 16:38:45 [Info]  Expected Drop Down Values are: 
+[Acquisition-Rights, Acquisition-Program, Development, Commission, Co-Production, In-House Production, Sponsor/Ad Funded, Format, 3rd Party, VOD/Anytime +, Sports - Highly Confidential]
+Mar 14,2017 16:38:45 [Info]  Total Number of Dropdown Valus in 'Deal Type' Drop Down:12
+<span style="color:red;">Mar 14,2017 16:38:45 [Fail]  =========Failed=======Actual Dropdown values of 'Deal Type' Drop DownDoes not match Expected [Acquisition-Rights]But Actual is [(Select one)]</span>
+<span style="color:green;">Mar 14,2017 16:38:45 [Verification]  Verified that [Acquisition-Rights] is present in the dropdown 'Deal Type' Drop Down</span>
+<span style="color:green;">Mar 14,2017 16:38:45 [Verification]  Verified that [Acquisition-Program] is present in the dropdown 'Deal Type' Drop Down</span>
+<span style="color:green;">Mar 14,2017 16:38:45 [Verification]  Verified that [Development] is present in the dropdown 'Deal Type' Drop Down</span>
+<span style="color:green;">Mar 14,2017 16:38:45 [Verification]  Verified that [Commission] is present in the dropdown 'Deal Type' Drop Down</span>
+<span style="color:green;">Mar 14,2017 16:38:45 [Verification]  Verified that [Co-Production] is present in the dropdown 'Deal Type' Drop Down</span>
+<span style="color:green;">Mar 14,2017 16:38:45 [Verification]  Verified that [In-House Production] is present in the dropdown 'Deal Type' Drop Down</span>
+<span style="color:green;">Mar 14,2017 16:38:45 [Verification]  Verified that [Sponsor/Ad Funded] is present in the dropdown 'Deal Type' Drop Down</span>
+<span style="color:green;">Mar 14,2017 16:38:45 [Verification]  Verified that [Format] is present in the dropdown 'Deal Type' Drop Down</span>
+<span style="color:green;">Mar 14,2017 16:38:45 [Verification]  Verified that [3rd Party] is present in the dropdown 'Deal Type' Drop Down</span>
+<span style="color:green;">Mar 14,2017 16:38:45 [Verification]  Verified that [VOD/Anytime +] is present in the dropdown 'Deal Type' Drop Down</span>
+<span style="color:green;">Mar 14,2017 16:38:45 [Verification]  Verified that [Sports - Highly Confidential] is present in the dropdown 'Deal Type' Drop Down</span>
+Mar 14,2017 16:38:46 [Info]  Drop Down values of 'Deal sub Type' Drop Down are: 
+Mar 14,2017 16:38:46 [Info]  Actual Drop Down Values are: 
+[(Select one), 1 Hour Series, 1/2 Hour Series, Biography, Events, Filler, History Alive, Miscellaneous, Our Century, Short Duration Series, Specials, Current, Interstitial, Library, MOW, PPV Digital (NVOD), PPV Analogue, Ex-PPV, Subscription, Mini-Series, Business, 3rd Party, PPV Digital (non NVOD), Vault, Subscription Movie Series, Premium VOD, N/A, WholeSale, Brand Destination, Licensing]
+Mar 14,2017 16:38:46 [Info]  Expected Drop Down Values are: 
+[1 Hour Series, 1/2 Hour Series, Biography, Events, Miscellaneous, Our Century, Short Duration Series, Specials, Current, Interstitial, Library, MOW, PPV Digital (NVOD), PPV Analogue, Ex-PPV, Subscription, Mini-Series, Business, 3rd Party, PPV Digital (non NVOD)]
+Mar 14,2017 16:38:47 [Info]  Total Number of Dropdown Valus in 'Deal sub Type' Drop Down:30
+<span style="color:red;">Mar 14,2017 16:38:47 [Fail]  =========Failed=======Actual Dropdown values of 'Deal sub Type' Drop DownDoes not match Expected [1 Hour Series]But Actual is [(Select one)]</span>
+<span style="color:green;">Mar 14,2017 16:38:47 [Verification]  Verified that [1 Hour Series] is present in the dropdown 'Deal sub Type' Drop Down</span>
+<span style="color:green;">Mar 14,2017 16:38:47 [Verification]  Verified that [1/2 Hour Series] is present in the dropdown 'Deal sub Type' Drop Down</span>
+<span style="color:green;">Mar 14,2017 16:38:47 [Verification]  Verified that [Biography] is present in the dropdown 'Deal sub Type' Drop Down</span>
+<span style="color:green;">Mar 14,2017 16:38:47 [Verification]  Verified that [Events] is present in the dropdown 'Deal sub Type' Drop Down</span>
+<span style="color:red;">Mar 14,2017 16:38:47 [Fail]  =========Failed=======Actual Dropdown values of 'Deal sub Type' Drop DownDoes not match Expected [Our Century]But Actual is [Filler]</span>
+<span style="color:red;">Mar 14,2017 16:38:47 [Fail]  =========Failed=======Actual Dropdown values of 'Deal sub Type' Drop DownDoes not match Expected [Short Duration Series]But Actual is [History Alive]</span>
+<span style="color:green;">Mar 14,2017 16:38:47 [Verification]  Verified that [Miscellaneous] is present in the dropdown 'Deal sub Type' Drop Down</span>
+<span style="color:green;">Mar 14,2017 16:38:47 [Verification]  Verified that [Our Century] is present in the dropdown 'Deal sub Type' Drop Down</span>
+<span style="color:green;">Mar 14,2017 16:38:47 [Verification]  Verified that [Short Duration Series] is present in the dropdown 'Deal sub Type' Drop Down</span>
+<span style="color:green;">Mar 14,2017 16:38:47 [Verification]  Verified that [Specials] is present in the dropdown 'Deal sub Type' Drop Down</span>
+<span style="color:green;">Mar 14,2017 16:38:47 [Verification]  Verified that [Current] is present in the dropdown 'Deal sub Type' Drop Down</span>
+<span style="color:green;">Mar 14,2017 16:38:47 [Verification]  Verified that [Interstitial] is present in the dropdown 'Deal sub Type' Drop Down</span>
+<span style="color:green;">Mar 14,2017 16:38:47 [Verification]  Verified that [Library] is present in the dropdown 'Deal sub Type' Drop Down</span>
+<span style="color:green;">Mar 14,2017 16:38:47 [Verification]  Verified that [MOW] is present in the dropdown 'Deal sub Type' Drop Down</span>
+<span style="color:green;">Mar 14,2017 16:38:47 [Verification]  Verified that [PPV Digital (NVOD)] is present in the dropdown 'Deal sub Type' Drop Down</span>
+<span style="color:green;">Mar 14,2017 16:38:47 [Verification]  Verified that [PPV Analogue] is present in the dropdown 'Deal sub Type' Drop Down</span>
+<span style="color:green;">Mar 14,2017 16:38:47 [Verification]  Verified that [Ex-PPV] is present in the dropdown 'Deal sub Type' Drop Down</span>
+<span style="color:green;">Mar 14,2017 16:38:47 [Verification]  Verified that [Subscription] is present in the dropdown 'Deal sub Type' Drop Down</span>
+<span style="color:green;">Mar 14,2017 16:38:47 [Verification]  Verified that [Mini-Series] is present in the dropdown 'Deal sub Type' Drop Down</span>
+<span style="color:green;">Mar 14,2017 16:38:47 [Verification]  Verified that [Business] is present in the dropdown 'Deal sub Type' Drop Down</span>
+<span style="color:green;">Mar 14,2017 16:38:47 [Verification]  Verified that [3rd Party] is present in the dropdown 'Deal sub Type' Drop Down</span>
+<span style="color:green;">Mar 14,2017 16:38:47 [Verification]  Verified that [PPV Digital (non NVOD)] is present in the dropdown 'Deal sub Type' Drop Down</span>
+Mar 14,2017 16:38:47 [Info]  Test 'TC1_CreateStandaloneDeal' FAILED
+Mar 14,2017 16:38:47 [Info]  2
+Mar 14,2017 16:38:48 [Info]  Test Case :TC1_CreateStandaloneDeal's Screenshot of Failure Page: 
+C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\14\TC1_CreateStandaloneDeal_03-14-2017 4-38-47 PM.jpg
+Mar 14,2017 16:38:49 [Info]  Closed the Browser
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 16:41:22******************</span>
+Mar 14,2017 16:41:22 [Info]  Client: SKY
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing the Test Area(Modules/TAB): 'Version TAB'*********************</span>
+Mar 14,2017 16:41:33 [Info]  Client: SKY
+Mar 14,2017 16:41:33 [Info]  URL: http://rlv2wb85/Home.aspx
+Mar 14,2017 16:41:33 [Info]  UserName: admin
+Mar 14,2017 16:41:33 [Info]  Password: admin
+Mar 14,2017 16:41:34 [Info]  Entered "admin" in field 'User Name'
+Mar 14,2017 16:41:34 [Info]  Clicked on the 'Temporary Check Box'
+Mar 14,2017 16:41:34 [Info]  Entered "admin" in field 'Password'
+Mar 14,2017 16:42:05 [Info]  Clicked on the 'LoginButton'
+<span style="color:blue;"> [Manual Test Step]  ************************Started Creating Asset of Type: Program - Movie************************</span>
+Mar 14,2017 16:42:15 [Info]  Clicked on the 'MODULE'
+Mar 14,2017 16:42:21 [Info]  Clicked on the 'Title Maintenance'
+Mar 14,2017 16:42:24 [Info]  Clicked on the 'New Button' using JS Executor
+Mar 14,2017 16:42:53 [Info]  Clicked on the 'Program' using JS Executor
+Mar 14,2017 16:43:01 [Info]  Clicked on the 'General TAB'
+Mar 14,2017 16:43:01 [Info]  Selected "Program - Movie" in "AssetTypeDropDown" drop down
+Mar 14,2017 16:43:01 [Info]  Entered "AUT_AssetMovies_0314201744122" in field 'AssetTitle'
+Mar 14,2017 16:43:02 [Info]  Clicked on the 'SBUImage' using JS Executor
+Mar 14,2017 16:43:09 [Info]  Clicked on the 'First CheckBox At SBU window'
+Mar 14,2017 16:43:11 [Info]  Clicked on the 'Apply Button' using JS Executor
+Mar 14,2017 16:43:11 [Info]  Entered "11:11:11" in field 'Duration'
+Mar 14,2017 16:43:21 [Info]  Selected "Active" in "Asset Status" drop down
+Mar 14,2017 16:43:21 [Info]  Selected "Event" in "Asset Format" drop down
+Mar 14,2017 16:43:22 [Info]  Selected "License Acquired" in "Asset Source" drop down
+Mar 14,2017 16:43:22 [Info]  Entered "AUT_Series" in field 'Short Name'
+Mar 14,2017 16:43:22 [Info]  Clicked on the 'Save Button' using JS Executor
+Mar 14,2017 16:43:44 [Info]  Verify The data of Created AssetAUT_AssetMovies_0314201744122
+<span style="color:green;">Mar 14,2017 16:43:44 [Verification]  Verified that Expected value :[AUT_AssetMovies_0314201744122] is matched with Actual value :[AUT_AssetMovies_0314201744122]</span>
+<span style="color:blue;"> [Manual Test Step]  ************************Created Asset of TypeProgram - Movie************************</span>
+Mar 14,2017 16:43:47 [Info]  Clicked on the 'MODULE'
+Mar 14,2017 16:43:54 [Info]  Clicked on the 'Title Maintenance'
+Mar 14,2017 16:44:07 [Info]  Could not find the locator: AUT_AssetMovies_0314201744122AssetName'
+<span style="color:red;">Mar 14,2017 16:44:17 [Fail]  ====Failed==== "Versions TAB" field is not present'</span>
+<span style="color:red;">Mar 14,2017 16:44:28 [Fail]  ====Failed==== " Could not find the Frame: div[class*='igtab_Office2007BlueTHContent'][style*=visible]</span>
+Mar 14,2017 16:44:28 [Info]  no such element: Unable to locate element: {"method":"css selector","selector":"div[class*='igtab_Office2007BlueTHContent'][style*=visible]"}
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.04 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: '9P4G6BS', ip: '10.10.22.71', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed), userDataDir=C:\Users\Rajudd\AppData\Local\Temp\scoped_dir8512_19440}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=56.0.2924.87, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 7210ffa1cc41b3476b5111a2d4abe1c7
+*** Element info: {Using=css selector, value=div[class*='igtab_Office2007BlueTHContent'][style*=visible]}
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 16:46:13******************</span>
+Mar 14,2017 16:46:13 [Info]  Client: SKY
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing the Test Area(Modules/TAB): 'Version TAB'*********************</span>
+Mar 14,2017 16:46:24 [Info]  Client: SKY
+Mar 14,2017 16:46:24 [Info]  URL: http://rlv2wb85/Home.aspx
+Mar 14,2017 16:46:24 [Info]  UserName: admin
+Mar 14,2017 16:46:24 [Info]  Password: admin
+Mar 14,2017 16:46:26 [Info]  Entered "admin" in field 'User Name'
+Mar 14,2017 16:46:26 [Info]  Clicked on the 'Temporary Check Box'
+Mar 14,2017 16:46:26 [Info]  Entered "admin" in field 'Password'
+Mar 14,2017 16:46:43 [Info]  Clicked on the 'LoginButton'
+<span style="color:blue;"> [Manual Test Step]  ************************Started Creating Asset of Type: Program - Movie************************</span>
+Mar 14,2017 16:46:53 [Info]  Clicked on the 'MODULE'
+Mar 14,2017 16:47:00 [Info]  Clicked on the 'Title Maintenance'
+Mar 14,2017 16:47:04 [Info]  Clicked on the 'New Button' using JS Executor
+Mar 14,2017 16:47:47 [Info]  Clicked on the 'Program' using JS Executor
+Mar 14,2017 16:47:55 [Info]  Clicked on the 'General TAB'
+Mar 14,2017 16:47:55 [Info]  Selected "Program - Movie" in "AssetTypeDropDown" drop down
+Mar 14,2017 16:47:56 [Info]  Entered "AUT_AssetMovies_0314201744613" in field 'AssetTitle'
+Mar 14,2017 16:47:56 [Info]  Clicked on the 'SBUImage' using JS Executor
+Mar 14,2017 16:48:03 [Info]  Clicked on the 'First CheckBox At SBU window'
+Mar 14,2017 16:48:05 [Info]  Clicked on the 'Apply Button' using JS Executor
+Mar 14,2017 16:48:05 [Info]  Entered "11:11:11" in field 'Duration'
+Mar 14,2017 16:48:15 [Info]  Selected "Active" in "Asset Status" drop down
+Mar 14,2017 16:48:15 [Info]  Selected "Event" in "Asset Format" drop down
+Mar 14,2017 16:48:16 [Info]  Selected "License Acquired" in "Asset Source" drop down
+Mar 14,2017 16:48:16 [Info]  Entered "AUT_Series" in field 'Short Name'
+Mar 14,2017 16:48:16 [Info]  Clicked on the 'Save Button' using JS Executor
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 18:01:09******************</span>
+Mar 14,2017 18:01:09 [Info]  Client: SKY
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************</span>
+Mar 14,2017 18:01:20 [Info]  Client: SKY
+Mar 14,2017 18:01:20 [Info]  URL: http://rlv2wb85/Home.aspx
+Mar 14,2017 18:01:20 [Info]  UserName: admin
+Mar 14,2017 18:01:20 [Info]  Password: admin
+Mar 14,2017 18:01:22 [Info]  Entered "admin" in field 'User Name'
+Mar 14,2017 18:01:22 [Info]  Clicked on the 'Temporary Check Box'
+Mar 14,2017 18:01:22 [Info]  Entered "admin" in field 'Password'
+Mar 14,2017 18:01:39 [Info]  Clicked on the 'LoginButton'
+Mar 14,2017 18:01:45 [Info]  Clicked on the 'Module '
+Mar 14,2017 18:01:51 [Info]  Clicked on the 'Rights IN TAB '
+Mar 14,2017 18:01:57 [Info]  Clicked on the 'New Button' using JS Executor
+Mar 14,2017 18:02:00 [Info]  Clicked on the 'Master Agreement' using JS Executor
+Mar 14,2017 18:02:03 [Info]  Generated Deal Id is:  7070
+Mar 14,2017 18:02:03 [Info]  Clicked on the 'DealTitleField' using JS Executor
+Mar 14,2017 18:02:04 [Info]  Entered "AUT_Deal_TC2_0314201760109_Master" in field 'Deal Name Field'
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 18:07:56******************</span>
+Mar 14,2017 18:07:56 [Info]  Client: SKY
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************</span>
+Mar 14,2017 18:08:07 [Info]  Client: SKY
+Mar 14,2017 18:08:07 [Info]  URL: http://rlv2wb85/Home.aspx
+Mar 14,2017 18:08:07 [Info]  UserName: admin
+Mar 14,2017 18:08:07 [Info]  Password: admin
+Mar 14,2017 18:08:09 [Info]  Entered "admin" in field 'User Name'
+Mar 14,2017 18:08:09 [Info]  Clicked on the 'Temporary Check Box'
+Mar 14,2017 18:08:09 [Info]  Entered "admin" in field 'Password'
+Mar 14,2017 18:08:26 [Info]  Clicked on the 'LoginButton'
+Mar 14,2017 18:08:32 [Info]  Clicked on the 'Module '
+Mar 14,2017 18:08:43 [Info]  Clicked on the 'Rights IN TAB '
+Mar 14,2017 18:08:49 [Info]  Clicked on the 'New Button' using JS Executor
+Mar 14,2017 18:08:51 [Info]  Clicked on the 'Master Agreement' using JS Executor
+Mar 14,2017 18:08:54 [Info]  Generated Deal Id is:  7071
+Mar 14,2017 18:08:54 [Info]  Clicked on the 'DealTitleField' using JS Executor
+Mar 14,2017 18:08:55 [Info]  Entered "AUT_Deal_TC2_0314201760756_Master" in field 'Deal Name Field'
+Mar 14,2017 18:09:30 [Info]  Entered "03/14" in field 'Deal Code'
+Mar 14,2017 18:10:11 [Info]  Clicked on the 'Module '
+Mar 14,2017 18:10:21 [Info]  Clicked on the 'Rights IN TAB '
+Mar 14,2017 18:10:27 [Info]  Clicked on the 'New Button' using JS Executor
+Mar 14,2017 18:10:28 [Info]  Clicked on the 'Master Agreement' using JS Executor
+Mar 14,2017 18:10:32 [Info]  Generated Deal Id is:  7072
+Mar 14,2017 18:10:32 [Info]  Clicked on the 'DealTitleField' using JS Executor
+Mar 14,2017 18:10:32 [Info]  Entered "AUT_Deal_TC2_0314201760756_Master" in field 'Deal Name Field'
+Mar 14,2017 18:11:23 [Info]  Entered "03142" in field 'Deal Code'
+Mar 14,2017 18:11:25 [Info]  Selected "Acquisition-Program" in "DealType_DropDownField" drop down
+Mar 14,2017 18:11:25 [Info]  Selected "Events" in "Deal/Agreement Sub Type" drop down
+Mar 14,2017 18:11:25 [Info]  Entered "Fully Executed" in field 'Deal Creation Contract Status'
+Mar 14,2017 18:11:25 [Info]  Entered "In Progress" in field 'DealCreationCDEStatus'
+Mar 14,2017 18:11:25 [Info]  Entered "01/01/2014" in field 'DateExecuted_InputField'
+Mar 14,2017 18:11:25 [Info]  Entered "USD" in field 'DealCreationCurrency'
+Mar 14,2017 18:11:25 [Info]  Selected "Sky Movies" in "ProfitCenter_InputField" drop down
+Mar 14,2017 18:11:32 [Info]  Selected "Sky Movies" in "BudgetLine_InputField" drop down
+Mar 14,2017 18:11:54 [Info]  Moved Mouse over 'Party_AddButton'
+Mar 14,2017 18:11:54 [Info]  Clicked on the 'Party_AddButton'
+<span style="color:red;">Mar 14,2017 18:12:05 [Fail]  ====Failed==== "PartyPopUp Icon" field is not present'</span>
+Mar 14,2017 18:12:09 [Info]  Entered "AUT_SKY_RI_PRIMARY_PARTY" in field 'Search Party InputField'
+Mar 14,2017 18:12:10 [Info]  Double clicked on 'RI Search Party Window Find Button'
+Mar 14,2017 18:12:11 [Info]  Clicked on the 'AUT_SKY_RI_PRIMARY_PARTY'
+Mar 14,2017 18:12:11 [Info]  Clicked on the 'Select Button'
+Mar 14,2017 18:12:18 [Info]  Clicked on the 'Party Type Field' using JS Executor
+Mar 14,2017 18:12:18 [Info]  Entered "Primary" in field 'Party Party InputField'
+Mar 14,2017 18:12:18 [Info]  Clicked on the 'Support Click '
+Mar 14,2017 18:12:18 [Info]  Clicked on the 'Party_AddButton' using JS Executor
+<span style="color:red;">Mar 14,2017 18:12:28 [Fail]  ====Failed==== "PartyPopUp Icon" field is not present'</span>
+Mar 14,2017 18:12:34 [Info]  Entered "AUT_SKY_RI_LICENSOR_PARTY" in field 'Search Party InputField'
+Mar 14,2017 18:12:35 [Info]  Double clicked on 'RI Search Party Window Find Button'
+Mar 14,2017 18:12:40 [Info]  Clicked on the 'Select Party'
+Mar 14,2017 18:12:40 [Info]  Clicked on the 'Select Button'
+Mar 14,2017 18:12:47 [Info]  Clicked on the 'Party Type Field' using JS Executor
+Mar 14,2017 18:12:47 [Info]  Entered "Licensor" in field 'Party Party InputField'
+Mar 14,2017 18:12:47 [Info]  Clicked on the 'Support Click '
+Mar 14,2017 18:12:54 [Info]  Clicked on the 'Save Button' using JS Executor
+Mar 14,2017 18:12:54 [Info]  Clicked on the 'OK Buttom' using JS Executor
+Mar 14,2017 18:12:57 [Info]  Verify The data of CreatedDeal
+<span style="color:green;">Mar 14,2017 18:12:57 [Verification]  Verified that Expected value :[AUT_Deal_TC2_0314201760756_Master] is matched with Actual value :[AUT_Deal_TC2_0314201760756_Master]</span>
+Mar 14,2017 18:12:57 [Info]  Clicked on the 'Module '
+Mar 14,2017 18:13:08 [Info]  Clicked on the 'Rights IN TAB '
+Mar 14,2017 18:13:14 [Info]  Clicked on the 'New Button' using JS Executor
+Mar 14,2017 18:13:16 [Info]  Clicked on the 'Attachment & Link to Master' using JS Executor
+Mar 14,2017 18:13:16 [Info]  Entered "AUT_Deal_TC2_0314201760756_Master" in field 'Deal Name'
+Mar 14,2017 18:13:25 [Info]  Clicked on the 'Find Button' using JS Executor
+Mar 14,2017 18:13:25 [Info]  Moved Mouse over 'First Deal in the Searched Deal'
+Mar 14,2017 18:13:25 [Info]  Clicked on the 'First Deal in the Searched Deal'
+Mar 14,2017 18:13:28 [Info]  Clicked on the 'View Deal' using JS Executor
+Mar 14,2017 18:13:34 [Info]  Generated Deal Id is:  7073
+Mar 14,2017 18:13:35 [Info]  Clicked on the 'DealTitleField' using JS Executor
+Mar 14,2017 18:13:35 [Info]  Entered "AUT_Deal_TC2_0314201760756" in field 'Deal Name Field'
+Mar 14,2017 18:13:41 [Info]  Entered "03142" in field 'Deal Code'
+Mar 14,2017 18:13:41 [Info]  Selected "Acquisition-Program" in "DealType_DropDownField" drop down
+Mar 14,2017 18:13:41 [Info]  Selected "Events" in "Deal/Agreement Sub Type" drop down
+Mar 14,2017 18:13:41 [Info]  Entered "Fully Executed" in field 'Deal Creation Contract Status'
+Mar 14,2017 18:13:41 [Info]  Entered "In Progress" in field 'DealCreationCDEStatus'
+Mar 14,2017 18:13:41 [Info]  Entered "01/01/2014" in field 'DateExecuted_InputField'
+Mar 14,2017 18:13:41 [Info]  Entered "USD" in field 'DealCreationCurrency'
+Mar 14,2017 18:13:42 [Info]  Selected "Sky Movies" in "ProfitCenter_InputField" drop down
+Mar 14,2017 18:13:48 [Info]  Selected "Sky Movies" in "BudgetLine_InputField" drop down
+Mar 14,2017 18:14:12 [Info]  Clicked on the 'Save Button' using JS Executor
+Mar 14,2017 18:14:16 [Info]  Clicked on the 'OK Buttom' using JS Executor
+Mar 14,2017 18:14:19 [Info]  Verify The data of CreatedDeal
+<span style="color:green;">Mar 14,2017 18:14:19 [Verification]  Verified that Expected value :[AUT_Deal_TC2_0314201760756] is matched with Actual value :[AUT_Deal_TC2_0314201760756]</span>
+Mar 14,2017 18:14:20 [Info]  Clicked on the 'Module '
+Mar 14,2017 18:14:30 [Info]  Clicked on the 'Rights IN TAB '
+Mar 14,2017 18:14:37 [Info]  Clicked on the 'New Button' using JS Executor
+Mar 14,2017 18:14:52 [Info]  Clicked on the 'CopyAgreement Deal'
+Mar 14,2017 18:15:41 [Info]  Clicked on the 'Module '
+Mar 14,2017 18:15:51 [Info]  Clicked on the 'Rights IN TAB '
+Mar 14,2017 18:16:00 [Info]  Double clicked on 'AUT_Deal_TC2_0314201760756Deal'
+Mar 14,2017 18:16:00 [Info]  Clicked on the 'New Button' using JS Executor
+Mar 14,2017 18:16:11 [Info]  Clicked on the 'CopyAgreement Deal'
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 18:40:04******************</span>
+Mar 14,2017 18:40:04 [Info]  Client: SKY
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************</span>
+Mar 14,2017 18:40:15 [Info]  Client: SKY
+Mar 14,2017 18:40:15 [Info]  URL: http://rlv2wb85/Home.aspx
+Mar 14,2017 18:40:15 [Info]  UserName: admin
+Mar 14,2017 18:40:15 [Info]  Password: admin
+Mar 14,2017 18:40:16 [Info]  Entered "admin" in field 'User Name'
+Mar 14,2017 18:40:16 [Info]  Clicked on the 'Temporary Check Box'
+Mar 14,2017 18:40:16 [Info]  Entered "admin" in field 'Password'
+Mar 14,2017 18:40:35 [Info]  Clicked on the 'LoginButton'
+Mar 14,2017 18:40:41 [Info]  Clicked on the 'Module '
+Mar 14,2017 18:40:51 [Info]  Clicked on the 'Rights IN TAB '
+Mar 14,2017 18:41:02 [Info]  Double clicked on 'AUT_Deal_TC2_0314201760756Deal'
+Mar 14,2017 18:41:02 [Info]  Clicked on the 'New Button' using JS Executor
+Mar 14,2017 18:41:06 [Info]  Clicked on the 'CopyAgreement Deal'
+Mar 14,2017 18:41:12 [Info]  Entered "03142" in field 'Deal Code'
+Mar 14,2017 18:41:12 [Info]  Entered "AUT_Deal_TC2_0314201760756" in field 'Deal Name'
+Mar 14,2017 18:41:12 [Info]  Selected "Co-Production" in "DealType_DropDownField" drop down
+Mar 14,2017 18:41:12 [Info]  Entered "In Negotiation" in field 'Deal Creation Contract Status'
+Mar 14,2017 18:41:12 [Info]  Entered "In Progress" in field 'DealCreationCDEStatus'
+Mar 14,2017 18:41:13 [Info]  Entered "01/01/2014" in field 'DateExecuted_InputField'
+Mar 14,2017 18:41:13 [Info]  Entered "USD" in field 'DealCreationCurrency'
+Mar 14,2017 18:41:15 [Info]  Clicked on the 'Save Button' using JS Executor
+<span style="color:red;">Mar 14,2017 18:41:26 [Fail]  ====Failed===="Either Expected Value is not given OR 'ValMsg_DealAlreadyExists'" Element is not Present</span>
+<span style="color:red;">Mar 14,2017 18:43:15 [Fail]  ====Failed==== " Could not find the Frame: div[class*='igtab_Office2007BlueTHContent'][style*=visible]</span>
+Mar 14,2017 18:43:16 [Info]  no such element: Unable to locate element: {"method":"tag name","selector":"iframe"}
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.02 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: '9P4G6BS', ip: '10.10.22.71', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed), userDataDir=C:\Users\Rajudd\AppData\Local\Temp\scoped_dir8560_29753}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=56.0.2924.87, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: dd59ac3380a56ff9e69cf264e618ba4b
+*** Element info: {Using=tag name, value=iframe}
+<span style="color:red;">Mar 14,2017 18:46:50 [Fail]  ====Failed==== " Could not find the Frame: div[class*='igtab_Office2007BlueTHContent'][style*=visible]</span>
+<span style="color:red;">Mar 14,2017 18:49:05 [Fail]  ====Failed===="Either Expected Value is not given OR 'ValMsg_DealAlreadyExists'" Element is not Present</span>
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 18:50:56******************</span>
+Mar 14,2017 18:50:56 [Info]  Client: SKY
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************</span>
+Mar 14,2017 18:51:08 [Info]  Client: SKY
+Mar 14,2017 18:51:08 [Info]  URL: http://rlv2wb85/Home.aspx
+Mar 14,2017 18:51:08 [Info]  UserName: admin
+Mar 14,2017 18:51:08 [Info]  Password: admin
+Mar 14,2017 18:51:09 [Info]  Entered "admin" in field 'User Name'
+Mar 14,2017 18:51:09 [Info]  Clicked on the 'Temporary Check Box'
+Mar 14,2017 18:51:09 [Info]  Entered "admin" in field 'Password'
+Mar 14,2017 18:51:27 [Info]  Clicked on the 'LoginButton'
+Mar 14,2017 18:51:34 [Info]  Clicked on the 'Module '
+Mar 14,2017 18:51:40 [Info]  Clicked on the 'Rights IN TAB '
+Mar 14,2017 18:51:49 [Info]  Double clicked on 'AUT_Deal_TC2_0314201760756Deal'
+Mar 14,2017 18:51:49 [Info]  Clicked on the 'New Button' using JS Executor
+Mar 14,2017 18:51:52 [Info]  Clicked on the 'CopyAgreement Deal'
+Mar 14,2017 18:51:53 [Info]  Entered "03142" in field 'Deal Code'
+Mar 14,2017 18:51:53 [Info]  Entered "AUT_Deal_TC2_0314201760756" in field 'Deal Name'
+Mar 14,2017 18:51:53 [Info]  Selected "Co-Production" in "DealType_DropDownField" drop down
+Mar 14,2017 18:51:53 [Info]  Entered "In Negotiation" in field 'Deal Creation Contract Status'
+Mar 14,2017 18:51:53 [Info]  Entered "In Progress" in field 'DealCreationCDEStatus'
+Mar 14,2017 18:51:53 [Info]  Entered "01/01/2014" in field 'DateExecuted_InputField'
+Mar 14,2017 18:51:54 [Info]  Entered "USD" in field 'DealCreationCurrency'
+Mar 14,2017 18:51:56 [Info]  Clicked on the 'Save Button' using JS Executor
+Mar 14,2017 18:52:11 [Info]  Verify The data of ValMsg_DealAlreadyExists
+<span style="color:green;">Mar 14,2017 18:52:11 [Verification]  Verified that Expected value :[This Deal Name already exists.Please select a unique deal name] is matched with Actual value :[This Deal Name already exists.Please select a unique deal name]</span>
+Mar 14,2017 18:52:15 [Info]  Entered "AUT_Deal_TC2_0314201760756_001" in field 'Deal Name'
+Mar 14,2017 18:52:23 [Info]  Clicked on the 'OK Button' using JS Executor
+Mar 14,2017 18:52:27 [Info]  Verify The data of CreatedDeal
+<span style="color:red;">Mar 14,2017 18:52:27 [Fail]  ====Failed==== Expected value is:[AUT_Deal_TC2_0314201760756_001] but Actual value is[]. Please check the screenshot with name: CreatedDealfor more details</span>
+Mar 14,2017 18:53:08 [Info]  Clicked on the 'Save Button' using JS Executor
+Mar 14,2017 18:53:20 [Info]  Verify The data of CreatedDeal
+<span style="color:red;">Mar 14,2017 18:53:20 [Fail]  ====Failed==== Expected value is:[AUT_Deal_TC2_0314201760756_001] but Actual value is[]. Please check the screenshot with name: CreatedDealfor more details</span>
+Mar 14,2017 18:54:13 [Info]  Clicked on the 'Save Button' using JS Executor
+<span style="color:red;">Mar 14,2017 18:54:24 [Fail]  ====Failed==== "OK Button" field is not present'</span>
+Mar 14,2017 18:54:32 [Info]  Clicked on the 'Save Button' using JS Executor
+Mar 14,2017 18:54:36 [Info]  Clicked on the 'OK Button' using JS Executor
+Mar 14,2017 18:54:55 [Info]  Verify The data of CreatedDeal
+<span style="color:green;">Mar 14,2017 18:54:55 [Verification]  Verified that Expected value :[AUT_Deal_TC2_0314201760756_001] is matched with Actual value :[AUT_Deal_TC2_0314201760756_001]</span>
+Mar 14,2017 18:55:08 [Info]  Test 'TC2_ValidateCopyCurrentAgreement' PASSED
+Mar 14,2017 18:55:10 [Info]  Closed the Browser
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 19:28:35******************</span>
+Mar 14,2017 19:28:35 [Info]  Client: SKY
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************</span>
+Mar 14,2017 19:28:58 [Info]  Client: SKY
+Mar 14,2017 19:28:58 [Info]  URL: http://rlv2wb85/Home.aspx
+Mar 14,2017 19:28:58 [Info]  UserName: admin
+Mar 14,2017 19:28:58 [Info]  Password: admin
+Mar 14,2017 19:29:02 [Info]  Entered "admin" in field 'User Name'
+Mar 14,2017 19:29:02 [Info]  Clicked on the 'Temporary Check Box'
+Mar 14,2017 19:29:02 [Info]  Entered "admin" in field 'Password'
+Mar 14,2017 19:29:21 [Info]  Clicked on the 'LoginButton'
+Mar 14,2017 19:29:27 [Info]  Clicked on the 'Module '
+Mar 14,2017 19:29:38 [Info]  Clicked on the 'Rights IN TAB '
+Mar 14,2017 19:29:44 [Info]  Clicked on the 'New Button' using JS Executor
+Mar 14,2017 19:29:47 [Info]  Clicked on the 'Master Agreement' using JS Executor
+Mar 14,2017 19:29:50 [Info]  Generated Deal Id is:  7092
+Mar 14,2017 19:29:50 [Info]  Clicked on the 'DealTitleField' using JS Executor
+Mar 14,2017 19:29:51 [Info]  Entered "AUT_Deal_TC2_0314201760756_Master" in field 'Deal Name Field'
+Mar 14,2017 19:29:51 [Info]  Entered "03142" in field 'Deal Code'
+Mar 14,2017 19:29:51 [Info]  Selected "Acquisition-Program" in "DealType_DropDownField" drop down
+Mar 14,2017 19:29:51 [Info]  Selected "Events" in "Deal/Agreement Sub Type" drop down
+Mar 14,2017 19:29:52 [Info]  Entered "Fully Executed" in field 'Deal Creation Contract Status'
+Mar 14,2017 19:29:52 [Info]  Entered "In Progress" in field 'DealCreationCDEStatus'
+Mar 14,2017 19:29:52 [Info]  Entered "01/01/2014" in field 'DateExecuted_InputField'
+Mar 14,2017 19:29:52 [Info]  Entered "USD" in field 'DealCreationCurrency'
+Mar 14,2017 19:29:52 [Info]  Selected "Sky Movies" in "ProfitCenter_InputField" drop down
+Mar 14,2017 19:29:59 [Info]  Selected "Sky Movies" in "BudgetLine_InputField" drop down
+Mar 14,2017 19:30:21 [Info]  Moved Mouse over 'Party_AddButton'
+Mar 14,2017 19:30:21 [Info]  Clicked on the 'Party_AddButton'
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 19:30:48******************</span>
+Mar 14,2017 19:30:48 [Info]  Client: SKY
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************</span>
+Mar 14,2017 19:30:59 [Info]  Client: SKY
+Mar 14,2017 19:30:59 [Info]  URL: http://rlv2wb85/Home.aspx
+Mar 14,2017 19:30:59 [Info]  UserName: admin
+Mar 14,2017 19:30:59 [Info]  Password: admin
+Mar 14,2017 19:31:03 [Info]  Entered "admin" in field 'User Name'
+Mar 14,2017 19:31:03 [Info]  Clicked on the 'Temporary Check Box'
+Mar 14,2017 19:31:03 [Info]  Entered "admin" in field 'Password'
+Mar 14,2017 19:31:19 [Info]  Clicked on the 'LoginButton'
+Mar 14,2017 19:31:25 [Info]  Clicked on the 'Module '
+Mar 14,2017 19:31:35 [Info]  Clicked on the 'Rights IN TAB '
+Mar 14,2017 19:31:41 [Info]  Clicked on the 'New Button' using JS Executor
+Mar 14,2017 19:31:45 [Info]  Clicked on the 'Master Agreement' using JS Executor
+Mar 14,2017 19:31:48 [Info]  Generated Deal Id is:  7093
+Mar 14,2017 19:31:48 [Info]  Clicked on the 'DealTitleField' using JS Executor
+Mar 14,2017 19:31:49 [Info]  Entered "AUT_Deal_TC2_0314201773048_Master" in field 'Deal Name Field'
+Mar 14,2017 19:31:49 [Info]  Entered "03142" in field 'Deal Code'
+Mar 14,2017 19:31:49 [Info]  Selected "Acquisition-Program" in "DealType_DropDownField" drop down
+Mar 14,2017 19:31:49 [Info]  Selected "Events" in "Deal/Agreement Sub Type" drop down
+Mar 14,2017 19:31:49 [Info]  Entered "Fully Executed" in field 'Deal Creation Contract Status'
+Mar 14,2017 19:31:50 [Info]  Entered "In Progress" in field 'DealCreationCDEStatus'
+Mar 14,2017 19:31:50 [Info]  Entered "01/01/2014" in field 'DateExecuted_InputField'
+Mar 14,2017 19:31:50 [Info]  Entered "USD" in field 'DealCreationCurrency'
+Mar 14,2017 19:31:50 [Info]  Selected "Sky Movies" in "ProfitCenter_InputField" drop down
+Mar 14,2017 19:31:56 [Info]  Selected "Sky Movies" in "BudgetLine_InputField" drop down
+Mar 14,2017 19:32:19 [Info]  Moved Mouse over 'Party_AddButton'
+Mar 14,2017 19:32:19 [Info]  Clicked on the 'Party_AddButton'
+<span style="color:red;">Mar 14,2017 19:32:30 [Fail]  ====Failed==== "PartyPopUp Icon" field is not present'</span>
+Mar 14,2017 19:32:34 [Info]  Entered "AUT_SKY_RI_PRIMARY_PARTY" in field 'Search Party InputField'
+Mar 14,2017 19:32:36 [Info]  Double clicked on 'RI Search Party Window Find Button'
+Mar 14,2017 19:32:38 [Info]  Clicked on the 'AUT_SKY_RI_PRIMARY_PARTY'
+Mar 14,2017 19:32:38 [Info]  Clicked on the 'Select Button'
+Mar 14,2017 19:32:44 [Info]  Clicked on the 'Party Type Field' using JS Executor
+Mar 14,2017 19:32:45 [Info]  Entered "Primary" in field 'Party Party InputField'
+Mar 14,2017 19:32:45 [Info]  Clicked on the 'Support Click '
+Mar 14,2017 19:32:45 [Info]  Clicked on the 'Party_AddButton' using JS Executor
+<span style="color:red;">Mar 14,2017 19:32:55 [Fail]  ====Failed==== "PartyPopUp Icon" field is not present'</span>
+Mar 14,2017 19:33:01 [Info]  Entered "AUT_SKY_RI_LICENSOR_PARTY" in field 'Search Party InputField'
+Mar 14,2017 19:33:02 [Info]  Double clicked on 'RI Search Party Window Find Button'
+Mar 14,2017 19:33:07 [Info]  Clicked on the 'Select Party'
+Mar 14,2017 19:33:08 [Info]  Clicked on the 'Select Button'
+Mar 14,2017 19:33:14 [Info]  Clicked on the 'Party Type Field' using JS Executor
+Mar 14,2017 19:33:14 [Info]  Entered "Licensor" in field 'Party Party InputField'
+Mar 14,2017 19:33:14 [Info]  Clicked on the 'Support Click '
+Mar 14,2017 19:33:19 [Info]  Clicked on the 'Save Button' using JS Executor
+Mar 14,2017 19:33:24 [Info]  Clicked on the 'OK Button' using JS Executor
+Mar 14,2017 19:33:27 [Info]  Verify The data of CreatedDeal
+<span style="color:green;">Mar 14,2017 19:33:27 [Verification]  Verified that Expected value :[AUT_Deal_TC2_0314201773048_Master] is matched with Actual value :[AUT_Deal_TC2_0314201773048_Master]</span>
+Mar 14,2017 19:33:27 [Info]  Clicked on the 'Module '
+Mar 14,2017 19:33:38 [Info]  Clicked on the 'Rights IN TAB '
+Mar 14,2017 19:33:44 [Info]  Clicked on the 'New Button' using JS Executor
+Mar 14,2017 19:33:47 [Info]  Clicked on the 'Attachment & Link to Master' using JS Executor
+Mar 14,2017 19:33:47 [Info]  Entered "AUT_Deal_TC2_0314201773048_Master" in field 'Deal Name'
+Mar 14,2017 19:33:53 [Info]  Clicked on the 'Find Button' using JS Executor
+Mar 14,2017 19:33:53 [Info]  Moved Mouse over 'First Deal in the Searched Deal'
+Mar 14,2017 19:33:53 [Info]  Clicked on the 'First Deal in the Searched Deal'
+Mar 14,2017 19:33:56 [Info]  Clicked on the 'View Deal' using JS Executor
+Mar 14,2017 19:34:02 [Info]  Generated Deal Id is:  7096
+Mar 14,2017 19:34:02 [Info]  Clicked on the 'DealTitleField' using JS Executor
+Mar 14,2017 19:34:03 [Info]  Entered "AUT_Deal_TC2_0314201773048" in field 'Deal Name Field'
+Mar 14,2017 19:34:03 [Info]  Entered "03142" in field 'Deal Code'
+Mar 14,2017 19:34:03 [Info]  Selected "Acquisition-Program" in "DealType_DropDownField" drop down
+Mar 14,2017 19:34:03 [Info]  Selected "Events" in "Deal/Agreement Sub Type" drop down
+Mar 14,2017 19:34:03 [Info]  Entered "Fully Executed" in field 'Deal Creation Contract Status'
+Mar 14,2017 19:34:03 [Info]  Entered "In Progress" in field 'DealCreationCDEStatus'
+Mar 14,2017 19:34:03 [Info]  Entered "01/01/2014" in field 'DateExecuted_InputField'
+Mar 14,2017 19:34:04 [Info]  Entered "USD" in field 'DealCreationCurrency'
+Mar 14,2017 19:34:04 [Info]  Selected "Sky Movies" in "ProfitCenter_InputField" drop down
+Mar 14,2017 19:34:10 [Info]  Selected "Sky Movies" in "BudgetLine_InputField" drop down
+Mar 14,2017 19:34:34 [Info]  Clicked on the 'Save Button' using JS Executor
+Mar 14,2017 19:34:38 [Info]  Clicked on the 'OK Button' using JS Executor
+Mar 14,2017 19:34:41 [Info]  Verify The data of CreatedDeal
+<span style="color:green;">Mar 14,2017 19:34:41 [Verification]  Verified that Expected value :[AUT_Deal_TC2_0314201773048] is matched with Actual value :[AUT_Deal_TC2_0314201773048]</span>
+Mar 14,2017 19:34:42 [Info]  Clicked on the 'Module '
+Mar 14,2017 19:34:53 [Info]  Clicked on the 'Rights IN TAB '
+Mar 14,2017 19:35:05 [Info]  Double clicked on 'AUT_Deal_TC2_0314201773048Deal'
+Mar 14,2017 19:35:06 [Info]  Clicked on the 'New Button' using JS Executor
+Mar 14,2017 19:35:06 [Info]  Clicked on the 'CopyAgreement Deal'
+Mar 14,2017 19:35:08 [Info]  Entered "03142" in field 'Deal Code'
+Mar 14,2017 19:35:08 [Info]  Entered "AUT_Deal_TC2_0314201773048" in field 'Deal Name'
+Mar 14,2017 19:35:09 [Info]  Selected "Co-Production" in "DealType_DropDownField" drop down
+Mar 14,2017 19:35:09 [Info]  Entered "In Negotiation" in field 'Deal Creation Contract Status'
+Mar 14,2017 19:35:09 [Info]  Entered "In Progress" in field 'DealCreationCDEStatus'
+Mar 14,2017 19:35:09 [Info]  Entered "01/01/2014" in field 'DateExecuted_InputField'
+Mar 14,2017 19:35:09 [Info]  Entered "USD" in field 'DealCreationCurrency'
+Mar 14,2017 19:35:11 [Info]  Clicked on the 'Save Button' using JS Executor
+Mar 14,2017 19:35:13 [Info]  Verify The data of ValMsg_DealAlreadyExists
+<span style="color:green;">Mar 14,2017 19:35:13 [Verification]  Verified that Expected value :[This Deal Name already exists.Please select a unique deal name] is matched with Actual value :[This Deal Name already exists.Please select a unique deal name]</span>
+Mar 14,2017 19:35:14 [Info]  Entered "AUT_Deal_TC2_0314201773048_001" in field 'Deal Name'
+Mar 14,2017 19:35:16 [Info]  Clicked on the 'Save Button' using JS Executor
+Mar 14,2017 19:35:16 [Info]  Verify The data of Alert Message for duplicate Deal Code/Description
+<span style="color:red;">Mar 14,2017 19:35:16 [Fail]  ====Failed==== Expected value is:[The following Agreement(s) have the same Deal Code as the one you have entered ] but Actual value is[The following Agreement(s) have the same Deal Code as the one you have entered
+- AUT_Deal_TC2_0314201760756, AUT_Deal_TC2_0314201760756_001, AUT_Deal_TC2_0314201760756_Master, AUT_Deal_TC2_0314201773048, AUT_Deal_TC2_0314201773048_Master.
+
+Do you wish to save the current agreement anyway?]. Please check the screenshot with name: Alert Message for duplicate Deal Code/Descriptionfor more details</span>
+Mar 14,2017 19:35:16 [Info]  Verify The data of Alert Message for duplicate Deal Code/Description
+<span style="color:green;">Mar 14,2017 19:35:16 [Verification]  Verified that Expected value :[Do you wish to save the current agreement anyway?] is matched with Actual value :[The following Agreement(s) have the same Deal Code as the one you have entered
+- AUT_Deal_TC2_0314201760756, AUT_Deal_TC2_0314201760756_001, AUT_Deal_TC2_0314201760756_Master, AUT_Deal_TC2_0314201773048, AUT_Deal_TC2_0314201773048_Master.
+
+Do you wish to save the current agreement anyway?]</span>
+Mar 14,2017 19:35:21 [Info]  Clicked on the 'OK Button' using JS Executor
+Mar 14,2017 19:35:21 [Info]  Verify The data of CreatedDeal
+<span style="color:green;">Mar 14,2017 19:35:21 [Verification]  Verified that Expected value :[AUT_Deal_TC2_0314201773048_001] is matched with Actual value :[AUT_Deal_TC2_0314201773048_001]</span>
+Mar 14,2017 19:35:21 [Info]  Test 'TC2_ValidateCopyCurrentAgreement' PASSED
+Mar 14,2017 19:35:24 [Info]  Closed the Browser
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 20:19:03******************</span>
+Mar 14,2017 20:19:03 [Info]  Client: SKY
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing the Test Area(Modules/TAB): 'Document TAB'*********************</span>
+Mar 14,2017 20:19:15 [Info]  Client: SKY
+Mar 14,2017 20:19:15 [Info]  URL: http://rlv2wb85/Home.aspx
+Mar 14,2017 20:19:15 [Info]  UserName: admin
+Mar 14,2017 20:19:15 [Info]  Password: admin
+Mar 14,2017 20:19:17 [Info]  Entered "admin" in field 'User Name'
+Mar 14,2017 20:19:17 [Info]  Clicked on the 'Temporary Check Box'
+Mar 14,2017 20:19:18 [Info]  Entered "admin" in field 'Password'
+Mar 14,2017 20:19:36 [Info]  Clicked on the 'LoginButton'
+<span style="color:blue;"> [Manual Test Step]  ************************Started Creating Asset of Type: Program - Series************************</span>
+Mar 14,2017 20:19:46 [Info]  Clicked on the 'MODULE'
+Mar 14,2017 20:19:52 [Info]  Clicked on the 'Title Maintenance'
+Mar 14,2017 20:19:56 [Info]  Clicked on the 'New Button' using JS Executor
+Mar 14,2017 20:20:17 [Info]  Clicked on the 'Program' using JS Executor
+Mar 14,2017 20:20:25 [Info]  Clicked on the 'General TAB'
+Mar 14,2017 20:21:07 [Info]  Selected "Program - Series" in "AssetTypeDropDown" drop down
+Mar 14,2017 20:21:07 [Info]  Entered "AUT_AssetSeries_Doc_TC1_0314201781903" in field 'AssetTitle'
+Mar 14,2017 20:21:09 [Info]  Clicked on the 'SBUImage' using JS Executor
+Mar 14,2017 20:21:15 [Info]  Clicked on the 'First CheckBox At SBU window'
+Mar 14,2017 20:21:17 [Info]  Clicked on the 'Apply Button' using JS Executor
+Mar 14,2017 20:21:17 [Info]  Entered "11:11:11" in field 'Duration'
+Mar 14,2017 20:21:28 [Info]  Selected "Active" in "Asset Status" drop down
+Mar 14,2017 20:21:28 [Info]  Selected "Event" in "Asset Format" drop down
+Mar 14,2017 20:21:28 [Info]  Selected "License Acquired" in "Asset Source" drop down
+Mar 14,2017 20:21:28 [Info]  Entered "AUT_Series" in field 'Short Name'
+Mar 14,2017 20:21:29 [Info]  Clicked on the 'Save Button' using JS Executor
+Mar 14,2017 20:21:54 [Info]  Verify The data of Created AssetAUT_AssetSeries_Doc_TC1_0314201781903
+<span style="color:green;">Mar 14,2017 20:21:54 [Verification]  Verified that Expected value :[AUT_AssetSeries_Doc_TC1_0314201781903] is matched with Actual value :[AUT_AssetSeries_Doc_TC1_0314201781903]</span>
+<span style="color:blue;"> [Manual Test Step]  ************************Created Asset of TypeProgram - Series************************</span>
+Mar 14,2017 20:21:57 [Info]  Clicked on the 'MODULE'
+Mar 14,2017 20:22:04 [Info]  Clicked on the 'Title Maintenance'
+Mar 14,2017 20:22:11 [Info]  Double clicked on 'AUT_AssetSeries_Doc_TC1_0314201781903AssetName'
+Mar 14,2017 20:22:17 [Info]  Clicked on the 'Episodes TAB'
+Mar 14,2017 20:22:22 [Info]  Clicked on the ''Edit' Button at Episode window' using JS Executor
+Mar 14,2017 20:22:25 [Info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Mar 14,2017 20:22:26 [Info]  Entered "101" in field 'Add Episode input field'
+Mar 14,2017 20:22:27 [Info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Mar 14,2017 20:22:33 [Info]  Clicked on the 'Season Field of Episode101' using JS Executor
+Mar 14,2017 20:22:33 [Info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Mar 14,2017 20:22:33 [Info]  Clicked on the 'Season 1'
+Mar 14,2017 20:22:33 [Info]  Clicked on the 'Support click to select season'
+Mar 14,2017 20:22:33 [Info]  Entered "00:30:00" in field 'duration Program'
+Mar 14,2017 20:22:33 [Info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Mar 14,2017 20:22:33 [Info]  Entered "102" in field 'Add Episode input field'
+Mar 14,2017 20:22:35 [Info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Mar 14,2017 20:22:40 [Info]  Clicked on the 'Season Field of Episode101' using JS Executor
+Mar 14,2017 20:22:40 [Info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Mar 14,2017 20:22:40 [Info]  Clicked on the 'Season 1'
+Mar 14,2017 20:22:40 [Info]  Clicked on the 'Support click to select season'
+Mar 14,2017 20:22:41 [Info]  Entered "00:30:00" in field 'duration Program'
+Mar 14,2017 20:22:41 [Info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Mar 14,2017 20:22:41 [Info]  Entered "201" in field 'Add Episode input field'
+Mar 14,2017 20:22:43 [Info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Mar 14,2017 20:22:48 [Info]  Clicked on the 'Season Field of Episode101' using JS Executor
+Mar 14,2017 20:22:48 [Info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Mar 14,2017 20:22:48 [Info]  Clicked on the 'Season 1'
+Mar 14,2017 20:22:48 [Info]  Clicked on the 'Support click to select season'
+Mar 14,2017 20:22:48 [Info]  Entered "00:30:00" in field 'duration Program'
+Mar 14,2017 20:22:48 [Info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Mar 14,2017 20:22:49 [Info]  Entered "202" in field 'Add Episode input field'
+Mar 14,2017 20:22:50 [Info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Mar 14,2017 20:22:55 [Info]  Clicked on the 'Season Field of Episode101' using JS Executor
+Mar 14,2017 20:22:55 [Info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Mar 14,2017 20:22:55 [Info]  Clicked on the 'Season 1'
+Mar 14,2017 20:22:56 [Info]  Clicked on the 'Support click to select season'
+Mar 14,2017 20:22:56 [Info]  Entered "00:30:00" in field 'duration Program'
+Mar 14,2017 20:23:04 [Info]  Clicked on the 'Save Button at 'Episode Edit Window'' using JS Executor
+Mar 14,2017 20:23:08 [Info]  Clicked on the 'Close Button at 'Episode Edit Window'' using JS Executor
+Mar 14,2017 20:23:17 [Info]  Clicked on the 'MODULE'
+Mar 14,2017 20:23:23 [Info]  Clicked on the 'Title Maintenance'
+Mar 14,2017 20:23:27 [Info]  Clicked on the 'Search Menu Icon' using JS Executor
+Mar 14,2017 20:23:29 [Info]  Clicked on the 'AssetSearchUnderAsset' using JS Executor
+Mar 14,2017 20:23:34 [Info]  Entered "AUT_AssetSeries_Doc_TC1_0314201781903" in field 'AssetTitle'
+Mar 14,2017 20:23:43 [Info]  Clicked on the 'Find Button' using JS Executor
+Mar 14,2017 20:24:05 [Info]  Moved Mouse over 'First Asset in the Searched Asset'
+Mar 14,2017 20:24:05 [Info]  Clicked on the 'First Asset in the Searched Asset'
+Mar 14,2017 20:24:05 [Info]  Clicked on the 'First Asset in the Searched Asset'
+Mar 14,2017 20:24:08 [Info]  Clicked on the 'View Asset' using JS Executor
+Mar 14,2017 20:24:18 [Info]  Verify The data of Created Asset At Home
+<span style="color:green;">Mar 14,2017 20:24:18 [Verification]  Verified that Expected value :[AUT_AssetSeries_Doc_TC1_0314201781903] is matched with Actual value :[AUT_AssetSeries_Doc_TC1_0314201781903]</span>
+Mar 14,2017 20:24:18 [Info]  Clicked on the 'Documents TAB'
+<span style="color:blue;"> [Manual Test Step]  ***********Verifying AllButtons Present on the Document TAB in view Mode***********</span>
+Mar 14,2017 20:24:20 [Info]  Verify The data of Document_ViewButton
+<span style="color:green;">Mar 14,2017 20:24:20 [Verification]  Verified that Expected value :[View Document] is matched with Actual value :[View Document]</span>
+Mar 14,2017 20:24:20 [Info]  Verify The data of Document_AddDocumentButton
+<span style="color:green;">Mar 14,2017 20:24:20 [Verification]  Verified that Expected value :[Add...] is matched with Actual value :[Add...]</span>
+Mar 14,2017 20:24:20 [Info]  Verify The data of Document_EditProfileButton
+<span style="color:green;">Mar 14,2017 20:24:21 [Verification]  Verified that Expected value :[Edit Profile] is matched with Actual value :[Edit Profile]</span>
+Mar 14,2017 20:24:21 [Info]  Verify The data of Document_DeleteDocumentButton
+<span style="color:green;">Mar 14,2017 20:24:21 [Verification]  Verified that Expected value :[Delete] is matched with Actual value :[Delete]</span>
+Mar 14,2017 20:24:21 [Info]  Verify The data of Applies TO
+<span style="color:green;">Mar 14,2017 20:24:21 [Verification]  Verified that Expected value :[Applies To] is matched with Actual value :[Applies To]</span>
+Mar 14,2017 20:24:21 [Info]  ******Verifying the Fields and Buttons on the Add Document Window******
+Mar 14,2017 20:24:22 [Info]  Clicked on the 'Document_AddDocumentButton' using JS Executor
+Mar 14,2017 20:24:26 [Info]  Verify The data of Document_AddDoc_AppliesToLabel
+<span style="color:green;">Mar 14,2017 20:24:26 [Verification]  Verified that Expected value :[*Applies To] is matched with Actual value :[*Applies To]</span>
+Mar 14,2017 20:24:26 [Info]  Verify The data of Document_AddDoc_DocNameLabel
+<span style="color:green;">Mar 14,2017 20:24:26 [Verification]  Verified that Expected value :[*Document Name] is matched with Actual value :[*Document Name]</span>
+Mar 14,2017 20:24:26 [Info]  Verify The data of Document_AddDoc_DocTypeLabel
+<span style="color:green;">Mar 14,2017 20:24:26 [Verification]  Verified that Expected value :[*Document Type] is matched with Actual value :[*Document Type]</span>
+Mar 14,2017 20:24:26 [Info]  Verify The data of Document_AddDoc_DocDateLabel
+<span style="color:green;">Mar 14,2017 20:24:26 [Verification]  Verified that Expected value :[Document Date] is matched with Actual value :[Document Date]</span>
+Mar 14,2017 20:24:26 [Info]  Verify The data of Document_AddDoc_DescritionLabel
+<span style="color:green;">Mar 14,2017 20:24:26 [Verification]  Verified that Expected value :[Description] is matched with Actual value :[Description]</span>
+Mar 14,2017 20:24:26 [Info]  Verify The data of Document_AddDoc_DocuentUploadLabel
+<span style="color:green;">Mar 14,2017 20:24:26 [Verification]  Verified that Expected value :[*Select File to Upload] is matched with Actual value :[*Select File to Upload]</span>
+Mar 14,2017 20:24:26 [Info]  Verify The data of Save button
+<span style="color:green;">Mar 14,2017 20:24:26 [Verification]  Verified that Expected value :[Save] is matched with Actual value :[Save]</span>
+Mar 14,2017 20:24:26 [Info]  Verify The data of Cancel button
+<span style="color:green;">Mar 14,2017 20:24:26 [Verification]  Verified that Expected value :[Cancel] is matched with Actual value :[Cancel]</span>
+Mar 14,2017 20:24:26 [Info]  *****Verifying all Associated Assets and Episodes are prefixed with 'Ep.'*****
+<span style="color:green;">Mar 14,2017 20:24:26 [Verification]  Verified that Expected value :[AUT_AssetSeries_Doc_TC1_0314201781903] is matched with Actual value :[AUT_AssetSeries_Doc_TC1_0314201781903]</span>
+<span style="color:red;">Mar 14,2017 20:24:27 [Fail]  ====Failed==== Expected value is:[Season 1] is not present in the Applies TO DropDown Values drop down. please see the screenshot: Season 1for more details</span>
+<span style="color:red;">Mar 14,2017 20:24:27 [Fail]  ====Failed==== Expected value is:[Ep.101: Episode101] is not present in the Applies TO DropDown Values S1_Episode1 drop down. please see the screenshot: Ep.101: Episode101for more details</span>
+<span style="color:red;">Mar 14,2017 20:24:27 [Fail]  ====Failed==== Expected value is:[Ep.102: Episode102] is not present in the Applies TO DropDown Values S1_Episode2 drop down. please see the screenshot: Ep.102: Episode102for more details</span>
+<span style="color:red;">Mar 14,2017 20:24:28 [Fail]  ====Failed==== Expected value is:[Season 2] is not present in the Applies TO DropDown Values Season 2 drop down. please see the screenshot: Season 2for more details</span>
+<span style="color:red;">Mar 14,2017 20:24:28 [Fail]  ====Failed==== Expected value is:[Ep.201: Episode201] is not present in the Applies TO DropDown Values S2_Episode1 drop down. please see the screenshot: Ep.201: Episode201for more details</span>
+<span style="color:red;">Mar 14,2017 20:24:29 [Fail]  ====Failed==== Expected value is:[Ep.202: Episode202] is not present in the Applies TO DropDown Values S2_Episode2 drop down. please see the screenshot: Ep.202: Episode202for more details</span>
+Mar 14,2017 20:24:29 [Info]  Selected "Amendment" in "Document_AddDoc_DocTypeDropDown" drop down
+<span style="color:green;">Mar 14,2017 20:24:29 [Verification]  Verified that Expected value :[Amendment] is matched with Actual value :[Amendment]</span>
+Mar 14,2017 20:24:30 [Info]  Entered "Declaration from the Legal HeirDeclaration 1234567890 @#$% @&*" in field 'Document_AddDoc_DocNameField'
+Mar 14,2017 20:24:30 [Info]  Clicked on the 'Outside the Document Name Field'
+Mar 14,2017 20:24:30 [Info]  Verify The data of Alert Message on Entering the invalid Names
+<span style="color:green;">Mar 14,2017 20:24:30 [Verification]  Verified that Expected value :[Please enter a valid file name!] is matched with Actual value :[Please enter a valid file name!]</span>
+Mar 14,2017 20:24:30 [Info]  Clicked on the 'OK Button at Alert on Entering the invalid Names' using JS Executor
+Mar 14,2017 20:24:30 [Info]  Entered "AT_Document_Name_001" in field 'Document_AddDoc_DocNameField'
+Mar 14,2017 20:24:31 [Info]  Clicked on the 'Save Button at 'Add Document Window'' using JS Executor
+Mar 14,2017 20:24:34 [Info]  Verify The data of 'Add Document'Validation Message
+<span style="color:green;">Mar 14,2017 20:24:34 [Verification]  Verified that Expected value :[Please select a document to upload.] is matched with Actual value :[  Please select a document to upload.  ]</span>
+Mar 14,2017 20:24:37 [Info]  Entered "C:\SeleniumProject\Workspace\RightsLogic\TestUploadFiles\AUTTestFile100KB.bmp" in field 'Upload File 'AUTTestFile100KB.bmp''
+Mar 14,2017 20:24:40 [Info]  Entered "31/12/2010" in field 'Document Date'
+Mar 14,2017 20:24:43 [Info]  Entered "Amendment" in field 'Document Discription'
+Mar 14,2017 20:24:45 [Info]  Clicked on the 'Save Button at 'Add Document Window'' using JS Executor
+Mar 14,2017 20:24:48 [Info]  ****Verifying all the Headers Name shown in View Mode After adding the Document****
+Mar 14,2017 20:24:52 [Info]  Verify The data of AMDocumentTypeKey
+<span style="color:green;">Mar 14,2017 20:24:52 [Verification]  Verified that Expected value :[Document Type] is matched with Actual value :[Document Type]</span>
+Mar 14,2017 20:24:52 [Info]  Verify The data of AMDocumentName
+<span style="color:green;">Mar 14,2017 20:24:52 [Verification]  Verified that Expected value :[Document Name] is matched with Actual value :[Document Name]</span>
+Mar 14,2017 20:24:52 [Info]  Verify The data of AMDocumentDate
+<span style="color:green;">Mar 14,2017 20:24:52 [Verification]  Verified that Expected value :[Document Date] is matched with Actual value :[Document Date]</span>
+Mar 14,2017 20:24:52 [Info]  Verify The data of AMDocumentDesc
+<span style="color:green;">Mar 14,2017 20:24:52 [Verification]  Verified that Expected value :[Description] is matched with Actual value :[Description]</span>
+Mar 14,2017 20:24:52 [Info]  Verify The data of AMDocumentDesc
+<span style="color:green;">Mar 14,2017 20:24:52 [Verification]  Verified that Expected value :[Description] is matched with Actual value :[Description]</span>
+Mar 14,2017 20:24:52 [Info]  Verify The data of AMDocumentDesc
+<span style="color:green;">Mar 14,2017 20:24:52 [Verification]  Verified that Expected value :[Description] is matched with Actual value :[Description]</span>
+Mar 14,2017 20:24:52 [Info]  ****Verifying all the Header's Values are shown orrectly in View Mode After adding the Document****
+Mar 14,2017 20:24:52 [Info]  Verify The data of AMDocumentTypeValue
+<span style="color:green;">Mar 14,2017 20:24:52 [Verification]  Verified that Expected value :[Amendment] is matched with Actual value :[Amendment]</span>
+Mar 14,2017 20:24:52 [Info]  Verify The data of AMDocumentNameData
+<span style="color:green;">Mar 14,2017 20:24:52 [Verification]  Verified that Expected value :[AT_Document_Name_001] is matched with Actual value :[AT_Document_Name_001.bmp]</span>
+Mar 14,2017 20:24:52 [Info]  Verify The data of AMDocumentDate
+<span style="color:green;">Mar 14,2017 20:24:52 [Verification]  Verified that Expected value :[31/12/2010] is matched with Actual value :[31/12/2010]</span>
+Mar 14,2017 20:24:52 [Info]  ******Click on View Button without selecting the row******
+Mar 14,2017 20:24:52 [Info]  Clicked on the 'View Button' using JS Executor
+Mar 14,2017 20:24:52 [Info]  Verify The data of Alert Message on clicking 'View Button'
+<span style="color:green;">Mar 14,2017 20:24:52 [Verification]  Verified that Expected value :[Please select a row which contains document before clicking View Document.] is matched with Actual value :[Please select a row which contains document before clicking View Document.]</span>
+Mar 14,2017 20:24:52 [Info]  Clicked on the 'OK Button at Alert on clicking 'View Button'' using JS Executor
+Mar 14,2017 20:24:52 [Info]  ******Click on Edit Button without selecting the row******
+Mar 14,2017 20:24:53 [Info]  Clicked on the 'Edit Button' using JS Executor
+Mar 14,2017 20:24:53 [Info]  Verify The data of Alert Message on clicking 'View Button'
+<span style="color:green;">Mar 14,2017 20:24:53 [Verification]  Verified that Expected value :[Please select a row which contains document before clicking Edit Profile] is matched with Actual value :[Please select a row which contains document before clicking Edit Profile.]</span>
+Mar 14,2017 20:24:53 [Info]  Clicked on the 'OK Button at Alert on clicking 'View Button'' using JS Executor
+Mar 14,2017 20:24:53 [Info]  ******Click on Edit Document Button and change the data and verify in view mode******
+Mar 14,2017 20:24:56 [Info]  Clicked on the 'Select the Row in View Mode' using JS Executor
+Mar 14,2017 20:25:03 [Info]  Clicked on the 'Edit Button' using JS Executor
+Mar 14,2017 20:25:03 [Info]  Selected "Cue Sheet" in "Document_AddDoc_DocTypeDropDown" drop down
+<span style="color:green;">Mar 14,2017 20:25:03 [Verification]  Verified that Expected value :[Cue Sheet] is matched with Actual value :[Cue Sheet]</span>
+Mar 14,2017 20:25:04 [Info]  Entered "AT_Document_Name_001_Changed" in field 'Document_AddDoc_DocNameField'
+Mar 14,2017 20:25:07 [Info]  Entered "Amendment" in field 'Document Discription'
+Mar 14,2017 20:25:09 [Info]  Clicked on the 'Save Button at 'Add Document Window'' using JS Executor
+Mar 14,2017 20:25:12 [Info]  Verify The data of AMDocumentTypeValue
+<span style="color:green;">Mar 14,2017 20:25:12 [Verification]  Verified that Expected value :[Cue Sheet] is matched with Actual value :[Cue Sheet]</span>
+Mar 14,2017 20:25:12 [Info]  Verify The data of AMDocumentNameData
+<span style="color:green;">Mar 14,2017 20:25:12 [Verification]  Verified that Expected value :[AT_Document_Name_001_Changed] is matched with Actual value :[AT_Document_Name_001_Changed.bmp]</span>
+Mar 14,2017 20:25:12 [Info]  ******Click on Remove Button without selecting the row******
+Mar 14,2017 20:25:12 [Info]  Clicked on the 'Delete Document Button' using JS Executor
+Mar 14,2017 20:25:12 [Info]  Verify The data of Alert Message on clicking 'Delete Button'
+<span style="color:green;">Mar 14,2017 20:25:12 [Verification]  Verified that Expected value :[Please select a row before clicking Delete.] is matched with Actual value :[Please select a row before clicking Delete.]</span>
+Mar 14,2017 20:25:12 [Info]  Clicked on the 'OK Button at Alert on clicking 'View Button'' using JS Executor
+Mar 14,2017 20:25:12 [Info]  ******Remove/Delete the Document row******
+Mar 14,2017 20:25:13 [Info]  Clicked on the 'Select the Row in View Mode'
+Mar 14,2017 20:25:13 [Info]  Clicked on the 'Delete Document Button' using JS Executor
+Mar 14,2017 20:25:13 [Info]  Verify The data of Alert Message on clicking 'Remove Button'
+<span style="color:green;">Mar 14,2017 20:25:13 [Verification]  Verified that Expected value :[Are you sure you want to delete the document?] is matched with Actual value :[Are you sure you want to delete the document?]</span>
+Mar 14,2017 20:25:14 [Info]  Clicked on the 'OK Button at Alert on clicking 'View Button'' using JS Executor
+Mar 14,2017 20:25:24 [Info]  "Document Row" is disable or not Present
+Mar 14,2017 20:25:24 [Info]  ******Verify the validation message on uploading 20480 KB file****
+Mar 14,2017 20:25:25 [Info]  Clicked on the 'Document_AddDocumentButton' using JS Executor
+Mar 14,2017 20:25:28 [Info]  Selected "Amendment" in "Document_AddDoc_DocTypeDropDown" drop down
+<span style="color:green;">Mar 14,2017 20:25:28 [Verification]  Verified that Expected value :[Amendment] is matched with Actual value :[Amendment]</span>
+Mar 14,2017 20:25:29 [Info]  Entered "AT_Document_Name_001" in field 'Document_AddDoc_DocNameField'
+Mar 14,2017 20:25:32 [Info]  Entered "31/12/2010" in field 'Document Date'
+Mar 14,2017 20:25:35 [Info]  Entered "Amendment" in field 'Document Discription'
+Mar 14,2017 20:25:35 [Info]  Entered "C:\SeleniumProject\Workspace\RightsLogic\TestUploadFiles\AUTTestFile21MB.bmp" in field 'Upload File 'AUTTestFile21MB.bmp''
+Mar 14,2017 20:25:40 [Info]  Clicked on the 'Save Button at 'Add Document Window'' using JS Executor
+Mar 14,2017 20:25:44 [Info]  Verify The data of 'Add Document' Validation Message
+<span style="color:green;">Mar 14,2017 20:25:44 [Verification]  Verified that Expected value :[The size of the file you are trying to upload exceeds the threshold limit(900KB).] is matched with Actual value :[  The size of the file you are trying to upload exceeds the threshold limit(900KB).]</span>
+Mar 14,2017 20:25:44 [Info]  *****Verify the message while uploadiing WinRAR file*****
+Mar 14,2017 20:25:44 [Info]  Entered "C:\SeleniumProject\Workspace\RightsLogic\TestUploadFiles\AUTTestFile900KB.rar" in field 'Upload File 'AUTTestFile21MB.bmp''
+Mar 14,2017 20:25:48 [Info]  Clicked on the 'Save Button at 'Add Document Window'' using JS Executor
+Mar 14,2017 20:25:51 [Info]  Verify The data of 'Add Document' Validation Message
+<span style="color:red;">Mar 14,2017 20:25:51 [Fail]  ====Failed==== Expected value is:[Cannot Upload Document of this Type.  The Valid Types are .DOC, .DOCX, .JPEG, .MPEG, .PPT, .PPTX, .TXT, .WMV, .XLS, .XLSX, .PDF, .JPG, .GIF, .RTF, .EML, .BMP only.] but Actual value is[Cannot Upload Document of this Type. The Valid Types are .DOC, .DOCX, .JPEG, .MPEG, .PPT, .PPTX, .TXT, .WMV, .XLS, .XLSX, .PDF, .JPG, .GIF, .RTF, .EML, .BMP only.]. Please check the screenshot with name: 'Add Document' Validation Messagefor more details</span>
+Mar 14,2017 20:25:51 [Info]  Test 'TC1_DocumentUI' PASSED
+Mar 14,2017 20:25:53 [Info]  Closed the Browser
+Mar 14,2017 20:26:03 [Info]  Client: SKY
+Mar 14,2017 20:26:03 [Info]  URL: http://rlv2wb85/Home.aspx
+Mar 14,2017 20:26:03 [Info]  UserName: admin
+Mar 14,2017 20:26:03 [Info]  Password: admin
+Mar 14,2017 20:26:04 [Info]  Entered "admin" in field 'User Name'
+Mar 14,2017 20:26:05 [Info]  Clicked on the 'Temporary Check Box'
+Mar 14,2017 20:26:05 [Info]  Entered "admin" in field 'Password'
+Mar 14,2017 20:26:21 [Info]  Clicked on the 'LoginButton'
+<span style="color:blue;"> [Manual Test Step]  ************************Started Creating Asset of Type: Program - Series************************</span>
+Mar 14,2017 20:26:30 [Info]  Clicked on the 'MODULE'
+Mar 14,2017 20:26:37 [Info]  Clicked on the 'Title Maintenance'
+Mar 14,2017 20:26:40 [Info]  Clicked on the 'New Button' using JS Executor
+Mar 14,2017 20:27:18 [Info]  Clicked on the 'Program' using JS Executor
+Mar 14,2017 20:27:26 [Info]  Clicked on the 'General TAB'
+Mar 14,2017 20:27:46 [Info]  Selected "Program - Series" in "AssetTypeDropDown" drop down
+Mar 14,2017 20:27:47 [Info]  Entered "AUT_AssetSeries_Doc_TC2_0314201781903" in field 'AssetTitle'
+Mar 14,2017 20:27:48 [Info]  Clicked on the 'SBUImage' using JS Executor
+Mar 14,2017 20:27:54 [Info]  Clicked on the 'First CheckBox At SBU window'
+Mar 14,2017 20:27:56 [Info]  Clicked on the 'Apply Button' using JS Executor
+Mar 14,2017 20:27:56 [Info]  Entered "11:11:11" in field 'Duration'
+Mar 14,2017 20:28:06 [Info]  Selected "Active" in "Asset Status" drop down
+Mar 14,2017 20:28:06 [Info]  Selected "Event" in "Asset Format" drop down
+Mar 14,2017 20:28:07 [Info]  Selected "License Acquired" in "Asset Source" drop down
+Mar 14,2017 20:28:07 [Info]  Entered "AUT_Series" in field 'Short Name'
+Mar 14,2017 20:28:07 [Info]  Clicked on the 'Save Button' using JS Executor
+Mar 14,2017 20:28:33 [Info]  Verify The data of Created AssetAUT_AssetSeries_Doc_TC2_0314201781903
+<span style="color:green;">Mar 14,2017 20:28:33 [Verification]  Verified that Expected value :[AUT_AssetSeries_Doc_TC2_0314201781903] is matched with Actual value :[AUT_AssetSeries_Doc_TC2_0314201781903]</span>
+<span style="color:blue;"> [Manual Test Step]  ************************Created Asset of TypeProgram - Series************************</span>
+Mar 14,2017 20:28:36 [Info]  Clicked on the 'MODULE'
+Mar 14,2017 20:28:43 [Info]  Clicked on the 'Title Maintenance'
+Mar 14,2017 20:28:50 [Info]  Double clicked on 'AUT_AssetSeries_Doc_TC2_0314201781903AssetName'
+Mar 14,2017 20:28:57 [Info]  Clicked on the 'Episodes TAB'
+Mar 14,2017 20:29:02 [Info]  Clicked on the ''Edit' Button at Episode window' using JS Executor
+Mar 14,2017 20:29:05 [Info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Mar 14,2017 20:29:06 [Info]  Entered "101" in field 'Add Episode input field'
+Mar 14,2017 20:29:08 [Info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Mar 14,2017 20:29:13 [Info]  Clicked on the 'Season Field of Episode101' using JS Executor
+Mar 14,2017 20:29:13 [Info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Mar 14,2017 20:29:13 [Info]  Clicked on the 'Season 1'
+Mar 14,2017 20:29:13 [Info]  Clicked on the 'Support click to select season'
+Mar 14,2017 20:29:14 [Info]  Entered "00:30:00" in field 'duration Program'
+Mar 14,2017 20:29:14 [Info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Mar 14,2017 20:29:14 [Info]  Entered "102" in field 'Add Episode input field'
+Mar 14,2017 20:29:15 [Info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Mar 14,2017 20:29:20 [Info]  Clicked on the 'Season Field of Episode101' using JS Executor
+Mar 14,2017 20:29:20 [Info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Mar 14,2017 20:29:20 [Info]  Clicked on the 'Season 1'
+Mar 14,2017 20:29:21 [Info]  Clicked on the 'Support click to select season'
+Mar 14,2017 20:29:21 [Info]  Entered "00:30:00" in field 'duration Program'
+Mar 14,2017 20:29:21 [Info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Mar 14,2017 20:29:21 [Info]  Entered "201" in field 'Add Episode input field'
+Mar 14,2017 20:29:23 [Info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Mar 14,2017 20:29:28 [Info]  Clicked on the 'Season Field of Episode101' using JS Executor
+Mar 14,2017 20:29:28 [Info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Mar 14,2017 20:29:28 [Info]  Clicked on the 'Season 1'
+Mar 14,2017 20:29:29 [Info]  Clicked on the 'Support click to select season'
+Mar 14,2017 20:29:29 [Info]  Entered "00:30:00" in field 'duration Program'
+Mar 14,2017 20:29:29 [Info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Mar 14,2017 20:29:29 [Info]  Entered "202" in field 'Add Episode input field'
+Mar 14,2017 20:29:31 [Info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Mar 14,2017 20:29:36 [Info]  Clicked on the 'Season Field of Episode101' using JS Executor
+Mar 14,2017 20:29:36 [Info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Mar 14,2017 20:29:37 [Info]  Clicked on the 'Season 1'
+Mar 14,2017 20:29:37 [Info]  Clicked on the 'Support click to select season'
+Mar 14,2017 20:29:37 [Info]  Entered "00:30:00" in field 'duration Program'
+Mar 14,2017 20:29:44 [Info]  Clicked on the 'Save Button at 'Episode Edit Window'' using JS Executor
+Mar 14,2017 20:29:48 [Info]  Clicked on the 'Close Button at 'Episode Edit Window'' using JS Executor
+Mar 14,2017 20:29:58 [Info]  Clicked on the 'MODULE'
+Mar 14,2017 20:30:04 [Info]  Clicked on the 'Title Maintenance'
+Mar 14,2017 20:30:07 [Info]  Clicked on the 'Search Menu Icon' using JS Executor
+Mar 14,2017 20:30:09 [Info]  Clicked on the 'AssetSearchUnderAsset' using JS Executor
+Mar 14,2017 20:30:14 [Info]  Entered "AUT_AssetSeries_Doc_TC2_0314201781903" in field 'AssetTitle'
+Mar 14,2017 20:30:22 [Info]  Clicked on the 'Find Button' using JS Executor
+Mar 14,2017 20:30:43 [Info]  Moved Mouse over 'First Asset in the Searched Asset'
+Mar 14,2017 20:30:43 [Info]  Clicked on the 'First Asset in the Searched Asset'
+Mar 14,2017 20:30:43 [Info]  Clicked on the 'First Asset in the Searched Asset'
+Mar 14,2017 20:30:46 [Info]  Clicked on the 'View Asset' using JS Executor
+Mar 14,2017 20:30:57 [Info]  Verify The data of Created Asset At Home
+<span style="color:green;">Mar 14,2017 20:30:57 [Verification]  Verified that Expected value :[AUT_AssetSeries_Doc_TC2_0314201781903] is matched with Actual value :[AUT_AssetSeries_Doc_TC2_0314201781903]</span>
+Mar 14,2017 20:30:57 [Info]  Clicked on the 'Documents TAB'
+Mar 14,2017 20:30:59 [Info]  ******Add the Document Row****
+Mar 14,2017 20:30:59 [Info]  Clicked on the 'Document_AddDocumentButton' using JS Executor
+Mar 14,2017 20:31:02 [Info]  Selected "Amendment" in "Document_AddDoc_DocTypeDropDown" drop down
+<span style="color:green;">Mar 14,2017 20:31:02 [Verification]  Verified that Expected value :[Amendment] is matched with Actual value :[Amendment]</span>
+Mar 14,2017 20:31:02 [Info]  Entered "AT_Document_Name_001" in field 'Document_AddDoc_DocNameField'
+Mar 14,2017 20:31:06 [Info]  Entered "31/12/2010" in field 'Document Date'
+Mar 14,2017 20:31:15 [Info]  Entered "Amendment" in field 'Document Discription'
+Mar 14,2017 20:31:15 [Info]  Entered "C:\SeleniumProject\Workspace\RightsLogic\TestUploadFiles\AUTTestFile100KB.bmp" in field 'Upload File 'AUTTestFile100KB.bmp''
+Mar 14,2017 20:31:20 [Info]  Clicked on the 'Save Button at 'Add Document Window'' using JS Executor
+Mar 14,2017 20:31:23 [Info]  ****Verifying all the Header's Values are shown orrectly in View Mode After adding the Document****
+Mar 14,2017 20:31:23 [Info]  Verify The data of AMDocumentTypeValue
+<span style="color:green;">Mar 14,2017 20:31:23 [Verification]  Verified that Expected value :[Amendment] is matched with Actual value :[Amendment]</span>
+Mar 14,2017 20:31:23 [Info]  Verify The data of AMDocumentNameData
+<span style="color:green;">Mar 14,2017 20:31:23 [Verification]  Verified that Expected value :[AT_Document_Name_001] is matched with Actual value :[AT_Document_Name_001.bmp]</span>
+Mar 14,2017 20:31:23 [Info]  Verify The data of AMDocumentDate
+<span style="color:green;">Mar 14,2017 20:31:23 [Verification]  Verified that Expected value :[31/12/2010] is matched with Actual value :[31/12/2010]</span>
+Mar 14,2017 20:31:23 [Info]  
+Mar 14,2017 20:31:23 [Info]  *******Verify the Document details for Ep.101: Episode101*******
+Mar 14,2017 20:31:25 [Info]  Clicked on the 'Asset Navigator' using JS Executor
+Mar 14,2017 20:31:26 [Info]  Clicked on the 'Select Ep.101: Episode101 at Asset Navigator'
+Mar 14,2017 20:31:30 [Info]  Double clicked on 'Select Ep.101: Episode101 at Asset Navigator'
+Mar 14,2017 20:31:42 [Info]  Verify The data of Created Asset At Home
+<span style="color:green;">Mar 14,2017 20:31:42 [Verification]  Verified that Expected value :[Episode101] is matched with Actual value :[Episode101]</span>
+Mar 14,2017 20:31:42 [Info]  Clicked on the 'Documents TAB'
+Mar 14,2017 20:31:43 [Info]  ****Verifying all the Header's Values are shown correctly in View Mode For Episode101****
+Mar 14,2017 20:31:44 [Info]  Verify The data of AMDocumentTypeValue
+<span style="color:green;">Mar 14,2017 20:31:44 [Verification]  Verified that Expected value :[Amendment] is matched with Actual value :[Amendment]</span>
+Mar 14,2017 20:31:44 [Info]  Verify The data of AMDocumentNameData
+<span style="color:green;">Mar 14,2017 20:31:44 [Verification]  Verified that Expected value :[AT_Document_Name_001] is matched with Actual value :[AT_Document_Name_001.bmp]</span>
+Mar 14,2017 20:31:44 [Info]  Verify The data of AMDocumentDate
+<span style="color:green;">Mar 14,2017 20:31:44 [Verification]  Verified that Expected value :[31/12/2010] is matched with Actual value :[31/12/2010]</span>
+Mar 14,2017 20:31:44 [Info]  
+Mar 14,2017 20:31:44 [Info]  *******Verify the Document details for Ep.102: Episode102*******
+Mar 14,2017 20:31:45 [Info]  Clicked on the 'Asset Navigator' using JS Executor
+Mar 14,2017 20:31:45 [Info]  Clicked on the 'Select Ep.102: Episode102 at Asset Navigator'
+Mar 14,2017 20:31:50 [Info]  Double clicked on 'Select Ep.102: Episode102 at Asset Navigator'
+Mar 14,2017 20:32:02 [Info]  Verify The data of Created Asset At Home
+<span style="color:green;">Mar 14,2017 20:32:02 [Verification]  Verified that Expected value :[Episode102] is matched with Actual value :[Episode102]</span>
+Mar 14,2017 20:32:02 [Info]  Clicked on the 'Documents TAB'
+Mar 14,2017 20:32:03 [Info]  ****Verifying all the Header's Values are shown correctly in View Mode For Episode102****
+Mar 14,2017 20:32:03 [Info]  Verify The data of AMDocumentTypeValue
+<span style="color:green;">Mar 14,2017 20:32:03 [Verification]  Verified that Expected value :[Amendment] is matched with Actual value :[Amendment]</span>
+Mar 14,2017 20:32:04 [Info]  Verify The data of AMDocumentNameData
+<span style="color:green;">Mar 14,2017 20:32:04 [Verification]  Verified that Expected value :[AT_Document_Name_001] is matched with Actual value :[AT_Document_Name_001.bmp]</span>
+Mar 14,2017 20:32:04 [Info]  Verify The data of AMDocumentDate
+<span style="color:green;">Mar 14,2017 20:32:04 [Verification]  Verified that Expected value :[31/12/2010] is matched with Actual value :[31/12/2010]</span>
+Mar 14,2017 20:32:04 [Info]  
+Mar 14,2017 20:32:04 [Info]  *******Verify the Document details for Ep.201: Episode201*******
+Mar 14,2017 20:32:05 [Info]  Clicked on the 'Asset Navigator' using JS Executor
+Mar 14,2017 20:32:05 [Info]  Clicked on the 'Select Ep.201: Episode201 at Asset Navigator'
+Mar 14,2017 20:32:10 [Info]  Double clicked on 'Select Ep.201: Episode201 at Asset Navigator'
+Mar 14,2017 20:32:22 [Info]  Verify The data of Created Asset At Home
+<span style="color:green;">Mar 14,2017 20:32:22 [Verification]  Verified that Expected value :[Episode201] is matched with Actual value :[Episode201]</span>
+Mar 14,2017 20:32:22 [Info]  Clicked on the 'Documents TAB'
+Mar 14,2017 20:32:23 [Info]  ****Verifying all the Header's Values are shown correctly in View Mode For Episode201****
+Mar 14,2017 20:32:23 [Info]  Verify The data of AMDocumentTypeValue
+<span style="color:green;">Mar 14,2017 20:32:23 [Verification]  Verified that Expected value :[Amendment] is matched with Actual value :[Amendment]</span>
+Mar 14,2017 20:32:23 [Info]  Verify The data of AMDocumentNameData
+<span style="color:green;">Mar 14,2017 20:32:23 [Verification]  Verified that Expected value :[AT_Document_Name_001] is matched with Actual value :[AT_Document_Name_001.bmp]</span>
+Mar 14,2017 20:32:24 [Info]  Verify The data of AMDocumentDate
+<span style="color:green;">Mar 14,2017 20:32:24 [Verification]  Verified that Expected value :[31/12/2010] is matched with Actual value :[31/12/2010]</span>
+Mar 14,2017 20:32:24 [Info]  
+Mar 14,2017 20:32:24 [Info]  *******Verify the Document details for Ep.202: Episode202*******
+Mar 14,2017 20:32:25 [Info]  Clicked on the 'Asset Navigator' using JS Executor
+Mar 14,2017 20:32:25 [Info]  Clicked on the 'Select Ep.202: Episode202 at Asset Navigator'
+Mar 14,2017 20:32:30 [Info]  Double clicked on 'Select Ep.202: Episode202 at Asset Navigator'
+Mar 14,2017 20:32:43 [Info]  Verify The data of Created Asset At Home
+<span style="color:green;">Mar 14,2017 20:32:43 [Verification]  Verified that Expected value :[Episode202] is matched with Actual value :[Episode202]</span>
+Mar 14,2017 20:32:43 [Info]  Clicked on the 'Documents TAB'
+Mar 14,2017 20:32:44 [Info]  ****Verifying all the Header's Values are shown correctly in View Mode For Episode202****
+Mar 14,2017 20:32:44 [Info]  Verify The data of AMDocumentTypeValue
+<span style="color:green;">Mar 14,2017 20:32:44 [Verification]  Verified that Expected value :[Amendment] is matched with Actual value :[Amendment]</span>
+Mar 14,2017 20:32:44 [Info]  Verify The data of AMDocumentNameData
+<span style="color:green;">Mar 14,2017 20:32:44 [Verification]  Verified that Expected value :[AT_Document_Name_001] is matched with Actual value :[AT_Document_Name_001.bmp]</span>
+Mar 14,2017 20:32:44 [Info]  Verify The data of AMDocumentDate
+<span style="color:green;">Mar 14,2017 20:32:44 [Verification]  Verified that Expected value :[31/12/2010] is matched with Actual value :[31/12/2010]</span>
+Mar 14,2017 20:32:44 [Info]  Test 'TC2_DocumentTAB_AcrossEpisodesAsset' PASSED
+Mar 14,2017 20:32:45 [Info]  Closed the Browser

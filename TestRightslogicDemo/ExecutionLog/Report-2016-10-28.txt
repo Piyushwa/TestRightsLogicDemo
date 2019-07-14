@@ -1,0 +1,115 @@
+Oct 28,2016 10:19:49 [info]  ********************Started Executiong the Test Suite at 10:19:49******************
+Oct 28,2016 10:19:49 [info]  Client: CORUS
+Oct 28,2016 10:19:49 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Oct 28,2016 10:19:49 [info]  *********************Started Executing 'testscript' Test Case*********************
+Oct 28,2016 10:20:18 [info]  Client: CORUS
+Oct 28,2016 10:20:18 [info]  URL: https://corus-rsgqa.rightslogic.com/Login.aspx 
+Oct 28,2016 10:20:18 [info]  UserName: admin
+Oct 28,2016 10:20:18 [info]  Password: admin_corus
+Oct 28,2016 10:20:32 [info]  Entered "admin" in field 'User Name'
+Oct 28,2016 10:20:32 [info]  Clicked on the 'Temporary Check Box'
+Oct 28,2016 10:20:33 [info]  Entered "admin_corus" in field 'Password'
+Oct 28,2016 10:20:43 [info]  Clicked on the 'LoginButton'
+Oct 28,2016 10:21:11 [info]  Clicked on the 'New Button' using JS Executor
+Oct 28,2016 10:21:11 [info]  Clicked on the 'Standalone Agreement' using JS Executor
+Oct 28,2016 10:21:23 [info]  Generated Deal Id is 666
+Oct 28,2016 10:21:23 [info]  Clicked on the 'DealTitleField' using JS Executor
+Oct 28,2016 10:21:25 [info]  Entered "AUT_Deal_1025201612143" in field 'Deal Name Field'
+Oct 28,2016 10:21:35 [info]  ====Failed==== "Deal Description/ContractID" field is not present'Deal Description/ContractID'
+Oct 28,2016 10:21:35 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Oct2016\\28\Deal Description/ContractID_CheckpointFailure_10-28-2016 10-21-35 AM.jpg
+Oct 28,2016 10:21:36 [info]  Selected "Production Services" in "DealType_DropDownField" drop down
+Oct 28,2016 10:21:46 [info]  ====Failed==== "Development" is not present in 'Deal/Agreement Sub TypeDrop Down'
+Oct 28,2016 10:21:47 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Oct2016\\28\Deal/Agreement Sub Type_CheckpointFailure_10-28-2016 10-21-46 AM.jpg
+Oct 28,2016 10:21:47 [info]  Entered "Finalized" in field 'DealCreationCDEStatus'
+Oct 28,2016 10:21:48 [info]  Entered "01/01/2014" in field 'DateExecuted_InputField'
+Oct 28,2016 10:21:49 [info]  Entered "01/01/2015" in field 'DateEffective_InputField'
+Oct 28,2016 10:21:50 [info]  Entered "USD" in field 'DealCreationCurrency'
+Oct 28,2016 10:22:00 [info]  ====Failed==== "ProjectStatus" field is not present'ProjectStatus'
+Oct 28,2016 10:22:00 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Oct2016\\28\ProjectStatus_CheckpointFailure_10-28-2016 10-22-00 AM.jpg
+Oct 28,2016 10:22:11 [info]  ====Failed==== "ProjectID_InputField" field is not present'ProjectID_InputField'
+Oct 28,2016 10:22:11 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Oct2016\\28\ProjectID_InputField_CheckpointFailure_10-28-2016 10-22-11 AM.jpg
+Oct 28,2016 10:22:11 [info]  Selected "Corus_Profit_Center" in "ProfitCenter_InputField" drop down
+Oct 28,2016 10:22:18 [info]  Selected "Corus" in "BudgetLine_InputField" drop down
+Oct 28,2016 10:22:38 [info]  ====Failed==== "SBU" field is not present'SBU'
+Oct 28,2016 10:22:38 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Oct2016\\28\SBU_CheckpointFailure_10-28-2016 10-22-38 AM.jpg
+Oct 28,2016 10:22:51 [info]  ====Failed==== "Doc Type look up Icon" field is not present'
+Oct 28,2016 10:22:52 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Oct2016\\28\Doc Type look up Icon_CheckpointFailure_10-28-2016 10-22-51 AM.jpg
+Oct 28,2016 10:23:08 [info]  ====Failed==== " Could not find the Frame: div[id*='WebDialogWindow1'][style*=visible]
+Oct 28,2016 10:23:08 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Oct2016\\28\FrameSwitchingFailed0_CheckpointFailure_10-28-2016 10-23-08 AM.jpg
+Oct 28,2016 10:23:18 [info]  ====Failed==== "Select All Button at SBU" field is not present'
+Oct 28,2016 10:23:18 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Oct2016\\28\Select All Button at SBU_CheckpointFailure_10-28-2016 10-23-18 AM.jpg
+Oct 28,2016 10:23:28 [info]  ====Failed==== "FirstCheckBoxAtSBU" field is not present'
+Oct 28,2016 10:23:29 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Oct2016\\28\FirstCheckBoxAtSBU_CheckpointFailure_10-28-2016 10-23-28 AM.jpg
+Oct 28,2016 10:23:39 [info]  ====Failed==== "NinthCheckBoxAtSBU" field is not present'
+Oct 28,2016 10:23:39 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Oct2016\\28\NinthCheckBoxAtSBU_CheckpointFailure_10-28-2016 10-23-39 AM.jpg
+Oct 28,2016 10:23:49 [info]  ====Failed==== "Apply Button" field is not present'
+Oct 28,2016 10:23:49 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Oct2016\\28\Apply Button_CheckpointFailure_10-28-2016 10-23-49 AM.jpg
+Oct 28,2016 10:23:54 [info]  Moved Mouse over 'Party_AddButton'
+Oct 28,2016 10:23:55 [info]  Clicked on the 'Party_AddButton'
+Oct 28,2016 10:24:01 [info]  Entered "AUT_CORUS_RI_PRIMARY_PARTY" in field 'Search Party InputField'
+Oct 28,2016 10:24:02 [info]  Double clicked on 'RI Search Party Window Find Button'
+Oct 28,2016 10:24:18 [info]  Verify The data of Alert Message
+Oct 28,2016 10:24:18 [info]  Verified that Expected value :[No search results were found for this query. Please try again using different criteria.] is matched with Actual value :[No search results were found for this query. Please try again using different criteria.]
+Oct 28,2016 10:24:18 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Oct 28,2016 10:24:21 [info]  Clicked on the 'Add Party Button'
+Oct 28,2016 10:24:22 [info]  Selected "Outlet" in "Party Type Drop Down" drop down
+Oct 28,2016 10:24:32 [info]  ====Failed==== "Corus_Profit_Center" is not present in 'Outlets_PartiesAddPartyDrop Down'
+Oct 28,2016 10:24:32 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Oct2016\\28\Outlets_PartiesAddParty_CheckpointFailure_10-28-2016 10-24-32 AM.jpg
+Oct 28,2016 10:24:36 [info]  Entered "AUT_CORUS_RI_PRIMARY_PARTY" in field 'Party Name'
+Oct 28,2016 10:24:36 [info]  Verified that Expected value :[Primary] is matched with Actual value :[Primary]
+Oct 28,2016 10:24:36 [info]  Clicked on the 'Contributor_ContributorSearch_Add_AddressLine1InputField' using JS Executor
+Oct 28,2016 10:24:37 [info]  Entered "AddressLine1" in field 'ConrtibutorsEdit_ConrtibutorsSearch_AddWindow_AddressLine1 Field'
+Oct 28,2016 10:24:37 [info]  Clicked on the 'Contributor_ContributorSearch_Add_AddressLine2InputField' using JS Executor
+Oct 28,2016 10:24:38 [info]  Entered "AddressLine2" in field 'ConrtibutorsEdit_ConrtibutorsSearch_AddWindow_AddressLine2 Field'
+Oct 28,2016 10:24:38 [info]  Clicked on the 'ConrtibutorsEdit_ConrtibutorsSearch_AddWindow_City' using JS Executor
+Oct 28,2016 10:24:38 [info]  Entered "City" in field 'ConrtibutorsEdit_ConrtibutorsSearch_AddWindow_City Field'
+Oct 28,2016 10:24:39 [info]  Selected "Canada" in "Country Input Field" drop down
+Oct 28,2016 10:24:39 [info]  Selected "Alberta" in "Contributor_ContributorSearch_Add_StateInputField" drop down
+Oct 28,2016 10:24:39 [info]  Clicked on the 'Contributor_ContributorSearch_Add_ZipCodeField' using JS Executor
+Oct 28,2016 10:24:39 [info]  Entered "12345" in field 'ConrtibutorsEdit_ConrtibutorsSearch_AddWindow_ZipCode Field'
+Oct 28,2016 10:24:39 [info]  Clicked on the ''Save Button' Contributor_ContributorSearch_Add_SaveGeneralInfoButton' using JS Executor
+Oct 28,2016 10:24:49 [info]  Verified that Expected value :[Changes have been saved successfully.] is matched with Actual value :[Changes have been saved successfully.]
+Oct 28,2016 10:24:51 [info]  Clicked on the 'close Add Party Window'
+Oct 28,2016 10:24:55 [info]  Entered "AUT_CORUS_RI_PRIMARY_PARTY" in field 'Search Party InputField'
+Oct 28,2016 10:24:55 [info]  Double clicked on 'RI Search Party Window Find Button'
+Oct 28,2016 10:25:01 [info]  Clicked on the 'AUT_CORUS_RI_PRIMARY_PARTY'
+Oct 28,2016 10:25:02 [info]  Clicked on the 'Select Button'
+Oct 28,2016 10:25:05 [info]  Clicked on the 'Party Type Field' using JS Executor
+Oct 28,2016 10:25:05 [info]  Entered "Primary" in field 'Party Party InputField'
+Oct 28,2016 10:25:06 [info]  Clicked on the 'Support Click '
+Oct 28,2016 10:25:06 [info]  Clicked on the 'Party_AddButton' using JS Executor
+Oct 28,2016 10:25:14 [info]  Entered "AUT_CORUS_RI_LICENSOR_PARTY" in field 'Search Party InputField'
+Oct 28,2016 10:25:15 [info]  Double clicked on 'RI Search Party Window Find Button'
+Oct 28,2016 10:25:35 [info]  Verify The data of Alert Message
+Oct 28,2016 10:25:35 [info]  Verified that Expected value :[No search results were found for this query. Please try again using different criteria.] is matched with Actual value :[No search results were found for this query. Please try again using different criteria.]
+Oct 28,2016 10:25:35 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Oct 28,2016 10:25:38 [info]  Clicked on the 'Add Party Button'
+Oct 28,2016 10:25:39 [info]  Selected "Licensor" in "Party Type Drop Down" drop down
+Oct 28,2016 10:25:42 [info]  Entered "AUT_CORUS_RI_LICENSOR_PARTY" in field 'Party Name'
+Oct 28,2016 10:25:43 [info]  Verified that Expected value :[Primary] is matched with Actual value :[Primary]
+Oct 28,2016 10:25:43 [info]  Clicked on the 'Contributor_ContributorSearch_Add_AddressLine1InputField' using JS Executor
+Oct 28,2016 10:25:43 [info]  Entered "AddressLine1" in field 'ConrtibutorsEdit_ConrtibutorsSearch_AddWindow_AddressLine1 Field'
+Oct 28,2016 10:25:43 [info]  Clicked on the 'Contributor_ContributorSearch_Add_AddressLine2InputField' using JS Executor
+Oct 28,2016 10:25:44 [info]  Entered "AddressLine2" in field 'ConrtibutorsEdit_ConrtibutorsSearch_AddWindow_AddressLine2 Field'
+Oct 28,2016 10:25:44 [info]  Clicked on the 'ConrtibutorsEdit_ConrtibutorsSearch_AddWindow_City' using JS Executor
+Oct 28,2016 10:25:44 [info]  Entered "City" in field 'ConrtibutorsEdit_ConrtibutorsSearch_AddWindow_City Field'
+Oct 28,2016 10:25:45 [info]  Selected "Canada" in "Country Input Field" drop down
+Oct 28,2016 10:25:45 [info]  Selected "Alberta" in "Contributor_ContributorSearch_Add_StateInputField" drop down
+Oct 28,2016 10:25:45 [info]  Clicked on the 'Contributor_ContributorSearch_Add_ZipCodeField' using JS Executor
+Oct 28,2016 10:25:45 [info]  Entered "12345" in field 'ConrtibutorsEdit_ConrtibutorsSearch_AddWindow_ZipCode Field'
+Oct 28,2016 10:25:46 [info]  Clicked on the ''Save Button' Contributor_ContributorSearch_Add_SaveGeneralInfoButton' using JS Executor
+Oct 28,2016 10:25:54 [info]  Verified that Expected value :[Changes have been saved successfully.] is matched with Actual value :[Changes have been saved successfully.]
+Oct 28,2016 10:25:56 [info]  Clicked on the 'close Add Party Window'
+Oct 28,2016 10:26:05 [info]  Entered "AUT_CORUS_RI_LICENSOR_PARTY" in field 'Search Party InputField'
+Oct 28,2016 10:26:05 [info]  Double clicked on 'RI Search Party Window Find Button'
+Oct 28,2016 10:26:16 [info]  Clicked on the 'Select Party'
+Oct 28,2016 10:26:17 [info]  Clicked on the 'Select Button'
+Oct 28,2016 10:26:20 [info]  Clicked on the 'Party Type Field' using JS Executor
+Oct 28,2016 10:26:21 [info]  Entered "Licensor" in field 'Party Party InputField'
+Oct 28,2016 10:26:21 [info]  Clicked on the 'Support Click '
+Oct 28,2016 10:26:25 [info]  Clicked on the 'Save Button' using JS Executor
+Oct 28,2016 10:26:35 [info]  Verify The data of CreatedDeal
+Oct 28,2016 10:26:35 [info]  ====Failed==== Expected value is:[AUT_Deal_1025201612143] but Actual value is[]. Please check the screenshot with name: CreatedDealfor more details
+Oct 28,2016 10:26:35 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Oct2016\\28\CreatedDeal_CheckpointFailure_10-28-2016 10-26-35 AM.jpg
+Oct 28,2016 10:26:35 [info]  Test 'testscript' PASSED
+Oct 28,2016 10:26:41 [info]  Closed the Browser

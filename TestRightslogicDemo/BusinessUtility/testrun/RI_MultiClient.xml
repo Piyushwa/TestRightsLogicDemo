@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+
+<suite name="Rights IN Module" parallel="false" thread-count="1"
+	verbose="2">
+
+	<listeners>
+		<listener class-name="org.uncommons.reportng.HTMLReporter" />
+		<listener class-name="org.uncommons.reportng.JUnitXMLReporter" />
+	</listeners>
+	
+	<test name="Media Rights TAB">
+		<classes>
+			<class name="rightsIN.RI_MediaRights" />
+		</classes>
+	</test>
+
+	<test name="ExhibitionRights TAB">
+		<classes>
+			<class name="rightsIN.RI_ExhibitionRights" />
+		</classes>
+	</test>
+
+	<test name="PromoRights TAB">
+		<classes>
+			<class name="rightsIN.RI_PromoRights" />
+		</classes>
+	</test>
+
+
+	<test name="Services TAB">
+		<classes>
+			<class name="rightsIN.RI_Services" />
+		</classes>
+	</test>
+
+	<test name="RevenueParticipation TAB">
+		<classes>
+			<class name="rightsIN.RI_RevenueParticipation" />
+		</classes>
+	</test>
+
+	<test name="BusinessTerms TAB">
+		<classes>
+			<class name="rightsIN.RI_BusinessTerms" />
+		</classes>
+	</test>
+
+	<test name="EditingRights TAB">
+		<classes>
+			<class name="rightsIN.RI_EditingRights" />
+		</classes>
+	</test>
+
+	<test name="Obligations TAB">
+		<classes>
+			<class name="rightsIN.RI_Obligations" />
+		</classes>
+	</test>
+
+	<test name="DeliverySchedule TAB">
+		<classes>
+			<class name="rightsIN.RI_DeliverySchedule" />
+		</classes>
+	</test>
+
+	<!-- <test name="Media Rights TAB"> <classes> <class name="rightsIN.RI_Document" 
+		/> </classes> </test> -->
+
+	<test name="Options TAB">
+		<classes>
+			<class name="rightsIN.RI_Options" />
+		</classes>
+	</test>
+
+	<test name="RI_ProjectTeam TAB">
+		<classes>
+			<class name="rightsIN.RI_ProjectTeam" />
+		</classes>
+	</test>
+
+	<test name="Media Rights TAB">
+		<classes>
+			<class name="assetMaintenance.AM_General" />
+		</classes>
+	</test>
+
+
+
+
+	<!-- <test name="All TAB"> <classes> <class name="rightsIN.RI_Attributes" 
+		/> <class name="rightsIN.RI_General" /> <class name="rightsIN.RI_Payments" 
+		/> <class name="rightsIN.RI_Restriction" /> <class name="rightsIN.RI_TrackingEvents" 
+		/> <class name="rightsIN.RI_Version" /> </classes> </test> -->
+
+
+
+</suite>

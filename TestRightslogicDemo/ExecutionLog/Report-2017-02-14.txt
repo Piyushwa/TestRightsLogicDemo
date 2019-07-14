@@ -1,0 +1,186 @@
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 11:27:34******************</span>
+<span style="color:red;">Feb 14,2017 11:27:34 [Fail]  ====Failed==== " Could not find the Frame: //div[@clientid='RL_SplitterPane_Navigation']</span>
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 11:28:47******************</span>
+<span style="color:red;">Feb 14,2017 11:28:47 [Fail]  ====Failed==== " Could not find the Frame: //div[@clientid='RL_SplitterPane_Navigation']</span>
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 11:28:51******************</span>
+<span style="color:red;">Feb 14,2017 11:28:51 [Fail]  ====Failed==== " Could not find the Frame: //div[@clientid='RL_SplitterPane_Navigation']</span>
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 11:30:03******************</span>
+<span style="color:red;">Feb 14,2017 11:30:03 [Fail]  ====Failed==== " Could not find the Frame: //div[@clientid='RL_SplitterPane_Navigation']</span>
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 11:30:34******************</span>
+<span style="color:red;">Feb 14,2017 11:30:34 [Fail]  ====Failed==== " Could not find the Frame: //div[@clientid='RL_SplitterPane_Navigation']</span>
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 11:30:59******************</span>
+<span style="color:red;">Feb 14,2017 11:30:59 [Fail]  ====Failed==== " Could not find the Frame: //div[@clientid='RL_SplitterPane_Navigation']</span>
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 11:31:32******************</span>
+<span style="color:red;">Feb 14,2017 11:31:32 [Fail]  ====Failed==== " Could not find the Frame: //div[@clientid='RL_SplitterPane_Navigation']</span>
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 11:31:48******************</span>
+<span style="color:red;">Feb 14,2017 11:31:48 [Fail]  ====Failed==== " Could not find the Frame: //div[@clientid='RL_SplitterPane_Navigation']</span>
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 11:32:24******************</span>
+<span style="color:red;">Feb 14,2017 11:32:24 [Fail]  ====Failed==== " Could not find the Frame: //div[@clientid='RL_SplitterPane_Navigation']</span>
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 11:33:09******************</span>
+<span style="color:red;">Feb 14,2017 11:33:09 [Fail]  ====Failed==== " Could not find the Frame: //div[@clientid='RL_SplitterPane_Navigation']</span>
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 12:07:07******************</span>
+<span style="color:red;">Feb 14,2017 12:07:07 [Fail]  ====Failed==== " Could not find the Frame: //div[@clientid='RL_SplitterPane_Navigation']</span>
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 12:45:37******************</span>
+<span style="color:red;">Feb 14,2017 12:45:37 [Fail]  ====Failed==== " Could not find the Frame: //div[@clientid='RL_SplitterPane_Navigation']</span>
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 12:47:09******************</span>
+<span style="color:red;">Feb 14,2017 12:47:09 [Fail]  ====Failed==== " Could not find the Frame: //div[@clientid='RL_SplitterPane_Navigation']</span>
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 12:48:06******************</span>
+<span style="color:red;">Feb 14,2017 12:48:06 [Fail]  ====Failed==== " Could not find the Frame: //div[@clientid='RL_SplitterPane_Navigation']</span>
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 12:50:02******************</span>
+Feb 14,2017 12:50:02 [Info]  Client: VMN
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing the Test Area(Modules/TAB): 'General TAB'*********************</span>
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing 'TC1_AssetCreationTest' Test Case*********************</span>
+Feb 14,2017 12:50:16 [Info]  Client: VMN
+Feb 14,2017 12:50:16 [Info]  URL: http://rlv3wb53/Home.aspx
+Feb 14,2017 12:50:16 [Info]  UserName: admin
+Feb 14,2017 12:50:16 [Info]  Password: admin
+Feb 14,2017 12:50:17 [Info]  Entered "admin" in field 'User Name'
+Feb 14,2017 12:50:18 [Info]  Clicked on the 'Temporary Check Box'
+Feb 14,2017 12:50:18 [Info]  Entered "admin" in field 'Password'
+Feb 14,2017 12:50:31 [Info]  Clicked on the 'LoginButton'
+Feb 14,2017 12:50:42 [Info]  Clicked on the 'MODULE'
+Feb 14,2017 12:50:54 [Info]  Clicked on the 'Property Entry & Maintenance'
+Feb 14,2017 12:50:59 [Info]  Clicked on the 'SearchLink' using JS Executor
+Feb 14,2017 12:50:59 [Info]  Clicked on the 'Property Search' using JS Executor
+Feb 14,2017 12:51:11 [Info]  Clicked on the 'TR_Asset_Search_Params' using JS Executor
+Feb 14,2017 12:51:13 [Info]  Entered "AUT_AssetSeries_02142017125037" in field 'Asset Title'
+Feb 14,2017 12:51:15 [Info]  Clicked on the 'Find Button' using JS Executor
+Feb 14,2017 12:51:26 [Info]  Verify The data of Alert Message
+<span style="color:green;">Feb 14,2017 12:51:26 [Verification]  Verified that Expected value :[No search results were found for this query. Please try again using different criteria.] is matched with Actual value :[No search results were found for this query. Please try again using different criteria.]</span>
+Feb 14,2017 12:51:26 [Info]  Clicked on the 'OK Button at Alert' using JS Executor
+Feb 14,2017 12:51:26 [Info]  Clicked on the 'Ok button At Alert' using JS Executor
+Feb 14,2017 12:51:32 [Info]  Clicked on the 'Add Asset Button' using JS Executor
+Feb 14,2017 12:51:37 [Info]  Selected "Element" in "AssetTypeDropDown Pop upn VMN" drop down
+Feb 14,2017 12:51:38 [Info]  Double clicked on 'OK Button'
+Feb 14,2017 12:51:53 [Info]  Asset id is 187933
+Feb 14,2017 12:51:53 [Info]  Clicked on the 'SearchLink' using JS Executor
+Feb 14,2017 12:51:53 [Info]  Clicked on the 'Property Search' using JS Executor
+Feb 14,2017 12:52:03 [Info]  Clicked on the 'TR_Asset_Search_Params' using JS Executor
+Feb 14,2017 12:52:05 [Info]  Entered "AUT_AssetSeries_02142017125037" in field 'Asset Title'
+<span style="color:red;">Feb 14,2017 12:52:07 [Fail]  ====Failed==== "Find Button" field is not present'</span>
+Feb 14,2017 12:52:07 [Info]  Test 'TC1_AssetCreationTest' FAILED
+Feb 14,2017 12:52:07 [Info]  2
+Feb 14,2017 12:52:07 [Info]  Test 'TC1_AssetCreationTest' FAILED
+Feb 14,2017 12:52:07 [Info]  2
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 15:23:03******************</span>
+Feb 14,2017 15:23:03 [Info]  Client: VMN
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing the Test Area(Modules/TAB): 'General TAB'*********************</span>
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing 'TC1_AssetCreationTest' Test Case*********************</span>
+Feb 14,2017 15:23:17 [Info]  Client: VMN
+Feb 14,2017 15:23:17 [Info]  URL: http://rlv3wb53/Home.aspx
+Feb 14,2017 15:23:17 [Info]  UserName: admin
+Feb 14,2017 15:23:17 [Info]  Password: admin
+Feb 14,2017 15:23:19 [Info]  Entered "admin" in field 'User Name'
+Feb 14,2017 15:23:19 [Info]  Clicked on the 'Temporary Check Box'
+Feb 14,2017 15:23:20 [Info]  Entered "admin" in field 'Password'
+Feb 14,2017 15:23:34 [Info]  Clicked on the 'LoginButton'
+Feb 14,2017 15:23:45 [Info]  Clicked on the 'MODULE'
+Feb 14,2017 15:23:56 [Info]  Clicked on the 'Property Entry & Maintenance'
+Feb 14,2017 15:24:00 [Info]  Clicked on the 'SearchLink' using JS Executor
+Feb 14,2017 15:24:00 [Info]  Clicked on the 'Property Search' using JS Executor
+Feb 14,2017 15:24:13 [Info]  Clicked on the 'TR_Asset_Search_Params' using JS Executor
+Feb 14,2017 15:24:15 [Info]  Entered "AUT_AssetSeries_PPS_02142017322460214201732340" in field 'Asset Title'
+Feb 14,2017 15:24:17 [Info]  Clicked on the 'Find Button' using JS Executor
+Feb 14,2017 15:24:27 [Info]  Verify The data of Alert Message
+<span style="color:green;">Feb 14,2017 15:24:27 [Verification]  Verified that Expected value :[No search results were found for this query. Please try again using different criteria.] is matched with Actual value :[No search results were found for this query. Please try again using different criteria.]</span>
+Feb 14,2017 15:24:28 [Info]  Clicked on the 'OK Button at Alert' using JS Executor
+Feb 14,2017 15:24:28 [Info]  Clicked on the 'Ok button At Alert' using JS Executor
+Feb 14,2017 15:24:35 [Info]  Clicked on the 'Add Asset Button' using JS Executor
+Feb 14,2017 15:24:39 [Info]  Selected "Element" in "AssetTypeDropDown Pop upn VMN" drop down
+Feb 14,2017 15:24:40 [Info]  Double clicked on 'OK Button'
+Feb 14,2017 15:24:56 [Info]  Asset id is 187948
+Feb 14,2017 15:24:56 [Info]  Clicked on the 'SearchLink' using JS Executor
+Feb 14,2017 15:24:57 [Info]  Clicked on the 'Property Search' using JS Executor
+Feb 14,2017 15:25:08 [Info]  Clicked on the 'TR_Asset_Search_Params' using JS Executor
+Feb 14,2017 15:25:10 [Info]  Entered "AUT_AssetSeries_PPS_02142017322460214201732340" in field 'Asset Title'
+Feb 14,2017 15:25:12 [Info]  Clicked on the 'Find Button' using JS Executor
+Feb 14,2017 15:25:21 [Info]  Verify The data of Alert Message
+<span style="color:green;">Feb 14,2017 15:25:21 [Verification]  Verified that Expected value :[No search results were found for this query. Please try again using different criteria.] is matched with Actual value :[No search results were found for this query. Please try again using different criteria.]</span>
+Feb 14,2017 15:25:21 [Info]  Clicked on the 'OK Button at Alert' using JS Executor
+Feb 14,2017 15:25:21 [Info]  Clicked on the 'Ok button At Alert' using JS Executor
+Feb 14,2017 15:25:28 [Info]  Clicked on the 'Add Asset Button' using JS Executor
+<span style="color:red;">Feb 14,2017 15:25:41 [Fail]  ====Failed==== " Could not find the Frame: div[id*='WebDialogWindow2'][style*=visible]</span>
+Feb 14,2017 15:25:42 [Info]  Unable to find element with css selector == div[id*='WebDialogWindow2'][style*=visible] (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.22 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: '9P4G6BS', ip: '10.10.22.71', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=true, ie.forceCreateProcessApi=false, pageLoadStrategy=normal, ie.usePerProcessProxy=false, ignoreZoomSetting=false, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=false, browserName=internet explorer, initialBrowserUrl=http://localhost:24859/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=false, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: 95baf896-3690-422c-95f8-12946f8b90ed
+*** Element info: {Using=css selector, value=div[id*='WebDialogWindow2'][style*=visible]}
+<span style="color:red;">Feb 14,2017 15:25:52 [Fail]  ====Failed==== "AssetTypeDropDown Pop upn VMN" field is not present'</span>
+<span style="color:red;">Feb 14,2017 15:26:02 [Fail]  ====Failed==== " Could not find the Frame: div[id*='WebDialogWindow2'][style*=visible]</span>
+Feb 14,2017 15:26:03 [Info]  Unable to find element with css selector == div[id*='WebDialogWindow2'][style*=visible] (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.31 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: '9P4G6BS', ip: '10.10.22.71', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=true, ie.forceCreateProcessApi=false, pageLoadStrategy=normal, ie.usePerProcessProxy=false, ignoreZoomSetting=false, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=false, browserName=internet explorer, initialBrowserUrl=http://localhost:24859/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=false, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: 95baf896-3690-422c-95f8-12946f8b90ed
+*** Element info: {Using=css selector, value=div[id*='WebDialogWindow2'][style*=visible]}
+Feb 14,2017 15:26:13 [Info]  Could not find the locator: OK Button'
+<span style="color:red;">Feb 14,2017 15:26:30 [Fail]  Asset id is ==========Failed==========No Text Available on Web Page</span>
+Feb 14,2017 15:26:30 [Info]  Verify The data of Asset Type
+<span style="color:red;">Feb 14,2017 15:26:30 [Fail]  ====Failed==== Expected value is:[*Property Type] but Actual value is[Type]. Please check the screenshot with name: Asset Typefor more details</span>
+Feb 14,2017 15:26:31 [Info]  Verify The data of Asset Category/Group
+<span style="color:red;">Feb 14,2017 15:26:31 [Fail]  ====Failed==== Expected value is:[*Initial Platform Produced For] but Actual value is[Initial Platform]. Please check the screenshot with name: Asset Category/Groupfor more details</span>
+Feb 14,2017 15:26:31 [Info]  Verify The data of Asset Title
+<span style="color:red;">Feb 14,2017 15:26:31 [Fail]  ====Failed==== Expected value is:[*Property Name] but Actual value is[Title / Name]. Please check the screenshot with name: Asset Titlefor more details</span>
+Feb 14,2017 15:26:31 [Info]  Verify The data of IP Name
+<span style="color:red;">Feb 14,2017 15:26:31 [Fail]  ====Failed==== Expected value is:[*Franchise / IP Name] but Actual value is[Franchise / IP Name]. Please check the screenshot with name: IP Namefor more details</span>
+Feb 14,2017 15:26:42 [Info]  Verify The data of Project ID
+<span style="color:red;">Feb 14,2017 15:26:42 [Fail]  ====Failed==== Expected value is:[Project ID] but Actual value is[]. Please check the screenshot with name: Project IDfor more details</span>
+Feb 14,2017 15:26:52 [Info]  Verify The data of Series Title
+<span style="color:red;">Feb 14,2017 15:26:52 [Fail]  ====Failed==== Expected value is:[Related Series Title] but Actual value is[]. Please check the screenshot with name: Series Titlefor more details</span>
+Feb 14,2017 15:26:52 [Info]  Verify The data of Vendor
+<span style="color:red;">Feb 14,2017 15:26:52 [Fail]  ====Failed==== Expected value is:[Production Company / Licensor(s)] but Actual value is[]. Please check the screenshot with name: Vendorfor more details</span>
+Feb 14,2017 15:26:52 [Info]  Verify The data of Studio
+<span style="color:red;">Feb 14,2017 15:26:52 [Fail]  ====Failed==== Expected value is:[Copyright Owner] but Actual value is[]. Please check the screenshot with name: Studiofor more details</span>
+Feb 14,2017 15:27:01 [Info]  Verify The data of SourceBusinessUnit
+<span style="color:red;">Feb 14,2017 15:27:01 [Fail]  ====Failed===="SourceBusinessUnit" is not Present</span>
+Feb 14,2017 15:27:01 [Info]  Test 'TC1_AssetCreationTest' FAILED
+Feb 14,2017 15:27:01 [Info]  2
+Feb 14,2017 15:27:01 [Info]  Test 'TC1_AssetCreationTest' FAILED
+Feb 14,2017 15:27:01 [Info]  2
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 15:28:30******************</span>
+Feb 14,2017 15:28:30 [Info]  Client: VMN
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing the Test Area(Modules/TAB): 'General TAB'*********************</span>
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing 'TC1_AssetCreationTest' Test Case*********************</span>
+Feb 14,2017 15:28:41 [Info]  Client: VMN
+Feb 14,2017 15:28:41 [Info]  URL: http://rlv3wb53/Home.aspx
+Feb 14,2017 15:28:41 [Info]  UserName: admin
+Feb 14,2017 15:28:41 [Info]  Password: admin
+Feb 14,2017 15:28:42 [Info]  Entered "admin" in field 'User Name'
+Feb 14,2017 15:28:43 [Info]  Clicked on the 'Temporary Check Box'
+Feb 14,2017 15:28:43 [Info]  Entered "admin" in field 'Password'
+Feb 14,2017 15:28:43 [Info]  Clicked on the 'LoginButton'
+<span style="color:red;">Feb 14,2017 15:28:54 [Fail]  ====Failed==== "MODULE" field is not present'</span>
+<span style="color:red;">Feb 14,2017 15:29:07 [Fail]  ====Failed==== "Property Entry & Maintenance" field is not present'</span>
+Feb 14,2017 15:29:11 [Info]  Clicked on the 'SearchLink' using JS Executor
+<span style="color:red;">Feb 14,2017 15:29:21 [Fail]  ====Failed==== "Property Search" field is not present'</span>
+Feb 14,2017 15:31:03 [Info]  Test 'TC1_AssetCreationTest' FAILED
+Feb 14,2017 15:31:03 [Info]  2
+Feb 14,2017 15:31:03 [Info]  Test Case :TC1_AssetCreationTest's Screenshot of Failure Page: 
+C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Feb2017\\14\TC1_AssetCreationTest_02-14-2017 3-31-03 PM.jpg
+Feb 14,2017 15:31:05 [Info]  Closed the Browser
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing 'TC1_Test' Test Case*********************</span>
+Feb 14,2017 15:31:15 [Info]  Client: VMN
+Feb 14,2017 15:31:15 [Info]  URL: http://rlv3wb53/Home.aspx
+Feb 14,2017 15:31:15 [Info]  UserName: admin
+Feb 14,2017 15:31:15 [Info]  Password: admin
+Feb 14,2017 15:31:17 [Info]  Entered "admin" in field 'User Name'
+Feb 14,2017 15:31:18 [Info]  Clicked on the 'Temporary Check Box'
+Feb 14,2017 15:31:18 [Info]  Entered "admin" in field 'Password'
+Feb 14,2017 15:31:29 [Info]  Clicked on the 'LoginButton'
+Feb 14,2017 15:31:35 [Info]  Test 'TC1_Test' PASSED
+Feb 14,2017 15:31:36 [Info]  Closed the Browser
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 15:45:20******************</span>
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 15:46:36******************</span>
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 15:47:40******************</span>
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 15:51:16******************</span>
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 15:52:23******************</span>
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 15:56:46******************</span>
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 15:57:22******************</span>
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 16:00:02******************</span>

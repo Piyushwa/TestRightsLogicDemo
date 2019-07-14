@@ -1,0 +1,1099 @@
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 09:45:12******************</span>
+Mar 20,2017 09:45:12 [Info]  Client: SKY
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************</span>
+Mar 20,2017 09:45:24 [Info]  Client: SKY
+Mar 20,2017 09:45:24 [Info]  URL: http://rlv2wb85/Home.aspx
+Mar 20,2017 09:45:24 [Info]  UserName: admin
+Mar 20,2017 09:45:24 [Info]  Password: admin
+Mar 20,2017 09:45:26 [Info]  Entered "admin" in field 'User Name'
+Mar 20,2017 09:45:26 [Info]  Clicked on the 'Temporary Check Box'
+Mar 20,2017 09:45:26 [Info]  Entered "admin" in field 'Password'
+Mar 20,2017 09:45:41 [Info]  Clicked on the 'LoginButton'
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 09:46:21******************</span>
+Mar 20,2017 09:46:21 [Info]  Client: SKY
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************</span>
+Mar 20,2017 09:46:32 [Info]  Client: SKY
+Mar 20,2017 09:46:32 [Info]  URL: http://rlv2wb85/Home.aspx
+Mar 20,2017 09:46:32 [Info]  UserName: admin
+Mar 20,2017 09:46:32 [Info]  Password: admin
+Mar 20,2017 09:46:33 [Info]  Entered "admin" in field 'User Name'
+Mar 20,2017 09:46:33 [Info]  Clicked on the 'Temporary Check Box'
+Mar 20,2017 09:46:33 [Info]  Entered "admin" in field 'Password'
+Mar 20,2017 09:46:51 [Info]  Clicked on the 'LoginButton'
+Mar 20,2017 09:47:01 [Info]  Clicked on the '*EPG Genre' using JS Executor
+Mar 20,2017 09:47:01 [Info]  Clicked on the 'Genere Type Dropdown Image'
+Mar 20,2017 09:47:01 [Info]  Clicked on the 'First Genere Type DropDown Value in the list'
+Mar 20,2017 09:47:01 [Info]  Clicked on the '*EPG Sub Genre' using JS Executor
+Mar 20,2017 09:47:01 [Info]  Clicked on the 'Genere Dropdown Image'
+Mar 20,2017 09:47:01 [Info]  Clicked on the 'Genere Dropdown value'
+Mar 20,2017 09:47:01 [Info]  Test 'a' PASSED
+Mar 20,2017 09:47:03 [Info]  Closed the Browser
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 09:47:44******************</span>
+Mar 20,2017 09:47:44 [Info]  Client: AMCN
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************</span>
+Mar 20,2017 09:47:55 [Info]  Client: AMCN
+Mar 20,2017 09:47:55 [Info]  URL: http://rlv2wb79/login.aspx
+Mar 20,2017 09:47:55 [Info]  UserName: admin
+Mar 20,2017 09:47:55 [Info]  Password: admin
+Mar 20,2017 09:47:56 [Info]  Entered "admin" in field 'User Name'
+Mar 20,2017 09:47:56 [Info]  Clicked on the 'Temporary Check Box'
+Mar 20,2017 09:47:56 [Info]  Entered "admin" in field 'Password'
+Mar 20,2017 09:48:02 [Info]  Clicked on the 'LoginButton'
+Mar 20,2017 09:48:21 [Info]  Clicked on the 'Genre Add Button' using JS Executor
+Mar 20,2017 09:48:21 [Info]  Clicked on the '' using JS Executor
+Mar 20,2017 09:48:21 [Info]  Clicked on the 'Genere Type Dropdown Image'
+Mar 20,2017 09:48:21 [Info]  Clicked on the 'First Genere Type DropDown Value in the list'
+Mar 20,2017 09:48:21 [Info]  Clicked on the '' using JS Executor
+Mar 20,2017 09:48:22 [Info]  Clicked on the 'Genere Dropdown Image'
+Mar 20,2017 09:48:22 [Info]  Clicked on the 'Genere Dropdown value'
+Mar 20,2017 09:48:22 [Info]  Test 'a' PASSED
+Mar 20,2017 09:48:23 [Info]  Closed the Browser
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 10:48:57******************</span>
+Mar 20,2017 10:48:57 [Info]  Client: AMCN
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************</span>
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing 'TC1_AssetCreationTest' Test Case*********************</span>
+Mar 20,2017 10:49:08 [Info]  Client: AMCN
+Mar 20,2017 10:49:08 [Info]  URL: http://rlv2wb79/login.aspx
+Mar 20,2017 10:49:08 [Info]  UserName: admin
+Mar 20,2017 10:49:08 [Info]  Password: admin
+Mar 20,2017 10:49:09 [Info]  Entered "admin" in field 'User Name'
+Mar 20,2017 10:49:09 [Info]  Clicked on the 'Temporary Check Box'
+Mar 20,2017 10:49:09 [Info]  Entered "admin" in field 'Password'
+Mar 20,2017 10:49:14 [Info]  Clicked on the 'LoginButton'
+Mar 20,2017 10:49:30 [Info]  Clicked on the 'MODULE'
+Mar 20,2017 10:49:37 [Info]  Clicked on the 'Asset Maintenance'
+Mar 20,2017 10:49:40 [Info]  Clicked on the 'New Button' using JS Executor
+Mar 20,2017 10:49:44 [Info]  Clicked on the 'Program' using JS Executor
+Mar 20,2017 10:49:52 [Info]  Clicked on the 'General TAB'
+Mar 20,2017 10:49:53 [Info]  Drop Down values of 'Element' Asset Type Drop Down are: 
+Mar 20,2017 10:49:53 [Info]  Actual Drop Down Values are: 
+[Program - One-Off, Program - Series, Program - Franchise, Program - Special, Program - Demo, Program - Documentary, Program - Pilot, Program - Mini-Series, Program - Package, Program - Made for TV, Program - Interstitial, Program - Music Performance]
+Mar 20,2017 10:49:53 [Info]  Expected Drop Down Values are: 
+[Element - Talent, Element - Footage (Production), Element - Footage (Stock), Element - Still Photo (Production), Element - Still Photo (Stock), Element - Audio/Sound, Element - Text, Element - Graphic, Element - Animation, Element - Product Placement, Element - Poster, Element - Likeness, Element - Image, Element - Music]
+Mar 20,2017 10:49:53 [Info]  Total Number of Dropdown Valus in 'Element' Asset Type Drop Down:12
+<span style="color:red;">Mar 20,2017 10:49:53 [Fail]  =========Failed=======Actual Dropdown values of 'Element' Asset Type Drop DownDoes not match Expected [Element - Talent]But Actual is [Program - One-Off]</span>
+<span style="color:red;">Mar 20,2017 10:49:54 [Fail]  =========Failed=======Actual Dropdown values of 'Element' Asset Type Drop DownDoes not match Expected [Element - Footage (Production)]But Actual is [Program - Series]</span>
+<span style="color:red;">Mar 20,2017 10:49:54 [Fail]  =========Failed=======Actual Dropdown values of 'Element' Asset Type Drop DownDoes not match Expected [Element - Footage (Stock)]But Actual is [Program - Franchise]</span>
+<span style="color:red;">Mar 20,2017 10:49:54 [Fail]  =========Failed=======Actual Dropdown values of 'Element' Asset Type Drop DownDoes not match Expected [Element - Still Photo (Production)]But Actual is [Program - Special]</span>
+<span style="color:red;">Mar 20,2017 10:49:55 [Fail]  =========Failed=======Actual Dropdown values of 'Element' Asset Type Drop DownDoes not match Expected [Element - Still Photo (Stock)]But Actual is [Program - Demo]</span>
+<span style="color:red;">Mar 20,2017 10:49:55 [Fail]  =========Failed=======Actual Dropdown values of 'Element' Asset Type Drop DownDoes not match Expected [Element - Audio/Sound]But Actual is [Program - Documentary]</span>
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 10:52:44******************</span>
+Mar 20,2017 10:52:44 [Info]  Client: AMCN
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************</span>
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing 'TC1_AssetCreationTest' Test Case*********************</span>
+Mar 20,2017 10:52:55 [Info]  Client: AMCN
+Mar 20,2017 10:52:55 [Info]  URL: http://rlv2wb79/login.aspx
+Mar 20,2017 10:52:55 [Info]  UserName: admin
+Mar 20,2017 10:52:55 [Info]  Password: admin
+Mar 20,2017 10:52:56 [Info]  Entered "admin" in field 'User Name'
+Mar 20,2017 10:52:56 [Info]  Clicked on the 'Temporary Check Box'
+Mar 20,2017 10:52:56 [Info]  Entered "admin" in field 'Password'
+Mar 20,2017 10:53:01 [Info]  Clicked on the 'LoginButton'
+Mar 20,2017 10:53:18 [Info]  Clicked on the 'MODULE'
+Mar 20,2017 10:53:23 [Info]  Clicked on the 'Asset Maintenance'
+Mar 20,2017 10:53:27 [Info]  Clicked on the 'New Button' using JS Executor
+Mar 20,2017 10:53:31 [Info]  Clicked on the 'Element' using JS Executor
+Mar 20,2017 10:53:39 [Info]  Clicked on the 'General TAB'
+Mar 20,2017 10:53:39 [Info]  Drop Down values of 'Element' Asset Type Drop Down are: 
+Mar 20,2017 10:53:39 [Info]  Actual Drop Down Values are: 
+[Element - Talent, Element - Footage (Production), Element - Footage (Stock), Element - Still Photo (Production), Element - Still Photo (Stock), Element - Audio/Sound, Element - Text, Element - Graphic, Element - Animation, Element - Product Placement, Element - Poster, Element - Likeness, Element - Image, Element - Music]
+Mar 20,2017 10:53:39 [Info]  Expected Drop Down Values are: 
+[Element - Talent, Element - Footage (Production), Element - Footage (Stock), Element - Still Photo (Production), Element - Still Photo (Stock), Element - Audio/Sound, Element - Text, Element - Graphic, Element - Animation, Element - Product Placement, Element - Poster, Element - Likeness, Element - Image, Element - Music]
+Mar 20,2017 10:53:39 [Info]  Total Number of Dropdown Valus in 'Element' Asset Type Drop Down:14
+<span style="color:green;">Mar 20,2017 10:53:39 [Verification]  Verified that [Element - Talent] is present in the dropdown 'Element' Asset Type Drop Down</span>
+<span style="color:green;">Mar 20,2017 10:53:39 [Verification]  Verified that [Element - Footage (Production)] is present in the dropdown 'Element' Asset Type Drop Down</span>
+<span style="color:green;">Mar 20,2017 10:53:39 [Verification]  Verified that [Element - Footage (Stock)] is present in the dropdown 'Element' Asset Type Drop Down</span>
+<span style="color:green;">Mar 20,2017 10:53:39 [Verification]  Verified that [Element - Still Photo (Production)] is present in the dropdown 'Element' Asset Type Drop Down</span>
+<span style="color:green;">Mar 20,2017 10:53:39 [Verification]  Verified that [Element - Still Photo (Stock)] is present in the dropdown 'Element' Asset Type Drop Down</span>
+<span style="color:green;">Mar 20,2017 10:53:39 [Verification]  Verified that [Element - Audio/Sound] is present in the dropdown 'Element' Asset Type Drop Down</span>
+<span style="color:green;">Mar 20,2017 10:53:39 [Verification]  Verified that [Element - Text] is present in the dropdown 'Element' Asset Type Drop Down</span>
+<span style="color:green;">Mar 20,2017 10:53:39 [Verification]  Verified that [Element - Graphic] is present in the dropdown 'Element' Asset Type Drop Down</span>
+<span style="color:green;">Mar 20,2017 10:53:39 [Verification]  Verified that [Element - Animation] is present in the dropdown 'Element' Asset Type Drop Down</span>
+<span style="color:green;">Mar 20,2017 10:53:39 [Verification]  Verified that [Element - Product Placement] is present in the dropdown 'Element' Asset Type Drop Down</span>
+<span style="color:green;">Mar 20,2017 10:53:39 [Verification]  Verified that [Element - Poster] is present in the dropdown 'Element' Asset Type Drop Down</span>
+<span style="color:green;">Mar 20,2017 10:53:39 [Verification]  Verified that [Element - Likeness] is present in the dropdown 'Element' Asset Type Drop Down</span>
+<span style="color:green;">Mar 20,2017 10:53:39 [Verification]  Verified that [Element - Image] is present in the dropdown 'Element' Asset Type Drop Down</span>
+<span style="color:green;">Mar 20,2017 10:53:39 [Verification]  Verified that [Element - Music] is present in the dropdown 'Element' Asset Type Drop Down</span>
+Mar 20,2017 10:53:40 [Info]  Clicked on the 'New Button' using JS Executor
+Mar 20,2017 10:53:43 [Info]  Clicked on the 'Program' using JS Executor
+Mar 20,2017 10:53:52 [Info]  Clicked on the 'General TAB'
+Mar 20,2017 10:53:52 [Info]  Verify The data of Asset Type
+<span style="color:green;">Mar 20,2017 10:53:52 [Verification]  Verified that Expected value :[*Asset Type] is matched with Actual value :[*Asset Type]</span>
+Mar 20,2017 10:53:52 [Info]  Verify The data of Asset Category/Group
+<span style="color:green;">Mar 20,2017 10:53:52 [Verification]  Verified that Expected value :[Asset Category] is matched with Actual value :[Asset Category]</span>
+Mar 20,2017 10:53:52 [Info]  Verify The data of Asset Title
+<span style="color:green;">Mar 20,2017 10:53:52 [Verification]  Verified that Expected value :[*Asset Title] is matched with Actual value :[*Asset Title]</span>
+Mar 20,2017 10:53:52 [Info]  Verify The data of IP Name
+<span style="color:green;">Mar 20,2017 10:53:52 [Verification]  Verified that Expected value :[IP Name] is matched with Actual value :[IP Name]</span>
+Mar 20,2017 10:53:52 [Info]  Verify The data of Project ID
+<span style="color:green;">Mar 20,2017 10:53:52 [Verification]  Verified that Expected value :[Project ID] is matched with Actual value :[Project ID]</span>
+Mar 20,2017 10:53:52 [Info]  Verify The data of Series Title
+<span style="color:green;">Mar 20,2017 10:53:52 [Verification]  Verified that Expected value :[Series Title] is matched with Actual value :[Series Title]</span>
+Mar 20,2017 10:53:52 [Info]  Verify The data of Vendor
+<span style="color:green;">Mar 20,2017 10:53:52 [Verification]  Verified that Expected value :[*Vendor] is matched with Actual value :[*Vendor]</span>
+Mar 20,2017 10:53:52 [Info]  Verify The data of Studio
+<span style="color:green;">Mar 20,2017 10:53:52 [Verification]  Verified that Expected value :[Vendor 2] is matched with Actual value :[Vendor 2]</span>
+Mar 20,2017 10:53:53 [Info]  Verify The data of SourceBusinessUnit
+<span style="color:green;">Mar 20,2017 10:53:53 [Verification]  Verified that Expected value :[*Source Business Unit] is matched with Actual value :[*Source Business Unit]</span>
+Mar 20,2017 10:53:53 [Info]  Verify The data of Duration
+<span style="color:green;">Mar 20,2017 10:53:53 [Verification]  Verified that Expected value :[Duration] is matched with Actual value :[Duration]</span>
+Mar 20,2017 10:53:53 [Info]  Verify The data of ShortName
+<span style="color:green;">Mar 20,2017 10:53:53 [Verification]  Verified that Expected value :[Short Name] is matched with Actual value :[Short Name]</span>
+Mar 20,2017 10:53:53 [Info]  Verify The data of AssetStatusLabel
+<span style="color:green;">Mar 20,2017 10:53:53 [Verification]  Verified that Expected value :[Asset Status] is matched with Actual value :[Asset Status]</span>
+Mar 20,2017 10:53:53 [Info]  Verify The data of Asset Source
+<span style="color:green;">Mar 20,2017 10:53:53 [Verification]  Verified that Expected value :[*Asset Source] is matched with Actual value :[*Asset Source]</span>
+Mar 20,2017 10:53:53 [Info]  Verify The data of Internal CheckBox
+<span style="color:green;">Mar 20,2017 10:53:53 [Verification]  Verified that Expected value :[Internal] is matched with Actual value :[Internal]</span>
+Mar 20,2017 10:53:53 [Info]  Verify The data of NonAirable CheckBox
+<span style="color:green;">Mar 20,2017 10:53:53 [Verification]  Verified that Expected value :[Non-Airable] is matched with Actual value :[Non-Airable]</span>
+Mar 20,2017 10:53:53 [Info]  Verify The data of TBA CheckBox
+<span style="color:green;">Mar 20,2017 10:53:53 [Verification]  Verified that Expected value :[TBA] is matched with Actual value :[TBA]</span>
+Mar 20,2017 10:53:54 [Info]  Drop Down values of 'Program' Asset Type Drop Down are: 
+Mar 20,2017 10:53:54 [Info]  Actual Drop Down Values are: 
+[Program - One-Off, Program - Series, Program - Franchise, Program - Special, Program - Demo, Program - Documentary, Program - Pilot, Program - Mini-Series, Program - Package, Program - Made for TV, Program - Interstitial, Program - Music Performance]
+Mar 20,2017 10:53:54 [Info]  Expected Drop Down Values are: 
+[Program - One-Off, Program - Series, Program - Franchise, Program - Special, Program - Demo, Program - Documentary, Program - Pilot, Program - Mini-Series, Program - Package, Program - Made for TV, Program - Interstitial, Program - Music Performance]
+Mar 20,2017 10:53:54 [Info]  Total Number of Dropdown Valus in 'Program' Asset Type Drop Down:12
+<span style="color:green;">Mar 20,2017 10:53:54 [Verification]  Verified that [Program - One-Off] is present in the dropdown 'Program' Asset Type Drop Down</span>
+<span style="color:green;">Mar 20,2017 10:53:54 [Verification]  Verified that [Program - Series] is present in the dropdown 'Program' Asset Type Drop Down</span>
+<span style="color:green;">Mar 20,2017 10:53:54 [Verification]  Verified that [Program - Franchise] is present in the dropdown 'Program' Asset Type Drop Down</span>
+<span style="color:green;">Mar 20,2017 10:53:54 [Verification]  Verified that [Program - Special] is present in the dropdown 'Program' Asset Type Drop Down</span>
+<span style="color:green;">Mar 20,2017 10:53:54 [Verification]  Verified that [Program - Demo] is present in the dropdown 'Program' Asset Type Drop Down</span>
+<span style="color:green;">Mar 20,2017 10:53:54 [Verification]  Verified that [Program - Documentary] is present in the dropdown 'Program' Asset Type Drop Down</span>
+<span style="color:green;">Mar 20,2017 10:53:54 [Verification]  Verified that [Program - Pilot] is present in the dropdown 'Program' Asset Type Drop Down</span>
+<span style="color:green;">Mar 20,2017 10:53:54 [Verification]  Verified that [Program - Mini-Series] is present in the dropdown 'Program' Asset Type Drop Down</span>
+<span style="color:green;">Mar 20,2017 10:53:54 [Verification]  Verified that [Program - Package] is present in the dropdown 'Program' Asset Type Drop Down</span>
+<span style="color:green;">Mar 20,2017 10:53:54 [Verification]  Verified that [Program - Made for TV] is present in the dropdown 'Program' Asset Type Drop Down</span>
+<span style="color:green;">Mar 20,2017 10:53:54 [Verification]  Verified that [Program - Interstitial] is present in the dropdown 'Program' Asset Type Drop Down</span>
+<span style="color:green;">Mar 20,2017 10:53:54 [Verification]  Verified that [Program - Music Performance] is present in the dropdown 'Program' Asset Type Drop Down</span>
+Mar 20,2017 10:53:54 [Info]  Generated Asset Id is 209953
+Mar 20,2017 10:53:57 [Info]  Clicked on the 'Save Button' using JS Executor
+Mar 20,2017 10:54:06 [Info]  Verify The data of AssertCreationValidationMessage
+<span style="color:green;">Mar 20,2017 10:54:06 [Verification]  Verified that Expected value :[Please enter values for required(*) fields.] is matched with Actual value :[Please enter values for required(*) fields.]</span>
+Mar 20,2017 10:54:10 [Info]  Selected "Program - Series" in "Asset Type Drop Down" drop down
+Mar 20,2017 10:54:13 [Info]  Entered "AUT_AssetSeries_03202017105307" in field 'AssetTitle'
+Mar 20,2017 10:54:13 [Info]  Clicked on the 'IPImageIcon' using JS Executor
+Mar 20,2017 10:54:14 [Info]  Clicked on the 'Find Button' using JS Executor
+Mar 20,2017 10:54:17 [Info]  Clicked on the 'loc_IPName_AT_IPWindow'
+Mar 20,2017 10:54:17 [Info]  Clicked on the 'IP Select Button' using JS Executor
+Mar 20,2017 10:54:17 [Info]  Clicked on the 'IPImageIcon' using JS Executor
+Mar 20,2017 10:54:20 [Info]  Verify The data of IP Window Header
+<span style="color:green;">Mar 20,2017 10:54:21 [Verification]  Verified that Expected value :[Select IP Name] is matched with Actual value :[Select IP Name]</span>
+Mar 20,2017 10:54:21 [Info]  Entered "AUT_IP_1" in field 'IPfield'
+Mar 20,2017 10:54:21 [Info]  Clicked on the 'IPWindowButtonfind' using JS Executor
+Mar 20,2017 10:54:21 [Info]  Clicked on the 'Searched IP Name'
+Mar 20,2017 10:54:21 [Info]  Clicked on the 'IPSelectButton' using JS Executor
+Mar 20,2017 10:54:24 [Info]  Verify The data of IP Field
+<span style="color:green;">Mar 20,2017 10:54:24 [Verification]  Verified that Expected value :[AUT_IP_1] is matched with Actual value :[AUT_IP_1]</span>
+Mar 20,2017 10:54:25 [Info]  Clicked on the 'IP Clear' using JS Executor
+Mar 20,2017 10:54:25 [Info]  Verify The data of Validation Messge while clear the IP Field
+<span style="color:green;">Mar 20,2017 10:54:25 [Verification]  Verified that Expected value :[Are you sure you want to clear the field value?] is matched with Actual value :[Are you sure you want to clear the field value?]</span>
+Mar 20,2017 10:54:25 [Info]  Clicked on the 'Confirm Alert Ok' using JS Executor
+Mar 20,2017 10:54:31 [Info]  Clicked on the 'IPImageIcon' using JS Executor
+Mar 20,2017 10:54:31 [Info]  Entered "AUT_IP_1" in field 'IP field'
+Mar 20,2017 10:54:32 [Info]  Clicked on the 'IPWindowButtonfind' using JS Executor
+Mar 20,2017 10:54:32 [Info]  Clicked on the 'IPNameAtIPWindow'
+Mar 20,2017 10:54:32 [Info]  Clicked on the 'IPSelectButton' using JS Executor
+Mar 20,2017 10:54:32 [Info]  Verify The data of Vendor field is noteditable
+<span style="color:green;">Mar 20,2017 10:54:32 [Verification]  Verified that Expected value :[true] is matched with Actual value :[true]</span>
+Mar 20,2017 10:54:32 [Info]  Clicked on the 'Vendor Img Icon' using JS Executor
+Mar 20,2017 10:54:33 [Info]  Entered "AUT_AMCN_Vendor1" in field 'SearchvalueVendor'
+Mar 20,2017 10:54:35 [Info]  Clicked on the 'VendorWindowButtonfind' using JS Executor
+Mar 20,2017 10:54:39 [Info]  Clicked on the 'VendorName At VendorWindow'
+Mar 20,2017 10:54:39 [Info]  Clicked on the 'Vendor Select Button' using JS Executor
+Mar 20,2017 10:54:42 [Info]  Verify The data of Vendor1
+<span style="color:green;">Mar 20,2017 10:54:42 [Verification]  Verified that Expected value :[AUT_AMCN_Vendor1] is matched with Actual value :[AUT_AMCN_Vendor1]</span>
+Mar 20,2017 10:54:42 [Info]  Clicked on the 'Clear Vendor'
+Mar 20,2017 10:54:42 [Info]  Verify The data of Alert Message while clearing the Vendor
+<span style="color:green;">Mar 20,2017 10:54:42 [Verification]  Verified that Expected value :[Are you sure you want to clear the field value?] is matched with Actual value :[Are you sure you want to clear the field value?]</span>
+Mar 20,2017 10:54:42 [Info]  Clicked on the 'Ok Button At Confirm Pop-Up' using JS Executor
+Mar 20,2017 10:54:42 [Info]  Clicked on the 'Vendor Img Icon' using JS Executor
+Mar 20,2017 10:54:43 [Info]  Entered "AUT_AMCN_Vendor1" in field 'SearchvalueVendor'
+Mar 20,2017 10:54:45 [Info]  Clicked on the 'VendorWindowButtonfind' using JS Executor
+Mar 20,2017 10:54:49 [Info]  Clicked on the 'VendorName At VendorWindow'
+Mar 20,2017 10:54:49 [Info]  Clicked on the 'Vendor Select Button' using JS Executor
+Mar 20,2017 10:54:52 [Info]  Verify The data of Vendor1
+<span style="color:green;">Mar 20,2017 10:54:52 [Verification]  Verified that Expected value :[AUT_AMCN_Vendor1] is matched with Actual value :[AUT_AMCN_Vendor1]</span>
+Mar 20,2017 10:54:52 [Info]  Clicked on the 'StudioImageIcon' using JS Executor
+Mar 20,2017 10:54:52 [Info]  Verify The data of Studio Window Header
+<span style="color:green;">Mar 20,2017 10:54:52 [Verification]  Verified that Expected value :[Studio] is matched with Actual value :[Studio]</span>
+Mar 20,2017 10:54:53 [Info]  Entered "AUT_AMCN_Studio" in field 'Studio Name'
+Mar 20,2017 10:54:53 [Info]  Clicked on the 'Find Button' using JS Executor
+Mar 20,2017 10:54:58 [Info]  Clicked on the 'VendorName At VendorWindow'
+Mar 20,2017 10:54:58 [Info]  Clicked on the 'Vendor Select Button' using JS Executor
+Mar 20,2017 10:55:01 [Info]  Verify The data of Studio/Vendor2
+<span style="color:green;">Mar 20,2017 10:55:01 [Verification]  Verified that Expected value :[AUT_AMCN_Studio] is matched with Actual value :[AUT_AMCN_Studio]</span>
+Mar 20,2017 10:55:01 [Info]  Clicked on the 'Clear Studio Image' using JS Executor
+Mar 20,2017 10:55:02 [Info]  Verify The data of Validation Messge while clear the Studio Field
+<span style="color:green;">Mar 20,2017 10:55:02 [Verification]  Verified that Expected value :[Are you sure you want to clear the field value?] is matched with Actual value :[Are you sure you want to clear the field value?]</span>
+Mar 20,2017 10:55:02 [Info]  Clicked on the 'OK Button At Confirm Alert Pop up' using JS Executor
+Mar 20,2017 10:55:08 [Info]  Clicked on the 'StudioImageIcon' using JS Executor
+Mar 20,2017 10:55:08 [Info]  Verify The data of Studio Window Header
+<span style="color:green;">Mar 20,2017 10:55:08 [Verification]  Verified that Expected value :[Studio] is matched with Actual value :[Studio]</span>
+Mar 20,2017 10:55:08 [Info]  Entered "AUT_AMCN_Studio" in field 'Studio Name'
+Mar 20,2017 10:55:09 [Info]  Clicked on the 'Find Button' using JS Executor
+Mar 20,2017 10:55:14 [Info]  Clicked on the 'VendorName At VendorWindow'
+Mar 20,2017 10:55:14 [Info]  Clicked on the 'Vendor Select Button' using JS Executor
+Mar 20,2017 10:55:17 [Info]  Verify The data of Studio/Vendor2
+<span style="color:green;">Mar 20,2017 10:55:17 [Verification]  Verified that Expected value :[AUT_AMCN_Studio] is matched with Actual value :[AUT_AMCN_Studio]</span>
+Mar 20,2017 10:55:18 [Info]  Clicked on the 'SBUImage' using JS Executor
+Mar 20,2017 10:55:18 [Info]  Verify The data of SBU Window
+<span style="color:red;">Mar 20,2017 10:55:18 [Fail]  ====Failed==== Expected value is:[SBU Window/Owner Channel Header] but Actual value is[Source Business Unit Template]. Please check the screenshot with name: SBU Windowfor more details</span>
+Mar 20,2017 10:55:19 [Info]  Clicked on the ''Select All' CheckBox at SBU' using JS Executor
+Mar 20,2017 10:55:25 [Info]  "All CheckBoxesChecked" is Present
+Mar 20,2017 10:55:25 [Info]  Clicked on the ''DeSelect All' CheckBox at SBU'
+Mar 20,2017 10:55:31 [Info]  "All CheckBoxes Not Checked" is Present
+Mar 20,2017 10:55:31 [Info]  Clicked on the 'First CheckBox At SBU window'
+Mar 20,2017 10:55:31 [Info]  Clicked on the 'Ninth CheckBox At SBU winodw'
+Mar 20,2017 10:55:33 [Info]  Clicked on the 'Apply Button' using JS Executor
+Mar 20,2017 10:55:33 [Info]  Entered "003000" in field 'Duration'
+Mar 20,2017 10:55:33 [Info]  Selected "Production" in "Asset Status" drop down
+Mar 20,2017 10:55:34 [Info]  Selected "Licensed Acquired" in "Asset Source" drop down
+Mar 20,2017 10:55:34 [Info]  Clicked on the 'Check InternalCheckBox' using JS Executor
+Mar 20,2017 10:55:34 [Info]  Selected "TBD" in "Asset Category/Group" drop down
+Mar 20,2017 10:55:34 [Info]  Entered "AUT_Series" in field 'Short Name'
+Mar 20,2017 10:55:34 [Info]  Entered "Test" in field 'ProjectID'
+Mar 20,2017 10:55:34 [Info]  Clicked on the 'Genre Add Button' using JS Executor
+Mar 20,2017 10:55:34 [Info]  Clicked on the '' using JS Executor
+Mar 20,2017 10:55:35 [Info]  Clicked on the 'Genere Type Dropdown Image'
+Mar 20,2017 10:55:35 [Info]  Clicked on the 'First Genere Type DropDown Value in the list'
+Mar 20,2017 10:55:35 [Info]  Clicked on the '' using JS Executor
+Mar 20,2017 10:55:35 [Info]  Clicked on the 'Genere Dropdown Image'
+Mar 20,2017 10:55:35 [Info]  Clicked on the 'Genere Dropdown value'
+Mar 20,2017 10:55:40 [Info]  Clicked on the 'Genre Complete Row' using JS Executor
+Mar 20,2017 10:55:40 [Info]  Clicked on the 'Delete Genre Icon' using JS Executor
+Mar 20,2017 10:55:40 [Info]  Verify The data of Alert Message on clicking 'Delete Button' Genre
+<span style="color:green;">Mar 20,2017 10:55:40 [Verification]  Verified that Expected value :[Are you sure you want to Delete selected Genre?] is matched with Actual value :[Are you sure you want to Delete selected Genre?]</span>
+Mar 20,2017 10:55:40 [Info]  Clicked on the 'Ok Button At Confirm Pop-Up' using JS Executor
+Mar 20,2017 10:55:46 [Info]  Clicked on the 'Genre Add Button' using JS Executor
+Mar 20,2017 10:55:47 [Info]  Clicked on the 'Genre Type Row2 Field' using JS Executor
+Mar 20,2017 10:55:47 [Info]  Clicked on the 'Genere Type Dropdown Image'
+Mar 20,2017 10:55:47 [Info]  Clicked on the 'First Genere Type DropDown Value in the list'
+Mar 20,2017 10:55:47 [Info]  Clicked on the 'Genre Row Field' using JS Executor
+Mar 20,2017 10:55:47 [Info]  Clicked on the 'Genere Dropdown Image'
+Mar 20,2017 10:55:47 [Info]  Clicked on the 'Genere Dropdown value'
+Mar 20,2017 10:55:53 [Info]  Clicked on the 'Add Button of Note' using JS Executor
+Mar 20,2017 10:55:55 [Info]  Entered "Medium" in field 'Asset Priority'
+Mar 20,2017 10:55:55 [Info]  Entered "Subject For the Deal" in field 'Asset Subject'
+Mar 20,2017 10:55:55 [Info]  Entered "New Asset" in field 'AssetNotes TextField'
+Mar 20,2017 10:55:55 [Info]  Clicked on the 'OK button'
+Mar 20,2017 10:56:00 [Info]  Clicked on the 'Note Complete Row' using JS Executor
+Mar 20,2017 10:56:01 [Info]  Clicked on the 'Remove Note' using JS Executor
+Mar 20,2017 10:56:01 [Info]  Verify The data of Alert Message
+<span style="color:green;">Mar 20,2017 10:56:01 [Verification]  Verified that Expected value :[Are you sure you want to Delete selected Notes?] is matched with Actual value :[Are you sure you want to Delete selected Notes?]</span>
+Mar 20,2017 10:56:01 [Info]  Clicked on the 'Ok Button At Confirm Pop-Up' using JS Executor
+Mar 20,2017 10:56:07 [Info]  Clicked on the 'Add Button of Note' using JS Executor
+Mar 20,2017 10:56:09 [Info]  Entered "Medium" in field 'Asset Priority'
+Mar 20,2017 10:56:09 [Info]  Entered "Subject For the Deal" in field 'Asset Subject'
+Mar 20,2017 10:56:10 [Info]  Entered "New Asset" in field 'AssetNotes TextField'
+Mar 20,2017 10:56:10 [Info]  Clicked on the 'OK button'
+Mar 20,2017 10:56:12 [Info]  Clicked on the 'Save Button' using JS Executor
+Mar 20,2017 10:56:12 [Info]  Verify The data of Created Asset
+<span style="color:red;">Mar 20,2017 10:56:12 [Fail]  ====Failed==== Expected value is:[AUT_AssetSeries_03202017105307] but Actual value is[]. Please check the screenshot with name: Created Assetfor more details</span>
+Mar 20,2017 10:56:13 [Info]  Test 'TC1_AssetCreationTest' PASSED
+Mar 20,2017 10:56:14 [Info]  Closed the Browser
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 11:42:43******************</span>
+Mar 20,2017 11:42:43 [Info]  Client: SKY
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************</span>
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing 'TC7_Validate_duplicate_Asset' Test Case*********************</span>
+Mar 20,2017 11:42:55 [Info]  Client: SKY
+Mar 20,2017 11:42:55 [Info]  URL: http://rlv2wb85/Home.aspx
+Mar 20,2017 11:42:55 [Info]  UserName: admin
+Mar 20,2017 11:42:55 [Info]  Password: admin
+Mar 20,2017 11:42:56 [Info]  Entered "admin" in field 'User Name'
+Mar 20,2017 11:42:56 [Info]  Clicked on the 'Temporary Check Box'
+Mar 20,2017 11:42:56 [Info]  Entered "admin" in field 'Password'
+Mar 20,2017 11:43:08 [Info]  Clicked on the 'LoginButton'
+Mar 20,2017 11:43:14 [Info]  Asset01 with prefix 'AUT_AssetSeries_':AUT_AssetSeries_03202017112454
+<span style="color:blue;"> [Manual Test Step]  ************************Started Creating Asset of Type: Program - Series************************</span>
+Mar 20,2017 11:43:25 [Info]  Clicked on the 'MODULE'
+Mar 20,2017 11:43:31 [Info]  Clicked on the 'Title Maintenance'
+Mar 20,2017 11:43:34 [Info]  Clicked on the 'New Button' using JS Executor
+Mar 20,2017 11:43:54 [Info]  Clicked on the 'Program' using JS Executor
+Mar 20,2017 11:44:03 [Info]  Clicked on the 'General TAB'
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 11:44:55******************</span>
+Mar 20,2017 11:44:55 [Info]  Client: SKY
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************</span>
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing 'TC7_Validate_duplicate_Asset' Test Case*********************</span>
+Mar 20,2017 11:45:07 [Info]  Client: SKY
+Mar 20,2017 11:45:07 [Info]  URL: http://rlv2wb85/Home.aspx
+Mar 20,2017 11:45:07 [Info]  UserName: admin
+Mar 20,2017 11:45:07 [Info]  Password: admin
+Mar 20,2017 11:45:08 [Info]  Entered "admin" in field 'User Name'
+Mar 20,2017 11:45:08 [Info]  Clicked on the 'Temporary Check Box'
+Mar 20,2017 11:45:08 [Info]  Entered "admin" in field 'Password'
+Mar 20,2017 11:45:26 [Info]  Clicked on the 'LoginButton'
+Mar 20,2017 11:45:32 [Info]  Asset01 with prefix 'AUT_AssetSeries_':AUT_AssetSeries_03202017112454
+Mar 20,2017 11:45:42 [Info]  Clicked on the 'MODULE'
+Mar 20,2017 11:45:48 [Info]  Clicked on the 'Title Maintenance'
+Mar 20,2017 11:45:56 [Info]  Double clicked on 'AUT_AssetSeries_03202017112454AssetName'
+Mar 20,2017 11:45:56 [Info]  Entered "RSGA_03202017112454" in field 'Asset Title Field'
+Mar 20,2017 11:45:56 [Info]  Clicked on the 'AssetTitleImageIcon'
+<span style="color:red;">Mar 20,2017 11:45:56 [Fail]  ====Failed==== " Could not find the Frame: div[id*='WebDialogWindow2'][style*=visible]</span>
+Mar 20,2017 11:45:56 [Info]  Test 'TC7_Validate_duplicate_Asset' FAILED
+Mar 20,2017 11:45:56 [Info]  2
+Mar 20,2017 11:45:56 [Info]  Test 'TC7_Validate_duplicate_Asset' FAILED
+Mar 20,2017 11:45:56 [Info]  2
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 11:56:01******************</span>
+Mar 20,2017 11:56:01 [Info]  Client: SKY
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************</span>
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing 'TC7_Validate_duplicate_Asset' Test Case*********************</span>
+Mar 20,2017 11:56:12 [Info]  Client: SKY
+Mar 20,2017 11:56:12 [Info]  URL: http://rlv2wb85/Home.aspx
+Mar 20,2017 11:56:12 [Info]  UserName: admin
+Mar 20,2017 11:56:12 [Info]  Password: admin
+Mar 20,2017 11:56:13 [Info]  Entered "admin" in field 'User Name'
+Mar 20,2017 11:56:13 [Info]  Clicked on the 'Temporary Check Box'
+Mar 20,2017 11:56:13 [Info]  Entered "admin" in field 'Password'
+Mar 20,2017 11:56:26 [Info]  Clicked on the 'LoginButton'
+Mar 20,2017 11:56:32 [Info]  Asset01 with prefix 'AUT_AssetSeries_':AUT_AssetSeries_03202017112454
+Mar 20,2017 11:56:42 [Info]  Clicked on the 'MODULE'
+Mar 20,2017 11:56:48 [Info]  Clicked on the 'Title Maintenance'
+Mar 20,2017 11:56:55 [Info]  Double clicked on 'AUT_AssetSeries_03202017112454AssetName'
+Mar 20,2017 11:56:55 [Info]  Entered "RSGA_03202017112454" in field 'Asset Title Field'
+Mar 20,2017 11:56:55 [Info]  Clicked on the 'AssetTitleImageIcon'
+Mar 20,2017 11:56:55 [Info]  Accepted Alert
+Mar 20,2017 11:56:57 [Info]  Verify The data of TitleHeader at Asset Title Window
+<span style="color:green;">Mar 20,2017 11:56:57 [Verification]  Verified that Expected value :[Title] is matched with Actual value :[Title]</span>
+Mar 20,2017 11:56:57 [Info]  Verify The data of AKA Titles at Asset Title Window
+<span style="color:green;">Mar 20,2017 11:56:57 [Verification]  Verified that Expected value :[AKA Titles] is matched with Actual value :[AKA Titles]</span>
+Mar 20,2017 11:56:58 [Info]  Verify The data of Asset Type at Asset Title Window
+<span style="color:red;">Mar 20,2017 11:56:58 [Fail]  ====Failed==== Expected value is:[Asset Type] but Actual value is[Title Type]. Please check the screenshot with name: Asset Type at Asset Title Windowfor more details</span>
+Mar 20,2017 11:56:58 [Info]  Verify The data of Release Yr at Asset Title Window
+<span style="color:green;">Mar 20,2017 11:56:58 [Verification]  Verified that Expected value :[Release Yr] is matched with Actual value :[Release Yr]</span>
+Mar 20,2017 11:56:58 [Info]  Verify The data of Director/Artist at Asset Title Window
+<span style="color:green;">Mar 20,2017 11:56:58 [Verification]  Verified that Expected value :[Director/Artist] is matched with Actual value :[Director/Artist]</span>
+Mar 20,2017 11:56:58 [Info]  Verify The data of Save Button at Asset Title Window
+<span style="color:green;">Mar 20,2017 11:56:58 [Verification]  Verified that Expected value :[Save] is matched with Actual value :[Save]</span>
+Mar 20,2017 11:56:58 [Info]  Verify The data of Cancel Button at Asset Title Window
+<span style="color:green;">Mar 20,2017 11:56:58 [Verification]  Verified that Expected value :[Cancel] is matched with Actual value :[Cancel]</span>
+Mar 20,2017 11:56:59 [Info]  Verify The data of Asset Title in Asset title Window Box
+<span style="color:green;">Mar 20,2017 11:56:59 [Verification]  Verified that Expected value :[RSGA_03202017112454 Program - Series] is matched with Actual value :[RSGA_03202017112454 Program - Series]</span>
+Mar 20,2017 11:56:59 [Info]  Clicked on the 'Cancel Button at Asset Title Window' using JS Executor
+Mar 20,2017 11:56:59 [Info]  Enter the Asset Name The RSGB_03202017112454 >> click on "Validate Asset Title" Icon >> Verify Asset Name in the opened window
+Mar 20,2017 11:56:59 [Info]  Entered "The RSGB_03202017112454" in field 'Asset Title Field'
+Mar 20,2017 11:56:59 [Info]  Clicked on the 'AssetTitleImageIcon'
+Mar 20,2017 11:56:59 [Info]  Accepted Alert
+Mar 20,2017 11:57:00 [Info]  Verify The data of Asset Title in Asset title Window Box
+<span style="color:green;">Mar 20,2017 11:57:00 [Verification]  Verified that Expected value :[The RSGB_03202017112454 Program - Series] is matched with Actual value :[The RSGB_03202017112454 Program - Series]</span>
+Mar 20,2017 11:57:00 [Info]  Clicked on the 'Cancel Button at Asset Title Window' using JS Executor
+Mar 20,2017 11:57:00 [Info]  Enter the Asset Name An_RSGC_03202017112454 >> click on "Validate Asset Title" Icon >> Verify Asset Name in the opened window
+Mar 20,2017 11:57:00 [Info]  Entered "An_RSGC_03202017112454" in field 'Asset Title Field'
+Mar 20,2017 11:57:00 [Info]  Clicked on the 'AssetTitleImageIcon'
+Mar 20,2017 11:57:00 [Info]  Accepted Alert
+Mar 20,2017 11:57:02 [Info]  Verify The data of Asset Title in Asset title Window Box
+<span style="color:green;">Mar 20,2017 11:57:02 [Verification]  Verified that Expected value :[An_RSGC_03202017112454 Program - Series] is matched with Actual value :[An_RSGC_03202017112454 Program - Series]</span>
+Mar 20,2017 11:57:02 [Info]  Clicked on the 'Cancel Button at Asset Title Window' using JS Executor
+Mar 20,2017 11:57:02 [Info]  Enter the Asset Name @ RSGD_03202017112454 >> click on "Validate Asset Title" Icon >> Verify Asset Name in the opened window
+Mar 20,2017 11:57:02 [Info]  Entered "@ RSGD_03202017112454" in field 'Asset Title Field'
+Mar 20,2017 11:57:02 [Info]  Clicked on the 'AssetTitleImageIcon'
+Mar 20,2017 11:57:02 [Info]  Accepted Alert
+Mar 20,2017 11:57:04 [Info]  Verify The data of Asset Title in Asset title Window Box
+<span style="color:green;">Mar 20,2017 11:57:04 [Verification]  Verified that Expected value :[@ RSGD_03202017112454 Program - Series] is matched with Actual value :[@ RSGD_03202017112454 Program - Series]</span>
+Mar 20,2017 11:57:04 [Info]  Clicked on the 'Cancel Button at Asset Title Window' using JS Executor
+Mar 20,2017 11:57:04 [Info]  Enter the Asset Name RSGA_03202017112454 >> click on "Save Button" >> Verify Aset Title Validation Window Opens
+Mar 20,2017 11:57:04 [Info]  Entered "RSGA_03202017112454" in field 'Asset Title Field'
+Mar 20,2017 11:57:05 [Info]  Clicked on the 'Save Button' using JS Executor
+<span style="color:red;">Mar 20,2017 11:57:10 [Fail]  ====Failed==== " Could not find the Frame: div[id*='WebDialogWindow2'][style*=visible]</span>
+Mar 20,2017 11:57:10 [Info]  Test 'TC7_Validate_duplicate_Asset' FAILED
+Mar 20,2017 11:57:10 [Info]  2
+Mar 20,2017 11:57:10 [Info]  Test 'TC7_Validate_duplicate_Asset' FAILED
+Mar 20,2017 11:57:10 [Info]  2
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 12:02:54******************</span>
+Mar 20,2017 12:02:54 [Info]  Client: SKY
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************</span>
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing 'TC7_Validate_duplicate_Asset' Test Case*********************</span>
+Mar 20,2017 12:03:05 [Info]  Client: SKY
+Mar 20,2017 12:03:05 [Info]  URL: http://rlv2wb85/Home.aspx
+Mar 20,2017 12:03:05 [Info]  UserName: admin
+Mar 20,2017 12:03:05 [Info]  Password: admin
+Mar 20,2017 12:03:06 [Info]  Entered "admin" in field 'User Name'
+Mar 20,2017 12:03:06 [Info]  Clicked on the 'Temporary Check Box'
+Mar 20,2017 12:03:06 [Info]  Entered "admin" in field 'Password'
+Mar 20,2017 12:03:24 [Info]  Clicked on the 'LoginButton'
+Mar 20,2017 12:03:30 [Info]  Asset01 with prefix 'AUT_AssetSeries_':AUT_AssetSeries_03202017112454
+Mar 20,2017 12:03:40 [Info]  Clicked on the 'MODULE'
+Mar 20,2017 12:03:47 [Info]  Clicked on the 'Title Maintenance'
+Mar 20,2017 12:03:54 [Info]  Double clicked on 'AUT_AssetSeries_03202017112454AssetName'
+Mar 20,2017 12:03:54 [Info]  Entered "RSGA_03202017112454" in field 'Asset Title Field'
+Mar 20,2017 12:03:54 [Info]  Clicked on the 'AssetTitleImageIcon'
+Mar 20,2017 12:03:55 [Info]  Accepted Alert
+Mar 20,2017 12:03:57 [Info]  Verify The data of TitleHeader at Asset Title Window
+<span style="color:green;">Mar 20,2017 12:03:57 [Verification]  Verified that Expected value :[Title] is matched with Actual value :[Title]</span>
+Mar 20,2017 12:03:57 [Info]  Verify The data of AKA Titles at Asset Title Window
+<span style="color:green;">Mar 20,2017 12:03:57 [Verification]  Verified that Expected value :[AKA Titles] is matched with Actual value :[AKA Titles]</span>
+Mar 20,2017 12:03:57 [Info]  Verify The data of Asset Type at Asset Title Window
+<span style="color:green;">Mar 20,2017 12:03:57 [Verification]  Verified that Expected value :[Title Type] is matched with Actual value :[Title Type]</span>
+Mar 20,2017 12:03:57 [Info]  Verify The data of Release Yr at Asset Title Window
+<span style="color:green;">Mar 20,2017 12:03:57 [Verification]  Verified that Expected value :[Release Yr] is matched with Actual value :[Release Yr]</span>
+Mar 20,2017 12:03:57 [Info]  Verify The data of Director/Artist at Asset Title Window
+<span style="color:green;">Mar 20,2017 12:03:57 [Verification]  Verified that Expected value :[Director/Artist] is matched with Actual value :[Director/Artist]</span>
+Mar 20,2017 12:03:57 [Info]  Verify The data of Save Button at Asset Title Window
+<span style="color:green;">Mar 20,2017 12:03:57 [Verification]  Verified that Expected value :[Save] is matched with Actual value :[Save]</span>
+Mar 20,2017 12:03:57 [Info]  Verify The data of Cancel Button at Asset Title Window
+<span style="color:green;">Mar 20,2017 12:03:57 [Verification]  Verified that Expected value :[Cancel] is matched with Actual value :[Cancel]</span>
+Mar 20,2017 12:03:57 [Info]  Verify The data of Asset Title in Asset title Window Box
+<span style="color:green;">Mar 20,2017 12:03:57 [Verification]  Verified that Expected value :[RSGA_03202017112454 Program - Series] is matched with Actual value :[RSGA_03202017112454 Program - Series]</span>
+Mar 20,2017 12:03:57 [Info]  Clicked on the 'Cancel Button at Asset Title Window' using JS Executor
+Mar 20,2017 12:03:57 [Info]  Enter the Asset Name The RSGB_03202017112454 >> click on "Validate Asset Title" Icon >> Verify Asset Name in the opened window
+Mar 20,2017 12:03:57 [Info]  Entered "The RSGB_03202017112454" in field 'Asset Title Field'
+Mar 20,2017 12:03:58 [Info]  Clicked on the 'AssetTitleImageIcon'
+Mar 20,2017 12:03:58 [Info]  Accepted Alert
+Mar 20,2017 12:03:58 [Info]  Verify The data of Asset Title in Asset title Window Box
+<span style="color:green;">Mar 20,2017 12:03:58 [Verification]  Verified that Expected value :[The RSGB_03202017112454 Program - Series] is matched with Actual value :[The RSGB_03202017112454 Program - Series]</span>
+Mar 20,2017 12:03:59 [Info]  Clicked on the 'Cancel Button at Asset Title Window' using JS Executor
+Mar 20,2017 12:03:59 [Info]  Enter the Asset Name An_RSGC_03202017112454 >> click on "Validate Asset Title" Icon >> Verify Asset Name in the opened window
+Mar 20,2017 12:03:59 [Info]  Entered "An_RSGC_03202017112454" in field 'Asset Title Field'
+Mar 20,2017 12:03:59 [Info]  Clicked on the 'AssetTitleImageIcon'
+Mar 20,2017 12:03:59 [Info]  Accepted Alert
+Mar 20,2017 12:04:00 [Info]  Verify The data of Asset Title in Asset title Window Box
+<span style="color:green;">Mar 20,2017 12:04:00 [Verification]  Verified that Expected value :[An_RSGC_03202017112454 Program - Series] is matched with Actual value :[An_RSGC_03202017112454 Program - Series]</span>
+Mar 20,2017 12:04:00 [Info]  Clicked on the 'Cancel Button at Asset Title Window' using JS Executor
+Mar 20,2017 12:04:00 [Info]  Enter the Asset Name @ RSGD_03202017112454 >> click on "Validate Asset Title" Icon >> Verify Asset Name in the opened window
+Mar 20,2017 12:04:00 [Info]  Entered "@ RSGD_03202017112454" in field 'Asset Title Field'
+Mar 20,2017 12:04:00 [Info]  Clicked on the 'AssetTitleImageIcon'
+Mar 20,2017 12:04:00 [Info]  Accepted Alert
+Mar 20,2017 12:04:01 [Info]  Verify The data of Asset Title in Asset title Window Box
+<span style="color:green;">Mar 20,2017 12:04:02 [Verification]  Verified that Expected value :[@ RSGD_03202017112454 Program - Series] is matched with Actual value :[@ RSGD_03202017112454 Program - Series]</span>
+Mar 20,2017 12:04:02 [Info]  Clicked on the 'Cancel Button at Asset Title Window' using JS Executor
+Mar 20,2017 12:04:02 [Info]  Enter the Asset Name RSGA_03202017112454 >> click on "Save Button" >> Verify Aset Title Validation Window Opens
+Mar 20,2017 12:04:02 [Info]  Entered "RSGA_03202017112454" in field 'Asset Title Field'
+Mar 20,2017 12:04:02 [Info]  Clicked on the 'Save Button' using JS Executor
+Mar 20,2017 12:04:02 [Info]  Accepted Alert
+<span style="color:red;">Mar 20,2017 12:04:17 [Fail]  ====Failed==== " Could not find the Frame: div[id*='WebDialogWindow2'][style*=visible]</span>
+Mar 20,2017 12:04:17 [Info]  no such element: Unable to locate element: {"method":"css selector","selector":"div[id*='WebDialogWindow2'][style*=visible]"}
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.05 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: '9P4G6BS', ip: '10.10.22.71', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed), userDataDir=C:\Users\Rajudd\AppData\Local\Temp\scoped_dir6780_15213}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=56.0.2924.87, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 1e1e9b33f10c20d73be861788872ce7e
+*** Element info: {Using=css selector, value=div[id*='WebDialogWindow2'][style*=visible]}
+<span style="color:red;">Mar 20,2017 12:04:27 [Fail]  ====Failed==== "Cancel Button at Asset title Window" field is not present'</span>
+Mar 20,2017 12:04:28 [Info]  *****Enter the Asset Name The RSGB_03202017112454 >> click on "Save Button" >> Verify Aset Title Validation Window Opens
+Mar 20,2017 12:04:28 [Info]  Entered "The RSGB_03202017112454" in field 'Asset Title Field'
+Mar 20,2017 12:04:28 [Info]  Clicked on the 'Save Button' using JS Executor
+Mar 20,2017 12:04:28 [Info]  Accepted Alert
+<span style="color:red;">Mar 20,2017 12:04:41 [Fail]  ====Failed==== " Could not find the Frame: div[id*='WebDialogWindow2'][style*=visible]</span>
+Mar 20,2017 12:04:42 [Info]  no such element: Unable to locate element: {"method":"css selector","selector":"div[id*='WebDialogWindow2'][style*=visible]"}
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.05 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: '9P4G6BS', ip: '10.10.22.71', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed), userDataDir=C:\Users\Rajudd\AppData\Local\Temp\scoped_dir6780_15213}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=56.0.2924.87, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 1e1e9b33f10c20d73be861788872ce7e
+*** Element info: {Using=css selector, value=div[id*='WebDialogWindow2'][style*=visible]}
+<span style="color:red;">Mar 20,2017 12:04:52 [Fail]  ====Failed==== "Cancel Button" field is not present'</span>
+Mar 20,2017 12:04:52 [Info]  *****Enter the Asset Name An_RSGC_03202017112454 >> click on "Save Button" >> Verify Aset Title Validation Window Opens
+Mar 20,2017 12:04:52 [Info]  Entered "An_RSGC_03202017112454" in field 'Asset Title Field'
+Mar 20,2017 12:04:52 [Info]  Clicked on the 'Save Button' using JS Executor
+Mar 20,2017 12:04:52 [Info]  Accepted Alert
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 12:05:19******************</span>
+Mar 20,2017 12:05:19 [Info]  Client: SKY
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************</span>
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing 'TC7_Validate_duplicate_Asset' Test Case*********************</span>
+Mar 20,2017 12:05:31 [Info]  Client: SKY
+Mar 20,2017 12:05:31 [Info]  URL: http://rlv2wb85/Home.aspx
+Mar 20,2017 12:05:31 [Info]  UserName: admin
+Mar 20,2017 12:05:31 [Info]  Password: admin
+Mar 20,2017 12:05:32 [Info]  Entered "admin" in field 'User Name'
+Mar 20,2017 12:05:32 [Info]  Clicked on the 'Temporary Check Box'
+Mar 20,2017 12:05:32 [Info]  Entered "admin" in field 'Password'
+Mar 20,2017 12:05:50 [Info]  Clicked on the 'LoginButton'
+Mar 20,2017 12:05:56 [Info]  Asset01 with prefix 'AUT_AssetSeries_':AUT_AssetSeries_03202017120556
+Mar 20,2017 12:05:56 [Info]  Asset01 with prefix 'RSGA_': RSGA_03202017120556
+<span style="color:blue;"> [Manual Test Step]  ************************Started Creating Asset of Type: Program - Series************************</span>
+Mar 20,2017 12:06:07 [Info]  Clicked on the 'MODULE'
+Mar 20,2017 12:06:14 [Info]  Clicked on the 'Title Maintenance'
+Mar 20,2017 12:06:17 [Info]  Clicked on the 'New Button' using JS Executor
+Mar 20,2017 12:06:42 [Info]  Clicked on the 'Program' using JS Executor
+Mar 20,2017 12:06:50 [Info]  Clicked on the 'General TAB'
+Mar 20,2017 12:07:22 [Info]  Selected "Program - Series" in "AssetTypeDropDown" drop down
+Mar 20,2017 12:07:22 [Info]  Entered "RSGA_03202017120556" in field 'AssetTitle'
+Mar 20,2017 12:07:23 [Info]  Clicked on the 'SBUImage' using JS Executor
+Mar 20,2017 12:07:29 [Info]  Clicked on the 'First CheckBox At SBU window'
+Mar 20,2017 12:07:31 [Info]  Clicked on the 'Apply Button' using JS Executor
+Mar 20,2017 12:07:32 [Info]  Entered "11:11:11" in field 'Duration'
+Mar 20,2017 12:07:42 [Info]  Selected "Active" in "Asset Status" drop down
+Mar 20,2017 12:07:42 [Info]  Selected "Event" in "Asset Format" drop down
+Mar 20,2017 12:07:42 [Info]  Selected "License Acquired" in "Asset Source" drop down
+Mar 20,2017 12:07:42 [Info]  Entered "AUT_Series" in field 'Short Name'
+Mar 20,2017 12:07:42 [Info]  Clicked on the 'Save Button' using JS Executor
+Mar 20,2017 12:08:06 [Info]  Verify The data of Created AssetRSGA_03202017120556
+<span style="color:green;">Mar 20,2017 12:08:06 [Verification]  Verified that Expected value :[RSGA_03202017120556] is matched with Actual value :[RSGA_03202017120556]</span>
+<span style="color:blue;"> [Manual Test Step]  ************************Created Asset of TypeProgram - Series************************</span>
+Mar 20,2017 12:08:06 [Info]  Asset02 with prefix 'The RSGB_': The RSGB_03202017120556
+<span style="color:blue;"> [Manual Test Step]  ************************Started Creating Asset of Type: Program - Series************************</span>
+Mar 20,2017 12:08:17 [Info]  Clicked on the 'MODULE'
+Mar 20,2017 12:08:23 [Info]  Clicked on the 'Title Maintenance'
+Mar 20,2017 12:08:26 [Info]  Clicked on the 'New Button' using JS Executor
+Mar 20,2017 12:08:46 [Info]  Clicked on the 'Program' using JS Executor
+Mar 20,2017 12:08:54 [Info]  Clicked on the 'General TAB'
+Mar 20,2017 12:09:16 [Info]  Selected "Program - Series" in "AssetTypeDropDown" drop down
+Mar 20,2017 12:09:16 [Info]  Entered "The RSGB_03202017120556" in field 'AssetTitle'
+Mar 20,2017 12:09:17 [Info]  Clicked on the 'SBUImage' using JS Executor
+Mar 20,2017 12:09:23 [Info]  Clicked on the 'First CheckBox At SBU window'
+Mar 20,2017 12:09:25 [Info]  Clicked on the 'Apply Button' using JS Executor
+Mar 20,2017 12:09:26 [Info]  Entered "11:11:11" in field 'Duration'
+Mar 20,2017 12:09:36 [Info]  Selected "Active" in "Asset Status" drop down
+Mar 20,2017 12:09:36 [Info]  Selected "Event" in "Asset Format" drop down
+Mar 20,2017 12:09:36 [Info]  Selected "License Acquired" in "Asset Source" drop down
+Mar 20,2017 12:09:36 [Info]  Entered "AUT_Series" in field 'Short Name'
+Mar 20,2017 12:09:36 [Info]  Clicked on the 'Save Button' using JS Executor
+Mar 20,2017 12:10:00 [Info]  Verify The data of Created AssetThe RSGB_03202017120556
+<span style="color:green;">Mar 20,2017 12:10:00 [Verification]  Verified that Expected value :[The RSGB_03202017120556] is matched with Actual value :[The RSGB_03202017120556]</span>
+<span style="color:blue;"> [Manual Test Step]  ************************Created Asset of TypeProgram - Series************************</span>
+Mar 20,2017 12:10:00 [Info]  Asset03 with prefix 'An_RSGC_': An_RSGC_03202017120556
+<span style="color:blue;"> [Manual Test Step]  ************************Started Creating Asset of Type: Program - Series************************</span>
+Mar 20,2017 12:10:11 [Info]  Clicked on the 'MODULE'
+Mar 20,2017 12:10:17 [Info]  Clicked on the 'Title Maintenance'
+Mar 20,2017 12:10:20 [Info]  Clicked on the 'New Button' using JS Executor
+Mar 20,2017 12:10:40 [Info]  Clicked on the 'Program' using JS Executor
+Mar 20,2017 12:10:49 [Info]  Clicked on the 'General TAB'
+Mar 20,2017 12:11:09 [Info]  Selected "Program - Series" in "AssetTypeDropDown" drop down
+Mar 20,2017 12:11:09 [Info]  Entered "An_RSGC_03202017120556" in field 'AssetTitle'
+Mar 20,2017 12:11:10 [Info]  Clicked on the 'SBUImage' using JS Executor
+Mar 20,2017 12:11:17 [Info]  Clicked on the 'First CheckBox At SBU window'
+Mar 20,2017 12:11:19 [Info]  Clicked on the 'Apply Button' using JS Executor
+Mar 20,2017 12:11:19 [Info]  Entered "11:11:11" in field 'Duration'
+Mar 20,2017 12:11:29 [Info]  Selected "Active" in "Asset Status" drop down
+Mar 20,2017 12:11:29 [Info]  Selected "Event" in "Asset Format" drop down
+Mar 20,2017 12:11:29 [Info]  Selected "License Acquired" in "Asset Source" drop down
+Mar 20,2017 12:11:30 [Info]  Entered "AUT_Series" in field 'Short Name'
+Mar 20,2017 12:11:30 [Info]  Clicked on the 'Save Button' using JS Executor
+Mar 20,2017 12:11:54 [Info]  Verify The data of Created AssetAn_RSGC_03202017120556
+<span style="color:green;">Mar 20,2017 12:11:54 [Verification]  Verified that Expected value :[An_RSGC_03202017120556] is matched with Actual value :[An_RSGC_03202017120556]</span>
+<span style="color:blue;"> [Manual Test Step]  ************************Created Asset of TypeProgram - Series************************</span>
+Mar 20,2017 12:11:54 [Info]  Asset04 with prefix '@ RSGD_': @ RSGD_03202017120556
+<span style="color:blue;"> [Manual Test Step]  ************************Started Creating Asset of Type: Program - Series************************</span>
+Mar 20,2017 12:12:04 [Info]  Clicked on the 'MODULE'
+Mar 20,2017 12:12:10 [Info]  Clicked on the 'Title Maintenance'
+Mar 20,2017 12:12:13 [Info]  Clicked on the 'New Button' using JS Executor
+Mar 20,2017 12:12:42 [Info]  Clicked on the 'Program' using JS Executor
+Mar 20,2017 12:12:51 [Info]  Clicked on the 'General TAB'
+Mar 20,2017 12:13:12 [Info]  Selected "Program - Series" in "AssetTypeDropDown" drop down
+Mar 20,2017 12:13:13 [Info]  Entered "@ RSGD_03202017120556" in field 'AssetTitle'
+Mar 20,2017 12:13:14 [Info]  Clicked on the 'SBUImage' using JS Executor
+Mar 20,2017 12:13:20 [Info]  Clicked on the 'First CheckBox At SBU window'
+Mar 20,2017 12:13:22 [Info]  Clicked on the 'Apply Button' using JS Executor
+Mar 20,2017 12:13:22 [Info]  Entered "11:11:11" in field 'Duration'
+Mar 20,2017 12:13:32 [Info]  Selected "Active" in "Asset Status" drop down
+Mar 20,2017 12:13:33 [Info]  Selected "Event" in "Asset Format" drop down
+Mar 20,2017 12:13:33 [Info]  Selected "License Acquired" in "Asset Source" drop down
+Mar 20,2017 12:13:33 [Info]  Entered "AUT_Series" in field 'Short Name'
+Mar 20,2017 12:13:33 [Info]  Clicked on the 'Save Button' using JS Executor
+Mar 20,2017 12:14:07 [Info]  Verify The data of Created Asset@ RSGD_03202017120556
+<span style="color:green;">Mar 20,2017 12:14:07 [Verification]  Verified that Expected value :[@ RSGD_03202017120556] is matched with Actual value :[@ RSGD_03202017120556]</span>
+<span style="color:blue;"> [Manual Test Step]  ************************Created Asset of TypeProgram - Series************************</span>
+Mar 20,2017 12:14:17 [Info]  Clicked on the 'MODULE'
+Mar 20,2017 12:14:24 [Info]  Clicked on the 'Title Maintenance'
+Mar 20,2017 12:14:37 [Info]  Could not find the locator: AUT_AssetSeries_03202017120556AssetName'
+<span style="color:red;">Mar 20,2017 12:14:47 [Fail]  ====Failed==== "Asset Title Field" field is not present'Asset Title Field'</span>
+<span style="color:red;">Mar 20,2017 12:14:58 [Fail]  ====Failed==== "AssetTitleImageIcon" field is not present'</span>
+Mar 20,2017 12:14:58 [Info]  =======Passing this Message instead of Exception to avoid PAUSE of execution=====
+Mar 20,2017 12:14:58 [Info]  Alert was not Present
+<span style="color:red;">Mar 20,2017 12:15:08 [Fail]  ====Failed==== " Could not find the Frame: div[id*='WebDialogWindow2'][style*=visible]</span>
+Mar 20,2017 12:15:08 [Info]  no such element: Unable to locate element: {"method":"css selector","selector":"div[id*='WebDialogWindow2'][style*=visible]"}
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.06 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: '9P4G6BS', ip: '10.10.22.71', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed), userDataDir=C:\Users\Rajudd\AppData\Local\Temp\scoped_dir4944_1471}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=56.0.2924.87, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: be4a017d4ea2a1b1addcc0bcc73d48aa
+*** Element info: {Using=css selector, value=div[id*='WebDialogWindow2'][style*=visible]}
+Mar 20,2017 12:15:18 [Info]  Verify The data of TitleHeader at Asset Title Window
+<span style="color:red;">Mar 20,2017 12:15:18 [Fail]  ====Failed==== Expected value is:[Title] but Actual value is[]. Please check the screenshot with name: TitleHeader at Asset Title Windowfor more details</span>
+Mar 20,2017 12:15:29 [Info]  Verify The data of AKA Titles at Asset Title Window
+<span style="color:red;">Mar 20,2017 12:15:29 [Fail]  ====Failed==== Expected value is:[AKA Titles] but Actual value is[]. Please check the screenshot with name: AKA Titles at Asset Title Windowfor more details</span>
+Mar 20,2017 12:15:39 [Info]  Verify The data of Asset Type at Asset Title Window
+<span style="color:red;">Mar 20,2017 12:15:39 [Fail]  ====Failed==== Expected value is:[Title Type] but Actual value is[]. Please check the screenshot with name: Asset Type at Asset Title Windowfor more details</span>
+Mar 20,2017 12:15:49 [Info]  Verify The data of Release Yr at Asset Title Window
+<span style="color:red;">Mar 20,2017 12:15:49 [Fail]  ====Failed==== Expected value is:[Release Yr] but Actual value is[]. Please check the screenshot with name: Release Yr at Asset Title Windowfor more details</span>
+Mar 20,2017 12:16:00 [Info]  Verify The data of Director/Artist at Asset Title Window
+<span style="color:red;">Mar 20,2017 12:16:00 [Fail]  ====Failed==== Expected value is:[Director/Artist] but Actual value is[]. Please check the screenshot with name: Director/Artist at Asset Title Windowfor more details</span>
+Mar 20,2017 12:16:10 [Info]  Verify The data of Save Button at Asset Title Window
+<span style="color:red;">Mar 20,2017 12:16:10 [Fail]  ====Failed==== Expected value is:[Save] but Actual value is[]. Please check the screenshot with name: Save Button at Asset Title Windowfor more details</span>
+Mar 20,2017 12:16:21 [Info]  Verify The data of Cancel Button at Asset Title Window
+<span style="color:red;">Mar 20,2017 12:16:21 [Fail]  ====Failed==== Expected value is:[Cancel] but Actual value is[]. Please check the screenshot with name: Cancel Button at Asset Title Windowfor more details</span>
+Mar 20,2017 12:16:31 [Info]  Verify The data of Asset Title in Asset title Window Box
+<span style="color:red;">Mar 20,2017 12:16:31 [Fail]  ====Failed==== Expected value is:[RSGA_03202017120556 Program - Series] but Actual value is[]. Please check the screenshot with name: Asset Title in Asset title Window Boxfor more details</span>
+<span style="color:red;">Mar 20,2017 12:16:41 [Fail]  ====Failed==== "Cancel Button at Asset Title Window" field is not present'</span>
+Mar 20,2017 12:16:42 [Info]  Enter the Asset Name The RSGB_03202017120556 >> click on "Validate Asset Title" Icon >> Verify Asset Name in the opened window
+<span style="color:red;">Mar 20,2017 12:16:52 [Fail]  ====Failed==== "Asset Title Field" field is not present'Asset Title Field'</span>
+<span style="color:red;">Mar 20,2017 12:17:02 [Fail]  ====Failed==== "AssetTitleImageIcon" field is not present'</span>
+Mar 20,2017 12:17:03 [Info]  =======Passing this Message instead of Exception to avoid PAUSE of execution=====
+Mar 20,2017 12:17:03 [Info]  Alert was not Present
+<span style="color:red;">Mar 20,2017 12:17:13 [Fail]  ====Failed==== " Could not find the Frame: div[id*='WebDialogWindow2'][style*=visible]</span>
+Mar 20,2017 12:17:13 [Info]  no such element: Unable to locate element: {"method":"css selector","selector":"div[id*='WebDialogWindow2'][style*=visible]"}
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.02 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: '9P4G6BS', ip: '10.10.22.71', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed), userDataDir=C:\Users\Rajudd\AppData\Local\Temp\scoped_dir4944_1471}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=56.0.2924.87, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: be4a017d4ea2a1b1addcc0bcc73d48aa
+*** Element info: {Using=css selector, value=div[id*='WebDialogWindow2'][style*=visible]}
+Mar 20,2017 12:17:23 [Info]  Verify The data of Asset Title in Asset title Window Box
+<span style="color:red;">Mar 20,2017 12:17:23 [Fail]  ====Failed==== Expected value is:[The RSGB_03202017120556 Program - Series] but Actual value is[]. Please check the screenshot with name: Asset Title in Asset title Window Boxfor more details</span>
+<span style="color:red;">Mar 20,2017 12:17:33 [Fail]  ====Failed==== "Cancel Button at Asset Title Window" field is not present'</span>
+Mar 20,2017 12:17:34 [Info]  Enter the Asset Name An_RSGC_03202017120556 >> click on "Validate Asset Title" Icon >> Verify Asset Name in the opened window
+<span style="color:red;">Mar 20,2017 12:17:44 [Fail]  ====Failed==== "Asset Title Field" field is not present'Asset Title Field'</span>
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 12:24:10******************</span>
+Mar 20,2017 12:24:10 [Info]  Client: SKY
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************</span>
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing 'TC7_Validate_duplicate_Asset' Test Case*********************</span>
+Mar 20,2017 12:24:21 [Info]  Client: SKY
+Mar 20,2017 12:24:21 [Info]  URL: http://rlv2wb85/Home.aspx
+Mar 20,2017 12:24:21 [Info]  UserName: admin
+Mar 20,2017 12:24:21 [Info]  Password: admin
+Mar 20,2017 12:24:22 [Info]  Entered "admin" in field 'User Name'
+Mar 20,2017 12:24:22 [Info]  Clicked on the 'Temporary Check Box'
+Mar 20,2017 12:24:22 [Info]  Entered "admin" in field 'Password'
+Mar 20,2017 12:24:35 [Info]  Clicked on the 'LoginButton'
+Mar 20,2017 12:24:42 [Info]  Asset01 with prefix 'AUT_AssetSeries_':AUT_AssetSeries_03202017120556
+Mar 20,2017 12:24:52 [Info]  Clicked on the 'MODULE'
+Mar 20,2017 12:24:58 [Info]  Clicked on the 'Title Maintenance'
+<span style="color:red;">Mar 20,2017 12:25:18 [Fail]  ====Failed==== "AUT_AssetSeries_03202017120556AssetName" field is not present'</span>
+Mar 20,2017 12:25:18 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\20\AUT_AssetSeries_03202017120556AssetName_CheckpointFailure_03-20-2017 12-25-18 PM.jpg
+<span style="color:red;">Mar 20,2017 12:25:28 [Fail]  ====Failed==== "Asset Title Field" field is not present'Asset Title Field'</span>
+Mar 20,2017 12:25:29 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\20\AssetTitleField_CheckpointFailure_03-20-2017 12-25-28 PM.jpg
+<span style="color:red;">Mar 20,2017 12:25:39 [Fail]  ====Failed==== "AssetTitleImageIcon" field is not present'</span>
+Mar 20,2017 12:25:39 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\20\AssetTitleImageIcon_CheckpointFailure_03-20-2017 12-25-39 PM.jpg
+Mar 20,2017 12:25:39 [Info]  =======Passing this Message instead of Exception to avoid PAUSE of execution=====
+Mar 20,2017 12:25:39 [Info]  Alert was not Present
+<span style="color:red;">Mar 20,2017 12:25:49 [Fail]  ====Failed==== " Could not find the Frame: div[id*='WebDialogWindow2'][style*=visible]</span>
+<span style="color:red;">Mar 20,2017 12:25:50 [Fail]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\20\FrameSwitchingFailed0_CheckpointFailure_03-20-2017 12-25-49 PM.jpg</span>
+Mar 20,2017 12:25:50 [Info]  no such element: Unable to locate element: {"method":"css selector","selector":"div[id*='WebDialogWindow2'][style*=visible]"}
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.06 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: '9P4G6BS', ip: '10.10.22.71', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed), userDataDir=C:\Users\Rajudd\AppData\Local\Temp\scoped_dir7012_17582}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=56.0.2924.87, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 08eedc300188fb4b6a53d3acb559e9d4
+*** Element info: {Using=css selector, value=div[id*='WebDialogWindow2'][style*=visible]}
+Mar 20,2017 12:26:00 [Info]  Verify The data of TitleHeader at Asset Title Window
+<span style="color:red;">Mar 20,2017 12:26:00 [Fail]  ====Failed==== Expected value is:[Title] but Actual value is[]. Please check the screenshot with name: TitleHeader at Asset Title Windowfor more details</span>
+Mar 20,2017 12:26:01 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\20\TitleHeaderatAssetTitleWindow_CheckpointFailure_03-20-2017 12-26-00 PM.jpg
+Mar 20,2017 12:26:11 [Info]  Verify The data of AKA Titles at Asset Title Window
+<span style="color:red;">Mar 20,2017 12:26:11 [Fail]  ====Failed==== Expected value is:[AKA Titles] but Actual value is[]. Please check the screenshot with name: AKA Titles at Asset Title Windowfor more details</span>
+Mar 20,2017 12:26:11 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\20\AKATitlesatAssetTitleWindow_CheckpointFailure_03-20-2017 12-26-11 PM.jpg
+Mar 20,2017 12:26:21 [Info]  Verify The data of Asset Type at Asset Title Window
+<span style="color:red;">Mar 20,2017 12:26:21 [Fail]  ====Failed==== Expected value is:[Title Type] but Actual value is[]. Please check the screenshot with name: Asset Type at Asset Title Windowfor more details</span>
+Mar 20,2017 12:26:21 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\20\AssetTypeatAssetTitleWindow_CheckpointFailure_03-20-2017 12-26-21 PM.jpg
+Mar 20,2017 12:26:31 [Info]  Verify The data of Release Yr at Asset Title Window
+<span style="color:red;">Mar 20,2017 12:26:31 [Fail]  ====Failed==== Expected value is:[Release Yr] but Actual value is[]. Please check the screenshot with name: Release Yr at Asset Title Windowfor more details</span>
+Mar 20,2017 12:26:32 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\20\ReleaseYratAssetTitleWindow_CheckpointFailure_03-20-2017 12-26-31 PM.jpg
+Mar 20,2017 12:26:42 [Info]  Verify The data of Director/Artist at Asset Title Window
+<span style="color:red;">Mar 20,2017 12:26:42 [Fail]  ====Failed==== Expected value is:[Director/Artist] but Actual value is[]. Please check the screenshot with name: Director/Artist at Asset Title Windowfor more details</span>
+Mar 20,2017 12:26:42 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\20\Director/ArtistatAssetTitleWindow_CheckpointFailure_03-20-2017 12-26-42 PM.jpg
+Mar 20,2017 12:26:52 [Info]  Verify The data of Save Button at Asset Title Window
+<span style="color:red;">Mar 20,2017 12:26:52 [Fail]  ====Failed==== Expected value is:[Save] but Actual value is[]. Please check the screenshot with name: Save Button at Asset Title Windowfor more details</span>
+Mar 20,2017 12:26:52 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\20\SaveButtonatAssetTitleWindow_CheckpointFailure_03-20-2017 12-26-52 PM.jpg
+Mar 20,2017 12:27:03 [Info]  Verify The data of Cancel Button at Asset Title Window
+<span style="color:red;">Mar 20,2017 12:27:03 [Fail]  ====Failed==== Expected value is:[Cancel] but Actual value is[]. Please check the screenshot with name: Cancel Button at Asset Title Windowfor more details</span>
+Mar 20,2017 12:27:03 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\20\CancelButtonatAssetTitleWindow_CheckpointFailure_03-20-2017 12-27-03 PM.jpg
+Mar 20,2017 12:27:13 [Info]  Verify The data of Asset Title in Asset title Window Box
+<span style="color:red;">Mar 20,2017 12:27:13 [Fail]  ====Failed==== Expected value is:[RSGA_03202017120556 Program - Series] but Actual value is[]. Please check the screenshot with name: Asset Title in Asset title Window Boxfor more details</span>
+Mar 20,2017 12:27:13 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\20\AssetTitleinAssettitleWindowBox_CheckpointFailure_03-20-2017 12-27-13 PM.jpg
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 12:27:52******************</span>
+Mar 20,2017 12:27:52 [Info]  Client: SKY
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************</span>
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing 'TC7_Validate_duplicate_Asset' Test Case*********************</span>
+Mar 20,2017 12:28:04 [Info]  Client: SKY
+Mar 20,2017 12:28:04 [Info]  URL: http://rlv2wb85/Home.aspx
+Mar 20,2017 12:28:04 [Info]  UserName: admin
+Mar 20,2017 12:28:04 [Info]  Password: admin
+Mar 20,2017 12:28:04 [Info]  Entered "admin" in field 'User Name'
+Mar 20,2017 12:28:04 [Info]  Clicked on the 'Temporary Check Box'
+Mar 20,2017 12:28:04 [Info]  Entered "admin" in field 'Password'
+Mar 20,2017 12:28:22 [Info]  Clicked on the 'LoginButton'
+Mar 20,2017 12:28:28 [Info]  Asset01 with prefix 'AUT_AssetSeries_':AUT_AssetSeries_03202017120556
+<span style="color:blue;"> [Manual Test Step]  ************************Started Creating Asset of Type: Program - Series************************</span>
+Mar 20,2017 12:28:39 [Info]  Clicked on the 'MODULE'
+Mar 20,2017 12:28:45 [Info]  Clicked on the 'Title Maintenance'
+Mar 20,2017 12:28:55 [Info]  Clicked on the 'New Button' using JS Executor
+Mar 20,2017 12:29:18 [Info]  Clicked on the 'Program' using JS Executor
+Mar 20,2017 12:29:26 [Info]  Clicked on the 'General TAB'
+Mar 20,2017 12:29:47 [Info]  Selected "Program - Series" in "AssetTypeDropDown" drop down
+Mar 20,2017 12:29:47 [Info]  Entered "AUT_AssetSeries_03202017120556" in field 'AssetTitle'
+Mar 20,2017 12:29:48 [Info]  Clicked on the 'SBUImage' using JS Executor
+Mar 20,2017 12:29:54 [Info]  Clicked on the 'First CheckBox At SBU window'
+Mar 20,2017 12:29:56 [Info]  Clicked on the 'Apply Button' using JS Executor
+Mar 20,2017 12:29:57 [Info]  Entered "11:11:11" in field 'Duration'
+Mar 20,2017 12:30:07 [Info]  Selected "Active" in "Asset Status" drop down
+Mar 20,2017 12:30:07 [Info]  Selected "Event" in "Asset Format" drop down
+Mar 20,2017 12:30:07 [Info]  Selected "License Acquired" in "Asset Source" drop down
+Mar 20,2017 12:30:07 [Info]  Entered "AUT_Series" in field 'Short Name'
+Mar 20,2017 12:30:07 [Info]  Clicked on the 'Save Button' using JS Executor
+Mar 20,2017 12:30:34 [Info]  Verify The data of Created AssetAUT_AssetSeries_03202017120556
+<span style="color:green;">Mar 20,2017 12:30:34 [Verification]  Verified that Expected value :[AUT_AssetSeries_03202017120556] is matched with Actual value :[AUT_AssetSeries_03202017120556]</span>
+<span style="color:blue;"> [Manual Test Step]  ************************Created Asset of TypeProgram - Series************************</span>
+Mar 20,2017 12:30:44 [Info]  Clicked on the 'MODULE'
+Mar 20,2017 12:30:51 [Info]  Clicked on the 'Title Maintenance'
+Mar 20,2017 12:31:05 [Info]  Double clicked on 'AUT_AssetSeries_03202017120556AssetName'
+Mar 20,2017 12:31:05 [Info]  Entered "RSGA_03202017120556" in field 'Asset Title Field'
+Mar 20,2017 12:31:05 [Info]  Clicked on the 'AssetTitleImageIcon'
+Mar 20,2017 12:31:05 [Info]  Accepted Alert
+Mar 20,2017 12:31:06 [Info]  Verify The data of TitleHeader at Asset Title Window
+<span style="color:green;">Mar 20,2017 12:31:06 [Verification]  Verified that Expected value :[Title] is matched with Actual value :[Title]</span>
+Mar 20,2017 12:31:07 [Info]  Verify The data of AKA Titles at Asset Title Window
+<span style="color:green;">Mar 20,2017 12:31:07 [Verification]  Verified that Expected value :[AKA Titles] is matched with Actual value :[AKA Titles]</span>
+Mar 20,2017 12:31:07 [Info]  Verify The data of Asset Type at Asset Title Window
+<span style="color:green;">Mar 20,2017 12:31:07 [Verification]  Verified that Expected value :[Title Type] is matched with Actual value :[Title Type]</span>
+Mar 20,2017 12:31:07 [Info]  Verify The data of Release Yr at Asset Title Window
+<span style="color:green;">Mar 20,2017 12:31:07 [Verification]  Verified that Expected value :[Release Yr] is matched with Actual value :[Release Yr]</span>
+Mar 20,2017 12:31:07 [Info]  Verify The data of Director/Artist at Asset Title Window
+<span style="color:green;">Mar 20,2017 12:31:07 [Verification]  Verified that Expected value :[Director/Artist] is matched with Actual value :[Director/Artist]</span>
+Mar 20,2017 12:31:07 [Info]  Verify The data of Save Button at Asset Title Window
+<span style="color:green;">Mar 20,2017 12:31:07 [Verification]  Verified that Expected value :[Save] is matched with Actual value :[Save]</span>
+Mar 20,2017 12:31:07 [Info]  Verify The data of Cancel Button at Asset Title Window
+<span style="color:green;">Mar 20,2017 12:31:07 [Verification]  Verified that Expected value :[Cancel] is matched with Actual value :[Cancel]</span>
+Mar 20,2017 12:31:07 [Info]  Verify The data of Asset Title in Asset title Window Box
+<span style="color:green;">Mar 20,2017 12:31:07 [Verification]  Verified that Expected value :[RSGA_03202017120556 Program - Series] is matched with Actual value :[RSGA_03202017120556 Program - Series]</span>
+Mar 20,2017 12:31:07 [Info]  Clicked on the 'Cancel Button at Asset Title Window' using JS Executor
+Mar 20,2017 12:31:07 [Info]  Enter the Asset Name The RSGB_03202017120556 >> click on "Validate Asset Title" Icon >> Verify Asset Name in the opened window
+Mar 20,2017 12:31:07 [Info]  Entered "The RSGB_03202017120556" in field 'Asset Title Field'
+Mar 20,2017 12:31:07 [Info]  Clicked on the 'AssetTitleImageIcon'
+Mar 20,2017 12:31:07 [Info]  Accepted Alert
+Mar 20,2017 12:31:09 [Info]  Verify The data of Asset Title in Asset title Window Box
+<span style="color:green;">Mar 20,2017 12:31:09 [Verification]  Verified that Expected value :[The RSGB_03202017120556 Program - Series] is matched with Actual value :[The RSGB_03202017120556 Program - Series]</span>
+Mar 20,2017 12:31:09 [Info]  Clicked on the 'Cancel Button at Asset Title Window' using JS Executor
+Mar 20,2017 12:31:09 [Info]  Enter the Asset Name An_RSGC_03202017120556 >> click on "Validate Asset Title" Icon >> Verify Asset Name in the opened window
+Mar 20,2017 12:31:09 [Info]  Entered "An_RSGC_03202017120556" in field 'Asset Title Field'
+Mar 20,2017 12:31:09 [Info]  Clicked on the 'AssetTitleImageIcon'
+Mar 20,2017 12:31:09 [Info]  Accepted Alert
+Mar 20,2017 12:31:12 [Info]  Verify The data of Asset Title in Asset title Window Box
+<span style="color:green;">Mar 20,2017 12:31:12 [Verification]  Verified that Expected value :[An_RSGC_03202017120556 Program - Series] is matched with Actual value :[An_RSGC_03202017120556 Program - Series]</span>
+Mar 20,2017 12:31:12 [Info]  Clicked on the 'Cancel Button at Asset Title Window' using JS Executor
+Mar 20,2017 12:31:12 [Info]  Enter the Asset Name @ RSGD_03202017120556 >> click on "Validate Asset Title" Icon >> Verify Asset Name in the opened window
+Mar 20,2017 12:31:12 [Info]  Entered "@ RSGD_03202017120556" in field 'Asset Title Field'
+Mar 20,2017 12:31:12 [Info]  Clicked on the 'AssetTitleImageIcon'
+Mar 20,2017 12:31:12 [Info]  Accepted Alert
+Mar 20,2017 12:31:13 [Info]  Verify The data of Asset Title in Asset title Window Box
+<span style="color:green;">Mar 20,2017 12:31:13 [Verification]  Verified that Expected value :[@ RSGD_03202017120556 Program - Series] is matched with Actual value :[@ RSGD_03202017120556 Program - Series]</span>
+Mar 20,2017 12:31:13 [Info]  Clicked on the 'Cancel Button at Asset Title Window' using JS Executor
+Mar 20,2017 12:31:13 [Info]  Enter the Asset Name RSGA_03202017120556 >> click on "Save Button" >> Verify Aset Title Validation Window Opens
+Mar 20,2017 12:31:13 [Info]  Entered "RSGA_03202017120556" in field 'Asset Title Field'
+Mar 20,2017 12:31:13 [Info]  Clicked on the 'Save Button' using JS Executor
+Mar 20,2017 12:31:13 [Info]  Accepted Alert
+<span style="color:red;">Mar 20,2017 12:31:28 [Fail]  ====Failed==== " Could not find the Frame: div[id*='WebDialogWindow2'][style*=visible]</span>
+<span style="color:red;">Mar 20,2017 12:31:29 [Fail]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\20\FrameSwitchingFailed0_CheckpointFailure_03-20-2017 12-31-28 PM.jpg</span>
+Mar 20,2017 12:31:29 [Info]  no such element: Unable to locate element: {"method":"css selector","selector":"div[id*='WebDialogWindow2'][style*=visible]"}
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.02 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: '9P4G6BS', ip: '10.10.22.71', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed), userDataDir=C:\Users\Rajudd\AppData\Local\Temp\scoped_dir6488_20038}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=56.0.2924.87, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: f851a97e3ba3f728b318b1471064957e
+*** Element info: {Using=css selector, value=div[id*='WebDialogWindow2'][style*=visible]}
+<span style="color:red;">Mar 20,2017 12:31:39 [Fail]  ====Failed==== "Cancel Button at Asset title Window" field is not present'</span>
+Mar 20,2017 12:31:39 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\20\CancelButtonatAssettitleWindow_CheckpointFailure_03-20-2017 12-31-39 PM.jpg
+Mar 20,2017 12:31:39 [Info]  *****Enter the Asset Name The RSGB_03202017120556 >> click on "Save Button" >> Verify Aset Title Validation Window Opens
+Mar 20,2017 12:31:39 [Info]  Entered "The RSGB_03202017120556" in field 'Asset Title Field'
+Mar 20,2017 12:31:39 [Info]  Clicked on the 'Save Button' using JS Executor
+Mar 20,2017 12:31:39 [Info]  Accepted Alert
+<span style="color:red;">Mar 20,2017 12:31:52 [Fail]  ====Failed==== " Could not find the Frame: div[id*='WebDialogWindow2'][style*=visible]</span>
+<span style="color:red;">Mar 20,2017 12:31:53 [Fail]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\20\FrameSwitchingFailed1_CheckpointFailure_03-20-2017 12-31-52 PM.jpg</span>
+Mar 20,2017 12:31:53 [Info]  no such element: Unable to locate element: {"method":"css selector","selector":"div[id*='WebDialogWindow2'][style*=visible]"}
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.02 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: '9P4G6BS', ip: '10.10.22.71', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed), userDataDir=C:\Users\Rajudd\AppData\Local\Temp\scoped_dir6488_20038}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=56.0.2924.87, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: f851a97e3ba3f728b318b1471064957e
+*** Element info: {Using=css selector, value=div[id*='WebDialogWindow2'][style*=visible]}
+<span style="color:red;">Mar 20,2017 12:32:15 [Fail]  ====Failed==== "Cancel Button" field is not present'</span>
+Mar 20,2017 12:32:16 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\20\CancelButton_CheckpointFailure_03-20-2017 12-32-15 PM.jpg
+Mar 20,2017 12:32:16 [Info]  *****Enter the Asset Name An_RSGC_03202017120556 >> click on "Save Button" >> Verify Aset Title Validation Window Opens
+Mar 20,2017 12:32:16 [Info]  Entered "An_RSGC_03202017120556" in field 'Asset Title Field'
+Mar 20,2017 12:32:16 [Info]  Clicked on the 'Save Button' using JS Executor
+Mar 20,2017 12:32:16 [Info]  Accepted Alert
+<span style="color:red;">Mar 20,2017 12:32:29 [Fail]  ====Failed==== " Could not find the Frame: div[id*='WebDialogWindow2'][style*=visible]</span>
+<span style="color:red;">Mar 20,2017 12:32:29 [Fail]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\20\FrameSwitchingFailed2_CheckpointFailure_03-20-2017 12-32-29 PM.jpg</span>
+Mar 20,2017 12:32:29 [Info]  no such element: Unable to locate element: {"method":"css selector","selector":"div[id*='WebDialogWindow2'][style*=visible]"}
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.04 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: '9P4G6BS', ip: '10.10.22.71', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed), userDataDir=C:\Users\Rajudd\AppData\Local\Temp\scoped_dir6488_20038}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=56.0.2924.87, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: f851a97e3ba3f728b318b1471064957e
+*** Element info: {Using=css selector, value=div[id*='WebDialogWindow2'][style*=visible]}
+<span style="color:red;">Mar 20,2017 12:32:40 [Fail]  ====Failed==== "Cancel Button" field is not present'</span>
+Mar 20,2017 12:32:40 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\20\CancelButton_CheckpointFailure_03-20-2017 12-32-40 PM.jpg
+Mar 20,2017 12:32:40 [Info]  *****Enter the Asset Name @ RSGD_03202017120556 >> click on "Save Button" >> Verify Aset Title Validation Window Opens
+Mar 20,2017 12:32:40 [Info]  Entered "@ RSGD_03202017120556" in field 'Asset Title Field'
+Mar 20,2017 12:32:40 [Info]  Clicked on the 'Save Button Menu Bar' using JS Executor
+Mar 20,2017 12:32:40 [Info]  Accepted Alert
+<span style="color:red;">Mar 20,2017 12:32:53 [Fail]  ====Failed==== " Could not find the Frame: div[id*='WebDialogWindow2'][style*=visible]</span>
+<span style="color:red;">Mar 20,2017 12:32:54 [Fail]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\20\FrameSwitchingFailed3_CheckpointFailure_03-20-2017 12-32-53 PM.jpg</span>
+Mar 20,2017 12:32:54 [Info]  no such element: Unable to locate element: {"method":"css selector","selector":"div[id*='WebDialogWindow2'][style*=visible]"}
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.03 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: '9P4G6BS', ip: '10.10.22.71', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed), userDataDir=C:\Users\Rajudd\AppData\Local\Temp\scoped_dir6488_20038}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=56.0.2924.87, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: f851a97e3ba3f728b318b1471064957e
+*** Element info: {Using=css selector, value=div[id*='WebDialogWindow2'][style*=visible]}
+<span style="color:red;">Mar 20,2017 12:33:04 [Fail]  ====Failed==== "Cancel Button" field is not present'</span>
+Mar 20,2017 12:33:04 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\20\CancelButton_CheckpointFailure_03-20-2017 12-33-04 PM.jpg
+Mar 20,2017 12:33:04 [Info]  Test 'TC7_Validate_duplicate_Asset' PASSED
+Mar 20,2017 12:33:05 [Info]  Closed the Browser
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 15:32:36******************</span>
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 15:33:08******************</span>
+Mar 20,2017 15:33:08 [Info]  Client: SKY
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************</span>
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing 'main' Test Case*********************</span>
+Mar 20,2017 15:33:23 [Info]  Client: SKY
+Mar 20,2017 15:33:23 [Info]  URL: http://rlv2wb85/Home.aspx
+Mar 20,2017 15:33:23 [Info]  UserName: admin
+Mar 20,2017 15:33:23 [Info]  Password: admin
+Mar 20,2017 15:33:25 [Info]  Entered "admin" in field 'User Name'
+Mar 20,2017 15:33:25 [Info]  Clicked on the 'Temporary Check Box'
+Mar 20,2017 15:33:25 [Info]  Entered "admin" in field 'Password'
+Mar 20,2017 15:33:41 [Info]  Clicked on the 'LoginButton'
+Mar 20,2017 15:33:47 [Info]  Test 'main' FAILED
+Mar 20,2017 15:33:47 [Info]  2
+Mar 20,2017 15:33:47 [Info]  Test Case :main's Screenshot of Failure Page: 
+C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\20\main_03-20-2017 3-33-47 PM.jpg
+Mar 20,2017 15:33:49 [Info]  Closed the Browser
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 15:39:29******************</span>
+Mar 20,2017 15:39:29 [Info]  Client: SKY
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************</span>
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing 'main' Test Case*********************</span>
+Mar 20,2017 15:39:41 [Info]  Client: SKY
+Mar 20,2017 15:39:41 [Info]  URL: http://rlv2wb85/Home.aspx
+Mar 20,2017 15:39:41 [Info]  UserName: admin
+Mar 20,2017 15:39:41 [Info]  Password: admin
+Mar 20,2017 15:39:42 [Info]  Entered "admin" in field 'User Name'
+Mar 20,2017 15:39:42 [Info]  Clicked on the 'Temporary Check Box'
+Mar 20,2017 15:39:42 [Info]  Entered "admin" in field 'Password'
+Mar 20,2017 15:39:59 [Info]  Clicked on the 'LoginButton'
+Mar 20,2017 15:40:05 [Info]  Test 'main' PASSED
+Mar 20,2017 15:40:06 [Info]  Closed the Browser
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 15:42:18******************</span>
+Mar 20,2017 15:42:18 [Info]  Client: SKY
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************</span>
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing 'main' Test Case*********************</span>
+Mar 20,2017 15:42:29 [Info]  Client: SKY
+Mar 20,2017 15:42:29 [Info]  URL: http://rlv2wb85/Home.aspx
+Mar 20,2017 15:42:29 [Info]  UserName: admin
+Mar 20,2017 15:42:29 [Info]  Password: admin
+Mar 20,2017 15:42:31 [Info]  Entered "admin" in field 'User Name'
+Mar 20,2017 15:42:31 [Info]  Clicked on the 'Temporary Check Box'
+Mar 20,2017 15:42:31 [Info]  Entered "admin" in field 'Password'
+Mar 20,2017 15:42:49 [Info]  Clicked on the 'LoginButton'
+Mar 20,2017 15:42:55 [Info]  Test 'main' PASSED
+Mar 20,2017 15:42:56 [Info]  Closed the Browser
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 15:46:02******************</span>
+Mar 20,2017 15:46:02 [Info]  Client: SKY
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************</span>
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing 'main' Test Case*********************</span>
+Mar 20,2017 15:46:14 [Info]  Client: SKY
+Mar 20,2017 15:46:14 [Info]  URL: http://rlv2wb85/Home.aspx
+Mar 20,2017 15:46:14 [Info]  UserName: admin
+Mar 20,2017 15:46:14 [Info]  Password: admin
+Mar 20,2017 15:46:15 [Info]  Entered "admin" in field 'User Name'
+Mar 20,2017 15:46:15 [Info]  Clicked on the 'Temporary Check Box'
+Mar 20,2017 15:46:15 [Info]  Entered "admin" in field 'Password'
+Mar 20,2017 15:46:31 [Info]  Clicked on the 'LoginButton'
+Mar 20,2017 15:46:37 [Info]  Test 'main' PASSED
+Mar 20,2017 15:46:38 [Info]  Closed the Browser
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 15:47:37******************</span>
+Mar 20,2017 15:47:37 [Info]  Client: SKY
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************</span>
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing 'main' Test Case*********************</span>
+Mar 20,2017 15:47:37 [Info]  Test 'main' PASSED
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 15:49:23******************</span>
+Mar 20,2017 15:49:23 [Info]  Client: SKY
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************</span>
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing 'main' Test Case*********************</span>
+Mar 20,2017 15:49:23 [Info]  Test 'main' PASSED
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 15:51:39******************</span>
+Mar 20,2017 15:51:39 [Info]  Client: SKY
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************</span>
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing 'main' Test Case*********************</span>
+Mar 20,2017 15:51:39 [Info]  Test 'main' PASSED
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 15:52:19******************</span>
+Mar 20,2017 15:52:19 [Info]  Client: SKY
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************</span>
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing 'main' Test Case*********************</span>
+Mar 20,2017 15:52:19 [Info]  Test 'main' PASSED
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 15:53:27******************</span>
+Mar 20,2017 15:53:27 [Info]  Client: SKY
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************</span>
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing 'main' Test Case*********************</span>
+Mar 20,2017 15:53:27 [Info]  Test 'main' PASSED
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 15:54:45******************</span>
+Mar 20,2017 15:54:45 [Info]  Client: SKY
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************</span>
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing 'main' Test Case*********************</span>
+Mar 20,2017 15:54:45 [Info]  Test 'main' PASSED
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 15:56:12******************</span>
+Mar 20,2017 15:56:12 [Info]  Client: SKY
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************</span>
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing 'main' Test Case*********************</span>
+Mar 20,2017 15:56:12 [Info]  Test 'main' PASSED
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 15:56:39******************</span>
+Mar 20,2017 15:56:39 [Info]  Client: SKY
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************</span>
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing 'main' Test Case*********************</span>
+Mar 20,2017 15:56:39 [Info]  Test 'main' PASSED
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 15:56:51******************</span>
+Mar 20,2017 15:56:51 [Info]  Client: SKY
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************</span>
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing 'main' Test Case*********************</span>
+Mar 20,2017 15:56:51 [Info]  Test 'main' PASSED
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 15:59:22******************</span>
+Mar 20,2017 15:59:22 [Info]  Client: SKY
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************</span>
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing 'main' Test Case*********************</span>
+Mar 20,2017 15:59:22 [Info]  Test 'main' PASSED
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 16:21:44******************</span>
+Mar 20,2017 16:21:44 [Info]  Client: SKY
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************</span>
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing 'main' Test Case*********************</span>
+Mar 20,2017 16:21:44 [Info]  Test 'main' PASSED
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 16:23:10******************</span>
+Mar 20,2017 16:23:10 [Info]  Client: SKY
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************</span>
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing 'main' Test Case*********************</span>
+Mar 20,2017 16:23:10 [Info]  Test 'main' PASSED
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 16:23:51******************</span>
+Mar 20,2017 16:23:51 [Info]  Client: SKY
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************</span>
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing 'main' Test Case*********************</span>
+Mar 20,2017 16:23:51 [Info]  Test 'main' PASSED
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 16:27:30******************</span>
+Mar 20,2017 16:27:30 [Info]  Client: SKY
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************</span>
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing 'main' Test Case*********************</span>
+Mar 20,2017 16:27:30 [Info]  Test 'main' PASSED
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 16:28:21******************</span>
+Mar 20,2017 16:28:21 [Info]  Client: SKY
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************</span>
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing 'main' Test Case*********************</span>
+Mar 20,2017 16:28:21 [Info]  Test 'main' PASSED
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing 'TC1_AssetCreationTest' Test Case*********************</span>
+Mar 20,2017 16:28:21 [Info]  Test 'TC1_AssetCreationTest' PASSED
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 16:38:32******************</span>
+Mar 20,2017 16:38:32 [Info]  Client: SKY
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing the Test Area(Modules/TAB): 'Demo_MediaRights'*********************</span>
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing 'main' Test Case*********************</span>
+Mar 20,2017 16:38:32 [Info]  Test 'main' PASSED
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 16:44:05******************</span>
+Mar 20,2017 16:44:05 [Info]  Client: SKY
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing the Test Area(Modules/TAB): 'Demo_MediaRights'*********************</span>
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing 'main' Test Case*********************</span>
+Mar 20,2017 16:44:18 [Info]  Client: SKY
+Mar 20,2017 16:44:18 [Info]  URL: http://rlv2wb85/Home.aspx
+Mar 20,2017 16:44:18 [Info]  UserName: admin
+Mar 20,2017 16:44:18 [Info]  Password: admin
+Mar 20,2017 16:44:20 [Info]  Entered "admin" in field 'User Name'
+Mar 20,2017 16:44:20 [Info]  Clicked on the 'Temporary Check Box'
+Mar 20,2017 16:44:21 [Info]  Entered "admin" in field 'Password'
+Mar 20,2017 16:44:40 [Info]  Clicked on the 'LoginButton'
+Mar 20,2017 16:44:47 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\20\test_CheckpointFailure_03-20-2017 4-44-46 PM.jpg
+Mar 20,2017 16:44:47 [Info]  Test 'main' PASSED
+Mar 20,2017 16:44:48 [Info]  Closed the Browser
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 16:48:04******************</span>
+Mar 20,2017 16:48:04 [Info]  Client: SKY
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing the Test Area(Modules/TAB): 'Demo_MediaRights'*********************</span>
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing 'main' Test Case*********************</span>
+Mar 20,2017 16:48:16 [Info]  Client: SKY
+Mar 20,2017 16:48:16 [Info]  URL: http://rlv2wb85/Home.aspx
+Mar 20,2017 16:48:16 [Info]  UserName: admin
+Mar 20,2017 16:48:16 [Info]  Password: admin
+Mar 20,2017 16:48:16 [Info]  Entered "admin" in field 'User Name'
+Mar 20,2017 16:48:16 [Info]  Clicked on the 'Temporary Check Box'
+Mar 20,2017 16:48:16 [Info]  Entered "admin" in field 'Password'
+Mar 20,2017 16:48:35 [Info]  Clicked on the 'LoginButton'
+Mar 20,2017 16:48:41 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\20\test_CheckpointFailure_03-20-2017 4-48-41 PM.jpg
+Mar 20,2017 16:48:41 [Info]  Test 'main' PASSED
+Mar 20,2017 16:48:42 [Info]  Closed the Browser
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 17:01:18******************</span>
+Mar 20,2017 17:01:18 [Info]  Client: SKY
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing the Test Area(Modules/TAB): 'Demo_MediaRights'*********************</span>
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing 'main' Test Case*********************</span>
+Mar 20,2017 17:01:29 [Info]  Client: SKY
+Mar 20,2017 17:01:29 [Info]  URL: http://rlv2wb85/Home.aspx
+Mar 20,2017 17:01:29 [Info]  UserName: admin
+Mar 20,2017 17:01:29 [Info]  Password: admin
+Mar 20,2017 17:01:31 [Info]  Entered "admin" in field 'User Name'
+Mar 20,2017 17:01:32 [Info]  Clicked on the 'Temporary Check Box'
+Mar 20,2017 17:01:32 [Info]  Entered "admin" in field 'Password'
+Mar 20,2017 17:01:47 [Info]  Clicked on the 'LoginButton'
+Mar 20,2017 17:01:54 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\20\test_CheckpointFailure_03-20-2017 5-01-53 PM.jpg
+Mar 20,2017 17:01:54 [Info]  Test 'main' PASSED
+Mar 20,2017 17:01:55 [Info]  Closed the Browser
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 17:06:09******************</span>
+Mar 20,2017 17:06:09 [Info]  Client: SKY
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing the Test Area(Modules/TAB): 'Demo_MediaRights'*********************</span>
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing 'main' Test Case*********************</span>
+Mar 20,2017 17:06:21 [Info]  Client: SKY
+Mar 20,2017 17:06:21 [Info]  URL: http://rlv2wb85/Home.aspx
+Mar 20,2017 17:06:21 [Info]  UserName: admin
+Mar 20,2017 17:06:21 [Info]  Password: admin
+Mar 20,2017 17:06:22 [Info]  Entered "admin" in field 'User Name'
+Mar 20,2017 17:06:22 [Info]  Clicked on the 'Temporary Check Box'
+Mar 20,2017 17:06:22 [Info]  Entered "admin" in field 'Password'
+Mar 20,2017 17:06:39 [Info]  Clicked on the 'LoginButton'
+Mar 20,2017 17:06:45 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\20\test_CheckpointFailure_03-20-2017 5-06-45 PM.jpg
+Mar 20,2017 17:06:45 [Info]  Test 'main' PASSED
+Mar 20,2017 17:06:46 [Info]  Closed the Browser
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 17:44:00******************</span>
+Mar 20,2017 17:44:00 [Info]  Client: SKY
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing the Test Area(Modules/TAB): 'Demo_MediaRights'*********************</span>
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing 'main' Test Case*********************</span>
+Mar 20,2017 17:44:11 [Info]  Client: SKY
+Mar 20,2017 17:44:11 [Info]  URL: http://rlv2wb85/Home.aspx
+Mar 20,2017 17:44:11 [Info]  UserName: admin
+Mar 20,2017 17:44:11 [Info]  Password: admin
+Mar 20,2017 17:44:13 [Info]  Entered "admin" in field 'User Name'
+Mar 20,2017 17:44:13 [Info]  Clicked on the 'Temporary Check Box'
+Mar 20,2017 17:44:13 [Info]  Entered "admin" in field 'Password'
+Mar 20,2017 17:44:27 [Info]  Clicked on the 'LoginButton'
+Mar 20,2017 17:44:34 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\20\test_CheckpointFailure_03-20-2017 5-44-33 PM.jpg
+Mar 20,2017 17:44:34 [Info]  Test 'main' PASSED
+Mar 20,2017 17:44:35 [Info]  Closed the Browser
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 17:46:26******************</span>
+Mar 20,2017 17:46:27 [Info]  Client: SKY
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing the Test Area(Modules/TAB): 'Demo_MediaRights'*********************</span>
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing 'main' Test Case*********************</span>
+Mar 20,2017 17:46:38 [Info]  Client: SKY
+Mar 20,2017 17:46:38 [Info]  URL: http://rlv2wb85/Home.aspx
+Mar 20,2017 17:46:38 [Info]  UserName: admin
+Mar 20,2017 17:46:38 [Info]  Password: admin
+Mar 20,2017 17:46:38 [Info]  Entered "admin" in field 'User Name'
+Mar 20,2017 17:46:38 [Info]  Clicked on the 'Temporary Check Box'
+Mar 20,2017 17:46:39 [Info]  Entered "admin" in field 'Password'
+Mar 20,2017 17:46:55 [Info]  Clicked on the 'LoginButton'
+Mar 20,2017 17:47:01 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\20\test_CheckpointFailure_03-20-2017 5-47-01 PM.jpg
+Mar 20,2017 17:47:01 [Info]  Test 'main' PASSED
+Mar 20,2017 17:47:02 [Info]  Closed the Browser

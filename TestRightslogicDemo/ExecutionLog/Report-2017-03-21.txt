@@ -1,0 +1,855 @@
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 09:38:10******************</span>
+Mar 21,2017 09:38:10 [Info]  Client: SKY
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing the Test Area(Modules/TAB): 'Demo_MediaRights'*********************</span>
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing 'main' Test Case*********************</span>
+Mar 21,2017 09:38:22 [Info]  Client: SKY
+Mar 21,2017 09:38:22 [Info]  URL: http://rlv2wb85/Home.aspx
+Mar 21,2017 09:38:22 [Info]  UserName: admin
+Mar 21,2017 09:38:22 [Info]  Password: admin
+Mar 21,2017 09:38:22 [Info]  Entered "admin" in field 'User Name'
+Mar 21,2017 09:38:23 [Info]  Clicked on the 'Temporary Check Box'
+Mar 21,2017 09:38:23 [Info]  Entered "admin" in field 'Password'
+Mar 21,2017 09:38:35 [Info]  Clicked on the 'LoginButton'
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 10:55:55******************</span>
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 10:59:40******************</span>
+Mar 21,2017 10:59:40 [Info]  Client: SKY
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing the Test Area(Modules/TAB): 'General TAB'*********************</span>
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing 'TC1_AssetCreationTest' Test Case*********************</span>
+Mar 21,2017 11:00:06 [Info]  Client: SKY
+Mar 21,2017 11:00:06 [Info]  URL: http://rlv2wb85/Home.aspx
+Mar 21,2017 11:00:06 [Info]  UserName: admin
+Mar 21,2017 11:00:06 [Info]  Password: admin
+Mar 21,2017 11:00:08 [Info]  Entered "admin" in field 'User Name'
+Mar 21,2017 11:00:09 [Info]  Clicked on the 'Temporary Check Box'
+Mar 21,2017 11:00:09 [Info]  Entered "admin" in field 'Password'
+Mar 21,2017 11:00:20 [Info]  Clicked on the 'LoginButton'
+Mar 21,2017 11:00:26 [Info]  Test 'TC1_AssetCreationTest' PASSED
+Mar 21,2017 11:00:28 [Info]  Closed the Browser
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 16:45:45******************</span>
+Mar 21,2017 16:45:45 [Info]  Client: PROSIBIEN
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************</span>
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing 'TC1_AssetCreationTest' Test Case*********************</span>
+Mar 21,2017 16:45:56 [Info]  Client: PROSIBIEN
+Mar 21,2017 16:45:56 [Info]  URL: http://rlv3wb59/Home.aspx 
+Mar 21,2017 16:45:56 [Info]  UserName: admin
+Mar 21,2017 16:45:56 [Info]  Password: admin
+Mar 21,2017 16:45:58 [Info]  Entered "admin" in field 'User Name'
+Mar 21,2017 16:45:59 [Info]  Clicked on the 'Temporary Check Box'
+Mar 21,2017 16:45:59 [Info]  Entered "admin" in field 'Password'
+Mar 21,2017 16:46:05 [Info]  Clicked on the 'LoginButton'
+<span style="color:blue;"> [Manual Test Step]  ************************Started Creating Asset of Type: Program - Series************************</span>
+Mar 21,2017 16:46:23 [Info]  Clicked on the 'MODULE'
+Mar 21,2017 16:46:31 [Info]  Clicked on the 'Asset Maintenance'
+Mar 21,2017 16:46:43 [Info]  Clicked on the 'New Button' using JS Executor
+Mar 21,2017 16:46:43 [Info]  Clicked on the 'Program' using JS Executor
+Mar 21,2017 16:46:52 [Info]  Clicked on the 'General TAB'
+Mar 21,2017 16:46:54 [Info]  Selected "Program - Series" in "AssetTypeDropDown" drop down
+Mar 21,2017 16:46:59 [Info]  Entered "AUT_AssetSeries_Contri_0321201744545" in field 'AssetTitle'
+Mar 21,2017 16:46:59 [Info]  Clicked on the 'Vendor Img Icon' using JS Executor
+Mar 21,2017 16:47:00 [Info]  Entered "N/A" in field 'SearchvalueVendor'
+Mar 21,2017 16:47:03 [Info]  Clicked on the 'VendorWindowButtonfind' using JS Executor
+Mar 21,2017 16:47:18 [Info]  Clicked on the 'OK Button at Alert' using JS Executor
+Mar 21,2017 16:47:20 [Info]  Clicked on the 'Add Button at Vendor Add Window'
+Mar 21,2017 16:47:22 [Info]  All Drop Down values of PartyList are:
+
+Mar 21,2017 16:47:22 [Info]  Vendor
+
+Mar 21,2017 16:47:22 [Info]  Entered "N/A" in field 'Company Name'
+<span style="color:green;">Mar 21,2017 16:47:22 [Verification]  Verified that Expected value :[Primary] is matched with Actual value :[Primary]</span>
+Mar 21,2017 16:47:22 [Info]  Clicked on the 'Contributor_ContributorSearch_Add_AddressLine1InputField' using JS Executor
+Mar 21,2017 16:47:23 [Info]  Entered "AddressLine1" in field 'ConrtibutorsEdit_ConrtibutorsSearch_AddWindow_AddressLine1 Field'
+Mar 21,2017 16:47:23 [Info]  Clicked on the 'Contributor_ContributorSearch_Add_AddressLine2InputField' using JS Executor
+Mar 21,2017 16:47:24 [Info]  Entered "AddressLine2" in field 'ConrtibutorsEdit_ConrtibutorsSearch_AddWindow_AddressLine2 Field'
+Mar 21,2017 16:47:24 [Info]  Clicked on the 'ConrtibutorsEdit_ConrtibutorsSearch_AddWindow_City' using JS Executor
+Mar 21,2017 16:47:24 [Info]  Entered "City" in field 'ConrtibutorsEdit_ConrtibutorsSearch_AddWindow_City Field'
+Mar 21,2017 16:47:24 [Info]  Selected "Canada" in "Country Input Field" drop down
+Mar 21,2017 16:47:25 [Info]  Selected "Alberta" in "Contributor_ContributorSearch_Add_StateInputField" drop down
+Mar 21,2017 16:47:25 [Info]  Clicked on the 'Contributor_ContributorSearch_Add_ZipCodeField' using JS Executor
+Mar 21,2017 16:47:25 [Info]  Entered "12345" in field 'ConrtibutorsEdit_ConrtibutorsSearch_AddWindow_ZipCode Field'
+Mar 21,2017 16:47:25 [Info]  Clicked on the ''Save Button' Contributor_ContributorSearch_Add_SaveGeneralInfoButton' using JS Executor
+<span style="color:red;">Mar 21,2017 16:47:32 [Fail]  ====Failed==== Expected value is:[] but Actual value is [Changes have been saved successfully.]. Please check the screenshot with name: Contributor_ContributorSearch_Add_SaveGeneralInfo_EnterAleternate_ValidationMessagefor more details</span>
+Mar 21,2017 16:47:32 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\21\Contributor_ContributorSearch_Add_SaveGeneralInfo_EnterAleternate_ValidationMessage_CheckpointFailure_03-21-2017 4-47-32 PM.jpg
+Mar 21,2017 16:47:35 [Info]  Clicked on the 'close Add Reference Window'
+Mar 21,2017 16:47:36 [Info]  Entered "N/A" in field 'SearchvalueVendor'
+Mar 21,2017 16:47:38 [Info]  Clicked on the 'VendorWindowButtonfind' using JS Executor
+Mar 21,2017 16:47:39 [Info]  Clicked on the 'VendorName At VendorWindow'
+Mar 21,2017 16:47:39 [Info]  Clicked on the 'VendorName At VendorWindow' using JS Executor
+Mar 21,2017 16:47:39 [Info]  Clicked on the 'Vendor Select Button' using JS Executor
+Mar 21,2017 16:47:42 [Info]  Verify The data of Vendor1
+<span style="color:red;">Mar 21,2017 16:47:42 [Fail]  ====Failed==== Expected value is:[N/A] but Actual value is[]. Please check the screenshot with name: Vendor1for more details</span>
+Mar 21,2017 16:47:42 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\21\Vendor1_CheckpointFailure_03-21-2017 4-47-42 PM.jpg
+Mar 21,2017 16:47:43 [Info]  Clicked on the 'SBUImage' using JS Executor
+Mar 21,2017 16:47:44 [Info]  Verify The data of SBU Window/Owner Channel Header
+<span style="color:red;">Mar 21,2017 16:47:44 [Fail]  ====Failed==== Expected value is:[Source Business Unit Template] but Actual value is[Select Studio Name]. Please check the screenshot with name: SBU Window/Owner Channel Headerfor more details</span>
+Mar 21,2017 16:47:44 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\21\SBUWindow/OwnerChannelHeader_CheckpointFailure_03-21-2017 4-47-44 PM.jpg
+<span style="color:red;">Mar 21,2017 16:48:00 [Fail]  ====Failed==== "First CheckBox At SBU window" field is not present'</span>
+Mar 21,2017 16:48:01 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\21\FirstCheckBoxAtSBUwindow_CheckpointFailure_03-21-2017 4-48-00 PM.jpg
+<span style="color:red;">Mar 21,2017 16:48:13 [Fail]  ====Failed==== "Apply Button" field is not present'</span>
+Mar 21,2017 16:48:13 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\21\ApplyButton_CheckpointFailure_03-21-2017 4-48-13 PM.jpg
+Mar 21,2017 16:48:14 [Info]  Entered "11:11:11" in field 'Duration'
+Mar 21,2017 16:48:24 [Info]  Selected "Scripted" in "Asset Format" drop down
+Mar 21,2017 16:48:25 [Info]  Selected "Licensed Acquired" in "Asset Source" drop down
+Mar 21,2017 16:48:25 [Info]  Selected "Spielfilm" in "Asset Category/Group" drop down
+Mar 21,2017 16:48:26 [Info]  Entered "AUT_Series" in field 'Short Name'
+Mar 21,2017 16:48:26 [Info]  Clicked on the 'Save Button' using JS Executor
+Mar 21,2017 16:48:29 [Info]  Verify The data of Created AssetAUT_AssetSeries_Contri_0321201744545
+<span style="color:red;">Mar 21,2017 16:48:29 [Fail]  ====Failed==== Expected value is:[AUT_AssetSeries_Contri_0321201744545] but Actual value is[]. Please check the screenshot with name: Created AssetAUT_AssetSeries_Contri_0321201744545for more details</span>
+Mar 21,2017 16:48:29 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\21\CreatedAssetAUT_AssetSeries_Contri_0321201744545_CheckpointFailure_03-21-2017 4-48-29 PM.jpg
+<span style="color:blue;"> [Manual Test Step]  ************************Created Asset of TypeProgram - Series************************</span>
+Mar 21,2017 16:48:29 [Info]  Test 'TC1_AssetCreationTest' PASSED
+Mar 21,2017 16:48:33 [Info]  Closed the Browser
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 16:53:15******************</span>
+Mar 21,2017 16:53:15 [Info]  Client: PROSIBIEN
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************</span>
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing 'TC1_AssetCreationTest' Test Case*********************</span>
+Mar 21,2017 16:53:24 [Info]  Client: PROSIBIEN
+Mar 21,2017 16:53:24 [Info]  URL: http://rlv3wb59/Home.aspx 
+Mar 21,2017 16:53:24 [Info]  UserName: admin
+Mar 21,2017 16:53:24 [Info]  Password: admin
+Mar 21,2017 16:53:26 [Info]  Entered "admin" in field 'User Name'
+Mar 21,2017 16:53:26 [Info]  Clicked on the 'Temporary Check Box'
+Mar 21,2017 16:53:27 [Info]  Entered "admin" in field 'Password'
+Mar 21,2017 16:53:32 [Info]  Clicked on the 'LoginButton'
+<span style="color:blue;"> [Manual Test Step]  ************************Started Creating Asset of Type: Program - Series************************</span>
+Mar 21,2017 16:53:50 [Info]  Clicked on the 'MODULE'
+Mar 21,2017 16:53:57 [Info]  Clicked on the 'Asset Maintenance'
+Mar 21,2017 16:54:09 [Info]  Clicked on the 'New Button' using JS Executor
+Mar 21,2017 16:54:09 [Info]  Clicked on the 'Program' using JS Executor
+Mar 21,2017 16:54:19 [Info]  Clicked on the 'General TAB'
+Mar 21,2017 16:54:21 [Info]  Selected "Program - Series" in "AssetTypeDropDown" drop down
+Mar 21,2017 16:54:25 [Info]  Entered "AUT_AssetSeries_Contri_0321201745315" in field 'AssetTitle'
+Mar 21,2017 16:54:26 [Info]  Clicked on the 'Vendor Img Icon' using JS Executor
+Mar 21,2017 16:54:28 [Info]  Entered "AUT_PRO_Vendor1" in field 'SearchvalueVendor'
+Mar 21,2017 16:54:31 [Info]  Clicked on the 'VendorWindowButtonfind' using JS Executor
+Mar 21,2017 16:54:46 [Info]  Clicked on the 'OK Button at Alert' using JS Executor
+Mar 21,2017 16:54:46 [Info]  Clicked on the 'Add Button at Vendor Add Window'
+<span style="color:red;">Mar 21,2017 16:54:57 [Fail]  ====Failed==== " Could not find the Frame: div[id*='WebDialogWindow3'][style*=visible]</span>
+<span style="color:red;">Mar 21,2017 16:54:57 [Fail]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\21\FrameSwitchingFailed0_CheckpointFailure_03-21-2017 4-54-57 PM.jpg</span>
+Mar 21,2017 16:54:57 [Info]  Unable to find element with css selector == div[id*='WebDialogWindow3'][style*=visible] (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.31 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: '9P4G6BS', ip: '10.10.22.71', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=true, ie.forceCreateProcessApi=false, pageLoadStrategy=normal, ie.usePerProcessProxy=false, ignoreZoomSetting=false, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=false, browserName=internet explorer, initialBrowserUrl=http://localhost:10755/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=false, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: 3e9f64e6-f970-4b20-9f30-eb313d272cee
+*** Element info: {Using=css selector, value=div[id*='WebDialogWindow3'][style*=visible]}
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 16:55:32******************</span>
+Mar 21,2017 16:55:32 [Info]  Client: PROSIBIEN
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************</span>
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing 'TC1_AssetCreationTest' Test Case*********************</span>
+Mar 21,2017 16:55:42 [Info]  Client: PROSIBIEN
+Mar 21,2017 16:55:42 [Info]  URL: http://rlv3wb59/Home.aspx 
+Mar 21,2017 16:55:42 [Info]  UserName: admin
+Mar 21,2017 16:55:42 [Info]  Password: admin
+Mar 21,2017 16:55:43 [Info]  Entered "admin" in field 'User Name'
+Mar 21,2017 16:55:43 [Info]  Clicked on the 'Temporary Check Box'
+Mar 21,2017 16:55:44 [Info]  Entered "admin" in field 'Password'
+Mar 21,2017 16:55:49 [Info]  Clicked on the 'LoginButton'
+<span style="color:blue;"> [Manual Test Step]  ************************Started Creating Asset of Type: Program - Series************************</span>
+Mar 21,2017 16:56:06 [Info]  Clicked on the 'MODULE'
+Mar 21,2017 16:56:13 [Info]  Clicked on the 'Asset Maintenance'
+Mar 21,2017 16:56:24 [Info]  Clicked on the 'New Button' using JS Executor
+Mar 21,2017 16:56:24 [Info]  Clicked on the 'Program' using JS Executor
+Mar 21,2017 16:56:33 [Info]  Clicked on the 'General TAB'
+Mar 21,2017 16:56:35 [Info]  Selected "Program - Series" in "AssetTypeDropDown" drop down
+Mar 21,2017 16:56:39 [Info]  Entered "AUT_AssetSeries_Contri_0321201745532" in field 'AssetTitle'
+Mar 21,2017 16:56:40 [Info]  Clicked on the 'Vendor Img Icon' using JS Executor
+Mar 21,2017 16:56:42 [Info]  Entered "AUT_PRO_Vendor1" in field 'SearchvalueVendor'
+Mar 21,2017 16:56:44 [Info]  Clicked on the 'VendorWindowButtonfind' using JS Executor
+Mar 21,2017 16:56:59 [Info]  Clicked on the 'OK Button at Alert' using JS Executor
+Mar 21,2017 16:57:01 [Info]  Clicked on the 'Add Button at Vendor Add Window'
+Mar 21,2017 16:57:03 [Info]  All Drop Down values of PartyList are:
+
+Mar 21,2017 16:57:03 [Info]  Vendor
+
+Mar 21,2017 16:57:04 [Info]  Entered "AUT_PRO_Vendor1" in field 'Company Name'
+<span style="color:green;">Mar 21,2017 16:57:04 [Verification]  Verified that Expected value :[Primary] is matched with Actual value :[Primary]</span>
+Mar 21,2017 16:57:04 [Info]  Clicked on the 'Contributor_ContributorSearch_Add_AddressLine1InputField' using JS Executor
+Mar 21,2017 16:57:05 [Info]  Entered "AddressLine1" in field 'ConrtibutorsEdit_ConrtibutorsSearch_AddWindow_AddressLine1 Field'
+Mar 21,2017 16:57:05 [Info]  Clicked on the 'Contributor_ContributorSearch_Add_AddressLine2InputField' using JS Executor
+Mar 21,2017 16:57:05 [Info]  Entered "AddressLine2" in field 'ConrtibutorsEdit_ConrtibutorsSearch_AddWindow_AddressLine2 Field'
+Mar 21,2017 16:57:06 [Info]  Clicked on the 'ConrtibutorsEdit_ConrtibutorsSearch_AddWindow_City' using JS Executor
+Mar 21,2017 16:57:06 [Info]  Entered "City" in field 'ConrtibutorsEdit_ConrtibutorsSearch_AddWindow_City Field'
+Mar 21,2017 16:57:06 [Info]  Selected "Canada" in "Country Input Field" drop down
+Mar 21,2017 16:57:07 [Info]  Selected "Alberta" in "Contributor_ContributorSearch_Add_StateInputField" drop down
+Mar 21,2017 16:57:07 [Info]  Clicked on the 'Contributor_ContributorSearch_Add_ZipCodeField' using JS Executor
+Mar 21,2017 16:57:07 [Info]  Entered "12345" in field 'ConrtibutorsEdit_ConrtibutorsSearch_AddWindow_ZipCode Field'
+Mar 21,2017 16:57:07 [Info]  Clicked on the ''Save Button' Contributor_ContributorSearch_Add_SaveGeneralInfoButton' using JS Executor
+<span style="color:red;">Mar 21,2017 16:57:13 [Fail]  ====Failed==== Expected value is:[] but Actual value is [Changes have been saved successfully.]. Please check the screenshot with name: Contributor_ContributorSearch_Add_SaveGeneralInfo_EnterAleternate_ValidationMessagefor more details</span>
+Mar 21,2017 16:57:13 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\21\Contributor_ContributorSearch_Add_SaveGeneralInfo_EnterAleternate_ValidationMessage_CheckpointFailure_03-21-2017 4-57-13 PM.jpg
+Mar 21,2017 16:57:15 [Info]  Clicked on the 'close Add Reference Window'
+Mar 21,2017 16:57:17 [Info]  Entered "AUT_PRO_Vendor1" in field 'SearchvalueVendor'
+Mar 21,2017 16:57:19 [Info]  Clicked on the 'VendorWindowButtonfind' using JS Executor
+Mar 21,2017 16:57:20 [Info]  Clicked on the 'VendorName At VendorWindow'
+Mar 21,2017 16:57:20 [Info]  Clicked on the 'VendorName At VendorWindow' using JS Executor
+Mar 21,2017 16:57:20 [Info]  Clicked on the 'Vendor Select Button' using JS Executor
+Mar 21,2017 16:57:23 [Info]  Verify The data of Vendor1
+<span style="color:green;">Mar 21,2017 16:57:23 [Verification]  Verified that Expected value :[AUT_PRO_Vendor1] is matched with Actual value :[AUT_PRO_Vendor1]</span>
+Mar 21,2017 16:57:24 [Info]  Clicked on the 'SBUImage' using JS Executor
+Mar 21,2017 16:57:25 [Info]  Verify The data of SBU Window/Owner Channel Header
+<span style="color:green;">Mar 21,2017 16:57:25 [Verification]  Verified that Expected value :[Source Business Unit Template] is matched with Actual value :[Source Business Unit Template]</span>
+Mar 21,2017 16:57:32 [Info]  Clicked on the 'First CheckBox At SBU window'
+Mar 21,2017 16:57:34 [Info]  Clicked on the 'Apply Button' using JS Executor
+Mar 21,2017 16:57:35 [Info]  Entered "11:11:11" in field 'Duration'
+Mar 21,2017 16:57:46 [Info]  Selected "Scripted" in "Asset Format" drop down
+Mar 21,2017 16:57:46 [Info]  Selected "Licensed Acquired" in "Asset Source" drop down
+Mar 21,2017 16:57:47 [Info]  Selected "Spielfilm" in "Asset Category/Group" drop down
+Mar 21,2017 16:57:47 [Info]  Entered "AUT_Series" in field 'Short Name'
+Mar 21,2017 16:57:48 [Info]  Clicked on the 'Save Button' using JS Executor
+Mar 21,2017 16:57:54 [Info]  Verify The data of Created AssetAUT_AssetSeries_Contri_0321201745532
+<span style="color:green;">Mar 21,2017 16:57:54 [Verification]  Verified that Expected value :[AUT_AssetSeries_Contri_0321201745532] is matched with Actual value :[AUT_AssetSeries_Contri_0321201745532]</span>
+<span style="color:blue;"> [Manual Test Step]  ************************Created Asset of TypeProgram - Series************************</span>
+Mar 21,2017 16:57:54 [Info]  Test 'TC1_AssetCreationTest' PASSED
+Mar 21,2017 16:57:55 [Info]  Closed the Browser
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 17:15:52******************</span>
+Mar 21,2017 17:15:52 [Info]  Client: PROSIBIEN
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************</span>
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing 'TC1_DocumentUI' Test Case*********************</span>
+Mar 21,2017 17:16:02 [Info]  Client: PROSIBIEN
+Mar 21,2017 17:16:02 [Info]  URL: http://rlv3wb59/Home.aspx 
+Mar 21,2017 17:16:02 [Info]  UserName: admin
+Mar 21,2017 17:16:02 [Info]  Password: admin
+Mar 21,2017 17:16:03 [Info]  Entered "admin" in field 'User Name'
+Mar 21,2017 17:16:04 [Info]  Clicked on the 'Temporary Check Box'
+Mar 21,2017 17:16:04 [Info]  Entered "admin" in field 'Password'
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 17:18:48******************</span>
+Mar 21,2017 17:18:48 [Info]  Client: PROSIBIEN
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************</span>
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing 'TC1_DocumentUI' Test Case*********************</span>
+Mar 21,2017 17:18:58 [Info]  Client: PROSIBIEN
+Mar 21,2017 17:18:58 [Info]  URL: http://rlv3wb59/Home.aspx 
+Mar 21,2017 17:18:58 [Info]  UserName: admin
+Mar 21,2017 17:18:58 [Info]  Password: admin
+Mar 21,2017 17:18:59 [Info]  Entered "admin" in field 'User Name'
+Mar 21,2017 17:19:00 [Info]  Clicked on the 'Temporary Check Box'
+Mar 21,2017 17:19:00 [Info]  Entered "admin" in field 'Password'
+Mar 21,2017 17:19:06 [Info]  Clicked on the 'LoginButton'
+<span style="color:blue;"> [Manual Test Step]  ************************Started Creating Asset of Type: Program - Series************************</span>
+Mar 21,2017 17:19:24 [Info]  Clicked on the 'MODULE'
+Mar 21,2017 17:19:31 [Info]  Clicked on the 'Asset Maintenance'
+Mar 21,2017 17:19:43 [Info]  Clicked on the 'New Button' using JS Executor
+Mar 21,2017 17:19:44 [Info]  Clicked on the 'Program' using JS Executor
+Mar 21,2017 17:19:53 [Info]  Clicked on the 'General TAB'
+Mar 21,2017 17:19:55 [Info]  Selected "Program - Series" in "AssetTypeDropDown" drop down
+Mar 21,2017 17:20:00 [Info]  Entered "AUT_AssetSeries_Doc_TC1_0321201751848" in field 'AssetTitle'
+Mar 21,2017 17:20:01 [Info]  Clicked on the 'Vendor Img Icon' using JS Executor
+Mar 21,2017 17:20:03 [Info]  Entered "AUT_PRO_Vendor1" in field 'SearchvalueVendor'
+Mar 21,2017 17:20:05 [Info]  Clicked on the 'VendorWindowButtonfind' using JS Executor
+Mar 21,2017 17:20:10 [Info]  Clicked on the 'VendorName At VendorWindow'
+Mar 21,2017 17:20:11 [Info]  Clicked on the 'Vendor Select Button' using JS Executor
+Mar 21,2017 17:20:14 [Info]  Verify The data of Vendor1
+<span style="color:green;">Mar 21,2017 17:20:14 [Verification]  Verified that Expected value :[AUT_PRO_Vendor1] is matched with Actual value :[AUT_PRO_Vendor1]</span>
+Mar 21,2017 17:20:15 [Info]  Clicked on the 'SBUImage' using JS Executor
+Mar 21,2017 17:20:16 [Info]  Verify The data of SBU Window/Owner Channel Header
+<span style="color:green;">Mar 21,2017 17:20:16 [Verification]  Verified that Expected value :[Source Business Unit Template] is matched with Actual value :[Source Business Unit Template]</span>
+Mar 21,2017 17:20:23 [Info]  Clicked on the 'First CheckBox At SBU window'
+Mar 21,2017 17:20:25 [Info]  Clicked on the 'Apply Button' using JS Executor
+Mar 21,2017 17:20:26 [Info]  Entered "11:11:11" in field 'Duration'
+Mar 21,2017 17:20:37 [Info]  Selected "Scripted" in "Asset Format" drop down
+Mar 21,2017 17:20:37 [Info]  Selected "Licensed Acquired" in "Asset Source" drop down
+Mar 21,2017 17:20:37 [Info]  Selected "Spielfilm" in "Asset Category/Group" drop down
+Mar 21,2017 17:20:38 [Info]  Entered "AUT_Series" in field 'Short Name'
+Mar 21,2017 17:20:39 [Info]  Clicked on the 'Save Button' using JS Executor
+Mar 21,2017 17:20:44 [Info]  Verify The data of Created AssetAUT_AssetSeries_Doc_TC1_0321201751848
+<span style="color:green;">Mar 21,2017 17:20:44 [Verification]  Verified that Expected value :[AUT_AssetSeries_Doc_TC1_0321201751848] is matched with Actual value :[AUT_AssetSeries_Doc_TC1_0321201751848]</span>
+<span style="color:blue;"> [Manual Test Step]  ************************Created Asset of TypeProgram - Series************************</span>
+Mar 21,2017 17:20:55 [Info]  Clicked on the 'MODULE'
+Mar 21,2017 17:21:03 [Info]  Clicked on the 'Asset Maintenance'
+Mar 21,2017 17:21:14 [Info]  Double clicked on 'AUT_AssetSeries_Doc_TC1_0321201751848AssetName'
+Mar 21,2017 17:21:25 [Info]  Clicked on the 'Episodes TAB'
+Mar 21,2017 17:21:29 [Info]  Clicked on the ''Edit' Button at Episode window' using JS Executor
+Mar 21,2017 17:21:33 [Info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Mar 21,2017 17:21:34 [Info]  Entered "101" in field 'Add Episode input field'
+Mar 21,2017 17:21:35 [Info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Mar 21,2017 17:21:42 [Info]  Clicked on the 'Season Field of Episode101' using JS Executor
+Mar 21,2017 17:21:42 [Info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Mar 21,2017 17:21:43 [Info]  Clicked on the 'Season 1'
+Mar 21,2017 17:21:43 [Info]  Clicked on the 'Support click to select season'
+Mar 21,2017 17:21:44 [Info]  Entered "00:30:00" in field 'duration Program'
+Mar 21,2017 17:21:44 [Info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Mar 21,2017 17:21:45 [Info]  Entered "102" in field 'Add Episode input field'
+Mar 21,2017 17:21:46 [Info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Mar 21,2017 17:21:53 [Info]  Clicked on the 'Season Field of Episode101' using JS Executor
+Mar 21,2017 17:21:54 [Info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Mar 21,2017 17:21:54 [Info]  Clicked on the 'Season 1'
+Mar 21,2017 17:21:55 [Info]  Clicked on the 'Support click to select season'
+Mar 21,2017 17:21:55 [Info]  Entered "00:30:00" in field 'duration Program'
+Mar 21,2017 17:21:55 [Info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Mar 21,2017 17:21:57 [Info]  Entered "201" in field 'Add Episode input field'
+Mar 21,2017 17:21:57 [Info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Mar 21,2017 17:22:05 [Info]  Clicked on the 'Season Field of Episode101' using JS Executor
+Mar 21,2017 17:22:05 [Info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Mar 21,2017 17:22:06 [Info]  Clicked on the 'Season 1'
+Mar 21,2017 17:22:06 [Info]  Clicked on the 'Support click to select season'
+Mar 21,2017 17:22:07 [Info]  Entered "00:30:00" in field 'duration Program'
+Mar 21,2017 17:22:07 [Info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Mar 21,2017 17:22:08 [Info]  Entered "202" in field 'Add Episode input field'
+Mar 21,2017 17:22:08 [Info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Mar 21,2017 17:22:16 [Info]  Clicked on the 'Season Field of Episode101' using JS Executor
+Mar 21,2017 17:22:17 [Info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Mar 21,2017 17:22:17 [Info]  Clicked on the 'Season 1'
+Mar 21,2017 17:22:18 [Info]  Clicked on the 'Support click to select season'
+Mar 21,2017 17:22:18 [Info]  Entered "00:30:00" in field 'duration Program'
+Mar 21,2017 17:22:21 [Info]  Clicked on the 'Save Button at 'Episode Edit Window'' using JS Executor
+Mar 21,2017 17:22:29 [Info]  Clicked on the 'Close Button at 'Episode Edit Window'' using JS Executor
+Mar 21,2017 17:22:46 [Info]  Clicked on the 'MODULE'
+Mar 21,2017 17:22:54 [Info]  Clicked on the 'Asset Maintenance'
+Mar 21,2017 17:23:05 [Info]  Clicked on the 'Search Menu Icon' using JS Executor
+Mar 21,2017 17:23:05 [Info]  Clicked on the 'Asset Under Asset Search' using JS Executor
+Mar 21,2017 17:24:44 [Info]  Test 'TC1_DocumentUI' FAILED
+Mar 21,2017 17:24:44 [Info]  2
+Mar 21,2017 17:24:45 [Info]  Test Case :TC1_DocumentUI's Screenshot of Failure Page: 
+C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\21\TC1_DocumentUI_03-21-2017 5-24-44 PM.jpg
+Mar 21,2017 17:24:46 [Info]  Closed the Browser
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 17:43:56******************</span>
+Mar 21,2017 17:43:56 [Info]  Client: PROSIBIEN
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************</span>
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing 'TC1_DocumentUI' Test Case*********************</span>
+Mar 21,2017 17:44:06 [Info]  Client: PROSIBIEN
+Mar 21,2017 17:44:06 [Info]  URL: http://rlv3wb59/Home.aspx 
+Mar 21,2017 17:44:06 [Info]  UserName: admin
+Mar 21,2017 17:44:06 [Info]  Password: admin
+Mar 21,2017 17:44:08 [Info]  Entered "admin" in field 'User Name'
+Mar 21,2017 17:44:08 [Info]  Clicked on the 'Temporary Check Box'
+Mar 21,2017 17:44:09 [Info]  Entered "admin" in field 'Password'
+Mar 21,2017 17:44:13 [Info]  Clicked on the 'LoginButton'
+Mar 21,2017 17:44:30 [Info]  Clicked on the 'MODULE'
+Mar 21,2017 17:44:37 [Info]  Clicked on the 'Asset Maintenance'
+Mar 21,2017 17:44:48 [Info]  Double clicked on 'AUT_AssetSeries_Doc_TC1_0321201751848AssetName'
+Mar 21,2017 17:44:55 [Info]  Clicked on the 'Documents TAB'
+<span style="color:blue;"> [Manual Test Step]  ***********Verifying AllButtons Present on the Document TAB in view Mode***********</span>
+Mar 21,2017 17:44:57 [Info]  Verify The data of Document_ViewButton
+<span style="color:green;">Mar 21,2017 17:44:57 [Verification]  Verified that Expected value :[View Document] is matched with Actual value :[View Document]</span>
+Mar 21,2017 17:44:57 [Info]  Verify The data of Document_AddDocumentButton
+<span style="color:green;">Mar 21,2017 17:44:57 [Verification]  Verified that Expected value :[Add...] is matched with Actual value :[Add...]</span>
+Mar 21,2017 17:44:57 [Info]  Verify The data of Document_EditProfileButton
+<span style="color:green;">Mar 21,2017 17:44:57 [Verification]  Verified that Expected value :[Edit Profile] is matched with Actual value :[Edit Profile]</span>
+Mar 21,2017 17:44:57 [Info]  Verify The data of Document_DeleteDocumentButton
+<span style="color:green;">Mar 21,2017 17:44:57 [Verification]  Verified that Expected value :[Delete] is matched with Actual value :[Delete]</span>
+Mar 21,2017 17:44:57 [Info]  Verify The data of Applies TO
+<span style="color:green;">Mar 21,2017 17:44:57 [Verification]  Verified that Expected value :[Applies To] is matched with Actual value :[Applies To]</span>
+Mar 21,2017 17:44:57 [Info]  ******Verifying the Fields and Buttons on the Add Document Window******
+Mar 21,2017 17:44:57 [Info]  Clicked on the 'Document_AddDocumentButton' using JS Executor
+Mar 21,2017 17:45:01 [Info]  Verify The data of Document_AddDoc_AppliesToLabel
+<span style="color:green;">Mar 21,2017 17:45:01 [Verification]  Verified that Expected value :[*Applies To] is matched with Actual value :[*Applies To]</span>
+Mar 21,2017 17:45:01 [Info]  Verify The data of Document_AddDoc_DocNameLabel
+<span style="color:green;">Mar 21,2017 17:45:01 [Verification]  Verified that Expected value :[*Document Name] is matched with Actual value :[*Document Name]</span>
+Mar 21,2017 17:45:01 [Info]  Verify The data of Document_AddDoc_DocTypeLabel
+<span style="color:green;">Mar 21,2017 17:45:02 [Verification]  Verified that Expected value :[*Document Type] is matched with Actual value :[*Document Type]</span>
+Mar 21,2017 17:45:02 [Info]  Verify The data of Document_AddDoc_DocDateLabel
+<span style="color:green;">Mar 21,2017 17:45:02 [Verification]  Verified that Expected value :[Document Date] is matched with Actual value :[Document Date]</span>
+Mar 21,2017 17:45:02 [Info]  Verify The data of Document_AddDoc_DescritionLabel
+<span style="color:green;">Mar 21,2017 17:45:02 [Verification]  Verified that Expected value :[Description] is matched with Actual value :[Description]</span>
+Mar 21,2017 17:45:02 [Info]  Verify The data of Document_AddDoc_DocuentUploadLabel
+<span style="color:green;">Mar 21,2017 17:45:02 [Verification]  Verified that Expected value :[*Select File to Upload] is matched with Actual value :[*Select File to Upload]</span>
+Mar 21,2017 17:45:02 [Info]  Verify The data of Save button
+<span style="color:green;">Mar 21,2017 17:45:02 [Verification]  Verified that Expected value :[Save] is matched with Actual value :[Save]</span>
+Mar 21,2017 17:45:02 [Info]  Verify The data of Cancel button
+<span style="color:green;">Mar 21,2017 17:45:02 [Verification]  Verified that Expected value :[Cancel] is matched with Actual value :[Cancel]</span>
+Mar 21,2017 17:45:02 [Info]  *****Verifying all Associated Assets and Episodes are prefixed with 'Ep.'*****
+<span style="color:green;">Mar 21,2017 17:45:02 [Verification]  Verified that Expected value :[AUT_AssetSeries_Doc_TC1_0321201751848] is matched with Actual value :[AUT_AssetSeries_Doc_TC1_0321201751848]</span>
+<span style="color:red;">Mar 21,2017 17:45:13 [Fail]  ====Failed==== "Amendment" is not present in 'Document_AddDoc_DocTypeDropDownDrop Down'</span>
+Mar 21,2017 17:45:13 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\21\Document_AddDoc_DocTypeDropDown_CheckpointFailure_03-21-2017 5-45-13 PM.jpg
+<span style="color:red;">Mar 21,2017 17:45:13 [Fail]  ====Failed==== Expected value is:[Amendment] but Actual value is[Select One]. Please check the screenshot with name: Amendmentfor more details</span>
+Mar 21,2017 17:45:13 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\21\Document_AddDoc_DocTypeDropDown_CheckpointFailure_03-21-2017 5-45-13 PM.jpg
+Mar 21,2017 17:45:15 [Info]  Entered "Declaration from the Legal HeirDeclaration 1234567890 @#$% @&*" in field 'Document_AddDoc_DocNameField'
+Mar 21,2017 17:45:15 [Info]  Clicked on the 'Outside the Document Name Field'
+Mar 21,2017 17:45:16 [Info]  Verify The data of Alert Message on Entering the invalid Names
+<span style="color:green;">Mar 21,2017 17:45:16 [Verification]  Verified that Expected value :[Please enter a valid file name!] is matched with Actual value :[Please enter a valid file name!]</span>
+Mar 21,2017 17:45:16 [Info]  Clicked on the 'OK Button at Alert on Entering the invalid Names' using JS Executor
+Mar 21,2017 17:45:18 [Info]  Entered "AT_Document_Name_001" in field 'Document_AddDoc_DocNameField'
+Mar 21,2017 17:45:18 [Info]  Clicked on the 'Save Button at 'Add Document Window'' using JS Executor
+Mar 21,2017 17:45:21 [Info]  Verify The data of 'Add Document'Validation Message
+<span style="color:red;">Mar 21,2017 17:45:21 [Fail]  ====Failed==== Expected value is:[Please select a document to upload.] but Actual value is[  Please select Document Type.  ]. Please check the screenshot with name: 'Add Document'Validation Messagefor more details</span>
+Mar 21,2017 17:45:21 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\21\'AddDocument'ValidationMessage_CheckpointFailure_03-21-2017 5-45-21 PM.jpg
+Mar 21,2017 17:45:27 [Info]  Entered "C:\SeleniumProject\Workspace\RightsLogic\TestUploadFiles\AUTTestFile100KB.bmp" in field 'Upload File 'AUTTestFile100KB.bmp''
+Mar 21,2017 17:45:30 [Info]  Entered "31/12/2010" in field 'Document Date'
+Mar 21,2017 17:45:34 [Info]  Entered "Amendment" in field 'Document Discription'
+Mar 21,2017 17:45:34 [Info]  Clicked on the 'Save Button at 'Add Document Window'' using JS Executor
+Mar 21,2017 17:45:37 [Info]  ****Verifying all the Headers Name shown in View Mode After adding the Document****
+Mar 21,2017 17:45:51 [Info]  Verify The data of AMDocumentTypeKey
+<span style="color:red;">Mar 21,2017 17:45:51 [Fail]  ====Failed==== Expected value is:[Document Type] but Actual value is[]. Please check the screenshot with name: AMDocumentTypeKeyfor more details</span>
+Mar 21,2017 17:45:51 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\21\AMDocumentTypeKey_CheckpointFailure_03-21-2017 5-45-51 PM.jpg
+Mar 21,2017 17:46:01 [Info]  Verify The data of AMDocumentName
+<span style="color:red;">Mar 21,2017 17:46:01 [Fail]  ====Failed==== Expected value is:[Document Name] but Actual value is[]. Please check the screenshot with name: AMDocumentNamefor more details</span>
+Mar 21,2017 17:46:01 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\21\AMDocumentName_CheckpointFailure_03-21-2017 5-46-01 PM.jpg
+Mar 21,2017 17:46:11 [Info]  Verify The data of AMDocumentDate
+<span style="color:red;">Mar 21,2017 17:46:11 [Fail]  ====Failed==== Expected value is:[Document Date] but Actual value is[]. Please check the screenshot with name: AMDocumentDatefor more details</span>
+Mar 21,2017 17:46:11 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\21\AMDocumentDate_CheckpointFailure_03-21-2017 5-46-11 PM.jpg
+Mar 21,2017 17:46:22 [Info]  Verify The data of AMDocumentDesc
+<span style="color:red;">Mar 21,2017 17:46:22 [Fail]  ====Failed==== Expected value is:[Description] but Actual value is[]. Please check the screenshot with name: AMDocumentDescfor more details</span>
+Mar 21,2017 17:46:22 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\21\AMDocumentDesc_CheckpointFailure_03-21-2017 5-46-22 PM.jpg
+Mar 21,2017 17:46:32 [Info]  Verify The data of AMDocumentDesc
+<span style="color:red;">Mar 21,2017 17:46:32 [Fail]  ====Failed==== Expected value is:[Description] but Actual value is[]. Please check the screenshot with name: AMDocumentDescfor more details</span>
+Mar 21,2017 17:46:32 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\21\AMDocumentDesc_CheckpointFailure_03-21-2017 5-46-32 PM.jpg
+Mar 21,2017 17:46:42 [Info]  Verify The data of AMDocumentDesc
+<span style="color:red;">Mar 21,2017 17:46:42 [Fail]  ====Failed==== Expected value is:[Description] but Actual value is[]. Please check the screenshot with name: AMDocumentDescfor more details</span>
+Mar 21,2017 17:46:42 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\21\AMDocumentDesc_CheckpointFailure_03-21-2017 5-46-42 PM.jpg
+Mar 21,2017 17:46:42 [Info]  ****Verifying all the Header's Values are shown orrectly in View Mode After adding the Document****
+Mar 21,2017 17:47:03 [Info]  Verify The data of AMDocumentTypeValue
+<span style="color:red;">Mar 21,2017 17:47:03 [Fail]  ====Failed==== Expected value is:[Amendment] but Actual value is[]. Please check the screenshot with name: AMDocumentTypeValuefor more details</span>
+Mar 21,2017 17:47:03 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\21\AMDocumentTypeValue_CheckpointFailure_03-21-2017 5-47-03 PM.jpg
+Mar 21,2017 17:47:23 [Info]  Verify The data of AMDocumentNameData
+<span style="color:red;">Mar 21,2017 17:47:23 [Fail]  ====Failed==== Expected value is:[AT_Document_Name_001] but Actual value is[]. Please check the screenshot with name: AMDocumentNameDatafor more details</span>
+Mar 21,2017 17:47:23 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\21\AMDocumentNameData_CheckpointFailure_03-21-2017 5-47-23 PM.jpg
+Mar 21,2017 17:47:44 [Info]  Verify The data of AMDocumentDate
+<span style="color:red;">Mar 21,2017 17:47:44 [Fail]  ====Failed==== Expected value is:[31/12/2010] but Actual value is[]. Please check the screenshot with name: AMDocumentDatefor more details</span>
+Mar 21,2017 17:47:44 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\21\AMDocumentDate_CheckpointFailure_03-21-2017 5-47-44 PM.jpg
+Mar 21,2017 17:47:44 [Info]  ******Click on View Button without selecting the row******
+Mar 21,2017 17:47:44 [Info]  Clicked on the 'View Button' using JS Executor
+Mar 21,2017 17:47:45 [Info]  Verify The data of Alert Message on clicking 'View Button'
+<span style="color:green;">Mar 21,2017 17:47:45 [Verification]  Verified that Expected value :[Please select a row which contains document before clicking View Document.] is matched with Actual value :[Please select a row which contains document before clicking View Document.]</span>
+Mar 21,2017 17:47:45 [Info]  Clicked on the 'OK Button at Alert on clicking 'View Button'' using JS Executor
+Mar 21,2017 17:47:45 [Info]  ******Click on Edit Button without selecting the row******
+Mar 21,2017 17:47:45 [Info]  Clicked on the 'Edit Button' using JS Executor
+Mar 21,2017 17:47:46 [Info]  Verify The data of Alert Message on clicking 'View Button'
+<span style="color:green;">Mar 21,2017 17:47:46 [Verification]  Verified that Expected value :[Please select a row which contains document before clicking Edit Profile] is matched with Actual value :[Please select a row which contains document before clicking Edit Profile.]</span>
+Mar 21,2017 17:47:46 [Info]  Clicked on the 'OK Button at Alert on clicking 'View Button'' using JS Executor
+Mar 21,2017 17:47:46 [Info]  ******Click on Edit Document Button and change the data and verify in view mode******
+<span style="color:red;">Mar 21,2017 17:47:59 [Fail]  ====Failed==== "Select the Row in View Mode" field is not present'</span>
+Mar 21,2017 17:48:00 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\21\SelecttheRowinViewMode_CheckpointFailure_03-21-2017 5-47-59 PM.jpg
+Mar 21,2017 17:48:03 [Info]  Clicked on the 'Edit Button' using JS Executor
+<span style="color:red;">Mar 21,2017 17:48:14 [Fail]  ====Failed==== "" is not present in 'Document_AddDoc_DocTypeDropDownDrop Down'</span>
+Mar 21,2017 17:48:14 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\21\Document_AddDoc_DocTypeDropDown_CheckpointFailure_03-21-2017 5-48-14 PM.jpg
+<span style="color:red;">Mar 21,2017 17:48:14 [Fail]  ====Failed==== Expected value is:[] but Actual value is[Select One]. Please check the screenshot with name: for more details</span>
+Mar 21,2017 17:48:14 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\21\Document_AddDoc_DocTypeDropDown_CheckpointFailure_03-21-2017 5-48-14 PM.jpg
+Mar 21,2017 17:48:15 [Info]  Entered "AT_Document_Name_001_Changed" in field 'Document_AddDoc_DocNameField'
+Mar 21,2017 17:48:19 [Info]  Entered "Amendment" in field 'Document Discription'
+Mar 21,2017 17:48:19 [Info]  Clicked on the 'Save Button at 'Add Document Window'' using JS Executor
+<span style="color:red;">Mar 21,2017 17:48:43 [Fail]  ====Failed===="AMDocumentTypeValue" is not Present</span>
+Mar 21,2017 17:48:43 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\21\AMDocumentTypeValue_CheckpointFailure_03-21-2017 5-48-43 PM.jpg
+Mar 21,2017 17:49:04 [Info]  Verify The data of AMDocumentNameData
+<span style="color:red;">Mar 21,2017 17:49:04 [Fail]  ====Failed==== Expected value is:[AT_Document_Name_001_Changed] but Actual value is[]. Please check the screenshot with name: AMDocumentNameDatafor more details</span>
+Mar 21,2017 17:49:04 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\21\AMDocumentNameData_CheckpointFailure_03-21-2017 5-49-04 PM.jpg
+Mar 21,2017 17:49:04 [Info]  ******Click on Remove Button without selecting the row******
+Mar 21,2017 17:49:04 [Info]  Clicked on the 'Delete Document Button' using JS Executor
+Mar 21,2017 17:49:05 [Info]  Verify The data of Alert Message on clicking 'Delete Button'
+<span style="color:green;">Mar 21,2017 17:49:05 [Verification]  Verified that Expected value :[Please select a row before clicking Delete.] is matched with Actual value :[Please select a row before clicking Delete.]</span>
+Mar 21,2017 17:49:05 [Info]  Clicked on the 'OK Button at Alert on clicking 'View Button'' using JS Executor
+Mar 21,2017 17:49:05 [Info]  ******Remove/Delete the Document row******
+<span style="color:red;">Mar 21,2017 17:49:15 [Fail]  ====Failed==== "Select the Row in View Mode" field is not present'</span>
+Mar 21,2017 17:49:15 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\21\SelecttheRowinViewMode_CheckpointFailure_03-21-2017 5-49-15 PM.jpg
+Mar 21,2017 17:49:15 [Info]  Clicked on the 'Delete Document Button' using JS Executor
+Mar 21,2017 17:49:16 [Info]  Verify The data of Alert Message on clicking 'Remove Button'
+<span style="color:red;">Mar 21,2017 17:49:16 [Fail]  ====Failed==== Expected value is:[Are you sure you want to delete the document?] but Actual value is[]. Please check the screenshot with name: Alert Message on clicking 'Remove Button'for more details</span>
+Mar 21,2017 17:49:16 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\21\AlertMessageonclicking'RemoveButton'_CheckpointFailure_03-21-2017 5-49-16 PM.jpg
+Mar 21,2017 17:49:17 [Info]  Clicked on the 'OK Button at Alert on clicking 'View Button'' using JS Executor
+Mar 21,2017 17:49:27 [Info]  "Document Row" is disable or not Present
+Mar 21,2017 17:49:27 [Info]  ******Verify the validation message on uploading 20480 KB file****
+Mar 21,2017 17:49:27 [Info]  Clicked on the 'Document_AddDocumentButton' using JS Executor
+<span style="color:red;">Mar 21,2017 17:49:41 [Fail]  ====Failed==== "Amendment" is not present in 'Document_AddDoc_DocTypeDropDownDrop Down'</span>
+Mar 21,2017 17:49:41 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\21\Document_AddDoc_DocTypeDropDown_CheckpointFailure_03-21-2017 5-49-41 PM.jpg
+<span style="color:red;">Mar 21,2017 17:49:41 [Fail]  ====Failed==== Expected value is:[Amendment] but Actual value is[Select One]. Please check the screenshot with name: Amendmentfor more details</span>
+Mar 21,2017 17:49:41 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\21\Document_AddDoc_DocTypeDropDown_CheckpointFailure_03-21-2017 5-49-41 PM.jpg
+Mar 21,2017 17:49:42 [Info]  Entered "AT_Document_Name_001" in field 'Document_AddDoc_DocNameField'
+Mar 21,2017 17:49:46 [Info]  Entered "31/12/2010" in field 'Document Date'
+Mar 21,2017 17:49:50 [Info]  Entered "Amendment" in field 'Document Discription'
+Mar 21,2017 17:49:53 [Info]  Entered "C:\SeleniumProject\Workspace\RightsLogic\TestUploadFiles\AUTTestFile21MB.bmp" in field 'Upload File 'AUTTestFile21MB.bmp''
+Mar 21,2017 17:49:56 [Info]  Clicked on the 'Save Button at 'Add Document Window'' using JS Executor
+Mar 21,2017 17:49:59 [Info]  Verify The data of 'Add Document' Validation Message
+<span style="color:red;">Mar 21,2017 17:49:59 [Fail]  ====Failed==== Expected value is:[The size of the file you are trying to upload exceeds the threshold limit(900KB).] but Actual value is[  Please select Document Type.  ]. Please check the screenshot with name: 'Add Document' Validation Messagefor more details</span>
+Mar 21,2017 17:49:59 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\21\'AddDocument'ValidationMessage_CheckpointFailure_03-21-2017 5-49-59 PM.jpg
+Mar 21,2017 17:49:59 [Info]  *****Verify the message while uploadiing WinRAR file*****
+Mar 21,2017 17:50:02 [Info]  Entered "C:\SeleniumProject\Workspace\RightsLogic\TestUploadFiles\AUTTestFile900KB.rar" in field 'Upload File 'AUTTestFile21MB.bmp''
+Mar 21,2017 17:50:05 [Info]  Clicked on the 'Save Button at 'Add Document Window'' using JS Executor
+Mar 21,2017 17:50:09 [Info]  Verify The data of 'Add Document' Validation Message
+<span style="color:red;">Mar 21,2017 17:50:09 [Fail]  ====Failed==== Expected value is:[Cannot Upload Document of this Type. The Valid Types are .DOC, .DOCX, .JPEG, .MPEG, .PPT, .PPTX, .TXT, .WMV, .XLS, .XLSX, .PDF, .JPG, .GIF, .RTF, .EML, .BMP only.] but Actual value is[  Please select Document Type.  ]. Please check the screenshot with name: 'Add Document' Validation Messagefor more details</span>
+Mar 21,2017 17:50:09 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\21\'AddDocument'ValidationMessage_CheckpointFailure_03-21-2017 5-50-09 PM.jpg
+Mar 21,2017 17:50:09 [Info]  Test 'TC1_DocumentUI' PASSED
+Mar 21,2017 17:50:10 [Info]  Closed the Browser
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 17:55:51******************</span>
+Mar 21,2017 17:55:51 [Info]  Client: PROSIBIEN
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************</span>
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing 'TC1_DocumentUI' Test Case*********************</span>
+Mar 21,2017 17:56:01 [Info]  Client: PROSIBIEN
+Mar 21,2017 17:56:01 [Info]  URL: http://rlv3wb59/Home.aspx 
+Mar 21,2017 17:56:01 [Info]  UserName: admin
+Mar 21,2017 17:56:01 [Info]  Password: admin
+Mar 21,2017 17:56:02 [Info]  Entered "admin" in field 'User Name'
+Mar 21,2017 17:56:03 [Info]  Clicked on the 'Temporary Check Box'
+Mar 21,2017 17:56:03 [Info]  Entered "admin" in field 'Password'
+Mar 21,2017 17:56:08 [Info]  Clicked on the 'LoginButton'
+Mar 21,2017 17:56:25 [Info]  Clicked on the 'MODULE'
+Mar 21,2017 17:56:33 [Info]  Clicked on the 'Asset Maintenance'
+Mar 21,2017 17:56:44 [Info]  Double clicked on 'AUT_AssetSeries_Doc_TC1_0321201751848AssetName'
+Mar 21,2017 17:56:51 [Info]  Clicked on the 'Documents TAB'
+<span style="color:blue;"> [Manual Test Step]  ***********Verifying AllButtons Present on the Document TAB in view Mode***********</span>
+Mar 21,2017 17:56:52 [Info]  Verify The data of Document_ViewButton
+<span style="color:green;">Mar 21,2017 17:56:52 [Verification]  Verified that Expected value :[View Document] is matched with Actual value :[View Document]</span>
+Mar 21,2017 17:56:52 [Info]  Verify The data of Document_AddDocumentButton
+<span style="color:green;">Mar 21,2017 17:56:52 [Verification]  Verified that Expected value :[Add...] is matched with Actual value :[Add...]</span>
+Mar 21,2017 17:56:53 [Info]  Verify The data of Document_EditProfileButton
+<span style="color:green;">Mar 21,2017 17:56:53 [Verification]  Verified that Expected value :[Edit Profile] is matched with Actual value :[Edit Profile]</span>
+Mar 21,2017 17:56:53 [Info]  Verify The data of Document_DeleteDocumentButton
+<span style="color:green;">Mar 21,2017 17:56:53 [Verification]  Verified that Expected value :[Delete] is matched with Actual value :[Delete]</span>
+Mar 21,2017 17:56:53 [Info]  Verify The data of Applies TO
+<span style="color:green;">Mar 21,2017 17:56:53 [Verification]  Verified that Expected value :[Applies To] is matched with Actual value :[Applies To]</span>
+Mar 21,2017 17:56:53 [Info]  ******Verifying the Fields and Buttons on the Add Document Window******
+Mar 21,2017 17:56:53 [Info]  Clicked on the 'Document_AddDocumentButton' using JS Executor
+Mar 21,2017 17:56:57 [Info]  Verify The data of Document_AddDoc_AppliesToLabel
+<span style="color:green;">Mar 21,2017 17:56:57 [Verification]  Verified that Expected value :[*Applies To] is matched with Actual value :[*Applies To]</span>
+Mar 21,2017 17:56:57 [Info]  Verify The data of Document_AddDoc_DocNameLabel
+<span style="color:green;">Mar 21,2017 17:56:57 [Verification]  Verified that Expected value :[*Document Name] is matched with Actual value :[*Document Name]</span>
+Mar 21,2017 17:56:57 [Info]  Verify The data of Document_AddDoc_DocTypeLabel
+<span style="color:green;">Mar 21,2017 17:56:57 [Verification]  Verified that Expected value :[*Document Type] is matched with Actual value :[*Document Type]</span>
+Mar 21,2017 17:56:57 [Info]  Verify The data of Document_AddDoc_DocDateLabel
+<span style="color:green;">Mar 21,2017 17:56:57 [Verification]  Verified that Expected value :[Document Date] is matched with Actual value :[Document Date]</span>
+Mar 21,2017 17:56:57 [Info]  Verify The data of Document_AddDoc_DescritionLabel
+<span style="color:green;">Mar 21,2017 17:56:57 [Verification]  Verified that Expected value :[Description] is matched with Actual value :[Description]</span>
+Mar 21,2017 17:56:57 [Info]  Verify The data of Document_AddDoc_DocuentUploadLabel
+<span style="color:green;">Mar 21,2017 17:56:57 [Verification]  Verified that Expected value :[*Select File to Upload] is matched with Actual value :[*Select File to Upload]</span>
+Mar 21,2017 17:56:58 [Info]  Verify The data of Save button
+<span style="color:green;">Mar 21,2017 17:56:58 [Verification]  Verified that Expected value :[Save] is matched with Actual value :[Save]</span>
+Mar 21,2017 17:56:58 [Info]  Verify The data of Cancel button
+<span style="color:green;">Mar 21,2017 17:56:58 [Verification]  Verified that Expected value :[Cancel] is matched with Actual value :[Cancel]</span>
+Mar 21,2017 17:56:58 [Info]  *****Verifying all Associated Assets and Episodes are prefixed with 'Ep.'*****
+<span style="color:green;">Mar 21,2017 17:56:58 [Verification]  Verified that Expected value :[AUT_AssetSeries_Doc_TC1_0321201751848] is matched with Actual value :[AUT_AssetSeries_Doc_TC1_0321201751848]</span>
+<span style="color:red;">Mar 21,2017 17:57:08 [Fail]  ====Failed==== "Amendment" is not present in 'Document_AddDoc_DocTypeDropDownDrop Down'</span>
+Mar 21,2017 17:57:08 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\21\Document_AddDoc_DocTypeDropDown_CheckpointFailure_03-21-2017 5-57-08 PM.jpg
+<span style="color:red;">Mar 21,2017 17:57:08 [Fail]  ====Failed==== Expected value is:[Product Placement] but Actual value is[Select One]. Please check the screenshot with name: Product Placementfor more details</span>
+Mar 21,2017 17:57:09 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\21\Document_AddDoc_DocTypeDropDown_CheckpointFailure_03-21-2017 5-57-08 PM.jpg
+Mar 21,2017 17:57:10 [Info]  Entered "Declaration from the Legal HeirDeclaration 1234567890 @#$% @&*" in field 'Document_AddDoc_DocNameField'
+Mar 21,2017 17:57:11 [Info]  Clicked on the 'Outside the Document Name Field'
+Mar 21,2017 17:57:11 [Info]  Verify The data of Alert Message on Entering the invalid Names
+<span style="color:green;">Mar 21,2017 17:57:11 [Verification]  Verified that Expected value :[Please enter a valid file name!] is matched with Actual value :[Please enter a valid file name!]</span>
+Mar 21,2017 17:57:11 [Info]  Clicked on the 'OK Button at Alert on Entering the invalid Names' using JS Executor
+Mar 21,2017 17:57:13 [Info]  Entered "AT_Document_Name_001" in field 'Document_AddDoc_DocNameField'
+Mar 21,2017 17:57:13 [Info]  Clicked on the 'Save Button at 'Add Document Window'' using JS Executor
+Mar 21,2017 17:57:16 [Info]  Verify The data of 'Add Document'Validation Message
+<span style="color:red;">Mar 21,2017 17:57:16 [Fail]  ====Failed==== Expected value is:[Please select a document to upload.] but Actual value is[  Please select Document Type.  ]. Please check the screenshot with name: 'Add Document'Validation Messagefor more details</span>
+Mar 21,2017 17:57:16 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\21\'AddDocument'ValidationMessage_CheckpointFailure_03-21-2017 5-57-16 PM.jpg
+Mar 21,2017 17:57:22 [Info]  Entered "C:\SeleniumProject\Workspace\RightsLogic\TestUploadFiles\AUTTestFile100KB.bmp" in field 'Upload File 'AUTTestFile100KB.bmp''
+Mar 21,2017 17:57:25 [Info]  Entered "31/12/2010" in field 'Document Date'
+Mar 21,2017 17:57:29 [Info]  Entered "Amendment" in field 'Document Discription'
+Mar 21,2017 17:57:29 [Info]  Clicked on the 'Save Button at 'Add Document Window'' using JS Executor
+Mar 21,2017 17:57:32 [Info]  ****Verifying all the Headers Name shown in View Mode After adding the Document****
+Mar 21,2017 17:57:45 [Info]  Verify The data of AMDocumentTypeKey
+<span style="color:red;">Mar 21,2017 17:57:45 [Fail]  ====Failed==== Expected value is:[Document Type] but Actual value is[]. Please check the screenshot with name: AMDocumentTypeKeyfor more details</span>
+Mar 21,2017 17:57:46 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\21\AMDocumentTypeKey_CheckpointFailure_03-21-2017 5-57-45 PM.jpg
+Mar 21,2017 17:57:56 [Info]  Verify The data of AMDocumentName
+<span style="color:red;">Mar 21,2017 17:57:56 [Fail]  ====Failed==== Expected value is:[Document Name] but Actual value is[]. Please check the screenshot with name: AMDocumentNamefor more details</span>
+Mar 21,2017 17:57:56 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\21\AMDocumentName_CheckpointFailure_03-21-2017 5-57-56 PM.jpg
+Mar 21,2017 17:58:06 [Info]  Verify The data of AMDocumentDate
+<span style="color:red;">Mar 21,2017 17:58:06 [Fail]  ====Failed==== Expected value is:[Document Date] but Actual value is[]. Please check the screenshot with name: AMDocumentDatefor more details</span>
+Mar 21,2017 17:58:06 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\21\AMDocumentDate_CheckpointFailure_03-21-2017 5-58-06 PM.jpg
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 18:04:22******************</span>
+Mar 21,2017 18:04:22 [Info]  Client: PROSIBIEN
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************</span>
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing 'TC1_DocumentUI' Test Case*********************</span>
+Mar 21,2017 18:04:32 [Info]  Client: PROSIBIEN
+Mar 21,2017 18:04:32 [Info]  URL: http://rlv3wb59/Home.aspx 
+Mar 21,2017 18:04:32 [Info]  UserName: admin
+Mar 21,2017 18:04:32 [Info]  Password: admin
+Mar 21,2017 18:04:33 [Info]  Entered "admin" in field 'User Name'
+Mar 21,2017 18:04:33 [Info]  Clicked on the 'Temporary Check Box'
+Mar 21,2017 18:04:34 [Info]  Entered "admin" in field 'Password'
+Mar 21,2017 18:04:39 [Info]  Clicked on the 'LoginButton'
+Mar 21,2017 18:04:56 [Info]  Clicked on the 'MODULE'
+Mar 21,2017 18:05:03 [Info]  Clicked on the 'Asset Maintenance'
+Mar 21,2017 18:05:14 [Info]  Double clicked on 'AUT_AssetSeries_Doc_TC1_0321201751848AssetName'
+Mar 21,2017 18:05:21 [Info]  Clicked on the 'Documents TAB'
+<span style="color:blue;"> [Manual Test Step]  ***********Verifying AllButtons Present on the Document TAB in view Mode***********</span>
+Mar 21,2017 18:05:22 [Info]  Verify The data of Document_ViewButton
+<span style="color:green;">Mar 21,2017 18:05:22 [Verification]  Verified that Expected value :[View Document] is matched with Actual value :[View Document]</span>
+Mar 21,2017 18:05:22 [Info]  Verify The data of Document_AddDocumentButton
+<span style="color:green;">Mar 21,2017 18:05:22 [Verification]  Verified that Expected value :[Add...] is matched with Actual value :[Add...]</span>
+Mar 21,2017 18:05:22 [Info]  Verify The data of Document_EditProfileButton
+<span style="color:green;">Mar 21,2017 18:05:22 [Verification]  Verified that Expected value :[Edit Profile] is matched with Actual value :[Edit Profile]</span>
+Mar 21,2017 18:05:22 [Info]  Verify The data of Document_DeleteDocumentButton
+<span style="color:green;">Mar 21,2017 18:05:22 [Verification]  Verified that Expected value :[Delete] is matched with Actual value :[Delete]</span>
+Mar 21,2017 18:05:23 [Info]  Verify The data of Applies TO
+<span style="color:green;">Mar 21,2017 18:05:23 [Verification]  Verified that Expected value :[Applies To] is matched with Actual value :[Applies To]</span>
+Mar 21,2017 18:05:23 [Info]  ******Verifying the Fields and Buttons on the Add Document Window******
+Mar 21,2017 18:05:23 [Info]  Clicked on the 'Document_AddDocumentButton' using JS Executor
+Mar 21,2017 18:05:26 [Info]  Verify The data of Document_AddDoc_AppliesToLabel
+<span style="color:green;">Mar 21,2017 18:05:26 [Verification]  Verified that Expected value :[*Applies To] is matched with Actual value :[*Applies To]</span>
+Mar 21,2017 18:05:26 [Info]  Verify The data of Document_AddDoc_DocNameLabel
+<span style="color:green;">Mar 21,2017 18:05:26 [Verification]  Verified that Expected value :[*Document Name] is matched with Actual value :[*Document Name]</span>
+Mar 21,2017 18:05:27 [Info]  Verify The data of Document_AddDoc_DocTypeLabel
+<span style="color:green;">Mar 21,2017 18:05:27 [Verification]  Verified that Expected value :[*Document Type] is matched with Actual value :[*Document Type]</span>
+Mar 21,2017 18:05:27 [Info]  Verify The data of Document_AddDoc_DocDateLabel
+<span style="color:green;">Mar 21,2017 18:05:27 [Verification]  Verified that Expected value :[Document Date] is matched with Actual value :[Document Date]</span>
+Mar 21,2017 18:05:27 [Info]  Verify The data of Document_AddDoc_DescritionLabel
+<span style="color:green;">Mar 21,2017 18:05:27 [Verification]  Verified that Expected value :[Description] is matched with Actual value :[Description]</span>
+Mar 21,2017 18:05:27 [Info]  Verify The data of Document_AddDoc_DocuentUploadLabel
+<span style="color:green;">Mar 21,2017 18:05:27 [Verification]  Verified that Expected value :[*Select File to Upload] is matched with Actual value :[*Select File to Upload]</span>
+Mar 21,2017 18:05:27 [Info]  Verify The data of Save button
+<span style="color:green;">Mar 21,2017 18:05:27 [Verification]  Verified that Expected value :[Save] is matched with Actual value :[Save]</span>
+Mar 21,2017 18:05:27 [Info]  Verify The data of Cancel button
+<span style="color:green;">Mar 21,2017 18:05:27 [Verification]  Verified that Expected value :[Cancel] is matched with Actual value :[Cancel]</span>
+Mar 21,2017 18:05:27 [Info]  *****Verifying all Associated Assets and Episodes are prefixed with 'Ep.'*****
+<span style="color:green;">Mar 21,2017 18:05:28 [Verification]  Verified that Expected value :[AUT_AssetSeries_Doc_TC1_0321201751848] is matched with Actual value :[AUT_AssetSeries_Doc_TC1_0321201751848]</span>
+Mar 21,2017 18:05:28 [Info]  Selected "Product Placement" in "Document_AddDoc_DocTypeDropDown" drop down
+<span style="color:green;">Mar 21,2017 18:05:28 [Verification]  Verified that Expected value :[Product Placement] is matched with Actual value :[Product Placement]</span>
+Mar 21,2017 18:05:30 [Info]  Entered "Declaration from the Legal HeirDeclaration 1234567890 @#$% @&*" in field 'Document_AddDoc_DocNameField'
+Mar 21,2017 18:05:30 [Info]  Clicked on the 'Outside the Document Name Field'
+Mar 21,2017 18:05:31 [Info]  Verify The data of Alert Message on Entering the invalid Names
+<span style="color:green;">Mar 21,2017 18:05:31 [Verification]  Verified that Expected value :[Please enter a valid file name!] is matched with Actual value :[Please enter a valid file name!]</span>
+Mar 21,2017 18:05:31 [Info]  Clicked on the 'OK Button at Alert on Entering the invalid Names' using JS Executor
+Mar 21,2017 18:05:32 [Info]  Entered "AT_Document_Name_001" in field 'Document_AddDoc_DocNameField'
+Mar 21,2017 18:05:32 [Info]  Clicked on the 'Save Button at 'Add Document Window'' using JS Executor
+Mar 21,2017 18:05:36 [Info]  Verify The data of 'Add Document'Validation Message
+<span style="color:green;">Mar 21,2017 18:05:36 [Verification]  Verified that Expected value :[Please select a document to upload.] is matched with Actual value :[  Please select a document to upload.  ]</span>
+Mar 21,2017 18:05:41 [Info]  Entered "C:\SeleniumProject\Workspace\RightsLogic\TestUploadFiles\AUTTestFile100KB.bmp" in field 'Upload File 'AUTTestFile100KB.bmp''
+Mar 21,2017 18:05:45 [Info]  Entered "31/12/2010" in field 'Document Date'
+Mar 21,2017 18:05:49 [Info]  Entered "Product Placement" in field 'Document Discription'
+Mar 21,2017 18:05:49 [Info]  Clicked on the 'Save Button at 'Add Document Window'' using JS Executor
+Mar 21,2017 18:05:52 [Info]  ****Verifying all the Headers Name shown in View Mode After adding the Document****
+Mar 21,2017 18:05:55 [Info]  Verify The data of AMDocumentTypeKey
+<span style="color:green;">Mar 21,2017 18:05:55 [Verification]  Verified that Expected value :[Document Type] is matched with Actual value :[Document Type]</span>
+Mar 21,2017 18:05:55 [Info]  Verify The data of AMDocumentName
+<span style="color:green;">Mar 21,2017 18:05:55 [Verification]  Verified that Expected value :[Document Name] is matched with Actual value :[Document Name]</span>
+Mar 21,2017 18:05:55 [Info]  Verify The data of AMDocumentDate
+<span style="color:green;">Mar 21,2017 18:05:55 [Verification]  Verified that Expected value :[Document Date] is matched with Actual value :[Document Date]</span>
+Mar 21,2017 18:05:55 [Info]  Verify The data of AMDocumentDesc
+<span style="color:green;">Mar 21,2017 18:05:55 [Verification]  Verified that Expected value :[Description] is matched with Actual value :[Description]</span>
+Mar 21,2017 18:05:56 [Info]  Verify The data of AMDocumentDesc
+<span style="color:green;">Mar 21,2017 18:05:56 [Verification]  Verified that Expected value :[Description] is matched with Actual value :[Description]</span>
+Mar 21,2017 18:05:56 [Info]  Verify The data of AMDocumentDesc
+<span style="color:green;">Mar 21,2017 18:05:56 [Verification]  Verified that Expected value :[Description] is matched with Actual value :[Description]</span>
+Mar 21,2017 18:05:56 [Info]  ****Verifying all the Header's Values are shown orrectly in View Mode After adding the Document****
+Mar 21,2017 18:05:56 [Info]  Verify The data of AMDocumentTypeValue
+<span style="color:green;">Mar 21,2017 18:05:56 [Verification]  Verified that Expected value :[Product Placement] is matched with Actual value :[Product Placement]</span>
+Mar 21,2017 18:05:56 [Info]  Verify The data of AMDocumentNameData
+<span style="color:green;">Mar 21,2017 18:05:56 [Verification]  Verified that Expected value :[AT_Document_Name_001] is matched with Actual value :[AT_Document_Name_001.bmp]</span>
+Mar 21,2017 18:05:56 [Info]  Verify The data of AMDocumentDate
+<span style="color:green;">Mar 21,2017 18:05:56 [Verification]  Verified that Expected value :[31/12/2010] is matched with Actual value :[31/12/2010]</span>
+Mar 21,2017 18:05:56 [Info]  ******Click on View Button without selecting the row******
+Mar 21,2017 18:05:57 [Info]  Clicked on the 'View Button' using JS Executor
+Mar 21,2017 18:05:58 [Info]  Verify The data of Alert Message on clicking 'View Button'
+<span style="color:green;">Mar 21,2017 18:05:58 [Verification]  Verified that Expected value :[Please select a row which contains document before clicking View Document.] is matched with Actual value :[Please select a row which contains document before clicking View Document.]</span>
+Mar 21,2017 18:05:58 [Info]  Clicked on the 'OK Button at Alert on clicking 'View Button'' using JS Executor
+Mar 21,2017 18:05:58 [Info]  ******Click on Edit Button without selecting the row******
+Mar 21,2017 18:05:58 [Info]  Clicked on the 'Edit Button' using JS Executor
+Mar 21,2017 18:05:59 [Info]  Verify The data of Alert Message on clicking 'View Button'
+<span style="color:green;">Mar 21,2017 18:05:59 [Verification]  Verified that Expected value :[Please select a row which contains document before clicking Edit Profile] is matched with Actual value :[Please select a row which contains document before clicking Edit Profile.]</span>
+Mar 21,2017 18:05:59 [Info]  Clicked on the 'OK Button at Alert on clicking 'View Button'' using JS Executor
+Mar 21,2017 18:05:59 [Info]  ******Click on Edit Document Button and change the data and verify in view mode******
+Mar 21,2017 18:06:02 [Info]  Clicked on the 'Select the Row in View Mode' using JS Executor
+Mar 21,2017 18:06:05 [Info]  Clicked on the 'Edit Button' using JS Executor
+<span style="color:red;">Mar 21,2017 18:06:17 [Fail]  ====Failed==== "" is not present in 'Document_AddDoc_DocTypeDropDownDrop Down'</span>
+Mar 21,2017 18:06:17 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\21\Document_AddDoc_DocTypeDropDown_CheckpointFailure_03-21-2017 6-06-17 PM.jpg
+<span style="color:red;">Mar 21,2017 18:06:18 [Fail]  ====Failed==== Expected value is:[] but Actual value is[Product Placement]. Please check the screenshot with name: for more details</span>
+Mar 21,2017 18:06:18 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\21\Document_AddDoc_DocTypeDropDown_CheckpointFailure_03-21-2017 6-06-18 PM.jpg
+Mar 21,2017 18:06:19 [Info]  Entered "AT_Document_Name_001_Changed" in field 'Document_AddDoc_DocNameField'
+Mar 21,2017 18:06:23 [Info]  Entered "Product Placement" in field 'Document Discription'
+Mar 21,2017 18:06:23 [Info]  Clicked on the 'Save Button at 'Add Document Window'' using JS Executor
+<span style="color:red;">Mar 21,2017 18:06:27 [Fail]  ====Failed===="AMDocumentTypeValue" is not Present</span>
+Mar 21,2017 18:06:27 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\21\AMDocumentTypeValue_CheckpointFailure_03-21-2017 6-06-27 PM.jpg
+Mar 21,2017 18:06:27 [Info]  Verify The data of AMDocumentNameData
+<span style="color:green;">Mar 21,2017 18:06:27 [Verification]  Verified that Expected value :[AT_Document_Name_001_Changed] is matched with Actual value :[AT_Document_Name_001_Changed.bmp]</span>
+Mar 21,2017 18:06:27 [Info]  ******Click on Remove Button without selecting the row******
+Mar 21,2017 18:06:27 [Info]  Clicked on the 'Delete Document Button' using JS Executor
+Mar 21,2017 18:06:28 [Info]  Verify The data of Alert Message on clicking 'Delete Button'
+<span style="color:green;">Mar 21,2017 18:06:28 [Verification]  Verified that Expected value :[Please select a row before clicking Delete.] is matched with Actual value :[Please select a row before clicking Delete.]</span>
+Mar 21,2017 18:06:28 [Info]  Clicked on the 'OK Button at Alert on clicking 'View Button'' using JS Executor
+Mar 21,2017 18:06:28 [Info]  ******Remove/Delete the Document row******
+Mar 21,2017 18:06:29 [Info]  Clicked on the 'Select the Row in View Mode'
+Mar 21,2017 18:06:29 [Info]  Clicked on the 'Delete Document Button' using JS Executor
+Mar 21,2017 18:06:30 [Info]  Verify The data of Alert Message on clicking 'Remove Button'
+<span style="color:green;">Mar 21,2017 18:06:30 [Verification]  Verified that Expected value :[Are you sure you want to delete the document?] is matched with Actual value :[Are you sure you want to delete the document?]</span>
+Mar 21,2017 18:06:30 [Info]  Clicked on the 'OK Button at Alert on clicking 'View Button'' using JS Executor
+Mar 21,2017 18:06:42 [Info]  "Document Row" is disable or not Present
+Mar 21,2017 18:06:42 [Info]  ******Verify the validation message on uploading 20480 KB file****
+Mar 21,2017 18:06:42 [Info]  Clicked on the 'Document_AddDocumentButton' using JS Executor
+Mar 21,2017 18:06:46 [Info]  Selected "Product Placement" in "Document_AddDoc_DocTypeDropDown" drop down
+<span style="color:green;">Mar 21,2017 18:06:46 [Verification]  Verified that Expected value :[Product Placement] is matched with Actual value :[Product Placement]</span>
+Mar 21,2017 18:06:47 [Info]  Entered "AT_Document_Name_001" in field 'Document_AddDoc_DocNameField'
+Mar 21,2017 18:06:51 [Info]  Entered "31/12/2010" in field 'Document Date'
+Mar 21,2017 18:06:54 [Info]  Entered "Product Placement" in field 'Document Discription'
+Mar 21,2017 18:06:57 [Info]  Entered "C:\SeleniumProject\Workspace\RightsLogic\TestUploadFiles\AUTTestFile21MB.bmp" in field 'Upload File 'AUTTestFile21MB.bmp''
+Mar 21,2017 18:07:00 [Info]  Clicked on the 'Save Button at 'Add Document Window'' using JS Executor
+Mar 21,2017 18:07:03 [Info]  Verify The data of 'Add Document' Validation Message
+<span style="color:green;">Mar 21,2017 18:07:03 [Verification]  Verified that Expected value :[The size of the file you are trying to upload exceeds the threshold limit(900KB).] is matched with Actual value :[  The size of the file you are trying to upload exceeds the threshold limit(900KB).]</span>
+Mar 21,2017 18:07:03 [Info]  *****Verify the message while uploadiing WinRAR file*****
+Mar 21,2017 18:07:06 [Info]  Entered "C:\SeleniumProject\Workspace\RightsLogic\TestUploadFiles\AUTTestFile900KB.rar" in field 'Upload File 'AUTTestFile21MB.bmp''
+Mar 21,2017 18:07:09 [Info]  Clicked on the 'Save Button at 'Add Document Window'' using JS Executor
+Mar 21,2017 18:07:13 [Info]  Verify The data of 'Add Document' Validation Message
+<span style="color:red;">Mar 21,2017 18:07:13 [Fail]  ====Failed==== Expected value is:[Cannot Upload Document of this Type. The Valid Types are .DOC, .DOCX, .JPEG, .MPEG, .PPT, .PPTX, .TXT, .WMV, .XLS, .XLSX, .PDF, .JPG, .GIF, .RTF, .EML, .BMP only.] but Actual value is[Cannot Upload Document of this Type. The Valid Types are .DOC, .DOCX, .JPEG, .MPEG, .PPT, .PPTX, .TXT, .WMV, .XLS, .XLSX, .PDF, .JPG, .GIF, .RTF, .MSG, .TIF, .VSD, .EML, .BMP only.]. Please check the screenshot with name: 'Add Document' Validation Messagefor more details</span>
+Mar 21,2017 18:07:13 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\21\'AddDocument'ValidationMessage_CheckpointFailure_03-21-2017 6-07-13 PM.jpg
+Mar 21,2017 18:07:13 [Info]  Test 'TC1_DocumentUI' PASSED
+Mar 21,2017 18:07:14 [Info]  Closed the Browser
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 18:32:24******************</span>
+Mar 21,2017 18:32:24 [Info]  Client: PROSIBIEN
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************</span>
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing 'TC2_DocumentTAB_AcrossEpisodesAsset' Test Case*********************</span>
+Mar 21,2017 18:32:34 [Info]  Client: PROSIBIEN
+Mar 21,2017 18:32:34 [Info]  URL: http://rlv3wb59/Home.aspx 
+Mar 21,2017 18:32:34 [Info]  UserName: admin
+Mar 21,2017 18:32:34 [Info]  Password: admin
+Mar 21,2017 18:32:35 [Info]  Entered "admin" in field 'User Name'
+Mar 21,2017 18:32:35 [Info]  Clicked on the 'Temporary Check Box'
+Mar 21,2017 18:32:36 [Info]  Entered "admin" in field 'Password'
+Mar 21,2017 18:32:41 [Info]  Clicked on the 'LoginButton'
+<span style="color:blue;"> [Manual Test Step]  ************************Started Creating Asset of Type: Program - Series************************</span>
+Mar 21,2017 18:32:59 [Info]  Clicked on the 'MODULE'
+Mar 21,2017 18:33:06 [Info]  Clicked on the 'Asset Maintenance'
+Mar 21,2017 18:33:17 [Info]  Clicked on the 'New Button' using JS Executor
+Mar 21,2017 18:33:17 [Info]  Clicked on the 'Program' using JS Executor
+Mar 21,2017 18:33:27 [Info]  Clicked on the 'General TAB'
+Mar 21,2017 18:33:29 [Info]  Selected "Program - Series" in "AssetTypeDropDown" drop down
+Mar 21,2017 18:33:34 [Info]  Entered "AUT_AssetSeries_Doc_TC2_0321201751848" in field 'AssetTitle'
+Mar 21,2017 18:33:34 [Info]  Clicked on the 'Vendor Img Icon' using JS Executor
+Mar 21,2017 18:33:37 [Info]  Entered "AUT_PRO_Vendor1" in field 'SearchvalueVendor'
+Mar 21,2017 18:33:39 [Info]  Clicked on the 'VendorWindowButtonfind' using JS Executor
+Mar 21,2017 18:33:44 [Info]  Clicked on the 'VendorName At VendorWindow'
+Mar 21,2017 18:33:44 [Info]  Clicked on the 'Vendor Select Button' using JS Executor
+Mar 21,2017 18:33:47 [Info]  Verify The data of Vendor1
+<span style="color:green;">Mar 21,2017 18:33:47 [Verification]  Verified that Expected value :[AUT_PRO_Vendor1] is matched with Actual value :[AUT_PRO_Vendor1]</span>
+Mar 21,2017 18:33:48 [Info]  Clicked on the 'SBUImage' using JS Executor
+Mar 21,2017 18:33:49 [Info]  Verify The data of SBU Window/Owner Channel Header
+<span style="color:green;">Mar 21,2017 18:33:49 [Verification]  Verified that Expected value :[Source Business Unit Template] is matched with Actual value :[Source Business Unit Template]</span>
+Mar 21,2017 18:33:56 [Info]  Clicked on the 'First CheckBox At SBU window'
+Mar 21,2017 18:33:58 [Info]  Clicked on the 'Apply Button' using JS Executor
+Mar 21,2017 18:33:59 [Info]  Entered "11:11:11" in field 'Duration'
+Mar 21,2017 18:34:10 [Info]  Selected "Scripted" in "Asset Format" drop down
+Mar 21,2017 18:34:10 [Info]  Selected "Licensed Acquired" in "Asset Source" drop down
+Mar 21,2017 18:34:11 [Info]  Selected "Spielfilm" in "Asset Category/Group" drop down
+Mar 21,2017 18:34:12 [Info]  Entered "AUT_Series" in field 'Short Name'
+Mar 21,2017 18:34:12 [Info]  Clicked on the 'Save Button' using JS Executor
+Mar 21,2017 18:34:18 [Info]  Verify The data of Created AssetAUT_AssetSeries_Doc_TC2_0321201751848
+<span style="color:green;">Mar 21,2017 18:34:18 [Verification]  Verified that Expected value :[AUT_AssetSeries_Doc_TC2_0321201751848] is matched with Actual value :[AUT_AssetSeries_Doc_TC2_0321201751848]</span>
+<span style="color:blue;"> [Manual Test Step]  ************************Created Asset of TypeProgram - Series************************</span>
+Mar 21,2017 18:34:28 [Info]  Clicked on the 'MODULE'
+Mar 21,2017 18:34:35 [Info]  Clicked on the 'Asset Maintenance'
+Mar 21,2017 18:34:46 [Info]  Double clicked on 'AUT_AssetSeries_Doc_TC2_0321201751848AssetName'
+Mar 21,2017 18:34:57 [Info]  Clicked on the 'Episodes TAB'
+Mar 21,2017 18:35:01 [Info]  Clicked on the ''Edit' Button at Episode window' using JS Executor
+Mar 21,2017 18:35:05 [Info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Mar 21,2017 18:35:06 [Info]  Entered "101" in field 'Add Episode input field'
+Mar 21,2017 18:35:06 [Info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Mar 21,2017 18:35:14 [Info]  Clicked on the 'Season Field of Episode101' using JS Executor
+Mar 21,2017 18:35:14 [Info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Mar 21,2017 18:35:14 [Info]  Clicked on the 'Season 1'
+Mar 21,2017 18:35:15 [Info]  Clicked on the 'Support click to select season'
+Mar 21,2017 18:35:15 [Info]  Entered "00:30:00" in field 'duration Program'
+Mar 21,2017 18:35:15 [Info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Mar 21,2017 18:35:17 [Info]  Entered "102" in field 'Add Episode input field'
+Mar 21,2017 18:35:17 [Info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Mar 21,2017 18:35:24 [Info]  Clicked on the 'Season Field of Episode101' using JS Executor
+Mar 21,2017 18:35:25 [Info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Mar 21,2017 18:35:25 [Info]  Clicked on the 'Season 1'
+Mar 21,2017 18:35:26 [Info]  Clicked on the 'Support click to select season'
+Mar 21,2017 18:35:26 [Info]  Entered "00:30:00" in field 'duration Program'
+Mar 21,2017 18:35:26 [Info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Mar 21,2017 18:35:28 [Info]  Entered "201" in field 'Add Episode input field'
+Mar 21,2017 18:35:28 [Info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Mar 21,2017 18:35:36 [Info]  Clicked on the 'Season Field of Episode101' using JS Executor
+Mar 21,2017 18:35:36 [Info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Mar 21,2017 18:35:36 [Info]  Clicked on the 'Season 1'
+Mar 21,2017 18:35:37 [Info]  Clicked on the 'Support click to select season'
+Mar 21,2017 18:35:37 [Info]  Entered "00:30:00" in field 'duration Program'
+Mar 21,2017 18:35:37 [Info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Mar 21,2017 18:35:39 [Info]  Entered "202" in field 'Add Episode input field'
+Mar 21,2017 18:35:39 [Info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Mar 21,2017 18:35:47 [Info]  Clicked on the 'Season Field of Episode101' using JS Executor
+Mar 21,2017 18:35:47 [Info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Mar 21,2017 18:35:48 [Info]  Clicked on the 'Season 1'
+Mar 21,2017 18:35:48 [Info]  Clicked on the 'Support click to select season'
+Mar 21,2017 18:35:49 [Info]  Entered "00:30:00" in field 'duration Program'
+Mar 21,2017 18:35:52 [Info]  Clicked on the 'Save Button at 'Episode Edit Window'' using JS Executor
+Mar 21,2017 18:35:59 [Info]  Clicked on the 'Close Button at 'Episode Edit Window'' using JS Executor
+Mar 21,2017 18:36:16 [Info]  Clicked on the 'MODULE'
+Mar 21,2017 18:36:23 [Info]  Clicked on the 'Asset Maintenance'
+Mar 21,2017 18:36:34 [Info]  Clicked on the 'Search Menu Icon' using JS Executor
+Mar 21,2017 18:36:34 [Info]  Clicked on the 'Asset Under Asset Search' using JS Executor
+Mar 21,2017 18:38:12 [Info]  Test 'TC2_DocumentTAB_AcrossEpisodesAsset' FAILED
+Mar 21,2017 18:38:12 [Info]  2
+Mar 21,2017 18:38:12 [Info]  Test Case :TC2_DocumentTAB_AcrossEpisodesAsset's Screenshot of Failure Page: 
+C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\21\TC2_DocumentTAB_AcrossEpisodesAsset_03-21-2017 6-38-12 PM.jpg
+Mar 21,2017 18:38:13 [Info]  Closed the Browser
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 18:47:45******************</span>
+Mar 21,2017 18:47:45 [Info]  Client: PROSIBIEN
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************</span>
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing 'TC2_DocumentTAB_AcrossEpisodesAsset' Test Case*********************</span>
+Mar 21,2017 18:47:55 [Info]  Client: PROSIBIEN
+Mar 21,2017 18:47:55 [Info]  URL: http://rlv3wb59/Home.aspx 
+Mar 21,2017 18:47:55 [Info]  UserName: admin
+Mar 21,2017 18:47:55 [Info]  Password: admin
+Mar 21,2017 18:47:56 [Info]  Entered "admin" in field 'User Name'
+Mar 21,2017 18:47:57 [Info]  Clicked on the 'Temporary Check Box'
+Mar 21,2017 18:47:57 [Info]  Entered "admin" in field 'Password'
+Mar 21,2017 18:48:02 [Info]  Clicked on the 'LoginButton'
+Mar 21,2017 18:48:19 [Info]  Clicked on the 'MODULE'
+Mar 21,2017 18:48:27 [Info]  Clicked on the 'Asset Maintenance'
+Mar 21,2017 18:48:38 [Info]  Double clicked on 'AUT_AssetSeries_Doc_TC2_0321201751848AssetName'
+Mar 21,2017 18:48:45 [Info]  Clicked on the 'Documents TAB'
+Mar 21,2017 18:48:45 [Info]  ******Add the Document Row****
+Mar 21,2017 18:48:45 [Info]  Clicked on the 'Document_AddDocumentButton' using JS Executor
+Mar 21,2017 18:48:49 [Info]  Selected "Product Placement" in "Document_AddDoc_DocTypeDropDown" drop down
+<span style="color:green;">Mar 21,2017 18:48:49 [Verification]  Verified that Expected value :[Product Placement] is matched with Actual value :[Product Placement]</span>
+Mar 21,2017 18:48:50 [Info]  Entered "AT_Document_Name_001" in field 'Document_AddDoc_DocNameField'
+Mar 21,2017 18:48:54 [Info]  Entered "31/12/2010" in field 'Document Date'
+Mar 21,2017 18:49:04 [Info]  Entered "Product Placement" in field 'Document Discription'
+Mar 21,2017 18:49:06 [Info]  Entered "C:\SeleniumProject\Workspace\RightsLogic\TestUploadFiles\AUTTestFile100KB.bmp" in field 'Upload File 'AUTTestFile100KB.bmp''
+Mar 21,2017 18:49:10 [Info]  Clicked on the 'Save Button at 'Add Document Window'' using JS Executor
+Mar 21,2017 18:49:13 [Info]  ****Verifying all the Header's Values are shown orrectly in View Mode After adding the Document****
+Mar 21,2017 18:49:14 [Info]  Verify The data of AMDocumentTypeValue
+<span style="color:green;">Mar 21,2017 18:49:14 [Verification]  Verified that Expected value :[Product Placement] is matched with Actual value :[Product Placement]</span>
+Mar 21,2017 18:49:14 [Info]  Verify The data of AMDocumentNameData
+<span style="color:green;">Mar 21,2017 18:49:14 [Verification]  Verified that Expected value :[AT_Document_Name_001] is matched with Actual value :[AT_Document_Name_001.bmp]</span>
+Mar 21,2017 18:49:14 [Info]  Verify The data of AMDocumentDate
+<span style="color:green;">Mar 21,2017 18:49:14 [Verification]  Verified that Expected value :[31/12/2010] is matched with Actual value :[31/12/2010]</span>
+Mar 21,2017 18:49:14 [Info]  
+Mar 21,2017 18:49:14 [Info]  *******Verify the Document details for Ep.101: Episode101*******
+Mar 21,2017 18:49:14 [Info]  Clicked on the 'Asset Navigator' using JS Executor
+Mar 21,2017 18:49:16 [Info]  Clicked on the 'Select Ep.101: Episode101 at Asset Navigator'
+Mar 21,2017 18:49:16 [Info]  Double clicked on 'Select Ep.101: Episode101 at Asset Navigator'
+Mar 21,2017 18:49:29 [Info]  Verify The data of Created Asset At Home
+<span style="color:green;">Mar 21,2017 18:49:29 [Verification]  Verified that Expected value :[Episode101] is matched with Actual value :[Episode101]</span>
+Mar 21,2017 18:49:31 [Info]  Clicked on the 'Documents TAB'
+Mar 21,2017 18:49:31 [Info]  ****Verifying all the Header's Values are shown correctly in View Mode For Episode101****
+Mar 21,2017 18:49:32 [Info]  Verify The data of AMDocumentTypeValue
+<span style="color:green;">Mar 21,2017 18:49:32 [Verification]  Verified that Expected value :[Product Placement] is matched with Actual value :[Product Placement]</span>
+Mar 21,2017 18:49:32 [Info]  Verify The data of AMDocumentNameData
+<span style="color:green;">Mar 21,2017 18:49:32 [Verification]  Verified that Expected value :[AT_Document_Name_001] is matched with Actual value :[AT_Document_Name_001.bmp]</span>
+Mar 21,2017 18:49:32 [Info]  Verify The data of AMDocumentDate
+<span style="color:green;">Mar 21,2017 18:49:32 [Verification]  Verified that Expected value :[31/12/2010] is matched with Actual value :[31/12/2010]</span>
+Mar 21,2017 18:49:32 [Info]  
+Mar 21,2017 18:49:32 [Info]  *******Verify the Document details for Ep.102: Episode102*******
+Mar 21,2017 18:49:32 [Info]  Clicked on the 'Asset Navigator' using JS Executor
+Mar 21,2017 18:49:34 [Info]  Clicked on the 'Select Ep.102: Episode102 at Asset Navigator'
+Mar 21,2017 18:49:34 [Info]  Double clicked on 'Select Ep.102: Episode102 at Asset Navigator'
+Mar 21,2017 18:49:47 [Info]  Verify The data of Created Asset At Home
+<span style="color:green;">Mar 21,2017 18:49:47 [Verification]  Verified that Expected value :[Episode102] is matched with Actual value :[Episode102]</span>
+Mar 21,2017 18:49:49 [Info]  Clicked on the 'Documents TAB'
+Mar 21,2017 18:49:49 [Info]  ****Verifying all the Header's Values are shown correctly in View Mode For Episode102****
+Mar 21,2017 18:49:49 [Info]  Verify The data of AMDocumentTypeValue
+<span style="color:green;">Mar 21,2017 18:49:49 [Verification]  Verified that Expected value :[Product Placement] is matched with Actual value :[Product Placement]</span>
+Mar 21,2017 18:49:50 [Info]  Verify The data of AMDocumentNameData
+<span style="color:green;">Mar 21,2017 18:49:50 [Verification]  Verified that Expected value :[AT_Document_Name_001] is matched with Actual value :[AT_Document_Name_001.bmp]</span>
+Mar 21,2017 18:49:50 [Info]  Verify The data of AMDocumentDate
+<span style="color:green;">Mar 21,2017 18:49:50 [Verification]  Verified that Expected value :[31/12/2010] is matched with Actual value :[31/12/2010]</span>
+Mar 21,2017 18:49:50 [Info]  
+Mar 21,2017 18:49:50 [Info]  *******Verify the Document details for Ep.201: Episode201*******
+Mar 21,2017 18:49:50 [Info]  Clicked on the 'Asset Navigator' using JS Executor
+Mar 21,2017 18:49:52 [Info]  Clicked on the 'Select Ep.201: Episode201 at Asset Navigator'
+Mar 21,2017 18:49:52 [Info]  Double clicked on 'Select Ep.201: Episode201 at Asset Navigator'
+Mar 21,2017 18:50:05 [Info]  Verify The data of Created Asset At Home
+<span style="color:green;">Mar 21,2017 18:50:05 [Verification]  Verified that Expected value :[Episode201] is matched with Actual value :[Episode201]</span>
+Mar 21,2017 18:50:07 [Info]  Clicked on the 'Documents TAB'
+Mar 21,2017 18:50:07 [Info]  ****Verifying all the Header's Values are shown correctly in View Mode For Episode201****
+Mar 21,2017 18:50:07 [Info]  Verify The data of AMDocumentTypeValue
+<span style="color:green;">Mar 21,2017 18:50:07 [Verification]  Verified that Expected value :[Product Placement] is matched with Actual value :[Product Placement]</span>
+Mar 21,2017 18:50:07 [Info]  Verify The data of AMDocumentNameData
+<span style="color:green;">Mar 21,2017 18:50:07 [Verification]  Verified that Expected value :[AT_Document_Name_001] is matched with Actual value :[AT_Document_Name_001.bmp]</span>
+Mar 21,2017 18:50:08 [Info]  Verify The data of AMDocumentDate
+<span style="color:green;">Mar 21,2017 18:50:08 [Verification]  Verified that Expected value :[31/12/2010] is matched with Actual value :[31/12/2010]</span>
+Mar 21,2017 18:50:08 [Info]  
+Mar 21,2017 18:50:08 [Info]  *******Verify the Document details for Ep.202: Episode202*******
+Mar 21,2017 18:50:08 [Info]  Clicked on the 'Asset Navigator' using JS Executor
+Mar 21,2017 18:50:10 [Info]  Clicked on the 'Select Ep.202: Episode202 at Asset Navigator'
+Mar 21,2017 18:50:10 [Info]  Double clicked on 'Select Ep.202: Episode202 at Asset Navigator'
+Mar 21,2017 18:50:23 [Info]  Verify The data of Created Asset At Home
+<span style="color:green;">Mar 21,2017 18:50:23 [Verification]  Verified that Expected value :[Episode202] is matched with Actual value :[Episode202]</span>
+Mar 21,2017 18:50:25 [Info]  Clicked on the 'Documents TAB'
+Mar 21,2017 18:50:25 [Info]  ****Verifying all the Header's Values are shown correctly in View Mode For Episode202****
+Mar 21,2017 18:50:25 [Info]  Verify The data of AMDocumentTypeValue
+<span style="color:green;">Mar 21,2017 18:50:25 [Verification]  Verified that Expected value :[Product Placement] is matched with Actual value :[Product Placement]</span>
+Mar 21,2017 18:50:25 [Info]  Verify The data of AMDocumentNameData
+<span style="color:green;">Mar 21,2017 18:50:25 [Verification]  Verified that Expected value :[AT_Document_Name_001] is matched with Actual value :[AT_Document_Name_001.bmp]</span>
+Mar 21,2017 18:50:26 [Info]  Verify The data of AMDocumentDate
+<span style="color:green;">Mar 21,2017 18:50:26 [Verification]  Verified that Expected value :[31/12/2010] is matched with Actual value :[31/12/2010]</span>
+Mar 21,2017 18:50:26 [Info]  Test 'TC2_DocumentTAB_AcrossEpisodesAsset' PASSED
+Mar 21,2017 18:50:27 [Info]  Closed the Browser

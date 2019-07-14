@@ -1,0 +1,1583 @@
+Jan 18,2017 11:28:13 [info]  ********************Started Executiong the Test Suite at 11:28:13******************
+Jan 18,2017 11:28:13 [info]  Client: VMN
+Jan 18,2017 11:28:13 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Jan 18,2017 11:28:13 [info]  *********************Started Executing 'createData' Test Case*********************
+Jan 18,2017 11:28:24 [info]  Client: VMN
+Jan 18,2017 11:28:24 [info]  URL: http://cgptwb01/Home.aspx
+Jan 18,2017 11:28:24 [info]  UserName: admin
+Jan 18,2017 11:28:24 [info]  Password: admin1
+Jan 18,2017 11:28:27 [info]  Entered "admin" in field 'User Name'
+Jan 18,2017 11:28:27 [info]  Clicked on the 'Temporary Check Box'
+Jan 18,2017 11:28:28 [info]  Entered "admin1" in field 'Password'
+Jan 18,2017 11:28:40 [info]  Clicked on the 'LoginButton'
+Jan 18,2017 11:28:47 [info]  ************************Started Creating Asset of Type: Program - Series************************
+Jan 18,2017 11:28:50 [info]  Clicked on the 'MODULE'
+Jan 18,2017 11:28:58 [info]  Clicked on the 'Property Entry & Maintenance'
+Jan 18,2017 11:29:04 [info]  Clicked on the 'SearchLink' using JS Executor
+Jan 18,2017 11:29:09 [info]  Clicked on the 'Property Search' using JS Executor
+Jan 18,2017 11:29:15 [info]  Clicked on the 'TR_Asset_Search_Params' using JS Executor
+Jan 18,2017 11:29:16 [info]  Entered "AUT_AssetSeries_TC3_01182017112813" in field 'Asset Title'
+Jan 18,2017 11:29:22 [info]  Clicked on the 'Find Button' using JS Executor
+Jan 18,2017 11:29:28 [info]  Verify The data of Alert Message
+<span style="color:green;">Jan 18,2017 11:29:28 [info]  Verified that Expected value :[No search results were found for this query. Please try again using different criteria.] is matched with Actual value :[No search results were found for this query. Please try again using different criteria.]</span>
+Jan 18,2017 11:29:28 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Jan 18,2017 11:29:28 [info]  Clicked on the 'Ok button At Alert' using JS Executor
+Jan 18,2017 11:29:34 [info]  Clicked on the 'Add Asset Button' using JS Executor
+Jan 18,2017 11:29:38 [info]  Selected "Program" in "AssetTypeDropDown Pop upn VMN" drop down
+Jan 18,2017 11:29:49 [info]  Clicked on the 'OK Button'
+Jan 18,2017 11:29:55 [info]  Asset id is 189386
+Jan 18,2017 11:30:05 [info]  Selected "Program - Series" in "AssetTypeDropDown" drop down
+Jan 18,2017 11:30:09 [info]  Entered "AUT_AssetSeries_TC3_01182017112813" in field 'AssetTitle'
+Jan 18,2017 11:30:09 [info]  Clicked on the 'IPImageIcon' using JS Executor
+Jan 18,2017 11:30:10 [info]  Clicked on the 'Find Button' using JS Executor
+Jan 18,2017 11:30:13 [info]  Clicked on the 'loc_IPName_AT_IPWindow'
+Jan 18,2017 11:30:13 [info]  Clicked on the 'IP Select Button' using JS Executor
+Jan 18,2017 11:30:15 [info]  Clicked on the 'Vendor Img Icon' using JS Executor
+Jan 18,2017 11:30:15 [info]  Entered "AUT_VMN_Vendor1" in field 'SearchvalueVendor'
+Jan 18,2017 11:30:27 [info]  Clicked on the 'VendorWindowButtonfind' using JS Executor
+Jan 18,2017 11:30:33 [info]  Clicked on the 'VendorName At VendorWindow'
+Jan 18,2017 11:30:33 [info]  Clicked on the 'Vendor Select Button' using JS Executor
+Jan 18,2017 11:30:37 [info]  Verify The data of Vendor1
+<span style="color:green;">Jan 18,2017 11:30:37 [info]  Verified that Expected value :[AUT_VMN_Vendor1] is matched with Actual value :[AUT_VMN_Vendor1]</span>
+Jan 18,2017 11:30:38 [info]  Clicked on the 'StudioImageIcon' using JS Executor
+<span style="color:green;">Jan 18,2017 11:30:38 [info]  Verified that Expected value :[Select Copyright Owner] is matched with Actual value :[Select Copyright Owner]</span>
+Jan 18,2017 11:30:38 [info]  Entered "AUT_VMN_Studio" in field 'Studio Name'
+Jan 18,2017 11:30:48 [info]  Clicked on the 'Find Button' using JS Executor
+Jan 18,2017 11:30:56 [info]  Clicked on the 'VendorName At VendorWindow'
+Jan 18,2017 11:30:56 [info]  Clicked on the 'Vendor Select Button' using JS Executor
+Jan 18,2017 11:30:59 [info]  Verify The data of Studio/Vendor2
+<span style="color:green;">Jan 18,2017 11:30:59 [info]  Verified that Expected value :[AUT_VMN_Studio] is matched with Actual value :[AUT_VMN_Studio]</span>
+Jan 18,2017 11:31:01 [info]  Clicked on the 'SBUImage' using JS Executor
+<span style="color:green;">Jan 18,2017 11:31:01 [info]  Verified that Expected value :[Channel / Entity Template] is matched with Actual value :[Channel / Entity Template]</span>
+Jan 18,2017 11:31:07 [info]  Clicked on the 'First CheckBox At SBU window'
+Jan 18,2017 11:31:09 [info]  Clicked on the 'Apply Button' using JS Executor
+Jan 18,2017 11:31:10 [info]  Entered "11:11:11" in field 'Duration'
+Jan 18,2017 11:31:40 [info]  Selected "Active Production" in "Asset Status" drop down
+Jan 18,2017 11:31:40 [info]  Selected "Animated" in "Asset Format" drop down
+Jan 18,2017 11:31:40 [info]  Selected "Co-Production" in "Asset Source" drop down
+Jan 18,2017 11:31:40 [info]  Selected "Television" in "Asset Category/Group" drop down
+Jan 18,2017 11:31:40 [info]  Entered "" in field 'ProjectID'
+Jan 18,2017 11:31:41 [info]  Selected "TBD" in "Client Group" drop down
+Jan 18,2017 11:31:41 [info]  Selected "In Progress" in "PROD Contract Entry/AssetData Status" drop down
+Jan 18,2017 11:31:41 [info]  Clicked on the 'Save Button' using JS Executor
+<span style="color:green;">Jan 18,2017 11:31:58 [info]  Verified that Expected value :[AUT_AssetSeries_TC3_01182017112813] is matched with Actual value :[AUT_AssetSeries_TC3_01182017112813]</span>
+Jan 18,2017 11:31:58 [info]  ************************Created Asset of TypeProgram - Series************************
+Jan 18,2017 11:32:02 [info]  Clicked on the 'MODULE'
+Jan 18,2017 11:32:05 [info]  Clicked on the 'Property Entry & Maintenance'
+Jan 18,2017 11:32:08 [info]  Clicked on the 'Search Icon' using JS Executor
+Jan 18,2017 11:32:10 [info]  Clicked on the 'Property Search' using JS Executor
+Jan 18,2017 11:32:18 [info]  Entered "AUT_AssetSeries_TC2_01182017112813" in field 'AssetTitle'
+Jan 18,2017 11:32:21 [info]  Clicked on the 'Find Button' using JS Executor
+Jan 18,2017 11:34:11 [info]  Test 'createData' FAILED
+Jan 18,2017 11:34:11 [info]  2
+Jan 18,2017 11:34:11 [info]  Test Case :createData's Screenshot of Failure Page: C:\Screenshots\Jan2017\\18\createData_01-18-2017 11-34-11 AM.jpg
+Jan 18,2017 11:34:12 [info]  Closed the Browser
+Jan 18,2017 12:07:41 [info]  ********************Started Executiong the Test Suite at 12:07:41******************
+Jan 18,2017 12:07:41 [info]  Client: VMN
+Jan 18,2017 12:07:41 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Jan 18,2017 12:07:41 [info]  *********************Started Executing 'TC1_UI_Verification' Test Case*********************
+Jan 18,2017 12:07:52 [info]  Client: VMN
+Jan 18,2017 12:07:52 [info]  URL: http://cgptwb01/Home.aspx
+Jan 18,2017 12:07:52 [info]  UserName: admin
+Jan 18,2017 12:07:52 [info]  Password: admin1
+Jan 18,2017 12:07:54 [info]  Entered "admin" in field 'User Name'
+Jan 18,2017 12:07:55 [info]  Clicked on the 'Temporary Check Box'
+Jan 18,2017 12:07:55 [info]  Entered "admin1" in field 'Password'
+Jan 18,2017 12:08:05 [info]  Clicked on the 'LoginButton'
+Jan 18,2017 12:08:23 [info]  
+Jan 18,2017 12:08:23 [info]  Manual Test Step : TC_RI_TE1_1
+Jan 18,2017 12:08:30 [info]  
+Jan 18,2017 12:08:30 [info]  Manual Test Step : TC_1
+Jan 18,2017 12:08:30 [info]  Clicked on the 'Tracking Events TAB'
+Jan 18,2017 12:08:34 [info]  Verify The data of RI_TrackEvents_EventGroup
+<span style="color:green;">Jan 18,2017 12:08:34 [info]  Verified that Expected value :[Event Group] is matched with Actual value :[Event Group]</span>
+Jan 18,2017 12:08:34 [info]  Verify The data of RI_TrackEvents_Note
+<span style="color:green;">Jan 18,2017 12:08:34 [info]  Verified that Expected value :[Notes] is matched with Actual value :[Notes]</span>
+Jan 18,2017 12:08:34 [info]  Verify Default Value of Event Name Field in View Mode
+Jan 18,2017 12:08:34 [info]  Verify The data of Default Event Group Name
+<span style="color:green;">Jan 18,2017 12:08:34 [info]  Verified that Expected value :[Universal Events] is matched with Actual value :[Universal Events]</span>
+Jan 18,2017 12:08:34 [info]  Verify The data of Default value in Event Name
+<span style="color:red;">Jan 18,2017 12:08:34 [info]  ====Failed==== Expected value is:[Completion of Principal Photography] but Actual value is[Initial Exhibition of the Last Episode (calc.)]. Please check the screenshot with name: Default value in Event Namefor more details</span>
+Jan 18,2017 12:08:35 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Jan2017\\18\Default value in Event Name_CheckpointFailure_01-18-2017 12-08-34 PM.jpg
+Jan 18,2017 12:08:35 [info]  Verify The data of Default value in Event Name
+<span style="color:red;">Jan 18,2017 12:08:35 [info]  ====Failed==== Expected value is:[Delivery Date] but Actual value is[Commencement of Principal Photography]. Please check the screenshot with name: Default value in Event Namefor more details</span>
+Jan 18,2017 12:08:35 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Jan2017\\18\Default value in Event Name_CheckpointFailure_01-18-2017 12-08-35 PM.jpg
+Jan 18,2017 12:08:35 [info]  Verify The data of Default value in Event Name
+<span style="color:red;">Jan 18,2017 12:08:35 [info]  ====Failed==== Expected value is:[Delivery of final and complete materials] but Actual value is[Completion of Principal Photography]. Please check the screenshot with name: Default value in Event Namefor more details</span>
+Jan 18,2017 12:08:36 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Jan2017\\18\Default value in Event Name_CheckpointFailure_01-18-2017 12-08-35 PM.jpg
+Jan 18,2017 12:08:36 [info]  Verify The data of Default value in Event Name
+<span style="color:red;">Jan 18,2017 12:08:36 [info]  ====Failed==== Expected value is:[Delivery of the Last Episode] but Actual value is[Delivery Date]. Please check the screenshot with name: Default value in Event Namefor more details</span>
+Jan 18,2017 12:08:36 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Jan2017\\18\Default value in Event Name_CheckpointFailure_01-18-2017 12-08-36 PM.jpg
+Jan 18,2017 12:08:37 [info]  Verify The data of Default value in Event Name
+<span style="color:red;">Jan 18,2017 12:08:37 [info]  ====Failed==== Expected value is:[Each Exhibition (WON event)] but Actual value is[Delivery of final and complete materials]. Please check the screenshot with name: Default value in Event Namefor more details</span>
+Jan 18,2017 12:08:37 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Jan2017\\18\Default value in Event Name_CheckpointFailure_01-18-2017 12-08-37 PM.jpg
+Jan 18,2017 12:08:37 [info]  Verify The data of Default value in Event Name
+<span style="color:red;">Jan 18,2017 12:08:37 [info]  ====Failed==== Expected value is:[Initial Exhibition (WON event)] but Actual value is[Delivery of the Last Episode]. Please check the screenshot with name: Default value in Event Namefor more details</span>
+Jan 18,2017 12:08:37 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Jan2017\\18\Default value in Event Name_CheckpointFailure_01-18-2017 12-08-37 PM.jpg
+Jan 18,2017 12:08:38 [info]  Verify The data of Default value in Event Name
+<span style="color:red;">Jan 18,2017 12:08:38 [info]  ====Failed==== Expected value is:[Initial Exhibition (calc.)] but Actual value is[Each Exhibition (WON event)]. Please check the screenshot with name: Default value in Event Namefor more details</span>
+Jan 18,2017 12:08:38 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Jan2017\\18\Default value in Event Name_CheckpointFailure_01-18-2017 12-08-38 PM.jpg
+Jan 18,2017 12:08:38 [info]  Verify The data of Default value in Event Name
+<span style="color:red;">Jan 18,2017 12:08:38 [info]  ====Failed==== Expected value is:[Initial Exhibition of the Last Episode (calc.)] but Actual value is[Initial Exhibition (WON event)]. Please check the screenshot with name: Default value in Event Namefor more details</span>
+Jan 18,2017 12:08:38 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Jan2017\\18\Default value in Event Name_CheckpointFailure_01-18-2017 12-08-38 PM.jpg
+Jan 18,2017 12:08:39 [info]  Verify The data of Default value in Event Name
+<span style="color:red;">Jan 18,2017 12:08:39 [info]  ====Failed==== Expected value is:[License Term To (calc.)] but Actual value is[License Term From (calc.)]. Please check the screenshot with name: Default value in Event Namefor more details</span>
+Jan 18,2017 12:08:39 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Jan2017\\18\Default value in Event Name_CheckpointFailure_01-18-2017 12-08-39 PM.jpg
+Jan 18,2017 12:08:39 [info]  Verify The data of Default value in Event Name
+<span style="color:red;">Jan 18,2017 12:08:39 [info]  ====Failed==== Expected value is:[License Term From (calc.)] but Actual value is[License Term To (calc.)]. Please check the screenshot with name: Default value in Event Namefor more details</span>
+Jan 18,2017 12:08:39 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Jan2017\\18\Default value in Event Name_CheckpointFailure_01-18-2017 12-08-39 PM.jpg
+Jan 18,2017 12:08:42 [info]  Clicked on the ''Edit' Button at TrackingEvents TAB' using JS Executor
+Jan 18,2017 12:08:45 [info]  Verify The data of RI_TrackEvents_EventGroup
+<span style="color:green;">Jan 18,2017 12:08:45 [info]  Verified that Expected value :[*Event Group] is matched with Actual value :[*Event Group]</span>
+Jan 18,2017 12:08:45 [info]  Verify The data of RI_TrackEvents_Note
+<span style="color:green;">Jan 18,2017 12:08:45 [info]  Verified that Expected value :[Notes] is matched with Actual value :[Notes]</span>
+Jan 18,2017 12:08:45 [info]  Verify The data of Default Event Group Name
+<span style="color:green;">Jan 18,2017 12:08:45 [info]  Verified that Expected value :[Universal Events] is matched with Actual value :[Universal Events]</span>
+Jan 18,2017 12:08:45 [info]  Verify Default Value of Event Name Field in Edit Mode
+Jan 18,2017 12:08:46 [info]  Verify The data of Default Property Name
+<span style="color:red;">Jan 18,2017 12:08:46 [info]  ====Failed==== Expected value is:[Commencement of Principal Photography] but Actual value is[Initial Exhibition (calc.)]. Please check the screenshot with name: Default Property Namefor more details</span>
+Jan 18,2017 12:08:46 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Jan2017\\18\Default Property Name_CheckpointFailure_01-18-2017 12-08-46 PM.jpg
+Jan 18,2017 12:08:46 [info]  Verify The data of Default value in Event Name
+<span style="color:red;">Jan 18,2017 12:08:46 [info]  ====Failed==== Expected value is:[Completion of Principal Photography] but Actual value is[Initial Exhibition of the Last Episode (calc.)]. Please check the screenshot with name: Default value in Event Namefor more details</span>
+Jan 18,2017 12:08:46 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Jan2017\\18\Default value in Event Name_CheckpointFailure_01-18-2017 12-08-46 PM.jpg
+Jan 18,2017 12:08:47 [info]  Verify The data of Default value in Event Name
+<span style="color:red;">Jan 18,2017 12:08:47 [info]  ====Failed==== Expected value is:[Delivery Date] but Actual value is[Commencement of Principal Photography]. Please check the screenshot with name: Default value in Event Namefor more details</span>
+Jan 18,2017 12:08:47 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Jan2017\\18\Default value in Event Name_CheckpointFailure_01-18-2017 12-08-47 PM.jpg
+Jan 18,2017 12:08:47 [info]  Verify The data of Default value in Event Name
+<span style="color:red;">Jan 18,2017 12:08:47 [info]  ====Failed==== Expected value is:[Delivery of final and complete materials] but Actual value is[Completion of Principal Photography]. Please check the screenshot with name: Default value in Event Namefor more details</span>
+Jan 18,2017 12:08:47 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Jan2017\\18\Default value in Event Name_CheckpointFailure_01-18-2017 12-08-47 PM.jpg
+Jan 18,2017 12:08:47 [info]  Verify The data of Default value in Event Name
+<span style="color:red;">Jan 18,2017 12:08:47 [info]  ====Failed==== Expected value is:[Delivery of the Last Episode] but Actual value is[Delivery Date]. Please check the screenshot with name: Default value in Event Namefor more details</span>
+Jan 18,2017 12:08:48 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Jan2017\\18\Default value in Event Name_CheckpointFailure_01-18-2017 12-08-47 PM.jpg
+Jan 18,2017 12:08:48 [info]  Verify The data of Default value in Event Name
+<span style="color:red;">Jan 18,2017 12:08:48 [info]  ====Failed==== Expected value is:[Each Exhibition (WON event)] but Actual value is[Delivery of final and complete materials]. Please check the screenshot with name: Default value in Event Namefor more details</span>
+Jan 18,2017 12:08:48 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Jan2017\\18\Default value in Event Name_CheckpointFailure_01-18-2017 12-08-48 PM.jpg
+Jan 18,2017 12:08:48 [info]  Verify The data of Default value in Event Name
+<span style="color:red;">Jan 18,2017 12:08:48 [info]  ====Failed==== Expected value is:[Initial Exhibition (WON event)] but Actual value is[Delivery of the Last Episode]. Please check the screenshot with name: Default value in Event Namefor more details</span>
+Jan 18,2017 12:08:49 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Jan2017\\18\Default value in Event Name_CheckpointFailure_01-18-2017 12-08-48 PM.jpg
+Jan 18,2017 12:08:49 [info]  Verify The data of Default value in Event Name
+<span style="color:red;">Jan 18,2017 12:08:49 [info]  ====Failed==== Expected value is:[Initial Exhibition (calc.)] but Actual value is[Each Exhibition (WON event)]. Please check the screenshot with name: Default value in Event Namefor more details</span>
+Jan 18,2017 12:08:49 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Jan2017\\18\Default value in Event Name_CheckpointFailure_01-18-2017 12-08-49 PM.jpg
+Jan 18,2017 12:08:49 [info]  Verify The data of Default value in Event Name
+<span style="color:red;">Jan 18,2017 12:08:49 [info]  ====Failed==== Expected value is:[Initial Exhibition of the Last Episode (calc.)] but Actual value is[Initial Exhibition (WON event)]. Please check the screenshot with name: Default value in Event Namefor more details</span>
+Jan 18,2017 12:08:50 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Jan2017\\18\Default value in Event Name_CheckpointFailure_01-18-2017 12-08-49 PM.jpg
+Jan 18,2017 12:08:50 [info]  Verify The data of Default value in Event Name
+<span style="color:red;">Jan 18,2017 12:08:50 [info]  ====Failed==== Expected value is:[License Term To (calc.)] but Actual value is[License Term From (calc.)]. Please check the screenshot with name: Default value in Event Namefor more details</span>
+Jan 18,2017 12:08:50 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Jan2017\\18\Default value in Event Name_CheckpointFailure_01-18-2017 12-08-50 PM.jpg
+Jan 18,2017 12:08:50 [info]  Verify The data of Default value in Event Name
+<span style="color:red;">Jan 18,2017 12:08:50 [info]  ====Failed==== Expected value is:[License Term From (calc.)] but Actual value is[License Term To (calc.)]. Please check the screenshot with name: Default value in Event Namefor more details</span>
+Jan 18,2017 12:08:50 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Jan2017\\18\Default value in Event Name_CheckpointFailure_01-18-2017 12-08-50 PM.jpg
+Jan 18,2017 12:08:50 [info]  
+Jan 18,2017 12:08:50 [info]  Manual Test Step : TC_7
+Jan 18,2017 12:08:50 [info]  Verify the Headers of Allocated row in Edit Window
+Jan 18,2017 12:08:50 [info]  Verify The data of Default Property Name
+<span style="color:green;">Jan 18,2017 12:08:50 [info]  Verified that Expected value :[*Property] is matched with Actual value :[*Property]</span>
+Jan 18,2017 12:08:51 [info]  Verify The data of *Tracking Event
+<span style="color:green;">Jan 18,2017 12:08:51 [info]  Verified that Expected value :[*Tracking Event] is matched with Actual value :[*Tracking Event]</span>
+Jan 18,2017 12:08:51 [info]  Verify The data of *Tracking Event
+<span style="color:green;">Jan 18,2017 12:08:51 [info]  Verified that Expected value :[Event Date] is matched with Actual value :[Event Date]</span>
+Jan 18,2017 12:08:51 [info]  Verify The data of Estimated Date
+<span style="color:green;">Jan 18,2017 12:08:51 [info]  Verified that Expected value :[Estimated Date] is matched with Actual value :[Estimated Date]</span>
+Jan 18,2017 12:08:51 [info]  
+Jan 18,2017 12:08:51 [info]  Verify the Buttons available at Edit Window
+Jan 18,2017 12:08:51 [info]  Verify The data of RI_TrackingEvents_EditMode_Copy
+<span style="color:green;">Jan 18,2017 12:08:51 [info]  Verified that Expected value :[Copy Row(s)] is matched with Actual value :[Copy Row(s)]</span>
+Jan 18,2017 12:08:51 [info]  Verify The data of RI_TrackingEvents_EditMode_New
+<span style="color:green;">Jan 18,2017 12:08:51 [info]  Verified that Expected value :[Add] is matched with Actual value :[Add]</span>
+Jan 18,2017 12:08:51 [info]  Verify The data of RI_TrackingEvents_EditMode_Delete
+<span style="color:green;">Jan 18,2017 12:08:51 [info]  Verified that Expected value :[Delete] is matched with Actual value :[Delete]</span>
+Jan 18,2017 12:08:51 [info]  Verify The data of RI_TrackingEvents_EditMode_Save
+<span style="color:green;">Jan 18,2017 12:08:51 [info]  Verified that Expected value :[Save] is matched with Actual value :[Save]</span>
+Jan 18,2017 12:08:51 [info]  Verify The data of RI_TrackingEvents_EditMode_Cancel
+<span style="color:green;">Jan 18,2017 12:08:51 [info]  Verified that Expected value :[Cancel] is matched with Actual value :[Cancel]</span>
+Jan 18,2017 12:08:51 [info]  Verify The data of RI_TrackingEvents_EditMode_Allocate
+<span style="color:green;">Jan 18,2017 12:08:51 [info]  Verified that Expected value :[Allocate] is matched with Actual value :[Allocate]</span>
+Jan 18,2017 12:08:51 [info]  
+Jan 18,2017 12:08:51 [info]  ---------------Click On Add btn >> Verify New Row Added >> Save >> verify Vali. msg >> Select 'Universal' >> -----------------
+Jan 18,2017 12:08:51 [info]  ---------------verify Headers of allocated row of Second Parent Row-----------------------
+Jan 18,2017 12:08:53 [info]  Clicked on the 'Add Button'
+Jan 18,2017 12:08:53 [info]  "New Row is Added" is Present
+Jan 18,2017 12:08:58 [info]  Clicked on the ''Save' Button at Edit window' using JS Executor
+<span style="color:green;">Jan 18,2017 12:09:01 [info]  Verified that Expected value :[Please enter values for required(*) fields.] is matched with Actual value :[Please enter values for required(*) fields.]</span>
+Jan 18,2017 12:09:01 [info]  Clicked on the 'Event Group Field of Second Row'
+Jan 18,2017 12:09:01 [info]  Clicked on the 'EventGroup Drop Down'
+Jan 18,2017 12:09:01 [info]  Clicked on the 'Universal Events in Event Group Field'
+Jan 18,2017 12:09:01 [info]  Clicked on the 'Support Click'
+Jan 18,2017 12:09:01 [info]  
+Jan 18,2017 12:09:01 [info]  Manual Test Step : TC_12
+Jan 18,2017 12:09:01 [info]  
+Jan 18,2017 12:09:01 [info]  Verify the Headers of Allocated row of Second Parent Row in Edit Window
+Jan 18,2017 12:09:01 [info]  Verify The data of *Property
+<span style="color:green;">Jan 18,2017 12:09:01 [info]  Verified that Expected value :[*Property] is matched with Actual value :[*Property]</span>
+Jan 18,2017 12:09:02 [info]  Verify The data of *Tracking Event
+<span style="color:green;">Jan 18,2017 12:09:02 [info]  Verified that Expected value :[*Tracking Event] is matched with Actual value :[*Tracking Event]</span>
+Jan 18,2017 12:09:02 [info]  Verify The data of Event Date
+<span style="color:green;">Jan 18,2017 12:09:02 [info]  Verified that Expected value :[Event Date] is matched with Actual value :[Event Date]</span>
+Jan 18,2017 12:09:02 [info]  Verify The data of Estimated Date
+<span style="color:green;">Jan 18,2017 12:09:02 [info]  Verified that Expected value :[Estimated Date] is matched with Actual value :[Estimated Date]</span>
+Jan 18,2017 12:09:03 [info]  Clicked on the ''Save' Button at Exhibition Rights Edit window' using JS Executor
+<span style="color:green;">Jan 18,2017 12:09:07 [info]  Verified that Expected value :[Please enter values for required(*) fields.] is matched with Actual value :[Please enter values for required(*) fields.]</span>
+Jan 18,2017 12:09:07 [info]  
+Jan 18,2017 12:09:07 [info]  ---------------Select All >> Enter DeliveryofFirstEpisode in Prop Field >> -----------------
+Jan 18,2017 12:09:07 [info]  Clicked on the 'Property Field of Allocated row of Second Parent Row'
+Jan 18,2017 12:09:07 [info]  Clicked on the 'EventGroup Drop Down'
+Jan 18,2017 12:09:07 [info]  Clicked on the 'All in Property Field'
+Jan 18,2017 12:09:07 [info]  Clicked on the 'Support Click'
+Jan 18,2017 12:09:07 [info]  Clicked on the 'Tracking Event Field of Allocated row of Second Parent Row'
+Jan 18,2017 12:09:07 [info]  Clicked on the 'EventGroup Drop Down'
+Jan 18,2017 12:09:08 [info]  Clicked on the 'Delivery of first episode (Final Cut) in Property Field'
+Jan 18,2017 12:09:08 [info]  Clicked on the 'Support Click'
+Jan 18,2017 12:09:08 [info]  Clicked on the 'Event Date Event Date'
+Jan 18,2017 12:09:08 [info]  Entered "01/01/2014" in field 'Event Date'
+Jan 18,2017 12:09:08 [info]  Clicked on the 'Support Click'
+Jan 18,2017 12:09:08 [info]  Clicked on the 'Estimated Date Check Box'
+Jan 18,2017 12:09:08 [info]  Verify The data of Estimated Date
+<span style="color:green;">Jan 18,2017 12:09:08 [info]  Verified that Expected value :[Checked] is matched with Actual value :[Checked]</span>
+Jan 18,2017 12:09:08 [info]  
+Jan 18,2017 12:09:08 [info]  Manual Test Step : TC_24
+Jan 18,2017 12:09:09 [info]  Clicked on the 'Note Icon of Second Row'
+Jan 18,2017 12:09:10 [info]  
+Jan 18,2017 12:09:10 [info]  *****  Notes *****
+Jan 18,2017 12:09:10 [info]  Verify Headers/Buttons of Note Pop up >> save >> Verify message >> Add New Row >> Check , Uncheck , Check the Restriction/IncludeInReport check box >> Verify Entered data >> Save Note >> Verify Note Window is not Shown
+Jan 18,2017 12:09:10 [info]  Verify The data of RI_BUSINESS_TERMS_Header1
+<span style="color:green;">Jan 18,2017 12:09:10 [info]  Verified that Expected value :[Note Category] is matched with Actual value :[Note Category]</span>
+Jan 18,2017 12:09:10 [info]  Verify The data of RI_BUSINESS_TERMS_Header2
+<span style="color:green;">Jan 18,2017 12:09:10 [info]  Verified that Expected value :[Template] is matched with Actual value :[Template]</span>
+Jan 18,2017 12:09:10 [info]  Verify The data of RI_BUSINESS_TERMS_Header3
+<span style="color:green;">Jan 18,2017 12:09:10 [info]  Verified that Expected value :[*Note] is matched with Actual value :[*Note]</span>
+Jan 18,2017 12:09:10 [info]  Verify The data of RI_BUSINESS_TERMS_Header4
+<span style="color:green;">Jan 18,2017 12:09:10 [info]  Verified that Expected value :[Restriction] is matched with Actual value :[Restriction]</span>
+Jan 18,2017 12:09:10 [info]  Verify The data of RI_NoteWindow_AddButton
+<span style="color:green;">Jan 18,2017 12:09:10 [info]  Verified that Expected value :[Add] is matched with Actual value :[Add]</span>
+Jan 18,2017 12:09:10 [info]  Verify The data of RI_NoteWindow_DeleteButton
+<span style="color:green;">Jan 18,2017 12:09:10 [info]  Verified that Expected value :[Delete] is matched with Actual value :[Delete]</span>
+Jan 18,2017 12:09:10 [info]  Verify The data of RI_NoteWindow_SaveButton
+<span style="color:green;">Jan 18,2017 12:09:10 [info]  Verified that Expected value :[Save] is matched with Actual value :[Save]</span>
+Jan 18,2017 12:09:10 [info]  Verify The data of RI_NoteWindow_CancelButton
+<span style="color:green;">Jan 18,2017 12:09:10 [info]  Verified that Expected value :[Cancel] is matched with Actual value :[Cancel]</span>
+Jan 18,2017 12:09:10 [info]  Clicked on the 'Add Button at Notes Window'
+Jan 18,2017 12:09:11 [info]  Clicked on the ''Save' Button at Note window' using JS Executor
+<span style="color:green;">Jan 18,2017 12:09:14 [info]  Verified that Expected value :[Please enter values for required(*) fields.] is matched with Actual value :[Please enter values for required(*) fields.]</span>
+Jan 18,2017 12:09:14 [info]  Clicked on the 'Business Term Field'
+Jan 18,2017 12:09:15 [info]  Clicked on the 'Business Term Drop Down image'
+<span style="color:red;">Jan 18,2017 12:09:45 [info]  ====Failed==== "General" field is not present'</span>
+Jan 18,2017 12:09:45 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Jan2017\\18\General_CheckpointFailure_01-18-2017 12-09-45 PM.jpg
+Jan 18,2017 12:09:45 [info]  Clicked on the 'Use Template Field'
+Jan 18,2017 12:09:45 [info]  Clicked on the 'Use Template Drop Down image'
+<span style="color:red;">Jan 18,2017 12:10:15 [info]  ====Failed==== "General" field is not present'</span>
+Jan 18,2017 12:10:15 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Jan2017\\18\General_CheckpointFailure_01-18-2017 12-10-15 PM.jpg
+Jan 18,2017 12:10:16 [info]  Clicked on the 'Term Description Field'
+Jan 18,2017 12:10:16 [info]  Entered "The copyright in the Picture will be held by Licensor, and Licensor shall register, renew, extend and protect such copyright in its name for the maximum period of time allowed by law and furnish Distributor with copies of such registrations. " in field 'Term Description Data'
+Jan 18,2017 12:10:16 [info]  
+Jan 18,2017 12:10:16 [info]  *********Verify Restriction check box*******
+Jan 18,2017 12:10:16 [info]  Clicked on the 'NoteWind_Restriction Check Box' using JS Executor
+Jan 18,2017 12:10:17 [info]  Verify The data of Restriction Check Box status
+<span style="color:green;">Jan 18,2017 12:10:17 [info]  Verified that Expected value :[Checked] is matched with Actual value :[Checked]</span>
+Jan 18,2017 12:10:20 [info]  Clicked on the 'NoteWind_Restriction Check Box'
+Jan 18,2017 12:10:20 [info]  Verify The data of Restriction Check Box status
+<span style="color:green;">Jan 18,2017 12:10:20 [info]  Verified that Expected value :[Unchecked] is matched with Actual value :[Unchecked]</span>
+Jan 18,2017 12:10:23 [info]  Clicked on the 'NoteWind_Restriction Check Box'
+Jan 18,2017 12:10:23 [info]  Verify The data of Restriction Check Box status
+<span style="color:green;">Jan 18,2017 12:10:23 [info]  Verified that Expected value :[Checked] is matched with Actual value :[Checked]</span>
+Jan 18,2017 12:10:23 [info]  
+Jan 18,2017 12:10:23 [info]  *********Verify includeInReport check box*******
+Jan 18,2017 12:10:23 [info]  Clicked on the 'NoteWind_includeInReport Check Box'
+Jan 18,2017 12:10:23 [info]  "NoteWind_includeInReport Check Box is Checked" is Present
+Jan 18,2017 12:10:26 [info]  Clicked on the 'NoteWind_includeInReport Check Box'
+Jan 18,2017 12:10:26 [info]  "NoteWind_includeInReport Check Box is Unchecked" is Present
+Jan 18,2017 12:10:29 [info]  Clicked on the 'NoteWind_includeInReport Check Box'
+Jan 18,2017 12:10:29 [info]  "NoteWind_includeInReport Check Box is Checked" is Present
+Jan 18,2017 12:10:30 [info]  Verify The data of RI_MediaRights_NoteWind_Category_HeaderName
+<span style="color:red;">Jan 18,2017 12:10:30 [info]  ====Failed==== Expected value is:[General] but Actual value is[-721550961]. Please check the screenshot with name: RI_MediaRights_NoteWind_Category_HeaderNamefor more details</span>
+Jan 18,2017 12:10:30 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Jan2017\\18\RI_MediaRights_NoteWind_Category_HeaderName_CheckpointFailure_01-18-2017 12-10-30 PM.jpg
+Jan 18,2017 12:10:31 [info]  Clicked on the ''Save' Button at Note window' using JS Executor
+Jan 18,2017 12:11:04 [info]  "Note Window" is disable or not Present
+Jan 18,2017 12:11:08 [info]  Clicked on the ''Save' Button at Exhibition Rights Edit window' using JS Executor
+Jan 18,2017 12:11:11 [info]  
+Jan 18,2017 12:11:11 [info]  Manual Test Step : TC_36
+Jan 18,2017 12:11:14 [info]  Clicked on the ''Edit' Button at TrackingEvents TAB' using JS Executor
+Jan 18,2017 12:11:14 [info]  Clicked on the 'Delete Button'
+Jan 18,2017 12:11:17 [info]  Verify The data of Alert Message on clicking 'Delete Button'
+<span style="color:green;">Jan 18,2017 12:11:17 [info]  Verified that Expected value :[Please select a row before clicking Delete.] is matched with Actual value :[Please select a row before clicking Delete.]</span>
+Jan 18,2017 12:11:17 [info]  Clicked on the 'OK Button At Alert Pop-Up' using JS Executor
+Jan 18,2017 12:11:18 [info]  Clicked on the 'Child Row'
+Jan 18,2017 12:11:18 [info]  Clicked on the 'Delete Button'
+Jan 18,2017 12:11:21 [info]  Verify The data of Alert Message on clicking 'Delete Button'
+<span style="color:green;">Jan 18,2017 12:11:21 [info]  Verified that Expected value :[Are you sure you want to delete selected row(s)?] is matched with Actual value :[Are you sure you want to delete selected row(s)?]</span>
+Jan 18,2017 12:11:22 [info]  Clicked on the 'OK Button At Confirm Pop-Up' using JS Executor
+Jan 18,2017 12:11:30 [info]  Clicked on the ''Save' Button at Exhibition Rights Edit window' using JS Executor
+Jan 18,2017 12:11:30 [info]  Verifyied the data of First Row of TrackingEvent
+Jan 18,2017 12:11:30 [info]  Test 'TC1_UI_Verification' PASSED
+Jan 18,2017 12:11:31 [info]  Closed the Browser
+Jan 18,2017 12:16:59 [info]  ********************Started Executiong the Test Suite at 12:16:59******************
+Jan 18,2017 12:16:59 [info]  Client: VMN
+Jan 18,2017 12:16:59 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Jan 18,2017 12:16:59 [info]  *********************Started Executing 'createData' Test Case*********************
+Jan 18,2017 12:17:10 [info]  Client: VMN
+Jan 18,2017 12:17:10 [info]  URL: http://rlv3wb53/Home.aspx
+Jan 18,2017 12:17:10 [info]  UserName: automation
+Jan 18,2017 12:17:10 [info]  Password: automation
+Jan 18,2017 12:17:11 [info]  Entered "automation" in field 'User Name'
+Jan 18,2017 12:17:11 [info]  Clicked on the 'Temporary Check Box'
+Jan 18,2017 12:17:11 [info]  Entered "automation" in field 'Password'
+Jan 18,2017 12:17:11 [info]  Clicked on the 'LoginButton'
+Jan 18,2017 12:17:18 [info]  ************************Started Creating Asset of Type: Program - Series************************
+<span style="color:red;">Jan 18,2017 12:17:48 [info]  ====Failed==== " Could not find the Frame: //div[@clientid='RL_SplitterPane_Navigation']</span>
+<span style="color:red;">Jan 18,2017 12:17:48 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Jan2017\\18\FrameSwitchingFailed0_CheckpointFailure_01-18-2017 12-17-48 PM.jpg</span>
+Jan 18,2017 12:17:48 [info]  no such element: Unable to locate element: {"method":"xpath","selector":"//div[@clientid='RL_SplitterPane_Navigation']"}
+  (Session info: chrome=55.0.2883.87)
+  (Driver info: chromedriver=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 30.05 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: '9P4G6BS', ip: '10.10.22.71', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed), userDataDir=C:\Users\Rajudd\AppData\Local\Temp\scoped_dir3356_1699}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=55.0.2883.87, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 11083c0a545558dc27e4ee0f20f5b7cc
+*** Element info: {Using=xpath, value=//div[@clientid='RL_SplitterPane_Navigation']}
+Jan 18,2017 12:18:44 [info]  ********************Started Executiong the Test Suite at 12:18:44******************
+Jan 18,2017 12:18:44 [info]  Client: VMN
+Jan 18,2017 12:18:44 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Jan 18,2017 12:18:44 [info]  *********************Started Executing 'createData' Test Case*********************
+Jan 18,2017 12:18:54 [info]  Client: VMN
+Jan 18,2017 12:18:54 [info]  URL: http://rlv3wb53/Home.aspx
+Jan 18,2017 12:18:54 [info]  UserName: admin
+Jan 18,2017 12:18:54 [info]  Password: admin
+Jan 18,2017 12:18:55 [info]  Entered "admin" in field 'User Name'
+Jan 18,2017 12:18:56 [info]  Clicked on the 'Temporary Check Box'
+Jan 18,2017 12:18:56 [info]  Entered "admin" in field 'Password'
+Jan 18,2017 12:19:04 [info]  Clicked on the 'LoginButton'
+Jan 18,2017 12:19:10 [info]  ************************Started Creating Asset of Type: Program - Series************************
+Jan 18,2017 12:19:14 [info]  Clicked on the 'MODULE'
+Jan 18,2017 12:19:20 [info]  Clicked on the 'Property Entry & Maintenance'
+Jan 18,2017 12:19:27 [info]  Clicked on the 'SearchLink' using JS Executor
+Jan 18,2017 12:19:29 [info]  Clicked on the 'Property Search' using JS Executor
+Jan 18,2017 12:19:35 [info]  Clicked on the 'TR_Asset_Search_Params' using JS Executor
+Jan 18,2017 12:19:35 [info]  Entered "AUT_AssetSeries_TC3_01182017121844" in field 'Asset Title'
+Jan 18,2017 12:19:40 [info]  Clicked on the 'Find Button' using JS Executor
+Jan 18,2017 12:19:46 [info]  Verify The data of Alert Message
+<span style="color:green;">Jan 18,2017 12:19:46 [info]  Verified that Expected value :[No search results were found for this query. Please try again using different criteria.] is matched with Actual value :[No search results were found for this query. Please try again using different criteria.]</span>
+Jan 18,2017 12:19:46 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Jan 18,2017 12:19:46 [info]  Clicked on the 'Ok button At Alert' using JS Executor
+Jan 18,2017 12:19:52 [info]  Clicked on the 'Add Asset Button' using JS Executor
+Jan 18,2017 12:19:56 [info]  Selected "Program" in "AssetTypeDropDown Pop upn VMN" drop down
+Jan 18,2017 12:20:05 [info]  Clicked on the 'OK Button'
+Jan 18,2017 12:20:11 [info]  Asset id is 185444
+Jan 18,2017 12:20:17 [info]  Selected "Program - Series" in "AssetTypeDropDown" drop down
+Jan 18,2017 12:20:21 [info]  Entered "AUT_AssetSeries_TC3_01182017121844" in field 'AssetTitle'
+Jan 18,2017 12:20:22 [info]  Clicked on the 'IPImageIcon' using JS Executor
+Jan 18,2017 12:20:23 [info]  Clicked on the 'Find Button' using JS Executor
+Jan 18,2017 12:20:26 [info]  Clicked on the 'loc_IPName_AT_IPWindow'
+Jan 18,2017 12:20:26 [info]  Clicked on the 'IP Select Button' using JS Executor
+Jan 18,2017 12:20:28 [info]  Clicked on the 'Vendor Img Icon' using JS Executor
+Jan 18,2017 12:20:28 [info]  Entered "AUT_VMN_Vendor1" in field 'SearchvalueVendor'
+Jan 18,2017 12:20:35 [info]  Clicked on the 'VendorWindowButtonfind' using JS Executor
+Jan 18,2017 12:21:12 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Jan 18,2017 12:21:12 [info]  Clicked on the 'Add Button at Vendor Add Window'
+Jan 18,2017 12:21:14 [info]  All Drop Down values of PartyList are:
+
+Jan 18,2017 12:21:14 [info]  (Select One)
+
+Jan 18,2017 12:21:14 [info]  Selected "Individual" in "Party Type" drop down
+Jan 18,2017 12:21:15 [info]  Entered "AUT_VMN_Vendor1" in field 'Company Name'
+<span style="color:red;">Jan 18,2017 12:21:15 [info]  ====Failed==== Expected value is:[Primary] but Actual value is[Primary ]. Please check the screenshot with name: Primaryfor more details</span>
+Jan 18,2017 12:21:15 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Jan2017\\18\Contributor_ContributorSearch_Add_AddressTypeDropDown_CheckpointFailure_01-18-2017 12-21-15 PM.jpg
+Jan 18,2017 12:21:15 [info]  Clicked on the 'Contributor_ContributorSearch_Add_AddressLine1InputField' using JS Executor
+Jan 18,2017 12:21:15 [info]  Entered "AddressLine1" in field 'ConrtibutorsEdit_ConrtibutorsSearch_AddWindow_AddressLine1 Field'
+Jan 18,2017 12:21:15 [info]  Clicked on the 'Contributor_ContributorSearch_Add_AddressLine2InputField' using JS Executor
+Jan 18,2017 12:21:15 [info]  Entered "AddressLine2" in field 'ConrtibutorsEdit_ConrtibutorsSearch_AddWindow_AddressLine2 Field'
+Jan 18,2017 12:21:15 [info]  Clicked on the 'ConrtibutorsEdit_ConrtibutorsSearch_AddWindow_City' using JS Executor
+Jan 18,2017 12:21:15 [info]  Entered "City" in field 'ConrtibutorsEdit_ConrtibutorsSearch_AddWindow_City Field'
+Jan 18,2017 12:21:16 [info]  Selected "Canada" in "Country Input Field" drop down
+Jan 18,2017 12:21:16 [info]  Selected "Alberta" in "Contributor_ContributorSearch_Add_StateInputField" drop down
+Jan 18,2017 12:21:16 [info]  Clicked on the 'Contributor_ContributorSearch_Add_ZipCodeField' using JS Executor
+Jan 18,2017 12:21:16 [info]  Entered "12345" in field 'ConrtibutorsEdit_ConrtibutorsSearch_AddWindow_ZipCode Field'
+Jan 18,2017 12:21:16 [info]  Clicked on the ''Save Button' Contributor_ContributorSearch_Add_SaveGeneralInfoButton' using JS Executor
+<span style="color:red;">Jan 18,2017 12:21:52 [info]  ====Failed==== Expected value is:[Changes have been saved successfully.] but Actual value is[]. Please check the screenshot with name: Contributor_ContributorSearch_Add_SaveGeneralInfo_EnterAleternate_ValidationMessagefor more details</span>
+Jan 18,2017 12:21:52 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Jan2017\\18\Contributor_ContributorSearch_Add_SaveGeneralInfo_EnterAleternate_ValidationMessage_CheckpointFailure_01-18-2017 12-21-52 PM.jpg
+Jan 18,2017 12:21:53 [info]  Clicked on the 'close Add Reference Window'
+Jan 18,2017 12:21:53 [info]  Entered "AUT_VMN_Vendor1" in field 'SearchvalueVendor'
+Jan 18,2017 12:22:01 [info]  Clicked on the 'VendorWindowButtonfind' using JS Executor
+Jan 18,2017 12:22:01 [info]  Clicked on the 'VendorName At VendorWindow'
+Jan 18,2017 12:22:01 [info]  Clicked on the 'VendorName At VendorWindow' using JS Executor
+Jan 18,2017 12:22:01 [info]  Clicked on the 'Vendor Select Button' using JS Executor
+Jan 18,2017 12:22:05 [info]  Verify The data of Vendor1
+<span style="color:green;">Jan 18,2017 12:22:05 [info]  Verified that Expected value :[AUT_VMN_Vendor1] is matched with Actual value :[AUT_VMN_Vendor1]</span>
+Jan 18,2017 12:22:06 [info]  Clicked on the 'StudioImageIcon' using JS Executor
+<span style="color:green;">Jan 18,2017 12:22:06 [info]  Verified that Expected value :[Select Copyright Owner] is matched with Actual value :[Select Copyright Owner]</span>
+Jan 18,2017 12:22:06 [info]  Entered "AUT_VMN_Studio" in field 'Studio Name'
+Jan 18,2017 12:22:12 [info]  Clicked on the 'Find Button' using JS Executor
+Jan 18,2017 12:22:50 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Jan 18,2017 12:22:50 [info]  Clicked on the 'Add Button at Vendor Add Window'
+Jan 18,2017 12:22:53 [info]  All Drop Down values of PartyList are:
+
+Jan 18,2017 12:22:53 [info]  (Select One)
+
+Jan 18,2017 12:22:53 [info]  Selected "Individual" in "Party Type" drop down
+Jan 18,2017 12:22:53 [info]  Entered "AUT_VMN_Studio" in field 'Company Name'
+<span style="color:red;">Jan 18,2017 12:22:53 [info]  ====Failed==== Expected value is:[Primary] but Actual value is[Primary ]. Please check the screenshot with name: Primaryfor more details</span>
+Jan 18,2017 12:22:53 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Jan2017\\18\Contributor_ContributorSearch_Add_AddressTypeDropDown_CheckpointFailure_01-18-2017 12-22-53 PM.jpg
+Jan 18,2017 12:22:53 [info]  Clicked on the 'Contributor_ContributorSearch_Add_AddressLine1InputField' using JS Executor
+Jan 18,2017 12:22:54 [info]  Entered "AddressLine1" in field 'ConrtibutorsEdit_ConrtibutorsSearch_AddWindow_AddressLine1 Field'
+Jan 18,2017 12:22:54 [info]  Clicked on the 'Contributor_ContributorSearch_Add_AddressLine2InputField' using JS Executor
+Jan 18,2017 12:22:54 [info]  Entered "AddressLine2" in field 'ConrtibutorsEdit_ConrtibutorsSearch_AddWindow_AddressLine2 Field'
+Jan 18,2017 12:22:54 [info]  Clicked on the 'ConrtibutorsEdit_ConrtibutorsSearch_AddWindow_City' using JS Executor
+Jan 18,2017 12:22:54 [info]  Entered "City" in field 'ConrtibutorsEdit_ConrtibutorsSearch_AddWindow_City Field'
+Jan 18,2017 12:22:54 [info]  Selected "Canada" in "Country Input Field" drop down
+Jan 18,2017 12:22:54 [info]  Selected "Alberta" in "Contributor_ContributorSearch_Add_StateInputField" drop down
+Jan 18,2017 12:22:54 [info]  Clicked on the 'Contributor_ContributorSearch_Add_ZipCodeField' using JS Executor
+Jan 18,2017 12:22:54 [info]  Entered "12345" in field 'ConrtibutorsEdit_ConrtibutorsSearch_AddWindow_ZipCode Field'
+Jan 18,2017 12:22:54 [info]  Clicked on the ''Save Button' Contributor_ContributorSearch_Add_SaveGeneralInfoButton' using JS Executor
+<span style="color:red;">Jan 18,2017 12:23:31 [info]  ====Failed==== Expected value is:[Changes have been saved successfully.] but Actual value is[]. Please check the screenshot with name: Contributor_ContributorSearch_Add_SaveGeneralInfo_EnterAleternate_ValidationMessagefor more details</span>
+Jan 18,2017 12:23:31 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Jan2017\\18\Contributor_ContributorSearch_Add_SaveGeneralInfo_EnterAleternate_ValidationMessage_CheckpointFailure_01-18-2017 12-23-31 PM.jpg
+<span style="color:red;">Jan 18,2017 12:23:31 [info]  ====Failed==== "close Add Reference Window" field is not present'</span>
+Jan 18,2017 12:23:31 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Jan2017\\18\close Add Reference Window_CheckpointFailure_01-18-2017 12-23-31 PM.jpg
+Jan 18,2017 12:23:32 [info]  Entered "AUT_VMN_Studio" in field 'Studio Name'
+Jan 18,2017 12:23:38 [info]  Clicked on the 'Find Button' using JS Executor
+<span style="color:red;">Jan 18,2017 12:23:38 [info]  ====Failed==== "VendorName At VendorWindow" field is not present'</span>
+Jan 18,2017 12:23:39 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Jan2017\\18\VendorName At VendorWindow_CheckpointFailure_01-18-2017 12-23-38 PM.jpg
+Jan 18,2017 12:23:39 [info]  Clicked on the 'Vendor Select Button' using JS Executor
+Jan 18,2017 12:23:42 [info]  Verify The data of Studio/Vendor2
+<span style="color:red;">Jan 18,2017 12:23:42 [info]  ====Failed==== Expected value is:[AUT_VMN_Studio] but Actual value is[]. Please check the screenshot with name: Studio/Vendor2for more details</span>
+Jan 18,2017 12:23:42 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Jan2017\\18\Studio/Vendor2_CheckpointFailure_01-18-2017 12-23-42 PM.jpg
+Jan 18,2017 12:23:42 [info]  Clicked on the 'SBUImage' using JS Executor
+<span style="color:red;">Jan 18,2017 12:23:43 [info]  ====Failed==== Expected value is:[Channel / Entity Template] but Actual value is[Select Copyright Owner]. Please check the screenshot with name: SBU Window/Owner Channel Headerfor more details</span>
+Jan 18,2017 12:23:43 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Jan2017\\18\SBU Window/Owner Channel Header_CheckpointFailure_01-18-2017 12-23-43 PM.jpg
+Jan 18,2017 12:26:02 [info]  ********************Started Executiong the Test Suite at 12:26:02******************
+Jan 18,2017 12:26:02 [info]  Client: VMN
+Jan 18,2017 12:26:02 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Jan 18,2017 12:26:02 [info]  *********************Started Executing 'createData' Test Case*********************
+Jan 18,2017 12:26:14 [info]  ********************Started Executiong the Test Suite at 12:26:14******************
+Jan 18,2017 12:26:14 [info]  Client: VMN
+Jan 18,2017 12:26:14 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Jan 18,2017 12:26:14 [info]  *********************Started Executing 'createData' Test Case*********************
+Jan 18,2017 12:26:25 [info]  Client: VMN
+Jan 18,2017 12:26:25 [info]  URL: http://rlv3wb53/Home.aspx
+Jan 18,2017 12:26:25 [info]  UserName: admin
+Jan 18,2017 12:26:25 [info]  Password: admin
+Jan 18,2017 12:26:25 [info]  Entered "admin" in field 'User Name'
+Jan 18,2017 12:26:26 [info]  Clicked on the 'Temporary Check Box'
+Jan 18,2017 12:26:26 [info]  Entered "admin" in field 'Password'
+Jan 18,2017 12:26:35 [info]  Clicked on the 'LoginButton'
+Jan 18,2017 12:26:42 [info]  ************************Started Creating Asset of Type: Program - Series************************
+Jan 18,2017 12:26:45 [info]  Clicked on the 'MODULE'
+Jan 18,2017 12:26:52 [info]  Clicked on the 'Property Entry & Maintenance'
+Jan 18,2017 12:26:58 [info]  Clicked on the 'SearchLink' using JS Executor
+Jan 18,2017 12:27:00 [info]  Clicked on the 'Property Search' using JS Executor
+Jan 18,2017 12:27:06 [info]  Clicked on the 'TR_Asset_Search_Params' using JS Executor
+Jan 18,2017 12:27:07 [info]  Entered "AUT_AssetSeries_TC3_01182017122614" in field 'Asset Title'
+Jan 18,2017 12:27:11 [info]  Clicked on the 'Find Button' using JS Executor
+Jan 18,2017 12:27:17 [info]  Verify The data of Alert Message
+<span style="color:green;">Jan 18,2017 12:27:17 [info]  Verified that Expected value :[No search results were found for this query. Please try again using different criteria.] is matched with Actual value :[No search results were found for this query. Please try again using different criteria.]</span>
+Jan 18,2017 12:27:17 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Jan 18,2017 12:27:17 [info]  Clicked on the 'Ok button At Alert' using JS Executor
+Jan 18,2017 12:27:23 [info]  Clicked on the 'Add Asset Button' using JS Executor
+Jan 18,2017 12:27:27 [info]  Selected "Program" in "AssetTypeDropDown Pop upn VMN" drop down
+Jan 18,2017 12:27:35 [info]  Clicked on the 'OK Button'
+Jan 18,2017 12:27:41 [info]  Asset id is 185455
+Jan 18,2017 12:27:49 [info]  Selected "Program - Series" in "AssetTypeDropDown" drop down
+Jan 18,2017 12:27:52 [info]  Entered "AUT_AssetSeries_TC3_01182017122614" in field 'AssetTitle'
+Jan 18,2017 12:27:53 [info]  Clicked on the 'IPImageIcon' using JS Executor
+Jan 18,2017 12:27:54 [info]  Clicked on the 'Find Button' using JS Executor
+Jan 18,2017 12:27:57 [info]  Clicked on the 'loc_IPName_AT_IPWindow'
+Jan 18,2017 12:27:58 [info]  Clicked on the 'IP Select Button' using JS Executor
+Jan 18,2017 12:27:58 [info]  Clicked on the 'Vendor Img Icon' using JS Executor
+Jan 18,2017 12:27:58 [info]  Entered "AUT_VMN_Vendor1" in field 'SearchvalueVendor'
+Jan 18,2017 12:28:06 [info]  Clicked on the 'VendorWindowButtonfind' using JS Executor
+Jan 18,2017 12:28:13 [info]  Clicked on the 'VendorName At VendorWindow'
+Jan 18,2017 12:28:13 [info]  Clicked on the 'Vendor Select Button' using JS Executor
+Jan 18,2017 12:28:16 [info]  Verify The data of Vendor1
+<span style="color:green;">Jan 18,2017 12:28:16 [info]  Verified that Expected value :[AUT_VMN_Vendor1] is matched with Actual value :[AUT_VMN_Vendor1]</span>
+Jan 18,2017 12:28:17 [info]  Clicked on the 'StudioImageIcon' using JS Executor
+<span style="color:green;">Jan 18,2017 12:28:17 [info]  Verified that Expected value :[Select Copyright Owner] is matched with Actual value :[Select Copyright Owner]</span>
+Jan 18,2017 12:28:17 [info]  Entered "AUT_VMN_Studio" in field 'Studio Name'
+Jan 18,2017 12:28:23 [info]  Clicked on the 'Find Button' using JS Executor
+Jan 18,2017 12:28:31 [info]  Clicked on the 'VendorName At VendorWindow'
+Jan 18,2017 12:28:31 [info]  Clicked on the 'Vendor Select Button' using JS Executor
+Jan 18,2017 12:28:35 [info]  Verify The data of Studio/Vendor2
+<span style="color:green;">Jan 18,2017 12:28:35 [info]  Verified that Expected value :[AUT_VMN_Studio] is matched with Actual value :[AUT_VMN_Studio]</span>
+Jan 18,2017 12:28:36 [info]  Clicked on the 'SBUImage' using JS Executor
+<span style="color:green;">Jan 18,2017 12:28:36 [info]  Verified that Expected value :[Channel / Entity Template] is matched with Actual value :[Channel / Entity Template]</span>
+Jan 18,2017 12:28:42 [info]  Clicked on the 'First CheckBox At SBU window'
+Jan 18,2017 12:28:44 [info]  Clicked on the 'Apply Button' using JS Executor
+Jan 18,2017 12:28:44 [info]  Entered "11:11:11" in field 'Duration'
+Jan 18,2017 12:29:15 [info]  Selected "Active Production" in "Asset Status" drop down
+Jan 18,2017 12:29:15 [info]  Selected "Animated" in "Asset Format" drop down
+Jan 18,2017 12:29:15 [info]  Selected "Co-Production" in "Asset Source" drop down
+Jan 18,2017 12:29:15 [info]  Selected "Television" in "Asset Category/Group" drop down
+Jan 18,2017 12:29:15 [info]  Entered "" in field 'ProjectID'
+Jan 18,2017 12:29:15 [info]  Selected "TBD" in "Client Group" drop down
+Jan 18,2017 12:29:15 [info]  Selected "In Progress" in "PROD Contract Entry/AssetData Status" drop down
+Jan 18,2017 12:29:16 [info]  Clicked on the 'Save Button' using JS Executor
+<span style="color:green;">Jan 18,2017 12:29:28 [info]  Verified that Expected value :[AUT_AssetSeries_TC3_01182017122614] is matched with Actual value :[AUT_AssetSeries_TC3_01182017122614]</span>
+Jan 18,2017 12:29:28 [info]  ************************Created Asset of TypeProgram - Series************************
+Jan 18,2017 12:29:31 [info]  Clicked on the 'MODULE'
+Jan 18,2017 12:29:38 [info]  Clicked on the 'Property Entry & Maintenance'
+Jan 18,2017 12:29:41 [info]  Clicked on the 'Search Icon' using JS Executor
+Jan 18,2017 12:29:42 [info]  Clicked on the 'Property Search' using JS Executor
+Jan 18,2017 12:29:50 [info]  Entered "AUT_AssetSeries_TC2_01182017122614" in field 'AssetTitle'
+Jan 18,2017 12:29:52 [info]  Clicked on the 'Find Button' using JS Executor
+Jan 18,2017 12:30:38 [info]  Moved Mouse over 'First Asset in the Searched Asset'
+Jan 18,2017 12:30:38 [info]  Clicked on the 'First Asset in the Searched Asset'
+Jan 18,2017 12:30:38 [info]  Clicked on the 'First Asset in the Searched Asset'
+Jan 18,2017 12:30:41 [info]  Clicked on the 'View Asset' using JS Executor
+<span style="color:red;">Jan 18,2017 12:30:53 [info]  ====Failed==== Expected value is:[AUT_AssetSeries_TC2_01182017122614] but Actual value is[AUT_AssetSeries_TC3_01182017122614]. Please check the screenshot with name: Created Asset At Homefor more details</span>
+Jan 18,2017 12:30:53 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Jan2017\\18\Created Asset At Home_CheckpointFailure_01-18-2017 12-30-53 PM.jpg
+Jan 18,2017 12:31:00 [info]  Clicked on the 'Episodes TAB'
+Jan 18,2017 12:31:06 [info]  Clicked on the ''Edit' Button at Episode window' using JS Executor
+Jan 18,2017 12:31:12 [info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Jan 18,2017 12:31:15 [info]  Entered "101" in field 'Add Episode input field'
+Jan 18,2017 12:31:17 [info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Jan 18,2017 12:31:25 [info]  Clicked on the 'Season Field of Episode101' using JS Executor
+Jan 18,2017 12:31:25 [info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Jan 18,2017 12:31:26 [info]  Clicked on the 'Season 1.Original Version'
+Jan 18,2017 12:31:26 [info]  Clicked on the 'Support click to select season'
+Jan 18,2017 12:31:29 [info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Jan 18,2017 12:31:29 [info]  Entered "102" in field 'Add Episode input field'
+Jan 18,2017 12:31:31 [info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Jan 18,2017 12:31:43 [info]  Clicked on the 'Season Field of Episode102' using JS Executor
+Jan 18,2017 12:31:43 [info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Jan 18,2017 12:31:43 [info]  Clicked on the 'Season 1.Original Version'
+Jan 18,2017 12:31:43 [info]  Clicked on the 'Support click to select season'
+Jan 18,2017 12:31:43 [info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Jan 18,2017 12:31:43 [info]  Entered "201" in field 'Add Episode input field'
+Jan 18,2017 12:31:45 [info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Jan 18,2017 12:31:57 [info]  Clicked on the 'Season Field of Episode201' using JS Executor
+Jan 18,2017 12:31:57 [info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Jan 18,2017 12:31:57 [info]  Clicked on the 'Season 2.Original Version'
+Jan 18,2017 12:31:57 [info]  Clicked on the 'Support click to select season'
+Jan 18,2017 12:32:00 [info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Jan 18,2017 12:32:00 [info]  Entered "202" in field 'Add Episode input field'
+Jan 18,2017 12:32:02 [info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Jan 18,2017 12:32:10 [info]  Clicked on the 'Support click to select season'
+Jan 18,2017 12:32:14 [info]  Clicked on the 'Season Field of Episode201' using JS Executor
+Jan 18,2017 12:32:14 [info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Jan 18,2017 12:32:14 [info]  Clicked on the 'Season 2.Original Version'
+Jan 18,2017 12:32:14 [info]  Clicked on the 'Support click to select season'
+Jan 18,2017 12:32:22 [info]  Clicked on the 'Save Button at 'Episode Edit Window'' using JS Executor
+Jan 18,2017 12:32:30 [info]  Clicked on the 'Close Button at 'Episode Edit Window'' using JS Executor
+<span style="color:red;">Jan 18,2017 12:32:36 [info]  ====Failed==== "Episodes TAB" field is not present'</span>
+Jan 18,2017 12:32:36 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Jan2017\\18\Episodes TAB_CheckpointFailure_01-18-2017 12-32-36 PM.jpg
+<span style="color:red;">Jan 18,2017 12:33:10 [info]  ====Failed==== "'Edit' Button at Episode window" field is not present'</span>
+Jan 18,2017 12:33:10 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Jan2017\\18\'Edit' Button at Episode window_CheckpointFailure_01-18-2017 12-33-10 PM.jpg
+Jan 18,2017 13:13:56 [info]  ********************Started Executiong the Test Suite at 13:13:56******************
+Jan 18,2017 13:13:56 [info]  Client: VMN
+Jan 18,2017 13:13:56 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Jan 18,2017 13:13:56 [info]  *********************Started Executing 'TC1_UI_Verification' Test Case*********************
+Jan 18,2017 13:14:06 [info]  Client: VMN
+Jan 18,2017 13:14:06 [info]  URL: http://rlv3wb53/Home.aspx
+Jan 18,2017 13:14:06 [info]  UserName: admin
+Jan 18,2017 13:14:06 [info]  Password: admin
+Jan 18,2017 13:14:07 [info]  Entered "admin" in field 'User Name'
+Jan 18,2017 13:14:07 [info]  Clicked on the 'Temporary Check Box'
+Jan 18,2017 13:14:07 [info]  Entered "admin" in field 'Password'
+Jan 18,2017 13:14:18 [info]  Clicked on the 'LoginButton'
+Jan 18,2017 13:16:50 [info]  
+Jan 18,2017 13:16:50 [info]  Manual Test Step : TC_RI_TE1_1
+Jan 18,2017 13:16:50 [info]  
+Jan 18,2017 13:16:50 [info]  Manual Test Step : TC_1
+Jan 18,2017 13:16:51 [info]  Clicked on the 'Tracking Events TAB'
+Jan 18,2017 13:16:53 [info]  Verify The data of RI_TrackEvents_EventGroup
+<span style="color:green;">Jan 18,2017 13:16:53 [info]  Verified that Expected value :[Event Group] is matched with Actual value :[Event Group]</span>
+Jan 18,2017 13:16:54 [info]  Verify The data of RI_TrackEvents_Note
+<span style="color:green;">Jan 18,2017 13:16:54 [info]  Verified that Expected value :[Notes] is matched with Actual value :[Notes]</span>
+Jan 18,2017 13:16:54 [info]  Verify Default Value of Event Name Field in View Mode
+Jan 18,2017 13:16:54 [info]  Verify The data of Default Event Group Name
+<span style="color:green;">Jan 18,2017 13:16:54 [info]  Verified that Expected value :[Universal Events] is matched with Actual value :[Universal Events]</span>
+Jan 18,2017 13:16:54 [info]  Verify The data of Default value in Event Name
+<span style="color:green;">Jan 18,2017 13:16:54 [info]  Verified that Expected value :[Completion of Principal Photography] is matched with Actual value :[Completion of Principal Photography]</span>
+Jan 18,2017 13:16:54 [info]  Verify The data of Default value in Event Name
+<span style="color:green;">Jan 18,2017 13:16:54 [info]  Verified that Expected value :[Delivery Date] is matched with Actual value :[Delivery Date]</span>
+Jan 18,2017 13:16:54 [info]  Verify The data of Default value in Event Name
+<span style="color:green;">Jan 18,2017 13:16:54 [info]  Verified that Expected value :[Delivery of final and complete materials] is matched with Actual value :[Delivery of final and complete materials]</span>
+Jan 18,2017 13:16:55 [info]  Verify The data of Default value in Event Name
+<span style="color:green;">Jan 18,2017 13:16:55 [info]  Verified that Expected value :[Delivery of the Last Episode] is matched with Actual value :[Delivery of the Last Episode]</span>
+Jan 18,2017 13:16:55 [info]  Verify The data of Default value in Event Name
+<span style="color:green;">Jan 18,2017 13:16:55 [info]  Verified that Expected value :[Each Exhibition (WON event)] is matched with Actual value :[Each Exhibition (WON event)]</span>
+Jan 18,2017 13:16:55 [info]  Verify The data of Default value in Event Name
+<span style="color:green;">Jan 18,2017 13:16:55 [info]  Verified that Expected value :[Initial Exhibition (WON event)] is matched with Actual value :[Initial Exhibition (WON event)]</span>
+Jan 18,2017 13:16:55 [info]  Verify The data of Default value in Event Name
+<span style="color:green;">Jan 18,2017 13:16:55 [info]  Verified that Expected value :[Initial Exhibition (calc.)] is matched with Actual value :[Initial Exhibition (calc.)]</span>
+Jan 18,2017 13:16:55 [info]  Verify The data of Default value in Event Name
+<span style="color:green;">Jan 18,2017 13:16:55 [info]  Verified that Expected value :[Initial Exhibition of the Last Episode (calc.)] is matched with Actual value :[Initial Exhibition of the Last Episode (calc.)]</span>
+Jan 18,2017 13:16:56 [info]  Verify The data of Default value in Event Name
+<span style="color:green;">Jan 18,2017 13:16:56 [info]  Verified that Expected value :[License Term From (calc.)] is matched with Actual value :[License Term From (calc.)]</span>
+Jan 18,2017 13:16:56 [info]  Verify The data of Default value in Event Name
+<span style="color:green;">Jan 18,2017 13:16:56 [info]  Verified that Expected value :[License Term To (calc.)] is matched with Actual value :[License Term To (calc.)]</span>
+Jan 18,2017 13:16:59 [info]  Clicked on the ''Edit' Button at TrackingEvents TAB' using JS Executor
+Jan 18,2017 13:17:02 [info]  Verify The data of RI_TrackEvents_EventGroup
+<span style="color:green;">Jan 18,2017 13:17:02 [info]  Verified that Expected value :[*Event Group] is matched with Actual value :[*Event Group]</span>
+Jan 18,2017 13:17:02 [info]  Verify The data of RI_TrackEvents_Note
+<span style="color:green;">Jan 18,2017 13:17:02 [info]  Verified that Expected value :[Notes] is matched with Actual value :[Notes]</span>
+Jan 18,2017 13:17:02 [info]  Verify The data of Default Event Group Name
+<span style="color:green;">Jan 18,2017 13:17:02 [info]  Verified that Expected value :[Universal Events] is matched with Actual value :[Universal Events]</span>
+Jan 18,2017 13:17:02 [info]  Verify Default Value of Event Name Field in Edit Mode
+Jan 18,2017 13:17:02 [info]  Verify The data of Default Property Name
+<span style="color:green;">Jan 18,2017 13:17:02 [info]  Verified that Expected value :[Commencement of Principal Photography] is matched with Actual value :[Commencement of Principal Photography]</span>
+Jan 18,2017 13:17:02 [info]  Verify The data of Default value in Event Name
+<span style="color:green;">Jan 18,2017 13:17:02 [info]  Verified that Expected value :[Completion of Principal Photography] is matched with Actual value :[Completion of Principal Photography]</span>
+Jan 18,2017 13:17:02 [info]  Verify The data of Default value in Event Name
+<span style="color:green;">Jan 18,2017 13:17:02 [info]  Verified that Expected value :[Delivery Date] is matched with Actual value :[Delivery Date]</span>
+Jan 18,2017 13:17:03 [info]  Verify The data of Default value in Event Name
+<span style="color:green;">Jan 18,2017 13:17:03 [info]  Verified that Expected value :[Delivery of final and complete materials] is matched with Actual value :[Delivery of final and complete materials]</span>
+Jan 18,2017 13:17:03 [info]  Verify The data of Default value in Event Name
+<span style="color:green;">Jan 18,2017 13:17:03 [info]  Verified that Expected value :[Delivery of the Last Episode] is matched with Actual value :[Delivery of the Last Episode]</span>
+Jan 18,2017 13:17:03 [info]  Verify The data of Default value in Event Name
+<span style="color:green;">Jan 18,2017 13:17:03 [info]  Verified that Expected value :[Each Exhibition (WON event)] is matched with Actual value :[Each Exhibition (WON event)]</span>
+Jan 18,2017 13:17:03 [info]  Verify The data of Default value in Event Name
+<span style="color:green;">Jan 18,2017 13:17:03 [info]  Verified that Expected value :[Initial Exhibition (WON event)] is matched with Actual value :[Initial Exhibition (WON event)]</span>
+Jan 18,2017 13:17:03 [info]  Verify The data of Default value in Event Name
+<span style="color:green;">Jan 18,2017 13:17:03 [info]  Verified that Expected value :[Initial Exhibition (calc.)] is matched with Actual value :[Initial Exhibition (calc.)]</span>
+Jan 18,2017 13:17:03 [info]  Verify The data of Default value in Event Name
+<span style="color:green;">Jan 18,2017 13:17:03 [info]  Verified that Expected value :[Initial Exhibition of the Last Episode (calc.)] is matched with Actual value :[Initial Exhibition of the Last Episode (calc.)]</span>
+Jan 18,2017 13:17:03 [info]  Verify The data of Default value in Event Name
+<span style="color:green;">Jan 18,2017 13:17:03 [info]  Verified that Expected value :[License Term From (calc.)] is matched with Actual value :[License Term From (calc.)]</span>
+Jan 18,2017 13:17:03 [info]  Verify The data of Default value in Event Name
+<span style="color:green;">Jan 18,2017 13:17:03 [info]  Verified that Expected value :[License Term To (calc.)] is matched with Actual value :[License Term To (calc.)]</span>
+Jan 18,2017 13:17:03 [info]  
+Jan 18,2017 13:17:03 [info]  Manual Test Step : TC_7
+Jan 18,2017 13:17:03 [info]  Verify the Headers of Allocated row in Edit Window
+Jan 18,2017 13:17:03 [info]  Verify The data of Default Property Name
+<span style="color:green;">Jan 18,2017 13:17:03 [info]  Verified that Expected value :[*Property] is matched with Actual value :[*Property]</span>
+Jan 18,2017 13:17:04 [info]  Verify The data of *Tracking Event
+<span style="color:green;">Jan 18,2017 13:17:04 [info]  Verified that Expected value :[*Tracking Event] is matched with Actual value :[*Tracking Event]</span>
+Jan 18,2017 13:17:04 [info]  Verify The data of *Tracking Event
+<span style="color:green;">Jan 18,2017 13:17:04 [info]  Verified that Expected value :[Event Date] is matched with Actual value :[Event Date]</span>
+Jan 18,2017 13:17:04 [info]  Verify The data of Estimated Date
+<span style="color:green;">Jan 18,2017 13:17:04 [info]  Verified that Expected value :[Estimated Date] is matched with Actual value :[Estimated Date]</span>
+Jan 18,2017 13:17:04 [info]  
+Jan 18,2017 13:17:04 [info]  Verify the Buttons available at Edit Window
+Jan 18,2017 13:17:04 [info]  Verify The data of RI_TrackingEvents_EditMode_Copy
+<span style="color:green;">Jan 18,2017 13:17:04 [info]  Verified that Expected value :[Copy Row(s)] is matched with Actual value :[Copy Row(s)]</span>
+Jan 18,2017 13:17:04 [info]  Verify The data of RI_TrackingEvents_EditMode_New
+<span style="color:green;">Jan 18,2017 13:17:04 [info]  Verified that Expected value :[Add] is matched with Actual value :[Add]</span>
+Jan 18,2017 13:17:04 [info]  Verify The data of RI_TrackingEvents_EditMode_Delete
+<span style="color:green;">Jan 18,2017 13:17:04 [info]  Verified that Expected value :[Delete] is matched with Actual value :[Delete]</span>
+Jan 18,2017 13:17:04 [info]  Verify The data of RI_TrackingEvents_EditMode_Save
+<span style="color:green;">Jan 18,2017 13:17:04 [info]  Verified that Expected value :[Save] is matched with Actual value :[Save]</span>
+Jan 18,2017 13:17:04 [info]  Verify The data of RI_TrackingEvents_EditMode_Cancel
+<span style="color:green;">Jan 18,2017 13:17:04 [info]  Verified that Expected value :[Cancel] is matched with Actual value :[Cancel]</span>
+Jan 18,2017 13:17:04 [info]  Verify The data of RI_TrackingEvents_EditMode_Allocate
+<span style="color:green;">Jan 18,2017 13:17:04 [info]  Verified that Expected value :[Allocate] is matched with Actual value :[Allocate]</span>
+Jan 18,2017 13:17:04 [info]  
+Jan 18,2017 13:17:04 [info]  ---------------Click On Add btn >> Verify New Row Added >> Save >> verify Vali. msg >> Select 'Universal' >> -----------------
+Jan 18,2017 13:17:04 [info]  ---------------verify Headers of allocated row of Second Parent Row-----------------------
+Jan 18,2017 13:17:07 [info]  Clicked on the 'Add Button'
+Jan 18,2017 13:17:07 [info]  "New Row is Added" is Present
+Jan 18,2017 13:17:11 [info]  Clicked on the ''Save' Button at Edit window' using JS Executor
+<span style="color:green;">Jan 18,2017 13:17:14 [info]  Verified that Expected value :[Please enter values for required(*) fields.] is matched with Actual value :[Please enter values for required(*) fields.]</span>
+Jan 18,2017 13:17:14 [info]  Clicked on the 'Event Group Field of Second Row'
+Jan 18,2017 13:17:14 [info]  Clicked on the 'EventGroup Drop Down'
+Jan 18,2017 13:17:14 [info]  Clicked on the 'Universal Events in Event Group Field'
+Jan 18,2017 13:17:15 [info]  Clicked on the 'Support Click'
+Jan 18,2017 13:17:15 [info]  
+Jan 18,2017 13:17:15 [info]  Manual Test Step : TC_12
+Jan 18,2017 13:17:15 [info]  
+Jan 18,2017 13:17:15 [info]  Verify the Headers of Allocated row of Second Parent Row in Edit Window
+Jan 18,2017 13:17:15 [info]  Verify The data of *Property
+<span style="color:green;">Jan 18,2017 13:17:15 [info]  Verified that Expected value :[*Property] is matched with Actual value :[*Property]</span>
+Jan 18,2017 13:17:15 [info]  Verify The data of *Tracking Event
+<span style="color:green;">Jan 18,2017 13:17:15 [info]  Verified that Expected value :[*Tracking Event] is matched with Actual value :[*Tracking Event]</span>
+Jan 18,2017 13:17:15 [info]  Verify The data of Event Date
+<span style="color:green;">Jan 18,2017 13:17:15 [info]  Verified that Expected value :[Event Date] is matched with Actual value :[Event Date]</span>
+Jan 18,2017 13:17:15 [info]  Verify The data of Estimated Date
+<span style="color:green;">Jan 18,2017 13:17:15 [info]  Verified that Expected value :[Estimated Date] is matched with Actual value :[Estimated Date]</span>
+Jan 18,2017 13:17:18 [info]  Clicked on the ''Save' Button at Exhibition Rights Edit window' using JS Executor
+<span style="color:green;">Jan 18,2017 13:17:21 [info]  Verified that Expected value :[Please enter values for required(*) fields.] is matched with Actual value :[Please enter values for required(*) fields.]</span>
+Jan 18,2017 13:17:21 [info]  
+Jan 18,2017 13:17:21 [info]  ---------------Select All >> Enter DeliveryofFirstEpisode in Prop Field >> -----------------
+Jan 18,2017 13:17:21 [info]  Clicked on the 'Property Field of Allocated row of Second Parent Row'
+Jan 18,2017 13:17:21 [info]  Clicked on the 'EventGroup Drop Down'
+Jan 18,2017 13:17:21 [info]  Clicked on the 'All in Property Field'
+Jan 18,2017 13:17:21 [info]  Clicked on the 'Support Click'
+Jan 18,2017 13:17:22 [info]  Clicked on the 'Tracking Event Field of Allocated row of Second Parent Row'
+Jan 18,2017 13:17:22 [info]  Clicked on the 'EventGroup Drop Down'
+Jan 18,2017 13:17:22 [info]  Clicked on the 'Delivery of first episode (Final Cut) in Property Field'
+Jan 18,2017 13:17:22 [info]  Clicked on the 'Support Click'
+Jan 18,2017 13:17:22 [info]  Clicked on the 'Event Date Event Date'
+Jan 18,2017 13:17:22 [info]  Entered "01/01/2014" in field 'Event Date'
+Jan 18,2017 13:17:22 [info]  Clicked on the 'Support Click'
+Jan 18,2017 13:17:23 [info]  Clicked on the 'Estimated Date Check Box'
+Jan 18,2017 13:17:23 [info]  Verify The data of Estimated Date
+<span style="color:green;">Jan 18,2017 13:17:23 [info]  Verified that Expected value :[Checked] is matched with Actual value :[Checked]</span>
+Jan 18,2017 13:17:23 [info]  
+Jan 18,2017 13:17:23 [info]  Manual Test Step : TC_24
+Jan 18,2017 13:17:23 [info]  Clicked on the 'Note Icon of Second Row'
+Jan 18,2017 13:17:24 [info]  
+Jan 18,2017 13:17:24 [info]  *****  Notes *****
+Jan 18,2017 13:17:24 [info]  Verify Headers/Buttons of Note Pop up >> save >> Verify message >> Add New Row >> Check , Uncheck , Check the Restriction/IncludeInReport check box >> Verify Entered data >> Save Note >> Verify Note Window is not Shown
+Jan 18,2017 13:17:24 [info]  Verify The data of RI_BUSINESS_TERMS_Header1
+<span style="color:green;">Jan 18,2017 13:17:24 [info]  Verified that Expected value :[Note Category] is matched with Actual value :[Note Category]</span>
+Jan 18,2017 13:17:24 [info]  Verify The data of RI_BUSINESS_TERMS_Header2
+<span style="color:green;">Jan 18,2017 13:17:24 [info]  Verified that Expected value :[Template] is matched with Actual value :[Template]</span>
+Jan 18,2017 13:17:24 [info]  Verify The data of RI_BUSINESS_TERMS_Header3
+<span style="color:green;">Jan 18,2017 13:17:24 [info]  Verified that Expected value :[*Note] is matched with Actual value :[*Note]</span>
+Jan 18,2017 13:17:24 [info]  Verify The data of RI_BUSINESS_TERMS_Header4
+<span style="color:green;">Jan 18,2017 13:17:24 [info]  Verified that Expected value :[Restriction] is matched with Actual value :[Restriction]</span>
+Jan 18,2017 13:17:24 [info]  Verify The data of RI_NoteWindow_AddButton
+<span style="color:green;">Jan 18,2017 13:17:24 [info]  Verified that Expected value :[Add] is matched with Actual value :[Add]</span>
+Jan 18,2017 13:17:24 [info]  Verify The data of RI_NoteWindow_DeleteButton
+<span style="color:green;">Jan 18,2017 13:17:24 [info]  Verified that Expected value :[Delete] is matched with Actual value :[Delete]</span>
+Jan 18,2017 13:17:24 [info]  Verify The data of RI_NoteWindow_SaveButton
+<span style="color:green;">Jan 18,2017 13:17:24 [info]  Verified that Expected value :[Save] is matched with Actual value :[Save]</span>
+Jan 18,2017 13:17:24 [info]  Verify The data of RI_NoteWindow_CancelButton
+<span style="color:green;">Jan 18,2017 13:17:24 [info]  Verified that Expected value :[Cancel] is matched with Actual value :[Cancel]</span>
+Jan 18,2017 13:17:25 [info]  Clicked on the 'Add Button at Notes Window'
+Jan 18,2017 13:17:26 [info]  Clicked on the ''Save' Button at Note window' using JS Executor
+<span style="color:green;">Jan 18,2017 13:17:29 [info]  Verified that Expected value :[Please enter values for required(*) fields.] is matched with Actual value :[Please enter values for required(*) fields.]</span>
+Jan 18,2017 13:17:29 [info]  Clicked on the 'Business Term Field'
+Jan 18,2017 13:17:29 [info]  Clicked on the 'Business Term Drop Down image'
+<span style="color:red;">Jan 18,2017 13:17:59 [info]  ====Failed==== "General" field is not present'</span>
+Jan 18,2017 13:18:00 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Jan2017\\18\General_CheckpointFailure_01-18-2017 1-17-59 PM.jpg
+Jan 18,2017 13:18:00 [info]  Clicked on the 'Use Template Field'
+Jan 18,2017 13:18:00 [info]  Clicked on the 'Use Template Drop Down image'
+<span style="color:red;">Jan 18,2017 13:18:30 [info]  ====Failed==== "General" field is not present'</span>
+Jan 18,2017 13:18:30 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Jan2017\\18\General_CheckpointFailure_01-18-2017 1-18-30 PM.jpg
+Jan 18,2017 13:18:30 [info]  Clicked on the 'Term Description Field'
+Jan 18,2017 13:18:31 [info]  Entered "The copyright in the Picture will be held by Licensor, and Licensor shall register, renew, extend and protect such copyright in its name for the maximum period of time allowed by law and furnish Distributor with copies of such registrations. " in field 'Term Description Data'
+Jan 18,2017 13:18:31 [info]  
+Jan 18,2017 13:18:31 [info]  *********Verify Restriction check box*******
+Jan 18,2017 13:18:31 [info]  Clicked on the 'NoteWind_Restriction Check Box' using JS Executor
+Jan 18,2017 13:18:31 [info]  Verify The data of Restriction Check Box status
+<span style="color:green;">Jan 18,2017 13:18:31 [info]  Verified that Expected value :[Checked] is matched with Actual value :[Checked]</span>
+Jan 18,2017 13:18:34 [info]  Clicked on the 'NoteWind_Restriction Check Box'
+Jan 18,2017 13:18:34 [info]  Verify The data of Restriction Check Box status
+<span style="color:green;">Jan 18,2017 13:18:34 [info]  Verified that Expected value :[Unchecked] is matched with Actual value :[Unchecked]</span>
+Jan 18,2017 13:18:37 [info]  Clicked on the 'NoteWind_Restriction Check Box'
+Jan 18,2017 13:18:38 [info]  Verify The data of Restriction Check Box status
+<span style="color:green;">Jan 18,2017 13:18:38 [info]  Verified that Expected value :[Checked] is matched with Actual value :[Checked]</span>
+Jan 18,2017 13:18:38 [info]  
+Jan 18,2017 13:18:38 [info]  *********Verify includeInReport check box*******
+Jan 18,2017 13:18:38 [info]  Clicked on the 'NoteWind_includeInReport Check Box'
+Jan 18,2017 13:18:38 [info]  "NoteWind_includeInReport Check Box is Checked" is Present
+Jan 18,2017 13:18:41 [info]  Clicked on the 'NoteWind_includeInReport Check Box'
+Jan 18,2017 13:18:41 [info]  "NoteWind_includeInReport Check Box is Unchecked" is Present
+Jan 18,2017 13:18:44 [info]  Clicked on the 'NoteWind_includeInReport Check Box'
+Jan 18,2017 13:18:44 [info]  "NoteWind_includeInReport Check Box is Checked" is Present
+Jan 18,2017 13:18:44 [info]  Verify The data of RI_MediaRights_NoteWind_Category_HeaderName
+<span style="color:red;">Jan 18,2017 13:18:44 [info]  ====Failed==== Expected value is:[General] but Actual value is[-725645068]. Please check the screenshot with name: RI_MediaRights_NoteWind_Category_HeaderNamefor more details</span>
+Jan 18,2017 13:18:45 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Jan2017\\18\RI_MediaRights_NoteWind_Category_HeaderName_CheckpointFailure_01-18-2017 1-18-44 PM.jpg
+Jan 18,2017 13:18:45 [info]  Clicked on the ''Save' Button at Note window' using JS Executor
+Jan 18,2017 13:19:19 [info]  "Note Window" is disable or not Present
+Jan 18,2017 13:19:23 [info]  Clicked on the ''Save' Button at Exhibition Rights Edit window' using JS Executor
+Jan 18,2017 13:19:26 [info]  
+Jan 18,2017 13:19:26 [info]  Manual Test Step : TC_36
+Jan 18,2017 13:19:29 [info]  Clicked on the ''Edit' Button at TrackingEvents TAB' using JS Executor
+Jan 18,2017 13:19:30 [info]  Clicked on the 'Delete Button'
+Jan 18,2017 13:19:33 [info]  Verify The data of Alert Message on clicking 'Delete Button'
+<span style="color:green;">Jan 18,2017 13:19:33 [info]  Verified that Expected value :[Please select a row before clicking Delete.] is matched with Actual value :[Please select a row before clicking Delete.]</span>
+Jan 18,2017 13:19:33 [info]  Clicked on the 'OK Button At Alert Pop-Up' using JS Executor
+Jan 18,2017 13:19:33 [info]  Clicked on the 'Child Row'
+Jan 18,2017 13:19:33 [info]  Clicked on the 'Delete Button'
+Jan 18,2017 13:19:36 [info]  Verify The data of Alert Message on clicking 'Delete Button'
+<span style="color:green;">Jan 18,2017 13:19:36 [info]  Verified that Expected value :[Are you sure you want to delete selected row(s)?] is matched with Actual value :[Are you sure you want to delete selected row(s)?]</span>
+Jan 18,2017 13:19:42 [info]  Clicked on the 'OK Button At Confirm Pop-Up' using JS Executor
+Jan 18,2017 13:19:48 [info]  Clicked on the ''Save' Button at Exhibition Rights Edit window' using JS Executor
+Jan 18,2017 13:19:48 [info]  Verifyied the data of First Row of TrackingEvent
+Jan 18,2017 13:19:48 [info]  Test 'TC1_UI_Verification' PASSED
+Jan 18,2017 13:19:49 [info]  Closed the Browser
+Jan 18,2017 15:05:05 [info]  ********************Started Executiong the Test Suite at 15:05:05******************
+Jan 18,2017 15:05:05 [info]  Client: VMN
+Jan 18,2017 15:05:05 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Jan 18,2017 15:05:05 [info]  *********************Started Executing 'TC5_InitialExhibition_Of_LastEpisodes_Calc' Test Case*********************
+Jan 18,2017 15:05:16 [info]  Client: VMN
+Jan 18,2017 15:05:16 [info]  URL: http://rlv3wb53/Home.aspx
+Jan 18,2017 15:05:16 [info]  UserName: admin
+Jan 18,2017 15:05:16 [info]  Password: admin
+Jan 18,2017 15:05:17 [info]  Entered "admin" in field 'User Name'
+Jan 18,2017 15:05:17 [info]  Clicked on the 'Temporary Check Box'
+Jan 18,2017 15:05:17 [info]  Entered "admin" in field 'Password'
+Jan 18,2017 15:05:26 [info]  Clicked on the 'LoginButton'
+Jan 18,2017 15:06:21 [info]  ********************Started Executiong the Test Suite at 15:06:21******************
+Jan 18,2017 15:06:21 [info]  Client: VMN
+Jan 18,2017 15:06:21 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Jan 18,2017 15:06:21 [info]  *********************Started Executing 'TC5_InitialExhibition_Of_LastEpisodes_Calc' Test Case*********************
+Jan 18,2017 15:06:32 [info]  Client: VMN
+Jan 18,2017 15:06:32 [info]  URL: http://cgptwb01/Home.aspx
+Jan 18,2017 15:06:32 [info]  UserName: admin
+Jan 18,2017 15:06:32 [info]  Password: admin1
+Jan 18,2017 15:06:35 [info]  Entered "admin" in field 'User Name'
+Jan 18,2017 15:06:35 [info]  Clicked on the 'Temporary Check Box'
+Jan 18,2017 15:06:35 [info]  Entered "admin1" in field 'Password'
+Jan 18,2017 15:06:46 [info]  Clicked on the 'LoginButton'
+Jan 18,2017 15:07:06 [info]  Double clicked on 'AUT_Deal_0111201771928Deal'
+Jan 18,2017 15:07:09 [info]  
+Jan 18,2017 15:07:09 [info]  Manual Test Step : TC_1
+Jan 18,2017 15:07:09 [info]  Clicked on the 'Tracking Events TAB'
+Jan 18,2017 15:07:12 [info]  Verify EventDate in View Mode >> Edit >>  EventDate in Edit Mode
+Jan 18,2017 15:07:12 [info]  Verify The data of Event Date
+<span style="color:green;">Jan 18,2017 15:07:12 [info]  Verified that Expected value :[01/05/2014] is matched with Actual value :[01/05/2014]</span>
+Jan 18,2017 15:07:15 [info]  Clicked on the ''Edit' Button at TrackingEvents TAB' using JS Executor
+Jan 18,2017 15:07:18 [info]  Verify The data of Event Date
+<span style="color:green;">Jan 18,2017 15:07:18 [info]  Verified that Expected value :[01/05/2014] is matched with Actual value :[01/05/2014]</span>
+Jan 18,2017 15:07:18 [info]  
+Jan 18,2017 15:07:18 [info]  Change the Property of Event Date Initial Exhibition of the Last Episode (calc.)to Season 1.Original Version
+Jan 18,2017 15:07:18 [info]  >> Save >> Verify EventDate and PropertyName in View mode >> Edit  >> Verify the same in Edit Mode
+Jan 18,2017 15:07:18 [info]  Clicked on the '*Property'
+Jan 18,2017 15:07:19 [info]  Clicked on the 'Property Drop Down'
+Jan 18,2017 15:07:19 [info]  Clicked on the 'Season 1.Original Version in Property Field'
+Jan 18,2017 15:07:19 [info]  Clicked on the 'Support Click'
+Jan 18,2017 15:07:24 [info]  Clicked on the ''Save' Button at TrackingEvents Edit window' using JS Executor
+Jan 18,2017 15:07:28 [info]  Verify The data of *Property
+<span style="color:green;">Jan 18,2017 15:07:28 [info]  Verified that Expected value :[Season 1.Original Version] is matched with Actual value :[Season 1.Original Version]</span>
+Jan 18,2017 15:07:28 [info]  Verify The data of Event Date
+<span style="color:red;">Jan 18,2017 15:07:28 [info]  ====Failed==== Expected value is:[01/05/2014] but Actual value is[01/01/2014]. Please check the screenshot with name: Event Datefor more details</span>
+Jan 18,2017 15:07:28 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Jan2017\\18\Event Date_CheckpointFailure_01-18-2017 3-07-28 PM.jpg
+Jan 18,2017 15:07:33 [info]  Clicked on the ''Edit' Button at TrackingEvents TAB' using JS Executor
+Jan 18,2017 15:07:36 [info]  Verify The data of *Property
+<span style="color:green;">Jan 18,2017 15:07:36 [info]  Verified that Expected value :[Season 1.Original Version] is matched with Actual value :[Season 1.Original Version]</span>
+Jan 18,2017 15:07:36 [info]  Verify The data of Event Date
+<span style="color:red;">Jan 18,2017 15:07:36 [info]  ====Failed==== Expected value is:[01/05/2014] but Actual value is[01/01/2014]. Please check the screenshot with name: Event Datefor more details</span>
+Jan 18,2017 15:07:36 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Jan2017\\18\Event Date_CheckpointFailure_01-18-2017 3-07-36 PM.jpg
+Jan 18,2017 15:07:36 [info]  
+Jan 18,2017 15:07:36 [info]  Change the Property of Event Date Initial Exhibition of the Last Episode (calc.)to Season 2.Original Version
+Jan 18,2017 15:07:36 [info]  >> Save >> Verify EventDate and PropertyName in View mode >> Edit  >> Verify the same in Edit Mode
+Jan 18,2017 15:07:37 [info]  Clicked on the '*Property'
+Jan 18,2017 15:07:37 [info]  Clicked on the 'Property Drop Down'
+Jan 18,2017 15:07:37 [info]  Clicked on the 'Season 1.Original Version in Property Field'
+Jan 18,2017 15:07:37 [info]  Clicked on the 'Support Click'
+Jan 18,2017 15:07:43 [info]  Clicked on the ''Save' Button at TrackingEvents Edit window' using JS Executor
+Jan 18,2017 15:07:46 [info]  Verify The data of *Property
+<span style="color:green;">Jan 18,2017 15:07:46 [info]  Verified that Expected value :[Season 2.Original Version] is matched with Actual value :[Season 2.Original Version]</span>
+Jan 18,2017 15:07:46 [info]  Verify The data of Event Date
+<span style="color:green;">Jan 18,2017 15:07:46 [info]  Verified that Expected value :[01/05/2014] is matched with Actual value :[01/05/2014]</span>
+Jan 18,2017 15:07:49 [info]  Clicked on the ''Edit' Button at TrackingEvents TAB' using JS Executor
+Jan 18,2017 15:07:52 [info]  Verify The data of *Property
+<span style="color:green;">Jan 18,2017 15:07:52 [info]  Verified that Expected value :[Season 2.Original Version] is matched with Actual value :[Season 2.Original Version]</span>
+Jan 18,2017 15:07:52 [info]  Verify The data of Event Date
+<span style="color:green;">Jan 18,2017 15:07:52 [info]  Verified that Expected value :[01/05/2014] is matched with Actual value :[01/05/2014]</span>
+Jan 18,2017 15:07:52 [info]  Test 'TC5_InitialExhibition_Of_LastEpisodes_Calc' PASSED
+Jan 18,2017 15:07:53 [info]  Closed the Browser
+Jan 18,2017 16:58:20 [info]  ********************Started Executiong the Test Suite at 16:58:20******************
+Jan 18,2017 16:58:20 [info]  Client: VMN
+Jan 18,2017 16:58:20 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Jan 18,2017 16:58:20 [info]  *********************Started Executing 'createData' Test Case*********************
+Jan 18,2017 16:58:31 [info]  Client: VMN
+Jan 18,2017 16:58:31 [info]  URL: http://cgptwb01/Home.aspx
+Jan 18,2017 16:58:31 [info]  UserName: admin
+Jan 18,2017 16:58:31 [info]  Password: admin1
+Jan 18,2017 16:58:33 [info]  Entered "admin" in field 'User Name'
+Jan 18,2017 16:58:34 [info]  Clicked on the 'Temporary Check Box'
+Jan 18,2017 16:58:34 [info]  Entered "admin1" in field 'Password'
+Jan 18,2017 16:58:46 [info]  Clicked on the 'LoginButton'
+Jan 18,2017 16:58:52 [info]  ************************Started Creating Asset of Type: Program - Series************************
+Jan 18,2017 16:58:56 [info]  Clicked on the 'MODULE'
+Jan 18,2017 16:59:03 [info]  Clicked on the 'Property Entry & Maintenance'
+Jan 18,2017 16:59:09 [info]  Clicked on the 'SearchLink' using JS Executor
+Jan 18,2017 16:59:17 [info]  Clicked on the 'Property Search' using JS Executor
+Jan 18,2017 16:59:23 [info]  Clicked on the 'TR_Asset_Search_Params' using JS Executor
+Jan 18,2017 16:59:23 [info]  Entered "AUT_AssetSeries_TC3_0118201745820" in field 'Asset Title'
+Jan 18,2017 16:59:28 [info]  Clicked on the 'Find Button' using JS Executor
+Jan 18,2017 16:59:34 [info]  Verify The data of Alert Message
+<span style="color:green;">Jan 18,2017 16:59:34 [info]  Verified that Expected value :[No search results were found for this query. Please try again using different criteria.] is matched with Actual value :[No search results were found for this query. Please try again using different criteria.]</span>
+Jan 18,2017 16:59:34 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Jan 18,2017 16:59:34 [info]  Clicked on the 'Ok button At Alert' using JS Executor
+Jan 18,2017 16:59:40 [info]  Clicked on the 'Add Asset Button' using JS Executor
+Jan 18,2017 16:59:44 [info]  Selected "Program" in "AssetTypeDropDown Pop upn VMN" drop down
+Jan 18,2017 16:59:54 [info]  Clicked on the 'OK Button'
+Jan 18,2017 17:00:01 [info]  Asset id is 190194
+Jan 18,2017 17:00:09 [info]  Selected "Program - Series" in "AssetTypeDropDown" drop down
+Jan 18,2017 17:00:13 [info]  Entered "AUT_AssetSeries_TC3_0118201745820" in field 'AssetTitle'
+Jan 18,2017 17:00:14 [info]  Clicked on the 'IPImageIcon' using JS Executor
+Jan 18,2017 17:00:15 [info]  Clicked on the 'Find Button' using JS Executor
+Jan 18,2017 17:00:18 [info]  Clicked on the 'loc_IPName_AT_IPWindow'
+Jan 18,2017 17:00:18 [info]  Clicked on the 'IP Select Button' using JS Executor
+Jan 18,2017 17:00:19 [info]  Clicked on the 'Vendor Img Icon' using JS Executor
+Jan 18,2017 17:00:20 [info]  Entered "AUT_VMN_Vendor1" in field 'SearchvalueVendor'
+Jan 18,2017 17:00:31 [info]  Clicked on the 'VendorWindowButtonfind' using JS Executor
+Jan 18,2017 17:00:37 [info]  Clicked on the 'VendorName At VendorWindow'
+Jan 18,2017 17:00:37 [info]  Clicked on the 'Vendor Select Button' using JS Executor
+Jan 18,2017 17:00:40 [info]  Verify The data of Vendor1
+<span style="color:green;">Jan 18,2017 17:00:40 [info]  Verified that Expected value :[AUT_VMN_Vendor1] is matched with Actual value :[AUT_VMN_Vendor1]</span>
+Jan 18,2017 17:00:41 [info]  Clicked on the 'StudioImageIcon' using JS Executor
+<span style="color:green;">Jan 18,2017 17:00:41 [info]  Verified that Expected value :[Select Copyright Owner] is matched with Actual value :[Select Copyright Owner]</span>
+Jan 18,2017 17:00:42 [info]  Entered "AUT_VMN_Studio" in field 'Studio Name'
+Jan 18,2017 17:00:51 [info]  Clicked on the 'Find Button' using JS Executor
+Jan 18,2017 17:01:00 [info]  Clicked on the 'VendorName At VendorWindow'
+Jan 18,2017 17:01:00 [info]  Clicked on the 'Vendor Select Button' using JS Executor
+Jan 18,2017 17:01:03 [info]  Verify The data of Studio/Vendor2
+<span style="color:green;">Jan 18,2017 17:01:03 [info]  Verified that Expected value :[AUT_VMN_Studio] is matched with Actual value :[AUT_VMN_Studio]</span>
+Jan 18,2017 17:01:04 [info]  Clicked on the 'SBUImage' using JS Executor
+<span style="color:green;">Jan 18,2017 17:01:04 [info]  Verified that Expected value :[Channel / Entity Template] is matched with Actual value :[Channel / Entity Template]</span>
+Jan 18,2017 17:01:10 [info]  Clicked on the 'First CheckBox At SBU window'
+Jan 18,2017 17:01:13 [info]  Clicked on the 'Apply Button' using JS Executor
+Jan 18,2017 17:01:13 [info]  Entered "11:11:11" in field 'Duration'
+Jan 18,2017 17:01:43 [info]  Selected "Active Production" in "Asset Status" drop down
+Jan 18,2017 17:01:43 [info]  Selected "Animated" in "Asset Format" drop down
+Jan 18,2017 17:01:43 [info]  Selected "Co-Production" in "Asset Source" drop down
+Jan 18,2017 17:01:44 [info]  Selected "Television" in "Asset Category/Group" drop down
+Jan 18,2017 17:01:44 [info]  Entered "" in field 'ProjectID'
+Jan 18,2017 17:01:44 [info]  Selected "TBD" in "Client Group" drop down
+Jan 18,2017 17:01:44 [info]  Selected "In Progress" in "PROD Contract Entry/AssetData Status" drop down
+Jan 18,2017 17:01:44 [info]  Clicked on the 'Save Button' using JS Executor
+<span style="color:green;">Jan 18,2017 17:02:07 [info]  Verified that Expected value :[AUT_AssetSeries_TC3_0118201745820] is matched with Actual value :[AUT_AssetSeries_TC3_0118201745820]</span>
+Jan 18,2017 17:02:07 [info]  ************************Created Asset of TypeProgram - Series************************
+Jan 18,2017 17:02:11 [info]  Clicked on the 'MODULE'
+Jan 18,2017 17:02:25 [info]  Clicked on the 'Property Entry & Maintenance'
+Jan 18,2017 17:02:28 [info]  Clicked on the 'Search Icon' using JS Executor
+Jan 18,2017 17:02:31 [info]  Clicked on the 'Property Search' using JS Executor
+Jan 18,2017 17:02:40 [info]  Entered "AUT_AssetSeries_TC3_0118201745820" in field 'AssetTitle'
+Jan 18,2017 17:02:49 [info]  Clicked on the 'Find Button' using JS Executor
+Jan 18,2017 17:03:14 [info]  Moved Mouse over 'First Asset in the Searched Asset'
+Jan 18,2017 17:03:14 [info]  Clicked on the 'First Asset in the Searched Asset'
+Jan 18,2017 17:03:14 [info]  Clicked on the 'First Asset in the Searched Asset'
+Jan 18,2017 17:03:17 [info]  Clicked on the 'View Asset' using JS Executor
+<span style="color:green;">Jan 18,2017 17:03:29 [info]  Verified that Expected value :[AUT_AssetSeries_TC3_0118201745820] is matched with Actual value :[AUT_AssetSeries_TC3_0118201745820]</span>
+Jan 18,2017 17:03:35 [info]  Clicked on the 'Episodes TAB'
+Jan 18,2017 17:03:41 [info]  Clicked on the ''Edit' Button at Episode window' using JS Executor
+Jan 18,2017 17:03:47 [info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Jan 18,2017 17:03:50 [info]  Entered "101" in field 'Add Episode input field'
+Jan 18,2017 17:03:55 [info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Jan 18,2017 17:04:03 [info]  Clicked on the 'Season Field of Episode101' using JS Executor
+Jan 18,2017 17:04:03 [info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Jan 18,2017 17:04:03 [info]  Clicked on the 'Season 1.Original Version'
+Jan 18,2017 17:04:03 [info]  Clicked on the 'Support click to select season'
+Jan 18,2017 17:04:06 [info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Jan 18,2017 17:04:07 [info]  Entered "102" in field 'Add Episode input field'
+Jan 18,2017 17:04:10 [info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Jan 18,2017 17:04:21 [info]  Clicked on the 'Season Field of Episode102' using JS Executor
+Jan 18,2017 17:04:21 [info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Jan 18,2017 17:04:21 [info]  Clicked on the 'Season 1.Original Version'
+Jan 18,2017 17:04:21 [info]  Clicked on the 'Support click to select season'
+Jan 18,2017 17:04:21 [info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Jan 18,2017 17:04:21 [info]  Entered "201" in field 'Add Episode input field'
+Jan 18,2017 17:04:26 [info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Jan 18,2017 17:04:37 [info]  Clicked on the 'Season Field of Episode201' using JS Executor
+Jan 18,2017 17:04:38 [info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Jan 18,2017 17:04:38 [info]  Clicked on the 'Season 2.Original Version'
+Jan 18,2017 17:04:38 [info]  Clicked on the 'Support click to select season'
+Jan 18,2017 17:04:41 [info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Jan 18,2017 17:04:41 [info]  Entered "202" in field 'Add Episode input field'
+Jan 18,2017 17:04:45 [info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Jan 18,2017 17:04:53 [info]  Clicked on the 'Support click to select season'
+Jan 18,2017 17:04:56 [info]  Clicked on the 'Season Field of Episode201' using JS Executor
+Jan 18,2017 17:04:56 [info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Jan 18,2017 17:04:56 [info]  Clicked on the 'Season 2.Original Version'
+Jan 18,2017 17:04:57 [info]  Clicked on the 'Support click to select season'
+Jan 18,2017 17:04:57 [info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Jan 18,2017 17:05:00 [info]  Entered "301" in field 'Add Episode input field'
+Jan 18,2017 17:05:08 [info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Jan 18,2017 17:05:16 [info]  Clicked on the 'Season Field of Episode101' using JS Executor
+Jan 18,2017 17:05:17 [info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Jan 18,2017 17:05:17 [info]  Clicked on the 'Season 1.Original Version'
+Jan 18,2017 17:05:17 [info]  Clicked on the 'Support click to select season'
+Jan 18,2017 17:05:20 [info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Jan 18,2017 17:05:20 [info]  Entered "302" in field 'Add Episode input field'
+Jan 18,2017 17:05:24 [info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Jan 18,2017 17:05:36 [info]  Clicked on the 'Season Field of Episode102' using JS Executor
+Jan 18,2017 17:05:36 [info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Jan 18,2017 17:05:36 [info]  Clicked on the 'Season 1.Original Version'
+Jan 18,2017 17:05:36 [info]  Clicked on the 'Support click to select season'
+Jan 18,2017 17:05:46 [info]  Clicked on the 'Save Button at 'Episode Edit Window'' using JS Executor
+Jan 18,2017 17:05:52 [info]  Clicked on the 'Close Button at 'Episode Edit Window'' using JS Executor
+<span style="color:red;">Jan 18,2017 17:05:58 [info]  ====Failed==== "Episodes TAB" field is not present'</span>
+Jan 18,2017 17:05:59 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Jan2017\\18\Episodes TAB_CheckpointFailure_01-18-2017 5-05-58 PM.jpg
+Jan 18,2017 17:06:02 [info]  Clicked on the ''Edit' Button at Episode window' using JS Executor
+Jan 18,2017 17:06:08 [info]  Double clicked on 'Clear Filter'
+Jan 18,2017 17:06:11 [info]  Clicked on the 'Initial Air Date of Epi102'
+Jan 18,2017 17:06:18 [info]  Entered "01/01/2012" in field 'Episodes_InitialAirDate_InputField'
+Jan 18,2017 17:06:18 [info]  Clicked on the 'Support click to select Initial Air Date'
+Jan 18,2017 17:06:21 [info]  Clicked on the 'Initial Air Date of Epi202'
+Jan 18,2017 17:06:21 [info]  Entered "02/01/2014" in field 'Episodes_InitialAirDate_InputField'
+Jan 18,2017 17:06:21 [info]  Clicked on the 'Support click to select Initial Air Date'
+Jan 18,2017 17:06:24 [info]  Clicked on the 'Initial Air Date of Epi302'
+Jan 18,2017 17:06:24 [info]  Entered "03/01/2014" in field 'Episodes_InitialAirDate_InputField'
+Jan 18,2017 17:06:25 [info]  Clicked on the 'Support click to select Initial Air Date'
+Jan 18,2017 17:06:28 [info]  Test 'createData' FAILED
+Jan 18,2017 17:06:28 [info]  2
+Jan 18,2017 17:06:28 [info]  Test Case :createData's Screenshot of Failure Page: C:\Screenshots\Jan2017\\18\createData_01-18-2017 5-06-28 PM.jpg
+Jan 18,2017 17:06:29 [info]  Closed the Browser
+Jan 18,2017 17:08:28 [info]  ********************Started Executiong the Test Suite at 17:08:28******************
+Jan 18,2017 17:08:28 [info]  Client: VMN
+Jan 18,2017 17:08:28 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Jan 18,2017 17:08:28 [info]  *********************Started Executing 'createData' Test Case*********************
+Jan 18,2017 17:08:39 [info]  Client: VMN
+Jan 18,2017 17:08:39 [info]  URL: http://cgptwb01/Home.aspx
+Jan 18,2017 17:08:39 [info]  UserName: admin
+Jan 18,2017 17:08:39 [info]  Password: admin1
+Jan 18,2017 17:08:42 [info]  Entered "admin" in field 'User Name'
+Jan 18,2017 17:08:42 [info]  Clicked on the 'Temporary Check Box'
+Jan 18,2017 17:08:42 [info]  Entered "admin1" in field 'Password'
+Jan 18,2017 17:08:52 [info]  Clicked on the 'LoginButton'
+Jan 18,2017 17:09:01 [info]  Clicked on the 'MODULE'
+Jan 18,2017 17:09:11 [info]  Clicked on the 'Property Entry & Maintenance'
+Jan 18,2017 17:09:14 [info]  Clicked on the 'Search Icon' using JS Executor
+Jan 18,2017 17:09:20 [info]  Clicked on the 'Property Search' using JS Executor
+Jan 18,2017 17:09:29 [info]  Entered "AUT_AssetSeries_TC3_0118201745820" in field 'AssetTitle'
+Jan 18,2017 17:09:33 [info]  Clicked on the 'Find Button' using JS Executor
+Jan 18,2017 17:09:58 [info]  Moved Mouse over 'First Asset in the Searched Asset'
+Jan 18,2017 17:09:58 [info]  Clicked on the 'First Asset in the Searched Asset'
+Jan 18,2017 17:09:58 [info]  Clicked on the 'First Asset in the Searched Asset'
+Jan 18,2017 17:10:01 [info]  Clicked on the 'View Asset' using JS Executor
+<span style="color:green;">Jan 18,2017 17:10:14 [info]  Verified that Expected value :[AUT_AssetSeries_TC3_0118201745820] is matched with Actual value :[AUT_AssetSeries_TC3_0118201745820]</span>
+Jan 18,2017 17:10:21 [info]  Clicked on the 'Episodes TAB'
+Jan 18,2017 17:10:28 [info]  Clicked on the ''Edit' Button at Episode window' using JS Executor
+Jan 18,2017 17:10:34 [info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Jan 18,2017 17:10:37 [info]  Entered "101" in field 'Add Episode input field'
+Jan 18,2017 17:10:44 [info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Jan 18,2017 17:10:52 [info]  Clicked on the 'Season Field of Episode101' using JS Executor
+Jan 18,2017 17:10:52 [info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Jan 18,2017 17:10:52 [info]  Clicked on the 'Season 1.Original Version'
+Jan 18,2017 17:10:52 [info]  Clicked on the 'Support click to select season'
+Jan 18,2017 17:10:55 [info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Jan 18,2017 17:10:56 [info]  Entered "102" in field 'Add Episode input field'
+Jan 18,2017 17:10:59 [info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Jan 18,2017 17:11:10 [info]  Clicked on the 'Season Field of Episode102' using JS Executor
+Jan 18,2017 17:11:10 [info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Jan 18,2017 17:11:10 [info]  Clicked on the 'Season 1.Original Version'
+Jan 18,2017 17:11:11 [info]  Clicked on the 'Support click to select season'
+Jan 18,2017 17:11:11 [info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Jan 18,2017 17:11:11 [info]  Entered "201" in field 'Add Episode input field'
+Jan 18,2017 17:11:15 [info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Jan 18,2017 17:11:26 [info]  Clicked on the 'Season Field of Episode201' using JS Executor
+Jan 18,2017 17:11:26 [info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Jan 18,2017 17:11:26 [info]  Clicked on the 'Season 2.Original Version'
+Jan 18,2017 17:11:26 [info]  Clicked on the 'Support click to select season'
+Jan 18,2017 17:11:30 [info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Jan 18,2017 17:11:30 [info]  Entered "202" in field 'Add Episode input field'
+Jan 18,2017 17:11:34 [info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Jan 18,2017 17:11:42 [info]  Clicked on the 'Support click to select season'
+Jan 18,2017 17:11:45 [info]  Clicked on the 'Season Field of Episode201' using JS Executor
+Jan 18,2017 17:11:45 [info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Jan 18,2017 17:11:45 [info]  Clicked on the 'Season 2.Original Version'
+Jan 18,2017 17:11:46 [info]  Clicked on the 'Support click to select season'
+Jan 18,2017 17:11:46 [info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Jan 18,2017 17:11:49 [info]  Entered "301" in field 'Add Episode input field'
+Jan 18,2017 17:11:57 [info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Jan 18,2017 17:12:05 [info]  Clicked on the 'Season Field of Episode101' using JS Executor
+Jan 18,2017 17:12:05 [info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Jan 18,2017 17:12:06 [info]  Clicked on the 'Season 1.Original Version'
+Jan 18,2017 17:12:06 [info]  Clicked on the 'Support click to select season'
+Jan 18,2017 17:12:09 [info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Jan 18,2017 17:12:09 [info]  Entered "302" in field 'Add Episode input field'
+Jan 18,2017 17:12:15 [info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Jan 18,2017 17:12:27 [info]  Clicked on the 'Season Field of Episode102' using JS Executor
+Jan 18,2017 17:12:27 [info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Jan 18,2017 17:12:27 [info]  Clicked on the 'Season 1.Original Version'
+Jan 18,2017 17:12:27 [info]  Clicked on the 'Support click to select season'
+Jan 18,2017 17:12:37 [info]  Clicked on the 'Save Button at 'Episode Edit Window'' using JS Executor
+Jan 18,2017 17:12:43 [info]  Clicked on the 'Close Button at 'Episode Edit Window'' using JS Executor
+<span style="color:red;">Jan 18,2017 17:12:49 [info]  ====Failed==== "Episodes TAB" field is not present'</span>
+Jan 18,2017 17:12:50 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Jan2017\\18\Episodes TAB_CheckpointFailure_01-18-2017 5-12-49 PM.jpg
+Jan 18,2017 17:12:53 [info]  Clicked on the ''Edit' Button at Episode window' using JS Executor
+Jan 18,2017 17:14:56 [info]  Could not find the locator: Clear Filter'
+Jan 18,2017 17:14:57 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Jan2017\\18\Clear Filter_CheckpointFailure_01-18-2017 5-14-56 PM.jpg
+<span style="color:red;">Jan 18,2017 17:16:57 [info]  ====Failed==== "Initial Air Date of Epi102" field is not present'</span>
+Jan 18,2017 17:16:57 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Jan2017\\18\Initial Air Date of Epi102_CheckpointFailure_01-18-2017 5-16-57 PM.jpg
+<span style="color:red;">Jan 18,2017 17:17:28 [info]  ====Failed==== "Episodes_InitialAirDate_InputField" field is not present'Episodes_InitialAirDate_InputField'</span>
+Jan 18,2017 17:17:28 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Jan2017\\18\Episodes_InitialAirDate_InputField_CheckpointFailure_01-18-2017 5-17-28 PM.jpg
+<span style="color:red;">Jan 18,2017 17:17:28 [info]  ====Failed==== "Support click to select Initial Air Date" field is not present'</span>
+Jan 18,2017 17:17:28 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Jan2017\\18\Support click to select Initial Air Date_CheckpointFailure_01-18-2017 5-17-28 PM.jpg
+<span style="color:red;">Jan 18,2017 17:17:32 [info]  ====Failed==== "Initial Air Date of Epi202" field is not present'</span>
+Jan 18,2017 17:17:32 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Jan2017\\18\Initial Air Date of Epi202_CheckpointFailure_01-18-2017 5-17-32 PM.jpg
+<span style="color:red;">Jan 18,2017 17:18:02 [info]  ====Failed==== "Episodes_InitialAirDate_InputField" field is not present'Episodes_InitialAirDate_InputField'</span>
+Jan 18,2017 17:18:02 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Jan2017\\18\Episodes_InitialAirDate_InputField_CheckpointFailure_01-18-2017 5-18-02 PM.jpg
+<span style="color:red;">Jan 18,2017 17:18:02 [info]  ====Failed==== "Support click to select Initial Air Date" field is not present'</span>
+Jan 18,2017 17:18:03 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Jan2017\\18\Support click to select Initial Air Date_CheckpointFailure_01-18-2017 5-18-02 PM.jpg
+<span style="color:red;">Jan 18,2017 17:18:06 [info]  ====Failed==== "Initial Air Date of Epi302" field is not present'</span>
+Jan 18,2017 17:18:06 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Jan2017\\18\Initial Air Date of Epi302_CheckpointFailure_01-18-2017 5-18-06 PM.jpg
+<span style="color:red;">Jan 18,2017 17:18:36 [info]  ====Failed==== "Episodes_InitialAirDate_InputField" field is not present'Episodes_InitialAirDate_InputField'</span>
+Jan 18,2017 17:18:37 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Jan2017\\18\Episodes_InitialAirDate_InputField_CheckpointFailure_01-18-2017 5-18-36 PM.jpg
+<span style="color:red;">Jan 18,2017 17:18:37 [info]  ====Failed==== "Support click to select Initial Air Date" field is not present'</span>
+Jan 18,2017 17:18:37 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Jan2017\\18\Support click to select Initial Air Date_CheckpointFailure_01-18-2017 5-18-37 PM.jpg
+Jan 18,2017 17:18:40 [info]  Test 'createData' FAILED
+Jan 18,2017 17:18:40 [info]  2
+Jan 18,2017 17:18:41 [info]  Test Case :createData's Screenshot of Failure Page: C:\Screenshots\Jan2017\\18\createData_01-18-2017 5-18-40 PM.jpg
+Jan 18,2017 17:18:42 [info]  Closed the Browser
+Jan 18,2017 17:52:23 [info]  ********************Started Executiong the Test Suite at 17:52:23******************
+Jan 18,2017 17:52:23 [info]  Client: VMN
+Jan 18,2017 17:52:23 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Jan 18,2017 17:52:23 [info]  *********************Started Executing 'createData' Test Case*********************
+Jan 18,2017 17:52:34 [info]  Client: VMN
+Jan 18,2017 17:52:34 [info]  URL: http://cgptwb01/Home.aspx
+Jan 18,2017 17:52:34 [info]  UserName: admin
+Jan 18,2017 17:52:34 [info]  Password: admin1
+Jan 18,2017 17:52:39 [info]  Entered "admin" in field 'User Name'
+Jan 18,2017 17:52:39 [info]  Clicked on the 'Temporary Check Box'
+Jan 18,2017 17:52:39 [info]  Entered "admin1" in field 'Password'
+Jan 18,2017 17:53:03 [info]  Clicked on the 'LoginButton'
+Jan 18,2017 17:53:12 [info]  Clicked on the 'MODULE'
+Jan 18,2017 17:53:26 [info]  Clicked on the 'Property Entry & Maintenance'
+Jan 18,2017 17:53:30 [info]  Clicked on the 'Search Icon' using JS Executor
+Jan 18,2017 17:53:37 [info]  Clicked on the 'Property Search' using JS Executor
+Jan 18,2017 17:53:46 [info]  Entered "AUT_AssetSeries_TC3_0118201745820" in field 'AssetTitle'
+Jan 18,2017 17:53:52 [info]  Clicked on the 'Find Button' using JS Executor
+Jan 18,2017 17:54:16 [info]  Moved Mouse over 'First Asset in the Searched Asset'
+Jan 18,2017 17:54:16 [info]  Clicked on the 'First Asset in the Searched Asset'
+Jan 18,2017 17:54:16 [info]  Clicked on the 'First Asset in the Searched Asset'
+Jan 18,2017 17:54:19 [info]  Clicked on the 'View Asset' using JS Executor
+<span style="color:green;">Jan 18,2017 17:54:34 [info]  Verified that Expected value :[AUT_AssetSeries_TC3_0118201745820] is matched with Actual value :[AUT_AssetSeries_TC3_0118201745820]</span>
+Jan 18,2017 17:54:40 [info]  Clicked on the 'Episodes TAB'
+Jan 18,2017 17:54:52 [info]  Clicked on the ''Edit' Button at Episode window' using JS Executor
+Jan 18,2017 17:54:58 [info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Jan 18,2017 17:55:01 [info]  Entered "101" in field 'Add Episode input field'
+Jan 18,2017 17:55:08 [info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Jan 18,2017 17:55:16 [info]  Clicked on the 'Season Field of Episode101' using JS Executor
+Jan 18,2017 17:55:16 [info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Jan 18,2017 17:55:16 [info]  Clicked on the 'Season 1.Original Version'
+Jan 18,2017 17:55:17 [info]  Clicked on the 'Support click to select season'
+Jan 18,2017 17:55:20 [info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Jan 18,2017 17:55:20 [info]  Entered "102" in field 'Add Episode input field'
+Jan 18,2017 17:55:25 [info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Jan 18,2017 17:55:36 [info]  Clicked on the 'Season Field of Episode102' using JS Executor
+Jan 18,2017 17:55:36 [info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Jan 18,2017 17:55:36 [info]  Clicked on the 'Season 1.Original Version'
+Jan 18,2017 17:55:36 [info]  Clicked on the 'Support click to select season'
+Jan 18,2017 17:55:36 [info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Jan 18,2017 17:55:37 [info]  Entered "201" in field 'Add Episode input field'
+Jan 18,2017 17:55:46 [info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Jan 18,2017 17:55:58 [info]  Clicked on the 'Season Field of Episode201' using JS Executor
+Jan 18,2017 17:55:58 [info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Jan 18,2017 17:55:58 [info]  Clicked on the 'Season 2.Original Version'
+Jan 18,2017 17:55:58 [info]  Clicked on the 'Support click to select season'
+Jan 18,2017 17:56:01 [info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Jan 18,2017 17:56:01 [info]  Entered "202" in field 'Add Episode input field'
+Jan 18,2017 17:56:09 [info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Jan 18,2017 17:56:17 [info]  Clicked on the 'Support click to select season'
+Jan 18,2017 17:56:20 [info]  Clicked on the 'Season Field of Episode201' using JS Executor
+Jan 18,2017 17:56:21 [info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Jan 18,2017 17:56:21 [info]  Clicked on the 'Season 2.Original Version'
+Jan 18,2017 17:56:21 [info]  Clicked on the 'Support click to select season'
+Jan 18,2017 17:56:21 [info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Jan 18,2017 17:56:24 [info]  Entered "301" in field 'Add Episode input field'
+Jan 18,2017 17:56:31 [info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Jan 18,2017 17:56:39 [info]  Clicked on the 'Season Field of Episode101' using JS Executor
+Jan 18,2017 17:56:39 [info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Jan 18,2017 17:56:39 [info]  Clicked on the 'Season 1.Original Version'
+Jan 18,2017 17:56:39 [info]  Clicked on the 'Support click to select season'
+Jan 18,2017 17:56:42 [info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Jan 18,2017 17:56:43 [info]  Entered "302" in field 'Add Episode input field'
+Jan 18,2017 17:56:53 [info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Jan 18,2017 17:57:05 [info]  Clicked on the 'Season Field of Episode102' using JS Executor
+Jan 18,2017 17:57:05 [info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Jan 18,2017 17:57:05 [info]  Clicked on the 'Season 1.Original Version'
+Jan 18,2017 17:57:05 [info]  Clicked on the 'Support click to select season'
+Jan 18,2017 17:57:18 [info]  Clicked on the 'Save Button at 'Episode Edit Window'' using JS Executor
+Jan 18,2017 17:57:26 [info]  Clicked on the 'Close Button at 'Episode Edit Window'' using JS Executor
+Jan 18,2017 17:57:32 [info]  Clicked on the 'Episodes TAB'
+Jan 18,2017 17:57:39 [info]  Clicked on the ''Edit' Button at Episode window' using JS Executor
+Jan 18,2017 17:57:53 [info]  Double clicked on 'Clear Filter'
+Jan 18,2017 17:57:57 [info]  Clicked on the 'Initial Air Date of Epi102'
+Jan 18,2017 17:57:57 [info]  Entered "01/01/2012" in field 'Episodes_InitialAirDate_InputField'
+Jan 18,2017 17:57:57 [info]  Clicked on the 'Support click to select Initial Air Date'
+Jan 18,2017 17:58:00 [info]  Clicked on the 'Initial Air Date of Epi202'
+Jan 18,2017 17:58:00 [info]  Entered "02/01/2014" in field 'Episodes_InitialAirDate_InputField'
+Jan 18,2017 17:58:01 [info]  Clicked on the 'Support click to select Initial Air Date'
+Jan 18,2017 17:58:04 [info]  Clicked on the 'Initial Air Date of Epi302'
+Jan 18,2017 17:58:04 [info]  Entered "03/01/2014" in field 'Episodes_InitialAirDate_InputField'
+Jan 18,2017 17:58:04 [info]  Clicked on the 'Support click to select Initial Air Date'
+Jan 18,2017 17:58:07 [info]  Test 'createData' FAILED
+Jan 18,2017 17:58:07 [info]  2
+Jan 18,2017 17:58:07 [info]  Test Case :createData's Screenshot of Failure Page: C:\Screenshots\Jan2017\\18\createData_01-18-2017 5-58-07 PM.jpg
+Jan 18,2017 17:58:09 [info]  Closed the Browser
+Jan 18,2017 18:10:46 [info]  ********************Started Executiong the Test Suite at 18:10:46******************
+Jan 18,2017 18:10:46 [info]  Client: VMN
+Jan 18,2017 18:10:46 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Jan 18,2017 18:10:46 [info]  *********************Started Executing 'createData' Test Case*********************
+Jan 18,2017 18:10:57 [info]  Client: VMN
+Jan 18,2017 18:10:57 [info]  URL: http://cgptwb01/Home.aspx
+Jan 18,2017 18:10:57 [info]  UserName: admin
+Jan 18,2017 18:10:57 [info]  Password: admin1
+Jan 18,2017 18:11:00 [info]  Entered "admin" in field 'User Name'
+Jan 18,2017 18:11:00 [info]  Clicked on the 'Temporary Check Box'
+Jan 18,2017 18:11:00 [info]  Entered "admin1" in field 'Password'
+Jan 18,2017 18:11:15 [info]  Clicked on the 'LoginButton'
+Jan 18,2017 18:11:24 [info]  Clicked on the 'MODULE'
+Jan 18,2017 18:11:35 [info]  Clicked on the 'Property Entry & Maintenance'
+Jan 18,2017 18:11:38 [info]  Clicked on the 'Search Icon' using JS Executor
+Jan 18,2017 18:11:45 [info]  Clicked on the 'Property Search' using JS Executor
+Jan 18,2017 18:11:55 [info]  Entered "AUT_AssetSeries_TC3_0118201745820" in field 'AssetTitle'
+Jan 18,2017 18:12:01 [info]  Clicked on the 'Find Button' using JS Executor
+Jan 18,2017 18:12:25 [info]  Moved Mouse over 'First Asset in the Searched Asset'
+Jan 18,2017 18:12:26 [info]  Clicked on the 'First Asset in the Searched Asset'
+Jan 18,2017 18:12:26 [info]  Clicked on the 'First Asset in the Searched Asset'
+Jan 18,2017 18:12:29 [info]  Clicked on the 'View Asset' using JS Executor
+<span style="color:green;">Jan 18,2017 18:12:42 [info]  Verified that Expected value :[AUT_AssetSeries_TC3_0118201745820] is matched with Actual value :[AUT_AssetSeries_TC3_0118201745820]</span>
+Jan 18,2017 18:12:48 [info]  Clicked on the 'Episodes TAB'
+Jan 18,2017 18:12:58 [info]  Clicked on the ''Edit' Button at Episode window' using JS Executor
+Jan 18,2017 18:14:51 [info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Jan 18,2017 18:14:58 [info]  Entered "101" in field 'Add Episode input field'
+Jan 18,2017 18:15:04 [info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Jan 18,2017 18:15:17 [info]  Clicked on the 'Season Field of Episode101' using JS Executor
+Jan 18,2017 18:15:18 [info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Jan 18,2017 18:15:19 [info]  Clicked on the 'Season 1.Original Version'
+Jan 18,2017 18:15:20 [info]  Clicked on the 'Support click to select season'
+Jan 18,2017 18:15:30 [info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Jan 18,2017 18:15:34 [info]  Entered "102" in field 'Add Episode input field'
+Jan 18,2017 18:15:40 [info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Jan 18,2017 18:15:48 [info]  Clicked on the 'Season Field of Episode101' using JS Executor
+Jan 18,2017 18:15:48 [info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Jan 18,2017 18:15:49 [info]  Clicked on the 'Season 1.Original Version'
+Jan 18,2017 18:15:49 [info]  Clicked on the 'Support click to select season'
+Jan 18,2017 18:16:05 [info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Jan 18,2017 18:16:09 [info]  Entered "201" in field 'Add Episode input field'
+Jan 18,2017 18:16:18 [info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Jan 18,2017 18:16:53 [info]  Clicked on the 'Season Field of Episode101' using JS Executor
+Jan 18,2017 18:16:54 [info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Jan 18,2017 18:16:55 [info]  Clicked on the 'Season 1.Original Version'
+Jan 18,2017 18:16:55 [info]  Clicked on the 'Support click to select season'
+Jan 18,2017 18:17:07 [info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Jan 18,2017 18:17:11 [info]  Entered "202" in field 'Add Episode input field'
+Jan 18,2017 18:17:16 [info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Jan 18,2017 18:17:24 [info]  Clicked on the 'Season Field of Episode101' using JS Executor
+Jan 18,2017 18:17:24 [info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Jan 18,2017 18:17:25 [info]  Clicked on the 'Season 1.Original Version'
+Jan 18,2017 18:17:25 [info]  Clicked on the 'Support click to select season'
+Jan 18,2017 18:17:39 [info]  Clicked on the 'Save Button at 'Episode Edit Window'' using JS Executor
+Jan 18,2017 18:17:48 [info]  Clicked on the 'Close Button at 'Episode Edit Window'' using JS Executor
+Jan 18,2017 18:17:54 [info]  Clicked on the 'Episodes TAB'
+Jan 18,2017 18:18:03 [info]  Clicked on the ''Edit' Button at Episode window' using JS Executor
+Jan 18,2017 18:18:17 [info]  Double clicked on 'Clear Filter'
+Jan 18,2017 18:20:36 [info]  ********************Started Executiong the Test Suite at 18:20:36******************
+Jan 18,2017 18:20:36 [info]  Client: VMN
+Jan 18,2017 18:20:36 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Jan 18,2017 18:20:36 [info]  *********************Started Executing 'createData' Test Case*********************
+Jan 18,2017 18:20:50 [info]  ********************Started Executiong the Test Suite at 18:20:50******************
+Jan 18,2017 18:20:50 [info]  Client: VMN
+Jan 18,2017 18:20:50 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Jan 18,2017 18:20:50 [info]  *********************Started Executing 'createData' Test Case*********************
+Jan 18,2017 18:21:01 [info]  Client: VMN
+Jan 18,2017 18:21:01 [info]  URL: http://cgptwb01/Home.aspx
+Jan 18,2017 18:21:01 [info]  UserName: admin
+Jan 18,2017 18:21:01 [info]  Password: admin1
+Jan 18,2017 18:21:06 [info]  Entered "admin" in field 'User Name'
+Jan 18,2017 18:21:06 [info]  Clicked on the 'Temporary Check Box'
+Jan 18,2017 18:21:06 [info]  Entered "admin1" in field 'Password'
+Jan 18,2017 18:21:22 [info]  Clicked on the 'LoginButton'
+Jan 18,2017 18:21:31 [info]  Clicked on the 'MODULE'
+Jan 18,2017 18:21:39 [info]  Clicked on the 'Property Entry & Maintenance'
+Jan 18,2017 18:21:42 [info]  Clicked on the 'Search Icon' using JS Executor
+Jan 18,2017 18:21:46 [info]  Clicked on the 'Property Search' using JS Executor
+Jan 18,2017 18:21:55 [info]  Entered "AUT_AssetSeries_TC3_0118201745820" in field 'AssetTitle'
+Jan 18,2017 18:22:03 [info]  Clicked on the 'Find Button' using JS Executor
+Jan 18,2017 18:22:28 [info]  Moved Mouse over 'First Asset in the Searched Asset'
+Jan 18,2017 18:22:28 [info]  Clicked on the 'First Asset in the Searched Asset'
+Jan 18,2017 18:22:28 [info]  Clicked on the 'First Asset in the Searched Asset'
+Jan 18,2017 18:22:31 [info]  Clicked on the 'View Asset' using JS Executor
+<span style="color:green;">Jan 18,2017 18:22:45 [info]  Verified that Expected value :[AUT_AssetSeries_TC3_0118201745820] is matched with Actual value :[AUT_AssetSeries_TC3_0118201745820]</span>
+Jan 18,2017 18:22:51 [info]  Clicked on the 'Episodes TAB'
+Jan 18,2017 18:22:59 [info]  Clicked on the ''Edit' Button at Episode window' using JS Executor
+Jan 18,2017 18:23:05 [info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Jan 18,2017 18:23:08 [info]  Entered "101" in field 'Add Episode input field'
+Jan 18,2017 18:23:14 [info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Jan 18,2017 18:23:22 [info]  Clicked on the 'Season Field of Episode101' using JS Executor
+Jan 18,2017 18:23:22 [info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Jan 18,2017 18:23:22 [info]  Clicked on the 'Season 1.Original Version'
+Jan 18,2017 18:23:22 [info]  Clicked on the 'Support click to select season'
+Jan 18,2017 18:23:22 [info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Jan 18,2017 18:24:30 [info]  ********************Started Executiong the Test Suite at 18:24:30******************
+Jan 18,2017 18:24:30 [info]  Client: VMN
+Jan 18,2017 18:24:30 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Jan 18,2017 18:24:30 [info]  *********************Started Executing 'createData' Test Case*********************
+Jan 18,2017 18:24:41 [info]  Client: VMN
+Jan 18,2017 18:24:41 [info]  URL: http://cgptwb01/Home.aspx
+Jan 18,2017 18:24:41 [info]  UserName: admin
+Jan 18,2017 18:24:41 [info]  Password: admin1
+Jan 18,2017 18:24:44 [info]  Entered "admin" in field 'User Name'
+Jan 18,2017 18:24:44 [info]  Clicked on the 'Temporary Check Box'
+Jan 18,2017 18:24:44 [info]  Entered "admin1" in field 'Password'
+Jan 18,2017 18:24:58 [info]  Clicked on the 'LoginButton'
+Jan 18,2017 18:25:07 [info]  Clicked on the 'MODULE'
+Jan 18,2017 18:25:21 [info]  Clicked on the 'Property Entry & Maintenance'
+Jan 18,2017 18:25:24 [info]  Clicked on the 'Search Icon' using JS Executor
+Jan 18,2017 18:25:32 [info]  Clicked on the 'Property Search' using JS Executor
+Jan 18,2017 18:25:42 [info]  Entered "AUT_AssetSeries_TC3_0118201745820" in field 'AssetTitle'
+Jan 18,2017 18:25:49 [info]  Clicked on the 'Find Button' using JS Executor
+Jan 18,2017 18:26:13 [info]  Moved Mouse over 'First Asset in the Searched Asset'
+Jan 18,2017 18:26:13 [info]  Clicked on the 'First Asset in the Searched Asset'
+Jan 18,2017 18:26:13 [info]  Clicked on the 'First Asset in the Searched Asset'
+Jan 18,2017 18:26:16 [info]  Clicked on the 'View Asset' using JS Executor
+<span style="color:green;">Jan 18,2017 18:26:29 [info]  Verified that Expected value :[AUT_AssetSeries_TC3_0118201745820] is matched with Actual value :[AUT_AssetSeries_TC3_0118201745820]</span>
+Jan 18,2017 18:26:36 [info]  Clicked on the 'Episodes TAB'
+Jan 18,2017 18:26:42 [info]  Clicked on the ''Edit' Button at Episode window' using JS Executor
+Jan 18,2017 18:26:48 [info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Jan 18,2017 18:26:51 [info]  Entered "101" in field 'Add Episode input field'
+Jan 18,2017 18:26:58 [info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Jan 18,2017 18:27:06 [info]  Clicked on the 'Season Field of Episode101' using JS Executor
+Jan 18,2017 18:27:07 [info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Jan 18,2017 18:27:07 [info]  Clicked on the 'Season 1.Original Version'
+Jan 18,2017 18:27:07 [info]  Clicked on the 'Support click to select season'
+Jan 18,2017 18:27:07 [info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Jan 18,2017 18:27:10 [info]  Entered "102" in field 'Add Episode input field'
+Jan 18,2017 18:27:15 [info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Jan 18,2017 18:27:23 [info]  Clicked on the 'Season Field of Episode101' using JS Executor
+Jan 18,2017 18:27:23 [info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Jan 18,2017 18:27:23 [info]  Clicked on the 'Season 1.Original Version'
+Jan 18,2017 18:27:23 [info]  Clicked on the 'Support click to select season'
+Jan 18,2017 18:27:23 [info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Jan 18,2017 18:27:27 [info]  Entered "201" in field 'Add Episode input field'
+Jan 18,2017 18:27:34 [info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Jan 18,2017 18:27:42 [info]  Clicked on the 'Season Field of Episode101' using JS Executor
+Jan 18,2017 18:27:42 [info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Jan 18,2017 18:27:42 [info]  Clicked on the 'Season 1.Original Version'
+Jan 18,2017 18:27:43 [info]  Clicked on the 'Support click to select season'
+Jan 18,2017 18:27:43 [info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Jan 18,2017 18:27:46 [info]  Entered "202" in field 'Add Episode input field'
+Jan 18,2017 18:27:54 [info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Jan 18,2017 18:28:03 [info]  Clicked on the 'Season Field of Episode101' using JS Executor
+Jan 18,2017 18:28:03 [info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Jan 18,2017 18:28:03 [info]  Clicked on the 'Season 1.Original Version'
+Jan 18,2017 18:28:03 [info]  Clicked on the 'Support click to select season'
+Jan 18,2017 18:28:03 [info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Jan 18,2017 18:28:06 [info]  Entered "201" in field 'Add Episode input field'
+Jan 18,2017 18:28:16 [info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Jan 18,2017 18:28:24 [info]  Clicked on the 'Season Field of Episode101' using JS Executor
+Jan 18,2017 18:28:24 [info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Jan 18,2017 18:28:24 [info]  Clicked on the 'Season 1.Original Version'
+Jan 18,2017 18:28:24 [info]  Clicked on the 'Support click to select season'
+Jan 18,2017 18:28:24 [info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Jan 18,2017 18:28:28 [info]  Entered "202" in field 'Add Episode input field'
+Jan 18,2017 18:28:43 [info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Jan 18,2017 18:28:51 [info]  Clicked on the 'Season Field of Episode101' using JS Executor
+Jan 18,2017 18:28:51 [info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Jan 18,2017 18:28:51 [info]  Clicked on the 'Season 1.Original Version'
+Jan 18,2017 18:28:52 [info]  Clicked on the 'Support click to select season'
+Jan 18,2017 18:29:06 [info]  Clicked on the 'Save Button at 'Episode Edit Window'' using JS Executor
+Jan 18,2017 18:29:12 [info]  Clicked on the 'Close Button at 'Episode Edit Window'' using JS Executor
+<span style="color:red;">Jan 18,2017 18:29:34 [info]  ====Failed==== "Episodes TAB" field is not present'</span>
+Jan 18,2017 18:29:34 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Jan2017\\18\Episodes TAB_CheckpointFailure_01-18-2017 6-29-34 PM.jpg
+Jan 18,2017 18:29:37 [info]  Clicked on the ''Edit' Button at Episode window' using JS Executor
+Jan 18,2017 18:29:56 [info]  Double clicked on 'Clear Filter'
+Jan 18,2017 18:29:59 [info]  Clicked on the 'Initial Air Date of Epi102'
+Jan 18,2017 18:30:00 [info]  Entered "01/01/2012" in field 'Episodes_InitialAirDate_InputField'
+Jan 18,2017 18:30:00 [info]  Clicked on the 'Support click to select Initial Air Date'
+Jan 18,2017 18:30:03 [info]  Clicked on the 'Initial Air Date of Epi202'
+Jan 18,2017 18:30:03 [info]  Entered "02/01/2014" in field 'Episodes_InitialAirDate_InputField'
+Jan 18,2017 18:30:03 [info]  Clicked on the 'Support click to select Initial Air Date'
+Jan 18,2017 18:30:07 [info]  Clicked on the 'Initial Air Date of Epi302'
+Jan 18,2017 18:30:07 [info]  Entered "03/01/2014" in field 'Episodes_InitialAirDate_InputField'
+Jan 18,2017 18:30:07 [info]  Clicked on the 'Support click to select Initial Air Date'
+Jan 18,2017 18:30:23 [info]  Clicked on the 'Save Button at 'Episode Edit Window'' using JS Executor
+Jan 18,2017 18:30:32 [info]  Clicked on the 'Close Button at 'Episode Edit Window'' using JS Executor
+Jan 18,2017 18:30:56 [info]  Clicked on the 'New Button' using JS Executor
+Jan 18,2017 18:31:00 [info]  Clicked on the 'Standalone Agreement' using JS Executor
+Jan 18,2017 18:31:06 [info]  Generated Deal Id is 30536
+Jan 18,2017 18:31:06 [info]  Clicked on the 'DealTitleField' using JS Executor
+Jan 18,2017 18:31:06 [info]  Entered "AUT_Deal_TC4_1_0118201745820" in field 'Deal Name Field'
+Jan 18,2017 18:31:07 [info]  Entered "AUT_Deal_TC4_1_0118201745820_desc" in field 'Deal Description/ContractID'
+Jan 18,2017 18:31:07 [info]  Selected "Program Acquisition/Licensed Original" in "DealType_DropDownField" drop down
+Jan 18,2017 18:31:07 [info]  Entered "Fully Executed" in field 'Deal Creation Contract Status'
+Jan 18,2017 18:31:07 [info]  Entered "Finalized / Approved" in field 'DealCreationCDEStatus'
+Jan 18,2017 18:31:07 [info]  Entered "01/01/2014" in field 'DateExecuted_InputField'
+Jan 18,2017 18:31:16 [info]  Clicked on the 'SBU look up Icon' using JS Executor
+Jan 18,2017 18:31:24 [info]  Clicked on the 'Select All Button at SBU'
+Jan 18,2017 18:31:25 [info]  Clicked on the 'FirstCheckBoxAtSBU'
+Jan 18,2017 18:31:25 [info]  Clicked on the 'NinthCheckBoxAtSBU'
+Jan 18,2017 18:31:25 [info]  Clicked on the 'Apply Button'
+Jan 18,2017 18:31:26 [info]  Clicked on the 'Doc Type look up Icon' using JS Executor
+Jan 18,2017 18:31:34 [info]  Clicked on the 'Select All Button at SBU'
+Jan 18,2017 18:31:34 [info]  Clicked on the 'FirstCheckBoxAtSBU'
+Jan 18,2017 18:31:34 [info]  Clicked on the 'NinthCheckBoxAtSBU'
+Jan 18,2017 18:31:34 [info]  Clicked on the 'Apply Button'
+Jan 18,2017 18:31:38 [info]  Moved Mouse over 'Party_AddButton'
+Jan 18,2017 18:31:38 [info]  Clicked on the 'Party_AddButton'
+Jan 18,2017 18:31:41 [info]  Clicked on the 'PartyPopUp Icon' using JS Executor
+Jan 18,2017 18:31:45 [info]  Entered "AUT_VMN_RI_PRIMARY_PARTY" in field 'Search Party InputField'
+Jan 18,2017 18:31:56 [info]  Double clicked on 'RI Search Party Window Find Button'
+Jan 18,2017 18:32:00 [info]  Clicked on the 'AUT_VMN_RI_PRIMARY_PARTY'
+Jan 18,2017 18:32:00 [info]  Clicked on the 'Select Button'
+Jan 18,2017 18:32:07 [info]  Clicked on the 'Party Type Field' using JS Executor
+Jan 18,2017 18:32:07 [info]  Entered "Primary" in field 'Party Party InputField'
+Jan 18,2017 18:32:07 [info]  Clicked on the 'Support Click '
+Jan 18,2017 18:32:07 [info]  Clicked on the 'Party_AddButton' using JS Executor
+Jan 18,2017 18:32:09 [info]  Clicked on the 'PartyPopUp Icon' using JS Executor
+Jan 18,2017 18:32:14 [info]  Entered "AUT_VMN_RI_LICENSOR_PARTY" in field 'Search Party InputField'
+Jan 18,2017 18:32:24 [info]  Double clicked on 'RI Search Party Window Find Button'
+Jan 18,2017 18:32:32 [info]  Clicked on the 'Select Party'
+Jan 18,2017 18:32:32 [info]  Clicked on the 'Select Button'
+Jan 18,2017 18:32:38 [info]  Clicked on the 'Party Type Field' using JS Executor
+Jan 18,2017 18:32:39 [info]  Entered "Licensor" in field 'Party Party InputField'
+Jan 18,2017 18:32:39 [info]  Clicked on the 'Support Click '
+Jan 18,2017 18:32:53 [info]  Clicked on the 'Save Button' using JS Executor
+Jan 18,2017 18:33:00 [info]  Verify The data of CreatedDeal
+<span style="color:green;">Jan 18,2017 18:33:00 [info]  Verified that Expected value :[AUT_Deal_TC4_1_0118201745820] is matched with Actual value :[AUT_Deal_TC4_1_0118201745820]</span>
+Jan 18,2017 18:33:03 [info]  Clicked on the 'Navigator' using JS Executor
+Jan 18,2017 18:33:09 [info]  Double clicked on 'Associate With Exiting Asset'
+Jan 18,2017 18:33:12 [info]  Clicked on the 'Asset Status'
+Jan 18,2017 18:33:13 [info]  Clicked on the 'Asset tile' using JS Executor
+Jan 18,2017 18:33:13 [info]  Entered "AUT_AssetSeries_TC3_0118201745820" in field 'Asset title'
+<span style="color:red;">Jan 18,2017 18:33:13 [info]  =====BUG ID======: 20309</span>
+Jan 18,2017 18:33:13 [info]  Clicked on the 'Display Season checkBox' using JS Executor
+Jan 18,2017 18:33:17 [info]  Clicked on the 'Search Button' using JS Executor
+Jan 18,2017 18:33:24 [info]  Clicked on the 'Toggle'
+Jan 18,2017 18:33:27 [info]  Double clicked on 'Searched Asset'
+Jan 18,2017 18:33:52 [info]  Clicked on the 'Ok Button'
+Jan 18,2017 18:33:58 [info]  Test 'createData' PASSED
+Jan 18,2017 18:33:59 [info]  Closed the Browser
+Jan 18,2017 19:31:27 [info]  ********************Started Executiong the Test Suite at 19:31:27******************
+Jan 18,2017 19:31:27 [info]  Client: VMN
+Jan 18,2017 19:31:27 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Jan 18,2017 19:31:27 [info]  *********************Started Executing 'TC5_InitialExhibition_Of_LastEpisodes_Calc' Test Case*********************
+Jan 18,2017 19:31:38 [info]  Client: VMN
+Jan 18,2017 19:31:38 [info]  URL: http://cgptwb01/Home.aspx
+Jan 18,2017 19:31:38 [info]  UserName: admin
+Jan 18,2017 19:31:38 [info]  Password: admin1
+Jan 18,2017 19:31:44 [info]  Entered "admin" in field 'User Name'
+Jan 18,2017 19:31:44 [info]  Clicked on the 'Temporary Check Box'
+Jan 18,2017 19:31:44 [info]  Entered "admin1" in field 'Password'
+Jan 18,2017 19:31:59 [info]  Clicked on the 'LoginButton'
+Jan 18,2017 19:32:21 [info]  Double clicked on 'AUT_Deal_0111201771928Deal'
+Jan 18,2017 19:32:24 [info]  
+Jan 18,2017 19:32:24 [info]  Manual Test Step : TC_1
+Jan 18,2017 19:32:25 [info]  Clicked on the 'Tracking Events TAB'
+Jan 18,2017 19:32:29 [info]  Verify EventDate in View Mode >> Edit >>  EventDate in Edit Mode
+Jan 18,2017 19:32:29 [info]  Verify The data of Event Date
+<span style="color:green;">Jan 18,2017 19:32:29 [info]  Verified that Expected value :[01/05/2014] is matched with Actual value :[01/05/2014]</span>
+Jan 18,2017 19:32:37 [info]  Clicked on the ''Edit' Button at TrackingEvents TAB' using JS Executor
+Jan 18,2017 19:32:40 [info]  Verify The data of Event Date
+<span style="color:green;">Jan 18,2017 19:32:40 [info]  Verified that Expected value :[01/05/2014] is matched with Actual value :[01/05/2014]</span>
+Jan 18,2017 19:32:56 [info]  Verify EventDate in View Mode >> Edit >>  EventDate in Edit Mode
+Jan 18,2017 19:32:56 [info]  Clicked on the ''Edit' Button at TrackingEvents TAB' using JS Executor
+Jan 18,2017 19:34:23 [info]  Verify The data of Event Date
+<span style="color:green;">Jan 18,2017 19:34:23 [info]  Verified that Expected value :[01/05/2014] is matched with Actual value :[01/05/2014]</span>
+Jan 18,2017 19:34:25 [info]  
+Jan 18,2017 19:34:26 [info]  Change the Property of Event Date Initial Exhibition of the Last Episode (calc.)to Season 1.Original Version
+Jan 18,2017 19:34:26 [info]  >> Save >> Verify EventDate and PropertyName in View mode >> Edit  >> Verify the same in Edit Mode
+Jan 18,2017 19:34:27 [info]  Clicked on the '*Property'
+Jan 18,2017 19:34:28 [info]  Clicked on the 'Property Drop Down'
+Jan 18,2017 19:34:28 [info]  Clicked on the 'Season 1.Original Version in Property Field'
+Jan 18,2017 19:34:30 [info]  Clicked on the 'Support Click'
+Jan 18,2017 19:34:44 [info]  Clicked on the ''Save' Button at TrackingEvents Edit window' using JS Executor
+Jan 18,2017 19:34:49 [info]  Verify The data of *Property
+<span style="color:green;">Jan 18,2017 19:34:49 [info]  Verified that Expected value :[Season 1.Original Version] is matched with Actual value :[Season 1.Original Version]</span>
+Jan 18,2017 19:34:50 [info]  Verify The data of Event Date
+<span style="color:green;">Jan 18,2017 19:34:50 [info]  Verified that Expected value :[01/01/2014] is matched with Actual value :[01/01/2014]</span>
+Jan 18,2017 19:34:58 [info]  Clicked on the ''Edit' Button at TrackingEvents TAB' using JS Executor
+Jan 18,2017 19:35:04 [info]  Verify The data of *Property
+<span style="color:green;">Jan 18,2017 19:35:04 [info]  Verified that Expected value :[Season 1.Original Version] is matched with Actual value :[Season 1.Original Version]</span>
+Jan 18,2017 19:35:05 [info]  Verify The data of Event Date
+<span style="color:green;">Jan 18,2017 19:35:05 [info]  Verified that Expected value :[01/01/2014] is matched with Actual value :[01/01/2014]</span>
+Jan 18,2017 19:37:48 [info]  ********************Started Executiong the Test Suite at 19:37:48******************
+Jan 18,2017 19:37:48 [info]  Client: VMN
+Jan 18,2017 19:37:48 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Jan 18,2017 19:37:48 [info]  *********************Started Executing 'TC5_InitialExhibition_Of_LastEpisodes_Calc' Test Case*********************
+Jan 18,2017 19:37:59 [info]  Client: VMN
+Jan 18,2017 19:37:59 [info]  URL: http://cgptwb01/Home.aspx
+Jan 18,2017 19:37:59 [info]  UserName: admin
+Jan 18,2017 19:37:59 [info]  Password: admin1
+Jan 18,2017 19:38:02 [info]  Entered "admin" in field 'User Name'
+Jan 18,2017 19:38:02 [info]  Clicked on the 'Temporary Check Box'
+Jan 18,2017 19:38:02 [info]  Entered "admin1" in field 'Password'
+Jan 18,2017 19:38:23 [info]  Clicked on the 'LoginButton'
+Jan 18,2017 19:38:43 [info]  Double clicked on 'AUT_Deal_0111201771928Deal'
+Jan 18,2017 19:38:46 [info]  
+Jan 18,2017 19:38:46 [info]  Manual Test Step : TC_1
+Jan 18,2017 19:38:46 [info]  Clicked on the 'Tracking Events TAB'
+Jan 18,2017 19:40:17 [info]  Verify EventDate in View Mode >> Edit >>  EventDate in Edit Mode
+Jan 18,2017 19:41:19 [info]  Verify The data of Event Date
+<span style="color:green;">Jan 18,2017 19:41:19 [info]  Verified that Expected value :[01/05/2014] is matched with Actual value :[01/05/2014]</span>
+Jan 18,2017 19:41:33 [info]  Clicked on the ''Edit' Button at TrackingEvents TAB' using JS Executor
+Jan 18,2017 19:41:40 [info]  Verify The data of Event Date
+<span style="color:green;">Jan 18,2017 19:41:40 [info]  Verified that Expected value :[01/05/2014] is matched with Actual value :[01/05/2014]</span>
+Jan 18,2017 19:41:41 [info]  
+Jan 18,2017 19:41:42 [info]  Change the Property of Event Date Initial Exhibition of the Last Episode (calc.)to Season 1.Original Version
+Jan 18,2017 19:41:43 [info]  >> Save >> Verify EventDate and PropertyName in View mode >> Edit  >> Verify the same in Edit Mode
+Jan 18,2017 19:41:44 [info]  Clicked on the '*Property'
+Jan 18,2017 19:41:45 [info]  Clicked on the 'Property Drop Down'
+Jan 18,2017 19:41:45 [info]  Clicked on the 'Season 1.Original Version in Property Field'
+Jan 18,2017 19:41:47 [info]  Clicked on the 'Support Click'
+Jan 18,2017 19:41:57 [info]  Clicked on the ''Save' Button at TrackingEvents Edit window' using JS Executor
+Jan 18,2017 19:42:03 [info]  Verify The data of *Property
+<span style="color:green;">Jan 18,2017 19:42:03 [info]  Verified that Expected value :[Season 1.Original Version] is matched with Actual value :[Season 1.Original Version]</span>
+Jan 18,2017 19:42:03 [info]  Verify The data of Event Date
+<span style="color:green;">Jan 18,2017 19:42:03 [info]  Verified that Expected value :[01/01/2014] is matched with Actual value :[01/01/2014]</span>
+Jan 18,2017 19:42:10 [info]  Clicked on the ''Edit' Button at TrackingEvents TAB' using JS Executor
+Jan 18,2017 19:42:15 [info]  Verify The data of *Property
+<span style="color:green;">Jan 18,2017 19:42:15 [info]  Verified that Expected value :[Season 1.Original Version] is matched with Actual value :[Season 1.Original Version]</span>
+Jan 18,2017 19:42:15 [info]  Verify The data of Event Date
+<span style="color:green;">Jan 18,2017 19:42:15 [info]  Verified that Expected value :[01/01/2014] is matched with Actual value :[01/01/2014]</span>
+Jan 18,2017 19:42:22 [info]  Clicked on the ''Save' Button at TrackingEvents Edit window' using JS Executor
+Jan 18,2017 19:42:25 [info]  Verify EventDate in View Mode >> Edit >>  EventDate in Edit Mode
+Jan 18,2017 19:42:26 [info]  Verify The data of Event Date
+<span style="color:red;">Jan 18,2017 19:42:26 [info]  ====Failed==== Expected value is:[01/05/2014] but Actual value is[01/01/2014]. Please check the screenshot with name: Event Datefor more details</span>
+Jan 18,2017 19:42:27 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Jan2017\\18\Event Date_CheckpointFailure_01-18-2017 7-42-26 PM.jpg
+Jan 18,2017 19:43:11 [info]  Clicked on the ''Edit' Button at TrackingEvents TAB' using JS Executor
+Jan 18,2017 19:43:19 [info]  Verify The data of Event Date
+<span style="color:red;">Jan 18,2017 19:43:19 [info]  ====Failed==== Expected value is:[01/05/2014] but Actual value is[01/01/2014]. Please check the screenshot with name: Event Datefor more details</span>
+Jan 18,2017 19:43:20 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Jan2017\\18\Event Date_CheckpointFailure_01-18-2017 7-43-19 PM.jpg
+Jan 18,2017 19:43:25 [info]  
+Jan 18,2017 19:43:25 [info]  Change the Property of Event Date Initial Exhibition of the Last Episode (calc.)to Season 2.Original Version
+Jan 18,2017 19:43:26 [info]  >> Save >> Verify EventDate and PropertyName in View mode >> Edit  >> Verify the same in Edit Mode
+Jan 18,2017 19:43:26 [info]  Clicked on the '*Property'
+Jan 18,2017 19:43:27 [info]  Clicked on the 'Property Drop Down'
+Jan 18,2017 19:43:28 [info]  Clicked on the 'Season 2.Original Version in Property Field'
+Jan 18,2017 19:43:29 [info]  Clicked on the 'Support Click'
+Jan 18,2017 19:43:39 [info]  Clicked on the ''Save' Button at TrackingEvents Edit window' using JS Executor
+Jan 18,2017 19:43:45 [info]  Verify The data of *Property
+<span style="color:green;">Jan 18,2017 19:43:45 [info]  Verified that Expected value :[Season 2.Original Version] is matched with Actual value :[Season 2.Original Version]</span>
+Jan 18,2017 19:43:46 [info]  Verify The data of Event Date
+<span style="color:green;">Jan 18,2017 19:43:46 [info]  Verified that Expected value :[01/05/2014] is matched with Actual value :[01/05/2014]</span>
+Jan 18,2017 19:43:59 [info]  Clicked on the ''Edit' Button at TrackingEvents TAB' using JS Executor
+Jan 18,2017 19:44:04 [info]  Verify The data of *Property
+<span style="color:green;">Jan 18,2017 19:44:04 [info]  Verified that Expected value :[Season 2.Original Version] is matched with Actual value :[Season 2.Original Version]</span>
+Jan 18,2017 19:44:05 [info]  Verify The data of Event Date
+<span style="color:green;">Jan 18,2017 19:44:05 [info]  Verified that Expected value :[01/05/2014] is matched with Actual value :[01/05/2014]</span>
+Jan 18,2017 19:44:14 [info]  Clicked on the ''Save' Button at TrackingEvents Edit window' using JS Executor
+Jan 18,2017 19:44:14 [info]  Test 'TC5_InitialExhibition_Of_LastEpisodes_Calc' PASSED
+Jan 18,2017 19:44:15 [info]  Closed the Browser
+Jan 18,2017 19:48:47 [info]  ********************Started Executiong the Test Suite at 19:48:47******************
+Jan 18,2017 19:48:47 [info]  Client: VMN
+Jan 18,2017 19:48:47 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Jan 18,2017 19:48:47 [info]  *********************Started Executing 'TC3_InitialExhibition_Calc' Test Case*********************
+Jan 18,2017 19:48:57 [info]  Client: VMN
+Jan 18,2017 19:48:57 [info]  URL: http://cgptwb01/Home.aspx
+Jan 18,2017 19:48:57 [info]  UserName: admin
+Jan 18,2017 19:48:57 [info]  Password: admin1
+Jan 18,2017 19:49:01 [info]  Entered "admin" in field 'User Name'
+Jan 18,2017 19:49:01 [info]  Clicked on the 'Temporary Check Box'
+Jan 18,2017 19:49:01 [info]  Entered "admin1" in field 'Password'
+Jan 18,2017 19:49:18 [info]  Clicked on the 'LoginButton'
+Jan 18,2017 19:49:38 [info]  Double clicked on 'AUT_Deal_0111201771928Deal'
+Jan 18,2017 19:49:41 [info]  
+Jan 18,2017 19:49:41 [info]  Manual Test Step : TC_1
+Jan 18,2017 19:49:41 [info]  Clicked on the 'Tracking Events TAB'
+Jan 18,2017 19:49:44 [info]  Verify EventDate in View Mode >> Edit >>  EventDate in Edit Mode
+Jan 18,2017 19:49:44 [info]  Verify The data of Event Date
+<span style="color:green;">Jan 18,2017 19:49:44 [info]  Verified that Expected value :[01/05/2014] is matched with Actual value :[01/05/2014]</span>
+Jan 18,2017 19:50:01 [info]  Clicked on the ''Edit' Button at TrackingEvents TAB' using JS Executor
+Jan 18,2017 19:50:04 [info]  Verify The data of Event Date
+<span style="color:green;">Jan 18,2017 19:50:04 [info]  Verified that Expected value :[01/01/2014] is matched with Actual value :[01/01/2014]</span>
+Jan 18,2017 19:50:04 [info]  
+Jan 18,2017 19:50:04 [info]  Change the Property of Event Date Initial Exhibition (calc.)to Season 1.Original Version
+Jan 18,2017 19:50:04 [info]  >> Save >> Verify EventDate and PropertyName in View mode >> Edit  >> Verify the same in Edit Mode
+Jan 18,2017 19:50:04 [info]  Clicked on the '*Property'
+Jan 18,2017 19:50:04 [info]  Clicked on the 'Property Drop Down'
+Jan 18,2017 19:50:05 [info]  Clicked on the 'Season 1.Original Version in Property Field'
+Jan 18,2017 19:50:05 [info]  Clicked on the 'Support Click'
+Jan 18,2017 19:50:21 [info]  Clicked on the ''Save' Button at TrackingEvents Edit window' using JS Executor
+Jan 18,2017 19:50:25 [info]  Verify The data of *Property
+<span style="color:green;">Jan 18,2017 19:50:25 [info]  Verified that Expected value :[Season 1.Original Version] is matched with Actual value :[Season 1.Original Version]</span>
+Jan 18,2017 19:50:25 [info]  Verify The data of Event Date
+<span style="color:green;">Jan 18,2017 19:50:25 [info]  Verified that Expected value :[01/01/2014] is matched with Actual value :[01/01/2014]</span>
+Jan 18,2017 19:50:39 [info]  Clicked on the ''Edit' Button at TrackingEvents TAB' using JS Executor
+Jan 18,2017 19:50:42 [info]  Verify The data of *Property
+<span style="color:green;">Jan 18,2017 19:50:42 [info]  Verified that Expected value :[Season 1.Original Version] is matched with Actual value :[Season 1.Original Version]</span>
+Jan 18,2017 19:50:42 [info]  Verify The data of Event Date
+<span style="color:green;">Jan 18,2017 19:50:42 [info]  Verified that Expected value :[01/01/2014] is matched with Actual value :[01/01/2014]</span>
+Jan 18,2017 19:50:59 [info]  Clicked on the ''Save' Button at TrackingEvents Edit window' using JS Executor
+Jan 18,2017 19:50:59 [info]  Verify EventDate in View Mode >> Edit >>  EventDate in Edit Mode
+Jan 18,2017 19:50:59 [info]  Verify The data of Event Date
+<span style="color:green;">Jan 18,2017 19:50:59 [info]  Verified that Expected value :[01/05/2014] is matched with Actual value :[01/05/2014]</span>
+Jan 18,2017 19:51:09 [info]  Clicked on the ''Edit' Button at TrackingEvents TAB' using JS Executor
+Jan 18,2017 19:51:12 [info]  Verify The data of Event Date
+<span style="color:green;">Jan 18,2017 19:51:12 [info]  Verified that Expected value :[01/01/2014] is matched with Actual value :[01/01/2014]</span>
+Jan 18,2017 19:51:12 [info]  
+Jan 18,2017 19:51:12 [info]  Change the Property of Event Date Initial Exhibition (calc.)to Season 2.Original Version
+Jan 18,2017 19:51:12 [info]  >> Save >> Verify EventDate and PropertyName in View mode >> Edit  >> Verify the same in Edit Mode
+Jan 18,2017 19:51:12 [info]  Clicked on the '*Property'
+Jan 18,2017 19:51:12 [info]  Clicked on the 'Property Drop Down'
+Jan 18,2017 19:51:12 [info]  Clicked on the 'Season 2.Original Version in Property Field'
+Jan 18,2017 19:51:12 [info]  Clicked on the 'Support Click'
+Jan 18,2017 19:51:22 [info]  Clicked on the ''Save' Button at TrackingEvents Edit window' using JS Executor
+Jan 18,2017 19:51:25 [info]  Verify The data of *Property
+<span style="color:green;">Jan 18,2017 19:51:25 [info]  Verified that Expected value :[Season 2.Original Version] is matched with Actual value :[Season 2.Original Version]</span>
+Jan 18,2017 19:51:25 [info]  Verify The data of Event Date
+<span style="color:green;">Jan 18,2017 19:51:25 [info]  Verified that Expected value :[01/04/2014] is matched with Actual value :[01/04/2014]</span>
+Jan 18,2017 19:51:34 [info]  Clicked on the ''Edit' Button at TrackingEvents TAB' using JS Executor
+Jan 18,2017 19:51:37 [info]  Verify The data of *Property
+<span style="color:green;">Jan 18,2017 19:51:37 [info]  Verified that Expected value :[Season 2.Original Version] is matched with Actual value :[Season 2.Original Version]</span>
+Jan 18,2017 19:51:37 [info]  Verify The data of Event Date
+<span style="color:green;">Jan 18,2017 19:51:37 [info]  Verified that Expected value :[01/04/2014] is matched with Actual value :[01/04/2014]</span>
+Jan 18,2017 19:51:45 [info]  Clicked on the ''Save' Button at TrackingEvents Edit window' using JS Executor
+Jan 18,2017 19:51:45 [info]  Test 'TC3_InitialExhibition_Calc' PASSED
+Jan 18,2017 19:51:46 [info]  Closed the Browser

@@ -1,0 +1,1161 @@
+Dec 22,2016 13:30:38 [info]  ********************Started Executiong the Test Suite at 13:30:38******************
+Dec 22,2016 13:30:38 [info]  Client: AMCN
+Dec 22,2016 13:30:38 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Dec 22,2016 13:30:38 [info]  *********************Started Executing 'createData' Test Case*********************
+Dec 22,2016 13:30:48 [info]  Client: AMCN
+Dec 22,2016 13:30:48 [info]  URL: http://rlv2wb79/login.aspx
+Dec 22,2016 13:30:48 [info]  UserName: automation
+Dec 22,2016 13:30:48 [info]  Password: automation
+Dec 22,2016 13:30:49 [info]  Entered "automation" in field 'User Name'
+Dec 22,2016 13:30:49 [info]  Clicked on the 'Temporary Check Box'
+Dec 22,2016 13:30:50 [info]  Entered "automation" in field 'Password'
+Dec 22,2016 13:30:56 [info]  Clicked on the 'LoginButton'
+Dec 22,2016 13:31:03 [info]  AUT_AssetSeries_TC1_12152016101228
+Dec 22,2016 13:31:03 [info]  AUT_AssetSeries_TC6_1222201613038
+Dec 22,2016 13:31:03 [info]  AUT_AssetTheatre_TC61_12152016101228
+Dec 22,2016 13:31:03 [info]  AUT_AssetTheatre_TC62_12152016101228
+Dec 22,2016 13:31:03 [info]  ************************Started Creating Asset of Type: Program - Series************************
+Dec 22,2016 13:31:07 [info]  Clicked on the 'MODULE'
+Dec 22,2016 13:31:16 [info]  Clicked on the 'Asset Maintenance'
+Dec 22,2016 13:31:24 [info]  Clicked on the 'New Button' using JS Executor
+Dec 22,2016 13:31:24 [info]  Clicked on the 'Program' using JS Executor
+Dec 22,2016 13:31:34 [info]  Clicked on the 'General TAB'
+Dec 22,2016 13:31:36 [info]  Selected "Program - Series" in "AssetTypeDropDown" drop down
+Dec 22,2016 13:31:46 [info]  Entered "AUT_AssetSeries_TC6_1222201613038" in field 'AssetTitle'
+Dec 22,2016 13:31:46 [info]  Clicked on the 'Vendor Img Icon' using JS Executor
+Dec 22,2016 13:31:48 [info]  Entered "AUT_AMCN_Vendor1" in field 'SearchvalueVendor'
+Dec 22,2016 13:31:51 [info]  Clicked on the 'VendorWindowButtonfind' using JS Executor
+Dec 22,2016 13:31:59 [info]  Clicked on the 'VendorName At VendorWindow'
+Dec 22,2016 13:31:59 [info]  Clicked on the 'Vendor Select Button' using JS Executor
+Dec 22,2016 13:32:03 [info]  Verify The data of Vendor1
+Dec 22,2016 13:32:03 [info]  Verified that Expected value :[AUT_AMCN_Vendor1] is matched with Actual value :[AUT_AMCN_Vendor1]
+Dec 22,2016 13:32:04 [info]  Clicked on the 'StudioImageIcon' using JS Executor
+Dec 22,2016 13:32:05 [info]  Verified that Expected value :[Studio] is matched with Actual value :[Studio]
+Dec 22,2016 13:32:07 [info]  Entered "AUT_AMCN_Studio" in field 'Studio Name'
+Dec 22,2016 13:32:07 [info]  Clicked on the 'Find Button' using JS Executor
+Dec 22,2016 13:32:16 [info]  Clicked on the 'VendorName At VendorWindow'
+Dec 22,2016 13:32:16 [info]  Clicked on the 'Vendor Select Button' using JS Executor
+Dec 22,2016 13:32:20 [info]  Verify The data of Studio/Vendor2
+Dec 22,2016 13:32:20 [info]  Verified that Expected value :[AUT_AMCN_Studio] is matched with Actual value :[AUT_AMCN_Studio]
+Dec 22,2016 13:32:20 [info]  Clicked on the 'SBUImage' using JS Executor
+Dec 22,2016 13:32:21 [info]  Verified that Expected value :[Source Business Unit Template] is matched with Actual value :[Source Business Unit Template]
+Dec 22,2016 13:32:28 [info]  Clicked on the 'First CheckBox At SBU window'
+Dec 22,2016 13:32:30 [info]  Clicked on the 'Apply Button' using JS Executor
+Dec 22,2016 13:32:31 [info]  Entered "11:11:11" in field 'Duration'
+Dec 22,2016 13:32:42 [info]  Selected "Production" in "Asset Status" drop down
+Dec 22,2016 13:32:42 [info]  Selected "Licensed Acquired" in "Asset Source" drop down
+Dec 22,2016 13:32:43 [info]  Selected "TBD" in "Asset Category/Group" drop down
+Dec 22,2016 13:32:44 [info]  Entered "AUT_Series" in field 'Short Name'
+Dec 22,2016 13:32:44 [info]  Entered "Test" in field 'ProjectID'
+Dec 22,2016 13:32:45 [info]  Clicked on the 'Save Button' using JS Executor
+Dec 22,2016 13:32:59 [info]  Verified that Expected value :[AUT_AssetSeries_TC6_1222201613038] is matched with Actual value :[AUT_AssetSeries_TC6_1222201613038]
+Dec 22,2016 13:32:59 [info]  ************************Created Asset of TypeProgram - Series************************
+Dec 22,2016 13:33:03 [info]  Clicked on the 'MODULE'
+Dec 22,2016 13:33:11 [info]  Clicked on the 'Asset Maintenance'
+Dec 22,2016 13:33:15 [info]  Clicked on the 'Search Menu Icon' using JS Executor
+Dec 22,2016 13:33:15 [info]  Clicked on the 'AssetSearchUnderAsset' using JS Executor
+Dec 22,2016 13:33:29 [info]  Entered "AUT_AssetSeries_TC6_1222201613038" in field 'AssetTitle'
+Dec 22,2016 13:33:29 [info]  Clicked on the 'All Check Box' using JS Executor
+Dec 22,2016 13:33:29 [info]  Clicked on the 'Find Button' using JS Executor
+Dec 22,2016 13:33:55 [info]  Moved Mouse over 'First Asset in the Searched Asset'
+Dec 22,2016 13:33:56 [info]  Clicked on the 'First Asset in the Searched Asset'
+Dec 22,2016 13:33:56 [info]  Clicked on the 'First Asset in the Searched Asset'
+Dec 22,2016 13:33:59 [info]  Clicked on the 'View Asset' using JS Executor
+Dec 22,2016 13:34:17 [info]  Verified that Expected value :[AUT_AssetSeries_TC6_1222201613038] is matched with Actual value :[AUT_AssetSeries_TC6_1222201613038]
+Dec 22,2016 13:34:25 [info]  Clicked on the 'Episodes TAB'
+Dec 22,2016 13:34:29 [info]  Clicked on the ''Edit' Button at Episode window' using JS Executor
+Dec 22,2016 13:34:35 [info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Dec 22,2016 13:34:40 [info]  Entered "101" in field 'Add Episode input field'
+Dec 22,2016 13:34:40 [info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Dec 22,2016 13:34:50 [info]  Clicked on the 'Season Field of Episode101' using JS Executor
+Dec 22,2016 13:34:51 [info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Dec 22,2016 13:34:51 [info]  Clicked on the 'Season 1'
+Dec 22,2016 13:34:52 [info]  Clicked on the 'Support click to select season'
+Dec 22,2016 13:34:55 [info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Dec 22,2016 13:34:56 [info]  Entered "102" in field 'Add Episode input field'
+Dec 22,2016 13:34:56 [info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Dec 22,2016 13:35:09 [info]  Clicked on the 'Season Field of Episode102' using JS Executor
+Dec 22,2016 13:35:10 [info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Dec 22,2016 13:35:10 [info]  Clicked on the 'Season 1'
+Dec 22,2016 13:35:11 [info]  Clicked on the 'Support click to select season'
+Dec 22,2016 13:35:11 [info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Dec 22,2016 13:35:12 [info]  Entered "201" in field 'Add Episode input field'
+Dec 22,2016 13:35:12 [info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Dec 22,2016 13:35:26 [info]  Clicked on the 'Season Field of Episode201' using JS Executor
+Dec 22,2016 13:35:26 [info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Dec 22,2016 13:35:27 [info]  Clicked on the 'Season 2'
+Dec 22,2016 13:35:27 [info]  Clicked on the 'Support click to select season'
+Dec 22,2016 13:35:30 [info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Dec 22,2016 13:35:31 [info]  Entered "202" in field 'Add Episode input field'
+Dec 22,2016 13:35:31 [info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Dec 22,2016 13:35:42 [info]  Clicked on the 'Support click to select season'
+Dec 22,2016 13:35:45 [info]  Clicked on the 'Season Field of Episode201' using JS Executor
+Dec 22,2016 13:35:46 [info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Dec 22,2016 13:35:46 [info]  Clicked on the 'Season 2'
+Dec 22,2016 13:35:47 [info]  Clicked on the 'Support click to select season'
+Dec 22,2016 13:35:50 [info]  Clicked on the 'Save Button at 'Episode Edit Window'' using JS Executor
+Dec 22,2016 13:36:01 [info]  Clicked on the 'Close Button at 'Episode Edit Window'' using JS Executor
+Dec 22,2016 13:36:26 [info]  Clicked on the 'New Button' using JS Executor
+Dec 22,2016 13:36:26 [info]  Clicked on the 'Standalone Agreement' using JS Executor
+Dec 22,2016 13:36:36 [info]  Generated Deal Id is 56156
+Dec 22,2016 13:36:37 [info]  Clicked on the 'DealTitleField' using JS Executor
+Dec 22,2016 13:36:39 [info]  Entered "AUT_Deal_TC6_1222201613038" in field 'Deal Name Field'
+Dec 22,2016 13:36:41 [info]  Entered "AUT_Deal_TC6_1222201613038_desc" in field 'Deal Description/ContractID'
+Dec 22,2016 13:36:42 [info]  Selected "Production" in "DealType_DropDownField" drop down
+Dec 22,2016 13:36:42 [info]  Selected "Development" in "Deal/Agreement Sub Type" drop down
+Dec 22,2016 13:36:44 [info]  Entered "In Progress - IDM" in field 'DealCreationCDEStatus'
+Dec 22,2016 13:36:45 [info]  Entered "01/01/2014" in field 'DateExecuted_InputField'
+Dec 22,2016 13:36:46 [info]  Entered "01/01/2015" in field 'DateEffective_InputField'
+Dec 22,2016 13:36:47 [info]  Entered "USD" in field 'DealCreationCurrency'
+Dec 22,2016 13:36:47 [info]  Selected "AMC" in "ProfitCenter_InputField" drop down
+Dec 22,2016 13:36:54 [info]  Selected "Acquired Series - 280-206100-612103" in "BudgetLine_InputField" drop down
+Dec 22,2016 13:37:17 [info]  Moved Mouse over 'Party_AddButton'
+Dec 22,2016 13:37:18 [info]  Clicked on the 'Party_AddButton'
+Dec 22,2016 13:37:24 [info]  Entered "AUT_AMCN_RI_PRIMARY_PARTY" in field 'Search Party InputField'
+Dec 22,2016 13:37:24 [info]  Double clicked on 'RI Search Party Window Find Button'
+Dec 22,2016 13:37:31 [info]  Clicked on the 'AUT_AMCN_RI_PRIMARY_PARTY'
+Dec 22,2016 13:37:32 [info]  Clicked on the 'Select Button'
+Dec 22,2016 13:37:39 [info]  Clicked on the 'Party Type Field' using JS Executor
+Dec 22,2016 13:37:39 [info]  Entered "Primary" in field 'Party Party InputField'
+Dec 22,2016 13:37:40 [info]  Clicked on the 'Support Click '
+Dec 22,2016 13:37:40 [info]  Clicked on the 'Party_AddButton' using JS Executor
+Dec 22,2016 13:37:48 [info]  Entered "AUT_AMCN_RI_LICENSOR_PARTY" in field 'Search Party InputField'
+Dec 22,2016 13:37:49 [info]  Double clicked on 'RI Search Party Window Find Button'
+Dec 22,2016 13:38:00 [info]  Clicked on the 'Select Party'
+Dec 22,2016 13:38:01 [info]  Clicked on the 'Select Button'
+Dec 22,2016 13:38:07 [info]  Clicked on the 'Party Type Field' using JS Executor
+Dec 22,2016 13:38:08 [info]  Entered "Distributor" in field 'Party Party InputField'
+Dec 22,2016 13:38:08 [info]  Clicked on the 'Support Click '
+Dec 22,2016 13:38:12 [info]  Clicked on the 'Skip Workflow CheckBox'
+Dec 22,2016 13:38:13 [info]  Clicked on the 'Save Button' using JS Executor
+Dec 22,2016 13:38:24 [info]  Verify The data of CreatedDeal
+Dec 22,2016 13:38:24 [info]  Verified that Expected value :[AUT_Deal_TC6_1222201613038] is matched with Actual value :[AUT_Deal_TC6_1222201613038]
+Dec 22,2016 13:38:26 [info]  Clicked on the 'Modules'
+Dec 22,2016 13:38:38 [info]  Clicked on the 'RightsIN'
+Dec 22,2016 13:38:38 [info]  Clicked on the 'Search Icon' using JS Executor
+Dec 22,2016 13:38:38 [info]  Clicked on the 'Agreement Link' using JS Executor
+Dec 22,2016 13:38:47 [info]  Entered "AUT_Deal_TC6_1222201613038" in field 'AssetTitle'
+Dec 22,2016 13:38:49 [info]  Clicked on the 'Find Button' using JS Executor
+Dec 22,2016 13:38:58 [info]  Moved Mouse over 'First Asset in the Searched Asset'
+Dec 22,2016 13:38:59 [info]  Clicked on the 'First Asset in the Searched Asset'
+Dec 22,2016 13:39:02 [info]  Clicked on the 'View Asset' using JS Executor
+Dec 22,2016 13:39:12 [info]  Verified that Expected value :[AUT_Deal_TC6_1222201613038] is matched with Actual value :[AUT_Deal_TC6_1222201613038]
+Dec 22,2016 13:39:12 [info]  Clicked on the 'Navigator' using JS Executor
+Dec 22,2016 13:39:19 [info]  Clicked on the 'Deal'
+Dec 22,2016 13:39:20 [info]  Double clicked on 'Associate With Exiting Asset'
+Dec 22,2016 13:39:22 [info]  Clicked on the 'Asset Status'
+Dec 22,2016 13:39:22 [info]  Clicked on the 'Asset tile' using JS Executor
+Dec 22,2016 13:39:24 [info]  Entered "AUT_AssetSeries_TC6_1222201613038" in field 'Asset title'
+Dec 22,2016 13:39:24 [info]  Clicked on the 'All Check Box' using JS Executor
+Dec 22,2016 13:39:24 [info]  =====BUG ID======: 20309
+Dec 22,2016 13:39:24 [info]  Clicked on the 'Display Season checkBox' using JS Executor
+Dec 22,2016 13:39:25 [info]  Clicked on the 'Search Button' using JS Executor
+Dec 22,2016 13:39:37 [info]  Clicked on the 'Toggle'
+Dec 22,2016 13:39:41 [info]  Double clicked on 'Searched Asset'
+Dec 22,2016 13:39:54 [info]  Clicked on the 'Ok Button'
+Dec 22,2016 13:40:01 [info]  Test 'createData' PASSED
+Dec 22,2016 13:40:02 [info]  Closed the Browser
+Dec 22,2016 14:45:23 [info]  ********************Started Executiong the Test Suite at 14:45:23******************
+Dec 22,2016 14:45:23 [info]  Client: AMCN
+Dec 22,2016 14:45:23 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Dec 22,2016 14:45:23 [info]  *********************Started Executing 'TC7_ExhibRights_Filter' Test Case*********************
+Dec 22,2016 14:45:33 [info]  Client: AMCN
+Dec 22,2016 14:45:33 [info]  URL: http://rlv2wb79/login.aspx
+Dec 22,2016 14:45:33 [info]  UserName: automation
+Dec 22,2016 14:45:33 [info]  Password: automation
+Dec 22,2016 14:45:33 [info]  Entered "automation" in field 'User Name'
+Dec 22,2016 14:45:34 [info]  Clicked on the 'Temporary Check Box'
+Dec 22,2016 14:45:34 [info]  Entered "automation" in field 'Password'
+Dec 22,2016 14:45:40 [info]  Clicked on the 'LoginButton'
+Dec 22,2016 14:45:47 [info]  Double clicked on 'AUT_Deal_TC6_1222201613038Deal'
+Dec 22,2016 14:45:55 [info]  Clicked on the 'Media Rights TAB'
+Dec 22,2016 14:45:56 [info]  Clicked on the ''Edit' Button at Media Rights TAB' using JS Executor
+Dec 22,2016 14:45:57 [info]  ====Failed==== "'Add' Button at Media Rights Edit window" field is not present'
+Dec 22,2016 14:45:57 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\22\'Add' Button at Media Rights Edit window_CheckpointFailure_12-22-2016 2-45-57 PM.jpg
+Dec 22,2016 14:46:13 [info]  Could not find the locator: RI_MediaRights_EditMode_Applies To'
+Dec 22,2016 14:46:13 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\22\RI_MediaRights_EditMode_Applies To_CheckpointFailure_12-22-2016 2-46-13 PM.jpg
+Dec 22,2016 14:47:03 [info]  ********************Started Executiong the Test Suite at 14:47:03******************
+Dec 22,2016 14:47:03 [info]  Client: AMCN
+Dec 22,2016 14:47:03 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Dec 22,2016 14:47:03 [info]  *********************Started Executing 'TC7_ExhibRights_Filter' Test Case*********************
+Dec 22,2016 14:47:13 [info]  Client: AMCN
+Dec 22,2016 14:47:13 [info]  URL: http://rlv2wb79/login.aspx
+Dec 22,2016 14:47:13 [info]  UserName: automation
+Dec 22,2016 14:47:13 [info]  Password: automation
+Dec 22,2016 14:47:13 [info]  Entered "automation" in field 'User Name'
+Dec 22,2016 14:47:14 [info]  Clicked on the 'Temporary Check Box'
+Dec 22,2016 14:47:14 [info]  Entered "automation" in field 'Password'
+Dec 22,2016 14:47:20 [info]  Clicked on the 'LoginButton'
+Dec 22,2016 14:47:27 [info]  Double clicked on 'AUT_Deal_TC6_1222201613038Deal'
+Dec 22,2016 14:47:36 [info]  Clicked on the 'Media Rights TAB'
+Dec 22,2016 14:47:36 [info]  Clicked on the ''Edit' Button at Media Rights TAB' using JS Executor
+Dec 22,2016 14:47:42 [info]  Clicked on the ''Add' Button at Media Rights Edit window' using JS Executor
+Dec 22,2016 14:47:49 [info]  Double clicked on 'RI_MediaRights_EditMode_Applies To'
+Dec 22,2016 14:47:50 [info]  Clicked on the '*Applies ToDrop Down Image'
+Dec 22,2016 14:47:50 [info]  Clicked on the 'All'
+Dec 22,2016 14:47:55 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Dec 22,2016 14:47:55 [info]  Verify The data of RI_MediaRights_EditMode_*Applies To
+Dec 22,2016 14:47:55 [info]  Verified that Expected value :[All] is matched with Actual value :[All]
+Dec 22,2016 14:47:57 [info]  Double clicked on 'RI_MediaRights_EditMode_Party'
+Dec 22,2016 14:47:57 [info]  Clicked on the 'PartyDrop Down Image'
+Dec 22,2016 14:47:58 [info]  Clicked on the 'AUT_AMCN_RI_PRIMARY_PARTY'
+Dec 22,2016 14:48:02 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Dec 22,2016 14:48:02 [info]  Verify The data of RI_MediaRights_EditMode_Party
+Dec 22,2016 14:48:02 [info]  Verified that Expected value :[AUT_AMCN_RI_PRIMARY_PARTY] is matched with Actual value :[AUT_AMCN_RI_PRIMARY_PARTY]
+Dec 22,2016 14:48:04 [info]  Double clicked on 'RI_MediaRights_EditMode_Media Type'
+Dec 22,2016 14:48:05 [info]  Clicked on the '*Media TypeDrop Down Image'
+Dec 22,2016 14:48:05 [info]  Clicked on the 'All Media'
+Dec 22,2016 14:48:10 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Dec 22,2016 14:48:10 [info]  Verify The data of RI_MediaRights_EditMode_*Media Type
+Dec 22,2016 14:48:10 [info]  Verified that Expected value :[All Media] is matched with Actual value :[All Media]
+Dec 22,2016 14:48:12 [info]  Double clicked on 'RI_MediaRights_EditMode_Venue'
+Dec 22,2016 14:48:13 [info]  Clicked on the '*VenueDrop Down Image'
+Dec 22,2016 14:48:13 [info]  Clicked on the 'All Venues'
+Dec 22,2016 14:48:17 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Dec 22,2016 14:48:18 [info]  Verify The data of RI_MediaRights_EditMode_*Venue
+Dec 22,2016 14:48:18 [info]  Verified that Expected value :[All Venues] is matched with Actual value :[All Venues]
+Dec 22,2016 14:48:25 [info]  Double clicked on 'RI_MediaRights_EditMode_Platforms'
+Dec 22,2016 14:48:25 [info]  Clicked on the '*PlatformsDrop Down Image'
+Dec 22,2016 14:48:26 [info]  Clicked on the 'All Platforms'
+Dec 22,2016 14:48:30 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Dec 22,2016 14:48:30 [info]  Verify The data of RI_MediaRights_EditMode_*Platforms
+Dec 22,2016 14:48:30 [info]  Verified that Expected value :[All Platforms] is matched with Actual value :[All Platforms]
+Dec 22,2016 14:48:32 [info]  Double clicked on 'RI_MediaRights_EditMode_Restrictions'
+Dec 22,2016 14:48:33 [info]  Clicked on the '*RestrictionsDrop Down Image'
+Dec 22,2016 14:48:33 [info]  Clicked on the 'All Restrictions'
+Dec 22,2016 14:48:38 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Dec 22,2016 14:48:38 [info]  Verify The data of RI_MediaRights_EditMode_*Restrictions
+Dec 22,2016 14:48:38 [info]  Verified that Expected value :[All Restrictions] is matched with Actual value :[All Restrictions]
+Dec 22,2016 14:48:40 [info]  Double clicked on 'RI_MediaRights_EditMode_Business Outlets'
+Dec 22,2016 14:48:41 [info]  Clicked on the '*Business OutletsDrop Down Image'
+Dec 22,2016 14:48:41 [info]  Clicked on the 'All Business Outlets'
+Dec 22,2016 14:48:46 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Dec 22,2016 14:48:46 [info]  Verify The data of RI_MediaRights_EditMode_*Business Outlets
+Dec 22,2016 14:48:46 [info]  Verified that Expected value :[All Business Outlets] is matched with Actual value :[All Business Outlets]
+Dec 22,2016 14:48:48 [info]  Double clicked on 'RI_MediaRights_EditMode_Territory'
+Dec 22,2016 14:48:48 [info]  Clicked on the '*TerritoryDrop Down Image'
+Dec 22,2016 14:48:49 [info]  Clicked on the 'All Worldwide'
+Dec 22,2016 14:48:53 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Dec 22,2016 14:48:53 [info]  Verify The data of RI_MediaRights_EditMode_*Territory
+Dec 22,2016 14:48:53 [info]  Verified that Expected value :[All Worldwide] is matched with Actual value :[All Worldwide]
+Dec 22,2016 14:48:55 [info]  Double clicked on 'RI_MediaRights_EditMode_Language'
+Dec 22,2016 14:48:56 [info]  Clicked on the '*LanguageDrop Down Image'
+Dec 22,2016 14:48:56 [info]  Clicked on the 'All Languages'
+Dec 22,2016 14:49:01 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Dec 22,2016 14:49:01 [info]  Verify The data of RI_MediaRights_EditMode_*Language
+Dec 22,2016 14:49:01 [info]  Verified that Expected value :[All Languages] is matched with Actual value :[All Languages]
+Dec 22,2016 14:49:02 [info]  Clicked on the 'Term From Field'
+Dec 22,2016 14:49:03 [info]  Entered "01/01/2017" in field 'Term From'
+Dec 22,2016 14:49:04 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Dec 22,2016 14:49:04 [info]  Verify The data of Term From Data
+Dec 22,2016 14:49:04 [info]  Verified that Expected value :[01/01/2017] is matched with Actual value :[01/01/2017]
+Dec 22,2016 14:49:05 [info]  Clicked on the 'Term To Field'
+Dec 22,2016 14:49:06 [info]  Entered "12/31/2019" in field 'Term To input Field'
+Dec 22,2016 14:49:07 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Dec 22,2016 14:49:07 [info]  Verify The data of Term From Data
+Dec 22,2016 14:49:07 [info]  Verified that Expected value :[12/31/2019] is matched with Actual value :[12/31/2019]
+Dec 22,2016 14:49:07 [info]  Clicked on the ''Save' Button at Media Rights Edit window' using JS Executor
+Dec 22,2016 14:49:15 [info]  Verified that Expected value :[Changes Saved Successfully.] is matched with Actual value :[Changes Saved Successfully. The Filter has been updated to reflect your changes.]
+Dec 22,2016 14:49:16 [info]  Double clicked on 'AUT_Deal_TC6_1222201613038Deal'
+Dec 22,2016 14:49:20 [info]  Clicked on the 'Exhibition Rights TAB'
+Dec 22,2016 14:49:22 [info]  Clicked on the ''Edit' Button at Media Rights TAB' using JS Executor
+Dec 22,2016 14:49:28 [info]  Clicked on the 'ClearFiltersButton'
+Dec 22,2016 14:49:35 [info]  Clicked on the 'Add Button'
+Dec 22,2016 14:49:49 [info]  ====Failed==== " Could not find the Frame: div[id*='WebDialogWindow2'][style*=visible]
+Dec 22,2016 14:49:49 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\22\FrameSwitchingFailed0_CheckpointFailure_12-22-2016 2-49-49 PM.jpg
+Dec 22,2016 14:50:09 [info]  ====Failed==== "Select Check Box" field is not present'
+Dec 22,2016 14:50:09 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\22\Select Check Box_CheckpointFailure_12-22-2016 2-50-09 PM.jpg
+Dec 22,2016 14:51:15 [info]  ********************Started Executiong the Test Suite at 14:51:15******************
+Dec 22,2016 14:51:15 [info]  Client: AMCN
+Dec 22,2016 14:51:15 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Dec 22,2016 14:51:15 [info]  *********************Started Executing 'TC7_ExhibRights_Filter' Test Case*********************
+Dec 22,2016 14:51:24 [info]  Client: AMCN
+Dec 22,2016 14:51:24 [info]  URL: http://rlv2wb79/login.aspx
+Dec 22,2016 14:51:24 [info]  UserName: automation
+Dec 22,2016 14:51:24 [info]  Password: automation
+Dec 22,2016 14:51:25 [info]  Entered "automation" in field 'User Name'
+Dec 22,2016 14:51:25 [info]  Clicked on the 'Temporary Check Box'
+Dec 22,2016 14:51:26 [info]  Entered "automation" in field 'Password'
+Dec 22,2016 14:51:32 [info]  Clicked on the 'LoginButton'
+Dec 22,2016 14:51:39 [info]  Double clicked on 'AUT_Deal_TC6_1222201613038Deal'
+Dec 22,2016 14:51:48 [info]  Clicked on the 'Exhibition Rights TAB'
+Dec 22,2016 14:51:48 [info]  Clicked on the ''Edit' Button at Media Rights TAB' using JS Executor
+Dec 22,2016 14:51:56 [info]  Clicked on the 'ClearFiltersButton'
+Dec 22,2016 14:52:02 [info]  Clicked on the 'Add Button'
+Dec 22,2016 14:52:07 [info]  Clicked on the 'Select Check Box'
+Dec 22,2016 14:52:09 [info]  Clicked on the 'Add Button at Media rights Pop up Window'
+Dec 22,2016 14:52:14 [info]  Clicked on the 'Exhibition Day Scope Field'
+Dec 22,2016 14:52:14 [info]  Clicked on the 'Exhibition Day Scope Drop Down'
+Dec 22,2016 14:52:15 [info]  Clicked on the ''Season' in Exhi Scope field'
+Dec 22,2016 14:52:16 [info]  Clicked on the 'Support Click'
+Dec 22,2016 14:52:16 [info]  Verify The data of Season in ExhiScope
+Dec 22,2016 14:52:16 [info]  Verified that Expected value :[Season] is matched with Actual value :[Season]
+Dec 22,2016 14:52:17 [info]  Clicked on the 'Window Name Field'
+Dec 22,2016 14:52:18 [info]  Entered "RSG Window" in field 'Win Name'
+Dec 22,2016 14:52:19 [info]  Clicked on the 'Support Click'
+Dec 22,2016 14:52:19 [info]  Verify The data of Window Name
+Dec 22,2016 14:52:19 [info]  Verified that Expected value :[RSG Window] is matched with Actual value :[RSG Window]
+Dec 22,2016 14:52:20 [info]  Double clicked on 'Window Name Field'
+Dec 22,2016 14:52:24 [info]  Clicked on the 'Check box Linear'
+Dec 22,2016 14:52:24 [info]  "Linear Check box is checked" is Present
+Dec 22,2016 14:52:27 [info]  Clicked on the 'Apply Button at RIGHTSTYPE_POPUP' using JS Executor
+Dec 22,2016 14:52:31 [info]  Clicked on the 'Network pop up icon' using JS Executor
+Dec 22,2016 14:52:31 [info]  Double clicked on 'Network pop up icon'
+Dec 22,2016 14:52:35 [info]  Clicked on the 'Selected Channel AMC Linear'
+Dec 22,2016 14:52:38 [info]  Clicked on the 'Ok button at Exhibtion Network Window'
+Dec 22,2016 14:52:42 [info]  Manual test Step : TC_1
+Dec 22,2016 14:52:42 [info]  Verify Default Drop down values of Filters
+Dec 22,2016 14:52:42 [info]  Verified that Expected value :[(Select One)] is matched with Actual value :[(Select One)]
+Dec 22,2016 14:52:43 [info]  Verified that Expected value :[(Select All)] is matched with Actual value :[(Select All)]
+Dec 22,2016 14:52:43 [info]  Verify MultiSelect Icons of Filters are present
+Dec 22,2016 14:52:43 [info]  "Alphabate Filter Pick List" is Present
+Dec 22,2016 14:52:43 [info]  "Assets Filter Pick List" is Present
+Dec 22,2016 14:52:43 [info]  Test 'TC7_ExhibRights_Filter' PASSED
+Dec 22,2016 14:52:44 [info]  Closed the Browser
+Dec 22,2016 14:55:43 [info]  ********************Started Executiong the Test Suite at 14:55:43******************
+Dec 22,2016 14:55:43 [info]  Client: AMCN
+Dec 22,2016 14:55:43 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Dec 22,2016 14:55:43 [info]  *********************Started Executing 'TC7_ExhibRights_Filter' Test Case*********************
+Dec 22,2016 14:55:52 [info]  Client: AMCN
+Dec 22,2016 14:55:52 [info]  URL: http://rlv2wb79/login.aspx
+Dec 22,2016 14:55:52 [info]  UserName: automation
+Dec 22,2016 14:55:52 [info]  Password: automation
+Dec 22,2016 14:55:53 [info]  Entered "automation" in field 'User Name'
+Dec 22,2016 14:55:53 [info]  Clicked on the 'Temporary Check Box'
+Dec 22,2016 14:55:54 [info]  Entered "automation" in field 'Password'
+Dec 22,2016 14:56:00 [info]  Clicked on the 'LoginButton'
+Dec 22,2016 14:56:07 [info]  Double clicked on 'AUT_Deal_TC6_1222201613038Deal'
+Dec 22,2016 14:56:16 [info]  Clicked on the 'Exhibition Rights TAB'
+Dec 22,2016 14:56:16 [info]  Clicked on the ''Edit' Button at Media Rights TAB' using JS Executor
+Dec 22,2016 14:56:23 [info]  Clicked on the 'ClearFiltersButton'
+Dec 22,2016 14:56:30 [info]  Clicked on the 'Add Button'
+Dec 22,2016 14:56:34 [info]  Clicked on the 'Select Check Box'
+Dec 22,2016 14:56:37 [info]  Clicked on the 'Add Button at Media rights Pop up Window'
+Dec 22,2016 14:56:41 [info]  Clicked on the 'Exhibition Day Scope Field'
+Dec 22,2016 14:56:42 [info]  Clicked on the 'Exhibition Day Scope Drop Down'
+Dec 22,2016 14:56:42 [info]  Clicked on the ''Season' in Exhi Scope field'
+Dec 22,2016 14:56:43 [info]  Clicked on the 'Support Click'
+Dec 22,2016 14:56:44 [info]  Verify The data of Season in ExhiScope
+Dec 22,2016 14:56:44 [info]  Verified that Expected value :[Season] is matched with Actual value :[Season]
+Dec 22,2016 14:56:44 [info]  Clicked on the 'Window Name Field'
+Dec 22,2016 14:56:45 [info]  Entered "RSG Window" in field 'Win Name'
+Dec 22,2016 14:56:46 [info]  Clicked on the 'Support Click'
+Dec 22,2016 14:56:46 [info]  Verify The data of Window Name
+Dec 22,2016 14:56:46 [info]  Verified that Expected value :[RSG Window] is matched with Actual value :[RSG Window]
+Dec 22,2016 14:56:47 [info]  Double clicked on 'Window Name Field'
+Dec 22,2016 14:56:51 [info]  Clicked on the 'Check box Linear'
+Dec 22,2016 14:56:51 [info]  "Linear Check box is checked" is Present
+Dec 22,2016 14:56:54 [info]  Clicked on the 'Apply Button at RIGHTSTYPE_POPUP' using JS Executor
+Dec 22,2016 14:56:58 [info]  Clicked on the 'Network pop up icon' using JS Executor
+Dec 22,2016 14:56:58 [info]  Double clicked on 'Network pop up icon'
+Dec 22,2016 14:57:02 [info]  Clicked on the 'Selected Channel AMC Linear'
+Dec 22,2016 14:57:05 [info]  Clicked on the 'Ok button at Exhibtion Network Window'
+Dec 22,2016 14:57:09 [info]  Clicked on the ''Save' Button at Media Rights Edit window' using JS Executor
+Dec 22,2016 14:57:16 [info]  Verified that Expected value :[Changes Saved Successfully.] is matched with Actual value :[Changes Saved Successfully. The Filter has been updated to reflect your changes.]
+Dec 22,2016 14:57:16 [info]  Manual test Step : TC_1
+Dec 22,2016 14:57:16 [info]  Verify Default Drop down values of Filters
+Dec 22,2016 14:57:17 [info]  Verified that Expected value :[(Select One)] is matched with Actual value :[(Select One)]
+Dec 22,2016 14:57:17 [info]  ====Failed==== Expected value is:[(Select All)] but Actual value is[All]. Please check the screenshot with name: (Select All)for more details
+Dec 22,2016 14:57:17 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\22\Default value of Asset Filter _CheckpointFailure_12-22-2016 2-57-17 PM.jpg
+Dec 22,2016 14:57:17 [info]  Verify MultiSelect Icons of Filters are present
+Dec 22,2016 14:57:17 [info]  "Alphabate Filter Pick List" is Present
+Dec 22,2016 14:57:17 [info]  "Assets Filter Pick List" is Present
+Dec 22,2016 14:57:17 [info]  Test 'TC7_ExhibRights_Filter' PASSED
+Dec 22,2016 14:57:18 [info]  Closed the Browser
+Dec 22,2016 15:30:00 [info]  ********************Started Executiong the Test Suite at 15:30:00******************
+Dec 22,2016 15:30:00 [info]  Client: AMCN
+Dec 22,2016 15:30:00 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Dec 22,2016 15:30:00 [info]  *********************Started Executing 'TC7_ExhibRights_Filter' Test Case*********************
+Dec 22,2016 15:30:09 [info]  Client: AMCN
+Dec 22,2016 15:30:09 [info]  URL: http://rlv2wb79/login.aspx
+Dec 22,2016 15:30:09 [info]  UserName: automation
+Dec 22,2016 15:30:09 [info]  Password: automation
+Dec 22,2016 15:30:10 [info]  Entered "automation" in field 'User Name'
+Dec 22,2016 15:30:10 [info]  Clicked on the 'Temporary Check Box'
+Dec 22,2016 15:30:11 [info]  Entered "automation" in field 'Password'
+Dec 22,2016 15:30:17 [info]  Clicked on the 'LoginButton'
+Dec 22,2016 15:31:36 [info]  Clicked on the 'First Allocation Row'
+Dec 22,2016 15:31:37 [info]  Clicked on the 'Copy Rows Button'
+Dec 22,2016 15:31:41 [info]  ====Failed==== "Number of Copies" field is not present'Number of Copies'
+Dec 22,2016 15:31:41 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\22\Number of Copies_CheckpointFailure_12-22-2016 3-31-41 PM.jpg
+Dec 22,2016 15:31:41 [info]  Clicked on the 'OK Button at Prompt Alert' using JS Executor
+Dec 22,2016 15:34:35 [info]  ********************Started Executiong the Test Suite at 15:34:35******************
+Dec 22,2016 15:34:35 [info]  Client: AMCN
+Dec 22,2016 15:34:35 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Dec 22,2016 15:34:35 [info]  *********************Started Executing 'TC7_ExhibRights_Filter' Test Case*********************
+Dec 22,2016 15:34:45 [info]  Client: AMCN
+Dec 22,2016 15:34:45 [info]  URL: http://rlv2wb79/login.aspx
+Dec 22,2016 15:34:45 [info]  UserName: automation
+Dec 22,2016 15:34:45 [info]  Password: automation
+Dec 22,2016 15:34:45 [info]  Entered "automation" in field 'User Name'
+Dec 22,2016 15:34:46 [info]  Clicked on the 'Temporary Check Box'
+Dec 22,2016 15:34:46 [info]  Entered "automation" in field 'Password'
+Dec 22,2016 15:34:53 [info]  Clicked on the 'LoginButton'
+Dec 22,2016 15:36:36 [info]  Clicked on the 'First Allocation Row'
+Dec 22,2016 15:37:57 [info]  Clicked on the 'Copy Rows Button'
+Dec 22,2016 15:39:52 [info]  Clicked on the 'First Allocation Row'
+Dec 22,2016 15:39:53 [info]  Double clicked on 'Copy Rows Button'
+Dec 22,2016 15:40:23 [info]  Clicked on the 'First Allocation Row'
+Dec 22,2016 15:40:24 [info]  Double clicked on 'Copy Rows Button'
+Dec 22,2016 15:40:59 [info]  ====Failed==== "First Allocation Row" field is not present'
+Dec 22,2016 15:40:59 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\22\First Allocation Row_CheckpointFailure_12-22-2016 3-40-59 PM.jpg
+Dec 22,2016 15:40:59 [info]  Double clicked on 'Copy Rows Button'
+Dec 22,2016 15:41:47 [info]  Clicked on the 'First Allocation Row'
+Dec 22,2016 15:41:48 [info]  Clicked on the 'First Allocation Row'
+Dec 22,2016 15:41:49 [info]  Double clicked on 'Copy Rows Button'
+Dec 22,2016 15:42:00 [info]  Entered "3" in field 'Number of Copies'
+Dec 22,2016 15:42:01 [info]  Clicked on the 'OK Button at Prompt Alert' using JS Executor
+Dec 22,2016 15:42:03 [info]  
+Dec 22,2016 15:42:06 [info]  Edit Mode: Verify the Data in PARENT Row 
+Dec 22,2016 15:42:07 [info]  Verify The data of Applies to
+Dec 22,2016 15:42:07 [info]  Verified that Expected value :[All] is matched with Actual value :[All]
+Dec 22,2016 15:42:08 [info]  Verify The data of Applies to
+Dec 22,2016 15:42:08 [info]  Verified that Expected value :[Automatic] is matched with Actual value :[Automatic]
+Dec 22,2016 15:42:11 [info]  Verify The data of EXHIBITION_DAYS
+Dec 22,2016 15:42:11 [info]  ====Failed==== Expected value is:[12] but Actual value is[<!---->]. Please check the screenshot with name: EXHIBITION_DAYSfor more details
+Dec 22,2016 15:42:11 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\22\EXHIBITION_DAYS_CheckpointFailure_12-22-2016 3-42-11 PM.jpg
+Dec 22,2016 15:42:12 [info]  Verify The data of EXHIBITION_DAYS
+Dec 22,2016 15:42:12 [info]  ====Failed==== Expected value is:[2] but Actual value is[<!---->]. Please check the screenshot with name: EXHIBITION_DAYSfor more details
+Dec 22,2016 15:42:12 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\22\EXHIBITION_DAYS_CheckpointFailure_12-22-2016 3-42-12 PM.jpg
+Dec 22,2016 15:42:12 [info]  "POOLED Check box" is Present
+Dec 22,2016 15:42:12 [info]  Verify The data of ExhiScope
+Dec 22,2016 15:42:12 [info]  ====Failed==== Expected value is:[Series] but Actual value is[Season]. Please check the screenshot with name: ExhiScopefor more details
+Dec 22,2016 15:42:12 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\22\ExhiScope_CheckpointFailure_12-22-2016 3-42-12 PM.jpg
+Dec 22,2016 15:42:13 [info]  Verify The data of STARTDATE
+Dec 22,2016 15:42:13 [info]  Verified that Expected value :[01/01/2017] is matched with Actual value :[01/01/2017]
+Dec 22,2016 15:42:13 [info]  Verify The data of ENDDATE
+Dec 22,2016 15:42:13 [info]  Verified that Expected value :[12/31/2019] is matched with Actual value :[12/31/2019]
+Dec 22,2016 15:42:13 [info]  
+Dec 22,2016 15:42:13 [info]  Edit Mode: Verify the Data in CHILD Row 
+Dec 22,2016 15:44:23 [info]  Verify The data of Window Name
+Dec 22,2016 15:44:23 [info]  Verified that Expected value :[RSG Window] is matched with Actual value :[RSG Window]
+Dec 22,2016 15:44:24 [info]  Verify The data of Window Type
+Dec 22,2016 15:44:24 [info]  Verified that Expected value :[Primary] is matched with Actual value :[Primary]
+Dec 22,2016 15:44:24 [info]  Verify The data of Linear
+Dec 22,2016 15:44:24 [info]  Verified that Expected value :[Linear] is matched with Actual value :[Linear]
+Dec 22,2016 15:44:24 [info]  "POOLED Check box" is Present
+Dec 22,2016 15:44:45 [info]  Verify The data of Start Date
+Dec 22,2016 15:44:45 [info]  ====Failed==== Expected value is:[01/01/2017] but Actual value is[]. Please check the screenshot with name: Start Datefor more details
+Dec 22,2016 15:44:45 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\22\Start Date_CheckpointFailure_12-22-2016 3-44-45 PM.jpg
+Dec 22,2016 15:48:00 [info]  Verify The data of Exhibition Network AMC Linear
+Dec 22,2016 15:48:00 [info]  ====Failed==== Expected value is:[AMC Linear] but Actual value is[]. Please check the screenshot with name: Exhibition Network AMC Linearfor more details
+Dec 22,2016 15:48:00 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\22\Exhibition Network AMC Linear_CheckpointFailure_12-22-2016 3-48-00 PM.jpg
+Dec 22,2016 15:48:00 [info]  Verify The data of Exhibition Network AMC HD
+Dec 22,2016 15:48:00 [info]  ====Failed==== Expected value is:[AMC HD] but Actual value is[]. Please check the screenshot with name: Exhibition Network AMC HDfor more details
+Dec 22,2016 15:48:01 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\22\Exhibition Network AMC HD_CheckpointFailure_12-22-2016 3-48-00 PM.jpg
+Dec 22,2016 15:48:01 [info]  Verify The data of Territory North America
+Dec 22,2016 15:48:01 [info]  ====Failed==== Expected value is:[North America] but Actual value is[<!---->]. Please check the screenshot with name: Territory North Americafor more details
+Dec 22,2016 15:48:01 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\22\Territory North America_CheckpointFailure_12-22-2016 3-48-01 PM.jpg
+Dec 22,2016 15:48:01 [info]  Verify The data of Day Type
+Dec 22,2016 15:48:01 [info]  ====Failed==== Expected value is:[Programming Day] but Actual value is[Consecutive Period]. Please check the screenshot with name: Day Typefor more details
+Dec 22,2016 15:48:02 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\22\Day Type_CheckpointFailure_12-22-2016 3-48-01 PM.jpg
+Dec 22,2016 15:48:02 [info]  Verify The data of Day Period
+Dec 22,2016 15:48:02 [info]  ====Failed==== Expected value is:[N/A] but Actual value is[24 HR]. Please check the screenshot with name: Day Periodfor more details
+Dec 22,2016 15:48:02 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\22\Day Period_CheckpointFailure_12-22-2016 3-48-02 PM.jpg
+Dec 22,2016 15:48:02 [info]  Verify The data of Plays
+Dec 22,2016 15:48:02 [info]  Verified that Expected value :[Unlimited] is matched with Actual value :[Unlimited]
+Dec 22,2016 15:49:15 [info]  ********************Started Executiong the Test Suite at 15:49:15******************
+Dec 22,2016 15:49:15 [info]  Client: AMCN
+Dec 22,2016 15:49:15 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Dec 22,2016 15:49:15 [info]  *********************Started Executing 'TC7_ExhibRights_Filter' Test Case*********************
+Dec 22,2016 15:49:24 [info]  Client: AMCN
+Dec 22,2016 15:49:24 [info]  URL: http://rlv2wb79/login.aspx
+Dec 22,2016 15:49:24 [info]  UserName: automation
+Dec 22,2016 15:49:24 [info]  Password: automation
+Dec 22,2016 15:49:25 [info]  Entered "automation" in field 'User Name'
+Dec 22,2016 15:49:25 [info]  Clicked on the 'Temporary Check Box'
+Dec 22,2016 15:49:26 [info]  Entered "automation" in field 'Password'
+Dec 22,2016 15:49:32 [info]  Clicked on the 'LoginButton'
+Dec 22,2016 16:19:54 [info]  Clicked on the 'First Allocation Row'
+Dec 22,2016 16:19:56 [info]  Clicked on the 'First Allocation Row'
+Dec 22,2016 16:19:57 [info]  Double clicked on 'Copy Rows Button'
+Dec 22,2016 16:21:13 [info]  Entered "3" in field 'Number of Copies'
+Dec 22,2016 16:22:59 [info]  Clicked on the 'OK Button at Prompt Alert' using JS Executor
+Dec 22,2016 16:23:04 [info]  Clicked on the 'Exhibition Day Scope Field'
+Dec 22,2016 16:23:09 [info]  Clicked on the 'Exhibition Day Scope Drop Down'
+Dec 22,2016 16:23:09 [info]  Clicked on the ''Season' in Exhi Scope field'
+Dec 22,2016 16:23:10 [info]  Clicked on the 'Support Click'
+Dec 22,2016 16:23:11 [info]  Verify The data of Season in ExhiScope
+Dec 22,2016 16:23:11 [info]  Verified that Expected value :[Season] is matched with Actual value :[Season]
+Dec 22,2016 16:23:12 [info]  Clicked on the 'Window Name Field'
+Dec 22,2016 16:23:12 [info]  Entered "RSG Window" in field 'Win Name'
+Dec 22,2016 16:23:13 [info]  Clicked on the 'Support Click'
+Dec 22,2016 16:23:13 [info]  Verify The data of Window Name
+Dec 22,2016 16:23:13 [info]  Verified that Expected value :[RSG Window] is matched with Actual value :[RSG Window]
+Dec 22,2016 16:23:15 [info]  Double clicked on 'Window Name Field'
+Dec 22,2016 16:23:18 [info]  Clicked on the 'Check box Linear'
+Dec 22,2016 16:23:21 [info]  "Linear Check box is checked" is Present
+Dec 22,2016 16:23:24 [info]  Clicked on the 'Apply Button at RIGHTSTYPE_POPUP' using JS Executor
+Dec 22,2016 16:23:28 [info]  Clicked on the 'Network pop up icon' using JS Executor
+Dec 22,2016 16:23:29 [info]  Double clicked on 'Network pop up icon'
+Dec 22,2016 16:23:33 [info]  Clicked on the 'Selected Channel AMC Linear'
+Dec 22,2016 16:23:36 [info]  Clicked on the 'Ok button at Exhibtion Network Window'
+Dec 22,2016 16:23:40 [info]  
+Dec 22,2016 16:25:52 [info]  Clicked on the 'First Allocation Row'
+Dec 22,2016 16:25:52 [info]  Clicked on the 'First Allocation Row'
+Dec 22,2016 16:25:52 [info]  Double clicked on 'Copy Rows Button'
+Dec 22,2016 16:26:46 [info]  Entered "3" in field 'Number of Copies'
+Dec 22,2016 16:26:46 [info]  Clicked on the 'OK Button at Prompt Alert' using JS Executor
+Dec 22,2016 16:26:46 [info]  
+Dec 22,2016 16:26:49 [info]  Edit Mode: Verify the Data in PARENT Row 
+Dec 22,2016 16:26:50 [info]  Verify The data of Applies to
+Dec 22,2016 16:26:50 [info]  Verified that Expected value :[All] is matched with Actual value :[All]
+Dec 22,2016 16:26:50 [info]  Verify The data of Applies to
+Dec 22,2016 16:26:50 [info]  Verified that Expected value :[Automatic] is matched with Actual value :[Automatic]
+Dec 22,2016 16:26:50 [info]  "POOLED Check box" is Present
+Dec 22,2016 16:26:50 [info]  Verify The data of ExhiScope
+Dec 22,2016 16:26:50 [info]  Verified that Expected value :[Season] is matched with Actual value :[Season]
+Dec 22,2016 16:26:51 [info]  Verify The data of STARTDATE
+Dec 22,2016 16:26:51 [info]  Verified that Expected value :[01/01/2017] is matched with Actual value :[01/01/2017]
+Dec 22,2016 16:26:51 [info]  Verify The data of ENDDATE
+Dec 22,2016 16:26:51 [info]  Verified that Expected value :[12/31/2019] is matched with Actual value :[12/31/2019]
+Dec 22,2016 16:26:51 [info]  
+Dec 22,2016 16:26:51 [info]  Edit Mode: Verify the Data in CHILD Row 
+Dec 22,2016 16:27:00 [info]  Verify The data of Window Name
+Dec 22,2016 16:27:00 [info]  Verified that Expected value :[RSG Window] is matched with Actual value :[RSG Window]
+Dec 22,2016 16:27:00 [info]  Verify The data of Window Type
+Dec 22,2016 16:27:00 [info]  Verified that Expected value :[Primary] is matched with Actual value :[Primary]
+Dec 22,2016 16:27:01 [info]  Verify The data of Linear
+Dec 22,2016 16:27:01 [info]  Verified that Expected value :[Linear] is matched with Actual value :[Linear]
+Dec 22,2016 16:27:01 [info]  "POOLED Check box" is Present
+Dec 22,2016 16:27:01 [info]  Verify The data of Start Date
+Dec 22,2016 16:27:01 [info]  Verified that Expected value :[01/01/2017] is matched with Actual value :[01/01/2017]
+Dec 22,2016 16:27:03 [info]  Verify The data of Exhibition Network AMC Linear
+Dec 22,2016 16:27:03 [info]  ====Failed==== Expected value is:[AMC Linear] but Actual value is[]. Please check the screenshot with name: Exhibition Network AMC Linearfor more details
+Dec 22,2016 16:27:03 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\22\Exhibition Network AMC Linear_CheckpointFailure_12-22-2016 4-27-03 PM.jpg
+Dec 22,2016 16:27:04 [info]  Verify The data of Day Period
+Dec 22,2016 16:27:04 [info]  ====Failed==== Expected value is:[N/A] but Actual value is[24 HR]. Please check the screenshot with name: Day Periodfor more details
+Dec 22,2016 16:27:04 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\22\Day Period_CheckpointFailure_12-22-2016 4-27-04 PM.jpg
+Dec 22,2016 16:27:04 [info]  Verify The data of Plays
+Dec 22,2016 16:27:04 [info]  Verified that Expected value :[Unlimited] is matched with Actual value :[Unlimited]
+Dec 22,2016 16:27:04 [info]  
+Dec 22,2016 16:27:04 [info]  Edit Mode: Verify the Data in CHILD Row 
+Dec 22,2016 16:27:25 [info]  Verify The data of Window Name
+Dec 22,2016 16:27:25 [info]  ====Failed==== Expected value is:[RSG Window] but Actual value is[]. Please check the screenshot with name: Window Namefor more details
+Dec 22,2016 16:27:25 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\22\Window Name_CheckpointFailure_12-22-2016 4-27-25 PM.jpg
+Dec 22,2016 16:27:45 [info]  Verify The data of Window Type
+Dec 22,2016 16:27:45 [info]  ====Failed==== Expected value is:[Primary] but Actual value is[]. Please check the screenshot with name: Window Typefor more details
+Dec 22,2016 16:27:45 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\22\Window Type_CheckpointFailure_12-22-2016 4-27-45 PM.jpg
+Dec 22,2016 16:28:05 [info]  Verify The data of Linear
+Dec 22,2016 16:28:05 [info]  ====Failed==== Expected value is:[Linear] but Actual value is[]. Please check the screenshot with name: Linearfor more details
+Dec 22,2016 16:28:06 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\22\Linear_CheckpointFailure_12-22-2016 4-28-05 PM.jpg
+Dec 22,2016 16:28:26 [info]  ====Failed==== "POOLED Check box"  does not exist.
+Dec 22,2016 16:28:26 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\22\POOLED Check box_CheckpointFailure_12-22-2016 4-28-26 PM.jpg
+Dec 22,2016 16:28:47 [info]  Verify The data of Start Date
+Dec 22,2016 16:28:47 [info]  ====Failed==== Expected value is:[01/01/2017] but Actual value is[]. Please check the screenshot with name: Start Datefor more details
+Dec 22,2016 16:28:47 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\22\Start Date_CheckpointFailure_12-22-2016 4-28-47 PM.jpg
+Dec 22,2016 16:29:07 [info]  Verify The data of Exhibition Network AMC Linear
+Dec 22,2016 16:29:07 [info]  ====Failed==== Expected value is:[AMC Linear] but Actual value is[]. Please check the screenshot with name: Exhibition Network AMC Linearfor more details
+Dec 22,2016 16:29:07 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\22\Exhibition Network AMC Linear_CheckpointFailure_12-22-2016 4-29-07 PM.jpg
+Dec 22,2016 16:29:27 [info]  Verify The data of Day Period
+Dec 22,2016 16:29:27 [info]  ====Failed==== Expected value is:[N/A] but Actual value is[]. Please check the screenshot with name: Day Periodfor more details
+Dec 22,2016 16:29:27 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\22\Day Period_CheckpointFailure_12-22-2016 4-29-27 PM.jpg
+Dec 22,2016 16:29:48 [info]  Verify The data of Plays
+Dec 22,2016 16:29:48 [info]  ====Failed==== Expected value is:[Unlimited] but Actual value is[]. Please check the screenshot with name: Playsfor more details
+Dec 22,2016 16:29:48 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\22\Plays_CheckpointFailure_12-22-2016 4-29-48 PM.jpg
+Dec 22,2016 16:29:48 [info]  Test 'TC7_ExhibRights_Filter' PASSED
+Dec 22,2016 16:29:49 [info]  Closed the Browser
+Dec 22,2016 16:34:04 [info]  ********************Started Executiong the Test Suite at 16:34:04******************
+Dec 22,2016 16:34:04 [info]  Client: AMCN
+Dec 22,2016 16:34:04 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Dec 22,2016 16:34:04 [info]  *********************Started Executing 'TC7_ExhibRights_Filter' Test Case*********************
+Dec 22,2016 16:34:13 [info]  Client: AMCN
+Dec 22,2016 16:34:13 [info]  URL: http://rlv2wb79/login.aspx
+Dec 22,2016 16:34:13 [info]  UserName: automation
+Dec 22,2016 16:34:13 [info]  Password: automation
+Dec 22,2016 16:34:14 [info]  Entered "automation" in field 'User Name'
+Dec 22,2016 16:34:14 [info]  Clicked on the 'Temporary Check Box'
+Dec 22,2016 16:34:15 [info]  Entered "automation" in field 'Password'
+Dec 22,2016 16:34:21 [info]  Clicked on the 'LoginButton'
+Dec 22,2016 16:34:37 [info]  ====Failed==== " Could not find the Frame: div[id*='WebDialogWindow1'][style*=visible]
+Dec 22,2016 16:34:37 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\22\FrameSwitchingFailed0_CheckpointFailure_12-22-2016 4-34-37 PM.jpg
+Dec 22,2016 16:34:37 [info]  Unable to find element with css selector == div[id*='WebDialogWindow1'][style*=visible] (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.03 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: '9P4G6BS', ip: '10.10.22.71', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=true, ie.forceCreateProcessApi=false, pageLoadStrategy=normal, ie.usePerProcessProxy=false, ignoreZoomSetting=false, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=false, browserName=internet explorer, initialBrowserUrl=http://localhost:26972/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=false, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: da19c001-8d5c-4b76-87ae-87913967f796
+*** Element info: {Using=css selector, value=div[id*='WebDialogWindow1'][style*=visible]}
+Dec 22,2016 16:34:48 [info]  Test 'TC7_ExhibRights_Filter' FAILED
+Dec 22,2016 16:34:48 [info]  2
+Dec 22,2016 16:34:48 [info]  Test Case :TC7_ExhibRights_Filter's Screenshot of Failure Page: C:\Screenshots\Dec2016\\22\TC7_ExhibRights_Filter_12-22-2016 4-34-48 PM.jpg
+Dec 22,2016 16:34:49 [info]  Closed the Browser
+Dec 22,2016 16:35:13 [info]  ********************Started Executiong the Test Suite at 16:35:13******************
+Dec 22,2016 16:35:13 [info]  Client: AMCN
+Dec 22,2016 16:35:13 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Dec 22,2016 16:35:13 [info]  *********************Started Executing 'TC7_ExhibRights_Filter' Test Case*********************
+Dec 22,2016 16:35:22 [info]  Client: AMCN
+Dec 22,2016 16:35:22 [info]  URL: http://rlv2wb79/login.aspx
+Dec 22,2016 16:35:22 [info]  UserName: automation
+Dec 22,2016 16:35:22 [info]  Password: automation
+Dec 22,2016 16:35:23 [info]  Entered "automation" in field 'User Name'
+Dec 22,2016 16:35:23 [info]  Clicked on the 'Temporary Check Box'
+Dec 22,2016 16:35:24 [info]  Entered "automation" in field 'Password'
+Dec 22,2016 16:35:30 [info]  Clicked on the 'LoginButton'
+Dec 22,2016 16:35:58 [info]  Test 'TC7_ExhibRights_Filter' FAILED
+Dec 22,2016 16:35:58 [info]  2
+Dec 22,2016 16:35:59 [info]  Test Case :TC7_ExhibRights_Filter's Screenshot of Failure Page: C:\Screenshots\Dec2016\\22\TC7_ExhibRights_Filter_12-22-2016 4-35-58 PM.jpg
+Dec 22,2016 16:36:00 [info]  Closed the Browser
+Dec 22,2016 16:36:05 [info]  ********************Started Executiong the Test Suite at 16:36:05******************
+Dec 22,2016 16:36:05 [info]  Client: AMCN
+Dec 22,2016 16:36:05 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Dec 22,2016 16:36:05 [info]  *********************Started Executing 'TC7_ExhibRights_Filter' Test Case*********************
+Dec 22,2016 16:36:15 [info]  Client: AMCN
+Dec 22,2016 16:36:15 [info]  URL: http://rlv2wb79/login.aspx
+Dec 22,2016 16:36:15 [info]  UserName: automation
+Dec 22,2016 16:36:15 [info]  Password: automation
+Dec 22,2016 16:36:15 [info]  Entered "automation" in field 'User Name'
+Dec 22,2016 16:36:16 [info]  Clicked on the 'Temporary Check Box'
+Dec 22,2016 16:36:16 [info]  Entered "automation" in field 'Password'
+Dec 22,2016 16:36:22 [info]  Clicked on the 'LoginButton'
+Dec 22,2016 16:36:36 [info]  Clicked on the 'First Allocation Row'
+Dec 22,2016 16:36:37 [info]  Clicked on the 'First Allocation Row'
+Dec 22,2016 16:36:37 [info]  Double clicked on 'Copy Rows Button'
+Dec 22,2016 16:36:42 [info]  Entered "3" in field 'Number of Copies'
+Dec 22,2016 16:36:42 [info]  Clicked on the 'OK Button at Prompt Alert' using JS Executor
+Dec 22,2016 16:36:42 [info]  
+Dec 22,2016 16:36:42 [info]  Edit Mode: Verify the Data in PARENT Row 
+Dec 22,2016 16:36:44 [info]  Verify The data of Applies to
+Dec 22,2016 16:36:44 [info]  Verified that Expected value :[All] is matched with Actual value :[All]
+Dec 22,2016 16:36:44 [info]  Verify The data of Applies to
+Dec 22,2016 16:36:44 [info]  Verified that Expected value :[Automatic] is matched with Actual value :[Automatic]
+Dec 22,2016 16:36:45 [info]  "POOLED Check box" is Present
+Dec 22,2016 16:36:45 [info]  Verify The data of ExhiScope
+Dec 22,2016 16:36:45 [info]  Verified that Expected value :[Season] is matched with Actual value :[Season]
+Dec 22,2016 16:36:45 [info]  Verify The data of STARTDATE
+Dec 22,2016 16:36:45 [info]  Verified that Expected value :[01/01/2017] is matched with Actual value :[01/01/2017]
+Dec 22,2016 16:36:45 [info]  Verify The data of ENDDATE
+Dec 22,2016 16:36:45 [info]  Verified that Expected value :[12/31/2019] is matched with Actual value :[12/31/2019]
+Dec 22,2016 16:36:45 [info]  
+Dec 22,2016 16:36:45 [info]  Edit Mode: Verify the Data in CHILD Row 
+Dec 22,2016 16:36:46 [info]  Verify The data of Window Name
+Dec 22,2016 16:36:46 [info]  Verified that Expected value :[RSG Window] is matched with Actual value :[RSG Window]
+Dec 22,2016 16:36:46 [info]  Verify The data of Window Type
+Dec 22,2016 16:36:46 [info]  Verified that Expected value :[Primary] is matched with Actual value :[Primary]
+Dec 22,2016 16:36:47 [info]  Verify The data of Linear
+Dec 22,2016 16:36:47 [info]  Verified that Expected value :[Linear] is matched with Actual value :[Linear]
+Dec 22,2016 16:36:47 [info]  "POOLED Check box" is Present
+Dec 22,2016 16:36:47 [info]  Verify The data of Start Date
+Dec 22,2016 16:36:47 [info]  Verified that Expected value :[01/01/2017] is matched with Actual value :[01/01/2017]
+Dec 22,2016 16:36:47 [info]  Verify The data of Exhibition Network AMC Linear
+Dec 22,2016 16:36:47 [info]  Verified that Expected value :[AMC Linear] is matched with Actual value :[AMC Linear]
+Dec 22,2016 16:36:48 [info]  Verify The data of Plays
+Dec 22,2016 16:36:48 [info]  Verified that Expected value :[Unlimited] is matched with Actual value :[Unlimited]
+Dec 22,2016 16:36:48 [info]  
+Dec 22,2016 16:36:48 [info]  Edit Mode: Verify the Data in CHILD Row 
+Dec 22,2016 16:37:08 [info]  Verify The data of Window Name
+Dec 22,2016 16:37:08 [info]  ====Failed==== Expected value is:[RSG Window] but Actual value is[]. Please check the screenshot with name: Window Namefor more details
+Dec 22,2016 16:37:08 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\22\Window Name_CheckpointFailure_12-22-2016 4-37-08 PM.jpg
+Dec 22,2016 16:37:28 [info]  Verify The data of Window Type
+Dec 22,2016 16:37:28 [info]  ====Failed==== Expected value is:[Primary] but Actual value is[]. Please check the screenshot with name: Window Typefor more details
+Dec 22,2016 16:37:29 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\22\Window Type_CheckpointFailure_12-22-2016 4-37-28 PM.jpg
+Dec 22,2016 16:37:49 [info]  Verify The data of Linear
+Dec 22,2016 16:37:49 [info]  ====Failed==== Expected value is:[Linear] but Actual value is[]. Please check the screenshot with name: Linearfor more details
+Dec 22,2016 16:37:49 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\22\Linear_CheckpointFailure_12-22-2016 4-37-49 PM.jpg
+Dec 22,2016 16:38:09 [info]  ====Failed==== "POOLED Check box"  does not exist.
+Dec 22,2016 16:38:09 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\22\POOLED Check box_CheckpointFailure_12-22-2016 4-38-09 PM.jpg
+Dec 22,2016 16:39:09 [info]  ********************Started Executiong the Test Suite at 16:39:09******************
+Dec 22,2016 16:39:09 [info]  Client: AMCN
+Dec 22,2016 16:39:09 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Dec 22,2016 16:39:09 [info]  *********************Started Executing 'TC7_ExhibRights_Filter' Test Case*********************
+Dec 22,2016 16:39:18 [info]  Client: AMCN
+Dec 22,2016 16:39:18 [info]  URL: http://rlv2wb79/login.aspx
+Dec 22,2016 16:39:18 [info]  UserName: automation
+Dec 22,2016 16:39:18 [info]  Password: automation
+Dec 22,2016 16:39:19 [info]  Entered "automation" in field 'User Name'
+Dec 22,2016 16:39:20 [info]  Clicked on the 'Temporary Check Box'
+Dec 22,2016 16:39:20 [info]  Entered "automation" in field 'Password'
+Dec 22,2016 16:39:26 [info]  Clicked on the 'LoginButton'
+Dec 22,2016 16:39:37 [info]  Clicked on the 'First Allocation Row'
+Dec 22,2016 16:39:37 [info]  Clicked on the 'First Allocation Row'
+Dec 22,2016 16:39:38 [info]  Double clicked on 'Copy Rows Button'
+Dec 22,2016 16:39:42 [info]  Entered "3" in field 'Number of Copies'
+Dec 22,2016 16:39:42 [info]  Clicked on the 'OK Button at Prompt Alert' using JS Executor
+Dec 22,2016 16:39:43 [info]  
+Dec 22,2016 16:39:43 [info]  Edit Mode: Verify the Data in PARENT Row 
+Dec 22,2016 16:39:43 [info]  Test 'TC7_ExhibRights_Filter' FAILED
+Dec 22,2016 16:39:43 [info]  2
+Dec 22,2016 16:39:44 [info]  Test Case :TC7_ExhibRights_Filter's Screenshot of Failure Page: C:\Screenshots\Dec2016\\22\TC7_ExhibRights_Filter_12-22-2016 4-39-43 PM.jpg
+Dec 22,2016 16:39:45 [info]  Closed the Browser
+Dec 22,2016 16:40:16 [info]  ********************Started Executiong the Test Suite at 16:40:16******************
+Dec 22,2016 16:40:16 [info]  Client: AMCN
+Dec 22,2016 16:40:16 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Dec 22,2016 16:40:16 [info]  *********************Started Executing 'TC7_ExhibRights_Filter' Test Case*********************
+Dec 22,2016 16:40:25 [info]  Client: AMCN
+Dec 22,2016 16:40:25 [info]  URL: http://rlv2wb79/login.aspx
+Dec 22,2016 16:40:25 [info]  UserName: automation
+Dec 22,2016 16:40:25 [info]  Password: automation
+Dec 22,2016 16:40:25 [info]  Entered "automation" in field 'User Name'
+Dec 22,2016 16:40:26 [info]  Clicked on the 'Temporary Check Box'
+Dec 22,2016 16:40:26 [info]  Entered "automation" in field 'Password'
+Dec 22,2016 16:40:27 [info]  Clicked on the 'LoginButton'
+Dec 22,2016 16:40:44 [info]  Clicked on the 'First Allocation Row'
+Dec 22,2016 16:40:44 [info]  Clicked on the 'First Allocation Row'
+Dec 22,2016 16:40:45 [info]  Double clicked on 'Copy Rows Button'
+Dec 22,2016 16:40:49 [info]  Entered "3" in field 'Number of Copies'
+Dec 22,2016 16:40:49 [info]  Clicked on the 'OK Button at Prompt Alert' using JS Executor
+Dec 22,2016 16:40:55 [info]  
+Dec 22,2016 16:40:55 [info]  Edit Mode: Verify the Data in PARENT Row 
+Dec 22,2016 16:40:55 [info]  Verify The data of Applies to
+Dec 22,2016 16:40:55 [info]  Verified that Expected value :[All] is matched with Actual value :[All]
+Dec 22,2016 16:40:56 [info]  Verify The data of Applies to
+Dec 22,2016 16:40:56 [info]  Verified that Expected value :[Automatic] is matched with Actual value :[Automatic]
+Dec 22,2016 16:40:56 [info]  "POOLED Check box" is Present
+Dec 22,2016 16:40:56 [info]  Verify The data of ExhiScope
+Dec 22,2016 16:40:56 [info]  Verified that Expected value :[Season] is matched with Actual value :[Season]
+Dec 22,2016 16:40:56 [info]  Verify The data of STARTDATE
+Dec 22,2016 16:40:56 [info]  Verified that Expected value :[01/01/2017] is matched with Actual value :[01/01/2017]
+Dec 22,2016 16:40:57 [info]  Verify The data of ENDDATE
+Dec 22,2016 16:40:57 [info]  Verified that Expected value :[12/31/2019] is matched with Actual value :[12/31/2019]
+Dec 22,2016 16:40:57 [info]  
+Dec 22,2016 16:40:57 [info]  Edit Mode: Verify the Data in CHILD Row 
+Dec 22,2016 16:40:57 [info]  Verify The data of Window Name
+Dec 22,2016 16:40:57 [info]  Verified that Expected value :[RSG Window] is matched with Actual value :[RSG Window]
+Dec 22,2016 16:40:57 [info]  Verify The data of Window Type
+Dec 22,2016 16:40:57 [info]  Verified that Expected value :[Primary] is matched with Actual value :[Primary]
+Dec 22,2016 16:40:58 [info]  Verify The data of Linear
+Dec 22,2016 16:40:58 [info]  Verified that Expected value :[Linear] is matched with Actual value :[Linear]
+Dec 22,2016 16:40:58 [info]  "POOLED Check box" is Present
+Dec 22,2016 16:40:58 [info]  Verify The data of Start Date
+Dec 22,2016 16:40:58 [info]  Verified that Expected value :[01/01/2017] is matched with Actual value :[01/01/2017]
+Dec 22,2016 16:40:59 [info]  Verify The data of Exhibition Network AMC Linear
+Dec 22,2016 16:40:59 [info]  Verified that Expected value :[AMC Linear] is matched with Actual value :[AMC Linear]
+Dec 22,2016 16:40:59 [info]  Verify The data of Plays
+Dec 22,2016 16:40:59 [info]  Verified that Expected value :[Unlimited] is matched with Actual value :[Unlimited]
+Dec 22,2016 16:40:59 [info]  
+Dec 22,2016 16:40:59 [info]  Edit Mode: Verify the Data in CHILD Row 
+Dec 22,2016 16:41:10 [info]  Verify The data of Window Name
+Dec 22,2016 16:41:10 [info]  ====Failed==== Expected value is:[RSG Window] but Actual value is[]. Please check the screenshot with name: Window Namefor more details
+Dec 22,2016 16:41:10 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\22\Window Name_CheckpointFailure_12-22-2016 4-41-10 PM.jpg
+Dec 22,2016 16:41:20 [info]  Verify The data of Window Type
+Dec 22,2016 16:41:20 [info]  ====Failed==== Expected value is:[Primary] but Actual value is[]. Please check the screenshot with name: Window Typefor more details
+Dec 22,2016 16:41:20 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\22\Window Type_CheckpointFailure_12-22-2016 4-41-20 PM.jpg
+Dec 22,2016 16:41:31 [info]  Verify The data of Linear
+Dec 22,2016 16:41:31 [info]  ====Failed==== Expected value is:[Linear] but Actual value is[]. Please check the screenshot with name: Linearfor more details
+Dec 22,2016 16:41:31 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\22\Linear_CheckpointFailure_12-22-2016 4-41-31 PM.jpg
+Dec 22,2016 16:41:41 [info]  ====Failed==== "POOLED Check box"  does not exist.
+Dec 22,2016 16:41:41 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\22\POOLED Check box_CheckpointFailure_12-22-2016 4-41-41 PM.jpg
+Dec 22,2016 16:41:51 [info]  Verify The data of Start Date
+Dec 22,2016 16:41:51 [info]  ====Failed==== Expected value is:[01/01/2017] but Actual value is[]. Please check the screenshot with name: Start Datefor more details
+Dec 22,2016 16:41:51 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\22\Start Date_CheckpointFailure_12-22-2016 4-41-51 PM.jpg
+Dec 22,2016 16:42:02 [info]  Verify The data of Exhibition Network AMC Linear
+Dec 22,2016 16:42:02 [info]  ====Failed==== Expected value is:[AMC Linear] but Actual value is[]. Please check the screenshot with name: Exhibition Network AMC Linearfor more details
+Dec 22,2016 16:42:02 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\22\Exhibition Network AMC Linear_CheckpointFailure_12-22-2016 4-42-02 PM.jpg
+Dec 22,2016 16:42:12 [info]  Verify The data of Plays
+Dec 22,2016 16:42:12 [info]  ====Failed==== Expected value is:[Unlimited] but Actual value is[]. Please check the screenshot with name: Playsfor more details
+Dec 22,2016 16:42:12 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\22\Plays_CheckpointFailure_12-22-2016 4-42-12 PM.jpg
+Dec 22,2016 16:42:12 [info]  Test 'TC7_ExhibRights_Filter' PASSED
+Dec 22,2016 16:42:13 [info]  Closed the Browser
+Dec 22,2016 16:45:29 [info]  ********************Started Executiong the Test Suite at 16:45:29******************
+Dec 22,2016 16:45:29 [info]  Client: AMCN
+Dec 22,2016 16:45:29 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Dec 22,2016 16:45:29 [info]  *********************Started Executing 'TC7_ExhibRights_Filter' Test Case*********************
+Dec 22,2016 16:45:38 [info]  Client: AMCN
+Dec 22,2016 16:45:38 [info]  URL: http://rlv2wb79/login.aspx
+Dec 22,2016 16:45:38 [info]  UserName: automation
+Dec 22,2016 16:45:38 [info]  Password: automation
+Dec 22,2016 16:45:39 [info]  Entered "automation" in field 'User Name'
+Dec 22,2016 16:45:39 [info]  Clicked on the 'Temporary Check Box'
+Dec 22,2016 16:45:40 [info]  Entered "automation" in field 'Password'
+Dec 22,2016 16:45:46 [info]  Clicked on the 'LoginButton'
+Dec 22,2016 16:46:00 [info]  Clicked on the 'First Allocation Row'
+Dec 22,2016 16:46:01 [info]  Clicked on the 'First Allocation Row'
+Dec 22,2016 16:46:01 [info]  Double clicked on 'Copy Rows Button'
+Dec 22,2016 16:46:06 [info]  Entered "3" in field 'Number of Copies'
+Dec 22,2016 16:46:06 [info]  Clicked on the 'OK Button at Prompt Alert' using JS Executor
+Dec 22,2016 16:46:12 [info]  
+Dec 22,2016 16:46:12 [info]  Edit Mode: Verify the Data in PARENT Row 
+Dec 22,2016 16:46:12 [info]  Verify The data of Applies to
+Dec 22,2016 16:46:12 [info]  Verified that Expected value :[All] is matched with Actual value :[All]
+Dec 22,2016 16:46:12 [info]  Verify The data of Applies to
+Dec 22,2016 16:46:12 [info]  Verified that Expected value :[Automatic] is matched with Actual value :[Automatic]
+Dec 22,2016 16:46:12 [info]  "POOLED Check box" is Present
+Dec 22,2016 16:46:13 [info]  Verify The data of ExhiScope
+Dec 22,2016 16:46:13 [info]  Verified that Expected value :[Season] is matched with Actual value :[Season]
+Dec 22,2016 16:46:13 [info]  Verify The data of STARTDATE
+Dec 22,2016 16:46:13 [info]  Verified that Expected value :[01/01/2017] is matched with Actual value :[01/01/2017]
+Dec 22,2016 16:46:13 [info]  Verify The data of ENDDATE
+Dec 22,2016 16:46:13 [info]  Verified that Expected value :[12/31/2019] is matched with Actual value :[12/31/2019]
+Dec 22,2016 16:46:13 [info]  
+Dec 22,2016 16:46:13 [info]  Edit Mode: Verify the Data in CHILD Row 
+Dec 22,2016 16:46:14 [info]  Verify The data of Window Name
+Dec 22,2016 16:46:14 [info]  Verified that Expected value :[RSG Window] is matched with Actual value :[RSG Window]
+Dec 22,2016 16:46:14 [info]  Verify The data of Window Type
+Dec 22,2016 16:46:14 [info]  Verified that Expected value :[Primary] is matched with Actual value :[Primary]
+Dec 22,2016 16:46:14 [info]  Verify The data of Linear
+Dec 22,2016 16:46:14 [info]  Verified that Expected value :[Linear] is matched with Actual value :[Linear]
+Dec 22,2016 16:46:14 [info]  "POOLED Check box" is Present
+Dec 22,2016 16:46:15 [info]  Verify The data of Start Date
+Dec 22,2016 16:46:15 [info]  Verified that Expected value :[01/01/2017] is matched with Actual value :[01/01/2017]
+Dec 22,2016 16:46:15 [info]  Verify The data of Exhibition Network AMC Linear
+Dec 22,2016 16:46:15 [info]  Verified that Expected value :[AMC Linear] is matched with Actual value :[AMC Linear]
+Dec 22,2016 16:46:15 [info]  Verify The data of Plays
+Dec 22,2016 16:46:15 [info]  Verified that Expected value :[Unlimited] is matched with Actual value :[Unlimited]
+Dec 22,2016 16:46:15 [info]  
+Dec 22,2016 16:46:15 [info]  Edit Mode: Verify the Data in CHILD Row 
+Dec 22,2016 16:46:16 [info]  Verify The data of Window Name
+Dec 22,2016 16:46:16 [info]  Verified that Expected value :[RSG Window] is matched with Actual value :[RSG Window]
+Dec 22,2016 16:46:16 [info]  Verify The data of Window Type
+Dec 22,2016 16:46:16 [info]  Verified that Expected value :[Primary] is matched with Actual value :[Primary]
+Dec 22,2016 16:46:17 [info]  Verify The data of Linear
+Dec 22,2016 16:46:17 [info]  Verified that Expected value :[Linear] is matched with Actual value :[Linear]
+Dec 22,2016 16:46:17 [info]  "POOLED Check box" is Present
+Dec 22,2016 16:46:17 [info]  Verify The data of Start Date
+Dec 22,2016 16:46:17 [info]  Verified that Expected value :[01/01/2017] is matched with Actual value :[01/01/2017]
+Dec 22,2016 16:46:17 [info]  Verify The data of Exhibition Network AMC Linear
+Dec 22,2016 16:46:17 [info]  ====Failed==== Expected value is:[AMC Linear] but Actual value is[]. Please check the screenshot with name: Exhibition Network AMC Linearfor more details
+Dec 22,2016 16:46:18 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\22\Exhibition Network AMC Linear_CheckpointFailure_12-22-2016 4-46-17 PM.jpg
+Dec 22,2016 16:46:18 [info]  Verify The data of Plays
+Dec 22,2016 16:46:18 [info]  Verified that Expected value :[Unlimited] is matched with Actual value :[Unlimited]
+Dec 22,2016 16:46:18 [info]  Test 'TC7_ExhibRights_Filter' PASSED
+Dec 22,2016 16:46:19 [info]  Closed the Browser
+Dec 22,2016 17:18:39 [info]  ********************Started Executiong the Test Suite at 17:18:39******************
+Dec 22,2016 17:18:39 [info]  Client: AMCN
+Dec 22,2016 17:18:39 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Dec 22,2016 17:18:39 [info]  *********************Started Executing 'TC7_ExhibRights_Filter' Test Case*********************
+Dec 22,2016 17:18:48 [info]  Client: AMCN
+Dec 22,2016 17:18:48 [info]  URL: http://rlv2wb79/login.aspx
+Dec 22,2016 17:18:48 [info]  UserName: automation
+Dec 22,2016 17:18:48 [info]  Password: automation
+Dec 22,2016 17:18:49 [info]  Entered "automation" in field 'User Name'
+Dec 22,2016 17:18:50 [info]  Clicked on the 'Temporary Check Box'
+Dec 22,2016 17:18:50 [info]  Entered "automation" in field 'Password'
+Dec 22,2016 17:18:57 [info]  Clicked on the 'LoginButton'
+Dec 22,2016 17:19:23 [info]  Clicked on the 'First Parent Row'
+Dec 22,2016 17:19:24 [info]  Clicked on the 'First Parent Row'
+Dec 22,2016 17:19:25 [info]  Double clicked on 'Copy Rows Button'
+Dec 22,2016 17:19:32 [info]  Entered "3" in field 'Number of Copies'
+Dec 22,2016 17:19:32 [info]  Clicked on the 'OK Button at Prompt Alert' using JS Executor
+Dec 22,2016 17:19:45 [info]  
+Dec 22,2016 17:19:46 [info]  Manual Test Step: TC_6
+Dec 22,2016 17:20:36 [info]  Test 'TC7_ExhibRights_Filter' FAILED
+Dec 22,2016 17:20:36 [info]  2
+Dec 22,2016 17:20:36 [info]  Test Case :TC7_ExhibRights_Filter's Screenshot of Failure Page: C:\Screenshots\Dec2016\\22\TC7_ExhibRights_Filter_12-22-2016 5-20-36 PM.jpg
+Dec 22,2016 17:20:37 [info]  Closed the Browser
+Dec 22,2016 17:25:16 [info]  ********************Started Executiong the Test Suite at 17:25:16******************
+Dec 22,2016 17:25:16 [info]  Client: AMCN
+Dec 22,2016 17:25:16 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Dec 22,2016 17:25:16 [info]  *********************Started Executing 'TC7_ExhibRights_Filter' Test Case*********************
+Dec 22,2016 17:25:25 [info]  Client: AMCN
+Dec 22,2016 17:25:25 [info]  URL: http://rlv2wb79/login.aspx
+Dec 22,2016 17:25:25 [info]  UserName: automation
+Dec 22,2016 17:25:25 [info]  Password: automation
+Dec 22,2016 17:25:26 [info]  Entered "automation" in field 'User Name'
+Dec 22,2016 17:25:26 [info]  Clicked on the 'Temporary Check Box'
+Dec 22,2016 17:25:27 [info]  Entered "automation" in field 'Password'
+Dec 22,2016 17:25:33 [info]  Clicked on the 'LoginButton'
+Dec 22,2016 17:26:15 [info]  ********************Started Executiong the Test Suite at 17:26:15******************
+Dec 22,2016 17:26:15 [info]  Client: AMCN
+Dec 22,2016 17:26:15 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Dec 22,2016 17:26:15 [info]  *********************Started Executing 'TC7_ExhibRights_Filter' Test Case*********************
+Dec 22,2016 17:26:25 [info]  Client: AMCN
+Dec 22,2016 17:26:25 [info]  URL: http://rlv2wb79/login.aspx
+Dec 22,2016 17:26:25 [info]  UserName: automation
+Dec 22,2016 17:26:25 [info]  Password: automation
+Dec 22,2016 17:26:26 [info]  Entered "automation" in field 'User Name'
+Dec 22,2016 17:26:26 [info]  Clicked on the 'Temporary Check Box'
+Dec 22,2016 17:26:26 [info]  Entered "automation" in field 'Password'
+Dec 22,2016 17:26:33 [info]  Clicked on the 'LoginButton'
+Dec 22,2016 17:26:57 [info]  Clicked on the 'First Parent Row'
+Dec 22,2016 17:26:58 [info]  Clicked on the 'First Parent Row'
+Dec 22,2016 17:26:58 [info]  Double clicked on 'Copy Rows Button'
+Dec 22,2016 17:27:07 [info]  Entered "3" in field 'Number of Copies'
+Dec 22,2016 17:27:08 [info]  Clicked on the 'OK Button at Prompt Alert' using JS Executor
+Dec 22,2016 17:27:18 [info]  
+Dec 22,2016 17:27:23 [info]  
+Dec 22,2016 17:27:23 [info]  Manual Test Step: TC_6
+Dec 22,2016 17:27:25 [info]  Clicked on the 'Applies to Pop up Parent1'
+Dec 22,2016 17:27:25 [info]  Clicked on the 'Applies to Pop up Parent1'
+Dec 22,2016 17:27:40 [info]  ====Failed==== "AUT_AssetSeries_TC6_1222201613038" field is not present'
+Dec 22,2016 17:27:40 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\22\AUT_AssetSeries_TC6_1222201613038_CheckpointFailure_12-22-2016 5-27-40 PM.jpg
+Dec 22,2016 17:27:41 [info]  Clicked on the ''DeSelect All' RI_EditMode_APPLIESTO_Pick List'
+Dec 22,2016 17:27:51 [info]  "Checked Nodes of Assets " is disable or not Present
+Dec 22,2016 17:27:51 [info]  "Unchecked Nodes of Assets " is Present
+Dec 22,2016 17:27:52 [info]  Clicked on the 'RI_EditMode_AppliesToDropDown_AUT_AssetSeries_TC6_1222201613038'
+Dec 22,2016 17:27:52 [info]  "Applies To" is Present
+Dec 22,2016 17:27:53 [info]  Clicked on the 'Appply button'
+Dec 22,2016 17:29:43 [info]  Clicked on the 'Applies to Pop up Parent2'
+Dec 22,2016 17:29:44 [info]  Clicked on the 'Applies to Pop up Parent2'
+Dec 22,2016 17:29:45 [info]  Clicked on the ''DeSelect All' RI_EditMode_APPLIESTO_Pick List'
+Dec 22,2016 17:29:55 [info]  "Checked Nodes of Assets " is disable or not Present
+Dec 22,2016 17:29:55 [info]  "Unchecked Nodes of Assets " is Present
+Dec 22,2016 17:29:56 [info]  Clicked on the 'RI_EditMode_AppliesToDropDown_Ep.101: Episode101'
+Dec 22,2016 17:29:56 [info]  "Applies To" is Present
+Dec 22,2016 17:29:57 [info]  Clicked on the 'Appply button'
+Dec 22,2016 17:30:24 [info]  Clicked on the 'Applies to Pop up Parent3'
+Dec 22,2016 17:30:25 [info]  Clicked on the 'Applies to Pop up Parent3'
+Dec 22,2016 17:30:26 [info]  Clicked on the ''DeSelect All' RI_EditMode_APPLIESTO_Pick List'
+Dec 22,2016 17:30:36 [info]  "Checked Nodes of Assets " is disable or not Present
+Dec 22,2016 17:30:36 [info]  "Unchecked Nodes of Assets " is Present
+Dec 22,2016 17:30:37 [info]  Clicked on the 'RI_EditMode_AppliesToDropDown_Ep.102: Episode102'
+Dec 22,2016 17:30:37 [info]  "Applies To" is Present
+Dec 22,2016 17:30:38 [info]  Clicked on the 'Appply button'
+Dec 22,2016 17:43:34 [info]  ********************Started Executiong the Test Suite at 17:43:34******************
+Dec 22,2016 17:43:34 [info]  Client: AMCN
+Dec 22,2016 17:43:34 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Dec 22,2016 17:43:34 [info]  *********************Started Executing 'TC7_ExhibRights_Filter' Test Case*********************
+Dec 22,2016 17:43:43 [info]  Client: AMCN
+Dec 22,2016 17:43:43 [info]  URL: http://rlv2wb79/login.aspx
+Dec 22,2016 17:43:43 [info]  UserName: automation
+Dec 22,2016 17:43:43 [info]  Password: automation
+Dec 22,2016 17:43:44 [info]  Entered "automation" in field 'User Name'
+Dec 22,2016 17:43:45 [info]  Clicked on the 'Temporary Check Box'
+Dec 22,2016 17:43:45 [info]  Entered "automation" in field 'Password'
+Dec 22,2016 17:43:51 [info]  Clicked on the 'LoginButton'
+Dec 22,2016 17:44:24 [info]  Clicked on the 'First Parent Row'
+Dec 22,2016 17:44:24 [info]  Clicked on the 'First Parent Row'
+Dec 22,2016 17:44:25 [info]  Double clicked on 'Copy Rows Button'
+Dec 22,2016 17:44:29 [info]  Entered "3" in field 'Number of Copies'
+Dec 22,2016 17:44:29 [info]  Clicked on the 'OK Button at Prompt Alert' using JS Executor
+Dec 22,2016 17:45:07 [info]  
+Dec 22,2016 17:45:07 [info]  
+Dec 22,2016 17:45:07 [info]  Manual Test Step: TC_6
+Dec 22,2016 17:45:08 [info]  Clicked on the 'Applies to Pop up Parent1'
+Dec 22,2016 17:45:09 [info]  Clicked on the 'Applies to Pop up Parent1'
+Dec 22,2016 17:45:10 [info]  Clicked on the ''DeSelect All' RI_EditMode_APPLIESTO_Pick List'
+Dec 22,2016 17:45:21 [info]  "Checked Nodes of Assets " is disable or not Present
+Dec 22,2016 17:45:21 [info]  "Unchecked Nodes of Assets " is Present
+Dec 22,2016 17:45:21 [info]  Clicked on the 'RI_EditMode_AppliesToDropDown_AUT_AssetSeries_TC6_1222201613038'
+Dec 22,2016 17:45:21 [info]  "Applies To" is Present
+Dec 22,2016 17:45:22 [info]  Clicked on the 'Appply button'
+Dec 22,2016 17:45:27 [info]  Clicked on the 'Applies to Pop up Parent2'
+Dec 22,2016 17:45:27 [info]  Clicked on the 'Applies to Pop up Parent2'
+Dec 22,2016 17:45:29 [info]  Clicked on the ''DeSelect All' RI_EditMode_APPLIESTO_Pick List'
+Dec 22,2016 17:45:39 [info]  "Checked Nodes of Assets " is disable or not Present
+Dec 22,2016 17:45:39 [info]  "Unchecked Nodes of Assets " is Present
+Dec 22,2016 17:45:39 [info]  Clicked on the 'RI_EditMode_AppliesToDropDown_Ep.101: Episode101'
+Dec 22,2016 17:45:39 [info]  "Applies To" is Present
+Dec 22,2016 17:45:40 [info]  Clicked on the 'Appply button'
+Dec 22,2016 17:45:55 [info]  Clicked on the 'Applies to Pop up Parent3'
+Dec 22,2016 17:45:55 [info]  Clicked on the 'Applies to Pop up Parent3'
+Dec 22,2016 17:45:57 [info]  Clicked on the ''DeSelect All' RI_EditMode_APPLIESTO_Pick List'
+Dec 22,2016 17:46:07 [info]  "Checked Nodes of Assets " is disable or not Present
+Dec 22,2016 17:46:07 [info]  "Unchecked Nodes of Assets " is Present
+Dec 22,2016 17:46:07 [info]  Clicked on the 'RI_EditMode_AppliesToDropDown_Ep.102: Episode102'
+Dec 22,2016 17:46:07 [info]  "Applies To" is Present
+Dec 22,2016 17:46:08 [info]  Clicked on the 'Appply button'
+Dec 22,2016 17:46:12 [info]  Clicked on the ''Save' Button at Media Rights Edit window' using JS Executor
+Dec 22,2016 17:46:21 [info]  Verified that Expected value :[Changes Saved Successfully.] is matched with Actual value :[Changes Saved Successfully. The Filter has been updated to reflect your changes.]
+Dec 22,2016 17:46:26 [info]  Verified that Expected value :[All,Ep.101: Episode101,Ep.102: Episode102] is matched with Actual value :[All,Ep.101: Episode101,Ep.102: Episode102]
+Dec 22,2016 17:46:38 [info]  Test 'TC7_ExhibRights_Filter' PASSED
+Dec 22,2016 17:46:39 [info]  Closed the Browser
+Dec 22,2016 18:19:58 [info]  ********************Started Executiong the Test Suite at 18:19:58******************
+Dec 22,2016 18:19:58 [info]  Client: AMCN
+Dec 22,2016 18:19:58 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Dec 22,2016 18:19:58 [info]  *********************Started Executing 'TC7_ExhibRights_Filter' Test Case*********************
+Dec 22,2016 18:20:07 [info]  Client: AMCN
+Dec 22,2016 18:20:07 [info]  URL: http://rlv2wb79/login.aspx
+Dec 22,2016 18:20:07 [info]  UserName: automation
+Dec 22,2016 18:20:07 [info]  Password: automation
+Dec 22,2016 18:20:08 [info]  Entered "automation" in field 'User Name'
+Dec 22,2016 18:20:09 [info]  Clicked on the 'Temporary Check Box'
+Dec 22,2016 18:20:09 [info]  Entered "automation" in field 'Password'
+Dec 22,2016 18:20:10 [info]  Clicked on the 'LoginButton'
+Dec 22,2016 18:20:17 [info]  Double clicked on 'AUT_Deal_TC6_1222201613038Deal'
+Dec 22,2016 18:20:27 [info]  Clicked on the 'Exhibition Rights TAB'
+Dec 22,2016 18:20:27 [info]  Clicked on the ''Edit' Button at Media Rights TAB' using JS Executor
+Dec 22,2016 18:20:39 [info]  Clicked on the 'Clear Filter'
+Dec 22,2016 18:20:43 [info]  Verified that Expected value :[(Select All)] is matched with Actual value :[(Select All)]
+Dec 22,2016 18:20:44 [info]  Verified that Expected value :[(Select One)] is matched with Actual value :[(Select One)]
+Dec 22,2016 18:20:45 [info]  Clicked on the 'MultiSelect Alphabet Filter Icon'
+Dec 22,2016 18:20:45 [info]  Clicked on the 'RI_EditMode_AppliesToDropDown_Episode101 Check Box'
+Dec 22,2016 18:20:49 [info]  Clicked on the 'Appply button'
+Dec 22,2016 18:20:53 [info]  Verify The data of Applies to
+Dec 22,2016 18:20:54 [info]  Verified that Expected value :[All] is matched with Actual value :[All]
+Dec 22,2016 18:21:04 [info]  "Third Parent Row" is disable or not Present
+Dec 22,2016 18:21:05 [info]  Clicked on the 'MultiSelect Asset Filter Icon'
+Dec 22,2016 18:21:06 [info]  Clicked on the 'RI_EditMode_AppliesToDropDown_All'
+Dec 22,2016 18:21:10 [info]  Clicked on the 'Appply button'
+Dec 22,2016 18:21:13 [info]  Verify The data of Alert Message on clicking Delete Button
+Dec 22,2016 18:21:13 [info]  ====Failed==== Expected value is:[This action will clear your existing filter.  Please OK to continue, or Cancel to stay on the current page.] but Actual value is[This action will clear your existing filter. Please OK to continue, or Cancel to stay on the current page.]. Please check the screenshot with name: Alert Message on clicking Delete Buttonfor more details
+Dec 22,2016 18:21:14 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\22\Alert Message on clicking Delete Button_CheckpointFailure_12-22-2016 6-21-13 PM.jpg
+Dec 22,2016 18:21:14 [info]  Clicked on the 'Cancel Button At Confirm Pop-Up' using JS Executor
+Dec 22,2016 18:21:16 [info]  Clicked on the 'MultiSelect Asset Filter Icon'
+Dec 22,2016 18:21:16 [info]  Clicked on the 'RI_EditMode_AppliesToDropDown_All'
+Dec 22,2016 18:21:18 [info]  Clicked on the 'Appply button'
+Dec 22,2016 18:21:21 [info]  Verify The data of Alert Message on clicking Delete Button
+Dec 22,2016 18:21:21 [info]  ====Failed==== Expected value is:[This action will clear your existing filter.  Please OK to continue, or Cancel to stay on the current page.] but Actual value is[]. Please check the screenshot with name: Alert Message on clicking Delete Buttonfor more details
+Dec 22,2016 18:21:22 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\22\Alert Message on clicking Delete Button_CheckpointFailure_12-22-2016 6-21-21 PM.jpg
+Dec 22,2016 18:21:22 [info]  Clicked on the 'OK Button At Confirm Pop-Up' using JS Executor
+Dec 22,2016 18:21:26 [info]  Verified that Expected value :[All] is matched with Actual value :[All]
+Dec 22,2016 18:21:26 [info]  ====Failed==== Expected value is:[(Select One)] but Actual value is[A]. Please check the screenshot with name: (Select One)for more details
+Dec 22,2016 18:21:26 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\22\Default value of Alphabate Filter _CheckpointFailure_12-22-2016 6-21-26 PM.jpg
+Dec 22,2016 18:21:26 [info]  Test 'TC7_ExhibRights_Filter' PASSED
+Dec 22,2016 18:21:27 [info]  Closed the Browser
+Dec 22,2016 18:23:22 [info]  ********************Started Executiong the Test Suite at 18:23:22******************
+Dec 22,2016 18:23:22 [info]  Client: AMCN
+Dec 22,2016 18:23:22 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Dec 22,2016 18:23:22 [info]  *********************Started Executing 'TC7_ExhibRights_Filter' Test Case*********************
+Dec 22,2016 18:23:31 [info]  Client: AMCN
+Dec 22,2016 18:23:31 [info]  URL: http://rlv2wb79/login.aspx
+Dec 22,2016 18:23:31 [info]  UserName: automation
+Dec 22,2016 18:23:31 [info]  Password: automation
+Dec 22,2016 18:23:32 [info]  Entered "automation" in field 'User Name'
+Dec 22,2016 18:23:33 [info]  Clicked on the 'Temporary Check Box'
+Dec 22,2016 18:23:34 [info]  Entered "automation" in field 'Password'
+Dec 22,2016 18:23:41 [info]  Clicked on the 'LoginButton'
+Dec 22,2016 18:23:48 [info]  Double clicked on 'AUT_Deal_TC6_1222201613038Deal'
+Dec 22,2016 18:23:57 [info]  Clicked on the 'Exhibition Rights TAB'
+Dec 22,2016 18:23:58 [info]  Clicked on the ''Edit' Button at Media Rights TAB' using JS Executor
+Dec 22,2016 18:24:09 [info]  Clicked on the 'Clear Filter'
+Dec 22,2016 18:24:13 [info]  Verified that Expected value :[(Select All)] is matched with Actual value :[(Select All)]
+Dec 22,2016 18:24:14 [info]  Verified that Expected value :[(Select One)] is matched with Actual value :[(Select One)]
+Dec 22,2016 18:24:14 [info]  Clicked on the 'MultiSelect Alphabet Filter Icon'
+Dec 22,2016 18:24:15 [info]  Clicked on the 'RI_EditMode_AppliesToDropDown_Episode101 Check Box'
+Dec 22,2016 18:24:19 [info]  Clicked on the 'Appply button'
+Dec 22,2016 18:24:23 [info]  Verify The data of Applies to
+Dec 22,2016 18:24:23 [info]  Verified that Expected value :[All] is matched with Actual value :[All]
+Dec 22,2016 18:24:33 [info]  "Third Parent Row" is disable or not Present
+Dec 22,2016 18:24:35 [info]  Clicked on the 'MultiSelect Asset Filter Icon'
+Dec 22,2016 18:24:35 [info]  Clicked on the 'RI_EditMode_AppliesToDropDown_All'
+Dec 22,2016 18:24:39 [info]  Clicked on the 'Appply button'
+Dec 22,2016 18:24:43 [info]  Verify The data of Alert Message on clicking Delete Button
+Dec 22,2016 18:24:43 [info]  Verified that Expected value :[This action will clear your existing filter. Please OK to continue, or Cancel to stay on the current page.] is matched with Actual value :[This action will clear your existing filter. Please OK to continue, or Cancel to stay on the current page.]
+Dec 22,2016 18:24:43 [info]  Clicked on the 'Cancel Button At Confirm Pop-Up' using JS Executor
+Dec 22,2016 18:24:44 [info]  Clicked on the 'MultiSelect Asset Filter Icon'
+Dec 22,2016 18:24:49 [info]  Clicked on the 'RI_EditMode_AppliesToDropDown_All'
+Dec 22,2016 18:24:50 [info]  Clicked on the 'Appply button'
+Dec 22,2016 18:24:53 [info]  Verify The data of Alert Message on clicking Delete Button
+Dec 22,2016 18:24:53 [info]  ====Failed==== Expected value is:[This action will clear your existing filter. Please OK to continue, or Cancel to stay on the current page.] but Actual value is[]. Please check the screenshot with name: Alert Message on clicking Delete Buttonfor more details
+Dec 22,2016 18:24:54 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\22\Alert Message on clicking Delete Button_CheckpointFailure_12-22-2016 6-24-53 PM.jpg
+Dec 22,2016 18:24:54 [info]  Clicked on the 'OK Button At Confirm Pop-Up' using JS Executor
+Dec 22,2016 18:24:58 [info]  Verified that Expected value :[All] is matched with Actual value :[All]
+Dec 22,2016 18:24:58 [info]  ====Failed==== Expected value is:[(Select One)] but Actual value is[A]. Please check the screenshot with name: (Select One)for more details
+Dec 22,2016 18:24:58 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\22\Default value of Alphabate Filter _CheckpointFailure_12-22-2016 6-24-58 PM.jpg
+Dec 22,2016 18:24:58 [info]  Test 'TC7_ExhibRights_Filter' PASSED
+Dec 22,2016 18:24:59 [info]  Closed the Browser
+Dec 22,2016 18:29:27 [info]  ********************Started Executiong the Test Suite at 18:29:27******************
+Dec 22,2016 18:29:27 [info]  Client: AMCN
+Dec 22,2016 18:29:27 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Dec 22,2016 18:29:27 [info]  *********************Started Executing 'TC7_ExhibRights_Filter' Test Case*********************
+Dec 22,2016 18:29:37 [info]  Client: AMCN
+Dec 22,2016 18:29:37 [info]  URL: http://rlv2wb79/login.aspx
+Dec 22,2016 18:29:37 [info]  UserName: automation
+Dec 22,2016 18:29:37 [info]  Password: automation
+Dec 22,2016 18:29:37 [info]  Entered "automation" in field 'User Name'
+Dec 22,2016 18:29:38 [info]  Clicked on the 'Temporary Check Box'
+Dec 22,2016 18:29:38 [info]  Entered "automation" in field 'Password'
+Dec 22,2016 18:29:45 [info]  Clicked on the 'LoginButton'
+Dec 22,2016 18:29:51 [info]  Double clicked on 'AUT_Deal_TC6_1222201613038Deal'
+Dec 22,2016 18:30:02 [info]  Clicked on the 'Exhibition Rights TAB'
+Dec 22,2016 18:30:02 [info]  Clicked on the ''Edit' Button at Media Rights TAB' using JS Executor
+Dec 22,2016 18:30:09 [info]  Test 'TC7_ExhibRights_Filter' FAILED
+Dec 22,2016 18:30:09 [info]  2
+Dec 22,2016 18:30:09 [info]  Test Case :TC7_ExhibRights_Filter's Screenshot of Failure Page: C:\Screenshots\Dec2016\\22\TC7_ExhibRights_Filter_12-22-2016 6-30-09 PM.jpg
+Dec 22,2016 18:30:10 [info]  Closed the Browser
+Dec 22,2016 18:30:30 [info]  ********************Started Executiong the Test Suite at 18:30:30******************
+Dec 22,2016 18:30:30 [info]  Client: AMCN
+Dec 22,2016 18:30:30 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Dec 22,2016 18:30:30 [info]  *********************Started Executing 'TC7_ExhibRights_Filter' Test Case*********************
+Dec 22,2016 18:30:39 [info]  Client: AMCN
+Dec 22,2016 18:30:39 [info]  URL: http://rlv2wb79/login.aspx
+Dec 22,2016 18:30:39 [info]  UserName: automation
+Dec 22,2016 18:30:39 [info]  Password: automation
+Dec 22,2016 18:30:40 [info]  Entered "automation" in field 'User Name'
+Dec 22,2016 18:30:40 [info]  Clicked on the 'Temporary Check Box'
+Dec 22,2016 18:30:41 [info]  Entered "automation" in field 'Password'
+Dec 22,2016 18:30:47 [info]  Clicked on the 'LoginButton'
+Dec 22,2016 18:30:53 [info]  Double clicked on 'AUT_Deal_TC6_1222201613038Deal'
+Dec 22,2016 18:31:03 [info]  Clicked on the 'Exhibition Rights TAB'
+Dec 22,2016 18:31:04 [info]  Clicked on the ''Edit' Button at Media Rights TAB' using JS Executor
+Dec 22,2016 18:31:16 [info]  Clicked on the 'Clear Filter'
+Dec 22,2016 18:31:20 [info]  Verified that Expected value :[(Select All)] is matched with Actual value :[(Select All)]
+Dec 22,2016 18:31:20 [info]  Verified that Expected value :[(Select One)] is matched with Actual value :[(Select One)]
+Dec 22,2016 18:31:21 [info]  Clicked on the 'MultiSelect Alphabet Filter Icon'
+Dec 22,2016 18:31:23 [info]  Clicked on the ''DeSelect All' RI_EditMode_APPLIESTO_Pick List'
+Dec 22,2016 18:31:23 [info]  Clicked on the 'RI_EditMode_AppliesToDropDown_Episode101 Check Box'
+Dec 22,2016 18:31:27 [info]  Clicked on the 'Appply button'
+Dec 22,2016 18:31:31 [info]  Verify The data of Applies to
+Dec 22,2016 18:31:31 [info]  Verified that Expected value :[All] is matched with Actual value :[All]
+Dec 22,2016 18:31:42 [info]  "Third Parent Row" is disable or not Present
+Dec 22,2016 18:31:43 [info]  Clicked on the 'MultiSelect Asset Filter Icon'
+Dec 22,2016 18:31:45 [info]  Clicked on the ''DeSelect All' RI_EditMode_APPLIESTO_Pick List'
+Dec 22,2016 18:31:45 [info]  Clicked on the 'RI_EditMode_AppliesToDropDown_All'
+Dec 22,2016 18:31:49 [info]  Clicked on the 'Appply button'
+Dec 22,2016 18:31:53 [info]  Verify The data of Alert Message on clicking Delete Button
+Dec 22,2016 18:31:53 [info]  Verified that Expected value :[This action will clear your existing filter. Please OK to continue, or Cancel to stay on the current page.] is matched with Actual value :[This action will clear your existing filter. Please OK to continue, or Cancel to stay on the current page.]
+Dec 22,2016 18:31:53 [info]  Clicked on the 'Cancel Button At Confirm Pop-Up' using JS Executor
+Dec 22,2016 18:31:54 [info]  Clicked on the 'MultiSelect Asset Filter Icon'
+Dec 22,2016 18:34:06 [info]  ********************Started Executiong the Test Suite at 18:34:06******************
+Dec 22,2016 18:34:06 [info]  Client: AMCN
+Dec 22,2016 18:34:06 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Dec 22,2016 18:34:06 [info]  *********************Started Executing 'TC7_ExhibRights_Filter' Test Case*********************
+Dec 22,2016 18:34:16 [info]  Client: AMCN
+Dec 22,2016 18:34:16 [info]  URL: http://rlv2wb79/login.aspx
+Dec 22,2016 18:34:16 [info]  UserName: automation
+Dec 22,2016 18:34:16 [info]  Password: automation
+Dec 22,2016 18:34:17 [info]  Entered "automation" in field 'User Name'
+Dec 22,2016 18:34:17 [info]  Clicked on the 'Temporary Check Box'
+Dec 22,2016 18:34:18 [info]  Entered "automation" in field 'Password'
+Dec 22,2016 18:34:24 [info]  Clicked on the 'LoginButton'
+Dec 22,2016 18:34:31 [info]  Double clicked on 'AUT_Deal_TC6_1222201613038Deal'
+Dec 22,2016 18:34:41 [info]  Clicked on the 'Exhibition Rights TAB'
+Dec 22,2016 18:34:41 [info]  Clicked on the ''Edit' Button at Media Rights TAB' using JS Executor
+Dec 22,2016 18:35:09 [info]  Clicked on the 'Clear Filter'
+Dec 22,2016 18:35:14 [info]  ====Failed==== Expected value is:[(Select All)] but Actual value is[All]. Please check the screenshot with name: (Select All)for more details
+Dec 22,2016 18:35:14 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\22\Default value of Asset Filter _CheckpointFailure_12-22-2016 6-35-14 PM.jpg
+Dec 22,2016 18:35:15 [info]  Verified that Expected value :[(Select One)] is matched with Actual value :[(Select One)]
+Dec 22,2016 18:35:16 [info]  Clicked on the 'MultiSelect Alphabet Filter Icon'
+Dec 22,2016 18:35:17 [info]  Clicked on the ''DeSelect All' RI_EditMode_APPLIESTO_Pick List'
+Dec 22,2016 18:35:17 [info]  Clicked on the ''A' RI_EditMode_AppliesToDropDown Check Box'
+Dec 22,2016 18:35:18 [info]  Clicked on the 'Appply button'
+Dec 22,2016 18:35:22 [info]  Verify The data of Applies to
+Dec 22,2016 18:35:22 [info]  Verified that Expected value :[All] is matched with Actual value :[All]
+Dec 22,2016 18:35:33 [info]  "Third Parent Row" is disable or not Present
+Dec 22,2016 18:36:47 [info]  Clicked on the 'MultiSelect Asset Filter Icon'
+Dec 22,2016 18:37:13 [info]  Clicked on the 'Clear Filter'
+Dec 22,2016 18:37:17 [info]  ====Failed==== Expected value is:[(Select All)] but Actual value is[no element on the web Page]. Please check the screenshot with name: (Select All)for more details
+Dec 22,2016 18:37:20 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\22\Default value of Asset Filter _CheckpointFailure_12-22-2016 6-37-17 PM.jpg
+Dec 22,2016 18:37:20 [info]  Verified that Expected value :[(Select One)] is matched with Actual value :[(Select One)]
+Dec 22,2016 18:37:21 [info]  Clicked on the 'MultiSelect Alphabet Filter Icon'
+Dec 22,2016 18:37:21 [info]  Clicked on the 'MultiSelect Alphabet Filter Icon'
+Dec 22,2016 18:37:29 [info]  Clicked on the ''DeSelect All' RI_EditMode_APPLIESTO_Pick List'
+Dec 22,2016 18:37:30 [info]  Clicked on the ''A' RI_EditMode_AppliesToDropDown Check Box'
+Dec 22,2016 18:37:35 [info]  Clicked on the 'Appply button'
+Dec 22,2016 18:37:41 [info]  Verify The data of Applies to
+Dec 22,2016 18:37:41 [info]  Verified that Expected value :[All] is matched with Actual value :[All]
+Dec 22,2016 18:37:52 [info]  "Third Parent Row" is disable or not Present
+Dec 22,2016 18:37:59 [info]  Clicked on the 'MultiSelect Asset Filter Icon'
+Dec 22,2016 18:38:00 [info]  Clicked on the 'MultiSelect Asset Filter Icon'
+Dec 22,2016 18:38:02 [info]  Clicked on the ''DeSelect All' RI_EditMode_APPLIESTO_Pick List'
+Dec 22,2016 18:38:04 [info]  Clicked on the 'RI_EditMode_AppliesToDropDown_All'
+Dec 22,2016 18:38:09 [info]  Clicked on the 'Appply button'
+Dec 22,2016 18:39:04 [info]  Verify The data of Alert Message on clicking Delete Button
+Dec 22,2016 18:39:04 [info]  Verified that Expected value :[This action will clear your existing filter. Please OK to continue, or Cancel to stay on the current page.] is matched with Actual value :[This action will clear your existing filter. Please OK to continue, or Cancel to stay on the current page.]
+Dec 22,2016 18:39:05 [info]  Clicked on the 'Cancel Button At Confirm Pop-Up' using JS Executor
+Dec 22,2016 18:39:08 [info]  Clicked on the 'MultiSelect Asset Filter Icon'
+Dec 22,2016 18:39:14 [info]  Clicked on the ''DeSelect All' RI_EditMode_APPLIESTO_Pick List'
+Dec 22,2016 18:39:15 [info]  Clicked on the 'RI_EditMode_AppliesToDropDown_All'
+Dec 22,2016 18:39:21 [info]  Clicked on the 'Appply button'
+Dec 22,2016 18:39:29 [info]  Verify The data of Alert Message on clicking Delete Button
+Dec 22,2016 18:39:29 [info]  Verified that Expected value :[This action will clear your existing filter. Please OK to continue, or Cancel to stay on the current page.] is matched with Actual value :[This action will clear your existing filter. Please OK to continue, or Cancel to stay on the current page.]
+Dec 22,2016 18:39:31 [info]  Clicked on the 'OK Button At Confirm Pop-Up' using JS Executor
+Dec 22,2016 18:39:39 [info]  Verified that Expected value :[All] is matched with Actual value :[All]
+Dec 22,2016 18:39:41 [info]  ====Failed==== Expected value is:[(Select One)] but Actual value is[A]. Please check the screenshot with name: (Select One)for more details
+Dec 22,2016 18:39:42 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\22\Default value of Alphabate Filter _CheckpointFailure_12-22-2016 6-39-41 PM.jpg
+Dec 22,2016 18:52:21 [info]  Clicked on the 'Clear Filter'
+Dec 22,2016 18:52:26 [info]  ====Failed==== Expected value is:[(Select All)] but Actual value is[no element on the web Page]. Please check the screenshot with name: (Select All)for more details
+Dec 22,2016 18:52:28 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\22\Default value of Asset Filter _CheckpointFailure_12-22-2016 6-52-26 PM.jpg
+Dec 22,2016 18:52:28 [info]  Verified that Expected value :[(Select One)] is matched with Actual value :[(Select One)]
+Dec 22,2016 18:52:29 [info]  Clicked on the 'MultiSelect Alphabet Filter Icon'
+Dec 22,2016 18:52:30 [info]  Clicked on the 'MultiSelect Alphabet Filter Icon'
+Dec 22,2016 18:52:31 [info]  Clicked on the ''DeSelect All' RI_EditMode_APPLIESTO_Pick List'
+Dec 22,2016 18:52:32 [info]  Clicked on the ''A' RI_EditMode_AppliesToDropDown Check Box'
+Dec 22,2016 18:52:35 [info]  Clicked on the 'Appply button'
+Dec 22,2016 18:52:40 [info]  Verify The data of Applies to
+Dec 22,2016 18:52:40 [info]  Verified that Expected value :[All] is matched with Actual value :[All]
+Dec 22,2016 18:52:50 [info]  "Third Parent Row" is disable or not Present
+Dec 22,2016 18:52:57 [info]  Selected "All" in "Asset Filter" drop down
+Dec 22,2016 18:53:03 [info]  Verify The data of Alert Message on changing Filter
+Dec 22,2016 18:53:03 [info]  Verified that Expected value :[This action will clear your existing filter. Please OK to continue, or Cancel to stay on the current page.] is matched with Actual value :[This action will clear your existing filter. Please OK to continue, or Cancel to stay on the current page.]
+Dec 22,2016 18:53:04 [info]  Clicked on the 'Cancel Button At Confirm Pop-Up' using JS Executor
+Dec 22,2016 18:53:10 [info]  Selected "All" in "Asset Filter" drop down
+Dec 22,2016 18:53:13 [info]  Verify The data of Alert Message on clicking Delete Button
+Dec 22,2016 18:53:13 [info]  Verified that Expected value :[This action will clear your existing filter. Please OK to continue, or Cancel to stay on the current page.] is matched with Actual value :[This action will clear your existing filter. Please OK to continue, or Cancel to stay on the current page.]
+Dec 22,2016 18:53:14 [info]  Clicked on the 'OK Button At Confirm Pop-Up' using JS Executor
+Dec 22,2016 18:53:21 [info]  Verified that Expected value :[All] is matched with Actual value :[All]
+Dec 22,2016 18:53:25 [info]  Verified that Expected value :[(Select One)] is matched with Actual value :[(Select One)]
+Dec 22,2016 18:53:25 [info]  Test 'TC7_ExhibRights_Filter' PASSED
+Dec 22,2016 18:53:26 [info]  Closed the Browser

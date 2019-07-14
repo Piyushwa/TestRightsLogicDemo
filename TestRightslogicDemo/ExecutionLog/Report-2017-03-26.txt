@@ -1,0 +1,759 @@
+Mar 26,2017 21:11:27 [Info]  ********************Started Executiong the Test Suite at 21:11:27******************
+Mar 26,2017 21:11:27 [Info]  Client: AMCN
+Mar 26,2017 21:11:27 [Info]  *********************Started Executing the Test Area(Modules/TAB): 'General TAB'*********************
+Mar 26,2017 21:11:27 [Info]  *********************Started Executing 'TC1_AssetCreationTest' Test Case*********************
+Mar 26,2017 21:11:39 [Info]  Client: AMCN
+Mar 26,2017 21:11:39 [Info]  URL: http://rlv2wb79/login.aspx
+Mar 26,2017 21:11:39 [Info]  UserName: admin
+Mar 26,2017 21:11:39 [Info]  Password: admin
+Mar 26,2017 21:11:40 [Info]  Entered "admin" in field 'User Name'
+Mar 26,2017 21:11:41 [Info]  Clicked on the 'Temporary Check Box'
+Mar 26,2017 21:11:41 [Info]  Entered "admin" in field 'Password'
+Mar 26,2017 21:11:52 [Info]  Clicked on the 'LoginButton'
+Mar 26,2017 21:12:11 [Info]  Clicked on the 'MODULE'
+Mar 26,2017 21:12:24 [Info]  Clicked on the 'Asset Maintenance'
+Mar 26,2017 21:12:37 [Info]  Clicked on the 'New Button' using JS Executor
+Mar 26,2017 21:12:37 [Info]  Clicked on the 'Element' using JS Executor
+Mar 26,2017 21:12:48 [Info]  Clicked on the 'General TAB'
+Mar 26,2017 21:12:50 [Info]  Drop Down values of 'Element' Asset Type Drop Down are: 
+Mar 26,2017 21:12:50 [Info]  Actual Drop Down Values are: 
+[Element - Talent, Element - Footage (Production), Element - Footage (Stock), Element - Still Photo (Production), Element - Still Photo (Stock), Element - Audio/Sound, Element - Text, Element - Graphic, Element - Animation, Element - Product Placement, Element - Poster, Element - Likeness, Element - Image, Element - Music]
+Mar 26,2017 21:12:50 [Info]  Expected Drop Down Values are: 
+[Element - Talent, Element - Footage (Production), Element - Footage (Stock), Element - Still Photo (Production), Element - Still Photo (Stock), Element - Audio/Sound, Element - Text, Element - Graphic, Element - Animation, Element - Product Placement, Element - Poster, Element - Likeness, Element - Image, Element - Music]
+Mar 26,2017 21:12:50 [Info]  Total Number of Dropdown Valus in 'Element' Asset Type Drop Down:14
+<span style="color:green;">Mar 26,2017 21:12:50 [Verification]  Verified that [Element - Talent] is present in the dropdown 'Element' Asset Type Drop Down</span>
+<span style="color:green;">Mar 26,2017 21:12:50 [Verification]  Verified that [Element - Footage (Production)] is present in the dropdown 'Element' Asset Type Drop Down</span>
+<span style="color:green;">Mar 26,2017 21:12:50 [Verification]  Verified that [Element - Footage (Stock)] is present in the dropdown 'Element' Asset Type Drop Down</span>
+<span style="color:green;">Mar 26,2017 21:12:50 [Verification]  Verified that [Element - Still Photo (Production)] is present in the dropdown 'Element' Asset Type Drop Down</span>
+<span style="color:green;">Mar 26,2017 21:12:50 [Verification]  Verified that [Element - Still Photo (Stock)] is present in the dropdown 'Element' Asset Type Drop Down</span>
+<span style="color:green;">Mar 26,2017 21:12:50 [Verification]  Verified that [Element - Audio/Sound] is present in the dropdown 'Element' Asset Type Drop Down</span>
+<span style="color:green;">Mar 26,2017 21:12:50 [Verification]  Verified that [Element - Text] is present in the dropdown 'Element' Asset Type Drop Down</span>
+<span style="color:green;">Mar 26,2017 21:12:50 [Verification]  Verified that [Element - Graphic] is present in the dropdown 'Element' Asset Type Drop Down</span>
+<span style="color:green;">Mar 26,2017 21:12:50 [Verification]  Verified that [Element - Animation] is present in the dropdown 'Element' Asset Type Drop Down</span>
+<span style="color:green;">Mar 26,2017 21:12:50 [Verification]  Verified that [Element - Product Placement] is present in the dropdown 'Element' Asset Type Drop Down</span>
+<span style="color:green;">Mar 26,2017 21:12:50 [Verification]  Verified that [Element - Poster] is present in the dropdown 'Element' Asset Type Drop Down</span>
+<span style="color:green;">Mar 26,2017 21:12:50 [Verification]  Verified that [Element - Likeness] is present in the dropdown 'Element' Asset Type Drop Down</span>
+<span style="color:green;">Mar 26,2017 21:12:50 [Verification]  Verified that [Element - Image] is present in the dropdown 'Element' Asset Type Drop Down</span>
+<span style="color:green;">Mar 26,2017 21:12:50 [Verification]  Verified that [Element - Music] is present in the dropdown 'Element' Asset Type Drop Down</span>
+Mar 26,2017 21:12:50 [Info]  Clicked on the 'New Button' using JS Executor
+Mar 26,2017 21:12:50 [Info]  Clicked on the 'Program' using JS Executor
+Mar 26,2017 21:12:59 [Info]  Clicked on the 'General TAB'
+Mar 26,2017 21:12:59 [Info]  Verify The data of Asset Type
+<span style="color:green;">Mar 26,2017 21:12:59 [Verification]  Verified that Expected value :[*Asset Type] is matched with Actual value :[*Asset Type]</span>
+Mar 26,2017 21:13:00 [Info]  Verify The data of Asset Category/Group
+<span style="color:green;">Mar 26,2017 21:13:00 [Verification]  Verified that Expected value :[Asset Category] is matched with Actual value :[Asset Category]</span>
+Mar 26,2017 21:13:00 [Info]  Verify The data of Asset Title
+<span style="color:green;">Mar 26,2017 21:13:00 [Verification]  Verified that Expected value :[*Asset Title] is matched with Actual value :[*Asset Title]</span>
+Mar 26,2017 21:13:00 [Info]  Verify The data of IP Name
+<span style="color:green;">Mar 26,2017 21:13:00 [Verification]  Verified that Expected value :[IP Name] is matched with Actual value :[IP Name]</span>
+Mar 26,2017 21:13:00 [Info]  Verify The data of Project ID
+<span style="color:green;">Mar 26,2017 21:13:00 [Verification]  Verified that Expected value :[Project ID] is matched with Actual value :[Project ID]</span>
+Mar 26,2017 21:13:00 [Info]  Verify The data of Series Title
+<span style="color:green;">Mar 26,2017 21:13:00 [Verification]  Verified that Expected value :[Series Title] is matched with Actual value :[Series Title]</span>
+Mar 26,2017 21:13:00 [Info]  Verify The data of Vendor
+<span style="color:green;">Mar 26,2017 21:13:00 [Verification]  Verified that Expected value :[*Vendor] is matched with Actual value :[*Vendor]</span>
+Mar 26,2017 21:13:01 [Info]  Verify The data of Studio
+<span style="color:green;">Mar 26,2017 21:13:01 [Verification]  Verified that Expected value :[Vendor 2] is matched with Actual value :[Vendor 2]</span>
+Mar 26,2017 21:13:01 [Info]  Verify The data of SourceBusinessUnit
+<span style="color:green;">Mar 26,2017 21:13:01 [Verification]  Verified that Expected value :[*Source Business Unit] is matched with Actual value :[*Source Business Unit]</span>
+Mar 26,2017 21:13:01 [Info]  Verify The data of Duration
+<span style="color:green;">Mar 26,2017 21:13:01 [Verification]  Verified that Expected value :[Duration] is matched with Actual value :[Duration]</span>
+Mar 26,2017 21:13:01 [Info]  Verify The data of ShortName
+<span style="color:green;">Mar 26,2017 21:13:01 [Verification]  Verified that Expected value :[Short Name] is matched with Actual value :[Short Name]</span>
+Mar 26,2017 21:13:01 [Info]  Verify The data of AssetStatusLabel
+<span style="color:green;">Mar 26,2017 21:13:01 [Verification]  Verified that Expected value :[Asset Status] is matched with Actual value :[Asset Status]</span>
+Mar 26,2017 21:13:02 [Info]  Verify The data of Asset Source
+<span style="color:green;">Mar 26,2017 21:13:02 [Verification]  Verified that Expected value :[*Asset Source] is matched with Actual value :[*Asset Source]</span>
+Mar 26,2017 21:13:02 [Info]  Verify The data of Internal CheckBox
+<span style="color:green;">Mar 26,2017 21:13:02 [Verification]  Verified that Expected value :[Internal] is matched with Actual value :[Internal]</span>
+Mar 26,2017 21:13:02 [Info]  Verify The data of NonAirable CheckBox
+<span style="color:green;">Mar 26,2017 21:13:02 [Verification]  Verified that Expected value :[Non-Airable] is matched with Actual value :[Non-Airable]</span>
+Mar 26,2017 21:13:02 [Info]  Verify The data of TBA CheckBox
+<span style="color:green;">Mar 26,2017 21:13:02 [Verification]  Verified that Expected value :[TBA] is matched with Actual value :[TBA]</span>
+Mar 26,2017 21:13:03 [Info]  Drop Down values of 'Program' Asset Type Drop Down are: 
+Mar 26,2017 21:13:03 [Info]  Actual Drop Down Values are: 
+[Program - One-Off, Program - Series, Program - Franchise, Program - Special, Program - Demo, Program - Documentary, Program - Pilot, Program - Mini-Series, Program - Package, Program - Made for TV, Program - Interstitial, Program - Music Performance]
+Mar 26,2017 21:13:03 [Info]  Expected Drop Down Values are: 
+[Program - One-Off, Program - Series, Program - Franchise, Program - Special, Program - Demo, Program - Documentary, Program - Pilot, Program - Mini-Series, Program - Package, Program - Made for TV, Program - Interstitial, Program - Music Performance]
+Mar 26,2017 21:13:03 [Info]  Total Number of Dropdown Valus in 'Program' Asset Type Drop Down:12
+<span style="color:green;">Mar 26,2017 21:13:03 [Verification]  Verified that [Program - One-Off] is present in the dropdown 'Program' Asset Type Drop Down</span>
+<span style="color:green;">Mar 26,2017 21:13:03 [Verification]  Verified that [Program - Series] is present in the dropdown 'Program' Asset Type Drop Down</span>
+<span style="color:green;">Mar 26,2017 21:13:03 [Verification]  Verified that [Program - Franchise] is present in the dropdown 'Program' Asset Type Drop Down</span>
+<span style="color:green;">Mar 26,2017 21:13:03 [Verification]  Verified that [Program - Special] is present in the dropdown 'Program' Asset Type Drop Down</span>
+<span style="color:green;">Mar 26,2017 21:13:03 [Verification]  Verified that [Program - Demo] is present in the dropdown 'Program' Asset Type Drop Down</span>
+<span style="color:green;">Mar 26,2017 21:13:03 [Verification]  Verified that [Program - Documentary] is present in the dropdown 'Program' Asset Type Drop Down</span>
+<span style="color:green;">Mar 26,2017 21:13:03 [Verification]  Verified that [Program - Pilot] is present in the dropdown 'Program' Asset Type Drop Down</span>
+<span style="color:green;">Mar 26,2017 21:13:03 [Verification]  Verified that [Program - Mini-Series] is present in the dropdown 'Program' Asset Type Drop Down</span>
+<span style="color:green;">Mar 26,2017 21:13:03 [Verification]  Verified that [Program - Package] is present in the dropdown 'Program' Asset Type Drop Down</span>
+<span style="color:green;">Mar 26,2017 21:13:03 [Verification]  Verified that [Program - Made for TV] is present in the dropdown 'Program' Asset Type Drop Down</span>
+<span style="color:green;">Mar 26,2017 21:13:03 [Verification]  Verified that [Program - Interstitial] is present in the dropdown 'Program' Asset Type Drop Down</span>
+<span style="color:green;">Mar 26,2017 21:13:03 [Verification]  Verified that [Program - Music Performance] is present in the dropdown 'Program' Asset Type Drop Down</span>
+Mar 26,2017 21:13:03 [Info]  Generated Asset Id is 209165
+Mar 26,2017 21:13:03 [Info]  Clicked on the 'Save Button' using JS Executor
+Mar 26,2017 21:13:17 [Info]  Verify The data of AssertCreationValidationMessage
+<span style="color:green;">Mar 26,2017 21:13:17 [Verification]  Verified that Expected value :[Please enter values for required(*) fields.] is matched with Actual value :[Please enter values for required(*) fields.]</span>
+Mar 26,2017 21:13:20 [Info]  Selected "Program - Series" in "Asset Type Drop Down" drop down
+Mar 26,2017 21:13:29 [Info]  Entered "AUT_AssetSeries_0326201791158" in field 'AssetTitle'
+Mar 26,2017 21:13:30 [Info]  Clicked on the 'IPImageIcon' using JS Executor
+<span style="color:red;">Mar 26,2017 21:13:40 [Fail]  ====Failed==== " Could not find the Frame: div[id*='WebDialogWindow2'][style*=visible]</span>
+<span style="color:red;">Mar 26,2017 21:13:40 [Fail]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\26\FrameSwitchingFailed0_CheckpointFailure_03-26-2017 9-13-40 PM.jpg</span>
+Mar 26,2017 21:13:40 [Info]  Unable to find element with css selector == div[id*='WebDialogWindow2'][style*=visible] (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.17 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: '9P4G6BS', ip: '10.10.22.71', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=true, ie.forceCreateProcessApi=false, pageLoadStrategy=normal, ie.usePerProcessProxy=false, ignoreZoomSetting=false, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=false, browserName=internet explorer, initialBrowserUrl=http://localhost:17049/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=false, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: 718bf730-1c1c-4bc8-8f93-70661a32faee
+*** Element info: {Using=css selector, value=div[id*='WebDialogWindow2'][style*=visible]}
+Mar 26,2017 21:13:50 [Info]  Test 'TC1_AssetCreationTest' FAILED
+Mar 26,2017 21:13:50 [Info]  2
+Mar 26,2017 21:13:50 [Info]  Test Case :TC1_AssetCreationTest's Screenshot of Failure Page: 
+C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\26\TC1_AssetCreationTest_03-26-2017 9-13-50 PM.jpg
+Mar 26,2017 21:13:57 [Info]  Closed the Browser
+Mar 26,2017 21:13:57 [Info]  *********************Started Executing 'TC2_ProgramSummary' Test Case*********************
+Mar 26,2017 21:14:06 [Info]  Client: AMCN
+Mar 26,2017 21:14:06 [Info]  URL: http://rlv2wb79/login.aspx
+Mar 26,2017 21:14:06 [Info]  UserName: admin
+Mar 26,2017 21:14:06 [Info]  Password: admin
+Mar 26,2017 21:14:07 [Info]  Entered "admin" in field 'User Name'
+Mar 26,2017 21:14:07 [Info]  Clicked on the 'Temporary Check Box'
+Mar 26,2017 21:14:08 [Info]  Entered "admin" in field 'Password'
+Mar 26,2017 21:14:15 [Info]  Clicked on the 'LoginButton'
+Mar 26,2017 21:14:31 [Info]  Clicked on the 'MODULE'
+Mar 26,2017 21:14:40 [Info]  Clicked on the 'Asset Maintenance'
+<span style="color:red;">Mar 26,2017 21:15:00 [Fail]  ====Failed==== "AUT_AssetSeries_0326201791158AssetName" field is not present'</span>
+Mar 26,2017 21:15:01 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\26\AUT_AssetSeries_0326201791158AssetName_CheckpointFailure_03-26-2017 9-15-00 PM.jpg
+Mar 26,2017 21:15:02 [Info]  *******************Program Summary*******************
+Mar 26,2017 21:15:15 [Info]  Verify The data of Program Summary Header
+<span style="color:red;">Mar 26,2017 21:15:15 [Fail]  ====Failed==== Expected value is:[Program Summary] but Actual value is[]. Please check the screenshot with name: Program Summary Headerfor more details</span>
+Mar 26,2017 21:15:15 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\26\ProgramSummaryHeader_CheckpointFailure_03-26-2017 9-15-15 PM.jpg
+Mar 26,2017 21:15:25 [Info]  =====Source Id is===== No element is present on Web Page (DriverHelper.getAttribute())
+Mar 26,2017 21:15:35 [Info]  Verify The data of Asset Type at Program Summary
+<span style="color:red;">Mar 26,2017 21:15:35 [Fail]  ====Failed==== Expected value is:[Licensed Acquired] but Actual value is[]. Please check the screenshot with name: Asset Type at Program Summaryfor more details</span>
+Mar 26,2017 21:15:36 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\26\AssetTypeatProgramSummary_CheckpointFailure_03-26-2017 9-15-35 PM.jpg
+Mar 26,2017 21:15:36 [Info]  Test 'TC2_ProgramSummary' PASSED
+Mar 26,2017 21:15:36 [Info]  Closed the Browser
+Mar 26,2017 21:15:36 [Info]  *********************Started Executing 'TC3_VerifyProgSum' Test Case*********************
+<span style="color:red;">Mar 26,2017 21:15:55 [Fail]  ====Failed==== " Could not find the Frame: //div[@clientid='RL_SplitterPane_Navigation']</span>
+Mar 26,2017 21:15:55 [Info]  Test 'TC3_VerifyProgSum' FAILED
+Mar 26,2017 21:15:55 [Info]  2
+Mar 26,2017 21:15:55 [Info]  Test 'TC3_VerifyProgSum' FAILED
+Mar 26,2017 21:15:55 [Info]  2
+Mar 26,2017 21:16:40 [Info]  ********************Started Executiong the Test Suite at 21:16:40******************
+Mar 26,2017 21:16:40 [Info]  Client: AMCN
+Mar 26,2017 21:16:40 [Info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Mar 26,2017 21:16:40 [Info]  *********************Started Executing 'TC1_AssetCreationTest' Test Case*********************
+Mar 26,2017 21:16:50 [Info]  Client: AMCN
+Mar 26,2017 21:16:50 [Info]  URL: http://rlv2wb79/login.aspx
+Mar 26,2017 21:16:50 [Info]  UserName: admin
+Mar 26,2017 21:16:50 [Info]  Password: admin
+Mar 26,2017 21:16:52 [Info]  Entered "admin" in field 'User Name'
+Mar 26,2017 21:16:52 [Info]  Clicked on the 'Temporary Check Box'
+Mar 26,2017 21:16:52 [Info]  Entered "admin" in field 'Password'
+Mar 26,2017 21:17:00 [Info]  Clicked on the 'LoginButton'
+Mar 26,2017 21:17:17 [Info]  Clicked on the 'MODULE'
+Mar 26,2017 21:17:26 [Info]  Clicked on the 'Asset Maintenance'
+Mar 26,2017 21:17:39 [Info]  Clicked on the 'New Button' using JS Executor
+Mar 26,2017 21:17:39 [Info]  Clicked on the 'Element' using JS Executor
+Mar 26,2017 21:17:50 [Info]  Clicked on the 'General TAB'
+Mar 26,2017 21:17:51 [Info]  Drop Down values of 'Element' Asset Type Drop Down are: 
+Mar 26,2017 21:17:51 [Info]  Actual Drop Down Values are: 
+[Element - Talent, Element - Footage (Production), Element - Footage (Stock), Element - Still Photo (Production), Element - Still Photo (Stock), Element - Audio/Sound, Element - Text, Element - Graphic, Element - Animation, Element - Product Placement, Element - Poster, Element - Likeness, Element - Image, Element - Music]
+Mar 26,2017 21:17:51 [Info]  Expected Drop Down Values are: 
+[Element - Talent, Element - Footage (Production), Element - Footage (Stock), Element - Still Photo (Production), Element - Still Photo (Stock), Element - Audio/Sound, Element - Text, Element - Graphic, Element - Animation, Element - Product Placement, Element - Poster, Element - Likeness, Element - Image, Element - Music]
+Mar 26,2017 21:17:51 [Info]  Total Number of Dropdown Valus in 'Element' Asset Type Drop Down:14
+<span style="color:green;">Mar 26,2017 21:17:51 [Verification]  Verified that [Element - Talent] is present in the dropdown 'Element' Asset Type Drop Down</span>
+<span style="color:green;">Mar 26,2017 21:17:51 [Verification]  Verified that [Element - Footage (Production)] is present in the dropdown 'Element' Asset Type Drop Down</span>
+<span style="color:green;">Mar 26,2017 21:17:51 [Verification]  Verified that [Element - Footage (Stock)] is present in the dropdown 'Element' Asset Type Drop Down</span>
+<span style="color:green;">Mar 26,2017 21:17:51 [Verification]  Verified that [Element - Still Photo (Production)] is present in the dropdown 'Element' Asset Type Drop Down</span>
+<span style="color:green;">Mar 26,2017 21:17:51 [Verification]  Verified that [Element - Still Photo (Stock)] is present in the dropdown 'Element' Asset Type Drop Down</span>
+<span style="color:green;">Mar 26,2017 21:17:51 [Verification]  Verified that [Element - Audio/Sound] is present in the dropdown 'Element' Asset Type Drop Down</span>
+<span style="color:green;">Mar 26,2017 21:17:51 [Verification]  Verified that [Element - Text] is present in the dropdown 'Element' Asset Type Drop Down</span>
+<span style="color:green;">Mar 26,2017 21:17:51 [Verification]  Verified that [Element - Graphic] is present in the dropdown 'Element' Asset Type Drop Down</span>
+<span style="color:green;">Mar 26,2017 21:17:51 [Verification]  Verified that [Element - Animation] is present in the dropdown 'Element' Asset Type Drop Down</span>
+<span style="color:green;">Mar 26,2017 21:17:51 [Verification]  Verified that [Element - Product Placement] is present in the dropdown 'Element' Asset Type Drop Down</span>
+<span style="color:green;">Mar 26,2017 21:17:51 [Verification]  Verified that [Element - Poster] is present in the dropdown 'Element' Asset Type Drop Down</span>
+<span style="color:green;">Mar 26,2017 21:17:51 [Verification]  Verified that [Element - Likeness] is present in the dropdown 'Element' Asset Type Drop Down</span>
+<span style="color:green;">Mar 26,2017 21:17:51 [Verification]  Verified that [Element - Image] is present in the dropdown 'Element' Asset Type Drop Down</span>
+<span style="color:green;">Mar 26,2017 21:17:51 [Verification]  Verified that [Element - Music] is present in the dropdown 'Element' Asset Type Drop Down</span>
+Mar 26,2017 21:17:51 [Info]  Clicked on the 'New Button' using JS Executor
+Mar 26,2017 21:17:52 [Info]  Clicked on the 'Program' using JS Executor
+Mar 26,2017 21:18:01 [Info]  Clicked on the 'General TAB'
+Mar 26,2017 21:18:01 [Info]  Verify The data of Asset Type
+<span style="color:green;">Mar 26,2017 21:18:01 [Verification]  Verified that Expected value :[*Asset Type] is matched with Actual value :[*Asset Type]</span>
+Mar 26,2017 21:18:02 [Info]  Verify The data of Asset Category/Group
+<span style="color:green;">Mar 26,2017 21:18:02 [Verification]  Verified that Expected value :[Asset Category] is matched with Actual value :[Asset Category]</span>
+Mar 26,2017 21:18:02 [Info]  Verify The data of Asset Title
+<span style="color:green;">Mar 26,2017 21:18:02 [Verification]  Verified that Expected value :[*Asset Title] is matched with Actual value :[*Asset Title]</span>
+Mar 26,2017 21:18:02 [Info]  Verify The data of IP Name
+<span style="color:green;">Mar 26,2017 21:18:02 [Verification]  Verified that Expected value :[IP Name] is matched with Actual value :[IP Name]</span>
+Mar 26,2017 21:18:02 [Info]  Verify The data of Project ID
+<span style="color:green;">Mar 26,2017 21:18:02 [Verification]  Verified that Expected value :[Project ID] is matched with Actual value :[Project ID]</span>
+Mar 26,2017 21:18:03 [Info]  Verify The data of Series Title
+<span style="color:green;">Mar 26,2017 21:18:03 [Verification]  Verified that Expected value :[Series Title] is matched with Actual value :[Series Title]</span>
+Mar 26,2017 21:18:03 [Info]  Verify The data of Vendor
+<span style="color:green;">Mar 26,2017 21:18:03 [Verification]  Verified that Expected value :[*Vendor] is matched with Actual value :[*Vendor]</span>
+Mar 26,2017 21:18:03 [Info]  Verify The data of Studio
+<span style="color:green;">Mar 26,2017 21:18:03 [Verification]  Verified that Expected value :[Vendor 2] is matched with Actual value :[Vendor 2]</span>
+Mar 26,2017 21:18:03 [Info]  Verify The data of SourceBusinessUnit
+<span style="color:green;">Mar 26,2017 21:18:03 [Verification]  Verified that Expected value :[*Source Business Unit] is matched with Actual value :[*Source Business Unit]</span>
+Mar 26,2017 21:18:04 [Info]  Verify The data of Duration
+<span style="color:green;">Mar 26,2017 21:18:04 [Verification]  Verified that Expected value :[Duration] is matched with Actual value :[Duration]</span>
+Mar 26,2017 21:18:04 [Info]  Verify The data of ShortName
+<span style="color:green;">Mar 26,2017 21:18:04 [Verification]  Verified that Expected value :[Short Name] is matched with Actual value :[Short Name]</span>
+Mar 26,2017 21:18:04 [Info]  Verify The data of AssetStatusLabel
+<span style="color:green;">Mar 26,2017 21:18:04 [Verification]  Verified that Expected value :[Asset Status] is matched with Actual value :[Asset Status]</span>
+Mar 26,2017 21:18:04 [Info]  Verify The data of Asset Source
+<span style="color:green;">Mar 26,2017 21:18:04 [Verification]  Verified that Expected value :[*Asset Source] is matched with Actual value :[*Asset Source]</span>
+Mar 26,2017 21:18:05 [Info]  Verify The data of Internal CheckBox
+<span style="color:green;">Mar 26,2017 21:18:05 [Verification]  Verified that Expected value :[Internal] is matched with Actual value :[Internal]</span>
+Mar 26,2017 21:18:05 [Info]  Verify The data of NonAirable CheckBox
+<span style="color:green;">Mar 26,2017 21:18:05 [Verification]  Verified that Expected value :[Non-Airable] is matched with Actual value :[Non-Airable]</span>
+Mar 26,2017 21:18:05 [Info]  Verify The data of TBA CheckBox
+<span style="color:green;">Mar 26,2017 21:18:05 [Verification]  Verified that Expected value :[TBA] is matched with Actual value :[TBA]</span>
+Mar 26,2017 21:18:06 [Info]  Drop Down values of 'Program' Asset Type Drop Down are: 
+Mar 26,2017 21:18:06 [Info]  Actual Drop Down Values are: 
+[Program - One-Off, Program - Series, Program - Franchise, Program - Special, Program - Demo, Program - Documentary, Program - Pilot, Program - Mini-Series, Program - Package, Program - Made for TV, Program - Interstitial, Program - Music Performance]
+Mar 26,2017 21:18:06 [Info]  Expected Drop Down Values are: 
+[Program - One-Off, Program - Series, Program - Franchise, Program - Special, Program - Demo, Program - Documentary, Program - Pilot, Program - Mini-Series, Program - Package, Program - Made for TV, Program - Interstitial, Program - Music Performance]
+Mar 26,2017 21:18:06 [Info]  Total Number of Dropdown Valus in 'Program' Asset Type Drop Down:12
+<span style="color:green;">Mar 26,2017 21:18:06 [Verification]  Verified that [Program - One-Off] is present in the dropdown 'Program' Asset Type Drop Down</span>
+<span style="color:green;">Mar 26,2017 21:18:06 [Verification]  Verified that [Program - Series] is present in the dropdown 'Program' Asset Type Drop Down</span>
+<span style="color:green;">Mar 26,2017 21:18:06 [Verification]  Verified that [Program - Franchise] is present in the dropdown 'Program' Asset Type Drop Down</span>
+<span style="color:green;">Mar 26,2017 21:18:06 [Verification]  Verified that [Program - Special] is present in the dropdown 'Program' Asset Type Drop Down</span>
+<span style="color:green;">Mar 26,2017 21:18:06 [Verification]  Verified that [Program - Demo] is present in the dropdown 'Program' Asset Type Drop Down</span>
+<span style="color:green;">Mar 26,2017 21:18:06 [Verification]  Verified that [Program - Documentary] is present in the dropdown 'Program' Asset Type Drop Down</span>
+<span style="color:green;">Mar 26,2017 21:18:06 [Verification]  Verified that [Program - Pilot] is present in the dropdown 'Program' Asset Type Drop Down</span>
+<span style="color:green;">Mar 26,2017 21:18:06 [Verification]  Verified that [Program - Mini-Series] is present in the dropdown 'Program' Asset Type Drop Down</span>
+<span style="color:green;">Mar 26,2017 21:18:06 [Verification]  Verified that [Program - Package] is present in the dropdown 'Program' Asset Type Drop Down</span>
+<span style="color:green;">Mar 26,2017 21:18:06 [Verification]  Verified that [Program - Made for TV] is present in the dropdown 'Program' Asset Type Drop Down</span>
+<span style="color:green;">Mar 26,2017 21:18:06 [Verification]  Verified that [Program - Interstitial] is present in the dropdown 'Program' Asset Type Drop Down</span>
+<span style="color:green;">Mar 26,2017 21:18:06 [Verification]  Verified that [Program - Music Performance] is present in the dropdown 'Program' Asset Type Drop Down</span>
+Mar 26,2017 21:18:06 [Info]  Generated Asset Id is 209167
+Mar 26,2017 21:18:07 [Info]  Clicked on the 'Save Button' using JS Executor
+Mar 26,2017 21:18:21 [Info]  Verify The data of AssertCreationValidationMessage
+<span style="color:green;">Mar 26,2017 21:18:21 [Verification]  Verified that Expected value :[Please enter values for required(*) fields.] is matched with Actual value :[Please enter values for required(*) fields.]</span>
+Mar 26,2017 21:18:24 [Info]  Selected "Program - Series" in "Asset Type Drop Down" drop down
+Mar 26,2017 21:18:33 [Info]  Entered "AUT_AssetSeries_0326201791706" in field 'AssetTitle'
+Mar 26,2017 21:18:34 [Info]  Clicked on the 'IPImageIcon' using JS Executor
+<span style="color:red;">Mar 26,2017 21:18:44 [Fail]  ====Failed==== " Could not find the Frame: div[id*='WebDialogWindow2'][style*=visible]</span>
+<span style="color:red;">Mar 26,2017 21:18:44 [Fail]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\26\FrameSwitchingFailed0_CheckpointFailure_03-26-2017 9-18-44 PM.jpg</span>
+Mar 26,2017 21:18:44 [Info]  Unable to find element with css selector == div[id*='WebDialogWindow2'][style*=visible] (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.08 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: '9P4G6BS', ip: '10.10.22.71', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=true, ie.forceCreateProcessApi=false, pageLoadStrategy=normal, ie.usePerProcessProxy=false, ignoreZoomSetting=false, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=false, browserName=internet explorer, initialBrowserUrl=http://localhost:2937/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=false, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: d487e6d2-82c4-424e-a826-15f122220e3e
+*** Element info: {Using=css selector, value=div[id*='WebDialogWindow2'][style*=visible]}
+Mar 26,2017 21:18:55 [Info]  Test 'TC1_AssetCreationTest' FAILED
+Mar 26,2017 21:18:55 [Info]  2
+Mar 26,2017 21:18:55 [Info]  Test Case :TC1_AssetCreationTest's Screenshot of Failure Page: 
+C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\26\TC1_AssetCreationTest_03-26-2017 9-18-55 PM.jpg
+Mar 26,2017 21:19:01 [Info]  Closed the Browser
+Mar 26,2017 21:24:37 [Info]  ********************Started Executiong the Test Suite at 21:24:37******************
+Mar 26,2017 21:24:37 [Info]  Client: AMCN
+Mar 26,2017 21:24:37 [Info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Mar 26,2017 21:24:37 [Info]  *********************Started Executing 'TC1_AssetCreationTest' Test Case*********************
+Mar 26,2017 21:24:47 [Info]  Client: AMCN
+Mar 26,2017 21:24:47 [Info]  URL: http://rlv2wb79/login.aspx
+Mar 26,2017 21:24:47 [Info]  UserName: admin
+Mar 26,2017 21:24:47 [Info]  Password: admin
+Mar 26,2017 21:24:48 [Info]  Entered "admin" in field 'User Name'
+Mar 26,2017 21:24:48 [Info]  Clicked on the 'Temporary Check Box'
+Mar 26,2017 21:24:49 [Info]  Entered "admin" in field 'Password'
+Mar 26,2017 21:24:56 [Info]  Clicked on the 'LoginButton'
+Mar 26,2017 21:25:13 [Info]  Clicked on the 'MODULE'
+Mar 26,2017 21:25:23 [Info]  Clicked on the 'Asset Maintenance'
+Mar 26,2017 21:25:35 [Info]  Clicked on the 'New Button' using JS Executor
+Mar 26,2017 21:25:35 [Info]  Clicked on the 'Element' using JS Executor
+Mar 26,2017 21:25:45 [Info]  Clicked on the 'General TAB'
+Mar 26,2017 21:25:46 [Info]  Drop Down values of 'Element' Asset Type Drop Down are: 
+Mar 26,2017 21:25:46 [Info]  Actual Drop Down Values are: 
+[Element - Talent, Element - Footage (Production), Element - Footage (Stock), Element - Still Photo (Production), Element - Still Photo (Stock), Element - Audio/Sound, Element - Text, Element - Graphic, Element - Animation, Element - Product Placement, Element - Poster, Element - Likeness, Element - Image, Element - Music]
+Mar 26,2017 21:25:46 [Info]  Expected Drop Down Values are: 
+[Element - Talent, Element - Footage (Production), Element - Footage (Stock), Element - Still Photo (Production), Element - Still Photo (Stock), Element - Audio/Sound, Element - Text, Element - Graphic, Element - Animation, Element - Product Placement, Element - Poster, Element - Likeness, Element - Image, Element - Music]
+Mar 26,2017 21:25:46 [Info]  Total Number of Dropdown Valus in 'Element' Asset Type Drop Down:14
+<span style="color:green;">Mar 26,2017 21:25:46 [Verification]  Verified that [Element - Talent] is present in the dropdown 'Element' Asset Type Drop Down</span>
+<span style="color:green;">Mar 26,2017 21:25:47 [Verification]  Verified that [Element - Footage (Production)] is present in the dropdown 'Element' Asset Type Drop Down</span>
+<span style="color:green;">Mar 26,2017 21:25:47 [Verification]  Verified that [Element - Footage (Stock)] is present in the dropdown 'Element' Asset Type Drop Down</span>
+<span style="color:green;">Mar 26,2017 21:25:47 [Verification]  Verified that [Element - Still Photo (Production)] is present in the dropdown 'Element' Asset Type Drop Down</span>
+<span style="color:green;">Mar 26,2017 21:25:47 [Verification]  Verified that [Element - Still Photo (Stock)] is present in the dropdown 'Element' Asset Type Drop Down</span>
+<span style="color:green;">Mar 26,2017 21:25:47 [Verification]  Verified that [Element - Audio/Sound] is present in the dropdown 'Element' Asset Type Drop Down</span>
+<span style="color:green;">Mar 26,2017 21:25:47 [Verification]  Verified that [Element - Text] is present in the dropdown 'Element' Asset Type Drop Down</span>
+<span style="color:green;">Mar 26,2017 21:25:47 [Verification]  Verified that [Element - Graphic] is present in the dropdown 'Element' Asset Type Drop Down</span>
+<span style="color:green;">Mar 26,2017 21:25:47 [Verification]  Verified that [Element - Animation] is present in the dropdown 'Element' Asset Type Drop Down</span>
+<span style="color:green;">Mar 26,2017 21:25:47 [Verification]  Verified that [Element - Product Placement] is present in the dropdown 'Element' Asset Type Drop Down</span>
+<span style="color:green;">Mar 26,2017 21:25:47 [Verification]  Verified that [Element - Poster] is present in the dropdown 'Element' Asset Type Drop Down</span>
+<span style="color:green;">Mar 26,2017 21:25:47 [Verification]  Verified that [Element - Likeness] is present in the dropdown 'Element' Asset Type Drop Down</span>
+<span style="color:green;">Mar 26,2017 21:25:47 [Verification]  Verified that [Element - Image] is present in the dropdown 'Element' Asset Type Drop Down</span>
+<span style="color:green;">Mar 26,2017 21:25:47 [Verification]  Verified that [Element - Music] is present in the dropdown 'Element' Asset Type Drop Down</span>
+Mar 26,2017 21:25:47 [Info]  Clicked on the 'New Button' using JS Executor
+Mar 26,2017 21:25:47 [Info]  Clicked on the 'Program' using JS Executor
+Mar 26,2017 21:25:56 [Info]  Clicked on the 'General TAB'
+Mar 26,2017 21:25:57 [Info]  Verify The data of Asset Type
+<span style="color:green;">Mar 26,2017 21:25:57 [Verification]  Verified that Expected value :[*Asset Type] is matched with Actual value :[*Asset Type]</span>
+Mar 26,2017 21:25:57 [Info]  Verify The data of Asset Category/Group
+<span style="color:green;">Mar 26,2017 21:25:57 [Verification]  Verified that Expected value :[Asset Category] is matched with Actual value :[Asset Category]</span>
+Mar 26,2017 21:25:57 [Info]  Verify The data of Asset Title
+<span style="color:green;">Mar 26,2017 21:25:57 [Verification]  Verified that Expected value :[*Asset Title] is matched with Actual value :[*Asset Title]</span>
+Mar 26,2017 21:25:57 [Info]  Verify The data of IP Name
+<span style="color:green;">Mar 26,2017 21:25:57 [Verification]  Verified that Expected value :[IP Name] is matched with Actual value :[IP Name]</span>
+Mar 26,2017 21:25:57 [Info]  Verify The data of Project ID
+<span style="color:green;">Mar 26,2017 21:25:57 [Verification]  Verified that Expected value :[Project ID] is matched with Actual value :[Project ID]</span>
+Mar 26,2017 21:25:58 [Info]  Verify The data of Series Title
+<span style="color:green;">Mar 26,2017 21:25:58 [Verification]  Verified that Expected value :[Series Title] is matched with Actual value :[Series Title]</span>
+Mar 26,2017 21:25:58 [Info]  Verify The data of Vendor
+<span style="color:green;">Mar 26,2017 21:25:58 [Verification]  Verified that Expected value :[*Vendor] is matched with Actual value :[*Vendor]</span>
+Mar 26,2017 21:25:58 [Info]  Verify The data of Studio
+<span style="color:green;">Mar 26,2017 21:25:58 [Verification]  Verified that Expected value :[Vendor 2] is matched with Actual value :[Vendor 2]</span>
+Mar 26,2017 21:25:58 [Info]  Verify The data of SourceBusinessUnit
+<span style="color:green;">Mar 26,2017 21:25:58 [Verification]  Verified that Expected value :[*Source Business Unit] is matched with Actual value :[*Source Business Unit]</span>
+Mar 26,2017 21:25:59 [Info]  Verify The data of Duration
+<span style="color:green;">Mar 26,2017 21:25:59 [Verification]  Verified that Expected value :[Duration] is matched with Actual value :[Duration]</span>
+Mar 26,2017 21:25:59 [Info]  Verify The data of ShortName
+<span style="color:green;">Mar 26,2017 21:25:59 [Verification]  Verified that Expected value :[Short Name] is matched with Actual value :[Short Name]</span>
+Mar 26,2017 21:25:59 [Info]  Verify The data of AssetStatusLabel
+<span style="color:green;">Mar 26,2017 21:25:59 [Verification]  Verified that Expected value :[Asset Status] is matched with Actual value :[Asset Status]</span>
+Mar 26,2017 21:25:59 [Info]  Verify The data of Asset Source
+<span style="color:green;">Mar 26,2017 21:25:59 [Verification]  Verified that Expected value :[*Asset Source] is matched with Actual value :[*Asset Source]</span>
+Mar 26,2017 21:25:59 [Info]  Verify The data of Internal CheckBox
+<span style="color:green;">Mar 26,2017 21:25:59 [Verification]  Verified that Expected value :[Internal] is matched with Actual value :[Internal]</span>
+Mar 26,2017 21:26:00 [Info]  Verify The data of NonAirable CheckBox
+<span style="color:green;">Mar 26,2017 21:26:00 [Verification]  Verified that Expected value :[Non-Airable] is matched with Actual value :[Non-Airable]</span>
+Mar 26,2017 21:26:00 [Info]  Verify The data of TBA CheckBox
+<span style="color:green;">Mar 26,2017 21:26:00 [Verification]  Verified that Expected value :[TBA] is matched with Actual value :[TBA]</span>
+Mar 26,2017 21:26:01 [Info]  Drop Down values of 'Program' Asset Type Drop Down are: 
+Mar 26,2017 21:26:01 [Info]  Actual Drop Down Values are: 
+[Program - One-Off, Program - Series, Program - Franchise, Program - Special, Program - Demo, Program - Documentary, Program - Pilot, Program - Mini-Series, Program - Package, Program - Made for TV, Program - Interstitial, Program - Music Performance]
+Mar 26,2017 21:26:01 [Info]  Expected Drop Down Values are: 
+[Program - One-Off, Program - Series, Program - Franchise, Program - Special, Program - Demo, Program - Documentary, Program - Pilot, Program - Mini-Series, Program - Package, Program - Made for TV, Program - Interstitial, Program - Music Performance]
+Mar 26,2017 21:26:01 [Info]  Total Number of Dropdown Valus in 'Program' Asset Type Drop Down:12
+<span style="color:green;">Mar 26,2017 21:26:01 [Verification]  Verified that [Program - One-Off] is present in the dropdown 'Program' Asset Type Drop Down</span>
+<span style="color:green;">Mar 26,2017 21:26:01 [Verification]  Verified that [Program - Series] is present in the dropdown 'Program' Asset Type Drop Down</span>
+<span style="color:green;">Mar 26,2017 21:26:01 [Verification]  Verified that [Program - Franchise] is present in the dropdown 'Program' Asset Type Drop Down</span>
+<span style="color:green;">Mar 26,2017 21:26:01 [Verification]  Verified that [Program - Special] is present in the dropdown 'Program' Asset Type Drop Down</span>
+<span style="color:green;">Mar 26,2017 21:26:01 [Verification]  Verified that [Program - Demo] is present in the dropdown 'Program' Asset Type Drop Down</span>
+<span style="color:green;">Mar 26,2017 21:26:01 [Verification]  Verified that [Program - Documentary] is present in the dropdown 'Program' Asset Type Drop Down</span>
+<span style="color:green;">Mar 26,2017 21:26:01 [Verification]  Verified that [Program - Pilot] is present in the dropdown 'Program' Asset Type Drop Down</span>
+<span style="color:green;">Mar 26,2017 21:26:01 [Verification]  Verified that [Program - Mini-Series] is present in the dropdown 'Program' Asset Type Drop Down</span>
+<span style="color:green;">Mar 26,2017 21:26:01 [Verification]  Verified that [Program - Package] is present in the dropdown 'Program' Asset Type Drop Down</span>
+<span style="color:green;">Mar 26,2017 21:26:01 [Verification]  Verified that [Program - Made for TV] is present in the dropdown 'Program' Asset Type Drop Down</span>
+<span style="color:green;">Mar 26,2017 21:26:01 [Verification]  Verified that [Program - Interstitial] is present in the dropdown 'Program' Asset Type Drop Down</span>
+<span style="color:green;">Mar 26,2017 21:26:01 [Verification]  Verified that [Program - Music Performance] is present in the dropdown 'Program' Asset Type Drop Down</span>
+Mar 26,2017 21:26:01 [Info]  Generated Asset Id is 209169
+Mar 26,2017 21:26:01 [Info]  Clicked on the 'Save Button' using JS Executor
+Mar 26,2017 21:26:16 [Info]  Verify The data of AssertCreationValidationMessage
+<span style="color:green;">Mar 26,2017 21:26:16 [Verification]  Verified that Expected value :[Please enter values for required(*) fields.] is matched with Actual value :[Please enter values for required(*) fields.]</span>
+Mar 26,2017 21:26:18 [Info]  Selected "Program - Series" in "Asset Type Drop Down" drop down
+Mar 26,2017 21:26:27 [Info]  Entered "AUT_AssetSeries_0326201792502" in field 'AssetTitle'
+Mar 26,2017 21:26:28 [Info]  Clicked on the 'IPImageIcon' using JS Executor
+Mar 26,2017 21:26:30 [Info]  Clicked on the 'Find Button' using JS Executor
+Mar 26,2017 21:26:43 [Info]  Clicked on the 'OK Button at Alert' using JS Executor
+Mar 26,2017 21:26:44 [Info]  Clicked on the 'Add Button at IP Window'
+Mar 26,2017 21:26:46 [Info]  Entered "AUT_IP_1" in field 'IP at IP Window'
+Mar 26,2017 21:26:47 [Info]  Clicked on the 'Save Button at IP Add Window'
+Mar 26,2017 21:26:48 [Info]  Clicked on the 'loc_IPName_AT_IPWindow'
+Mar 26,2017 21:26:48 [Info]  Clicked on the 'IP Select Button' using JS Executor
+Mar 26,2017 21:26:49 [Info]  Clicked on the 'IPImageIcon' using JS Executor
+Mar 26,2017 21:26:53 [Info]  Verify The data of IP Window Header
+<span style="color:red;">Mar 26,2017 21:26:53 [Fail]  ====Failed==== Expected value is:[Select IP Name] but Actual value is[]. Please check the screenshot with name: IP Window Headerfor more details</span>
+Mar 26,2017 21:26:54 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\26\IPWindowHeader_CheckpointFailure_03-26-2017 9-26-53 PM.jpg
+Mar 26,2017 21:26:55 [Info]  Entered "AUT_IP_1" in field 'IPfield'
+Mar 26,2017 21:26:55 [Info]  Clicked on the 'IPWindowButtonfind' using JS Executor
+<span style="color:red;">Mar 26,2017 21:26:56 [Fail]  ====Failed==== "Searched IP Name" field is not present'</span>
+Mar 26,2017 21:26:56 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\26\SearchedIPName_CheckpointFailure_03-26-2017 9-26-56 PM.jpg
+Mar 26,2017 21:26:56 [Info]  Clicked on the 'IPSelectButton' using JS Executor
+Mar 26,2017 21:27:00 [Info]  Verify The data of IP Field
+<span style="color:green;">Mar 26,2017 21:27:00 [Verification]  Verified that Expected value :[AUT_IP_1] is matched with Actual value :[AUT_IP_1]</span>
+Mar 26,2017 21:27:01 [Info]  Clicked on the 'IP Clear' using JS Executor
+Mar 26,2017 21:27:01 [Info]  Verify The data of Validation Messge while clear the IP Field
+<span style="color:green;">Mar 26,2017 21:27:01 [Verification]  Verified that Expected value :[Are you sure you want to clear the field value?] is matched with Actual value :[Are you sure you want to clear the field value?]</span>
+Mar 26,2017 21:27:02 [Info]  Clicked on the 'Confirm Alert Ok' using JS Executor
+Mar 26,2017 21:27:08 [Info]  Clicked on the 'IPImageIcon' using JS Executor
+Mar 26,2017 21:27:09 [Info]  Entered "AUT_IP_1" in field 'IP field'
+Mar 26,2017 21:27:09 [Info]  Clicked on the 'IPWindowButtonfind' using JS Executor
+<span style="color:red;">Mar 26,2017 21:27:10 [Fail]  ====Failed==== "IPNameAtIPWindow" field is not present'</span>
+Mar 26,2017 21:27:10 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\26\IPNameAtIPWindow_CheckpointFailure_03-26-2017 9-27-10 PM.jpg
+Mar 26,2017 21:27:10 [Info]  Clicked on the 'IPSelectButton' using JS Executor
+
+<span style="color:blue;"> [Manual Test Step] : TC_AM_GT_038</span>
+Mar 26,2017 21:27:11 [Info]  Verify The data of Vendor field is noteditable
+<span style="color:green;">Mar 26,2017 21:27:11 [Verification]  Verified that Expected value :[true] is matched with Actual value :[true]</span>
+Mar 26,2017 21:27:11 [Info]  Clicked on the 'Vendor Img Icon' using JS Executor
+Mar 26,2017 21:27:13 [Info]  Entered "AUT_AMCN_Vendor1" in field 'SearchvalueVendor'
+Mar 26,2017 21:27:15 [Info]  Clicked on the 'VendorWindowButtonfind' using JS Executor
+Mar 26,2017 21:31:08 [Info]  ********************Started Executiong the Test Suite at 21:31:08******************
+Mar 26,2017 21:31:08 [Info]  Client: AMCN
+Mar 26,2017 21:31:08 [Info]  *********************Started Executing the Test Area(Modules/TAB): 'General TAB'*********************
+Mar 26,2017 21:31:08 [Info]  *********************Started Executing 'TC1_AssetCreationTest' Test Case*********************
+Mar 26,2017 21:31:19 [Info]  Client: AMCN
+Mar 26,2017 21:31:19 [Info]  URL: http://rlv2wb79/login.aspx
+Mar 26,2017 21:31:19 [Info]  UserName: admin
+Mar 26,2017 21:31:19 [Info]  Password: admin
+<span style="color:red;">Mar 26,2017 21:31:29 [Fail]  ====Failed==== " Could not find the Frame: //div[@clientid='RL_SplitterPane_Navigation']</span>
+<span style="color:red;">Mar 26,2017 21:31:48 [Fail]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\26\FrameSwitchingFailed0_CheckpointFailure_03-26-2017 9-31-29 PM.jpg</span>
+Mar 26,2017 21:31:48 [Info]  Unable to find element with xpath == //div[@clientid='RL_SplitterPane_Navigation'] (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.05 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: '9P4G6BS', ip: '10.10.22.71', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=true, ie.forceCreateProcessApi=false, pageLoadStrategy=normal, ie.usePerProcessProxy=false, ignoreZoomSetting=false, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=false, browserName=internet explorer, initialBrowserUrl=http://localhost:33070/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=false, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: 8656f4ab-cdc1-44b3-a90a-264258cfe0f2
+*** Element info: {Using=xpath, value=//div[@clientid='RL_SplitterPane_Navigation']}
+Mar 26,2017 21:32:38 [Info]  ********************Started Executiong the Test Suite at 21:32:38******************
+Mar 26,2017 21:32:38 [Info]  Client: AMCN
+Mar 26,2017 21:32:38 [Info]  *********************Started Executing the Test Area(Modules/TAB): 'General TAB'*********************
+Mar 26,2017 21:32:38 [Info]  *********************Started Executing 'TC1_AssetCreationTest' Test Case*********************
+Mar 26,2017 21:32:48 [Info]  Client: AMCN
+Mar 26,2017 21:32:48 [Info]  URL: http://rlv2wb79/login.aspx
+Mar 26,2017 21:32:48 [Info]  UserName: admin
+Mar 26,2017 21:32:48 [Info]  Password: admin
+Mar 26,2017 21:33:43 [Info]  ********************Started Executiong the Test Suite at 21:33:43******************
+Mar 26,2017 21:33:43 [Info]  Client: AMCN
+Mar 26,2017 21:33:43 [Info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Mar 26,2017 21:33:43 [Info]  *********************Started Executing 'TC1_AssetCreationTest' Test Case*********************
+Mar 26,2017 21:33:53 [Info]  Client: AMCN
+Mar 26,2017 21:33:53 [Info]  URL: http://rlv2wb79/login.aspx
+Mar 26,2017 21:33:53 [Info]  UserName: admin
+Mar 26,2017 21:33:53 [Info]  Password: admin
+Mar 26,2017 21:33:54 [Info]  Entered "admin" in field 'User Name'
+Mar 26,2017 21:33:55 [Info]  Clicked on the 'Temporary Check Box'
+Mar 26,2017 21:33:55 [Info]  Entered "admin" in field 'Password'
+Mar 26,2017 21:34:02 [Info]  Clicked on the 'LoginButton'
+Mar 26,2017 21:34:19 [Info]  Clicked on the 'MODULE'
+Mar 26,2017 21:34:29 [Info]  Clicked on the 'Asset Maintenance'
+Mar 26,2017 21:34:41 [Info]  Clicked on the 'New Button' using JS Executor
+Mar 26,2017 21:34:41 [Info]  Clicked on the 'Element' using JS Executor
+Mar 26,2017 21:34:50 [Info]  Clicked on the 'General TAB'
+Mar 26,2017 21:34:52 [Info]  Drop Down values of 'Element' Asset Type Drop Down are: 
+Mar 26,2017 21:34:52 [Info]  Actual Drop Down Values are: 
+[Element - Talent, Element - Footage (Production), Element - Footage (Stock), Element - Still Photo (Production), Element - Still Photo (Stock), Element - Audio/Sound, Element - Text, Element - Graphic, Element - Animation, Element - Product Placement, Element - Poster, Element - Likeness, Element - Image, Element - Music]
+Mar 26,2017 21:34:52 [Info]  Expected Drop Down Values are: 
+[Element - Talent, Element - Footage (Production), Element - Footage (Stock), Element - Still Photo (Production), Element - Still Photo (Stock), Element - Audio/Sound, Element - Text, Element - Graphic, Element - Animation, Element - Product Placement, Element - Poster, Element - Likeness, Element - Image, Element - Music]
+Mar 26,2017 21:34:52 [Info]  Total Number of Dropdown Valus in 'Element' Asset Type Drop Down:14
+<span style="color:green;">Mar 26,2017 21:34:52 [Verification]  Verified that [Element - Talent] is present in the dropdown 'Element' Asset Type Drop Down</span>
+<span style="color:green;">Mar 26,2017 21:34:52 [Verification]  Verified that [Element - Footage (Production)] is present in the dropdown 'Element' Asset Type Drop Down</span>
+<span style="color:green;">Mar 26,2017 21:34:52 [Verification]  Verified that [Element - Footage (Stock)] is present in the dropdown 'Element' Asset Type Drop Down</span>
+<span style="color:green;">Mar 26,2017 21:34:52 [Verification]  Verified that [Element - Still Photo (Production)] is present in the dropdown 'Element' Asset Type Drop Down</span>
+<span style="color:green;">Mar 26,2017 21:34:52 [Verification]  Verified that [Element - Still Photo (Stock)] is present in the dropdown 'Element' Asset Type Drop Down</span>
+<span style="color:green;">Mar 26,2017 21:34:52 [Verification]  Verified that [Element - Audio/Sound] is present in the dropdown 'Element' Asset Type Drop Down</span>
+<span style="color:green;">Mar 26,2017 21:34:52 [Verification]  Verified that [Element - Text] is present in the dropdown 'Element' Asset Type Drop Down</span>
+<span style="color:green;">Mar 26,2017 21:34:52 [Verification]  Verified that [Element - Graphic] is present in the dropdown 'Element' Asset Type Drop Down</span>
+<span style="color:green;">Mar 26,2017 21:34:52 [Verification]  Verified that [Element - Animation] is present in the dropdown 'Element' Asset Type Drop Down</span>
+<span style="color:green;">Mar 26,2017 21:34:52 [Verification]  Verified that [Element - Product Placement] is present in the dropdown 'Element' Asset Type Drop Down</span>
+<span style="color:green;">Mar 26,2017 21:34:52 [Verification]  Verified that [Element - Poster] is present in the dropdown 'Element' Asset Type Drop Down</span>
+<span style="color:green;">Mar 26,2017 21:34:52 [Verification]  Verified that [Element - Likeness] is present in the dropdown 'Element' Asset Type Drop Down</span>
+<span style="color:green;">Mar 26,2017 21:34:52 [Verification]  Verified that [Element - Image] is present in the dropdown 'Element' Asset Type Drop Down</span>
+<span style="color:green;">Mar 26,2017 21:34:52 [Verification]  Verified that [Element - Music] is present in the dropdown 'Element' Asset Type Drop Down</span>
+Mar 26,2017 21:34:52 [Info]  Clicked on the 'New Button' using JS Executor
+Mar 26,2017 21:34:52 [Info]  Clicked on the 'Program' using JS Executor
+Mar 26,2017 21:35:01 [Info]  Clicked on the 'General TAB'
+Mar 26,2017 21:35:02 [Info]  Verify The data of Asset Type
+<span style="color:green;">Mar 26,2017 21:35:02 [Verification]  Verified that Expected value :[*Asset Type] is matched with Actual value :[*Asset Type]</span>
+Mar 26,2017 21:35:02 [Info]  Verify The data of Asset Category/Group
+<span style="color:green;">Mar 26,2017 21:35:02 [Verification]  Verified that Expected value :[Asset Category] is matched with Actual value :[Asset Category]</span>
+Mar 26,2017 21:35:02 [Info]  Verify The data of Asset Title
+<span style="color:green;">Mar 26,2017 21:35:02 [Verification]  Verified that Expected value :[*Asset Title] is matched with Actual value :[*Asset Title]</span>
+Mar 26,2017 21:35:02 [Info]  Verify The data of IP Name
+<span style="color:green;">Mar 26,2017 21:35:02 [Verification]  Verified that Expected value :[IP Name] is matched with Actual value :[IP Name]</span>
+Mar 26,2017 21:35:03 [Info]  Verify The data of Project ID
+<span style="color:green;">Mar 26,2017 21:35:03 [Verification]  Verified that Expected value :[Project ID] is matched with Actual value :[Project ID]</span>
+Mar 26,2017 21:35:03 [Info]  Verify The data of Series Title
+<span style="color:green;">Mar 26,2017 21:35:03 [Verification]  Verified that Expected value :[Series Title] is matched with Actual value :[Series Title]</span>
+Mar 26,2017 21:35:03 [Info]  Verify The data of Vendor
+<span style="color:green;">Mar 26,2017 21:35:03 [Verification]  Verified that Expected value :[*Vendor] is matched with Actual value :[*Vendor]</span>
+Mar 26,2017 21:35:03 [Info]  Verify The data of Studio
+<span style="color:green;">Mar 26,2017 21:35:03 [Verification]  Verified that Expected value :[Vendor 2] is matched with Actual value :[Vendor 2]</span>
+Mar 26,2017 21:35:04 [Info]  Verify The data of SourceBusinessUnit
+<span style="color:green;">Mar 26,2017 21:35:04 [Verification]  Verified that Expected value :[*Source Business Unit] is matched with Actual value :[*Source Business Unit]</span>
+Mar 26,2017 21:35:04 [Info]  Verify The data of Duration
+<span style="color:green;">Mar 26,2017 21:35:04 [Verification]  Verified that Expected value :[Duration] is matched with Actual value :[Duration]</span>
+Mar 26,2017 21:35:04 [Info]  Verify The data of ShortName
+<span style="color:green;">Mar 26,2017 21:35:04 [Verification]  Verified that Expected value :[Short Name] is matched with Actual value :[Short Name]</span>
+Mar 26,2017 21:35:04 [Info]  Verify The data of AssetStatusLabel
+<span style="color:green;">Mar 26,2017 21:35:04 [Verification]  Verified that Expected value :[Asset Status] is matched with Actual value :[Asset Status]</span>
+Mar 26,2017 21:35:05 [Info]  Verify The data of Asset Source
+<span style="color:green;">Mar 26,2017 21:35:05 [Verification]  Verified that Expected value :[*Asset Source] is matched with Actual value :[*Asset Source]</span>
+Mar 26,2017 21:35:05 [Info]  Verify The data of Internal CheckBox
+<span style="color:green;">Mar 26,2017 21:35:05 [Verification]  Verified that Expected value :[Internal] is matched with Actual value :[Internal]</span>
+Mar 26,2017 21:35:05 [Info]  Verify The data of NonAirable CheckBox
+<span style="color:green;">Mar 26,2017 21:35:05 [Verification]  Verified that Expected value :[Non-Airable] is matched with Actual value :[Non-Airable]</span>
+Mar 26,2017 21:35:05 [Info]  Verify The data of TBA CheckBox
+<span style="color:green;">Mar 26,2017 21:35:05 [Verification]  Verified that Expected value :[TBA] is matched with Actual value :[TBA]</span>
+Mar 26,2017 21:35:06 [Info]  Drop Down values of 'Program' Asset Type Drop Down are: 
+Mar 26,2017 21:35:06 [Info]  Actual Drop Down Values are: 
+[Program - One-Off, Program - Series, Program - Franchise, Program - Special, Program - Demo, Program - Documentary, Program - Pilot, Program - Mini-Series, Program - Package, Program - Made for TV, Program - Interstitial, Program - Music Performance]
+Mar 26,2017 21:35:06 [Info]  Expected Drop Down Values are: 
+[Program - One-Off, Program - Series, Program - Franchise, Program - Special, Program - Demo, Program - Documentary, Program - Pilot, Program - Mini-Series, Program - Package, Program - Made for TV, Program - Interstitial, Program - Music Performance]
+Mar 26,2017 21:35:06 [Info]  Total Number of Dropdown Valus in 'Program' Asset Type Drop Down:12
+<span style="color:green;">Mar 26,2017 21:35:06 [Verification]  Verified that [Program - One-Off] is present in the dropdown 'Program' Asset Type Drop Down</span>
+<span style="color:green;">Mar 26,2017 21:35:06 [Verification]  Verified that [Program - Series] is present in the dropdown 'Program' Asset Type Drop Down</span>
+<span style="color:green;">Mar 26,2017 21:35:06 [Verification]  Verified that [Program - Franchise] is present in the dropdown 'Program' Asset Type Drop Down</span>
+<span style="color:green;">Mar 26,2017 21:35:06 [Verification]  Verified that [Program - Special] is present in the dropdown 'Program' Asset Type Drop Down</span>
+<span style="color:green;">Mar 26,2017 21:35:06 [Verification]  Verified that [Program - Demo] is present in the dropdown 'Program' Asset Type Drop Down</span>
+<span style="color:green;">Mar 26,2017 21:35:06 [Verification]  Verified that [Program - Documentary] is present in the dropdown 'Program' Asset Type Drop Down</span>
+<span style="color:green;">Mar 26,2017 21:35:06 [Verification]  Verified that [Program - Pilot] is present in the dropdown 'Program' Asset Type Drop Down</span>
+<span style="color:green;">Mar 26,2017 21:35:06 [Verification]  Verified that [Program - Mini-Series] is present in the dropdown 'Program' Asset Type Drop Down</span>
+<span style="color:green;">Mar 26,2017 21:35:06 [Verification]  Verified that [Program - Package] is present in the dropdown 'Program' Asset Type Drop Down</span>
+<span style="color:green;">Mar 26,2017 21:35:06 [Verification]  Verified that [Program - Made for TV] is present in the dropdown 'Program' Asset Type Drop Down</span>
+<span style="color:green;">Mar 26,2017 21:35:06 [Verification]  Verified that [Program - Interstitial] is present in the dropdown 'Program' Asset Type Drop Down</span>
+<span style="color:green;">Mar 26,2017 21:35:06 [Verification]  Verified that [Program - Music Performance] is present in the dropdown 'Program' Asset Type Drop Down</span>
+Mar 26,2017 21:35:07 [Info]  Generated Asset Id is 209171
+Mar 26,2017 21:35:07 [Info]  Clicked on the 'Save Button' using JS Executor
+Mar 26,2017 21:35:21 [Info]  Verify The data of AssertCreationValidationMessage
+<span style="color:green;">Mar 26,2017 21:35:21 [Verification]  Verified that Expected value :[Please enter values for required(*) fields.] is matched with Actual value :[Please enter values for required(*) fields.]</span>
+Mar 26,2017 21:35:23 [Info]  Selected "Program - Series" in "Asset Type Drop Down" drop down
+Mar 26,2017 21:35:33 [Info]  Entered "AUT_AssetSeries_0326201793408" in field 'AssetTitle'
+Mar 26,2017 21:35:33 [Info]  Clicked on the 'IPImageIcon' using JS Executor
+Mar 26,2017 21:35:35 [Info]  Clicked on the 'Find Button' using JS Executor
+Mar 26,2017 21:35:39 [Info]  Clicked on the 'loc_IPName_AT_IPWindow'
+Mar 26,2017 21:35:39 [Info]  Clicked on the 'IP Select Button' using JS Executor
+Mar 26,2017 21:35:40 [Info]  Clicked on the 'IPImageIcon' using JS Executor
+Mar 26,2017 21:35:44 [Info]  Verify The data of IP Window Header
+<span style="color:red;">Mar 26,2017 21:35:44 [Fail]  ====Failed==== Expected value is:[Select IP Name] but Actual value is[]. Please check the screenshot with name: IP Window Headerfor more details</span>
+Mar 26,2017 21:35:45 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\26\IPWindowHeader_CheckpointFailure_03-26-2017 9-35-44 PM.jpg
+Mar 26,2017 21:35:46 [Info]  Entered "AUT_IP_1" in field 'IPfield'
+Mar 26,2017 21:35:46 [Info]  Clicked on the 'IPWindowButtonfind' using JS Executor
+<span style="color:red;">Mar 26,2017 21:35:47 [Fail]  ====Failed==== "Searched IP Name" field is not present'</span>
+Mar 26,2017 21:35:47 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\26\SearchedIPName_CheckpointFailure_03-26-2017 9-35-47 PM.jpg
+Mar 26,2017 21:35:48 [Info]  Clicked on the 'IPSelectButton' using JS Executor
+Mar 26,2017 21:35:52 [Info]  Verify The data of IP Field
+<span style="color:green;">Mar 26,2017 21:35:52 [Verification]  Verified that Expected value :[AUT_IP_1] is matched with Actual value :[AUT_IP_1]</span>
+Mar 26,2017 21:35:52 [Info]  Clicked on the 'IP Clear' using JS Executor
+Mar 26,2017 21:35:53 [Info]  Verify The data of Validation Messge while clear the IP Field
+<span style="color:green;">Mar 26,2017 21:35:53 [Verification]  Verified that Expected value :[Are you sure you want to clear the field value?] is matched with Actual value :[Are you sure you want to clear the field value?]</span>
+Mar 26,2017 21:35:53 [Info]  Clicked on the 'Confirm Alert Ok' using JS Executor
+Mar 26,2017 21:35:59 [Info]  Clicked on the 'IPImageIcon' using JS Executor
+Mar 26,2017 21:36:01 [Info]  Entered "AUT_IP_1" in field 'IP field'
+Mar 26,2017 21:36:01 [Info]  Clicked on the 'IPWindowButtonfind' using JS Executor
+Mar 26,2017 21:36:06 [Info]  Clicked on the 'IPNameAtIPWindow'
+Mar 26,2017 21:36:06 [Info]  Clicked on the 'IPSelectButton' using JS Executor
+
+<span style="color:blue;"> [Manual Test Step] : TC_AM_GT_038</span>
+Mar 26,2017 21:36:07 [Info]  Verify The data of Vendor field is noteditable
+<span style="color:green;">Mar 26,2017 21:36:07 [Verification]  Verified that Expected value :[true] is matched with Actual value :[true]</span>
+Mar 26,2017 21:36:07 [Info]  Clicked on the 'Vendor Img Icon' using JS Executor
+Mar 26,2017 21:36:09 [Info]  Entered "AUT_AMCN_Vendor1" in field 'SearchvalueVendor'
+Mar 26,2017 21:36:11 [Info]  Clicked on the 'VendorWindowButtonfind' using JS Executor
+Mar 26,2017 21:36:25 [Info]  Test 'TC1_AssetCreationTest' FAILED
+Mar 26,2017 21:36:25 [Info]  2
+Mar 26,2017 21:36:25 [Info]  Test Case :TC1_AssetCreationTest's Screenshot of Failure Page: 
+C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\26\TC1_AssetCreationTest_03-26-2017 9-36-25 PM.jpg
+Mar 26,2017 21:37:00 [Info]  Closed the Browser
+Mar 26,2017 21:37:00 [Info]  *********************Started Executing 'TC2_ProgramSummary' Test Case*********************
+Mar 26,2017 21:37:09 [Info]  Client: AMCN
+Mar 26,2017 21:37:09 [Info]  URL: http://rlv2wb79/login.aspx
+Mar 26,2017 21:37:09 [Info]  UserName: admin
+Mar 26,2017 21:37:09 [Info]  Password: admin
+Mar 26,2017 21:37:10 [Info]  Entered "admin" in field 'User Name'
+Mar 26,2017 21:37:11 [Info]  Clicked on the 'Temporary Check Box'
+Mar 26,2017 21:37:11 [Info]  Entered "admin" in field 'Password'
+Mar 26,2017 21:37:18 [Info]  Clicked on the 'LoginButton'
+Mar 26,2017 21:37:34 [Info]  Clicked on the 'MODULE'
+Mar 26,2017 21:37:43 [Info]  Clicked on the 'Asset Maintenance'
+<span style="color:red;">Mar 26,2017 21:38:03 [Fail]  ====Failed==== "AUT_AssetSeries_0326201793408AssetName" field is not present'</span>
+Mar 26,2017 21:38:03 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\26\AUT_AssetSeries_0326201793408AssetName_CheckpointFailure_03-26-2017 9-38-03 PM.jpg
+Mar 26,2017 21:38:04 [Info]  *******************Program Summary*******************
+Mar 26,2017 21:38:17 [Info]  Verify The data of Program Summary Header
+<span style="color:red;">Mar 26,2017 21:38:17 [Fail]  ====Failed==== Expected value is:[Program Summary] but Actual value is[]. Please check the screenshot with name: Program Summary Headerfor more details</span>
+Mar 26,2017 21:38:17 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\26\ProgramSummaryHeader_CheckpointFailure_03-26-2017 9-38-17 PM.jpg
+Mar 26,2017 21:38:27 [Info]  =====Source Id is===== No element is present on Web Page (DriverHelper.getAttribute())
+Mar 26,2017 21:38:38 [Info]  Verify The data of Asset Type at Program Summary
+<span style="color:red;">Mar 26,2017 21:38:38 [Fail]  ====Failed==== Expected value is:[Licensed Acquired] but Actual value is[]. Please check the screenshot with name: Asset Type at Program Summaryfor more details</span>
+Mar 26,2017 21:38:38 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\26\AssetTypeatProgramSummary_CheckpointFailure_03-26-2017 9-38-38 PM.jpg
+Mar 26,2017 21:38:38 [Info]  Test 'TC2_ProgramSummary' PASSED
+Mar 26,2017 21:38:38 [Info]  Closed the Browser
+Mar 26,2017 21:38:38 [Info]  *********************Started Executing 'TC3_VerifyProgSum' Test Case*********************
+Mar 26,2017 21:38:47 [Info]  Client: AMCN
+Mar 26,2017 21:38:47 [Info]  URL: http://rlv2wb79/login.aspx
+Mar 26,2017 21:38:47 [Info]  UserName: admin
+Mar 26,2017 21:38:47 [Info]  Password: admin
+Mar 26,2017 21:38:48 [Info]  Entered "admin" in field 'User Name'
+Mar 26,2017 21:38:48 [Info]  Clicked on the 'Temporary Check Box'
+Mar 26,2017 21:38:48 [Info]  Entered "admin" in field 'Password'
+Mar 26,2017 21:38:55 [Info]  Clicked on the 'LoginButton'
+Mar 26,2017 21:39:12 [Info]  Clicked on the 'MODULE'
+Mar 26,2017 21:39:20 [Info]  Clicked on the 'Asset Maintenance'
+Mar 26,2017 21:39:30 [Info]  *************Checking Totals Hrs is updated with Episodes time*******************
+Mar 26,2017 21:39:40 [Info]  Clicked on the 'MODULE'
+Mar 26,2017 21:39:49 [Info]  Clicked on the 'Asset Maintenance'
+<span style="color:red;">Mar 26,2017 21:40:09 [Fail]  ====Failed==== "AUT_AssetSeries_0326201793408AssetName" field is not present'</span>
+Mar 26,2017 21:40:09 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\26\AUT_AssetSeries_0326201793408AssetName_CheckpointFailure_03-26-2017 9-40-09 PM.jpg
+Mar 26,2017 21:40:20 [Info]  ======Total Hrs shown in Program Summary is===== No element is present on Web Page (DriverHelper.getAttribute())
+Mar 26,2017 21:40:20 [Info]  Test 'TC3_VerifyProgSum' PASSED
+Mar 26,2017 21:40:21 [Info]  Closed the Browser
+Mar 26,2017 21:40:21 [Info]  *********************Started Executing 'TC4_ChangeAssetSubType' Test Case*********************
+Mar 26,2017 21:40:29 [Info]  Client: AMCN
+Mar 26,2017 21:40:29 [Info]  URL: http://rlv2wb79/login.aspx
+Mar 26,2017 21:40:29 [Info]  UserName: admin
+Mar 26,2017 21:40:29 [Info]  Password: admin
+Mar 26,2017 21:40:30 [Info]  Entered "admin" in field 'User Name'
+Mar 26,2017 21:40:30 [Info]  Clicked on the 'Temporary Check Box'
+Mar 26,2017 21:40:31 [Info]  Entered "admin" in field 'Password'
+Mar 26,2017 21:40:37 [Info]  Clicked on the 'LoginButton'
+Mar 26,2017 21:40:43 [Info]  **************Started Creating Movie Asset**************
+Mar 26,2017 21:40:54 [Info]  Clicked on the 'MODULE'
+Mar 26,2017 21:41:02 [Info]  Clicked on the 'Asset Maintenance'
+Mar 26,2017 21:41:13 [Info]  Clicked on the 'New Button' using JS Executor
+Mar 26,2017 21:41:13 [Info]  Clicked on the 'Program' using JS Executor
+Mar 26,2017 21:41:22 [Info]  Clicked on the 'General TAB'
+Mar 26,2017 21:41:22 [Info]  Selected "Program - One-Off" in "AssetTypeDropDown" drop down
+Mar 26,2017 21:41:23 [Info]  Clicked on the 'IPImageIcon' using JS Executor
+Mar 26,2017 21:41:24 [Info]  Clicked on the 'Find Button' using JS Executor
+Mar 26,2017 21:41:28 [Info]  Clicked on the 'loc_IPName_AT_IPWindow'
+Mar 26,2017 21:41:28 [Info]  Clicked on the 'IP Select Button' using JS Executor
+Mar 26,2017 21:41:30 [Info]  Entered "AUT_Assetmovie_0326201794043" in field 'AssetTitle'
+Mar 26,2017 21:41:30 [Info]  Clicked on the 'Vendor Img Icon' using JS Executor
+Mar 26,2017 21:41:33 [Info]  Entered "AUT_AMCN_Vendor1" in field 'SearchvalueVendor'
+Mar 26,2017 21:41:35 [Info]  Clicked on the 'VendorWindowButtonfind' using JS Executor
+Mar 26,2017 21:41:40 [Info]  Clicked on the 'VendorName At VendorWindow'
+Mar 26,2017 21:41:40 [Info]  Clicked on the 'Vendor Select Button' using JS Executor
+Mar 26,2017 21:41:43 [Info]  Verify The data of Vendor1
+<span style="color:green;">Mar 26,2017 21:41:43 [Verification]  Verified that Expected value :[AUT_AMCN_Vendor1] is matched with Actual value :[AUT_AMCN_Vendor1]</span>
+Mar 26,2017 21:41:44 [Info]  Clicked on the 'StudioImageIcon' using JS Executor
+Mar 26,2017 21:41:46 [Info]  Entered "AUT_AMCN_Studio" in field 'Studio Name'
+Mar 26,2017 21:41:46 [Info]  Clicked on the 'Find Button' using JS Executor
+Mar 26,2017 21:41:53 [Info]  Clicked on the 'VendorName At VendorWindow'
+Mar 26,2017 21:41:53 [Info]  Clicked on the 'Vendor Select Button' using JS Executor
+Mar 26,2017 21:41:57 [Info]  Verify The data of Studio/Vendor2
+<span style="color:green;">Mar 26,2017 21:41:57 [Verification]  Verified that Expected value :[AUT_AMCN_Studio] is matched with Actual value :[AUT_AMCN_Studio]</span>
+Mar 26,2017 21:41:57 [Info]  Clicked on the 'SBUImage' using JS Executor
+Mar 26,2017 21:42:05 [Info]  Clicked on the 'First CheckBox At SBU window'
+Mar 26,2017 21:42:07 [Info]  Clicked on the 'Apply Button' using JS Executor
+Mar 26,2017 21:42:08 [Info]  Entered "11:11:11" in field 'Duration'
+Mar 26,2017 21:42:09 [Info]  Selected "Production" in "Asset Status" drop down
+Mar 26,2017 21:42:09 [Info]  Selected "Licensed Acquired" in "Asset Source" drop down
+Mar 26,2017 21:42:09 [Info]  Selected "TBD" in "Asset Category/Group" drop down
+Mar 26,2017 21:42:10 [Info]  Entered "AUT_Series" in field 'Short Name'
+Mar 26,2017 21:42:11 [Info]  Entered "Test" in field 'ProjectID'
+Mar 26,2017 21:42:11 [Info]  Clicked on the 'Genre Add Button' using JS Executor
+Mar 26,2017 21:42:15 [Info]  Clicked on the '' using JS Executor
+Mar 26,2017 21:42:16 [Info]  Clicked on the 'Genere Type Dropdown Image'
+Mar 26,2017 21:42:16 [Info]  Clicked on the 'First Genere Type DropDown Value in the list'
+Mar 26,2017 21:42:16 [Info]  Clicked on the '' using JS Executor
+Mar 26,2017 21:42:17 [Info]  Clicked on the 'Genere Dropdown Image'
+Mar 26,2017 21:42:17 [Info]  Clicked on the 'Genere Dropdown value'
+Mar 26,2017 21:42:22 [Info]  Clicked on the 'Add Button of Note' using JS Executor
+<span style="color:red;">Mar 26,2017 21:42:33 [Fail]  ====Failed==== " Could not find the Frame: div[id*='WebDialogWindow2'][style*=visible]</span>
+<span style="color:red;">Mar 26,2017 21:42:33 [Fail]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\26\FrameSwitchingFailed0_CheckpointFailure_03-26-2017 9-42-33 PM.jpg</span>
+<span style="color:red;">Mar 26,2017 21:42:45 [Fail]  ====Failed==== "Asset Priority" field is not present'Asset Priority'</span>
+Mar 26,2017 21:42:45 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\26\AssetPriority_CheckpointFailure_03-26-2017 9-42-45 PM.jpg
+<span style="color:red;">Mar 26,2017 21:42:55 [Fail]  ====Failed==== "Asset Subject" field is not present'Asset Subject'</span>
+Mar 26,2017 21:42:56 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\26\AssetSubject_CheckpointFailure_03-26-2017 9-42-55 PM.jpg
+<span style="color:red;">Mar 26,2017 21:43:06 [Fail]  ====Failed==== "AssetNotes TextField" field is not present'AssetNotes TextField'</span>
+Mar 26,2017 21:43:06 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\26\AssetNotesTextField_CheckpointFailure_03-26-2017 9-43-06 PM.jpg
+<span style="color:red;">Mar 26,2017 21:43:16 [Fail]  ====Failed==== "OK button" field is not present'</span>
+Mar 26,2017 21:43:16 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\26\OKbutton_CheckpointFailure_03-26-2017 9-43-16 PM.jpg
+Mar 26,2017 21:43:19 [Info]  Clicked on the 'Save Button' using JS Executor
+Mar 26,2017 21:43:31 [Info]  Verify The data of Created AssetAUT_Assetmovie_0326201794043
+<span style="color:green;">Mar 26,2017 21:43:31 [Verification]  Verified that Expected value :[AUT_Assetmovie_0326201794043] is matched with Actual value :[AUT_Assetmovie_0326201794043]</span>
+Mar 26,2017 21:43:31 [Info]  **************Changing the Asset Type from 'Program - One-Off' to 'Program - Special'**************
+
+<span style="color:blue;"> [Manual Test Step] : TC_AM_GT_004</span>
+Mar 26,2017 21:43:41 [Info]  Clicked on the 'MODULE'
+Mar 26,2017 21:43:44 [Info]  Clicked on the 'Asset Maintenance'
+Mar 26,2017 21:44:11 [Info]  Clicked on the 'MODULE'
+Mar 26,2017 21:44:14 [Info]  Clicked on the 'Asset Maintenance'
+Mar 26,2017 21:44:25 [Info]  Double clicked on 'AUT_Assetmovie_0326201794043AssetName'
+Mar 26,2017 21:44:29 [Info]  Selected "Program - Special" in "Asset Type" drop down
+Mar 26,2017 21:44:29 [Info]  Verify The data of Validation Messge changing the Asset Type
+<span style="color:red;">Mar 26,2017 21:44:29 [Fail]  ====Failed==== Expected value is:[You are changing the title subtype. Data that is not relevant to the new subtype Assignment will be deleted. You cannot undo this change.] but Actual value is[You are changing the Asset subtype. Data that is not relevant to the new subtype Assignment will be deleted. You cannot undo this change.]. Please check the screenshot with name: Validation Messge changing the Asset Typefor more details</span>
+Mar 26,2017 21:44:30 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\26\ValidationMessgechangingtheAssetType_CheckpointFailure_03-26-2017 9-44-29 PM.jpg
+Mar 26,2017 21:44:30 [Info]  Clicked on the 'Confirm Alert Ok' using JS Executor
+Mar 26,2017 21:44:34 [Info]  Clicked on the 'Save Button' using JS Executor
+<span style="color:green;">Mar 26,2017 21:44:41 [Verification]  Verified that Expected value :[Program - Special] is matched with Actual value :[Program - Special]</span>
+<span style="color:green;">Mar 26,2017 21:44:41 [Verification]  Verified that the subtupe of Movie Asset: AUT_Assetmovie_0326201794043 is changed from 'Program - One-Off' to 'Program - Special' successfully</span>
+Mar 26,2017 21:44:41 [Info]  **************Started Creating Element Asset**************
+Mar 26,2017 21:44:52 [Info]  Clicked on the 'MODULE'
+Mar 26,2017 21:44:55 [Info]  Clicked on the 'Asset Maintenance'
+Mar 26,2017 21:45:06 [Info]  Clicked on the 'New Button' using JS Executor
+Mar 26,2017 21:45:06 [Info]  Clicked on the 'Element' using JS Executor
+Mar 26,2017 21:45:14 [Info]  Clicked on the 'General TAB'
+Mar 26,2017 21:45:17 [Info]  Selected "Element - Music" in "AssetTypeDropDown" drop down
+Mar 26,2017 21:45:23 [Info]  Clicked on the 'Asset Title Field'
+Mar 26,2017 21:45:24 [Info]  Entered "AUT_AssetEle_0326201794043" in field 'AssetTitle'
+Mar 26,2017 21:45:25 [Info]  Clicked on the 'Vendor Img Icon' using JS Executor
+<span style="color:red;">Mar 26,2017 21:45:35 [Fail]  ====Failed==== "SearchvalueVendor" field is not present'SearchvalueVendor'</span>
+Mar 26,2017 21:45:35 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\26\SearchvalueVendor_CheckpointFailure_03-26-2017 9-45-35 PM.jpg
+<span style="color:red;">Mar 26,2017 21:45:47 [Fail]  ====Failed==== "VendorWindowButtonfind" field is not present'</span>
+Mar 26,2017 21:45:47 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\26\VendorWindowButtonfind_CheckpointFailure_03-26-2017 9-45-47 PM.jpg
+Mar 26,2017 21:48:01 [Info]  Clicked on the 'OK Button at Alert' using JS Executor
+<span style="color:red;">Mar 26,2017 21:48:12 [Fail]  ====Failed==== "Add Button at Vendor Add Window" field is not present'</span>
+Mar 26,2017 21:48:12 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\26\AddButtonatVendorAddWindow_CheckpointFailure_03-26-2017 9-48-12 PM.jpg
+<span style="color:red;">Mar 26,2017 21:48:22 [Fail]  ====Failed==== " Could not find the Frame: div[id*='WebDialogWindow2'][style*=visible]</span>
+<span style="color:red;">Mar 26,2017 21:48:22 [Fail]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\26\FrameSwitchingFailed1_CheckpointFailure_03-26-2017 9-48-22 PM.jpg</span>
+Mar 26,2017 21:48:22 [Info]  Unable to find element with css selector == div[id*='WebDialogWindow2'][style*=visible] (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.16 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: '9P4G6BS', ip: '10.10.22.71', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=true, ie.forceCreateProcessApi=false, pageLoadStrategy=normal, ie.usePerProcessProxy=false, ignoreZoomSetting=false, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=false, browserName=internet explorer, initialBrowserUrl=http://localhost:18031/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=false, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: 94cd79b7-b6f6-49b5-b03a-7aa78e809353
+*** Element info: {Using=css selector, value=div[id*='WebDialogWindow2'][style*=visible]}
+Mar 26,2017 21:48:32 [Info]  Test 'TC4_ChangeAssetSubType' FAILED
+Mar 26,2017 21:48:32 [Info]  2
+Mar 26,2017 21:48:32 [Info]  Test Case :TC4_ChangeAssetSubType's Screenshot of Failure Page: 
+C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\26\TC4_ChangeAssetSubType_03-26-2017 9-48-32 PM.jpg
+Mar 26,2017 21:48:39 [Info]  Closed the Browser
+Mar 26,2017 21:48:39 [Info]  *********************Started Executing 'TC5_InternalDealforSeriesassets' Test Case*********************
+Mar 26,2017 21:48:47 [Info]  Client: AMCN
+Mar 26,2017 21:48:47 [Info]  URL: http://rlv2wb79/login.aspx
+Mar 26,2017 21:48:47 [Info]  UserName: admin
+Mar 26,2017 21:48:47 [Info]  Password: admin
+Mar 26,2017 21:48:48 [Info]  Entered "admin" in field 'User Name'
+Mar 26,2017 21:48:48 [Info]  Clicked on the 'Temporary Check Box'
+Mar 26,2017 21:48:49 [Info]  Entered "admin" in field 'Password'
+Mar 26,2017 21:48:56 [Info]  Clicked on the 'LoginButton'
+Mar 26,2017 21:49:12 [Info]  Clicked on the 'MODULE'
+Mar 26,2017 21:49:21 [Info]  Clicked on the 'Asset Maintenance'
+Mar 26,2017 21:49:31 [Info]  Clicked on the 'New Button' using JS Executor
+Mar 26,2017 21:49:32 [Info]  Clicked on the 'Program' using JS Executor
+Mar 26,2017 21:49:40 [Info]  Clicked on the 'General TAB'
+Mar 26,2017 21:49:42 [Info]  Selected "Program - Series" in "AssetTypeDropDown" drop down
+Mar 26,2017 21:49:49 [Info]  Entered "AUT_AssetSeries_0326201794902" in field 'AssetTitle'
+Mar 26,2017 21:49:49 [Info]  Selected "TBD" in "Asset Category/Group" drop down
+Mar 26,2017 21:49:50 [Info]  Clicked on the 'Vendor Img Icon' using JS Executor
+Mar 26,2017 21:49:52 [Info]  Entered "AUT_AMCN_Vendor1" in field 'SearchvalueVendor'
+Mar 26,2017 21:49:54 [Info]  Clicked on the 'VendorWindowButtonfind' using JS Executor
+Mar 26,2017 21:49:59 [Info]  Clicked on the 'VendorName At VendorWindow'
+Mar 26,2017 21:49:59 [Info]  Clicked on the 'Vendor Select Button' using JS Executor
+Mar 26,2017 21:50:03 [Info]  Verify The data of Vendor1
+<span style="color:green;">Mar 26,2017 21:50:03 [Verification]  Verified that Expected value :[AUT_AMCN_Vendor1] is matched with Actual value :[AUT_AMCN_Vendor1]</span>
+Mar 26,2017 21:50:03 [Info]  Clicked on the 'SBUImage' using JS Executor
+Mar 26,2017 21:50:11 [Info]  Clicked on the 'First CheckBox At SBU window'
+Mar 26,2017 21:50:13 [Info]  Clicked on the 'Apply Button' using JS Executor
+Mar 26,2017 21:50:14 [Info]  Clicked on the 'IPImageIcon' using JS Executor
+Mar 26,2017 21:50:15 [Info]  Clicked on the 'Find Button' using JS Executor
+Mar 26,2017 21:50:19 [Info]  Clicked on the 'loc_IPName_AT_IPWindow'
+Mar 26,2017 21:50:19 [Info]  Clicked on the 'IP Select Button' using JS Executor
+Mar 26,2017 21:50:20 [Info]  Entered "11:11:11" in field 'Duration'
+Mar 26,2017 21:50:20 [Info]  Selected "Production" in "Asset Status" drop down
+<span style="color:red;">Mar 26,2017 21:50:30 [Fail]  ====Failed==== "" is not present in 'Asset SourceDrop Down'</span>
+Mar 26,2017 21:50:31 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\26\AssetSource_CheckpointFailure_03-26-2017 9-50-30 PM.jpg
+Mar 26,2017 21:50:31 [Info]  Clicked on the 'SBUImage' using JS Executor
+Mar 26,2017 21:50:38 [Info]  Clicked on the 'First CheckBox At SBU window'
+Mar 26,2017 21:50:40 [Info]  Clicked on the 'Apply Button' using JS Executor
+<span style="color:red;">Mar 26,2017 21:50:50 [Fail]  ====Failed==== "CheckInternalCheckBox" field is not present'</span>
+Mar 26,2017 21:50:50 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\26\CheckInternalCheckBox_CheckpointFailure_03-26-2017 9-50-50 PM.jpg
+<span style="color:red;">Mar 26,2017 21:51:01 [Fail]  ====Failed==== "Short Name" field is not present'Short Name'</span>
+Mar 26,2017 21:51:01 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\26\ShortName_CheckpointFailure_03-26-2017 9-51-01 PM.jpg
+<span style="color:red;">Mar 26,2017 21:51:11 [Fail]  ====Failed==== "Save Button" field is not present'</span>
+Mar 26,2017 21:51:11 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\26\SaveButton_CheckpointFailure_03-26-2017 9-51-11 PM.jpg
+Mar 26,2017 21:51:12 [Info]  Verify The data of Created Asset
+<span style="color:red;">Mar 26,2017 21:51:12 [Fail]  ====Failed==== Expected value is:[AUT_AssetSeries_0326201794902] but Actual value is[]. Please check the screenshot with name: Created Assetfor more details</span>
+Mar 26,2017 21:51:12 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\26\CreatedAsset_CheckpointFailure_03-26-2017 9-51-12 PM.jpg
+Mar 26,2017 21:51:12 [Info]  check box not freeze. 
+Mar 26,2017 21:51:14 [Info]  Clicked on the 'Modules'
+Mar 26,2017 21:51:15 [Info]  Clicked on the 'Modules'
+Mar 26,2017 21:51:21 [Info]  Clicked on the 'RightsIN'
+
+<span style="color:blue;"> [Manual Test Step] : TC_AM_GT_012</span>
+Mar 26,2017 21:51:24 [Info]  Clicked on the 'Modules'
+Mar 26,2017 21:51:24 [Info]  Clicked on the 'Modules'
+Mar 26,2017 21:51:31 [Info]  Clicked on the 'RightsIN'
+Mar 26,2017 21:51:31 [Info]  Clicked on the 'Search Icon' using JS Executor

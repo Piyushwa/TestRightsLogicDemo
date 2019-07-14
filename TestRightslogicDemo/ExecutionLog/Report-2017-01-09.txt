@@ -1,0 +1,175 @@
+Jan 09,2017 17:43:41 [info]  ********************Started Executiong the Test Suite at 17:43:41******************
+Jan 09,2017 17:43:41 [info]  Client: VMN
+Jan 09,2017 17:43:41 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Jan 09,2017 17:43:41 [info]  *********************Started Executing 'createData' Test Case*********************
+Jan 09,2017 17:43:52 [info]  Client: VMN
+Jan 09,2017 17:43:52 [info]  URL: http://rlv3wb53/login.aspx
+Jan 09,2017 17:43:52 [info]  UserName: admin
+Jan 09,2017 17:43:52 [info]  Password: admin
+Jan 09,2017 17:43:53 [info]  Entered "admin" in field 'User Name'
+Jan 09,2017 17:43:54 [info]  Clicked on the 'Temporary Check Box'
+Jan 09,2017 17:43:54 [info]  Entered "admin" in field 'Password'
+Jan 09,2017 17:44:04 [info]  Clicked on the 'LoginButton'
+Jan 09,2017 17:44:11 [info]  ************************Started Creating Asset of Type: Program - Series************************
+Jan 09,2017 17:44:15 [info]  Clicked on the 'MODULE'
+Jan 09,2017 17:44:25 [info]  Clicked on the 'Property Entry & Maintenance'
+Jan 09,2017 17:44:32 [info]  Clicked on the 'SearchLink' using JS Executor
+Jan 09,2017 17:44:32 [info]  Clicked on the 'Property Search' using JS Executor
+Jan 09,2017 17:44:43 [info]  Clicked on the 'TR_Asset_Search_Params' using JS Executor
+Jan 09,2017 17:44:44 [info]  Entered "AUT_AssetSeries_TC2_0109201754341" in field 'Asset Title'
+Jan 09,2017 17:44:46 [info]  Clicked on the 'Find Button' using JS Executor
+Jan 09,2017 17:44:57 [info]  Verify The data of Alert Message
+<span style="color:green;">Jan 09,2017 17:44:57 [info]  Verified that Expected value :[No search results were found for this query. Please try again using different criteria.] is matched with Actual value :[No search results were found for this query. Please try again using different criteria.]</span>
+Jan 09,2017 17:44:57 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Jan 09,2017 17:44:57 [info]  Clicked on the 'Ok button At Alert' using JS Executor
+Jan 09,2017 17:45:04 [info]  Clicked on the 'Add Asset Button' using JS Executor
+Jan 09,2017 17:45:08 [info]  Selected "Program" in "AssetTypeDropDown Pop upn VMN" drop down
+Jan 09,2017 17:45:17 [info]  Clicked on the 'OK Button'
+Jan 09,2017 17:45:24 [info]  Asset id is 187193
+Jan 09,2017 17:45:27 [info]  Selected "Program - Series" in "AssetTypeDropDown" drop down
+Jan 09,2017 17:45:38 [info]  Entered "AUT_AssetSeries_TC2_0109201754341" in field 'AssetTitle'
+Jan 09,2017 17:45:39 [info]  Clicked on the 'IPImageIcon' using JS Executor
+Jan 09,2017 17:45:41 [info]  Clicked on the 'Find Button' using JS Executor
+Jan 09,2017 17:45:44 [info]  Clicked on the 'loc_IPName_AT_IPWindow'
+Jan 09,2017 17:45:44 [info]  Clicked on the 'IP Select Button' using JS Executor
+Jan 09,2017 17:45:45 [info]  Clicked on the 'Vendor Img Icon' using JS Executor
+Jan 09,2017 17:45:47 [info]  Entered "AUT_VMN_Vendor1" in field 'SearchvalueVendor'
+Jan 09,2017 17:45:49 [info]  Clicked on the 'VendorWindowButtonfind' using JS Executor
+Jan 09,2017 17:46:03 [info]  Clicked on the 'VendorName At VendorWindow'
+Jan 09,2017 17:46:03 [info]  Clicked on the 'Vendor Select Button' using JS Executor
+Jan 09,2017 17:46:06 [info]  Verify The data of Vendor1
+<span style="color:green;">Jan 09,2017 17:46:06 [info]  Verified that Expected value :[AUT_VMN_Vendor1] is matched with Actual value :[AUT_VMN_Vendor1]</span>
+Jan 09,2017 17:46:07 [info]  Clicked on the 'StudioImageIcon' using JS Executor
+<span style="color:green;">Jan 09,2017 17:46:08 [info]  Verified that Expected value :[Select Copyright Owner] is matched with Actual value :[Select Copyright Owner]</span>
+Jan 09,2017 17:46:10 [info]  Entered "AUT_VMN_Studio" in field 'Studio Name'
+Jan 09,2017 17:46:10 [info]  Clicked on the 'Find Button' using JS Executor
+Jan 09,2017 17:46:25 [info]  Clicked on the 'VendorName At VendorWindow'
+Jan 09,2017 17:46:25 [info]  Clicked on the 'Vendor Select Button' using JS Executor
+Jan 09,2017 17:46:29 [info]  Verify The data of Studio/Vendor2
+<span style="color:green;">Jan 09,2017 17:46:29 [info]  Verified that Expected value :[AUT_VMN_Studio] is matched with Actual value :[AUT_VMN_Studio]</span>
+Jan 09,2017 17:46:29 [info]  Clicked on the 'SBUImage' using JS Executor
+<span style="color:green;">Jan 09,2017 17:46:31 [info]  Verified that Expected value :[Channel / Entity Template] is matched with Actual value :[Channel / Entity Template]</span>
+Jan 09,2017 17:46:37 [info]  Clicked on the 'First CheckBox At SBU window'
+Jan 09,2017 17:46:39 [info]  Clicked on the 'Apply Button' using JS Executor
+Jan 09,2017 17:46:40 [info]  Entered "11:11:11" in field 'Duration'
+Jan 09,2017 17:47:11 [info]  Selected "Active Production" in "Asset Status" drop down
+Jan 09,2017 17:47:11 [info]  Selected "Animated" in "Asset Format" drop down
+Jan 09,2017 17:47:11 [info]  Selected "Co-Production" in "Asset Source" drop down
+Jan 09,2017 17:47:12 [info]  Selected "Television" in "Asset Category/Group" drop down
+Jan 09,2017 17:47:12 [info]  Entered "" in field 'ProjectID'
+Jan 09,2017 17:47:12 [info]  Selected "TBD" in "Client Group" drop down
+Jan 09,2017 17:47:13 [info]  Selected "In Progress" in "PROD Contract Entry/AssetData Status" drop down
+Jan 09,2017 17:47:13 [info]  Clicked on the 'Save Button' using JS Executor
+<span style="color:green;">Jan 09,2017 17:47:42 [info]  Verified that Expected value :[AUT_AssetSeries_TC2_0109201754341] is matched with Actual value :[AUT_AssetSeries_TC2_0109201754341]</span>
+Jan 09,2017 17:47:42 [info]  ************************Created Asset of TypeProgram - Series************************
+Jan 09,2017 17:47:46 [info]  Clicked on the 'MODULE'
+Jan 09,2017 17:47:56 [info]  Clicked on the 'Property Entry & Maintenance'
+Jan 09,2017 17:47:59 [info]  Clicked on the 'Search Icon' using JS Executor
+Jan 09,2017 17:47:59 [info]  Clicked on the 'Property Search' using JS Executor
+Jan 09,2017 17:48:12 [info]  Entered "AUT_AssetSeries_TC2_0109201754341" in field 'AssetTitle'
+Jan 09,2017 17:48:12 [info]  Clicked on the 'Find Button' using JS Executor
+Jan 09,2017 17:48:38 [info]  Moved Mouse over 'First Asset in the Searched Asset'
+Jan 09,2017 17:48:38 [info]  Clicked on the 'First Asset in the Searched Asset'
+Jan 09,2017 17:48:39 [info]  Clicked on the 'First Asset in the Searched Asset'
+Jan 09,2017 17:48:42 [info]  Clicked on the 'View Asset' using JS Executor
+<span style="color:green;">Jan 09,2017 17:48:59 [info]  Verified that Expected value :[AUT_AssetSeries_TC2_0109201754341] is matched with Actual value :[AUT_AssetSeries_TC2_0109201754341]</span>
+Jan 09,2017 17:49:07 [info]  Clicked on the 'Episodes TAB'
+Jan 09,2017 17:49:11 [info]  Clicked on the ''Edit' Button at Episode window' using JS Executor
+Jan 09,2017 17:49:18 [info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Jan 09,2017 17:49:22 [info]  Entered "101" in field 'Add Episode input field'
+Jan 09,2017 17:49:22 [info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Jan 09,2017 17:49:34 [info]  Clicked on the 'Season Field of Episode101' using JS Executor
+Jan 09,2017 17:49:34 [info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Jan 09,2017 17:49:35 [info]  Clicked on the 'Season 1.Original Version'
+Jan 09,2017 17:49:35 [info]  Clicked on the 'Support click to select season'
+Jan 09,2017 17:49:38 [info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Jan 09,2017 17:49:39 [info]  Entered "102" in field 'Add Episode input field'
+Jan 09,2017 17:49:40 [info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Jan 09,2017 17:49:54 [info]  Clicked on the 'Season Field of Episode102' using JS Executor
+Jan 09,2017 17:49:55 [info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Jan 09,2017 17:49:55 [info]  Clicked on the 'Season 1.Original Version'
+Jan 09,2017 17:49:56 [info]  Clicked on the 'Support click to select season'
+Jan 09,2017 17:49:56 [info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Jan 09,2017 17:49:57 [info]  Entered "201" in field 'Add Episode input field'
+Jan 09,2017 17:49:57 [info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Jan 09,2017 17:50:12 [info]  Clicked on the 'Season Field of Episode201' using JS Executor
+Jan 09,2017 17:50:12 [info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Jan 09,2017 17:50:13 [info]  Clicked on the 'Season 2.Original Version'
+Jan 09,2017 17:50:13 [info]  Clicked on the 'Support click to select season'
+Jan 09,2017 17:50:16 [info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Jan 09,2017 17:50:17 [info]  Entered "202" in field 'Add Episode input field'
+Jan 09,2017 17:50:17 [info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Jan 09,2017 17:50:29 [info]  Clicked on the 'Support click to select season'
+Jan 09,2017 17:50:32 [info]  Clicked on the 'Season Field of Episode201' using JS Executor
+Jan 09,2017 17:50:33 [info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Jan 09,2017 17:50:33 [info]  Clicked on the 'Season 2.Original Version'
+Jan 09,2017 17:50:34 [info]  Clicked on the 'Support click to select season'
+Jan 09,2017 17:50:37 [info]  Clicked on the 'Save Button at 'Episode Edit Window'' using JS Executor
+Jan 09,2017 17:50:51 [info]  Clicked on the 'Close Button at 'Episode Edit Window'' using JS Executor
+Jan 09,2017 17:51:17 [info]  Clicked on the 'New Button' using JS Executor
+Jan 09,2017 17:51:17 [info]  Clicked on the 'Standalone Agreement' using JS Executor
+Jan 09,2017 17:51:27 [info]  Generated Deal Id is 29016
+Jan 09,2017 17:51:27 [info]  Clicked on the 'DealTitleField' using JS Executor
+Jan 09,2017 17:51:29 [info]  Entered "AUT_AcquisitionDeal_TC2_0109201754341" in field 'Deal Name Field'
+Jan 09,2017 17:51:30 [info]  Entered "AUT_AcquisitionDeal_TC2_0109201754341_desc" in field 'Deal Description/ContractID'
+Jan 09,2017 17:51:31 [info]  Selected "Program Acquisition/Licensed Original" in "DealType_DropDownField" drop down
+Jan 09,2017 17:51:31 [info]  Entered "Fully Executed" in field 'Deal Creation Contract Status'
+Jan 09,2017 17:51:32 [info]  Entered "Finalized / Approved" in field 'DealCreationCDEStatus'
+Jan 09,2017 17:51:33 [info]  Entered "01/01/2014" in field 'DateExecuted_InputField'
+Jan 09,2017 17:51:39 [info]  Clicked on the 'SBU look up Icon' using JS Executor
+Jan 09,2017 17:51:46 [info]  Clicked on the 'Select All Button at SBU'
+Jan 09,2017 17:51:47 [info]  Clicked on the 'FirstCheckBoxAtSBU'
+Jan 09,2017 17:51:47 [info]  Clicked on the 'NinthCheckBoxAtSBU'
+Jan 09,2017 17:51:48 [info]  Clicked on the 'Apply Button'
+Jan 09,2017 17:51:48 [info]  Clicked on the 'Doc Type look up Icon' using JS Executor
+Jan 09,2017 17:51:55 [info]  Clicked on the 'Select All Button at SBU'
+Jan 09,2017 17:51:56 [info]  Clicked on the 'FirstCheckBoxAtSBU'
+Jan 09,2017 17:51:56 [info]  Clicked on the 'NinthCheckBoxAtSBU'
+Jan 09,2017 17:51:57 [info]  Clicked on the 'Apply Button'
+Jan 09,2017 17:52:00 [info]  Moved Mouse over 'Party_AddButton'
+Jan 09,2017 17:52:01 [info]  Clicked on the 'Party_AddButton'
+Jan 09,2017 17:52:01 [info]  Clicked on the 'PartyPopUp Icon' using JS Executor
+Jan 09,2017 17:52:07 [info]  Entered "AUT_VMN_RI_PRIMARY_PARTY" in field 'Search Party InputField'
+Jan 09,2017 17:52:08 [info]  Double clicked on 'RI Search Party Window Find Button'
+Jan 09,2017 17:52:19 [info]  Clicked on the 'AUT_VMN_RI_PRIMARY_PARTY'
+Jan 09,2017 17:52:20 [info]  Clicked on the 'Select Button'
+Jan 09,2017 17:52:27 [info]  Clicked on the 'Party Type Field' using JS Executor
+Jan 09,2017 17:52:27 [info]  Entered "Primary" in field 'Party Party InputField'
+Jan 09,2017 17:52:28 [info]  Clicked on the 'Support Click '
+Jan 09,2017 17:52:28 [info]  Clicked on the 'Party_AddButton' using JS Executor
+Jan 09,2017 17:52:28 [info]  Clicked on the 'PartyPopUp Icon' using JS Executor
+Jan 09,2017 17:52:36 [info]  Entered "AUT_VMN_RI_LICENSOR_PARTY" in field 'Search Party InputField'
+Jan 09,2017 17:52:37 [info]  Double clicked on 'RI Search Party Window Find Button'
+Jan 09,2017 17:52:53 [info]  Clicked on the 'Select Party'
+Jan 09,2017 17:52:53 [info]  Clicked on the 'Select Button'
+Jan 09,2017 17:53:00 [info]  Clicked on the 'Party Type Field' using JS Executor
+Jan 09,2017 17:53:00 [info]  Entered "Licensor" in field 'Party Party InputField'
+Jan 09,2017 17:53:01 [info]  Clicked on the 'Support Click '
+Jan 09,2017 17:53:04 [info]  Clicked on the 'Save Button' using JS Executor
+Jan 09,2017 17:53:17 [info]  Verify The data of CreatedDeal
+<span style="color:green;">Jan 09,2017 17:53:17 [info]  Verified that Expected value :[AUT_AcquisitionDeal_TC2_0109201754341] is matched with Actual value :[AUT_AcquisitionDeal_TC2_0109201754341]</span>
+Jan 09,2017 17:53:19 [info]  Clicked on the 'Modules'
+Jan 09,2017 17:53:33 [info]  Clicked on the 'RightsIN'
+Jan 09,2017 17:53:33 [info]  Clicked on the 'Search Icon' using JS Executor
+Jan 09,2017 17:53:34 [info]  Clicked on the 'Agreement Link' using JS Executor
+Jan 09,2017 17:53:42 [info]  Entered "AUT_AcquisitionDeal_TC2_0109201754341" in field 'AssetTitle'
+Jan 09,2017 17:53:44 [info]  Clicked on the 'Find Button' using JS Executor
+Jan 09,2017 17:53:52 [info]  Moved Mouse over 'First Asset in the Searched Asset'
+Jan 09,2017 17:53:53 [info]  Clicked on the 'First Asset in the Searched Asset'
+Jan 09,2017 17:53:56 [info]  Clicked on the 'View Asset' using JS Executor
+<span style="color:green;">Jan 09,2017 17:54:10 [info]  Verified that Expected value :[AUT_AcquisitionDeal_TC2_0109201754341] is matched with Actual value :[AUT_AcquisitionDeal_TC2_0109201754341]</span>
+Jan 09,2017 17:54:10 [info]  Clicked on the 'Navigator' using JS Executor
+Jan 09,2017 17:54:17 [info]  Clicked on the 'Deal'
+Jan 09,2017 17:54:17 [info]  Double clicked on 'Associate With Exiting Asset'
+Jan 09,2017 17:54:20 [info]  Clicked on the 'Asset Status'
+Jan 09,2017 17:54:20 [info]  Clicked on the 'Asset tile' using JS Executor
+Jan 09,2017 17:54:22 [info]  Entered "AUT_AssetSeries_TC2_0109201754341" in field 'Asset title'
+<span style="color:red;">Jan 09,2017 17:54:22 [info]  =====BUG ID======: 20309</span>
+Jan 09,2017 17:54:22 [info]  Clicked on the 'Display Season checkBox' using JS Executor
+Jan 09,2017 17:54:22 [info]  Clicked on the 'Search Button' using JS Executor
+Jan 09,2017 17:54:33 [info]  Clicked on the 'Toggle'
+Jan 09,2017 17:54:37 [info]  Double clicked on 'Searched Asset'
+Jan 09,2017 17:56:18 [info]  Test 'createData' FAILED
+Jan 09,2017 17:56:18 [info]  2
+Jan 09,2017 17:56:18 [info]  Test Case :createData's Screenshot of Failure Page: C:\Screenshots\Jan2017\\09\createData_01-09-2017 5-56-18 PM.jpg
+Jan 09,2017 17:56:20 [info]  Closed the Browser

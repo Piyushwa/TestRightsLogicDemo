@@ -1,0 +1,463 @@
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 13:09:50******************</span>
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 13:11:24******************</span>
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 13:12:32******************</span>
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 13:18:40******************</span>
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 13:19:50******************</span>
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 13:20:39******************</span>
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 13:21:16******************</span>
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 13:50:25******************</span>
+Feb 08,2017 13:50:25 [Info]  Client: VMN
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing the Test Area(Modules/TAB): 'AM_Awards TAB'*********************</span>
+Feb 08,2017 13:50:40 [Info]  Client: VMN
+Feb 08,2017 13:50:40 [Info]  URL: http://cgptwb01/Home.aspx
+Feb 08,2017 13:50:40 [Info]  UserName: automation
+Feb 08,2017 13:50:40 [Info]  Password: automation
+Feb 08,2017 13:50:43 [Info]  Entered "automation" in field 'User Name'
+Feb 08,2017 13:50:44 [Info]  Clicked on the 'Temporary Check Box'
+Feb 08,2017 13:50:44 [Info]  Entered "automation" in field 'Password'
+Feb 08,2017 13:50:53 [Info]  Clicked on the 'LoginButton'
+Feb 08,2017 13:50:59 [Info]  *****Test 'TC2_AwardsUI'*****: SKIPPED
+Feb 08,2017 13:51:01 [Info]  Closed the Browser
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 13:52:22******************</span>
+Feb 08,2017 13:52:22 [Info]  Client: VMN
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing the Test Area(Modules/TAB): 'AM_Awards TAB'*********************</span>
+Feb 08,2017 13:52:35 [Info]  Client: VMN
+Feb 08,2017 13:52:35 [Info]  URL: http://cgptwb01/Home.aspx
+Feb 08,2017 13:52:35 [Info]  UserName: automation
+Feb 08,2017 13:52:35 [Info]  Password: automation
+Feb 08,2017 13:52:38 [Info]  Entered "automation" in field 'User Name'
+Feb 08,2017 13:52:39 [Info]  Clicked on the 'Temporary Check Box'
+Feb 08,2017 13:52:39 [Info]  Entered "automation" in field 'Password'
+Feb 08,2017 13:52:49 [Info]  Clicked on the 'LoginButton'
+Feb 08,2017 13:52:55 [Info]  AUT_AssetSeries_TC1_0208201710552
+Feb 08,2017 13:52:58 [Info]  Clicked on the 'MODULE'
+Feb 08,2017 13:53:08 [Info]  Clicked on the 'Property Entry & Maintenance'
+Feb 08,2017 13:53:11 [Info]  Clicked on the 'Search Icon' using JS Executor
+Feb 08,2017 13:53:15 [Info]  Clicked on the 'Property Search' using JS Executor
+Feb 08,2017 13:53:25 [Info]  Entered "AUT_AssetSeries_TC1_0208201710552" in field 'AssetTitle'
+Feb 08,2017 13:53:33 [Info]  Clicked on the 'Find Button' using JS Executor
+Feb 08,2017 13:53:58 [Info]  Moved Mouse over 'First Asset in the Searched Asset'
+Feb 08,2017 13:53:58 [Info]  Clicked on the 'First Asset in the Searched Asset'
+Feb 08,2017 13:53:58 [Info]  Clicked on the 'First Asset in the Searched Asset'
+Feb 08,2017 13:54:01 [Info]  Clicked on the 'View Asset' using JS Executor
+Feb 08,2017 13:54:16 [Info]  Verify The data of Created Asset At Home
+<span style="color:green;">Feb 08,2017 13:54:16 [Verification]  Verified that Expected value :[AUT_AssetSeries_TC1_0208201710552] is matched with Actual value :[AUT_AssetSeries_TC1_0208201710552]</span>
+<span style="color:red;">Feb 08,2017 13:54:26 [Fail]  ====Failed==== "Award TAB" field is not present'</span>
+<span style="color:red;">Feb 08,2017 13:54:36 [Fail]  ====Failed==== " Could not find the Frame: div[class*='igtab_Office2007BlueTHContent'][style*=visible]</span>
+Feb 08,2017 13:54:37 [Info]  no such element: Unable to locate element: {"method":"tag name","selector":"iframe"}
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.04 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: '9P4G6BS', ip: '10.10.22.71', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed), userDataDir=C:\Users\Rajudd\AppData\Local\Temp\scoped_dir11080_32214}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=56.0.2924.87, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 86fae31cb854c8dd997ca4af720fa6be
+*** Element info: {Using=tag name, value=iframe}
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 13:55:42******************</span>
+Feb 08,2017 13:55:42 [Info]  Client: VMN
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing the Test Area(Modules/TAB): 'AM_Awards TAB'*********************</span>
+Feb 08,2017 13:55:54 [Info]  Client: VMN
+Feb 08,2017 13:55:54 [Info]  URL: http://cgptwb01/Home.aspx
+Feb 08,2017 13:55:54 [Info]  UserName: automation
+Feb 08,2017 13:55:54 [Info]  Password: automation
+Feb 08,2017 13:55:57 [Info]  Entered "automation" in field 'User Name'
+Feb 08,2017 13:55:57 [Info]  Clicked on the 'Temporary Check Box'
+Feb 08,2017 13:55:57 [Info]  Entered "automation" in field 'Password'
+Feb 08,2017 13:56:07 [Info]  Clicked on the 'LoginButton'
+Feb 08,2017 13:56:13 [Info]  AUT_AssetSeries_TC1_0208201710552
+Feb 08,2017 13:56:16 [Info]  Clicked on the 'MODULE'
+Feb 08,2017 13:56:24 [Info]  Clicked on the 'Property Entry & Maintenance'
+Feb 08,2017 13:56:27 [Info]  Clicked on the 'Search Icon' using JS Executor
+Feb 08,2017 13:56:31 [Info]  Clicked on the 'Property Search' using JS Executor
+Feb 08,2017 13:56:40 [Info]  Entered "AUT_AssetSeries_TC1_0208201710552" in field 'AssetTitle'
+Feb 08,2017 13:56:47 [Info]  Clicked on the 'Find Button' using JS Executor
+Feb 08,2017 13:57:11 [Info]  Moved Mouse over 'First Asset in the Searched Asset'
+Feb 08,2017 13:57:11 [Info]  Clicked on the 'First Asset in the Searched Asset'
+Feb 08,2017 13:57:11 [Info]  Clicked on the 'First Asset in the Searched Asset'
+Feb 08,2017 13:57:14 [Info]  Clicked on the 'View Asset' using JS Executor
+Feb 08,2017 13:57:36 [Info]  Verify The data of Created Asset At Home
+<span style="color:red;">Feb 08,2017 13:57:36 [Fail]  ====Failed==== Expected value is:[AUT_AssetSeries_TC1_0208201710552] but Actual value is[AUT_AssetSeries_02012017124512]. Please check the screenshot with name: Created Asset At Homefor more details</span>
+Feb 08,2017 13:57:36 [Info]  Clicked on the 'Award TAB'
+<span style="color:blue;"> [Manual Test Step]  **********Verify Columns Header Name of Award TAB in view Mode********</span>
+Feb 08,2017 13:57:37 [Info]  Test 'TC2_AwardsUI' PASSED
+Feb 08,2017 13:57:37 [Info]  Closed the Browser
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 14:03:34******************</span>
+Feb 08,2017 14:03:34 [Info]  Client: VMN
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing the Test Area(Modules/TAB): 'AM_Awards TAB'*********************</span>
+Feb 08,2017 14:03:45 [Info]  AUT_AssetSeries_02012017124512
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 14:03:53******************</span>
+Feb 08,2017 14:03:53 [Info]  Client: AMCN
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing the Test Area(Modules/TAB): 'AM_Awards TAB'*********************</span>
+Feb 08,2017 14:04:04 [Info]  Client: AMCN
+Feb 08,2017 14:04:04 [Info]  URL: http://rlv2wb79/login.aspx
+Feb 08,2017 14:04:04 [Info]  UserName: admin
+Feb 08,2017 14:04:04 [Info]  Password: admin
+Feb 08,2017 14:04:05 [Info]  Entered "admin" in field 'User Name'
+Feb 08,2017 14:04:05 [Info]  Clicked on the 'Temporary Check Box'
+Feb 08,2017 14:04:05 [Info]  Entered "admin" in field 'Password'
+Feb 08,2017 14:04:12 [Info]  Clicked on the 'LoginButton'
+Feb 08,2017 14:04:18 [Info]  AUT_AssetSeries_02012017124512
+Feb 08,2017 14:04:21 [Info]  Clicked on the 'MODULE'
+Feb 08,2017 14:04:28 [Info]  Clicked on the 'Asset Maintenance'
+Feb 08,2017 14:04:31 [Info]  Clicked on the 'Search Menu Icon' using JS Executor
+Feb 08,2017 14:04:32 [Info]  Clicked on the 'AssetSearchUnderAsset' using JS Executor
+Feb 08,2017 14:04:41 [Info]  Entered "AUT_AssetSeries_02012017124512" in field 'AssetTitle'
+Feb 08,2017 14:04:41 [Info]  Clicked on the 'All Check Box' using JS Executor
+Feb 08,2017 14:04:47 [Info]  Clicked on the 'Find Button' using JS Executor
+Feb 08,2017 14:05:12 [Info]  Moved Mouse over 'First Asset in the Searched Asset'
+Feb 08,2017 14:05:12 [Info]  Clicked on the 'First Asset in the Searched Asset'
+Feb 08,2017 14:05:12 [Info]  Clicked on the 'First Asset in the Searched Asset'
+Feb 08,2017 14:05:15 [Info]  Clicked on the 'View Asset' using JS Executor
+Feb 08,2017 14:05:27 [Info]  Verify The data of Created Asset At Home
+<span style="color:green;">Feb 08,2017 14:05:27 [Verification]  Verified that Expected value :[AUT_AssetSeries_02012017124512] is matched with Actual value :[AUT_AssetSeries_02012017124512]</span>
+Feb 08,2017 14:05:27 [Info]  Clicked on the 'Award TAB'
+Feb 08,2017 14:07:03 [Info]  Test 'TC2_AwardsUI' FAILED
+Feb 08,2017 14:07:03 [Info]  2
+Feb 08,2017 14:07:03 [Info]  Test Case :TC2_AwardsUI's Screenshot of Failure Page: 
+C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Feb2017\\08\TC2_AwardsUI_02-08-2017 2-07-03 PM.jpg
+Feb 08,2017 14:07:04 [Info]  Closed the Browser
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 15:06:17******************</span>
+Feb 08,2017 15:06:17 [Info]  Client: AMCN
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing the Test Area(Modules/TAB): 'AM_Awards TAB'*********************</span>
+Feb 08,2017 15:06:29 [Info]  Client: AMCN
+Feb 08,2017 15:06:29 [Info]  URL: http://rlv2wb79/login.aspx
+Feb 08,2017 15:06:29 [Info]  UserName: admin
+Feb 08,2017 15:06:29 [Info]  Password: admin
+Feb 08,2017 15:06:30 [Info]  Entered "admin" in field 'User Name'
+Feb 08,2017 15:06:31 [Info]  Clicked on the 'Temporary Check Box'
+Feb 08,2017 15:06:31 [Info]  Entered "admin" in field 'Password'
+Feb 08,2017 15:06:37 [Info]  Clicked on the 'LoginButton'
+Feb 08,2017 15:06:43 [Info]  AUT_AssetSeries_02012017124512
+Feb 08,2017 15:07:45 [Info]  Clicked on the 'Award TAB'
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 15:08:14******************</span>
+Feb 08,2017 15:08:14 [Info]  Client: AMCN
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing the Test Area(Modules/TAB): 'AM_Awards TAB'*********************</span>
+Feb 08,2017 15:08:26 [Info]  Client: AMCN
+Feb 08,2017 15:08:26 [Info]  URL: http://rlv2wb79/login.aspx
+Feb 08,2017 15:08:26 [Info]  UserName: admin
+Feb 08,2017 15:08:26 [Info]  Password: admin
+Feb 08,2017 15:08:27 [Info]  Entered "admin" in field 'User Name'
+Feb 08,2017 15:08:27 [Info]  Clicked on the 'Temporary Check Box'
+Feb 08,2017 15:08:27 [Info]  Entered "admin" in field 'Password'
+Feb 08,2017 15:08:33 [Info]  Clicked on the 'LoginButton'
+Feb 08,2017 15:08:39 [Info]  AUT_AssetSeries_02012017124512
+<span style="color:red;">Feb 08,2017 15:08:49 [Fail]  ====Failed==== "Award TAB" field is not present'</span>
+<span style="color:red;">Feb 08,2017 15:09:14 [Fail]  ====Failed==== " Could not find the Frame: div[class*='igtab_Office2007BlueTHContent'][style*=visible]</span>
+Feb 08,2017 15:09:14 [Info]  no such element: Unable to locate element: {"method":"css selector","selector":"div[class*='igtab_Office2007BlueTHContent'][style*=visible]"}
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 24.29 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: '9P4G6BS', ip: '10.10.22.71', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed), userDataDir=C:\Users\Rajudd\AppData\Local\Temp\scoped_dir13184_3449}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=56.0.2924.87, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: a20244b2dc39016290c84c9507c9ec37
+*** Element info: {Using=css selector, value=div[class*='igtab_Office2007BlueTHContent'][style*=visible]}
+<span style="color:blue;"> [Manual Test Step]  **********Verify Columns Header Name of Award TAB in view Mode********</span>
+Feb 08,2017 15:09:25 [Info]  Verify The data of Organization
+<span style="color:red;">Feb 08,2017 15:09:25 [Fail]  ====Failed==== Expected value is:[Organization] but Actual value is[]. Please check the screenshot with name: Organizationfor more details</span>
+Feb 08,2017 15:09:25 [Info]  Test 'TC2_AwardsUI' PASSED
+Feb 08,2017 15:09:26 [Info]  Closed the Browser
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 15:14:08******************</span>
+Feb 08,2017 15:14:08 [Info]  Client: AMCN
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing the Test Area(Modules/TAB): 'AM_Awards TAB'*********************</span>
+Feb 08,2017 15:14:19 [Info]  Client: AMCN
+Feb 08,2017 15:14:19 [Info]  URL: http://rlv2wb79/login.aspx
+Feb 08,2017 15:14:19 [Info]  UserName: admin
+Feb 08,2017 15:14:19 [Info]  Password: admin
+Feb 08,2017 15:14:20 [Info]  Entered "admin" in field 'User Name'
+Feb 08,2017 15:14:20 [Info]  Clicked on the 'Temporary Check Box'
+Feb 08,2017 15:14:20 [Info]  Entered "admin" in field 'Password'
+Feb 08,2017 15:14:26 [Info]  Clicked on the 'LoginButton'
+Feb 08,2017 15:14:32 [Info]  AUT_AssetSeries_02012017124512
+Feb 08,2017 15:15:08 [Info]  Clicked on the 'Award TAB'
+<span style="color:blue;"> [Manual Test Step]  **********Verify Columns Header Name of Award TAB in view Mode********</span>
+Feb 08,2017 15:15:16 [Info]  Verify The data of Organization
+<span style="color:green;">Feb 08,2017 15:15:17 [Verification]  Verified that Expected value :[Organization] is matched with Actual value :[Organization]</span>
+Feb 08,2017 15:15:17 [Info]  Verify The data of Award
+<span style="color:green;">Feb 08,2017 15:15:17 [Verification]  Verified that Expected value :[Award] is matched with Actual value :[Award]</span>
+Feb 08,2017 15:15:17 [Info]  Verify The data of Award Title
+<span style="color:green;">Feb 08,2017 15:15:17 [Verification]  Verified that Expected value :[Award Title] is matched with Actual value :[Award Title]</span>
+Feb 08,2017 15:15:17 [Info]  Verify The data of Year
+<span style="color:green;">Feb 08,2017 15:15:17 [Verification]  Verified that Expected value :[Year] is matched with Actual value :[Year]</span>
+Feb 08,2017 15:15:17 [Info]  Verify The data of Winner
+<span style="color:green;">Feb 08,2017 15:15:17 [Verification]  Verified that Expected value :[Winner] is matched with Actual value :[Winner]</span>
+Feb 08,2017 15:15:17 [Info]  Verify The data of Status
+<span style="color:green;">Feb 08,2017 15:15:17 [Verification]  Verified that Expected value :[Status] is matched with Actual value :[Status]</span>
+Feb 08,2017 15:15:17 [Info]  Verify The data of Participant Award
+<span style="color:green;">Feb 08,2017 15:15:17 [Verification]  Verified that Expected value :[Participant Award] is matched with Actual value :[Participant Award]</span>
+Feb 08,2017 15:15:17 [Info]  Verify The data of Game Award
+<span style="color:green;">Feb 08,2017 15:15:17 [Verification]  Verified that Expected value :[Game Award] is matched with Actual value :[Game Award]</span>
+Feb 08,2017 15:15:17 [Info]  Test 'TC2_AwardsUI' PASSED
+Feb 08,2017 15:15:18 [Info]  Closed the Browser
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 15:19:15******************</span>
+Feb 08,2017 15:19:15 [Info]  Client: AMCN
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing the Test Area(Modules/TAB): 'AM_Awards TAB'*********************</span>
+Feb 08,2017 15:19:26 [Info]  Client: AMCN
+Feb 08,2017 15:19:26 [Info]  URL: http://rlv2wb79/login.aspx
+Feb 08,2017 15:19:26 [Info]  UserName: admin
+Feb 08,2017 15:19:26 [Info]  Password: admin
+Feb 08,2017 15:19:27 [Info]  Entered "admin" in field 'User Name'
+Feb 08,2017 15:19:27 [Info]  Clicked on the 'Temporary Check Box'
+Feb 08,2017 15:19:27 [Info]  Entered "admin" in field 'Password'
+Feb 08,2017 15:19:33 [Info]  Clicked on the 'LoginButton'
+Feb 08,2017 15:19:39 [Info]  AUT_AssetSeries_02012017124512
+Feb 08,2017 15:19:57 [Info]  Clicked on the 'Award TAB'
+<span style="color:blue;"> [Manual Test Step]  **********Verify Columns Header Name of Award TAB in view Mode********</span>
+Feb 08,2017 15:19:58 [Info]  Verify The data of Organization
+<span style="color:green;">Feb 08,2017 15:19:58 [Verification]  Verified that Expected value :[Organization] is matched with Actual value :[Organization]</span>
+Feb 08,2017 15:19:58 [Info]  Verify The data of Award
+<span style="color:green;">Feb 08,2017 15:19:58 [Verification]  Verified that Expected value :[Award] is matched with Actual value :[Award]</span>
+Feb 08,2017 15:19:58 [Info]  Verify The data of Award Title
+<span style="color:red;">Feb 08,2017 15:19:58 [Fail]  ====Failed==== Expected value is:[Award Titlesdsds] but Actual value is[Award Title]. Please check the screenshot with name: Award Titlefor more details</span>
+Feb 08,2017 15:19:58 [Info]  Verify The data of Year
+<span style="color:green;">Feb 08,2017 15:19:58 [Verification]  Verified that Expected value :[Year] is matched with Actual value :[Year]</span>
+Feb 08,2017 15:19:59 [Info]  Verify The data of Winner
+<span style="color:green;">Feb 08,2017 15:19:59 [Verification]  Verified that Expected value :[Winner] is matched with Actual value :[Winner]</span>
+Feb 08,2017 15:19:59 [Info]  Verify The data of Status
+<span style="color:green;">Feb 08,2017 15:19:59 [Verification]  Verified that Expected value :[Status] is matched with Actual value :[Status]</span>
+Feb 08,2017 15:19:59 [Info]  Verify The data of Participant Award
+<span style="color:green;">Feb 08,2017 15:19:59 [Verification]  Verified that Expected value :[Participant Award] is matched with Actual value :[Participant Award]</span>
+Feb 08,2017 15:19:59 [Info]  Verify The data of Game Award
+<span style="color:green;">Feb 08,2017 15:19:59 [Verification]  Verified that Expected value :[Game Award] is matched with Actual value :[Game Award]</span>
+Feb 08,2017 15:19:59 [Info]  Test 'TC2_AwardsUI' PASSED
+Feb 08,2017 15:20:00 [Info]  Closed the Browser
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 15:21:44******************</span>
+Feb 08,2017 15:21:44 [Info]  Client: AMCN
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing the Test Area(Modules/TAB): 'AM_Awards TAB'*********************</span>
+Feb 08,2017 15:21:55 [Info]  Client: AMCN
+Feb 08,2017 15:21:55 [Info]  URL: http://rlv2wb79/login.aspx
+Feb 08,2017 15:21:55 [Info]  UserName: admin
+Feb 08,2017 15:21:55 [Info]  Password: admin
+Feb 08,2017 15:21:56 [Info]  Entered "admin" in field 'User Name'
+Feb 08,2017 15:21:56 [Info]  Clicked on the 'Temporary Check Box'
+Feb 08,2017 15:21:56 [Info]  Entered "admin" in field 'Password'
+Feb 08,2017 15:22:03 [Info]  Clicked on the 'LoginButton'
+Feb 08,2017 15:22:09 [Info]  AUT_AssetSeries_02012017124512
+Feb 08,2017 15:22:24 [Info]  Clicked on the 'Award TAB'
+<span style="color:blue;"> [Manual Test Step]  **********Verify Columns Header Name of Award TAB in view Mode********</span>
+Feb 08,2017 15:22:25 [Info]  Verify The data of Organization
+<span style="color:green;">Feb 08,2017 15:22:25 [Verification]  Verified that Expected value :[Organization] is matched with Actual value :[Organization]</span>
+Feb 08,2017 15:22:25 [Info]  Verify The data of Award
+<span style="color:green;">Feb 08,2017 15:22:25 [Verification]  Verified that Expected value :[Award] is matched with Actual value :[Award]</span>
+Feb 08,2017 15:22:25 [Info]  Verify The data of Award Title
+<span style="color:red;">Feb 08,2017 15:22:25 [Fail]  ====Failed==== Expected value is:[Award Titlesdsds] but Actual value is[Award Title]. Please check the screenshot with name: Award Titlefor more details</span>
+Feb 08,2017 15:22:26 [Info]  Verify The data of Year
+<span style="color:green;">Feb 08,2017 15:22:26 [Verification]  Verified that Expected value :[Year] is matched with Actual value :[Year]</span>
+Feb 08,2017 15:22:26 [Info]  Verify The data of Winner
+<span style="color:green;">Feb 08,2017 15:22:26 [Verification]  Verified that Expected value :[Winner] is matched with Actual value :[Winner]</span>
+Feb 08,2017 15:22:26 [Info]  Verify The data of Status
+<span style="color:green;">Feb 08,2017 15:22:26 [Verification]  Verified that Expected value :[Status] is matched with Actual value :[Status]</span>
+Feb 08,2017 15:22:26 [Info]  Verify The data of Participant Award
+<span style="color:green;">Feb 08,2017 15:22:26 [Verification]  Verified that Expected value :[Participant Award] is matched with Actual value :[Participant Award]</span>
+Feb 08,2017 15:22:26 [Info]  Verify The data of Game Award
+<span style="color:green;">Feb 08,2017 15:22:26 [Verification]  Verified that Expected value :[Game Award] is matched with Actual value :[Game Award]</span>
+Feb 08,2017 15:22:26 [Info]  Test 'TC2_AwardsUI' PASSED
+Feb 08,2017 15:22:27 [Info]  Closed the Browser
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 15:23:02******************</span>
+Feb 08,2017 15:23:02 [Info]  Client: AMCN
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing the Test Area(Modules/TAB): 'AM_Awards TAB'*********************</span>
+Feb 08,2017 15:23:13 [Info]  Client: AMCN
+Feb 08,2017 15:23:13 [Info]  URL: http://rlv2wb79/login.aspx
+Feb 08,2017 15:23:13 [Info]  UserName: admin
+Feb 08,2017 15:23:13 [Info]  Password: admin
+Feb 08,2017 15:23:14 [Info]  Entered "admin" in field 'User Name'
+Feb 08,2017 15:23:14 [Info]  Clicked on the 'Temporary Check Box'
+Feb 08,2017 15:23:14 [Info]  Entered "admin" in field 'Password'
+Feb 08,2017 15:23:20 [Info]  Clicked on the 'LoginButton'
+Feb 08,2017 15:23:26 [Info]  AUT_AssetSeries_02012017124512
+Feb 08,2017 15:23:41 [Info]  Clicked on the 'Award TAB'
+<span style="color:blue;"> [Manual Test Step]  **********Verify Columns Header Name of Award TAB in view Mode********</span>
+Feb 08,2017 15:23:43 [Info]  Verify The data of Organization
+<span style="color:green;">Feb 08,2017 15:23:43 [Verification]  Verified that Expected value :[Organization] is matched with Actual value :[Organization]</span>
+Feb 08,2017 15:23:43 [Info]  Verify The data of Award
+<span style="color:green;">Feb 08,2017 15:23:43 [Verification]  Verified that Expected value :[Award] is matched with Actual value :[Award]</span>
+Feb 08,2017 15:23:43 [Info]  Verify The data of Award Title
+<span style="color:red;">Feb 08,2017 15:23:43 [Fail]  ====Failed==== Expected value is:[Award Titlesdsds] but Actual value is[Award Title]. Please check the screenshot with name: Award Titlefor more details</span>
+Feb 08,2017 15:23:43 [Info]  Verify The data of Year
+<span style="color:green;">Feb 08,2017 15:23:43 [Verification]  Verified that Expected value :[Year] is matched with Actual value :[Year]</span>
+Feb 08,2017 15:23:43 [Info]  Verify The data of Winner
+<span style="color:green;">Feb 08,2017 15:23:43 [Verification]  Verified that Expected value :[Winner] is matched with Actual value :[Winner]</span>
+Feb 08,2017 15:23:43 [Info]  Verify The data of Status
+<span style="color:green;">Feb 08,2017 15:23:43 [Verification]  Verified that Expected value :[Status] is matched with Actual value :[Status]</span>
+Feb 08,2017 15:23:43 [Info]  Verify The data of Participant Award
+<span style="color:green;">Feb 08,2017 15:23:43 [Verification]  Verified that Expected value :[Participant Award] is matched with Actual value :[Participant Award]</span>
+Feb 08,2017 15:23:44 [Info]  Verify The data of Game Award
+<span style="color:green;">Feb 08,2017 15:23:44 [Verification]  Verified that Expected value :[Game Award] is matched with Actual value :[Game Award]</span>
+Feb 08,2017 15:23:44 [Info]  Test 'TC2_AwardsUI' PASSED
+Feb 08,2017 15:23:45 [Info]  Closed the Browser
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 16:50:33******************</span>
+Feb 08,2017 16:50:33 [Info]  Client: AMCN
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************</span>
+Feb 08,2017 16:50:48 [Info]  Client: AMCN
+Feb 08,2017 16:50:48 [Info]  URL: http://rlv2wb79/login.aspx
+Feb 08,2017 16:50:48 [Info]  UserName: admin
+Feb 08,2017 16:50:48 [Info]  Password: admin
+Feb 08,2017 16:50:50 [Info]  Entered "admin" in field 'User Name'
+Feb 08,2017 16:50:50 [Info]  Clicked on the 'Temporary Check Box'
+Feb 08,2017 16:50:50 [Info]  Entered "admin" in field 'Password'
+Feb 08,2017 16:50:56 [Info]  Clicked on the 'LoginButton'
+Feb 08,2017 16:51:02 [Info]  AUT_AssetSeries_02012017124512
+Feb 08,2017 16:51:33 [Info]  Clicked on the 'Award TAB'
+<span style="color:blue;"> [Manual Test Step]  **********Verify Columns Header Name of Award TAB in view Mode********</span>
+Feb 08,2017 16:51:35 [Info]  Verify The data of Organization
+<span style="color:green;">Feb 08,2017 16:51:35 [Verification]  Verified that Expected value :[Organization] is matched with Actual value :[Organization]</span>
+Feb 08,2017 16:51:35 [Info]  Verify The data of Award
+<span style="color:green;">Feb 08,2017 16:51:35 [Verification]  Verified that Expected value :[Award] is matched with Actual value :[Award]</span>
+Feb 08,2017 16:51:35 [Info]  Verify The data of Award Title
+<span style="color:red;">Feb 08,2017 16:51:35 [Fail]  ====Failed==== Expected value is:[Award Titlesdsds] but Actual value is[Award Title]. Please check the screenshot with name: Award Titlefor more details</span>
+Feb 08,2017 16:51:35 [Info]  Verify The data of Year
+<span style="color:green;">Feb 08,2017 16:51:35 [Verification]  Verified that Expected value :[Year] is matched with Actual value :[Year]</span>
+Feb 08,2017 16:51:35 [Info]  Verify The data of Winner
+<span style="color:green;">Feb 08,2017 16:51:35 [Verification]  Verified that Expected value :[Winner] is matched with Actual value :[Winner]</span>
+Feb 08,2017 16:51:35 [Info]  Verify The data of Status
+<span style="color:green;">Feb 08,2017 16:51:35 [Verification]  Verified that Expected value :[Status] is matched with Actual value :[Status]</span>
+Feb 08,2017 16:51:36 [Info]  Verify The data of Participant Award
+<span style="color:green;">Feb 08,2017 16:51:36 [Verification]  Verified that Expected value :[Participant Award] is matched with Actual value :[Participant Award]</span>
+Feb 08,2017 16:51:36 [Info]  Verify The data of Game Award
+<span style="color:green;">Feb 08,2017 16:51:36 [Verification]  Verified that Expected value :[Game Award] is matched with Actual value :[Game Award]</span>
+Feb 08,2017 16:51:36 [Info]  Test 'TC2_AwardsUI' PASSED
+Feb 08,2017 16:51:38 [Info]  Closed the Browser
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 16:52:18******************</span>
+Feb 08,2017 16:52:18 [Info]  Client: AMCN
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************</span>
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 16:53:18******************</span>
+Feb 08,2017 16:53:18 [Info]  Client: AMCN
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************</span>
+Feb 08,2017 16:53:30 [Info]  Client: AMCN
+Feb 08,2017 16:53:30 [Info]  URL: http://rlv2wb79/login.aspx
+Feb 08,2017 16:53:30 [Info]  UserName: admin
+Feb 08,2017 16:53:30 [Info]  Password: admin
+Feb 08,2017 16:53:31 [Info]  Entered "admin" in field 'User Name'
+Feb 08,2017 16:53:31 [Info]  Clicked on the 'Temporary Check Box'
+Feb 08,2017 16:53:31 [Info]  Entered "admin" in field 'Password'
+Feb 08,2017 16:53:37 [Info]  Clicked on the 'LoginButton'
+Feb 08,2017 16:53:43 [Info]  All Assets are:
+Feb 08,2017 16:53:43 [Info]  CreatedSeriesAssetTitleTC1 = "AUT_AssetSeries_TC1_0208201745318";
+Feb 08,2017 16:53:43 [Info]  CreatedSeriesAssetTitleTC3 = "AUT_AssetSeries_TC3_0208201745318";
+Feb 08,2017 16:53:43 [Info]  CreatedSeriesAssetTitleTC4 = "AUT_AssetSeries_TC4_0208201745318";
+Feb 08,2017 16:53:43 [Info]  CreatedSeriesAssetTitleTC6 = "AUT_AssetSeries_TC6_0208201745318";
+Feb 08,2017 16:53:43 [Info]  CreatedSeriesAssetTitleTC10 = "AUT_AssetSeries_TC10_0208201745318";
+Feb 08,2017 16:53:43 [Info]  CreatedMovieAssetTitleTC4 = "AUT_AssetMovie_TC4_0208201745318";
+Feb 08,2017 16:53:43 [Info]  All Deals used are:
+Feb 08,2017 16:53:43 [Info]  CreatedDealTC1 = "AUT_Deal_TC1_0208201745318";
+Feb 08,2017 16:53:43 [Info]  CreatedDealTC2 = "AUT_Deal_TC2_0208201745318";
+Feb 08,2017 16:53:43 [Info]  CreatedDealTC3 = "AUT_Deal_TC3_0208201745318";
+Feb 08,2017 16:53:43 [Info]  CreatedDealTC3_2 = "AUT_Deal_TC3_2_0208201745318";
+Feb 08,2017 16:53:43 [Info]  CreatedDealTC4 = "AUT_Deal_TC4_0208201745318";
+Feb 08,2017 16:53:43 [Info]  CreatedDealTC6 = "AUT_Deal_TC6_0208201745318";
+Feb 08,2017 16:53:43 [Info]  CreatedDealTC7 = "AUT_Deal_TC7_0208201745318";
+Feb 08,2017 16:53:43 [Info]  CreatedDealTC9 = "AUT_Deal_TC9_0208201745318";
+Feb 08,2017 16:53:43 [Info]  CreatedDealTC10 = "AUT_Deal_TC10_0208201745318";
+<span style="color:blue;"> [Manual Test Step]  ************************Started Creating Asset of Type: Program - Series************************</span>
+Feb 08,2017 16:53:47 [Info]  Clicked on the 'MODULE'
+Feb 08,2017 16:53:53 [Info]  Clicked on the 'Asset Maintenance'
+Feb 08,2017 16:54:00 [Info]  Clicked on the 'New Button' using JS Executor
+Feb 08,2017 16:54:05 [Info]  Clicked on the 'Program' using JS Executor
+Feb 08,2017 16:54:13 [Info]  Clicked on the 'General TAB'
+Feb 08,2017 16:54:17 [Info]  Selected "Program - Series" in "AssetTypeDropDown" drop down
+Feb 08,2017 16:54:20 [Info]  Entered "AUT_AssetSeries_TC1_0208201745318" in field 'AssetTitle'
+Feb 08,2017 16:54:21 [Info]  Clicked on the 'Vendor Img Icon' using JS Executor
+Feb 08,2017 16:54:21 [Info]  Entered "AUT_AMCN_Vendor1" in field 'SearchvalueVendor'
+Feb 08,2017 16:54:24 [Info]  Clicked on the 'VendorWindowButtonfind' using JS Executor
+Feb 08,2017 16:54:30 [Info]  Clicked on the 'VendorName At VendorWindow'
+Feb 08,2017 16:54:30 [Info]  Clicked on the 'Vendor Select Button' using JS Executor
+Feb 08,2017 16:54:33 [Info]  Verify The data of Vendor1
+<span style="color:green;">Feb 08,2017 16:54:33 [Verification]  Verified that Expected value :[AUT_AMCN_Vendor1] is matched with Actual value :[AUT_AMCN_Vendor1]</span>
+Feb 08,2017 16:54:34 [Info]  Clicked on the 'StudioImageIcon' using JS Executor
+Feb 08,2017 16:54:34 [Info]  Verify The data of Studio Window Header
+<span style="color:green;">Feb 08,2017 16:54:34 [Verification]  Verified that Expected value :[Studio] is matched with Actual value :[Studio]</span>
+Feb 08,2017 16:54:34 [Info]  Entered "AUT_AMCN_Studio" in field 'Studio Name'
+Feb 08,2017 16:54:34 [Info]  Clicked on the 'Find Button' using JS Executor
+Feb 08,2017 16:54:43 [Info]  Clicked on the 'VendorName At VendorWindow'
+Feb 08,2017 16:54:43 [Info]  Clicked on the 'Vendor Select Button' using JS Executor
+Feb 08,2017 16:54:46 [Info]  Verify The data of Studio/Vendor2
+<span style="color:green;">Feb 08,2017 16:54:46 [Verification]  Verified that Expected value :[AUT_AMCN_Studio] is matched with Actual value :[AUT_AMCN_Studio]</span>
+Feb 08,2017 16:54:46 [Info]  Clicked on the 'SBUImage' using JS Executor
+Feb 08,2017 16:54:46 [Info]  Verify The data of SBU Window/Owner Channel Header
+<span style="color:green;">Feb 08,2017 16:54:46 [Verification]  Verified that Expected value :[Source Business Unit Template] is matched with Actual value :[Source Business Unit Template]</span>
+Feb 08,2017 16:54:53 [Info]  Clicked on the 'First CheckBox At SBU window'
+Feb 08,2017 16:54:55 [Info]  Clicked on the 'Apply Button' using JS Executor
+Feb 08,2017 16:54:55 [Info]  Entered "11:11:11" in field 'Duration'
+Feb 08,2017 16:55:05 [Info]  Selected "Production" in "Asset Status" drop down
+Feb 08,2017 16:55:05 [Info]  Selected "Licensed Acquired" in "Asset Source" drop down
+Feb 08,2017 16:55:06 [Info]  Selected "TBD" in "Asset Category/Group" drop down
+Feb 08,2017 16:55:06 [Info]  Entered "AUT_Series" in field 'Short Name'
+Feb 08,2017 16:55:06 [Info]  Entered "Test" in field 'ProjectID'
+Feb 08,2017 16:55:06 [Info]  Clicked on the 'Save Button' using JS Executor
+Feb 08,2017 16:55:18 [Info]  Verify The data of Created AssetAUT_AssetSeries_TC1_0208201745318
+<span style="color:green;">Feb 08,2017 16:55:18 [Verification]  Verified that Expected value :[AUT_AssetSeries_TC1_0208201745318] is matched with Actual value :[AUT_AssetSeries_TC1_0208201745318]</span>
+<span style="color:blue;"> [Manual Test Step]  ************************Created Asset of TypeProgram - Series************************</span>
+Feb 08,2017 16:55:21 [Info]  Clicked on the 'MODULE'
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 16:56:36******************</span>
+Feb 08,2017 16:56:36 [Info]  Client: AMCN
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************</span>
+Feb 08,2017 16:56:48 [Info]  Client: AMCN
+Feb 08,2017 16:56:48 [Info]  URL: http://rlv2wb79/login.aspx
+Feb 08,2017 16:56:48 [Info]  UserName: admin
+Feb 08,2017 16:56:48 [Info]  Password: admin
+Feb 08,2017 16:56:50 [Info]  Entered "admin" in field 'User Name'
+Feb 08,2017 16:56:50 [Info]  Clicked on the 'Temporary Check Box'
+Feb 08,2017 16:56:50 [Info]  Entered "admin" in field 'Password'
+Feb 08,2017 16:56:56 [Info]  Clicked on the 'LoginButton'
+Feb 08,2017 16:57:02 [Info]  All Assets are:
+Feb 08,2017 16:57:02 [Info]  CreatedSeriesAssetTitleTC1 = "AUT_AssetSeries_TC1_0208201745636";
+Feb 08,2017 16:57:02 [Info]  CreatedSeriesAssetTitleTC3 = "AUT_AssetSeries_TC3_0208201745636";
+Feb 08,2017 16:57:02 [Info]  CreatedSeriesAssetTitleTC4 = "AUT_AssetSeries_TC4_0208201745636";
+Feb 08,2017 16:57:02 [Info]  CreatedSeriesAssetTitleTC6 = "AUT_AssetSeries_TC6_0208201745636";
+Feb 08,2017 16:57:02 [Info]  CreatedSeriesAssetTitleTC10 = "AUT_AssetSeries_TC10_0208201745636";
+Feb 08,2017 16:57:02 [Info]  CreatedMovieAssetTitleTC4 = "AUT_AssetMovie_TC4_0208201745636";
+Feb 08,2017 16:57:02 [Info]  All Deals used are:
+Feb 08,2017 16:57:02 [Info]  CreatedDealTC1 = "AUT_Deal_TC1_0208201745636";
+Feb 08,2017 16:57:02 [Info]  CreatedDealTC2 = "AUT_Deal_TC2_0208201745636";
+Feb 08,2017 16:57:02 [Info]  CreatedDealTC3 = "AUT_Deal_TC3_0208201745636";
+Feb 08,2017 16:57:02 [Info]  CreatedDealTC3_2 = "AUT_Deal_TC3_2_0208201745636";
+Feb 08,2017 16:57:02 [Info]  CreatedDealTC4 = "AUT_Deal_TC4_0208201745636";
+Feb 08,2017 16:57:02 [Info]  CreatedDealTC6 = "AUT_Deal_TC6_0208201745636";
+Feb 08,2017 16:57:02 [Info]  CreatedDealTC7 = "AUT_Deal_TC7_0208201745636";
+Feb 08,2017 16:57:02 [Info]  CreatedDealTC9 = "AUT_Deal_TC9_0208201745636";
+Feb 08,2017 16:57:02 [Info]  CreatedDealTC10 = "AUT_Deal_TC10_0208201745636";
+<span style="color:blue;"> [Manual Test Step]  ************************Started Creating Asset of Type: Program - Series************************</span>
+Feb 08,2017 16:57:06 [Info]  Clicked on the 'MODULE'
+Feb 08,2017 16:57:13 [Info]  Clicked on the 'Asset Maintenance'
+Feb 08,2017 16:57:19 [Info]  Clicked on the 'New Button' using JS Executor
+Feb 08,2017 16:57:24 [Info]  Clicked on the 'Program' using JS Executor
+Feb 08,2017 16:57:32 [Info]  Clicked on the 'General TAB'
+Feb 08,2017 16:57:36 [Info]  Selected "Program - Series" in "AssetTypeDropDown" drop down
+Feb 08,2017 16:57:39 [Info]  Entered "AUT_AssetSeries_TC1_0208201745636" in field 'AssetTitle'
+Feb 08,2017 16:57:40 [Info]  Clicked on the 'Vendor Img Icon' using JS Executor
+Feb 08,2017 16:57:40 [Info]  Entered "AUT_AMCN_Vendor1" in field 'SearchvalueVendor'
+Feb 08,2017 16:57:43 [Info]  Clicked on the 'VendorWindowButtonfind' using JS Executor
+Feb 08,2017 16:57:49 [Info]  Clicked on the 'VendorName At VendorWindow'
+Feb 08,2017 16:57:49 [Info]  Clicked on the 'Vendor Select Button' using JS Executor
+Feb 08,2017 16:57:52 [Info]  Verify The data of Vendor1
+<span style="color:green;">Feb 08,2017 16:57:52 [Verification]  Verified that Expected value :[AUT_AMCN_Vendor1] is matched with Actual value :[AUT_AMCN_Vendor1]</span>
+Feb 08,2017 16:57:53 [Info]  Clicked on the 'StudioImageIcon' using JS Executor
+Feb 08,2017 16:57:53 [Info]  Verify The data of Studio Window Header
+<span style="color:green;">Feb 08,2017 16:57:53 [Verification]  Verified that Expected value :[Studio] is matched with Actual value :[Studio]</span>
+Feb 08,2017 16:57:53 [Info]  Entered "AUT_AMCN_Studio" in field 'Studio Name'
+Feb 08,2017 16:57:54 [Info]  Clicked on the 'Find Button' using JS Executor
+Feb 08,2017 16:58:02 [Info]  Clicked on the 'VendorName At VendorWindow'
+Feb 08,2017 16:58:02 [Info]  Clicked on the 'Vendor Select Button' using JS Executor
+Feb 08,2017 16:58:05 [Info]  Verify The data of Studio/Vendor2
+<span style="color:green;">Feb 08,2017 16:58:05 [Verification]  Verified that Expected value :[AUT_AMCN_Studio] is matched with Actual value :[AUT_AMCN_Studio]</span>
+Feb 08,2017 16:58:06 [Info]  Clicked on the 'SBUImage' using JS Executor
+Feb 08,2017 16:58:06 [Info]  Verify The data of SBU Window/Owner Channel Header
+<span style="color:green;">Feb 08,2017 16:58:06 [Verification]  Verified that Expected value :[Source Business Unit Template] is matched with Actual value :[Source Business Unit Template]</span>
+Feb 08,2017 16:58:12 [Info]  Clicked on the 'First CheckBox At SBU window'
+Feb 08,2017 16:58:14 [Info]  Clicked on the 'Apply Button' using JS Executor
+Feb 08,2017 16:58:14 [Info]  Entered "11:11:11" in field 'Duration'
+Feb 08,2017 16:58:25 [Info]  Selected "Production" in "Asset Status" drop down
+Feb 08,2017 16:58:25 [Info]  Selected "Licensed Acquired" in "Asset Source" drop down
+Feb 08,2017 16:58:25 [Info]  Selected "TBD" in "Asset Category/Group" drop down
+Feb 08,2017 16:58:25 [Info]  Entered "AUT_Series" in field 'Short Name'
+Feb 08,2017 16:58:25 [Info]  Entered "Test" in field 'ProjectID'
+Feb 08,2017 16:58:25 [Info]  Clicked on the 'Save Button' using JS Executor
+Feb 08,2017 16:58:34 [Info]  Verify The data of Created AssetAUT_AssetSeries_TC1_0208201745636
+<span style="color:green;">Feb 08,2017 16:58:34 [Verification]  Verified that Expected value :[AUT_AssetSeries_TC1_0208201745636] is matched with Actual value :[AUT_AssetSeries_TC1_0208201745636]</span>
+<span style="color:blue;"> [Manual Test Step]  ************************Created Asset of TypeProgram - Series************************</span>
+Feb 08,2017 16:58:34 [Info]  Test 'create_PreRequisites_AllDeal_Assets' PASSED
+Feb 08,2017 16:58:35 [Info]  Closed the Browser

@@ -1,0 +1,36 @@
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 18:27:43******************</span>
+Feb 13,2017 18:27:43 [Info]  Client: ${env.Client}
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing the Test Area(Modules/TAB): 'General TAB'*********************</span>
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing 'TC1_AssetCreationTest' Test Case*********************</span>
+<span style="color:red;">Feb 13,2017 18:27:43 [Fail]  ====Failed==== " Could not find the Frame: //div[@clientid='RL_SplitterPane_Navigation']</span>
+Feb 13,2017 18:27:43 [Info]  Test 'TC1_AssetCreationTest' FAILED
+Feb 13,2017 18:27:43 [Info]  2
+Feb 13,2017 18:27:43 [Info]  Test 'TC1_AssetCreationTest' FAILED
+Feb 13,2017 18:27:43 [Info]  2
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 18:28:34******************</span>
+Feb 13,2017 18:28:34 [Info]  Client: ${env.Client}
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing the Test Area(Modules/TAB): 'General TAB'*********************</span>
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing 'TC1_AssetCreationTest' Test Case*********************</span>
+<span style="color:red;">Feb 13,2017 18:28:35 [Fail]  ====Failed==== " Could not find the Frame: //div[@clientid='RL_SplitterPane_Navigation']</span>
+Feb 13,2017 18:28:35 [Info]  Test 'TC1_AssetCreationTest' FAILED
+Feb 13,2017 18:28:35 [Info]  2
+Feb 13,2017 18:28:35 [Info]  Test 'TC1_AssetCreationTest' FAILED
+Feb 13,2017 18:28:35 [Info]  2
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 18:30:47******************</span>
+Feb 13,2017 18:30:47 [Info]  Client: VMN
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing the Test Area(Modules/TAB): 'General TAB'*********************</span>
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing 'TC1_AssetCreationTest' Test Case*********************</span>
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 19:01:54******************</span>
+Feb 13,2017 19:01:54 [Info]  Client: VMN
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing the Test Area(Modules/TAB): 'Version TAB'*********************</span>
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing 'TC1_VersionUI' Test Case*********************</span>
+Feb 13,2017 19:02:05 [Info]  Client: VMN
+Feb 13,2017 19:02:05 [Info]  URL: http://rlv3wb53/Home.aspx
+Feb 13,2017 19:02:05 [Info]  UserName: admin
+Feb 13,2017 19:02:05 [Info]  Password: admin
+Feb 13,2017 19:02:07 [Info]  Entered "admin" in field 'User Name'
+Feb 13,2017 19:02:07 [Info]  Clicked on the 'Temporary Check Box'
+Feb 13,2017 19:02:07 [Info]  Entered "admin" in field 'Password'
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 19:04:29******************</span>
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 19:16:43******************</span>
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 19:17:32******************</span>

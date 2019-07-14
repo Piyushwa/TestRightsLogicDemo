@@ -1,0 +1,1589 @@
+Dec 16,2016 12:50:36 [info]  ********************Started Executiong the Test Suite at 12:50:36******************
+Dec 16,2016 12:50:36 [info]  Client: AMCN
+Dec 16,2016 12:50:36 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Dec 16,2016 12:50:36 [info]  *********************Started Executing 'createData' Test Case*********************
+Dec 16,2016 12:50:59 [info]  Client: AMCN
+Dec 16,2016 12:50:59 [info]  URL: http://rlv2wb79/login.aspx
+Dec 16,2016 12:50:59 [info]  UserName: automation
+Dec 16,2016 12:50:59 [info]  Password: automation
+Dec 16,2016 12:51:02 [info]  Entered "automation" in field 'User Name'
+Dec 16,2016 12:51:03 [info]  Clicked on the 'Temporary Check Box'
+Dec 16,2016 12:51:03 [info]  Entered "automation" in field 'Password'
+Dec 16,2016 12:51:12 [info]  Clicked on the 'LoginButton'
+Dec 16,2016 12:51:37 [info]  Clicked on the 'New Button' using JS Executor
+Dec 16,2016 12:51:37 [info]  Clicked on the 'Standalone Agreement' using JS Executor
+Dec 16,2016 12:51:49 [info]  Generated Deal Id is 56035
+Dec 16,2016 12:51:49 [info]  Clicked on the 'DealTitleField' using JS Executor
+Dec 16,2016 12:51:51 [info]  Entered "AUT_Deal_TC7_12152016101228" in field 'Deal Name Field'
+Dec 16,2016 12:51:54 [info]  Entered "AUT_Deal_TC7_12152016101228_desc" in field 'Deal Description/ContractID'
+Dec 16,2016 12:51:54 [info]  Selected "Production" in "DealType_DropDownField" drop down
+Dec 16,2016 12:51:55 [info]  Selected "Development" in "Deal/Agreement Sub Type" drop down
+Dec 16,2016 12:51:56 [info]  Entered "In Progress - IDM" in field 'DealCreationCDEStatus'
+Dec 16,2016 12:51:57 [info]  Entered "01/01/2014" in field 'DateExecuted_InputField'
+Dec 16,2016 12:51:58 [info]  Entered "01/01/2015" in field 'DateEffective_InputField'
+Dec 16,2016 12:51:59 [info]  Entered "USD" in field 'DealCreationCurrency'
+Dec 16,2016 12:51:59 [info]  Selected "AMC" in "ProfitCenter_InputField" drop down
+Dec 16,2016 12:52:06 [info]  Selected "Acquired Series - 280-206100-612103" in "BudgetLine_InputField" drop down
+Dec 16,2016 12:52:29 [info]  Moved Mouse over 'Party_AddButton'
+Dec 16,2016 12:52:31 [info]  Clicked on the 'Party_AddButton'
+Dec 16,2016 12:52:37 [info]  Entered "AUT_AMCN_RI_PRIMARY_PARTY" in field 'Search Party InputField'
+Dec 16,2016 12:52:37 [info]  Double clicked on 'RI Search Party Window Find Button'
+Dec 16,2016 12:52:45 [info]  Clicked on the 'AUT_AMCN_RI_PRIMARY_PARTY'
+Dec 16,2016 12:52:46 [info]  Clicked on the 'Select Button'
+Dec 16,2016 12:52:53 [info]  Clicked on the 'Party Type Field' using JS Executor
+Dec 16,2016 12:52:53 [info]  Entered "Primary" in field 'Party Party InputField'
+Dec 16,2016 12:52:54 [info]  Clicked on the 'Support Click '
+Dec 16,2016 12:52:54 [info]  Clicked on the 'Party_AddButton' using JS Executor
+Dec 16,2016 12:53:02 [info]  Entered "AUT_AMCN_RI_LICENSOR_PARTY" in field 'Search Party InputField'
+Dec 16,2016 12:53:03 [info]  Double clicked on 'RI Search Party Window Find Button'
+Dec 16,2016 12:53:15 [info]  Clicked on the 'Select Party'
+Dec 16,2016 12:53:15 [info]  Clicked on the 'Select Button'
+Dec 16,2016 12:53:22 [info]  Clicked on the 'Party Type Field' using JS Executor
+Dec 16,2016 12:53:22 [info]  Entered "Distributor" in field 'Party Party InputField'
+Dec 16,2016 12:53:23 [info]  Clicked on the 'Support Click '
+Dec 16,2016 12:53:27 [info]  Clicked on the 'Skip Workflow CheckBox'
+Dec 16,2016 12:53:27 [info]  Clicked on the 'Save Button' using JS Executor
+Dec 16,2016 12:53:39 [info]  Verify The data of CreatedDeal
+Dec 16,2016 12:53:39 [info]  Verified that Expected value :[AUT_Deal_TC7_12152016101228] is matched with Actual value :[AUT_Deal_TC7_12152016101228]
+Dec 16,2016 12:53:39 [info]  Clicked on the 'Navigator' using JS Executor
+Dec 16,2016 12:53:47 [info]  Clicked on the 'Deal'
+Dec 16,2016 12:53:48 [info]  Double clicked on 'Associate With Exiting Asset'
+Dec 16,2016 12:53:50 [info]  Clicked on the 'Asset Status'
+Dec 16,2016 12:53:50 [info]  Clicked on the 'Asset tile' using JS Executor
+Dec 16,2016 12:53:52 [info]  Entered "AUT_AssetSeries_TC1_12152016101228" in field 'Asset title'
+Dec 16,2016 12:53:52 [info]  Clicked on the 'All Check Box' using JS Executor
+Dec 16,2016 12:53:52 [info]  =====BUG ID======: 20309
+Dec 16,2016 12:53:52 [info]  Clicked on the 'Display Season checkBox' using JS Executor
+Dec 16,2016 12:53:53 [info]  Clicked on the 'Search Button' using JS Executor
+Dec 16,2016 12:54:08 [info]  Clicked on the 'Toggle'
+Dec 16,2016 12:54:12 [info]  Double clicked on 'Searched Asset'
+Dec 16,2016 12:54:28 [info]  Clicked on the 'Ok Button'
+Dec 16,2016 12:54:34 [info]  Test 'createData' PASSED
+Dec 16,2016 12:54:37 [info]  Closed the Browser
+Dec 16,2016 12:56:54 [info]  ********************Started Executiong the Test Suite at 12:56:54******************
+Dec 16,2016 12:56:54 [info]  Client: AMCN
+Dec 16,2016 12:56:54 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Dec 16,2016 12:56:54 [info]  *********************Started Executing 'TC7_DeleteFunctionality' Test Case*********************
+Dec 16,2016 12:57:10 [info]  Client: AMCN
+Dec 16,2016 12:57:10 [info]  URL: http://rlv2wb79/login.aspx
+Dec 16,2016 12:57:10 [info]  UserName: automation
+Dec 16,2016 12:57:10 [info]  Password: automation
+Dec 16,2016 12:57:12 [info]  Entered "automation" in field 'User Name'
+Dec 16,2016 12:57:12 [info]  Clicked on the 'Temporary Check Box'
+Dec 16,2016 12:57:13 [info]  Entered "automation" in field 'Password'
+Dec 16,2016 12:57:20 [info]  Clicked on the 'LoginButton'
+Dec 16,2016 12:57:27 [info]  Double clicked on 'AUT_Deal_TC1_12152016101228Deal'
+Dec 16,2016 12:57:37 [info]  Clicked on the 'Exhibition Rights TAB'
+Dec 16,2016 12:57:38 [info]  Clicked on the ''Edit' Button at Media Rights TAB' using JS Executor
+Dec 16,2016 12:57:44 [info]  Clicked on the 'Add Button'
+Dec 16,2016 12:57:48 [info]  Clicked on the 'Select Check Box'
+Dec 16,2016 12:57:52 [info]  Clicked on the 'Add Button at Media rights Pop up Window'
+Dec 16,2016 12:58:00 [info]  Clicked on the 'Exhibition Day Scope Field'
+Dec 16,2016 12:58:01 [info]  Clicked on the 'Exhibition Day Scope Drop Down'
+Dec 16,2016 12:58:01 [info]  Clicked on the ''Season' in Exhi Scope field'
+Dec 16,2016 12:58:02 [info]  Clicked on the 'Support Click'
+Dec 16,2016 12:58:03 [info]  Verify The data of Season in ExhiScope
+Dec 16,2016 12:58:03 [info]  Verified that Expected value :[Season] is matched with Actual value :[Season]
+Dec 16,2016 12:58:03 [info]  Clicked on the 'Window Name Field'
+Dec 16,2016 12:58:04 [info]  Entered "RSG Window" in field 'Win Name'
+Dec 16,2016 12:58:05 [info]  Clicked on the 'Support Click'
+Dec 16,2016 12:58:05 [info]  Verify The data of Window Name
+Dec 16,2016 12:58:05 [info]  Verified that Expected value :[RSG Window] is matched with Actual value :[RSG Window]
+Dec 16,2016 12:58:06 [info]  Double clicked on 'Window Name Field'
+Dec 16,2016 12:58:10 [info]  Clicked on the 'Check box Linear'
+Dec 16,2016 12:58:10 [info]  "Linear Check box is checked" is Present
+Dec 16,2016 12:58:13 [info]  Clicked on the 'Apply Button at RIGHTSTYPE_POPUP' using JS Executor
+Dec 16,2016 12:58:15 [info]  Double clicked on 'Network pop up icon'
+Dec 16,2016 12:58:15 [info]  ====Failed==== "Selected Channel AMC Linear" field is not present'
+Dec 16,2016 12:58:16 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\16\Selected Channel AMC Linear_CheckpointFailure_12-16-2016 12-58-15 PM.jpg
+Dec 16,2016 12:58:17 [info]  Clicked on the 'Ok button at Exhibtion Network Window'
+Dec 16,2016 12:58:34 [info]  ********************Started Executiong the Test Suite at 12:58:34******************
+Dec 16,2016 12:58:34 [info]  Client: AMCN
+Dec 16,2016 12:58:34 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Dec 16,2016 12:58:34 [info]  *********************Started Executing 'TC7_DeleteFunctionality' Test Case*********************
+Dec 16,2016 12:58:44 [info]  Client: AMCN
+Dec 16,2016 12:58:44 [info]  URL: http://rlv2wb79/login.aspx
+Dec 16,2016 12:58:44 [info]  UserName: automation
+Dec 16,2016 12:58:44 [info]  Password: automation
+Dec 16,2016 12:58:46 [info]  Entered "automation" in field 'User Name'
+Dec 16,2016 12:58:46 [info]  Clicked on the 'Temporary Check Box'
+Dec 16,2016 12:58:47 [info]  Entered "automation" in field 'Password'
+Dec 16,2016 12:58:54 [info]  Clicked on the 'LoginButton'
+Dec 16,2016 12:59:01 [info]  Double clicked on 'AUT_Deal_TC7_12152016101228Deal'
+Dec 16,2016 12:59:11 [info]  Clicked on the 'Exhibition Rights TAB'
+Dec 16,2016 12:59:12 [info]  Clicked on the ''Edit' Button at Media Rights TAB' using JS Executor
+Dec 16,2016 12:59:17 [info]  Clicked on the 'Add Button'
+Dec 16,2016 12:59:31 [info]  ====Failed==== "Select Check Box" field is not present'
+Dec 16,2016 12:59:31 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\16\Select Check Box_CheckpointFailure_12-16-2016 12-59-31 PM.jpg
+Dec 16,2016 12:59:32 [info]  Clicked on the 'Add Button at Media rights Pop up Window'
+Dec 16,2016 12:59:46 [info]  ====Failed==== "Exhibition Day Scope Field" field is not present'
+Dec 16,2016 12:59:46 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\16\Exhibition Day Scope Field_CheckpointFailure_12-16-2016 12-59-46 PM.jpg
+Dec 16,2016 13:00:57 [info]  ********************Started Executiong the Test Suite at 13:00:57******************
+Dec 16,2016 13:00:57 [info]  Client: AMCN
+Dec 16,2016 13:00:57 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Dec 16,2016 13:00:57 [info]  *********************Started Executing 'TC7_DeleteFunctionality' Test Case*********************
+Dec 16,2016 13:01:07 [info]  Client: AMCN
+Dec 16,2016 13:01:07 [info]  URL: http://rlv2wb79/login.aspx
+Dec 16,2016 13:01:07 [info]  UserName: automation
+Dec 16,2016 13:01:07 [info]  Password: automation
+Dec 16,2016 13:01:09 [info]  Entered "automation" in field 'User Name'
+Dec 16,2016 13:01:09 [info]  Clicked on the 'Temporary Check Box'
+Dec 16,2016 13:01:10 [info]  Entered "automation" in field 'Password'
+Dec 16,2016 13:01:17 [info]  Clicked on the 'LoginButton'
+Dec 16,2016 13:01:23 [info]  Double clicked on 'AUT_Deal_TC7_12152016101228Deal'
+Dec 16,2016 13:01:33 [info]  Clicked on the 'Exhibition Rights TAB'
+Dec 16,2016 13:01:34 [info]  Clicked on the ''Edit' Button at Media Rights TAB' using JS Executor
+Dec 16,2016 13:01:42 [info]  Clicked on the 'Add Button'
+Dec 16,2016 13:03:53 [info]  ********************Started Executiong the Test Suite at 13:03:53******************
+Dec 16,2016 13:03:53 [info]  Client: AMCN
+Dec 16,2016 13:03:53 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Dec 16,2016 13:03:53 [info]  *********************Started Executing 'TC7_DeleteFunctionality' Test Case*********************
+Dec 16,2016 13:04:03 [info]  Client: AMCN
+Dec 16,2016 13:04:03 [info]  URL: http://rlv2wb79/login.aspx
+Dec 16,2016 13:04:03 [info]  UserName: automation
+Dec 16,2016 13:04:03 [info]  Password: automation
+Dec 16,2016 13:04:05 [info]  Entered "automation" in field 'User Name'
+Dec 16,2016 13:04:05 [info]  Clicked on the 'Temporary Check Box'
+Dec 16,2016 13:04:06 [info]  Entered "automation" in field 'Password'
+Dec 16,2016 13:04:13 [info]  Clicked on the 'LoginButton'
+Dec 16,2016 13:04:20 [info]  Double clicked on 'AUT_Deal_TC7_12152016101228Deal'
+Dec 16,2016 13:04:30 [info]  Clicked on the 'Media Rights TAB'
+Dec 16,2016 13:04:30 [info]  Clicked on the ''Edit' Button at Media Rights TAB' using JS Executor
+Dec 16,2016 13:04:34 [info]  Clicked on the ''Add' Button at Media Rights Edit window' using JS Executor
+Dec 16,2016 13:04:42 [info]  Double clicked on 'RI_MediaRights_EditMode_Applies To'
+Dec 16,2016 13:04:43 [info]  Clicked on the '*Applies ToDrop Down Image'
+Dec 16,2016 13:04:44 [info]  Clicked on the 'All'
+Dec 16,2016 13:04:48 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Dec 16,2016 13:04:48 [info]  Verify The data of RI_MediaRights_EditMode_*Applies To
+Dec 16,2016 13:04:48 [info]  Verified that Expected value :[All] is matched with Actual value :[All]
+Dec 16,2016 13:04:50 [info]  Double clicked on 'RI_MediaRights_EditMode_Party'
+Dec 16,2016 13:04:51 [info]  Clicked on the 'PartyDrop Down Image'
+Dec 16,2016 13:04:51 [info]  Clicked on the 'AUT_AMCN_RI_PRIMARY_PARTY'
+Dec 16,2016 13:04:56 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Dec 16,2016 13:04:56 [info]  Verify The data of RI_MediaRights_EditMode_Party
+Dec 16,2016 13:04:56 [info]  Verified that Expected value :[AUT_AMCN_RI_PRIMARY_PARTY] is matched with Actual value :[AUT_AMCN_RI_PRIMARY_PARTY]
+Dec 16,2016 13:04:58 [info]  Double clicked on 'RI_MediaRights_EditMode_Media Type'
+Dec 16,2016 13:04:59 [info]  Clicked on the '*Media TypeDrop Down Image'
+Dec 16,2016 13:04:59 [info]  Clicked on the 'All Media'
+Dec 16,2016 13:05:04 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Dec 16,2016 13:05:04 [info]  Verify The data of RI_MediaRights_EditMode_*Media Type
+Dec 16,2016 13:05:04 [info]  Verified that Expected value :[All Media] is matched with Actual value :[All Media]
+Dec 16,2016 13:05:06 [info]  Double clicked on 'RI_MediaRights_EditMode_Venue'
+Dec 16,2016 13:05:07 [info]  Clicked on the '*VenueDrop Down Image'
+Dec 16,2016 13:05:07 [info]  Clicked on the 'All Venues'
+Dec 16,2016 13:05:12 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Dec 16,2016 13:05:12 [info]  Verify The data of RI_MediaRights_EditMode_*Venue
+Dec 16,2016 13:05:12 [info]  Verified that Expected value :[All Venues] is matched with Actual value :[All Venues]
+Dec 16,2016 13:05:20 [info]  Double clicked on 'RI_MediaRights_EditMode_Platforms'
+Dec 16,2016 13:05:20 [info]  Clicked on the '*PlatformsDrop Down Image'
+Dec 16,2016 13:05:21 [info]  Clicked on the 'All Platforms'
+Dec 16,2016 13:05:25 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Dec 16,2016 13:05:26 [info]  Verify The data of RI_MediaRights_EditMode_*Platforms
+Dec 16,2016 13:05:26 [info]  Verified that Expected value :[All Platforms] is matched with Actual value :[All Platforms]
+Dec 16,2016 13:05:28 [info]  Double clicked on 'RI_MediaRights_EditMode_Restrictions'
+Dec 16,2016 13:05:29 [info]  Clicked on the '*RestrictionsDrop Down Image'
+Dec 16,2016 13:05:29 [info]  Clicked on the 'All Restrictions'
+Dec 16,2016 13:05:34 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Dec 16,2016 13:05:34 [info]  Verify The data of RI_MediaRights_EditMode_*Restrictions
+Dec 16,2016 13:05:34 [info]  Verified that Expected value :[All Restrictions] is matched with Actual value :[All Restrictions]
+Dec 16,2016 13:05:37 [info]  Double clicked on 'RI_MediaRights_EditMode_Business Outlets'
+Dec 16,2016 13:05:37 [info]  Clicked on the '*Business OutletsDrop Down Image'
+Dec 16,2016 13:05:38 [info]  Clicked on the 'All Business Outlets'
+Dec 16,2016 13:05:42 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Dec 16,2016 13:05:43 [info]  Verify The data of RI_MediaRights_EditMode_*Business Outlets
+Dec 16,2016 13:05:43 [info]  Verified that Expected value :[All Business Outlets] is matched with Actual value :[All Business Outlets]
+Dec 16,2016 13:05:45 [info]  Double clicked on 'RI_MediaRights_EditMode_Territory'
+Dec 16,2016 13:05:45 [info]  Clicked on the '*TerritoryDrop Down Image'
+Dec 16,2016 13:05:46 [info]  Clicked on the 'All Worldwide'
+Dec 16,2016 13:05:50 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Dec 16,2016 13:05:50 [info]  Verify The data of RI_MediaRights_EditMode_*Territory
+Dec 16,2016 13:05:50 [info]  Verified that Expected value :[All Worldwide] is matched with Actual value :[All Worldwide]
+Dec 16,2016 13:05:53 [info]  Double clicked on 'RI_MediaRights_EditMode_Language'
+Dec 16,2016 13:05:53 [info]  Clicked on the '*LanguageDrop Down Image'
+Dec 16,2016 13:05:54 [info]  Clicked on the 'All Languages'
+Dec 16,2016 13:05:58 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Dec 16,2016 13:05:58 [info]  Verify The data of RI_MediaRights_EditMode_*Language
+Dec 16,2016 13:05:58 [info]  Verified that Expected value :[All Languages] is matched with Actual value :[All Languages]
+Dec 16,2016 13:06:00 [info]  Clicked on the 'Term From Field'
+Dec 16,2016 13:06:00 [info]  Entered "01/01/2017" in field 'Term From'
+Dec 16,2016 13:06:02 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Dec 16,2016 13:06:02 [info]  Verify The data of Term From Data
+Dec 16,2016 13:06:02 [info]  Verified that Expected value :[01/01/2017] is matched with Actual value :[01/01/2017]
+Dec 16,2016 13:06:03 [info]  Clicked on the 'Term To Field'
+Dec 16,2016 13:06:04 [info]  Entered "12/31/2019" in field 'Term To input Field'
+Dec 16,2016 13:06:05 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Dec 16,2016 13:06:05 [info]  Verify The data of Term From Data
+Dec 16,2016 13:06:05 [info]  Verified that Expected value :[12/31/2019] is matched with Actual value :[12/31/2019]
+Dec 16,2016 13:06:06 [info]  Clicked on the ''Add' Button at Media Rights Edit window' using JS Executor
+Dec 16,2016 13:06:15 [info]  Double clicked on 'RI_MediaRights_EditMode_Applies To'
+Dec 16,2016 13:06:15 [info]  Clicked on the '*Applies ToDrop Down Image'
+Dec 16,2016 13:06:16 [info]  Clicked on the 'AUT_AssetSeries_TC1_12152016101228'
+Dec 16,2016 13:06:20 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Dec 16,2016 13:06:21 [info]  Verify The data of RI_MediaRights_EditMode_*Applies To
+Dec 16,2016 13:06:21 [info]  Verified that Expected value :[AUT_AssetSeries_TC1_12152016101228] is matched with Actual value :[AUT_AssetSeries_TC1_12152016101228]
+Dec 16,2016 13:06:23 [info]  Double clicked on 'RI_MediaRights_EditMode_Party'
+Dec 16,2016 13:06:23 [info]  Clicked on the 'PartyDrop Down Image'
+Dec 16,2016 13:06:24 [info]  Clicked on the 'AUT_AMCN_RI_PRIMARY_PARTY'
+Dec 16,2016 13:06:28 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Dec 16,2016 13:06:28 [info]  Verify The data of RI_MediaRights_EditMode_Party
+Dec 16,2016 13:06:28 [info]  Verified that Expected value :[AUT_AMCN_RI_PRIMARY_PARTY] is matched with Actual value :[AUT_AMCN_RI_PRIMARY_PARTY]
+Dec 16,2016 13:06:31 [info]  Double clicked on 'RI_MediaRights_EditMode_Media Type'
+Dec 16,2016 13:06:31 [info]  Clicked on the '*Media TypeDrop Down Image'
+Dec 16,2016 13:06:32 [info]  Clicked on the 'All Media'
+Dec 16,2016 13:06:36 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Dec 16,2016 13:06:36 [info]  Verify The data of RI_MediaRights_EditMode_*Media Type
+Dec 16,2016 13:06:36 [info]  Verified that Expected value :[All Media] is matched with Actual value :[All Media]
+Dec 16,2016 13:06:39 [info]  Double clicked on 'RI_MediaRights_EditMode_Venue'
+Dec 16,2016 13:06:39 [info]  Clicked on the '*VenueDrop Down Image'
+Dec 16,2016 13:06:40 [info]  Clicked on the 'All Venues'
+Dec 16,2016 13:06:44 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Dec 16,2016 13:06:44 [info]  Verify The data of RI_MediaRights_EditMode_*Venue
+Dec 16,2016 13:06:44 [info]  Verified that Expected value :[All Venues] is matched with Actual value :[All Venues]
+Dec 16,2016 13:06:52 [info]  Double clicked on 'RI_MediaRights_EditMode_Platforms'
+Dec 16,2016 13:06:52 [info]  Clicked on the '*PlatformsDrop Down Image'
+Dec 16,2016 13:06:53 [info]  Clicked on the 'All Platforms'
+Dec 16,2016 13:06:57 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Dec 16,2016 13:06:58 [info]  Verify The data of RI_MediaRights_EditMode_*Platforms
+Dec 16,2016 13:06:58 [info]  Verified that Expected value :[All Platforms] is matched with Actual value :[All Platforms]
+Dec 16,2016 13:07:00 [info]  Double clicked on 'RI_MediaRights_EditMode_Restrictions'
+Dec 16,2016 13:07:01 [info]  Clicked on the '*RestrictionsDrop Down Image'
+Dec 16,2016 13:07:01 [info]  Clicked on the 'All Restrictions'
+Dec 16,2016 13:07:06 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Dec 16,2016 13:07:06 [info]  Verify The data of RI_MediaRights_EditMode_*Restrictions
+Dec 16,2016 13:07:06 [info]  Verified that Expected value :[All Restrictions] is matched with Actual value :[All Restrictions]
+Dec 16,2016 13:07:09 [info]  Double clicked on 'RI_MediaRights_EditMode_Business Outlets'
+Dec 16,2016 13:07:09 [info]  Clicked on the '*Business OutletsDrop Down Image'
+Dec 16,2016 13:07:10 [info]  Clicked on the 'All Business Outlets'
+Dec 16,2016 13:07:14 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Dec 16,2016 13:07:15 [info]  Verify The data of RI_MediaRights_EditMode_*Business Outlets
+Dec 16,2016 13:07:15 [info]  Verified that Expected value :[All Business Outlets] is matched with Actual value :[All Business Outlets]
+Dec 16,2016 13:07:17 [info]  Double clicked on 'RI_MediaRights_EditMode_Territory'
+Dec 16,2016 13:07:17 [info]  Clicked on the '*TerritoryDrop Down Image'
+Dec 16,2016 13:07:18 [info]  Clicked on the 'All Worldwide'
+Dec 16,2016 13:07:22 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Dec 16,2016 13:07:22 [info]  Verify The data of RI_MediaRights_EditMode_*Territory
+Dec 16,2016 13:07:22 [info]  Verified that Expected value :[All Worldwide] is matched with Actual value :[All Worldwide]
+Dec 16,2016 13:07:24 [info]  Double clicked on 'RI_MediaRights_EditMode_Language'
+Dec 16,2016 13:07:25 [info]  Clicked on the '*LanguageDrop Down Image'
+Dec 16,2016 13:07:26 [info]  Clicked on the 'All Languages'
+Dec 16,2016 13:07:30 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Dec 16,2016 13:07:30 [info]  Verify The data of RI_MediaRights_EditMode_*Language
+Dec 16,2016 13:07:30 [info]  Verified that Expected value :[All Languages] is matched with Actual value :[All Languages]
+Dec 16,2016 13:07:31 [info]  Clicked on the 'Term From Field'
+Dec 16,2016 13:07:32 [info]  Entered "01/01/2017" in field 'Term From'
+Dec 16,2016 13:07:33 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Dec 16,2016 13:07:34 [info]  Verify The data of Term From Data
+Dec 16,2016 13:07:34 [info]  Verified that Expected value :[01/01/2017] is matched with Actual value :[01/01/2017]
+Dec 16,2016 13:07:35 [info]  Clicked on the 'Term To Field'
+Dec 16,2016 13:07:36 [info]  Entered "12/31/2019" in field 'Term To input Field'
+Dec 16,2016 13:07:37 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Dec 16,2016 13:07:37 [info]  Verify The data of Term From Data
+Dec 16,2016 13:07:37 [info]  Verified that Expected value :[12/31/2019] is matched with Actual value :[12/31/2019]
+Dec 16,2016 13:07:38 [info]  Clicked on the ''Save' Button at Media Rights Edit window' using JS Executor
+Dec 16,2016 13:07:50 [info]  Verified that Expected value :[Changes Saved Successfully.] is matched with Actual value :[Changes Saved Successfully. The Filter has been updated to reflect your changes.]
+Dec 16,2016 13:07:50 [info]  
+Dec 16,2016 13:07:50 [info]  Started Verifying the data for row:1
+Dec 16,2016 13:07:50 [info]  Verify The data of RI_MediaRights_EditMode_*Applies To
+Dec 16,2016 13:07:50 [info]  Verified that Expected value :[All] is matched with Actual value :[All]
+Dec 16,2016 13:07:51 [info]  Verify The data of RI_MediaRights_EditMode_Party
+Dec 16,2016 13:07:51 [info]  Verified that Expected value :[AUT_AMCN_RI_PRIMARY_PARTY] is matched with Actual value :[AUT_AMCN_RI_PRIMARY_PARTY]
+Dec 16,2016 13:07:51 [info]  Verify The data of RI_MediaRights_EditMode_*Media Type
+Dec 16,2016 13:07:51 [info]  Verified that Expected value :[All Media] is matched with Actual value :[All Media]
+Dec 16,2016 13:07:51 [info]  Verify The data of RI_MediaRights_EditMode_*Venue
+Dec 16,2016 13:07:51 [info]  Verified that Expected value :[All Venues] is matched with Actual value :[All Venues]
+Dec 16,2016 13:07:51 [info]  Verify The data of RI_MediaRights_EditMode_*Platforms
+Dec 16,2016 13:07:51 [info]  Verified that Expected value :[All Platforms] is matched with Actual value :[All Platforms]
+Dec 16,2016 13:07:52 [info]  Verify The data of RI_MediaRights_EditMode_*Restrictions
+Dec 16,2016 13:07:52 [info]  Verified that Expected value :[All Restrictions] is matched with Actual value :[All Restrictions]
+Dec 16,2016 13:07:52 [info]  Verify The data of RI_MediaRights_EditMode_*Business Outlets
+Dec 16,2016 13:07:52 [info]  Verified that Expected value :[All Business Outlets] is matched with Actual value :[All Business Outlets]
+Dec 16,2016 13:07:52 [info]  Verify The data of RI_MediaRights_EditMode_*Territory
+Dec 16,2016 13:07:52 [info]  Verified that Expected value :[All Worldwide] is matched with Actual value :[All Worldwide]
+Dec 16,2016 13:07:53 [info]  Verify The data of RI_MediaRights_EditMode_*Language
+Dec 16,2016 13:07:53 [info]  Verified that Expected value :[All Languages] is matched with Actual value :[All Languages]
+Dec 16,2016 13:07:53 [info]  
+Dec 16,2016 13:07:53 [info]  Started Verifying the data for row:2
+Dec 16,2016 13:07:53 [info]  Verify The data of RI_MediaRights_EditMode_*Applies To
+Dec 16,2016 13:07:53 [info]  Verified that Expected value :[AUT_AssetSeries_TC1_12152016101228] is matched with Actual value :[AUT_AssetSeries_TC1_12152016101228]
+Dec 16,2016 13:07:53 [info]  Verify The data of RI_MediaRights_EditMode_Party
+Dec 16,2016 13:07:53 [info]  Verified that Expected value :[AUT_AMCN_RI_PRIMARY_PARTY] is matched with Actual value :[AUT_AMCN_RI_PRIMARY_PARTY]
+Dec 16,2016 13:07:53 [info]  Verify The data of RI_MediaRights_EditMode_*Media Type
+Dec 16,2016 13:07:53 [info]  Verified that Expected value :[All Media] is matched with Actual value :[All Media]
+Dec 16,2016 13:07:54 [info]  Verify The data of RI_MediaRights_EditMode_*Venue
+Dec 16,2016 13:07:54 [info]  Verified that Expected value :[All Venues] is matched with Actual value :[All Venues]
+Dec 16,2016 13:07:54 [info]  Verify The data of RI_MediaRights_EditMode_*Platforms
+Dec 16,2016 13:07:54 [info]  Verified that Expected value :[All Platforms] is matched with Actual value :[All Platforms]
+Dec 16,2016 13:07:54 [info]  Verify The data of RI_MediaRights_EditMode_*Restrictions
+Dec 16,2016 13:07:54 [info]  Verified that Expected value :[All Restrictions] is matched with Actual value :[All Restrictions]
+Dec 16,2016 13:07:54 [info]  Verify The data of RI_MediaRights_EditMode_*Business Outlets
+Dec 16,2016 13:07:54 [info]  Verified that Expected value :[All Business Outlets] is matched with Actual value :[All Business Outlets]
+Dec 16,2016 13:07:55 [info]  Verify The data of RI_MediaRights_EditMode_*Territory
+Dec 16,2016 13:07:55 [info]  Verified that Expected value :[All Worldwide] is matched with Actual value :[All Worldwide]
+Dec 16,2016 13:07:55 [info]  Verify The data of RI_MediaRights_EditMode_*Language
+Dec 16,2016 13:07:55 [info]  Verified that Expected value :[All Languages] is matched with Actual value :[All Languages]
+Dec 16,2016 13:09:44 [info]  Double clicked on 'AUT_Deal_TC7_12152016101228Deal'
+Dec 16,2016 13:09:49 [info]  Clicked on the 'Exhibition Rights TAB'
+Dec 16,2016 13:09:49 [info]  Clicked on the ''Edit' Button at Media Rights TAB' using JS Executor
+Dec 16,2016 13:10:03 [info]  ====Failed==== " Could not find the Frame: div[id*='WebDialogWindow1'][style*=visible]
+Dec 16,2016 13:10:03 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\16\FrameSwitchingFailed0_CheckpointFailure_12-16-2016 1-10-03 PM.jpg
+Dec 16,2016 13:10:14 [info]  ====Failed==== "Add Button" field is not present'
+Dec 16,2016 13:10:14 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\16\Add Button_CheckpointFailure_12-16-2016 1-10-14 PM.jpg
+Dec 16,2016 13:10:30 [info]  ====Failed==== " Could not find the Frame: div[id*='WebDialogWindow2'][style*=visible]
+Dec 16,2016 13:10:30 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\16\FrameSwitchingFailed1_CheckpointFailure_12-16-2016 1-10-30 PM.jpg
+Dec 16,2016 13:11:51 [info]  ********************Started Executiong the Test Suite at 13:11:51******************
+Dec 16,2016 13:11:51 [info]  Client: AMCN
+Dec 16,2016 13:11:51 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Dec 16,2016 13:11:51 [info]  *********************Started Executing 'TC7_DeleteFunctionality' Test Case*********************
+Dec 16,2016 13:12:06 [info]  Client: AMCN
+Dec 16,2016 13:12:06 [info]  URL: http://rlv2wb79/login.aspx
+Dec 16,2016 13:12:06 [info]  UserName: automation
+Dec 16,2016 13:12:06 [info]  Password: automation
+Dec 16,2016 13:12:07 [info]  Entered "automation" in field 'User Name'
+Dec 16,2016 13:12:08 [info]  Clicked on the 'Temporary Check Box'
+Dec 16,2016 13:12:09 [info]  Entered "automation" in field 'Password'
+Dec 16,2016 13:12:16 [info]  Clicked on the 'LoginButton'
+Dec 16,2016 13:12:33 [info]  ====Failed==== "Exhibition Rights TAB" field is not present'
+Dec 16,2016 13:12:33 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\16\Exhibition Rights TAB_CheckpointFailure_12-16-2016 1-12-33 PM.jpg
+Dec 16,2016 13:12:44 [info]  ====Failed==== " Could not find the Frame: div[class*='igtab_Office2007BlueTHContent'][style*=visible]
+Dec 16,2016 13:12:44 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\16\FrameSwitchingFailed0_CheckpointFailure_12-16-2016 1-12-44 PM.jpg
+Dec 16,2016 13:12:44 [info]  Unable to find element with css selector == div[class*='igtab_Office2007BlueTHContent'][style*=visible] (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.26 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: '9P4G6BS', ip: '10.10.22.71', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=true, ie.forceCreateProcessApi=false, pageLoadStrategy=normal, ie.usePerProcessProxy=false, ignoreZoomSetting=false, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=false, browserName=internet explorer, initialBrowserUrl=http://localhost:11215/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=false, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: 587bf0ce-93cc-441b-ad53-e58e4d4b5ed8
+*** Element info: {Using=css selector, value=div[class*='igtab_Office2007BlueTHContent'][style*=visible]}
+Dec 16,2016 13:13:07 [info]  ********************Started Executiong the Test Suite at 13:13:07******************
+Dec 16,2016 13:13:07 [info]  Client: AMCN
+Dec 16,2016 13:13:07 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Dec 16,2016 13:13:07 [info]  *********************Started Executing 'TC7_DeleteFunctionality' Test Case*********************
+Dec 16,2016 13:13:17 [info]  Client: AMCN
+Dec 16,2016 13:13:17 [info]  URL: http://rlv2wb79/login.aspx
+Dec 16,2016 13:13:17 [info]  UserName: automation
+Dec 16,2016 13:13:17 [info]  Password: automation
+Dec 16,2016 13:13:18 [info]  Entered "automation" in field 'User Name'
+Dec 16,2016 13:13:18 [info]  Clicked on the 'Temporary Check Box'
+Dec 16,2016 13:13:19 [info]  Entered "automation" in field 'Password'
+Dec 16,2016 13:13:26 [info]  Clicked on the 'LoginButton'
+Dec 16,2016 13:13:33 [info]  Double clicked on 'AUT_Deal_TC7_12152016101228Deal'
+Dec 16,2016 13:13:43 [info]  Clicked on the 'Exhibition Rights TAB'
+Dec 16,2016 13:13:44 [info]  Clicked on the ''Edit' Button at Media Rights TAB' using JS Executor
+Dec 16,2016 13:13:52 [info]  Clicked on the 'Add Button'
+Dec 16,2016 13:13:57 [info]  Clicked on the 'Select Check Box'
+Dec 16,2016 13:14:00 [info]  Clicked on the 'Add Button at Media rights Pop up Window'
+Dec 16,2016 13:14:05 [info]  Clicked on the 'Exhibition Day Scope Field'
+Dec 16,2016 13:14:06 [info]  Clicked on the 'Exhibition Day Scope Drop Down'
+Dec 16,2016 13:14:06 [info]  Clicked on the ''Season' in Exhi Scope field'
+Dec 16,2016 13:14:07 [info]  Clicked on the 'Support Click'
+Dec 16,2016 13:14:08 [info]  Verify The data of Season in ExhiScope
+Dec 16,2016 13:14:08 [info]  Verified that Expected value :[Season] is matched with Actual value :[Season]
+Dec 16,2016 13:14:09 [info]  Clicked on the 'Window Name Field'
+Dec 16,2016 13:14:10 [info]  Entered "RSG Window" in field 'Win Name'
+Dec 16,2016 13:14:10 [info]  Clicked on the 'Support Click'
+Dec 16,2016 13:14:11 [info]  Verify The data of Window Name
+Dec 16,2016 13:14:11 [info]  Verified that Expected value :[RSG Window] is matched with Actual value :[RSG Window]
+Dec 16,2016 13:14:12 [info]  Double clicked on 'Window Name Field'
+Dec 16,2016 13:14:16 [info]  Clicked on the 'Check box Linear'
+Dec 16,2016 13:14:16 [info]  "Linear Check box is checked" is Present
+Dec 16,2016 13:14:19 [info]  Clicked on the 'Apply Button at RIGHTSTYPE_POPUP' using JS Executor
+Dec 16,2016 13:14:20 [info]  Double clicked on 'Network pop up icon'
+Dec 16,2016 13:14:30 [info]  ====Failed==== " Could not find the Frame: div[id*='WebDialogWindow2'][style*=visible]
+Dec 16,2016 13:14:30 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\16\FrameSwitchingFailed0_CheckpointFailure_12-16-2016 1-14-30 PM.jpg
+Dec 16,2016 13:14:41 [info]  ====Failed==== "Selected Channel AMC Linear" field is not present'
+Dec 16,2016 13:14:41 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\16\Selected Channel AMC Linear_CheckpointFailure_12-16-2016 1-14-41 PM.jpg
+Dec 16,2016 13:14:51 [info]  ====Failed==== "Ok button at Exhibtion Network Window" field is not present'
+Dec 16,2016 13:14:51 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\16\Ok button at Exhibtion Network Window_CheckpointFailure_12-16-2016 1-14-51 PM.jpg
+Dec 16,2016 13:15:55 [info]  ********************Started Executiong the Test Suite at 13:15:55******************
+Dec 16,2016 13:15:55 [info]  Client: AMCN
+Dec 16,2016 13:15:55 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Dec 16,2016 13:15:55 [info]  *********************Started Executing 'TC7_DeleteFunctionality' Test Case*********************
+Dec 16,2016 13:16:06 [info]  Client: AMCN
+Dec 16,2016 13:16:06 [info]  URL: http://rlv2wb79/login.aspx
+Dec 16,2016 13:16:06 [info]  UserName: automation
+Dec 16,2016 13:16:06 [info]  Password: automation
+Dec 16,2016 13:16:07 [info]  Entered "automation" in field 'User Name'
+Dec 16,2016 13:16:08 [info]  Clicked on the 'Temporary Check Box'
+Dec 16,2016 13:16:09 [info]  Entered "automation" in field 'Password'
+Dec 16,2016 13:16:16 [info]  Clicked on the 'LoginButton'
+Dec 16,2016 13:17:07 [info]  ********************Started Executiong the Test Suite at 13:17:07******************
+Dec 16,2016 13:17:07 [info]  Client: AMCN
+Dec 16,2016 13:17:07 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Dec 16,2016 13:17:07 [info]  *********************Started Executing 'TC7_DeleteFunctionality' Test Case*********************
+Dec 16,2016 13:17:18 [info]  Client: AMCN
+Dec 16,2016 13:17:18 [info]  URL: http://rlv2wb79/login.aspx
+Dec 16,2016 13:17:18 [info]  UserName: automation
+Dec 16,2016 13:17:18 [info]  Password: automation
+Dec 16,2016 13:17:20 [info]  Entered "automation" in field 'User Name'
+Dec 16,2016 13:17:20 [info]  Clicked on the 'Temporary Check Box'
+Dec 16,2016 13:17:21 [info]  Entered "automation" in field 'Password'
+Dec 16,2016 13:17:29 [info]  Clicked on the 'LoginButton'
+Dec 16,2016 13:17:36 [info]  Double clicked on 'AUT_Deal_TC7_12152016101228Deal'
+Dec 16,2016 13:17:46 [info]  Clicked on the 'Exhibition Rights TAB'
+Dec 16,2016 13:17:47 [info]  Clicked on the ''Edit' Button at Media Rights TAB' using JS Executor
+Dec 16,2016 13:18:04 [info]  Clicked on the 'Add Button'
+Dec 16,2016 13:18:18 [info]  ====Failed==== " Could not find the Frame: div[id*='WebDialogWindow2'][style*=visible]
+Dec 16,2016 13:18:18 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\16\FrameSwitchingFailed0_CheckpointFailure_12-16-2016 1-18-18 PM.jpg
+Dec 16,2016 13:18:38 [info]  ====Failed==== "Select Check Box" field is not present'
+Dec 16,2016 13:18:38 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\16\Select Check Box_CheckpointFailure_12-16-2016 1-18-38 PM.jpg
+Dec 16,2016 13:18:48 [info]  ====Failed==== "Add Button at Media rights Pop up Window" field is not present'
+Dec 16,2016 13:18:49 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\16\Add Button at Media rights Pop up Window_CheckpointFailure_12-16-2016 1-18-48 PM.jpg
+Dec 16,2016 13:19:32 [info]  Clicked on the 'Exhibition Day Scope Field'
+Dec 16,2016 13:19:33 [info]  Clicked on the 'Exhibition Day Scope Drop Down'
+Dec 16,2016 13:19:34 [info]  Clicked on the ''Season' in Exhi Scope field'
+Dec 16,2016 13:19:35 [info]  Clicked on the 'Support Click'
+Dec 16,2016 13:19:35 [info]  Verify The data of Season in ExhiScope
+Dec 16,2016 13:19:35 [info]  Verified that Expected value :[Season] is matched with Actual value :[Season]
+Dec 16,2016 13:19:36 [info]  Clicked on the 'Window Name Field'
+Dec 16,2016 13:19:37 [info]  Entered "RSG Window" in field 'Win Name'
+Dec 16,2016 13:19:38 [info]  Clicked on the 'Support Click'
+Dec 16,2016 13:19:39 [info]  Verify The data of Window Name
+Dec 16,2016 13:19:39 [info]  Verified that Expected value :[RSG Window] is matched with Actual value :[RSG Window]
+Dec 16,2016 13:19:40 [info]  Double clicked on 'Window Name Field'
+Dec 16,2016 13:19:44 [info]  Clicked on the 'Check box Linear'
+Dec 16,2016 13:19:44 [info]  "Linear Check box is checked" is Present
+Dec 16,2016 13:19:47 [info]  Clicked on the 'Apply Button at RIGHTSTYPE_POPUP' using JS Executor
+Dec 16,2016 13:19:48 [info]  Double clicked on 'Network pop up icon'
+Dec 16,2016 13:19:58 [info]  ====Failed==== " Could not find the Frame: div[id*='WebDialogWindow2'][style*=visible]
+Dec 16,2016 13:19:59 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\16\FrameSwitchingFailed1_CheckpointFailure_12-16-2016 1-19-58 PM.jpg
+Dec 16,2016 13:20:09 [info]  ====Failed==== "Selected Channel AMC Linear" field is not present'
+Dec 16,2016 13:20:10 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\16\Selected Channel AMC Linear_CheckpointFailure_12-16-2016 1-20-09 PM.jpg
+Dec 16,2016 13:20:20 [info]  ====Failed==== "Ok button at Exhibtion Network Window" field is not present'
+Dec 16,2016 13:20:21 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\16\Ok button at Exhibtion Network Window_CheckpointFailure_12-16-2016 1-20-20 PM.jpg
+Dec 16,2016 13:20:33 [info]  Clicked on the 'Add Button'
+Dec 16,2016 13:20:52 [info]  Clicked on the 'Select Check Box'
+Dec 16,2016 13:20:54 [info]  Clicked on the 'Add Button at Media rights Pop up Window'
+Dec 16,2016 13:21:21 [info]  Clicked on the 'Exhibition Day Scope Field'
+Dec 16,2016 13:21:22 [info]  Clicked on the 'Exhibition Day Scope Drop Down'
+Dec 16,2016 13:21:22 [info]  Clicked on the ''Season' in Exhi Scope field'
+Dec 16,2016 13:21:24 [info]  Clicked on the 'Support Click'
+Dec 16,2016 13:21:30 [info]  Verify The data of Season in ExhiScope
+Dec 16,2016 13:21:30 [info]  Verified that Expected value :[Season] is matched with Actual value :[Season]
+Dec 16,2016 13:21:40 [info]  ====Failed==== "Window Name Field" field is not present'
+Dec 16,2016 13:21:41 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\16\Window Name Field_CheckpointFailure_12-16-2016 1-21-40 PM.jpg
+Dec 16,2016 13:21:51 [info]  ====Failed==== "Win Name" field is not present'Win Name'
+Dec 16,2016 13:21:51 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\16\Win Name_CheckpointFailure_12-16-2016 1-21-51 PM.jpg
+Dec 16,2016 13:21:52 [info]  Clicked on the 'Support Click'
+Dec 16,2016 13:22:02 [info]  Verify The data of Window Name
+Dec 16,2016 13:22:02 [info]  ====Failed==== Expected value is:[RSG Window] but Actual value is[]. Please check the screenshot with name: Window Namefor more details
+Dec 16,2016 13:22:02 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\16\Window Name_CheckpointFailure_12-16-2016 1-22-02 PM.jpg
+Dec 16,2016 13:22:13 [info]  Could not find the locator: Window Name Field'
+Dec 16,2016 13:22:13 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\16\Window Name Field_CheckpointFailure_12-16-2016 1-22-13 PM.jpg
+Dec 16,2016 13:22:23 [info]  ====Failed==== " Could not find the Frame: div[id*='WebDialogWindow2'][style*=visible]
+Dec 16,2016 13:22:23 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\16\FrameSwitchingFailed2_CheckpointFailure_12-16-2016 1-22-23 PM.jpg
+Dec 16,2016 13:22:36 [info]  ====Failed==== "Check box Linear" field is not present'
+Dec 16,2016 13:22:37 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\16\Check box Linear_CheckpointFailure_12-16-2016 1-22-36 PM.jpg
+Dec 16,2016 13:22:47 [info]  ====Failed==== "Linear Check box is checked"  does not exist.
+Dec 16,2016 13:22:47 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\16\Linear Check box is checked_CheckpointFailure_12-16-2016 1-22-47 PM.jpg
+Dec 16,2016 13:23:00 [info]  ====Failed==== "Apply Button at RIGHTSTYPE_POPUP" field is not present'
+Dec 16,2016 13:23:00 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\16\Apply Button at RIGHTSTYPE_POPUP_CheckpointFailure_12-16-2016 1-23-00 PM.jpg
+Dec 16,2016 13:23:11 [info]  Could not find the locator: Network pop up icon'
+Dec 16,2016 13:23:11 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\16\Network pop up icon_CheckpointFailure_12-16-2016 1-23-11 PM.jpg
+Dec 16,2016 13:23:21 [info]  ====Failed==== " Could not find the Frame: div[id*='WebDialogWindow2'][style*=visible]
+Dec 16,2016 13:23:21 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\16\FrameSwitchingFailed3_CheckpointFailure_12-16-2016 1-23-21 PM.jpg
+Dec 16,2016 13:23:32 [info]  ====Failed==== "Selected Channel AMC Linear" field is not present'
+Dec 16,2016 13:23:32 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\16\Selected Channel AMC Linear_CheckpointFailure_12-16-2016 1-23-32 PM.jpg
+Dec 16,2016 13:23:42 [info]  ====Failed==== "Ok button at Exhibtion Network Window" field is not present'
+Dec 16,2016 13:23:42 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\16\Ok button at Exhibtion Network Window_CheckpointFailure_12-16-2016 1-23-42 PM.jpg
+Dec 16,2016 13:23:46 [info]  Test 'TC7_DeleteFunctionality' PASSED
+Dec 16,2016 13:23:48 [info]  Closed the Browser
+Dec 16,2016 14:25:02 [info]  ********************Started Executiong the Test Suite at 14:25:02******************
+Dec 16,2016 14:25:02 [info]  Client: AMCN
+Dec 16,2016 14:25:02 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Dec 16,2016 14:25:02 [info]  *********************Started Executing 'TC7_DeleteFunctionality' Test Case*********************
+Dec 16,2016 14:25:14 [info]  Client: AMCN
+Dec 16,2016 14:25:14 [info]  URL: http://rlv2wb79/login.aspx
+Dec 16,2016 14:25:14 [info]  UserName: automation
+Dec 16,2016 14:25:14 [info]  Password: automation
+Dec 16,2016 14:25:15 [info]  Entered "automation" in field 'User Name'
+Dec 16,2016 14:25:15 [info]  Clicked on the 'Temporary Check Box'
+Dec 16,2016 14:25:16 [info]  Entered "automation" in field 'Password'
+Dec 16,2016 14:25:23 [info]  Clicked on the 'LoginButton'
+Dec 16,2016 14:25:30 [info]  Double clicked on 'AUT_Deal_TC7_12152016101228Deal'
+Dec 16,2016 14:25:40 [info]  Clicked on the 'Exhibition Rights TAB'
+Dec 16,2016 14:25:41 [info]  Clicked on the ''Edit' Button at Media Rights TAB' using JS Executor
+Dec 16,2016 14:25:51 [info]  Clicked on the 'Add Button'
+Dec 16,2016 14:25:55 [info]  Clicked on the 'Select Check Box'
+Dec 16,2016 14:25:59 [info]  Clicked on the 'Add Button at Media rights Pop up Window'
+Dec 16,2016 14:26:03 [info]  Clicked on the 'Exhibition Day Scope Field'
+Dec 16,2016 14:26:04 [info]  Clicked on the 'Exhibition Day Scope Drop Down'
+Dec 16,2016 14:26:04 [info]  Clicked on the ''Season' in Exhi Scope field'
+Dec 16,2016 14:26:06 [info]  Clicked on the 'Support Click'
+Dec 16,2016 14:26:06 [info]  Verify The data of Season in ExhiScope
+Dec 16,2016 14:26:06 [info]  Verified that Expected value :[Season] is matched with Actual value :[Season]
+Dec 16,2016 14:26:07 [info]  Clicked on the 'Window Name Field'
+Dec 16,2016 14:26:08 [info]  Entered "RSG Window" in field 'Win Name'
+Dec 16,2016 14:26:09 [info]  Clicked on the 'Support Click'
+Dec 16,2016 14:26:09 [info]  Verify The data of Window Name
+Dec 16,2016 14:26:09 [info]  Verified that Expected value :[RSG Window] is matched with Actual value :[RSG Window]
+Dec 16,2016 14:26:10 [info]  Double clicked on 'Window Name Field'
+Dec 16,2016 14:26:14 [info]  Clicked on the 'Check box Linear'
+Dec 16,2016 14:26:14 [info]  "Linear Check box is checked" is Present
+Dec 16,2016 14:26:17 [info]  Clicked on the 'Apply Button at RIGHTSTYPE_POPUP' using JS Executor
+Dec 16,2016 14:26:18 [info]  Clicked on the 'Network pop up icon' using JS Executor
+Dec 16,2016 14:26:18 [info]  Double clicked on 'Network pop up icon'
+Dec 16,2016 14:26:28 [info]  ====Failed==== " Could not find the Frame: div[id*='WebDialogWindow2'][style*=visible]
+Dec 16,2016 14:26:29 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\16\FrameSwitchingFailed0_CheckpointFailure_12-16-2016 2-26-28 PM.jpg
+Dec 16,2016 14:26:39 [info]  ====Failed==== "Selected Channel AMC Linear" field is not present'
+Dec 16,2016 14:26:39 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\16\Selected Channel AMC Linear_CheckpointFailure_12-16-2016 2-26-39 PM.jpg
+Dec 16,2016 14:26:49 [info]  ====Failed==== "Ok button at Exhibtion Network Window" field is not present'
+Dec 16,2016 14:26:50 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\16\Ok button at Exhibtion Network Window_CheckpointFailure_12-16-2016 2-26-49 PM.jpg
+Dec 16,2016 14:26:54 [info]  Double clicked on 'Add Button'
+Dec 16,2016 14:27:00 [info]  Clicked on the 'Select Check Box'
+Dec 16,2016 14:27:01 [info]  Double clicked on 'Add Button at Media rights Pop up Window'
+Dec 16,2016 14:27:12 [info]  Clicked on the 'Exhibition Day Scope Field'
+Dec 16,2016 14:27:13 [info]  Clicked on the 'Exhibition Day Scope Drop Down'
+Dec 16,2016 14:27:13 [info]  Clicked on the ''Season' in Exhi Scope field'
+Dec 16,2016 14:27:15 [info]  Clicked on the 'Support Click'
+Dec 16,2016 14:27:15 [info]  Verify The data of Season in ExhiScope
+Dec 16,2016 14:27:15 [info]  Verified that Expected value :[Season] is matched with Actual value :[Season]
+Dec 16,2016 14:27:25 [info]  ====Failed==== "Window Name Field" field is not present'
+Dec 16,2016 14:27:25 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\16\Window Name Field_CheckpointFailure_12-16-2016 2-27-25 PM.jpg
+Dec 16,2016 14:27:36 [info]  ====Failed==== "Win Name" field is not present'Win Name'
+Dec 16,2016 14:27:36 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\16\Win Name_CheckpointFailure_12-16-2016 2-27-36 PM.jpg
+Dec 16,2016 14:27:36 [info]  Clicked on the 'Support Click'
+Dec 16,2016 14:27:47 [info]  Verify The data of Window Name
+Dec 16,2016 14:27:47 [info]  ====Failed==== Expected value is:[RSG Window] but Actual value is[]. Please check the screenshot with name: Window Namefor more details
+Dec 16,2016 14:27:47 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\16\Window Name_CheckpointFailure_12-16-2016 2-27-47 PM.jpg
+Dec 16,2016 14:27:58 [info]  Could not find the locator: Window Name Field'
+Dec 16,2016 14:27:58 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\16\Window Name Field_CheckpointFailure_12-16-2016 2-27-58 PM.jpg
+Dec 16,2016 14:28:08 [info]  ====Failed==== " Could not find the Frame: div[id*='WebDialogWindow2'][style*=visible]
+Dec 16,2016 14:28:08 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\16\FrameSwitchingFailed1_CheckpointFailure_12-16-2016 2-28-08 PM.jpg
+Dec 16,2016 14:28:21 [info]  ====Failed==== "Check box Linear" field is not present'
+Dec 16,2016 14:28:22 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\16\Check box Linear_CheckpointFailure_12-16-2016 2-28-21 PM.jpg
+Dec 16,2016 14:28:32 [info]  ====Failed==== "Linear Check box is checked"  does not exist.
+Dec 16,2016 14:28:32 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\16\Linear Check box is checked_CheckpointFailure_12-16-2016 2-28-32 PM.jpg
+Dec 16,2016 14:28:45 [info]  ====Failed==== "Apply Button at RIGHTSTYPE_POPUP" field is not present'
+Dec 16,2016 14:28:45 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\16\Apply Button at RIGHTSTYPE_POPUP_CheckpointFailure_12-16-2016 2-28-45 PM.jpg
+Dec 16,2016 14:28:56 [info]  ====Failed==== "Network pop up icon" field is not present'
+Dec 16,2016 14:28:56 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\16\Network pop up icon_CheckpointFailure_12-16-2016 2-28-56 PM.jpg
+Dec 16,2016 14:29:07 [info]  Could not find the locator: Network pop up icon'
+Dec 16,2016 14:29:07 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\16\Network pop up icon_CheckpointFailure_12-16-2016 2-29-07 PM.jpg
+Dec 16,2016 14:29:17 [info]  ====Failed==== " Could not find the Frame: div[id*='WebDialogWindow2'][style*=visible]
+Dec 16,2016 14:29:17 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\16\FrameSwitchingFailed2_CheckpointFailure_12-16-2016 2-29-17 PM.jpg
+Dec 16,2016 14:29:27 [info]  ====Failed==== "Selected Channel AMC Linear" field is not present'
+Dec 16,2016 14:29:28 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\16\Selected Channel AMC Linear_CheckpointFailure_12-16-2016 2-29-27 PM.jpg
+Dec 16,2016 14:29:38 [info]  ====Failed==== "Ok button at Exhibtion Network Window" field is not present'
+Dec 16,2016 14:29:38 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\16\Ok button at Exhibtion Network Window_CheckpointFailure_12-16-2016 2-29-38 PM.jpg
+Dec 16,2016 14:29:41 [info]  Test 'TC7_DeleteFunctionality' PASSED
+Dec 16,2016 14:29:43 [info]  Closed the Browser
+Dec 16,2016 14:44:18 [info]  ********************Started Executiong the Test Suite at 14:44:18******************
+Dec 16,2016 14:44:18 [info]  Client: AMCN
+Dec 16,2016 14:44:18 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Dec 16,2016 14:44:18 [info]  *********************Started Executing 'TC7_DeleteFunctionality' Test Case*********************
+Dec 16,2016 14:44:28 [info]  Client: AMCN
+Dec 16,2016 14:44:28 [info]  URL: http://rlv2wb79/login.aspx
+Dec 16,2016 14:44:28 [info]  UserName: automation
+Dec 16,2016 14:44:28 [info]  Password: automation
+Dec 16,2016 14:44:29 [info]  Entered "automation" in field 'User Name'
+Dec 16,2016 14:44:30 [info]  Clicked on the 'Temporary Check Box'
+Dec 16,2016 14:44:32 [info]  Entered "automation" in field 'Password'
+Dec 16,2016 14:44:38 [info]  Clicked on the 'LoginButton'
+Dec 16,2016 14:44:46 [info]  Double clicked on 'AUT_Deal_TC7_12152016101228Deal'
+Dec 16,2016 14:44:54 [info]  Clicked on the 'Exhibition Rights TAB'
+Dec 16,2016 14:44:55 [info]  Clicked on the ''Edit' Button at Media Rights TAB' using JS Executor
+Dec 16,2016 14:45:56 [info]  ********************Started Executiong the Test Suite at 14:45:56******************
+Dec 16,2016 14:45:56 [info]  Client: AMCN
+Dec 16,2016 14:45:56 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Dec 16,2016 14:45:56 [info]  *********************Started Executing 'TC7_DeleteFunctionality' Test Case*********************
+Dec 16,2016 14:46:05 [info]  Client: AMCN
+Dec 16,2016 14:46:05 [info]  URL: http://rlv2wb79/login.aspx
+Dec 16,2016 14:46:05 [info]  UserName: automation
+Dec 16,2016 14:46:05 [info]  Password: automation
+Dec 16,2016 14:46:06 [info]  Entered "automation" in field 'User Name'
+Dec 16,2016 14:46:06 [info]  Clicked on the 'Temporary Check Box'
+Dec 16,2016 14:46:07 [info]  Entered "automation" in field 'Password'
+Dec 16,2016 14:46:13 [info]  Clicked on the 'LoginButton'
+Dec 16,2016 14:46:20 [info]  Double clicked on 'AUT_Deal_TC7_12152016101228Deal'
+Dec 16,2016 14:46:29 [info]  Clicked on the 'Exhibition Rights TAB'
+Dec 16,2016 14:46:30 [info]  Clicked on the ''Edit' Button at Media Rights TAB' using JS Executor
+Dec 16,2016 14:50:30 [info]  ********************Started Executiong the Test Suite at 14:50:30******************
+Dec 16,2016 14:50:30 [info]  Client: AMCN
+Dec 16,2016 14:50:30 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Dec 16,2016 14:50:30 [info]  *********************Started Executing 'TC7_DeleteFunctionality' Test Case*********************
+Dec 16,2016 14:50:40 [info]  Client: AMCN
+Dec 16,2016 14:50:40 [info]  URL: http://rlv2wb79/login.aspx
+Dec 16,2016 14:50:40 [info]  UserName: automation
+Dec 16,2016 14:50:40 [info]  Password: automation
+Dec 16,2016 14:50:41 [info]  Entered "automation" in field 'User Name'
+Dec 16,2016 14:50:41 [info]  Clicked on the 'Temporary Check Box'
+Dec 16,2016 14:50:42 [info]  Entered "automation" in field 'Password'
+Dec 16,2016 14:50:48 [info]  Clicked on the 'LoginButton'
+Dec 16,2016 14:50:55 [info]  Double clicked on 'AUT_Deal_TC7_12152016101228Deal'
+Dec 16,2016 14:51:04 [info]  Clicked on the 'Exhibition Rights TAB'
+Dec 16,2016 14:51:05 [info]  Clicked on the ''Edit' Button at Media Rights TAB' using JS Executor
+Dec 16,2016 14:51:59 [info]  ********************Started Executiong the Test Suite at 14:51:59******************
+Dec 16,2016 14:51:59 [info]  Client: AMCN
+Dec 16,2016 14:51:59 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Dec 16,2016 14:51:59 [info]  *********************Started Executing 'TC7_DeleteFunctionality' Test Case*********************
+Dec 16,2016 14:52:08 [info]  Client: AMCN
+Dec 16,2016 14:52:08 [info]  URL: http://rlv2wb79/login.aspx
+Dec 16,2016 14:52:08 [info]  UserName: automation
+Dec 16,2016 14:52:08 [info]  Password: automation
+Dec 16,2016 14:52:09 [info]  Entered "automation" in field 'User Name'
+Dec 16,2016 14:52:09 [info]  Clicked on the 'Temporary Check Box'
+Dec 16,2016 14:52:10 [info]  Entered "automation" in field 'Password'
+Dec 16,2016 14:52:17 [info]  Clicked on the 'LoginButton'
+Dec 16,2016 14:52:23 [info]  Double clicked on 'AUT_Deal_TC7_12152016101228Deal'
+Dec 16,2016 14:52:33 [info]  Clicked on the 'Exhibition Rights TAB'
+Dec 16,2016 14:52:33 [info]  Clicked on the ''Edit' Button at Media Rights TAB' using JS Executor
+Dec 16,2016 14:52:36 [info]  ====Failed==== " Could not find the Frame: div[id*='WebDialogWindow1'][style*=visible]
+Dec 16,2016 14:52:41 [info]  Clicked on the 'Add Button'
+Dec 16,2016 14:52:46 [info]  Clicked on the 'Select Check Box'
+Dec 16,2016 14:52:49 [info]  Clicked on the 'Add Button at Media rights Pop up Window'
+Dec 16,2016 14:52:53 [info]  Clicked on the 'Exhibition Day Scope Field'
+Dec 16,2016 14:52:54 [info]  Clicked on the 'Exhibition Day Scope Drop Down'
+Dec 16,2016 14:52:54 [info]  Clicked on the ''Season' in Exhi Scope field'
+Dec 16,2016 14:52:55 [info]  Clicked on the 'Support Click'
+Dec 16,2016 14:52:55 [info]  Verify The data of Season in ExhiScope
+Dec 16,2016 14:52:55 [info]  Verified that Expected value :[Season] is matched with Actual value :[Season]
+Dec 16,2016 14:52:56 [info]  Clicked on the 'Window Name Field'
+Dec 16,2016 14:52:57 [info]  Entered "RSG Window" in field 'Win Name'
+Dec 16,2016 14:52:58 [info]  Clicked on the 'Support Click'
+Dec 16,2016 14:52:58 [info]  Verify The data of Window Name
+Dec 16,2016 14:52:58 [info]  Verified that Expected value :[RSG Window] is matched with Actual value :[RSG Window]
+Dec 16,2016 14:52:59 [info]  Double clicked on 'Window Name Field'
+Dec 16,2016 14:53:03 [info]  Clicked on the 'Check box Linear'
+Dec 16,2016 14:53:03 [info]  "Linear Check box is checked" is Present
+Dec 16,2016 14:53:06 [info]  Clicked on the 'Apply Button at RIGHTSTYPE_POPUP' using JS Executor
+Dec 16,2016 14:53:09 [info]  Clicked on the 'Network pop up icon' using JS Executor
+Dec 16,2016 14:53:10 [info]  Double clicked on 'Network pop up icon'
+Dec 16,2016 14:53:10 [info]  ====Failed==== "Selected Channel AMC Linear" field is not present'
+Dec 16,2016 14:53:11 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\16\Selected Channel AMC Linear_CheckpointFailure_12-16-2016 2-53-10 PM.jpg
+Dec 16,2016 14:53:12 [info]  Clicked on the 'Ok button at Exhibtion Network Window'
+Dec 16,2016 14:53:16 [info]  Double clicked on 'Add Button'
+Dec 16,2016 14:53:20 [info]  Test 'TC7_DeleteFunctionality' FAILED
+Dec 16,2016 14:53:20 [info]  2
+Dec 16,2016 14:53:20 [info]  Test Case :TC7_DeleteFunctionality's Screenshot of Failure Page: C:\Screenshots\Dec2016\\16\TC7_DeleteFunctionality_12-16-2016 2-53-20 PM.jpg
+Dec 16,2016 14:53:21 [info]  Closed the Browser
+Dec 16,2016 14:54:13 [info]  ********************Started Executiong the Test Suite at 14:54:13******************
+Dec 16,2016 14:54:13 [info]  Client: AMCN
+Dec 16,2016 14:54:13 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Dec 16,2016 14:54:13 [info]  *********************Started Executing 'TC7_DeleteFunctionality' Test Case*********************
+Dec 16,2016 14:54:22 [info]  Client: AMCN
+Dec 16,2016 14:54:22 [info]  URL: http://rlv2wb79/login.aspx
+Dec 16,2016 14:54:22 [info]  UserName: automation
+Dec 16,2016 14:54:22 [info]  Password: automation
+Dec 16,2016 14:54:23 [info]  Entered "automation" in field 'User Name'
+Dec 16,2016 14:54:23 [info]  Clicked on the 'Temporary Check Box'
+Dec 16,2016 14:54:24 [info]  Entered "automation" in field 'Password'
+Dec 16,2016 14:54:30 [info]  Clicked on the 'LoginButton'
+Dec 16,2016 14:54:37 [info]  Double clicked on 'AUT_Deal_TC7_12152016101228Deal'
+Dec 16,2016 14:54:47 [info]  Clicked on the 'Exhibition Rights TAB'
+Dec 16,2016 14:54:47 [info]  Clicked on the ''Edit' Button at Media Rights TAB' using JS Executor
+Dec 16,2016 14:54:56 [info]  Clicked on the 'Add Button'
+Dec 16,2016 14:55:00 [info]  Clicked on the 'Select Check Box'
+Dec 16,2016 14:55:03 [info]  Clicked on the 'Add Button at Media rights Pop up Window'
+Dec 16,2016 14:55:07 [info]  Clicked on the 'Exhibition Day Scope Field'
+Dec 16,2016 14:55:08 [info]  Clicked on the 'Exhibition Day Scope Drop Down'
+Dec 16,2016 14:55:08 [info]  Clicked on the ''Season' in Exhi Scope field'
+Dec 16,2016 14:55:09 [info]  Clicked on the 'Support Click'
+Dec 16,2016 14:55:09 [info]  Verify The data of Season in ExhiScope
+Dec 16,2016 14:55:09 [info]  Verified that Expected value :[Season] is matched with Actual value :[Season]
+Dec 16,2016 14:55:10 [info]  Clicked on the 'Window Name Field'
+Dec 16,2016 14:55:11 [info]  Entered "RSG Window" in field 'Win Name'
+Dec 16,2016 14:55:12 [info]  Clicked on the 'Support Click'
+Dec 16,2016 14:55:12 [info]  Verify The data of Window Name
+Dec 16,2016 14:55:12 [info]  Verified that Expected value :[RSG Window] is matched with Actual value :[RSG Window]
+Dec 16,2016 14:55:13 [info]  Double clicked on 'Window Name Field'
+Dec 16,2016 14:55:16 [info]  Clicked on the 'Check box Linear'
+Dec 16,2016 14:55:16 [info]  "Linear Check box is checked" is Present
+Dec 16,2016 14:55:19 [info]  Clicked on the 'Apply Button at RIGHTSTYPE_POPUP' using JS Executor
+Dec 16,2016 14:55:23 [info]  Clicked on the 'Network pop up icon' using JS Executor
+Dec 16,2016 14:55:23 [info]  Double clicked on 'Network pop up icon'
+Dec 16,2016 14:55:27 [info]  Clicked on the 'Selected Channel AMC Linear'
+Dec 16,2016 14:55:30 [info]  Clicked on the 'Ok button at Exhibtion Network Window'
+Dec 16,2016 14:55:34 [info]  Double clicked on 'Add Button'
+Dec 16,2016 14:55:40 [info]  Clicked on the 'Select Check Box'
+Dec 16,2016 14:55:41 [info]  Double clicked on 'Add Button at Media rights Pop up Window'
+Dec 16,2016 14:55:52 [info]  Clicked on the 'Exhibition Day Scope Field'
+Dec 16,2016 14:55:52 [info]  Clicked on the 'Exhibition Day Scope Drop Down'
+Dec 16,2016 14:55:53 [info]  Clicked on the ''Season' in Exhi Scope field'
+Dec 16,2016 14:55:53 [info]  Clicked on the 'Support Click'
+Dec 16,2016 14:55:54 [info]  Verify The data of Season in ExhiScope
+Dec 16,2016 14:55:54 [info]  Verified that Expected value :[Season] is matched with Actual value :[Season]
+Dec 16,2016 14:56:04 [info]  ====Failed==== "Window Name Field" field is not present'
+Dec 16,2016 14:56:04 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\16\Window Name Field_CheckpointFailure_12-16-2016 2-56-04 PM.jpg
+Dec 16,2016 14:56:14 [info]  ====Failed==== "Win Name" field is not present'Win Name'
+Dec 16,2016 14:56:14 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\16\Win Name_CheckpointFailure_12-16-2016 2-56-14 PM.jpg
+Dec 16,2016 14:56:15 [info]  Clicked on the 'Support Click'
+Dec 16,2016 15:03:10 [info]  ********************Started Executiong the Test Suite at 15:03:10******************
+Dec 16,2016 15:03:10 [info]  Client: AMCN
+Dec 16,2016 15:03:10 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Dec 16,2016 15:03:10 [info]  *********************Started Executing 'TC7_DeleteFunctionality' Test Case*********************
+Dec 16,2016 15:03:19 [info]  Client: AMCN
+Dec 16,2016 15:03:19 [info]  URL: http://rlv2wb79/login.aspx
+Dec 16,2016 15:03:19 [info]  UserName: automation
+Dec 16,2016 15:03:19 [info]  Password: automation
+Dec 16,2016 15:03:20 [info]  Entered "automation" in field 'User Name'
+Dec 16,2016 15:03:21 [info]  Clicked on the 'Temporary Check Box'
+Dec 16,2016 15:03:21 [info]  Entered "automation" in field 'Password'
+Dec 16,2016 15:03:29 [info]  Clicked on the 'LoginButton'
+Dec 16,2016 15:03:36 [info]  Double clicked on 'AUT_Deal_TC7_12152016101228Deal'
+Dec 16,2016 15:03:46 [info]  Clicked on the 'Exhibition Rights TAB'
+Dec 16,2016 15:03:47 [info]  Clicked on the ''Edit' Button at Media Rights TAB' using JS Executor
+Dec 16,2016 15:03:55 [info]  Clicked on the 'Add Button'
+Dec 16,2016 15:04:01 [info]  Clicked on the 'Select Check Box'
+Dec 16,2016 15:04:04 [info]  Clicked on the 'Add Button at Media rights Pop up Window'
+Dec 16,2016 15:04:08 [info]  Double clicked on 'Add Button'
+Dec 16,2016 15:04:15 [info]  Clicked on the 'Select Check Box'
+Dec 16,2016 15:04:16 [info]  Double clicked on 'Add Button at Media rights Pop up Window'
+Dec 16,2016 15:04:27 [info]  Clicked on the 'Exhibition Day Scope Field'
+Dec 16,2016 15:04:27 [info]  Clicked on the 'Exhibition Day Scope Drop Down'
+Dec 16,2016 15:04:28 [info]  Clicked on the ''Season' in Exhi Scope field'
+Dec 16,2016 15:04:29 [info]  Clicked on the 'Support Click'
+Dec 16,2016 15:04:29 [info]  Verify The data of Season in ExhiScope
+Dec 16,2016 15:04:29 [info]  Verified that Expected value :[Season] is matched with Actual value :[Season]
+Dec 16,2016 15:04:39 [info]  ====Failed==== "Window Name Field" field is not present'
+Dec 16,2016 15:04:39 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\16\Window Name Field_CheckpointFailure_12-16-2016 3-04-39 PM.jpg
+Dec 16,2016 15:04:50 [info]  ====Failed==== "Win Name" field is not present'Win Name'
+Dec 16,2016 15:04:50 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\16\Win Name_CheckpointFailure_12-16-2016 3-04-50 PM.jpg
+Dec 16,2016 15:04:50 [info]  Clicked on the 'Support Click'
+Dec 16,2016 15:07:16 [info]  ********************Started Executiong the Test Suite at 15:07:16******************
+Dec 16,2016 15:07:16 [info]  Client: AMCN
+Dec 16,2016 15:07:16 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Dec 16,2016 15:07:16 [info]  *********************Started Executing 'TC7_DeleteFunctionality' Test Case*********************
+Dec 16,2016 15:07:25 [info]  Client: AMCN
+Dec 16,2016 15:07:25 [info]  URL: http://rlv2wb79/login.aspx
+Dec 16,2016 15:07:25 [info]  UserName: automation
+Dec 16,2016 15:07:25 [info]  Password: automation
+Dec 16,2016 15:07:26 [info]  Entered "automation" in field 'User Name'
+Dec 16,2016 15:07:27 [info]  Clicked on the 'Temporary Check Box'
+Dec 16,2016 15:07:27 [info]  Entered "automation" in field 'Password'
+Dec 16,2016 15:07:34 [info]  Clicked on the 'LoginButton'
+Dec 16,2016 15:07:41 [info]  Double clicked on 'AUT_Deal_TC7_12152016101228Deal'
+Dec 16,2016 15:07:50 [info]  Clicked on the 'Exhibition Rights TAB'
+Dec 16,2016 15:07:51 [info]  Clicked on the ''Edit' Button at Media Rights TAB' using JS Executor
+Dec 16,2016 15:07:59 [info]  Clicked on the 'Add Button'
+Dec 16,2016 15:08:04 [info]  Clicked on the 'Select Check Box'
+Dec 16,2016 15:08:07 [info]  Clicked on the 'Add Button at Media rights Pop up Window'
+Dec 16,2016 15:08:11 [info]  Double clicked on 'Add Button'
+Dec 16,2016 15:08:17 [info]  Clicked on the 'Select Check Box'
+Dec 16,2016 15:08:17 [info]  Double clicked on 'Add Button at Media rights Pop up Window'
+Dec 16,2016 15:08:29 [info]  Clicked on the 'Exhibition Day Scope Field'
+Dec 16,2016 15:08:29 [info]  Clicked on the 'Exhibition Day Scope Drop Down'
+Dec 16,2016 15:08:30 [info]  Clicked on the ''Season' in Exhi Scope field'
+Dec 16,2016 15:08:31 [info]  Clicked on the 'Support Click'
+Dec 16,2016 15:08:31 [info]  Verify The data of Season in ExhiScope
+Dec 16,2016 15:08:31 [info]  Verified that Expected value :[Season] is matched with Actual value :[Season]
+Dec 16,2016 15:08:33 [info]  Clicked on the 'Window Name Field'
+Dec 16,2016 15:08:33 [info]  Entered "RSG Window" in field 'Win Name'
+Dec 16,2016 15:08:34 [info]  Clicked on the 'Support Click'
+Dec 16,2016 15:08:35 [info]  Verify The data of Window Name
+Dec 16,2016 15:08:35 [info]  Verified that Expected value :[RSG Window] is matched with Actual value :[RSG Window]
+Dec 16,2016 15:08:36 [info]  Double clicked on 'Window Name Field'
+Dec 16,2016 15:08:40 [info]  Clicked on the 'Check box Linear'
+Dec 16,2016 15:08:40 [info]  "Linear Check box is checked" is Present
+Dec 16,2016 15:08:43 [info]  Clicked on the 'Apply Button at RIGHTSTYPE_POPUP' using JS Executor
+Dec 16,2016 15:08:46 [info]  Clicked on the 'Network pop up icon' using JS Executor
+Dec 16,2016 15:08:47 [info]  Double clicked on 'Network pop up icon'
+Dec 16,2016 15:08:51 [info]  Clicked on the 'Selected Channel AMC Linear'
+Dec 16,2016 15:08:54 [info]  Clicked on the 'Ok button at Exhibtion Network Window'
+Dec 16,2016 15:08:58 [info]  Test 'TC7_DeleteFunctionality' PASSED
+Dec 16,2016 15:08:59 [info]  Closed the Browser
+Dec 16,2016 15:10:03 [info]  ********************Started Executiong the Test Suite at 15:10:03******************
+Dec 16,2016 15:10:03 [info]  Client: AMCN
+Dec 16,2016 15:10:03 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Dec 16,2016 15:10:03 [info]  *********************Started Executing 'TC7_DeleteFunctionality' Test Case*********************
+Dec 16,2016 15:10:13 [info]  Client: AMCN
+Dec 16,2016 15:10:13 [info]  URL: http://rlv2wb79/login.aspx
+Dec 16,2016 15:10:13 [info]  UserName: automation
+Dec 16,2016 15:10:13 [info]  Password: automation
+Dec 16,2016 15:10:14 [info]  Entered "automation" in field 'User Name'
+Dec 16,2016 15:10:14 [info]  Clicked on the 'Temporary Check Box'
+Dec 16,2016 15:10:15 [info]  Entered "automation" in field 'Password'
+Dec 16,2016 15:10:22 [info]  Clicked on the 'LoginButton'
+Dec 16,2016 15:10:28 [info]  Double clicked on 'AUT_Deal_TC7_12152016101228Deal'
+Dec 16,2016 15:10:38 [info]  Clicked on the 'Exhibition Rights TAB'
+Dec 16,2016 15:10:38 [info]  Clicked on the ''Edit' Button at Media Rights TAB' using JS Executor
+Dec 16,2016 15:10:47 [info]  Clicked on the 'Add Button'
+Dec 16,2016 15:10:51 [info]  Clicked on the 'Select Check Box'
+Dec 16,2016 15:10:54 [info]  Clicked on the 'Add Button at Media rights Pop up Window'
+Dec 16,2016 15:10:59 [info]  Clicked on the 'Exhibition Day Scope Field'
+Dec 16,2016 15:10:59 [info]  Clicked on the 'Exhibition Day Scope Drop Down'
+Dec 16,2016 15:11:00 [info]  Clicked on the ''Season' in Exhi Scope field'
+Dec 16,2016 15:11:01 [info]  Clicked on the 'Support Click'
+Dec 16,2016 15:11:01 [info]  Verify The data of Season in ExhiScope
+Dec 16,2016 15:11:01 [info]  Verified that Expected value :[Season] is matched with Actual value :[Season]
+Dec 16,2016 15:11:02 [info]  Clicked on the 'Window Name Field'
+Dec 16,2016 15:11:03 [info]  Entered "RSG Window" in field 'Win Name'
+Dec 16,2016 15:11:03 [info]  Clicked on the 'Support Click'
+Dec 16,2016 15:11:04 [info]  Verify The data of Window Name
+Dec 16,2016 15:11:04 [info]  Verified that Expected value :[RSG Window] is matched with Actual value :[RSG Window]
+Dec 16,2016 15:11:05 [info]  Double clicked on 'Window Name Field'
+Dec 16,2016 15:11:08 [info]  Clicked on the 'Check box Linear'
+Dec 16,2016 15:11:08 [info]  "Linear Check box is checked" is Present
+Dec 16,2016 15:11:12 [info]  Clicked on the 'Apply Button at RIGHTSTYPE_POPUP' using JS Executor
+Dec 16,2016 15:11:15 [info]  Clicked on the 'Network pop up icon' using JS Executor
+Dec 16,2016 15:11:15 [info]  Double clicked on 'Network pop up icon'
+Dec 16,2016 15:11:19 [info]  Clicked on the 'Selected Channel AMC Linear'
+Dec 16,2016 15:11:22 [info]  Clicked on the 'Ok button at Exhibtion Network Window'
+Dec 16,2016 15:11:27 [info]  Double clicked on 'Add Button'
+Dec 16,2016 15:11:33 [info]  Clicked on the 'Select Check Box'
+Dec 16,2016 15:11:33 [info]  Double clicked on 'Add Button at Media rights Pop up Window'
+Dec 16,2016 15:11:45 [info]  Clicked on the 'Exhibition Day Scope Field'
+Dec 16,2016 15:11:45 [info]  Clicked on the 'Exhibition Day Scope Drop Down'
+Dec 16,2016 15:11:46 [info]  Clicked on the ''Season' in Exhi Scope field'
+Dec 16,2016 15:11:47 [info]  Clicked on the 'Support Click'
+Dec 16,2016 15:11:47 [info]  Verify The data of Season in ExhiScope
+Dec 16,2016 15:11:47 [info]  Verified that Expected value :[Season] is matched with Actual value :[Season]
+Dec 16,2016 15:11:48 [info]  Clicked on the 'Window Name Field'
+Dec 16,2016 15:11:49 [info]  Entered "RSG Window" in field 'Win Name'
+Dec 16,2016 15:11:50 [info]  Clicked on the 'Support Click'
+Dec 16,2016 15:11:50 [info]  Verify The data of Window Name
+Dec 16,2016 15:11:50 [info]  Verified that Expected value :[RSG Window] is matched with Actual value :[RSG Window]
+Dec 16,2016 15:11:52 [info]  Double clicked on 'Window Name Field'
+Dec 16,2016 15:11:55 [info]  Clicked on the 'Check box Linear'
+Dec 16,2016 15:11:55 [info]  "Linear Check box is checked" is Present
+Dec 16,2016 15:11:59 [info]  Clicked on the 'Apply Button at RIGHTSTYPE_POPUP' using JS Executor
+Dec 16,2016 15:12:02 [info]  Clicked on the 'Network pop up icon' using JS Executor
+Dec 16,2016 15:12:03 [info]  Double clicked on 'Network pop up icon'
+Dec 16,2016 15:12:07 [info]  Clicked on the 'Selected Channel AMC Linear'
+Dec 16,2016 15:12:10 [info]  Clicked on the 'Ok button at Exhibtion Network Window'
+Dec 16,2016 15:12:14 [info]  Clicked on the ''Save' Button at Media Rights Edit window' using JS Executor
+Dec 16,2016 15:12:25 [info]  Verified that Expected value :[Changes Saved Successfully.] is matched with Actual value :[Changes Saved Successfully. The Filter has been updated to reflect your changes.]
+Dec 16,2016 15:12:25 [info]  Test 'TC7_DeleteFunctionality' PASSED
+Dec 16,2016 15:12:26 [info]  Closed the Browser
+Dec 16,2016 15:34:11 [info]  ********************Started Executiong the Test Suite at 15:34:11******************
+Dec 16,2016 15:34:11 [info]  Client: AMCN
+Dec 16,2016 15:34:11 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Dec 16,2016 15:34:11 [info]  *********************Started Executing 'TC7_DeleteFunctionality' Test Case*********************
+Dec 16,2016 15:34:20 [info]  Client: AMCN
+Dec 16,2016 15:34:20 [info]  URL: http://rlv2wb79/login.aspx
+Dec 16,2016 15:34:20 [info]  UserName: automation
+Dec 16,2016 15:34:20 [info]  Password: automation
+Dec 16,2016 15:34:22 [info]  Entered "automation" in field 'User Name'
+Dec 16,2016 15:34:22 [info]  Clicked on the 'Temporary Check Box'
+Dec 16,2016 15:34:23 [info]  Entered "automation" in field 'Password'
+Dec 16,2016 15:34:31 [info]  Clicked on the 'LoginButton'
+Dec 16,2016 15:34:38 [info]  Double clicked on 'AUT_Deal_TC7_12152016101228Deal'
+Dec 16,2016 15:34:50 [info]  Clicked on the 'Exhibition Rights TAB'
+Dec 16,2016 15:34:51 [info]  Clicked on the ''Edit' Button at Media Rights TAB' using JS Executor
+Dec 16,2016 15:36:48 [info]  ********************Started Executiong the Test Suite at 15:36:48******************
+Dec 16,2016 15:36:48 [info]  Client: AMCN
+Dec 16,2016 15:36:48 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Dec 16,2016 15:36:48 [info]  *********************Started Executing 'TC7_DeleteFunctionality' Test Case*********************
+Dec 16,2016 15:37:03 [info]  ********************Started Executiong the Test Suite at 15:37:03******************
+Dec 16,2016 15:37:03 [info]  Client: AMCN
+Dec 16,2016 15:37:03 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Dec 16,2016 15:37:03 [info]  *********************Started Executing 'TC7_DeleteFunctionality' Test Case*********************
+Dec 16,2016 15:37:12 [info]  Client: AMCN
+Dec 16,2016 15:37:12 [info]  URL: http://rlv2wb79/login.aspx
+Dec 16,2016 15:37:12 [info]  UserName: automation
+Dec 16,2016 15:37:12 [info]  Password: automation
+Dec 16,2016 15:37:13 [info]  Entered "automation" in field 'User Name'
+Dec 16,2016 15:37:13 [info]  Clicked on the 'Temporary Check Box'
+Dec 16,2016 15:37:14 [info]  Entered "automation" in field 'Password'
+Dec 16,2016 15:37:21 [info]  Clicked on the 'LoginButton'
+Dec 16,2016 15:37:28 [info]  Double clicked on 'AUT_Deal_TC7_12152016101228Deal'
+Dec 16,2016 15:37:38 [info]  Clicked on the 'Exhibition Rights TAB'
+Dec 16,2016 15:37:38 [info]  Clicked on the ''Edit' Button at Media Rights TAB' using JS Executor
+Dec 16,2016 15:38:40 [info]  ********************Started Executiong the Test Suite at 15:38:40******************
+Dec 16,2016 15:38:40 [info]  Client: AMCN
+Dec 16,2016 15:38:40 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Dec 16,2016 15:38:40 [info]  *********************Started Executing 'TC7_DeleteFunctionality' Test Case*********************
+Dec 16,2016 15:38:49 [info]  Client: AMCN
+Dec 16,2016 15:38:49 [info]  URL: http://rlv2wb79/login.aspx
+Dec 16,2016 15:38:49 [info]  UserName: automation
+Dec 16,2016 15:38:49 [info]  Password: automation
+Dec 16,2016 15:38:50 [info]  Entered "automation" in field 'User Name'
+Dec 16,2016 15:38:51 [info]  Clicked on the 'Temporary Check Box'
+Dec 16,2016 15:38:51 [info]  Entered "automation" in field 'Password'
+Dec 16,2016 15:38:58 [info]  Clicked on the 'LoginButton'
+Dec 16,2016 15:39:05 [info]  Double clicked on 'AUT_Deal_TC7_12152016101228Deal'
+Dec 16,2016 15:39:15 [info]  Clicked on the 'Exhibition Rights TAB'
+Dec 16,2016 15:39:16 [info]  Clicked on the ''Edit' Button at Media Rights TAB' using JS Executor
+Dec 16,2016 15:40:29 [info]  ********************Started Executiong the Test Suite at 15:40:29******************
+Dec 16,2016 15:40:29 [info]  Client: AMCN
+Dec 16,2016 15:40:29 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Dec 16,2016 15:40:29 [info]  *********************Started Executing 'TC7_DeleteFunctionality' Test Case*********************
+Dec 16,2016 15:40:39 [info]  Client: AMCN
+Dec 16,2016 15:40:39 [info]  URL: http://rlv2wb79/login.aspx
+Dec 16,2016 15:40:39 [info]  UserName: automation
+Dec 16,2016 15:40:39 [info]  Password: automation
+Dec 16,2016 15:40:40 [info]  Entered "automation" in field 'User Name'
+Dec 16,2016 15:40:40 [info]  Clicked on the 'Temporary Check Box'
+Dec 16,2016 15:40:41 [info]  Entered "automation" in field 'Password'
+Dec 16,2016 15:40:48 [info]  Clicked on the 'LoginButton'
+Dec 16,2016 15:40:55 [info]  Double clicked on 'AUT_Deal_TC7_12152016101228Deal'
+Dec 16,2016 15:41:05 [info]  Clicked on the 'Exhibition Rights TAB'
+Dec 16,2016 15:41:05 [info]  Clicked on the ''Edit' Button at Media Rights TAB' using JS Executor
+Dec 16,2016 15:41:45 [info]  ********************Started Executiong the Test Suite at 15:41:45******************
+Dec 16,2016 15:41:45 [info]  Client: AMCN
+Dec 16,2016 15:41:45 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Dec 16,2016 15:41:45 [info]  *********************Started Executing 'TC7_DeleteFunctionality' Test Case*********************
+Dec 16,2016 15:41:54 [info]  Client: AMCN
+Dec 16,2016 15:41:54 [info]  URL: http://rlv2wb79/login.aspx
+Dec 16,2016 15:41:54 [info]  UserName: automation
+Dec 16,2016 15:41:54 [info]  Password: automation
+Dec 16,2016 15:41:55 [info]  Entered "automation" in field 'User Name'
+Dec 16,2016 15:41:56 [info]  Clicked on the 'Temporary Check Box'
+Dec 16,2016 15:41:56 [info]  Entered "automation" in field 'Password'
+Dec 16,2016 15:41:57 [info]  Clicked on the 'LoginButton'
+Dec 16,2016 15:42:04 [info]  Double clicked on 'AUT_Deal_TC7_12152016101228Deal'
+Dec 16,2016 15:42:14 [info]  Clicked on the 'Exhibition Rights TAB'
+Dec 16,2016 15:42:15 [info]  Clicked on the ''Edit' Button at Media Rights TAB' using JS Executor
+Dec 16,2016 15:44:20 [info]  ********************Started Executiong the Test Suite at 15:44:20******************
+Dec 16,2016 15:44:20 [info]  Client: AMCN
+Dec 16,2016 15:44:20 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Dec 16,2016 15:44:20 [info]  *********************Started Executing 'TC7_DeleteFunctionality' Test Case*********************
+Dec 16,2016 15:44:30 [info]  Client: AMCN
+Dec 16,2016 15:44:30 [info]  URL: http://rlv2wb79/login.aspx
+Dec 16,2016 15:44:30 [info]  UserName: automation
+Dec 16,2016 15:44:30 [info]  Password: automation
+Dec 16,2016 15:44:31 [info]  Entered "automation" in field 'User Name'
+Dec 16,2016 15:44:32 [info]  Clicked on the 'Temporary Check Box'
+Dec 16,2016 15:44:32 [info]  Entered "automation" in field 'Password'
+Dec 16,2016 15:44:40 [info]  Clicked on the 'LoginButton'
+Dec 16,2016 15:44:46 [info]  Double clicked on 'AUT_Deal_TC7_12152016101228Deal'
+Dec 16,2016 15:44:56 [info]  Clicked on the 'Exhibition Rights TAB'
+Dec 16,2016 15:44:56 [info]  Clicked on the ''Edit' Button at Media Rights TAB' using JS Executor
+Dec 16,2016 15:45:59 [info]  ********************Started Executiong the Test Suite at 15:45:59******************
+Dec 16,2016 15:45:59 [info]  Client: AMCN
+Dec 16,2016 15:45:59 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Dec 16,2016 15:45:59 [info]  *********************Started Executing 'TC7_DeleteFunctionality' Test Case*********************
+Dec 16,2016 15:46:08 [info]  Client: AMCN
+Dec 16,2016 15:46:08 [info]  URL: http://rlv2wb79/login.aspx
+Dec 16,2016 15:46:08 [info]  UserName: automation
+Dec 16,2016 15:46:08 [info]  Password: automation
+Dec 16,2016 15:46:09 [info]  Entered "automation" in field 'User Name'
+Dec 16,2016 15:46:09 [info]  Clicked on the 'Temporary Check Box'
+Dec 16,2016 15:46:10 [info]  Entered "automation" in field 'Password'
+Dec 16,2016 15:46:16 [info]  Clicked on the 'LoginButton'
+Dec 16,2016 15:46:23 [info]  Double clicked on 'AUT_Deal_TC7_12152016101228Deal'
+Dec 16,2016 15:46:33 [info]  Clicked on the 'Exhibition Rights TAB'
+Dec 16,2016 15:46:34 [info]  Clicked on the ''Edit' Button at Media Rights TAB' using JS Executor
+Dec 16,2016 15:47:13 [info]  ********************Started Executiong the Test Suite at 15:47:13******************
+Dec 16,2016 15:47:13 [info]  Client: AMCN
+Dec 16,2016 15:47:13 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Dec 16,2016 15:47:13 [info]  *********************Started Executing 'TC7_DeleteFunctionality' Test Case*********************
+Dec 16,2016 15:47:22 [info]  Client: AMCN
+Dec 16,2016 15:47:22 [info]  URL: http://rlv2wb79/login.aspx
+Dec 16,2016 15:47:22 [info]  UserName: automation
+Dec 16,2016 15:47:22 [info]  Password: automation
+Dec 16,2016 15:47:23 [info]  Entered "automation" in field 'User Name'
+Dec 16,2016 15:47:24 [info]  Clicked on the 'Temporary Check Box'
+Dec 16,2016 15:47:24 [info]  Entered "automation" in field 'Password'
+Dec 16,2016 15:47:31 [info]  Clicked on the 'LoginButton'
+Dec 16,2016 15:47:38 [info]  Double clicked on 'AUT_Deal_TC7_12152016101228Deal'
+Dec 16,2016 15:47:48 [info]  Clicked on the 'Exhibition Rights TAB'
+Dec 16,2016 15:47:48 [info]  Clicked on the ''Edit' Button at Media Rights TAB' using JS Executor
+Dec 16,2016 15:47:58 [info]  Test 'TC7_DeleteFunctionality' FAILED
+Dec 16,2016 15:47:58 [info]  2
+Dec 16,2016 15:47:59 [info]  Test Case :TC7_DeleteFunctionality's Screenshot of Failure Page: C:\Screenshots\Dec2016\\16\TC7_DeleteFunctionality_12-16-2016 3-47-58 PM.jpg
+Dec 16,2016 15:48:00 [info]  Closed the Browser
+Dec 16,2016 15:51:29 [info]  Clicked on the 'Parent1_RowSelector'
+Dec 16,2016 15:52:53 [info]  
+Dec 16,2016 15:52:53 [info]  Do not select row >> Click Delete >> Verify Alert Message >> Click OK Button
+Dec 16,2016 15:52:55 [info]  Clicked on the 'Delete Button'
+Dec 16,2016 15:52:59 [info]  Verify The data of Alert Message on clicking Delete Button
+Dec 16,2016 15:52:59 [info]  ====Failed==== Expected value is:[Please select a row before attempting to delete.] but Actual value is[]. Please check the screenshot with name: Alert Message on clicking Delete Buttonfor more details
+Dec 16,2016 15:52:59 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\16\Alert Message on clicking Delete Button_CheckpointFailure_12-16-2016 3-52-59 PM.jpg
+Dec 16,2016 15:53:00 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Dec 16,2016 15:53:00 [info]  
+Dec 16,2016 15:53:00 [info]  Select Allocation Row >> Click Delete >> Verify Confirm Message >> Click Cancel
+Dec 16,2016 15:56:33 [info]  ********************Started Executiong the Test Suite at 15:56:33******************
+Dec 16,2016 15:56:33 [info]  Client: AMCN
+Dec 16,2016 15:56:33 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Dec 16,2016 15:56:33 [info]  *********************Started Executing 'TC7_DeleteFunctionality' Test Case*********************
+Dec 16,2016 15:56:42 [info]  Client: AMCN
+Dec 16,2016 15:56:42 [info]  URL: http://rlv2wb79/login.aspx
+Dec 16,2016 15:56:42 [info]  UserName: automation
+Dec 16,2016 15:56:42 [info]  Password: automation
+Dec 16,2016 15:56:43 [info]  Entered "automation" in field 'User Name'
+Dec 16,2016 15:56:44 [info]  Clicked on the 'Temporary Check Box'
+Dec 16,2016 15:56:44 [info]  Entered "automation" in field 'Password'
+Dec 16,2016 15:56:51 [info]  Clicked on the 'LoginButton'
+Dec 16,2016 15:56:58 [info]  Double clicked on 'AUT_Deal_TC7_12152016101228Deal'
+Dec 16,2016 15:57:08 [info]  Clicked on the 'Exhibition Rights TAB'
+Dec 16,2016 15:57:08 [info]  Clicked on the ''Edit' Button at Media Rights TAB' using JS Executor
+Dec 16,2016 15:57:19 [info]  Clicked on the 'ClearFiltersButton'
+Dec 16,2016 15:57:28 [info]  
+Dec 16,2016 15:57:28 [info]  Do not select row >> Click Delete >> Verify Alert Message >> Click OK Button
+Dec 16,2016 15:57:30 [info]  Clicked on the 'Delete Button'
+Dec 16,2016 15:57:33 [info]  Verify The data of Alert Message on clicking Delete Button
+Dec 16,2016 15:57:33 [info]  ====Failed==== Expected value is:[Please select a row before attempting to delete.] but Actual value is[]. Please check the screenshot with name: Alert Message on clicking Delete Buttonfor more details
+Dec 16,2016 15:57:34 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\16\Alert Message on clicking Delete Button_CheckpointFailure_12-16-2016 3-57-33 PM.jpg
+Dec 16,2016 15:57:34 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Dec 16,2016 15:57:34 [info]  
+Dec 16,2016 15:57:34 [info]  Select Allocation Row >> Click Delete >> Verify Confirm Message >> Click Cancel
+Dec 16,2016 15:57:44 [info]  ====Failed==== "First Allocation Row" field is not present'
+Dec 16,2016 15:57:44 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\16\First Allocation Row_CheckpointFailure_12-16-2016 3-57-44 PM.jpg
+Dec 16,2016 15:57:45 [info]  Clicked on the 'Delete Button'
+Dec 16,2016 15:57:49 [info]  Verify The data of Alert Message on clicking Delete Button
+Dec 16,2016 15:57:49 [info]  ====Failed==== Expected value is:[Are you sure you wish to Delete the Exhibition Window Line?] but Actual value is[]. Please check the screenshot with name: Alert Message on clicking Delete Buttonfor more details
+Dec 16,2016 15:57:50 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\16\Alert Message on clicking Delete Button_CheckpointFailure_12-16-2016 3-57-49 PM.jpg
+Dec 16,2016 15:57:50 [info]  Clicked on the 'Cancel Button At Confirm Pop-Up' using JS Executor
+Dec 16,2016 15:57:50 [info]  
+Dec 16,2016 15:57:50 [info]  Click Delete >> Verify Confirm Message >> Click OK Button
+Dec 16,2016 15:57:50 [info]  Clicked on the 'Delete Button'
+Dec 16,2016 15:57:54 [info]  Verify The data of Alert Message on clicking Delete Button
+Dec 16,2016 15:57:54 [info]  ====Failed==== Expected value is:[Are you sure you wish to Delete the Exhibition Window Line?] but Actual value is[]. Please check the screenshot with name: Alert Message on clicking Delete Buttonfor more details
+Dec 16,2016 15:57:54 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\16\Alert Message on clicking Delete Button_CheckpointFailure_12-16-2016 3-57-54 PM.jpg
+Dec 16,2016 15:57:54 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Dec 16,2016 15:57:54 [info]  
+Dec 16,2016 15:57:54 [info]  Click Close Btn at Edit Window>> Verify 'Navigate away 'Confirm Message >> Click OK Button >> Verify Row is not deleted and shown in view mode
+Dec 16,2016 15:57:55 [info]  Clicked on the 'Close Button at Media rights Pop up Window'
+Dec 16,2016 15:57:59 [info]  Verify The data of Alert Message on clicking 'Delete Button'
+Dec 16,2016 15:57:59 [info]  ====Failed==== Expected value is:[Are you sure you want to navigate away from this page? If you wish to continue, the changes made will not be saved. Press OK to continue, or Cancel to stay on the current page.] but Actual value is[]. Please check the screenshot with name: Alert Message on clicking 'Delete Button'for more details
+Dec 16,2016 15:57:59 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\16\Alert Message on clicking 'Delete Button'_CheckpointFailure_12-16-2016 3-57-59 PM.jpg
+Dec 16,2016 15:57:59 [info]  Clicked on the 'OK Button At Confirm Pop-Up' using JS Executor
+Dec 16,2016 15:58:00 [info]  "Allocation Row" is Present
+Dec 16,2016 15:58:00 [info]  Clicked on the ''Edit' Button at Media Rights TAB' using JS Executor
+Dec 16,2016 15:58:00 [info]  Verify The data of Window Name
+Dec 16,2016 15:58:00 [info]  Verified that Expected value :[RSG Window] is matched with Actual value :[RSG Window]
+Dec 16,2016 15:58:00 [info]  
+Dec 16,2016 15:58:00 [info]  Select Parent 2 >> Child 1 >> Click Delete >> Verify Confirm Message >> Click OK
+Dec 16,2016 15:58:00 [info]  Clicked on the 'Parent2_Child1_RowSelector'
+Dec 16,2016 15:58:01 [info]  Clicked on the 'Delete Button'
+Dec 16,2016 15:58:05 [info]  Verify The data of Alert Message on clicking Delete Button
+Dec 16,2016 15:58:05 [info]  ====Failed==== Expected value is:[Are you sure you wish to Delete the Exhibition Window Line?] but Actual value is[]. Please check the screenshot with name: Alert Message on clicking Delete Buttonfor more details
+Dec 16,2016 15:58:05 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\16\Alert Message on clicking Delete Button_CheckpointFailure_12-16-2016 3-58-05 PM.jpg
+Dec 16,2016 15:58:05 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Dec 16,2016 15:58:05 [info]  
+Dec 16,2016 15:58:05 [info]  Select Parent 2 >> Click Delete >> Verify Confirm Message >> Click OK
+Dec 16,2016 15:58:06 [info]  Clicked on the 'Parent2_RowSelector'
+Dec 16,2016 15:58:06 [info]  Clicked on the 'Delete Button'
+Dec 16,2016 15:58:10 [info]  Verify The data of Alert Message on clicking Delete Button
+Dec 16,2016 15:58:10 [info]  ====Failed==== Expected value is:[Are you sure you wish to Delete the Exhibition Window Line?] but Actual value is[]. Please check the screenshot with name: Alert Message on clicking Delete Buttonfor more details
+Dec 16,2016 15:58:10 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\16\Alert Message on clicking Delete Button_CheckpointFailure_12-16-2016 3-58-10 PM.jpg
+Dec 16,2016 15:58:10 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Dec 16,2016 15:58:10 [info]  Test 'TC7_DeleteFunctionality' PASSED
+Dec 16,2016 15:58:11 [info]  Closed the Browser
+Dec 16,2016 16:02:41 [info]  ********************Started Executiong the Test Suite at 16:02:41******************
+Dec 16,2016 16:02:41 [info]  Client: AMCN
+Dec 16,2016 16:02:41 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Dec 16,2016 16:02:41 [info]  *********************Started Executing 'TC7_DeleteFunctionality' Test Case*********************
+Dec 16,2016 16:02:51 [info]  Client: AMCN
+Dec 16,2016 16:02:51 [info]  URL: http://rlv2wb79/login.aspx
+Dec 16,2016 16:02:51 [info]  UserName: automation
+Dec 16,2016 16:02:51 [info]  Password: automation
+Dec 16,2016 16:02:53 [info]  Entered "automation" in field 'User Name'
+Dec 16,2016 16:02:53 [info]  Clicked on the 'Temporary Check Box'
+Dec 16,2016 16:02:54 [info]  Entered "automation" in field 'Password'
+Dec 16,2016 16:03:01 [info]  Clicked on the 'LoginButton'
+Dec 16,2016 16:03:07 [info]  Double clicked on 'AUT_Deal_TC7_12152016101228Deal'
+Dec 16,2016 16:03:18 [info]  Clicked on the 'Exhibition Rights TAB'
+Dec 16,2016 16:03:19 [info]  Clicked on the ''Edit' Button at Media Rights TAB' using JS Executor
+Dec 16,2016 16:03:29 [info]  Clicked on the 'ClearFiltersButton'
+Dec 16,2016 16:03:50 [info]  
+Dec 16,2016 16:03:50 [info]  Do not select row >> Click Delete >> Verify Alert Message >> Click OK Button
+Dec 16,2016 16:03:52 [info]  Double clicked on 'Delete Button'
+Dec 16,2016 16:03:55 [info]  Verify The data of Alert Message on clicking Delete Button
+Dec 16,2016 16:03:55 [info]  Verified that Expected value :[Please select a row before attempting to delete.] is matched with Actual value :[Please select a row before attempting to delete.]
+Dec 16,2016 16:03:56 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Dec 16,2016 16:03:56 [info]  
+Dec 16,2016 16:03:56 [info]  Select Allocation Row >> Click Delete >> Verify Confirm Message >> Click Cancel
+Dec 16,2016 16:03:56 [info]  Clicked on the 'First Allocation Row'
+Dec 16,2016 16:03:56 [info]  Double clicked on 'Delete Button'
+Dec 16,2016 16:04:00 [info]  Verify The data of Alert Message on clicking Delete Button
+Dec 16,2016 16:04:00 [info]  ====Failed==== Expected value is:[Are you sure you wish to Delete the Exhibition Window Line?] but Actual value is[]. Please check the screenshot with name: Alert Message on clicking Delete Buttonfor more details
+Dec 16,2016 16:04:01 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\16\Alert Message on clicking Delete Button_CheckpointFailure_12-16-2016 4-04-00 PM.jpg
+Dec 16,2016 16:04:01 [info]  Clicked on the 'Cancel Button At Confirm Pop-Up' using JS Executor
+Dec 16,2016 16:04:01 [info]  
+Dec 16,2016 16:04:01 [info]  Click Delete >> Verify Confirm Message >> Click OK Button
+Dec 16,2016 16:04:02 [info]  Double clicked on 'Delete Button'
+Dec 16,2016 16:04:06 [info]  Verify The data of Alert Message on clicking Delete Button
+Dec 16,2016 16:04:06 [info]  Verified that Expected value :[Are you sure you wish to Delete the Exhibition Window Line?] is matched with Actual value :[  Delete Exhibition Window  
+    Are you sure you wish to Delete the Exhibition Window Line?
+       ]
+Dec 16,2016 16:04:06 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Dec 16,2016 16:04:06 [info]  
+Dec 16,2016 16:04:06 [info]  Click Close Btn at Edit Window>> Verify 'Navigate away 'Confirm Message >> Click OK Button >> Verify Row is not deleted and shown in view mode
+Dec 16,2016 16:04:07 [info]  Clicked on the 'Close Button at Media rights Pop up Window'
+Dec 16,2016 16:04:13 [info]  Verify The data of Alert Message on clicking 'Delete Button'
+Dec 16,2016 16:04:13 [info]  ====Failed==== Expected value is:[Are you sure you want to navigate away from this page? If you wish to continue, the changes made will not be saved. Press OK to continue, or Cancel to stay on the current page.] but Actual value is[]. Please check the screenshot with name: Alert Message on clicking 'Delete Button'for more details
+Dec 16,2016 16:04:13 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\16\Alert Message on clicking 'Delete Button'_CheckpointFailure_12-16-2016 4-04-13 PM.jpg
+Dec 16,2016 16:04:13 [info]  Clicked on the 'OK Button At Confirm Pop-Up' using JS Executor
+Dec 16,2016 16:04:13 [info]  "Allocation Row" is Present
+Dec 16,2016 16:06:14 [info]  
+Dec 16,2016 16:06:14 [info]  Do not select row >> Click Delete >> Verify Alert Message >> Click OK Button
+Dec 16,2016 16:06:15 [info]  Double clicked on 'Delete Button'
+Dec 16,2016 16:06:18 [info]  Verify The data of Alert Message on clicking Delete Button
+Dec 16,2016 16:06:18 [info]  Verified that Expected value :[Please select a row before attempting to delete.] is matched with Actual value :[Please select a row before attempting to delete.]
+Dec 16,2016 16:06:19 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Dec 16,2016 16:06:19 [info]  
+Dec 16,2016 16:06:19 [info]  Select Allocation Row >> Click Delete >> Verify Confirm Message >> Click Cancel
+Dec 16,2016 16:06:20 [info]  Clicked on the 'First Allocation Row'
+Dec 16,2016 16:06:21 [info]  Double clicked on 'Delete Button'
+Dec 16,2016 16:06:25 [info]  Verify The data of Alert Message on clicking Delete Button
+Dec 16,2016 16:06:25 [info]  Verified that Expected value :[Are you sure you wish to Delete the Exhibition Window Line?] is matched with Actual value :[  Delete Exhibition Window  
+    Are you sure you wish to Delete the Exhibition Window Line?
+       ]
+Dec 16,2016 16:06:25 [info]  Clicked on the 'Cancel Button At Confirm Pop-Up' using JS Executor
+Dec 16,2016 16:06:25 [info]  
+Dec 16,2016 16:06:25 [info]  Click Delete >> Verify Confirm Message >> Click OK Button
+Dec 16,2016 16:06:26 [info]  Double clicked on 'Delete Button'
+Dec 16,2016 16:06:30 [info]  Verify The data of Alert Message on clicking Delete Button
+Dec 16,2016 16:06:30 [info]  Verified that Expected value :[Are you sure you wish to Delete the Exhibition Window Line?] is matched with Actual value :[  Delete Exhibition Window  
+    Are you sure you wish to Delete the Exhibition Window Line?
+       ]
+Dec 16,2016 16:06:30 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Dec 16,2016 16:06:30 [info]  
+Dec 16,2016 16:06:30 [info]  Click Close Btn at Edit Window>> Verify 'Navigate away 'Confirm Message >> Click OK Button >> Verify Row is not deleted and shown in view mode
+Dec 16,2016 16:06:31 [info]  Clicked on the 'Close Button at Media rights Pop up Window'
+Dec 16,2016 16:06:37 [info]  Verify The data of Alert Message on clicking 'Delete Button'
+Dec 16,2016 16:06:37 [info]  ====Failed==== Expected value is:[Are you sure you want to navigate away from this page? If you wish to continue, the changes made will not be saved. Press OK to continue, or Cancel to stay on the current page.] but Actual value is[]. Please check the screenshot with name: Alert Message on clicking 'Delete Button'for more details
+Dec 16,2016 16:06:37 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\16\Alert Message on clicking 'Delete Button'_CheckpointFailure_12-16-2016 4-06-37 PM.jpg
+Dec 16,2016 16:06:37 [info]  Clicked on the 'OK Button At Confirm Pop-Up' using JS Executor
+Dec 16,2016 16:06:38 [info]  "Allocation Row" is Present
+Dec 16,2016 16:08:49 [info]  
+Dec 16,2016 16:08:49 [info]  
+Dec 16,2016 16:09:21 [info]  ********************Started Executiong the Test Suite at 16:09:21******************
+Dec 16,2016 16:09:21 [info]  Client: AMCN
+Dec 16,2016 16:09:21 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Dec 16,2016 16:09:21 [info]  *********************Started Executing 'TC7_DeleteFunctionality' Test Case*********************
+Dec 16,2016 16:09:30 [info]  Client: AMCN
+Dec 16,2016 16:09:30 [info]  URL: http://rlv2wb79/login.aspx
+Dec 16,2016 16:09:30 [info]  UserName: automation
+Dec 16,2016 16:09:30 [info]  Password: automation
+Dec 16,2016 16:09:31 [info]  Entered "automation" in field 'User Name'
+Dec 16,2016 16:09:31 [info]  Clicked on the 'Temporary Check Box'
+Dec 16,2016 16:09:32 [info]  Entered "automation" in field 'Password'
+Dec 16,2016 16:09:39 [info]  Clicked on the 'LoginButton'
+Dec 16,2016 16:09:45 [info]  Double clicked on 'AUT_Deal_TC7_12152016101228Deal'
+Dec 16,2016 16:09:55 [info]  Clicked on the 'Exhibition Rights TAB'
+Dec 16,2016 16:09:56 [info]  Clicked on the ''Edit' Button at Media Rights TAB' using JS Executor
+Dec 16,2016 16:10:06 [info]  Clicked on the 'ClearFiltersButton'
+Dec 16,2016 16:10:15 [info]  
+Dec 16,2016 16:10:15 [info]  
+Dec 16,2016 16:10:48 [info]  Do not select row >> Click Delete >> Verify Alert Message >> Click OK Button
+Dec 16,2016 16:10:49 [info]  Double clicked on 'Delete Button'
+Dec 16,2016 16:10:53 [info]  Verify The data of Alert Message on clicking Delete Button
+Dec 16,2016 16:10:53 [info]  Verified that Expected value :[Please select a row before attempting to delete.] is matched with Actual value :[Please select a row before attempting to delete.]
+Dec 16,2016 16:10:53 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Dec 16,2016 16:10:53 [info]  
+Dec 16,2016 16:10:53 [info]  Select Allocation Row >> Click Delete >> Verify Confirm Message >> Click Cancel
+Dec 16,2016 16:10:58 [info]  Clicked on the 'First Allocation Row'
+Dec 16,2016 16:11:02 [info]  Double clicked on 'Delete Button'
+Dec 16,2016 16:11:06 [info]  Verify The data of Alert Message on clicking Delete Button
+Dec 16,2016 16:11:06 [info]  Verified that Expected value :[Are you sure you wish to Delete the Exhibition Window Line?] is matched with Actual value :[  Delete Exhibition Window  
+    Are you sure you wish to Delete the Exhibition Window Line?
+       ]
+Dec 16,2016 16:11:06 [info]  Clicked on the 'Cancel Button At Confirm Pop-Up' using JS Executor
+Dec 16,2016 16:11:15 [info]  
+Dec 16,2016 16:11:15 [info]  Click Delete >> Verify Confirm Message >> Click OK Button
+Dec 16,2016 16:11:16 [info]  Double clicked on 'Delete Button'
+Dec 16,2016 16:11:20 [info]  Verify The data of Alert Message on clicking Delete Button
+Dec 16,2016 16:11:20 [info]  Verified that Expected value :[Are you sure you wish to Delete the Exhibition Window Line?] is matched with Actual value :[  Delete Exhibition Window  
+    Are you sure you wish to Delete the Exhibition Window Line?
+       ]
+Dec 16,2016 16:11:20 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Dec 16,2016 16:11:38 [info]  
+Dec 16,2016 16:11:38 [info]  Click Close Btn at Edit Window>> Verify 'Navigate away 'Confirm Message >> Click OK Button >> Verify Row is not deleted and shown in view mode
+Dec 16,2016 16:11:38 [info]  Clicked on the 'Close Button at Media rights Pop up Window'
+Dec 16,2016 16:11:42 [info]  Verify The data of Alert Message on clicking 'Delete Button'
+Dec 16,2016 16:11:42 [info]  Verified that Expected value :[Are you sure you want to navigate away from this page? If you wish to continue, the changes made will not be saved. Press OK to continue, or Cancel to stay on the current page.] is matched with Actual value :[  Save Exhibition Rights  
+    Are you sure you want to navigate away from this page? If you wish to continue, the changes made will not be saved. Press OK to continue, or Cancel to stay on the current page.
+       ]
+Dec 16,2016 16:11:43 [info]  Clicked on the 'OK Button At Confirm Pop-Up' using JS Executor
+Dec 16,2016 16:11:43 [info]  "Allocation Row" is Present
+Dec 16,2016 16:11:50 [info]  Clicked on the ''Edit' Button at Media Rights TAB' using JS Executor
+Dec 16,2016 16:11:50 [info]  Verify The data of Window Name
+Dec 16,2016 16:11:50 [info]  Verified that Expected value :[RSG Window] is matched with Actual value :[RSG Window]
+Dec 16,2016 16:11:54 [info]  
+Dec 16,2016 16:11:54 [info]  Select Parent 2 >> Child 1 >> Click Delete >> Verify Confirm Message >> Click OK
+Dec 16,2016 16:11:55 [info]  ====Failed==== "Parent2_Child1_RowSelector" field is not present'
+Dec 16,2016 16:11:55 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\16\Parent2_Child1_RowSelector_CheckpointFailure_12-16-2016 4-11-55 PM.jpg
+Dec 16,2016 16:11:55 [info]  Double clicked on 'Delete Button'
+Dec 16,2016 16:11:59 [info]  Verify The data of Alert Message on clicking Delete Button
+Dec 16,2016 16:11:59 [info]  ====Failed==== Expected value is:[Are you sure you wish to Delete the Exhibition Window Line?] but Actual value is[]. Please check the screenshot with name: Alert Message on clicking Delete Buttonfor more details
+Dec 16,2016 16:11:59 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\16\Alert Message on clicking Delete Button_CheckpointFailure_12-16-2016 4-11-59 PM.jpg
+Dec 16,2016 16:11:59 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Dec 16,2016 16:12:47 [info]  
+Dec 16,2016 16:12:47 [info]  Select Parent 2 >> Child 1 >> Click Delete >> Verify Confirm Message >> Click OK
+Dec 16,2016 16:12:48 [info]  Clicked on the 'Parent2_Child1_RowSelector'
+Dec 16,2016 16:12:48 [info]  Double clicked on 'Delete Button'
+Dec 16,2016 16:12:52 [info]  Verify The data of Alert Message on clicking Delete Button
+Dec 16,2016 16:12:52 [info]  ====Failed==== Expected value is:[Are you sure you wish to Delete the Exhibition Window Line?] but Actual value is[]. Please check the screenshot with name: Alert Message on clicking Delete Buttonfor more details
+Dec 16,2016 16:12:52 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\16\Alert Message on clicking Delete Button_CheckpointFailure_12-16-2016 4-12-52 PM.jpg
+Dec 16,2016 16:12:52 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Dec 16,2016 16:13:18 [info]  
+Dec 16,2016 16:13:19 [info]  Select Parent 2 >> Click Delete >> Verify Confirm Message >> Click OK
+Dec 16,2016 16:13:31 [info]  
+Dec 16,2016 16:13:31 [info]  Select Parent 2 >> Child 1 >> Click Delete >> Verify Confirm Message >> Click OK
+Dec 16,2016 16:13:35 [info]  Clicked on the 'Parent2_Child1_RowSelector'
+Dec 16,2016 16:13:35 [info]  Double clicked on 'Delete Button'
+Dec 16,2016 16:13:39 [info]  Verify The data of Alert Message on clicking Delete Button
+Dec 16,2016 16:13:39 [info]  ====Failed==== Expected value is:[Are you sure you wish to Delete the Exhibition Window Line?] but Actual value is[]. Please check the screenshot with name: Alert Message on clicking Delete Buttonfor more details
+Dec 16,2016 16:13:39 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\16\Alert Message on clicking Delete Button_CheckpointFailure_12-16-2016 4-13-39 PM.jpg
+Dec 16,2016 16:13:39 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Dec 16,2016 16:14:09 [info]  
+Dec 16,2016 16:14:10 [info]  Select Parent 2 >> Child 1 >> Click Delete >> Verify Confirm Message >> Click OK
+Dec 16,2016 16:14:13 [info]  Clicked on the 'Parent2_Child1_RowSelector'
+Dec 16,2016 16:14:14 [info]  Clicked on the 'Parent2_Child1_RowSelector'
+Dec 16,2016 16:14:15 [info]  Double clicked on 'Delete Button'
+Dec 16,2016 16:14:18 [info]  Verify The data of Alert Message on clicking Delete Button
+Dec 16,2016 16:14:18 [info]  ====Failed==== Expected value is:[Are you sure you wish to Delete the Exhibition Window Line?] but Actual value is[]. Please check the screenshot with name: Alert Message on clicking Delete Buttonfor more details
+Dec 16,2016 16:14:18 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\16\Alert Message on clicking Delete Button_CheckpointFailure_12-16-2016 4-14-18 PM.jpg
+Dec 16,2016 16:14:19 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Dec 16,2016 16:14:29 [info]  
+Dec 16,2016 16:14:29 [info]  Select Parent 2 >> Child 1 >> Click Delete >> Verify Confirm Message >> Click OK
+Dec 16,2016 16:14:32 [info]  Clicked on the 'Parent2_Child1_RowSelector'
+Dec 16,2016 16:14:34 [info]  Clicked on the 'Parent2_Child1_RowSelector'
+Dec 16,2016 16:14:34 [info]  Double clicked on 'Delete Button'
+Dec 16,2016 16:14:38 [info]  Verify The data of Alert Message on clicking Delete Button
+Dec 16,2016 16:14:38 [info]  Verified that Expected value :[Are you sure you wish to Delete the Exhibition Window Line?] is matched with Actual value :[  Delete Exhibition Window  
+    Are you sure you wish to Delete the Exhibition Window Line?
+       ]
+Dec 16,2016 16:14:38 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Dec 16,2016 16:14:45 [info]  
+Dec 16,2016 16:14:45 [info]  
+Dec 16,2016 16:14:45 [info]  Select Parent 2 >> Click Delete >> Verify Confirm Message >> Click OK
+Dec 16,2016 16:14:46 [info]  ====Failed==== "Parent2_RowSelector" field is not present'
+Dec 16,2016 16:14:46 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\16\Parent2_RowSelector_CheckpointFailure_12-16-2016 4-14-46 PM.jpg
+Dec 16,2016 16:14:46 [info]  Double clicked on 'Delete Button'
+Dec 16,2016 16:14:50 [info]  Verify The data of Alert Message on clicking Delete Button
+Dec 16,2016 16:14:50 [info]  ====Failed==== Expected value is:[Are you sure you wish to Delete the Exhibition Window Line?] but Actual value is[]. Please check the screenshot with name: Alert Message on clicking Delete Buttonfor more details
+Dec 16,2016 16:14:50 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\16\Alert Message on clicking Delete Button_CheckpointFailure_12-16-2016 4-14-50 PM.jpg
+Dec 16,2016 16:16:16 [info]  Test 'TC7_DeleteFunctionality' FAILED
+Dec 16,2016 16:16:16 [info]  2
+Dec 16,2016 16:16:16 [info]  Test Case :TC7_DeleteFunctionality's Screenshot of Failure Page: C:\Screenshots\Dec2016\\16\TC7_DeleteFunctionality_12-16-2016 4-16-16 PM.jpg
+Dec 16,2016 16:16:18 [info]  Closed the Browser
+Dec 16,2016 16:16:30 [info]  ********************Started Executiong the Test Suite at 16:16:30******************
+Dec 16,2016 16:16:30 [info]  Client: AMCN
+Dec 16,2016 16:16:30 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Dec 16,2016 16:16:30 [info]  *********************Started Executing 'TC7_DeleteFunctionality' Test Case*********************
+Dec 16,2016 16:16:39 [info]  Client: AMCN
+Dec 16,2016 16:16:39 [info]  URL: http://rlv2wb79/login.aspx
+Dec 16,2016 16:16:39 [info]  UserName: automation
+Dec 16,2016 16:16:39 [info]  Password: automation
+Dec 16,2016 16:16:40 [info]  Entered "automation" in field 'User Name'
+Dec 16,2016 16:16:41 [info]  Clicked on the 'Temporary Check Box'
+Dec 16,2016 16:16:41 [info]  Entered "automation" in field 'Password'
+Dec 16,2016 16:16:49 [info]  Clicked on the 'LoginButton'
+Dec 16,2016 16:16:55 [info]  Double clicked on 'AUT_Deal_TC7_12152016101228Deal'
+Dec 16,2016 16:17:06 [info]  Clicked on the 'Exhibition Rights TAB'
+Dec 16,2016 16:17:07 [info]  Clicked on the ''Edit' Button at Media Rights TAB' using JS Executor
+Dec 16,2016 16:17:17 [info]  Clicked on the 'ClearFiltersButton'
+Dec 16,2016 16:17:21 [info]  
+Dec 16,2016 16:17:21 [info]  Select Parent 2 >> Child 1 >> Click Delete >> Verify Confirm Message >> Click OK
+Dec 16,2016 16:17:26 [info]  Clicked on the 'Parent2_Child1_RowSelector'
+Dec 16,2016 16:17:26 [info]  Clicked on the 'Parent2_Child1_RowSelector'
+Dec 16,2016 16:17:27 [info]  Double clicked on 'Delete Button'
+Dec 16,2016 16:17:31 [info]  Verify The data of Alert Message on clicking Delete Button
+Dec 16,2016 16:17:31 [info]  Verified that Expected value :[Are you sure you wish to Delete the Exhibition Window Line?] is matched with Actual value :[  Delete Exhibition Window  
+    Are you sure you wish to Delete the Exhibition Window Line?
+       ]
+Dec 16,2016 16:17:31 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Dec 16,2016 16:17:37 [info]  
+Dec 16,2016 16:17:37 [info]  Select Parent 2 >> Click Delete >> Verify Confirm Message >> Click OK
+Dec 16,2016 16:17:38 [info]  Clicked on the 'Parent2_RowSelector'
+Dec 16,2016 16:17:39 [info]  Double clicked on 'Delete Button'
+Dec 16,2016 16:17:43 [info]  Verify The data of Alert Message on clicking Delete Button
+Dec 16,2016 16:17:43 [info]  ====Failed==== Expected value is:[Are you sure you wish to Delete the Exhibition Window Line?] but Actual value is[  Delete Exhibition Rights  
+    Are you sure you wish to Delete the Exhibition Right Line?
+       ]. Please check the screenshot with name: Alert Message on clicking Delete Buttonfor more details
+Dec 16,2016 16:17:43 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\16\Alert Message on clicking Delete Button_CheckpointFailure_12-16-2016 4-17-43 PM.jpg
+Dec 16,2016 16:17:43 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Dec 16,2016 16:17:43 [info]  Test 'TC7_DeleteFunctionality' PASSED
+Dec 16,2016 16:17:44 [info]  Closed the Browser
+Dec 16,2016 16:19:52 [info]  ********************Started Executiong the Test Suite at 16:19:52******************
+Dec 16,2016 16:19:52 [info]  Client: AMCN
+Dec 16,2016 16:19:52 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Dec 16,2016 16:19:52 [info]  *********************Started Executing 'TC7_DeleteFunctionality' Test Case*********************
+Dec 16,2016 16:20:03 [info]  Client: AMCN
+Dec 16,2016 16:20:03 [info]  URL: http://rlv2wb79/login.aspx
+Dec 16,2016 16:20:03 [info]  UserName: automation
+Dec 16,2016 16:20:03 [info]  Password: automation
+Dec 16,2016 16:20:04 [info]  Entered "automation" in field 'User Name'
+Dec 16,2016 16:20:05 [info]  Clicked on the 'Temporary Check Box'
+Dec 16,2016 16:20:05 [info]  Entered "automation" in field 'Password'
+Dec 16,2016 16:20:12 [info]  Clicked on the 'LoginButton'
+Dec 16,2016 16:20:18 [info]  Double clicked on 'AUT_Deal_TC7_12152016101228Deal'
+Dec 16,2016 16:20:31 [info]  Clicked on the 'Exhibition Rights TAB'
+Dec 16,2016 16:20:32 [info]  Clicked on the ''Edit' Button at Media Rights TAB' using JS Executor
+Dec 16,2016 16:20:41 [info]  Clicked on the 'ClearFiltersButton'
+Dec 16,2016 16:20:50 [info]  
+Dec 16,2016 16:20:50 [info]  
+Dec 16,2016 16:20:50 [info]  Do not select row >> Click Delete >> Verify Alert Message >> Click OK Button
+Dec 16,2016 16:20:51 [info]  Double clicked on 'Delete Button'
+Dec 16,2016 16:20:55 [info]  Verify The data of Alert Message on clicking Delete Button
+Dec 16,2016 16:20:55 [info]  Verified that Expected value :[Please select a row before attempting to delete.] is matched with Actual value :[Please select a row before attempting to delete.]
+Dec 16,2016 16:20:55 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Dec 16,2016 16:20:55 [info]  
+Dec 16,2016 16:20:55 [info]  Select Allocation Row >> Click Delete >> Verify Confirm Message >> Click Cancel
+Dec 16,2016 16:20:56 [info]  Clicked on the 'First Allocation Row'
+Dec 16,2016 16:20:57 [info]  Double clicked on 'Delete Button'
+Dec 16,2016 16:21:00 [info]  Verify The data of Alert Message on clicking Delete Button
+Dec 16,2016 16:21:00 [info]  Verified that Expected value :[Are you sure you wish to Delete the Exhibition Window Line?] is matched with Actual value :[Are you sure you wish to Delete the Exhibition Window Line?]
+Dec 16,2016 16:21:01 [info]  Clicked on the 'Cancel Button At Confirm Pop-Up' using JS Executor
+Dec 16,2016 16:21:01 [info]  
+Dec 16,2016 16:21:01 [info]  Click Delete >> Verify Confirm Message >> Click OK Button
+Dec 16,2016 16:21:01 [info]  Double clicked on 'Delete Button'
+Dec 16,2016 16:21:05 [info]  Verify The data of Alert Message on clicking Delete Button
+Dec 16,2016 16:21:05 [info]  Verified that Expected value :[Are you sure you wish to Delete the Exhibition Window Line?] is matched with Actual value :[Are you sure you wish to Delete the Exhibition Window Line?]
+Dec 16,2016 16:21:05 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Dec 16,2016 16:21:11 [info]  
+Dec 16,2016 16:21:11 [info]  Click Close Btn at Edit Window>> Verify 'Navigate away 'Confirm Message >> Click OK Button >> Verify Row is not deleted and shown in view mode
+Dec 16,2016 16:21:12 [info]  Clicked on the 'Close Button at Media rights Pop up Window'
+Dec 16,2016 16:21:15 [info]  Verify The data of Alert Message on clicking 'Delete Button'
+Dec 16,2016 16:21:15 [info]  Verified that Expected value :[Are you sure you want to navigate away from this page? If you wish to continue, the changes made will not be saved. Press OK to continue, or Cancel to stay on the current page.] is matched with Actual value :[Are you sure you want to navigate away from this page? If you wish to continue, the changes made will not be saved. Press OK to continue, or Cancel to stay on the current page.]
+Dec 16,2016 16:21:16 [info]  Clicked on the 'OK Button At Confirm Pop-Up' using JS Executor
+Dec 16,2016 16:21:16 [info]  "Allocation Row" is Present
+Dec 16,2016 16:21:16 [info]  Clicked on the ''Edit' Button at Media Rights TAB' using JS Executor
+Dec 16,2016 16:21:16 [info]  Verify The data of Window Name
+Dec 16,2016 16:21:16 [info]  Verified that Expected value :[RSG Window] is matched with Actual value :[RSG Window]
+Dec 16,2016 16:21:16 [info]  
+Dec 16,2016 16:21:16 [info]  Select Parent 2 >> Child 1 >> Click Delete >> Verify Confirm Message >> Click OK
+Dec 16,2016 16:21:23 [info]  ====Failed==== "Parent2_Child1_RowSelector" field is not present'
+Dec 16,2016 16:21:23 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\16\Parent2_Child1_RowSelector_CheckpointFailure_12-16-2016 4-21-23 PM.jpg
+Dec 16,2016 16:21:23 [info]  ====Failed==== "Parent2_Child1_RowSelector" field is not present'
+Dec 16,2016 16:21:23 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\16\Parent2_Child1_RowSelector_CheckpointFailure_12-16-2016 4-21-23 PM.jpg
+Dec 16,2016 16:21:23 [info]  Double clicked on 'Delete Button'
+Dec 16,2016 16:21:27 [info]  Verify The data of Alert Message on clicking Delete Button
+Dec 16,2016 16:21:27 [info]  ====Failed==== Expected value is:[Are you sure you wish to Delete the Exhibition Window Line?] but Actual value is[]. Please check the screenshot with name: Alert Message on clicking Delete Buttonfor more details
+Dec 16,2016 16:21:27 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\16\Alert Message on clicking Delete Button_CheckpointFailure_12-16-2016 4-21-27 PM.jpg
+Dec 16,2016 16:21:27 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Dec 16,2016 16:21:31 [info]  
+Dec 16,2016 16:21:31 [info]  Select Parent 2 >> Click Delete >> Verify Confirm Message >> Click OK
+Dec 16,2016 16:21:32 [info]  Clicked on the 'Parent2_RowSelector'
+Dec 16,2016 16:21:33 [info]  Double clicked on 'Delete Button'
+Dec 16,2016 16:21:36 [info]  Verify The data of Alert Message on clicking Delete Button
+Dec 16,2016 16:21:36 [info]  ====Failed==== Expected value is:[Are you sure you wish to Delete the Exhibition Window Line?] but Actual value is[Are you sure you wish to Delete the Exhibition Right Line?]. Please check the screenshot with name: Alert Message on clicking Delete Buttonfor more details
+Dec 16,2016 16:21:36 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\16\Alert Message on clicking Delete Button_CheckpointFailure_12-16-2016 4-21-36 PM.jpg
+Dec 16,2016 16:21:37 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Dec 16,2016 16:21:37 [info]  Test 'TC7_DeleteFunctionality' PASSED
+Dec 16,2016 16:21:38 [info]  Closed the Browser
+Dec 16,2016 16:26:51 [info]  ********************Started Executiong the Test Suite at 16:26:51******************
+Dec 16,2016 16:26:51 [info]  Client: AMCN
+Dec 16,2016 16:26:51 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Dec 16,2016 16:26:51 [info]  *********************Started Executing 'TC7_DeleteFunctionality' Test Case*********************
+Dec 16,2016 16:27:00 [info]  Client: AMCN
+Dec 16,2016 16:27:00 [info]  URL: http://rlv2wb79/login.aspx
+Dec 16,2016 16:27:00 [info]  UserName: automation
+Dec 16,2016 16:27:00 [info]  Password: automation
+Dec 16,2016 16:27:01 [info]  Entered "automation" in field 'User Name'
+Dec 16,2016 16:27:02 [info]  Clicked on the 'Temporary Check Box'
+Dec 16,2016 16:27:02 [info]  Entered "automation" in field 'Password'
+Dec 16,2016 16:27:09 [info]  Clicked on the 'LoginButton'
+Dec 16,2016 16:27:16 [info]  Double clicked on 'AUT_Deal_TC7_12152016101228Deal'
+Dec 16,2016 16:27:26 [info]  Clicked on the 'Exhibition Rights TAB'
+Dec 16,2016 16:27:26 [info]  Clicked on the ''Edit' Button at Media Rights TAB' using JS Executor
+Dec 16,2016 16:27:36 [info]  Clicked on the 'ClearFiltersButton'
+Dec 16,2016 16:27:46 [info]  
+Dec 16,2016 16:27:46 [info]  
+Dec 16,2016 16:27:46 [info]  Do not select row >> Click Delete >> Verify Alert Message >> Click OK Button
+Dec 16,2016 16:27:47 [info]  Double clicked on 'Delete Button'
+Dec 16,2016 16:27:51 [info]  Verify The data of Alert Message on clicking Delete Button
+Dec 16,2016 16:27:51 [info]  Verified that Expected value :[Please select a row before attempting to delete.] is matched with Actual value :[Please select a row before attempting to delete.]
+Dec 16,2016 16:27:51 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Dec 16,2016 16:27:51 [info]  
+Dec 16,2016 16:27:51 [info]  Select Allocation Row >> Click Delete >> Verify Confirm Message >> Click Cancel
+Dec 16,2016 16:27:52 [info]  Clicked on the 'First Allocation Row'
+Dec 16,2016 16:27:53 [info]  Double clicked on 'Delete Button'
+Dec 16,2016 16:27:57 [info]  Verify The data of Alert Message on clicking Delete Button
+Dec 16,2016 16:27:57 [info]  Verified that Expected value :[Are you sure you wish to Delete the Exhibition Window Line?] is matched with Actual value :[Are you sure you wish to Delete the Exhibition Window Line?]
+Dec 16,2016 16:27:57 [info]  Clicked on the 'Cancel Button At Confirm Pop-Up' using JS Executor
+Dec 16,2016 16:27:57 [info]  
+Dec 16,2016 16:27:57 [info]  Click Delete >> Verify Confirm Message >> Click OK Button
+Dec 16,2016 16:27:58 [info]  Double clicked on 'Delete Button'
+Dec 16,2016 16:28:02 [info]  Verify The data of Alert Message on clicking Delete Button
+Dec 16,2016 16:28:02 [info]  Verified that Expected value :[Are you sure you wish to Delete the Exhibition Window Line?] is matched with Actual value :[Are you sure you wish to Delete the Exhibition Window Line?]
+Dec 16,2016 16:28:02 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Dec 16,2016 16:28:08 [info]  
+Dec 16,2016 16:28:08 [info]  Click Close Btn at Edit Window>> Verify 'Navigate away 'Confirm Message >> Click OK Button >> Verify Row is not deleted and shown in view mode
+Dec 16,2016 16:28:09 [info]  Clicked on the 'Close Button at Media rights Pop up Window'
+Dec 16,2016 16:28:13 [info]  Verify The data of Alert Message on clicking 'Delete Button'
+Dec 16,2016 16:28:13 [info]  Verified that Expected value :[Are you sure you want to navigate away from this page? If you wish to continue, the changes made will not be saved. Press OK to continue, or Cancel to stay on the current page.] is matched with Actual value :[Are you sure you want to navigate away from this page? If you wish to continue, the changes made will not be saved. Press OK to continue, or Cancel to stay on the current page.]
+Dec 16,2016 16:28:13 [info]  Clicked on the 'OK Button At Confirm Pop-Up' using JS Executor
+Dec 16,2016 16:28:15 [info]  "Allocation Row" is Present
+Dec 16,2016 16:28:16 [info]  Clicked on the ''Edit' Button at Media Rights TAB' using JS Executor
+Dec 16,2016 16:28:16 [info]  Verify The data of Window Name
+Dec 16,2016 16:28:16 [info]  Verified that Expected value :[RSG Window] is matched with Actual value :[RSG Window]
+Dec 16,2016 16:28:16 [info]  
+Dec 16,2016 16:28:16 [info]  Select Parent 2 >> Child 1 >> Click Delete >> Verify Confirm Message >> Click OK
+Dec 16,2016 16:28:20 [info]  Clicked on the 'Parent2_Child1_RowSelector'
+Dec 16,2016 16:28:21 [info]  Clicked on the 'Parent2_Child1_RowSelector'
+Dec 16,2016 16:28:21 [info]  Double clicked on 'Delete Button'
+Dec 16,2016 16:28:25 [info]  Verify The data of Alert Message on clicking Delete Button
+Dec 16,2016 16:28:25 [info]  Verified that Expected value :[Are you sure you wish to Delete the Exhibition Window Line?] is matched with Actual value :[Are you sure you wish to Delete the Exhibition Window Line?]
+Dec 16,2016 16:28:25 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Dec 16,2016 16:28:31 [info]  
+Dec 16,2016 16:28:31 [info]  Select Parent 2 >> Click Delete >> Verify Confirm Message >> Click OK
+Dec 16,2016 16:28:33 [info]  Clicked on the 'Parent2_RowSelector'
+Dec 16,2016 16:28:33 [info]  Double clicked on 'Delete Button'
+Dec 16,2016 16:28:37 [info]  ====Failed===="Either Expected Value is not given OR 'Alert Message on clicking Delete Button'" Element is not Present
+Dec 16,2016 16:28:37 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\16\Alert Message on clicking Delete Button_CheckpointFailure_12-16-2016 4-28-37 PM.jpg
+Dec 16,2016 16:28:38 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Dec 16,2016 16:28:38 [info]  Clicked on the ''Save' Button at Media Rights Edit window' using JS Executor
+Dec 16,2016 16:28:57 [info]  ====Failed==== Expected value is:[Changes Saved Successfully.] but Actual value is[]. Please check the screenshot with name: Validation messagefor more details
+Dec 16,2016 16:28:57 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\16\Validation message_CheckpointFailure_12-16-2016 4-28-57 PM.jpg
+Dec 16,2016 16:28:57 [info]  Test 'TC7_DeleteFunctionality' PASSED
+Dec 16,2016 16:28:58 [info]  Closed the Browser
+Dec 16,2016 16:49:31 [info]  ********************Started Executiong the Test Suite at 16:49:31******************
+Dec 16,2016 16:49:31 [info]  Client: AMCN
+Dec 16,2016 16:49:31 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Dec 16,2016 16:49:31 [info]  *********************Started Executing 'TC7_DeleteFunctionality' Test Case*********************
+Dec 16,2016 16:49:42 [info]  Client: AMCN
+Dec 16,2016 16:49:42 [info]  URL: http://rlv2wb79/login.aspx
+Dec 16,2016 16:49:42 [info]  UserName: automation
+Dec 16,2016 16:49:42 [info]  Password: automation
+Dec 16,2016 16:49:44 [info]  Entered "automation" in field 'User Name'
+Dec 16,2016 16:49:45 [info]  Clicked on the 'Temporary Check Box'
+Dec 16,2016 16:49:46 [info]  Entered "automation" in field 'Password'
+Dec 16,2016 16:49:53 [info]  Clicked on the 'LoginButton'
+Dec 16,2016 16:50:00 [info]  Double clicked on 'AUT_Deal_TC7_12152016101228Deal'
+Dec 16,2016 16:50:12 [info]  Clicked on the 'Exhibition Rights TAB'
+Dec 16,2016 16:50:12 [info]  Clicked on the ''Edit' Button at Media Rights TAB' using JS Executor
+Dec 16,2016 16:50:21 [info]  Clicked on the 'ClearFiltersButton'
+Dec 16,2016 16:50:26 [info]  Test 'TC7_DeleteFunctionality' FAILED
+Dec 16,2016 16:50:26 [info]  2
+Dec 16,2016 16:50:26 [info]  Test Case :TC7_DeleteFunctionality's Screenshot of Failure Page: C:\Screenshots\Dec2016\\16\TC7_DeleteFunctionality_12-16-2016 4-50-26 PM.jpg
+Dec 16,2016 16:50:27 [info]  Closed the Browser
+Dec 16,2016 16:51:31 [info]  ********************Started Executiong the Test Suite at 16:51:31******************
+Dec 16,2016 16:51:31 [info]  Client: AMCN
+Dec 16,2016 16:51:31 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Dec 16,2016 16:51:31 [info]  *********************Started Executing 'TC7_DeleteFunctionality' Test Case*********************
+Dec 16,2016 16:51:40 [info]  Client: AMCN
+Dec 16,2016 16:51:40 [info]  URL: http://rlv2wb79/login.aspx
+Dec 16,2016 16:51:40 [info]  UserName: automation
+Dec 16,2016 16:51:40 [info]  Password: automation
+Dec 16,2016 16:51:41 [info]  Entered "automation" in field 'User Name'
+Dec 16,2016 16:51:42 [info]  Clicked on the 'Temporary Check Box'
+Dec 16,2016 16:51:42 [info]  Entered "automation" in field 'Password'
+Dec 16,2016 16:51:49 [info]  Clicked on the 'LoginButton'
+Dec 16,2016 16:51:56 [info]  Double clicked on 'AUT_Deal_TC7_12152016101228Deal'
+Dec 16,2016 16:52:06 [info]  Clicked on the 'Exhibition Rights TAB'
+Dec 16,2016 16:52:06 [info]  Clicked on the ''Edit' Button at Media Rights TAB' using JS Executor
+Dec 16,2016 16:52:15 [info]  Clicked on the 'ClearFiltersButton'
+Dec 16,2016 16:52:20 [info]  Double clicked on 'Add Button'
+Dec 16,2016 16:52:26 [info]  Clicked on the 'Select Check Box'
+Dec 16,2016 16:52:27 [info]  Double clicked on 'Add Button at Media rights Pop up Window'
+Dec 16,2016 16:52:38 [info]  Clicked on the 'Exhibition Day Scope Field'
+Dec 16,2016 16:52:39 [info]  Clicked on the 'Exhibition Day Scope Drop Down'
+Dec 16,2016 16:52:39 [info]  Clicked on the ''Season' in Exhi Scope field'
+Dec 16,2016 16:52:40 [info]  Clicked on the 'Support Click'
+Dec 16,2016 16:52:41 [info]  Verify The data of Season in ExhiScope
+Dec 16,2016 16:52:41 [info]  Verified that Expected value :[Season] is matched with Actual value :[Season]
+Dec 16,2016 16:52:42 [info]  Clicked on the 'Window Name Field'
+Dec 16,2016 16:52:43 [info]  Entered "RSG Window" in field 'Win Name'
+Dec 16,2016 16:52:44 [info]  Clicked on the 'Support Click'
+Dec 16,2016 16:52:44 [info]  Verify The data of Window Name
+Dec 16,2016 16:52:44 [info]  Verified that Expected value :[RSG Window] is matched with Actual value :[RSG Window]
+Dec 16,2016 16:52:45 [info]  Double clicked on 'Window Name Field'
+Dec 16,2016 16:52:49 [info]  Clicked on the 'Check box Linear'
+Dec 16,2016 16:52:49 [info]  "Linear Check box is checked" is Present
+Dec 16,2016 16:52:52 [info]  Clicked on the 'Apply Button at RIGHTSTYPE_POPUP' using JS Executor
+Dec 16,2016 16:52:56 [info]  Clicked on the 'Network pop up icon' using JS Executor
+Dec 16,2016 16:52:56 [info]  Double clicked on 'Network pop up icon'
+Dec 16,2016 16:53:00 [info]  Clicked on the 'Selected Channel AMC Linear'
+Dec 16,2016 16:53:04 [info]  Clicked on the 'Ok button at Exhibtion Network Window'
+Dec 16,2016 16:53:08 [info]  Clicked on the ''Save' Button at Media Rights Edit window' using JS Executor
+Dec 16,2016 16:53:16 [info]  Verified that Expected value :[Changes Saved Successfully.] is matched with Actual value :[Changes Saved Successfully. The Filter has been updated to reflect your changes.]
+Dec 16,2016 16:53:16 [info]  Test 'TC7_DeleteFunctionality' FAILED
+Dec 16,2016 16:53:16 [info]  2
+Dec 16,2016 16:53:16 [info]  Test Case :TC7_DeleteFunctionality's Screenshot of Failure Page: C:\Screenshots\Dec2016\\16\TC7_DeleteFunctionality_12-16-2016 4-53-16 PM.jpg
+Dec 16,2016 16:53:17 [info]  Closed the Browser
+Dec 16,2016 16:53:51 [info]  ********************Started Executiong the Test Suite at 16:53:51******************
+Dec 16,2016 16:53:51 [info]  Client: AMCN
+Dec 16,2016 16:53:51 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Dec 16,2016 16:53:51 [info]  *********************Started Executing 'TC7_DeleteFunctionality' Test Case*********************
+Dec 16,2016 16:54:00 [info]  Client: AMCN
+Dec 16,2016 16:54:00 [info]  URL: http://rlv2wb79/login.aspx
+Dec 16,2016 16:54:00 [info]  UserName: automation
+Dec 16,2016 16:54:00 [info]  Password: automation
+Dec 16,2016 16:54:01 [info]  Entered "automation" in field 'User Name'
+Dec 16,2016 16:54:01 [info]  Clicked on the 'Temporary Check Box'
+Dec 16,2016 16:54:02 [info]  Entered "automation" in field 'Password'
+Dec 16,2016 16:54:09 [info]  Clicked on the 'LoginButton'
+Dec 16,2016 16:54:16 [info]  Double clicked on 'AUT_Deal_TC7_12152016101228Deal'
+Dec 16,2016 16:54:27 [info]  Clicked on the 'Exhibition Rights TAB'
+Dec 16,2016 16:54:27 [info]  Clicked on the ''Edit' Button at Media Rights TAB' using JS Executor
+Dec 16,2016 16:54:38 [info]  Clicked on the 'ClearFiltersButton'
+Dec 16,2016 16:54:47 [info]  
+Dec 16,2016 16:54:47 [info]  
+Dec 16,2016 16:54:47 [info]  Do not select row >> Click Delete >> Verify Alert Message >> Click OK Button
+Dec 16,2016 16:54:48 [info]  Double clicked on 'Delete Button'
+Dec 16,2016 16:54:52 [info]  Verify The data of Alert Message on clicking Delete Button
+Dec 16,2016 16:54:52 [info]  Verified that Expected value :[Please select a row before attempting to delete.] is matched with Actual value :[Please select a row before attempting to delete.]
+Dec 16,2016 16:54:52 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Dec 16,2016 16:54:52 [info]  
+Dec 16,2016 16:54:52 [info]  Select Allocation Row >> Click Delete >> Verify Confirm Message >> Click Cancel
+Dec 16,2016 16:54:54 [info]  Clicked on the 'First Allocation Row'
+Dec 16,2016 16:54:55 [info]  Double clicked on 'Delete Button'
+Dec 16,2016 16:54:58 [info]  Verify The data of Alert Message on clicking Delete Button
+Dec 16,2016 16:54:58 [info]  Verified that Expected value :[Are you sure you wish to Delete the Exhibition Window Line?] is matched with Actual value :[Are you sure you wish to Delete the Exhibition Window Line?]
+Dec 16,2016 16:54:59 [info]  Clicked on the 'Cancel Button At Confirm Pop-Up' using JS Executor
+Dec 16,2016 16:54:59 [info]  
+Dec 16,2016 16:54:59 [info]  Click Delete >> Verify Confirm Message >> Click OK Button
+Dec 16,2016 16:54:59 [info]  Double clicked on 'Delete Button'
+Dec 16,2016 16:55:03 [info]  Verify The data of Alert Message on clicking Delete Button
+Dec 16,2016 16:55:03 [info]  Verified that Expected value :[Are you sure you wish to Delete the Exhibition Window Line?] is matched with Actual value :[Are you sure you wish to Delete the Exhibition Window Line?]
+Dec 16,2016 16:55:03 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Dec 16,2016 16:55:09 [info]  
+Dec 16,2016 16:55:09 [info]  Click Close Btn at Edit Window>> Verify 'Navigate away 'Confirm Message >> Click OK Button >> Verify Row is not deleted and shown in view mode
+Dec 16,2016 16:55:10 [info]  Clicked on the 'Close Button at Media rights Pop up Window'
+Dec 16,2016 16:55:14 [info]  Verify The data of Alert Message on clicking 'Delete Button'
+Dec 16,2016 16:55:14 [info]  Verified that Expected value :[Are you sure you want to navigate away from this page? If you wish to continue, the changes made will not be saved. Press OK to continue, or Cancel to stay on the current page.] is matched with Actual value :[Are you sure you want to navigate away from this page? If you wish to continue, the changes made will not be saved. Press OK to continue, or Cancel to stay on the current page.]
+Dec 16,2016 16:55:14 [info]  Clicked on the 'OK Button At Confirm Pop-Up' using JS Executor
+Dec 16,2016 16:55:15 [info]  "Allocation Row" is Present
+Dec 16,2016 16:55:15 [info]  Clicked on the ''Edit' Button at Media Rights TAB' using JS Executor
+Dec 16,2016 16:55:15 [info]  Test 'TC7_DeleteFunctionality' FAILED
+Dec 16,2016 16:55:15 [info]  2
+Dec 16,2016 16:55:17 [info]  Test Case :TC7_DeleteFunctionality's Screenshot of Failure Page: C:\Screenshots\Dec2016\\16\TC7_DeleteFunctionality_12-16-2016 4-55-15 PM.jpg
+Dec 16,2016 16:55:20 [info]  Closed the Browser
+Dec 16,2016 16:56:51 [info]  ********************Started Executiong the Test Suite at 16:56:51******************
+Dec 16,2016 16:56:51 [info]  Client: AMCN
+Dec 16,2016 16:56:51 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Dec 16,2016 16:56:51 [info]  *********************Started Executing 'TC7_DeleteFunctionality' Test Case*********************
+Dec 16,2016 16:57:00 [info]  Client: AMCN
+Dec 16,2016 16:57:00 [info]  URL: http://rlv2wb79/login.aspx
+Dec 16,2016 16:57:00 [info]  UserName: automation
+Dec 16,2016 16:57:00 [info]  Password: automation
+Dec 16,2016 16:57:01 [info]  Entered "automation" in field 'User Name'
+Dec 16,2016 16:57:01 [info]  Clicked on the 'Temporary Check Box'
+Dec 16,2016 16:57:02 [info]  Entered "automation" in field 'Password'
+Dec 16,2016 16:57:08 [info]  Clicked on the 'LoginButton'
+Dec 16,2016 16:57:15 [info]  Double clicked on 'AUT_Deal_TC7_12152016101228Deal'
+Dec 16,2016 16:57:25 [info]  Clicked on the 'Exhibition Rights TAB'
+Dec 16,2016 16:57:26 [info]  Clicked on the ''Edit' Button at Media Rights TAB' using JS Executor
+Dec 16,2016 16:57:36 [info]  Clicked on the 'ClearFiltersButton'
+Dec 16,2016 16:57:51 [info]  
+Dec 16,2016 16:57:51 [info]  
+Dec 16,2016 16:57:51 [info]  Do not select row >> Click Delete >> Verify Alert Message >> Click OK Button
+Dec 16,2016 16:57:55 [info]  Double clicked on 'Delete Button'
+Dec 16,2016 16:57:59 [info]  Verify The data of Alert Message on clicking Delete Button
+Dec 16,2016 16:57:59 [info]  Verified that Expected value :[Please select a row before attempting to delete.] is matched with Actual value :[Please select a row before attempting to delete.]
+Dec 16,2016 16:57:59 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Dec 16,2016 16:57:59 [info]  
+Dec 16,2016 16:57:59 [info]  Select Allocation Row >> Click Delete >> Verify Confirm Message >> Click Cancel
+Dec 16,2016 16:58:02 [info]  Clicked on the 'First Allocation Row'
+Dec 16,2016 16:58:03 [info]  Double clicked on 'Delete Button'
+Dec 16,2016 16:58:07 [info]  Verify The data of Alert Message on clicking Delete Button
+Dec 16,2016 16:58:07 [info]  Verified that Expected value :[Are you sure you wish to Delete the Exhibition Window Line?] is matched with Actual value :[Are you sure you wish to Delete the Exhibition Window Line?]
+Dec 16,2016 16:58:07 [info]  Clicked on the 'Cancel Button At Confirm Pop-Up' using JS Executor
+Dec 16,2016 16:58:07 [info]  
+Dec 16,2016 16:58:07 [info]  Click Delete >> Verify Confirm Message >> Click OK Button
+Dec 16,2016 16:58:09 [info]  Double clicked on 'Delete Button'
+Dec 16,2016 16:58:13 [info]  Verify The data of Alert Message on clicking Delete Button
+Dec 16,2016 16:58:13 [info]  Verified that Expected value :[Are you sure you wish to Delete the Exhibition Window Line?] is matched with Actual value :[Are you sure you wish to Delete the Exhibition Window Line?]
+Dec 16,2016 16:58:13 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Dec 16,2016 16:58:20 [info]  
+Dec 16,2016 16:58:20 [info]  Click Close Btn at Edit Window>> Verify 'Navigate away 'Confirm Message >> Click OK Button >> Verify Row is not deleted and shown in view mode
+Dec 16,2016 16:58:20 [info]  Clicked on the 'Close Button at Media rights Pop up Window'
+Dec 16,2016 16:58:24 [info]  Verify The data of Alert Message on clicking 'Delete Button'
+Dec 16,2016 16:58:24 [info]  Verified that Expected value :[Are you sure you want to navigate away from this page? If you wish to continue, the changes made will not be saved. Press OK to continue, or Cancel to stay on the current page.] is matched with Actual value :[Are you sure you want to navigate away from this page? If you wish to continue, the changes made will not be saved. Press OK to continue, or Cancel to stay on the current page.]
+Dec 16,2016 16:58:25 [info]  Clicked on the 'OK Button At Confirm Pop-Up' using JS Executor
+Dec 16,2016 16:58:25 [info]  "Allocation Row in View Mode" is Present
+Dec 16,2016 16:58:25 [info]  Clicked on the ''Edit' Button at Media Rights TAB' using JS Executor
+Dec 16,2016 16:58:25 [info]  
+Dec 16,2016 16:58:25 [info]  Select Parent 2 >> Child 1 >> Click Delete >> Verify Confirm Message >> Click OK
+Dec 16,2016 16:58:33 [info]  Clicked on the 'Parent2_Child1_RowSelector'
+Dec 16,2016 16:58:34 [info]  Clicked on the 'Parent2_Child1_RowSelector'
+Dec 16,2016 16:58:34 [info]  Double clicked on 'Delete Button'
+Dec 16,2016 16:58:42 [info]  Verify The data of Alert Message on clicking Delete Button
+Dec 16,2016 16:58:42 [info]  Verified that Expected value :[Are you sure you wish to Delete the Exhibition Window Line?] is matched with Actual value :[Are you sure you wish to Delete the Exhibition Window Line?]
+Dec 16,2016 16:58:44 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Dec 16,2016 16:58:52 [info]  
+Dec 16,2016 16:58:52 [info]  Select Parent 2 >> Click Delete >> Verify Confirm Message >> Click OK
+Dec 16,2016 16:58:55 [info]  Clicked on the 'Parent2_RowSelector'
+Dec 16,2016 16:58:56 [info]  Double clicked on 'Delete Button'
+Dec 16,2016 16:59:04 [info]  ====Failed===="Either Expected Value is not given OR 'Alert Message on clicking Delete Button'" Element is not Present
+Dec 16,2016 16:59:04 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\16\Alert Message on clicking Delete Button_CheckpointFailure_12-16-2016 4-59-04 PM.jpg
+Dec 16,2016 16:59:06 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Dec 16,2016 16:59:09 [info]  Clicked on the ''Save' Button at Media Rights Edit window' using JS Executor
+Dec 16,2016 16:59:17 [info]  Verified that Expected value :[Changes Saved Successfully.] is matched with Actual value :[Changes Saved Successfully. The Filter has been updated to reflect your changes.]
+Dec 16,2016 16:59:17 [info]  Test 'TC7_DeleteFunctionality' PASSED
+Dec 16,2016 16:59:18 [info]  Closed the Browser

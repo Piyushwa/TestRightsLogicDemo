@@ -1,0 +1,1311 @@
+Oct 03,2016 12:21:30 [info]  ********************Started Executiong the Test Suite at 12:21:30******************
+Oct 03,2016 12:21:30 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Oct 03,2016 12:21:30 [info]  *********************Started Executing 'createCustomAttributes_Prerequisites' Test Case*********************
+Oct 03,2016 12:21:40 [info]  Client: AMCN
+Oct 03,2016 12:21:40 [info]  URL: http://rlv2wb79/login.aspx
+Oct 03,2016 12:21:40 [info]  UserName: automation
+Oct 03,2016 12:21:40 [info]  Password: automation
+Oct 03,2016 12:21:42 [info]  Entered "automation" in field 'User Name'
+Oct 03,2016 12:21:42 [info]  Clicked on the 'Temporary Check Box'
+Oct 03,2016 12:21:43 [info]  Entered "automation" in field 'Password'
+Oct 03,2016 12:21:44 [info]  Clicked on the 'LoginButton'
+Oct 03,2016 12:21:56 [info]  ====Failed==== " Could not find the Frame: //div[@clientid='RL_SplitterPane_Navigation']
+Oct 03,2016 12:21:56 [info]  File created C:\SeleniumProject\Screenshots\Oct2016
+Oct 03,2016 12:21:56 [info]  File created C:\SeleniumProject\Screenshots\Oct2016\03
+Oct 03,2016 12:21:58 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\FrameSwitchingFailed0_CheckpointFailure_10-03-2016 12-21-56 PM.jpg
+Oct 03,2016 15:41:07 [info]  ********************Started Executiong the Test Suite at 15:41:07******************
+Oct 03,2016 15:41:07 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Oct 03,2016 15:41:07 [info]  *********************Started Executing 'createCustomAttributes_Prerequisites' Test Case*********************
+Oct 03,2016 15:41:20 [info]  Client: AMCN
+Oct 03,2016 15:41:20 [info]  URL: http://rlv2wb79/login.aspx
+Oct 03,2016 15:41:20 [info]  UserName: automation
+Oct 03,2016 15:41:20 [info]  Password: automation
+Oct 03,2016 15:41:21 [info]  Entered "automation" in field 'User Name'
+Oct 03,2016 15:41:21 [info]  Clicked on the 'Temporary Check Box'
+Oct 03,2016 15:41:22 [info]  Entered "automation" in field 'Password'
+Oct 03,2016 15:41:22 [info]  Clicked on the 'LoginButton'
+Oct 03,2016 15:41:38 [info]  ====Failed==== " Could not find the Frame: //div[@clientid='RL_SplitterPane_Navigation']
+Oct 03,2016 15:41:54 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\FrameSwitchingFailed0_CheckpointFailure_10-03-2016 3-41-38 PM.jpg
+Oct 03,2016 15:43:11 [info]  ********************Started Executiong the Test Suite at 15:43:11******************
+Oct 03,2016 15:43:11 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Oct 03,2016 15:43:11 [info]  *********************Started Executing 'createCustomAttributes_Prerequisites' Test Case*********************
+Oct 03,2016 15:43:20 [info]  Client: CORUS
+Oct 03,2016 15:43:20 [info]  URL: https://corus-rsgqa.rightslogic.com/Login.aspx 
+Oct 03,2016 15:43:20 [info]  UserName: admin
+Oct 03,2016 15:43:20 [info]  Password: admin_corus
+Oct 03,2016 15:43:22 [info]  Entered "admin" in field 'User Name'
+Oct 03,2016 15:43:23 [info]  Clicked on the 'Temporary Check Box'
+Oct 03,2016 15:43:24 [info]  Entered "admin_corus" in field 'Password'
+Oct 03,2016 15:43:35 [info]  Clicked on the 'LoginButton'
+Oct 03,2016 15:43:59 [info]  Clicked on the 'Link at Menu' using JS Executor
+Oct 03,2016 15:44:00 [info]  Clicked on the ''Custom Attributes' Link under Maintain Menu Link' using JS Executor
+Oct 03,2016 15:44:07 [info]  Clicked on the 'New Button to Add Attribute' using JS Executor
+Oct 03,2016 15:44:10 [info]  Clicked on the 'Module Field'
+Oct 03,2016 15:44:11 [info]  Entered "Asset Maintenance" in field 'Entered Asset Maintenance in Module Input Field'
+Oct 03,2016 15:44:12 [info]  Clicked on the 'AttributeName Field'
+Oct 03,2016 15:44:13 [info]  Entered "AUT_Attributes_Film location1003201634310" in field 'Entered AUT_Attributes_Film location1003201634310 in Attribute Name Input Field'
+Oct 03,2016 15:44:13 [info]  Clicked on the 'DataType Field'
+Oct 03,2016 15:44:14 [info]  Entered "Text only" in field 'Entered Text only in DataType Input Field'
+Oct 03,2016 15:44:14 [info]  Clicked on the 'Format Field'
+Oct 03,2016 15:44:15 [info]  Entered "Text" in field 'Entered Text in Format Input Field'
+Oct 03,2016 15:44:15 [info]  Clicked on the 'Support Click'
+Oct 03,2016 15:44:16 [info]  Clicked on the 'Save Button to Add Attribute' using JS Executor
+Oct 03,2016 15:44:21 [info]  Verify the details of Created Custom Attribute
+Oct 03,2016 15:44:22 [info]  Verify The data of ModuleName Field
+Oct 03,2016 15:44:22 [info]  Verified that Expected value :[Asset Maintenance] is matched with Actual value :[Asset Maintenance]
+Oct 03,2016 15:44:22 [info]  Verify The data of AttributeName Field
+Oct 03,2016 15:44:22 [info]  ====Failed==== Expected value is:[AUT_Attributes_Film location1003201634310] but Actual value is[AM01]. Please check the screenshot with name: AttributeName Fieldfor more details
+Oct 03,2016 15:44:22 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\AttributeName Field_CheckpointFailure_10-03-2016 3-44-22 PM.jpg
+Oct 03,2016 15:44:22 [info]  Verify The data of DataType Field
+Oct 03,2016 15:44:22 [info]  Verified that Expected value :[Text only] is matched with Actual value :[Text only]
+Oct 03,2016 15:44:22 [info]  Verify The data of Format Field
+Oct 03,2016 15:44:22 [info]  ====Failed==== Expected value is:[Text] but Actual value is[AlphaNumeric]. Please check the screenshot with name: Format Fieldfor more details
+Oct 03,2016 15:44:22 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\Format Field_CheckpointFailure_10-03-2016 3-44-22 PM.jpg
+Oct 03,2016 15:44:22 [info]  
+Oct 03,2016 15:44:23 [info]  Clicked on the 'New Button to Add Attribute' using JS Executor
+Oct 03,2016 15:44:25 [info]  Clicked on the 'Module Field'
+Oct 03,2016 15:44:26 [info]  Entered "Asset Maintenance" in field 'Entered Asset Maintenance in Module Input Field'
+Oct 03,2016 15:44:26 [info]  Clicked on the 'AttributeName Field'
+Oct 03,2016 15:44:28 [info]  Entered "AUT_Attributes_Media_1003201634310" in field 'Entered AUT_Attributes_Media_1003201634310 in Attribute Name Input Field'
+Oct 03,2016 15:44:28 [info]  Clicked on the 'DataType Field'
+Oct 03,2016 15:44:29 [info]  Entered "Text only" in field 'Entered Text only in DataType Input Field'
+Oct 03,2016 15:44:29 [info]  Clicked on the 'Format Field'
+Oct 03,2016 15:44:29 [info]  Entered "Alphanumeric" in field 'Entered Alphanumeric in Format Input Field'
+Oct 03,2016 15:44:30 [info]  Clicked on the 'Support Click'
+Oct 03,2016 15:44:30 [info]  Clicked on the 'Save Button to Add Attribute' using JS Executor
+Oct 03,2016 15:44:36 [info]  Verify the details of Created Custom Attribute
+Oct 03,2016 15:44:36 [info]  Verify The data of ModuleName Field
+Oct 03,2016 15:44:36 [info]  Verified that Expected value :[Asset Maintenance] is matched with Actual value :[Asset Maintenance]
+Oct 03,2016 15:44:36 [info]  Verify The data of AttributeName Field
+Oct 03,2016 15:44:36 [info]  ====Failed==== Expected value is:[AUT_Attributes_Media_1003201634310] but Actual value is[AM01]. Please check the screenshot with name: AttributeName Fieldfor more details
+Oct 03,2016 15:44:37 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\AttributeName Field_CheckpointFailure_10-03-2016 3-44-36 PM.jpg
+Oct 03,2016 15:44:37 [info]  Verify The data of DataType Field
+Oct 03,2016 15:44:37 [info]  Verified that Expected value :[Text only] is matched with Actual value :[Text only]
+Oct 03,2016 15:44:37 [info]  Verify The data of Format Field
+Oct 03,2016 15:44:37 [info]  ====Failed==== Expected value is:[Alphanumeric] but Actual value is[AlphaNumeric]. Please check the screenshot with name: Format Fieldfor more details
+Oct 03,2016 15:44:37 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\Format Field_CheckpointFailure_10-03-2016 3-44-37 PM.jpg
+Oct 03,2016 15:44:37 [info]  
+Oct 03,2016 15:44:37 [info]  Clicked on the 'New Button to Add Attribute' using JS Executor
+Oct 03,2016 15:44:40 [info]  Clicked on the 'Module Field'
+Oct 03,2016 15:44:40 [info]  Entered "Asset Maintenance" in field 'Entered Asset Maintenance in Module Input Field'
+Oct 03,2016 15:44:41 [info]  Clicked on the 'AttributeName Field'
+Oct 03,2016 15:44:43 [info]  Entered "AUT_Attributes_ NUMERIC 1_1003201634310" in field 'Entered AUT_Attributes_ NUMERIC 1_1003201634310 in Attribute Name Input Field'
+Oct 03,2016 15:44:43 [info]  Clicked on the 'DataType Field'
+Oct 03,2016 15:44:44 [info]  Entered "Numeric" in field 'Entered Numeric in DataType Input Field'
+Oct 03,2016 15:44:44 [info]  Clicked on the 'Format Field'
+Oct 03,2016 15:44:45 [info]  Entered "Number" in field 'Entered Number in Format Input Field'
+Oct 03,2016 15:44:45 [info]  Clicked on the 'Support Click'
+Oct 03,2016 15:44:45 [info]  Clicked on the 'Save Button to Add Attribute' using JS Executor
+Oct 03,2016 15:44:51 [info]  Verify the details of Created Custom Attribute
+Oct 03,2016 15:44:51 [info]  Verify The data of ModuleName Field
+Oct 03,2016 15:44:51 [info]  Verified that Expected value :[Asset Maintenance] is matched with Actual value :[Asset Maintenance]
+Oct 03,2016 15:44:51 [info]  Verify The data of AttributeName Field
+Oct 03,2016 15:44:51 [info]  ====Failed==== Expected value is:[AUT_Attributes_ NUMERIC 1_1003201634310] but Actual value is[AM01]. Please check the screenshot with name: AttributeName Fieldfor more details
+Oct 03,2016 15:44:51 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\AttributeName Field_CheckpointFailure_10-03-2016 3-44-51 PM.jpg
+Oct 03,2016 15:44:52 [info]  Verify The data of DataType Field
+Oct 03,2016 15:44:52 [info]  ====Failed==== Expected value is:[Numeric] but Actual value is[Text only]. Please check the screenshot with name: DataType Fieldfor more details
+Oct 03,2016 15:44:52 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\DataType Field_CheckpointFailure_10-03-2016 3-44-52 PM.jpg
+Oct 03,2016 15:44:52 [info]  Verify The data of Format Field
+Oct 03,2016 15:44:52 [info]  ====Failed==== Expected value is:[Number] but Actual value is[AlphaNumeric]. Please check the screenshot with name: Format Fieldfor more details
+Oct 03,2016 15:44:52 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\Format Field_CheckpointFailure_10-03-2016 3-44-52 PM.jpg
+Oct 03,2016 15:44:52 [info]  
+Oct 03,2016 15:44:52 [info]  Clicked on the 'New Button to Add Attribute' using JS Executor
+Oct 03,2016 15:44:55 [info]  Clicked on the 'Module Field'
+Oct 03,2016 15:44:55 [info]  Entered "Asset Maintenance" in field 'Entered Asset Maintenance in Module Input Field'
+Oct 03,2016 15:44:56 [info]  Clicked on the 'AttributeName Field'
+Oct 03,2016 15:44:58 [info]  Entered "AUT_Attributes_NUMERIC 2_1003201634310" in field 'Entered AUT_Attributes_NUMERIC 2_1003201634310 in Attribute Name Input Field'
+Oct 03,2016 15:44:58 [info]  Clicked on the 'DataType Field'
+Oct 03,2016 15:44:59 [info]  Entered "Numeric" in field 'Entered Numeric in DataType Input Field'
+Oct 03,2016 15:44:59 [info]  Clicked on the 'Format Field'
+Oct 03,2016 15:44:59 [info]  Entered "Decimal" in field 'Entered Decimal in Format Input Field'
+Oct 03,2016 15:45:00 [info]  Clicked on the 'Support Click'
+Oct 03,2016 15:45:00 [info]  Clicked on the 'Save Button to Add Attribute' using JS Executor
+Oct 03,2016 15:45:06 [info]  Verify the details of Created Custom Attribute
+Oct 03,2016 15:45:06 [info]  Verify The data of ModuleName Field
+Oct 03,2016 15:45:06 [info]  Verified that Expected value :[Asset Maintenance] is matched with Actual value :[Asset Maintenance]
+Oct 03,2016 15:45:06 [info]  Verify The data of AttributeName Field
+Oct 03,2016 15:45:06 [info]  ====Failed==== Expected value is:[AUT_Attributes_NUMERIC 2_1003201634310] but Actual value is[AM01]. Please check the screenshot with name: AttributeName Fieldfor more details
+Oct 03,2016 15:45:06 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\AttributeName Field_CheckpointFailure_10-03-2016 3-45-06 PM.jpg
+Oct 03,2016 15:45:07 [info]  Verify The data of DataType Field
+Oct 03,2016 15:45:07 [info]  ====Failed==== Expected value is:[Numeric] but Actual value is[Text only]. Please check the screenshot with name: DataType Fieldfor more details
+Oct 03,2016 15:45:07 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\DataType Field_CheckpointFailure_10-03-2016 3-45-07 PM.jpg
+Oct 03,2016 15:45:07 [info]  Verify The data of Format Field
+Oct 03,2016 15:45:07 [info]  ====Failed==== Expected value is:[Decimal] but Actual value is[AlphaNumeric]. Please check the screenshot with name: Format Fieldfor more details
+Oct 03,2016 15:45:07 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\Format Field_CheckpointFailure_10-03-2016 3-45-07 PM.jpg
+Oct 03,2016 15:45:07 [info]  
+Oct 03,2016 15:45:07 [info]  Clicked on the 'New Button to Add Attribute' using JS Executor
+Oct 03,2016 15:45:10 [info]  Clicked on the 'Module Field'
+Oct 03,2016 15:45:10 [info]  Entered "Asset Maintenance" in field 'Entered Asset Maintenance in Module Input Field'
+Oct 03,2016 15:45:11 [info]  Clicked on the 'AttributeName Field'
+Oct 03,2016 15:45:13 [info]  Entered "AUT_Attributes_CURRENCY 1_1003201634310" in field 'Entered AUT_Attributes_CURRENCY 1_1003201634310 in Attribute Name Input Field'
+Oct 03,2016 15:45:13 [info]  Clicked on the 'DataType Field'
+Oct 03,2016 15:45:14 [info]  Entered "Currency" in field 'Entered Currency in DataType Input Field'
+Oct 03,2016 15:45:14 [info]  Clicked on the 'Format Field'
+Oct 03,2016 15:45:15 [info]  Entered "$$$$$" in field 'Entered $$$$$ in Format Input Field'
+Oct 03,2016 15:45:15 [info]  Clicked on the 'Support Click'
+Oct 03,2016 15:45:16 [info]  Clicked on the 'Save Button to Add Attribute' using JS Executor
+Oct 03,2016 15:45:21 [info]  Verify the details of Created Custom Attribute
+Oct 03,2016 15:45:22 [info]  Verify The data of ModuleName Field
+Oct 03,2016 15:45:22 [info]  Verified that Expected value :[Asset Maintenance] is matched with Actual value :[Asset Maintenance]
+Oct 03,2016 15:45:22 [info]  Verify The data of AttributeName Field
+Oct 03,2016 15:45:22 [info]  ====Failed==== Expected value is:[AUT_Attributes_CURRENCY 1_1003201634310] but Actual value is[AM01]. Please check the screenshot with name: AttributeName Fieldfor more details
+Oct 03,2016 15:45:22 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\AttributeName Field_CheckpointFailure_10-03-2016 3-45-22 PM.jpg
+Oct 03,2016 15:45:22 [info]  Verify The data of DataType Field
+Oct 03,2016 15:45:22 [info]  ====Failed==== Expected value is:[Currency] but Actual value is[Text only]. Please check the screenshot with name: DataType Fieldfor more details
+Oct 03,2016 15:45:22 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\DataType Field_CheckpointFailure_10-03-2016 3-45-22 PM.jpg
+Oct 03,2016 15:45:23 [info]  Verify The data of Format Field
+Oct 03,2016 15:45:23 [info]  ====Failed==== Expected value is:[$$$$$] but Actual value is[AlphaNumeric]. Please check the screenshot with name: Format Fieldfor more details
+Oct 03,2016 15:45:23 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\Format Field_CheckpointFailure_10-03-2016 3-45-23 PM.jpg
+Oct 03,2016 15:45:23 [info]  
+Oct 03,2016 15:45:23 [info]  Clicked on the 'New Button to Add Attribute' using JS Executor
+Oct 03,2016 15:45:25 [info]  Clicked on the 'Module Field'
+Oct 03,2016 15:45:26 [info]  Entered "Asset Maintenance" in field 'Entered Asset Maintenance in Module Input Field'
+Oct 03,2016 15:45:26 [info]  Clicked on the 'AttributeName Field'
+Oct 03,2016 15:45:29 [info]  Entered "AUT_Attributes_CURRENCY 2_1003201634310" in field 'Entered AUT_Attributes_CURRENCY 2_1003201634310 in Attribute Name Input Field'
+Oct 03,2016 15:45:29 [info]  Clicked on the 'DataType Field'
+Oct 03,2016 15:45:29 [info]  Entered "Currency" in field 'Entered Currency in DataType Input Field'
+Oct 03,2016 15:45:30 [info]  Clicked on the 'Format Field'
+Oct 03,2016 15:45:31 [info]  Entered "$$$$$.cc" in field 'Entered $$$$$.cc in Format Input Field'
+Oct 03,2016 15:45:31 [info]  Clicked on the 'Support Click'
+Oct 03,2016 15:45:31 [info]  Clicked on the 'Save Button to Add Attribute' using JS Executor
+Oct 03,2016 15:45:37 [info]  Verify the details of Created Custom Attribute
+Oct 03,2016 15:45:37 [info]  Verify The data of ModuleName Field
+Oct 03,2016 15:45:37 [info]  Verified that Expected value :[Asset Maintenance] is matched with Actual value :[Asset Maintenance]
+Oct 03,2016 15:45:37 [info]  Verify The data of AttributeName Field
+Oct 03,2016 15:45:37 [info]  ====Failed==== Expected value is:[AUT_Attributes_CURRENCY 2_1003201634310] but Actual value is[Pitch Date (Shaw)]. Please check the screenshot with name: AttributeName Fieldfor more details
+Oct 03,2016 15:45:38 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\AttributeName Field_CheckpointFailure_10-03-2016 3-45-37 PM.jpg
+Oct 03,2016 15:45:38 [info]  Verify The data of DataType Field
+Oct 03,2016 15:45:38 [info]  ====Failed==== Expected value is:[Currency] but Actual value is[Date]. Please check the screenshot with name: DataType Fieldfor more details
+Oct 03,2016 15:45:38 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\DataType Field_CheckpointFailure_10-03-2016 3-45-38 PM.jpg
+Oct 03,2016 15:45:38 [info]  Verify The data of Format Field
+Oct 03,2016 15:45:38 [info]  ====Failed==== Expected value is:[$$$$$.cc] but Actual value is[Custom]. Please check the screenshot with name: Format Fieldfor more details
+Oct 03,2016 15:45:38 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\Format Field_CheckpointFailure_10-03-2016 3-45-38 PM.jpg
+Oct 03,2016 15:45:38 [info]  
+Oct 03,2016 15:45:39 [info]  Clicked on the 'New Button to Add Attribute' using JS Executor
+Oct 03,2016 15:45:41 [info]  Clicked on the 'Module Field'
+Oct 03,2016 15:45:42 [info]  Entered "Asset Maintenance" in field 'Entered Asset Maintenance in Module Input Field'
+Oct 03,2016 15:45:42 [info]  Clicked on the 'AttributeName Field'
+Oct 03,2016 15:45:44 [info]  Entered "AUT_Attributes_RANGE 1_1003201634310" in field 'Entered AUT_Attributes_RANGE 1_1003201634310 in Attribute Name Input Field'
+Oct 03,2016 15:45:44 [info]  Clicked on the 'DataType Field'
+Oct 03,2016 15:45:45 [info]  Entered "Range" in field 'Entered Range in DataType Input Field'
+Oct 03,2016 15:45:45 [info]  Clicked on the 'Format Field'
+Oct 03,2016 15:45:46 [info]  Entered "Alphanumeric" in field 'Entered Alphanumeric in Format Input Field'
+Oct 03,2016 15:45:46 [info]  Clicked on the 'Support Click'
+Oct 03,2016 15:45:46 [info]  Clicked on the 'Save Button to Add Attribute' using JS Executor
+Oct 03,2016 15:45:52 [info]  Verify the details of Created Custom Attribute
+Oct 03,2016 15:45:52 [info]  Verify The data of ModuleName Field
+Oct 03,2016 15:45:52 [info]  Verified that Expected value :[Asset Maintenance] is matched with Actual value :[Asset Maintenance]
+Oct 03,2016 15:45:52 [info]  Verify The data of AttributeName Field
+Oct 03,2016 15:45:52 [info]  ====Failed==== Expected value is:[AUT_Attributes_RANGE 1_1003201634310] but Actual value is[AM01]. Please check the screenshot with name: AttributeName Fieldfor more details
+Oct 03,2016 15:45:53 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\AttributeName Field_CheckpointFailure_10-03-2016 3-45-52 PM.jpg
+Oct 03,2016 15:45:53 [info]  Verify The data of DataType Field
+Oct 03,2016 15:45:53 [info]  ====Failed==== Expected value is:[Range] but Actual value is[Text only]. Please check the screenshot with name: DataType Fieldfor more details
+Oct 03,2016 15:45:53 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\DataType Field_CheckpointFailure_10-03-2016 3-45-53 PM.jpg
+Oct 03,2016 15:45:53 [info]  Verify The data of Format Field
+Oct 03,2016 15:45:53 [info]  ====Failed==== Expected value is:[Alphanumeric] but Actual value is[AlphaNumeric]. Please check the screenshot with name: Format Fieldfor more details
+Oct 03,2016 15:45:53 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\Format Field_CheckpointFailure_10-03-2016 3-45-53 PM.jpg
+Oct 03,2016 15:45:53 [info]  
+Oct 03,2016 15:45:54 [info]  Clicked on the 'New Button to Add Attribute' using JS Executor
+Oct 03,2016 15:45:56 [info]  Clicked on the 'Module Field'
+Oct 03,2016 15:45:57 [info]  Entered "Asset Maintenance" in field 'Entered Asset Maintenance in Module Input Field'
+Oct 03,2016 15:45:57 [info]  Clicked on the 'AttributeName Field'
+Oct 03,2016 15:45:59 [info]  Entered "AUT_Attributes_RANGE 2_1003201634310" in field 'Entered AUT_Attributes_RANGE 2_1003201634310 in Attribute Name Input Field'
+Oct 03,2016 15:45:59 [info]  Clicked on the 'DataType Field'
+Oct 03,2016 15:46:00 [info]  Entered "Range" in field 'Entered Range in DataType Input Field'
+Oct 03,2016 15:46:00 [info]  Clicked on the 'Format Field'
+Oct 03,2016 15:46:01 [info]  Entered "Number" in field 'Entered Number in Format Input Field'
+Oct 03,2016 15:46:01 [info]  Clicked on the 'Support Click'
+Oct 03,2016 15:46:01 [info]  Clicked on the 'Save Button to Add Attribute' using JS Executor
+Oct 03,2016 15:46:07 [info]  Verify the details of Created Custom Attribute
+Oct 03,2016 15:46:07 [info]  Verify The data of ModuleName Field
+Oct 03,2016 15:46:07 [info]  Verified that Expected value :[Asset Maintenance] is matched with Actual value :[Asset Maintenance]
+Oct 03,2016 15:46:07 [info]  Verify The data of AttributeName Field
+Oct 03,2016 15:46:07 [info]  ====Failed==== Expected value is:[AUT_Attributes_RANGE 2_1003201634310] but Actual value is[AM01]. Please check the screenshot with name: AttributeName Fieldfor more details
+Oct 03,2016 15:46:07 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\AttributeName Field_CheckpointFailure_10-03-2016 3-46-07 PM.jpg
+Oct 03,2016 15:46:07 [info]  Verify The data of DataType Field
+Oct 03,2016 15:46:07 [info]  ====Failed==== Expected value is:[Range] but Actual value is[Text only]. Please check the screenshot with name: DataType Fieldfor more details
+Oct 03,2016 15:46:08 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\DataType Field_CheckpointFailure_10-03-2016 3-46-07 PM.jpg
+Oct 03,2016 15:46:08 [info]  Verify The data of Format Field
+Oct 03,2016 15:46:08 [info]  ====Failed==== Expected value is:[Number] but Actual value is[AlphaNumeric]. Please check the screenshot with name: Format Fieldfor more details
+Oct 03,2016 15:46:08 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\Format Field_CheckpointFailure_10-03-2016 3-46-08 PM.jpg
+Oct 03,2016 15:46:08 [info]  
+Oct 03,2016 15:46:08 [info]  Clicked on the 'New Button to Add Attribute' using JS Executor
+Oct 03,2016 15:46:11 [info]  Clicked on the 'Module Field'
+Oct 03,2016 15:46:11 [info]  Entered "Asset Maintenance" in field 'Entered Asset Maintenance in Module Input Field'
+Oct 03,2016 15:46:12 [info]  Clicked on the 'AttributeName Field'
+Oct 03,2016 15:46:13 [info]  Entered "AUT_Attributes_RANGE 3_1003201634310" in field 'Entered AUT_Attributes_RANGE 3_1003201634310 in Attribute Name Input Field'
+Oct 03,2016 15:46:14 [info]  Clicked on the 'DataType Field'
+Oct 03,2016 15:46:14 [info]  Entered "Range" in field 'Entered Range in DataType Input Field'
+Oct 03,2016 15:46:15 [info]  Clicked on the 'Format Field'
+Oct 03,2016 15:46:15 [info]  Entered "Decimal" in field 'Entered Decimal in Format Input Field'
+Oct 03,2016 15:46:16 [info]  Clicked on the 'Support Click'
+Oct 03,2016 15:46:16 [info]  Clicked on the 'Save Button to Add Attribute' using JS Executor
+Oct 03,2016 15:46:22 [info]  Verify the details of Created Custom Attribute
+Oct 03,2016 15:46:22 [info]  Verify The data of ModuleName Field
+Oct 03,2016 15:46:22 [info]  Verified that Expected value :[Asset Maintenance] is matched with Actual value :[Asset Maintenance]
+Oct 03,2016 15:46:22 [info]  Verify The data of AttributeName Field
+Oct 03,2016 15:46:22 [info]  ====Failed==== Expected value is:[AUT_Attributes_RANGE 3_1003201634310] but Actual value is[AM01]. Please check the screenshot with name: AttributeName Fieldfor more details
+Oct 03,2016 15:46:22 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\AttributeName Field_CheckpointFailure_10-03-2016 3-46-22 PM.jpg
+Oct 03,2016 15:46:23 [info]  Verify The data of DataType Field
+Oct 03,2016 15:46:23 [info]  ====Failed==== Expected value is:[Range] but Actual value is[Text only]. Please check the screenshot with name: DataType Fieldfor more details
+Oct 03,2016 15:46:23 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\DataType Field_CheckpointFailure_10-03-2016 3-46-23 PM.jpg
+Oct 03,2016 15:46:23 [info]  Verify The data of Format Field
+Oct 03,2016 15:46:23 [info]  ====Failed==== Expected value is:[Decimal] but Actual value is[AlphaNumeric]. Please check the screenshot with name: Format Fieldfor more details
+Oct 03,2016 15:46:23 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\Format Field_CheckpointFailure_10-03-2016 3-46-23 PM.jpg
+Oct 03,2016 15:46:23 [info]  
+Oct 03,2016 15:46:23 [info]  Clicked on the 'New Button to Add Attribute' using JS Executor
+Oct 03,2016 15:46:26 [info]  Clicked on the 'Module Field'
+Oct 03,2016 15:46:26 [info]  Entered "Asset Maintenance" in field 'Entered Asset Maintenance in Module Input Field'
+Oct 03,2016 15:46:27 [info]  Clicked on the 'AttributeName Field'
+Oct 03,2016 15:46:29 [info]  Entered "AUT_Attributes_RANGE 4_1003201634310" in field 'Entered AUT_Attributes_RANGE 4_1003201634310 in Attribute Name Input Field'
+Oct 03,2016 15:46:29 [info]  Clicked on the 'DataType Field'
+Oct 03,2016 15:46:30 [info]  Entered "Range" in field 'Entered Range in DataType Input Field'
+Oct 03,2016 15:46:30 [info]  Clicked on the 'Format Field'
+Oct 03,2016 15:46:31 [info]  Entered "$$$$$" in field 'Entered $$$$$ in Format Input Field'
+Oct 03,2016 15:46:31 [info]  Clicked on the 'Support Click'
+Oct 03,2016 15:46:31 [info]  Clicked on the 'Save Button to Add Attribute' using JS Executor
+Oct 03,2016 15:46:35 [info]  Verify the details of Created Custom Attribute
+Oct 03,2016 15:46:35 [info]  Verify The data of ModuleName Field
+Oct 03,2016 15:46:35 [info]  Verified that Expected value :[Asset Maintenance] is matched with Actual value :[Asset Maintenance]
+Oct 03,2016 15:46:35 [info]  Verify The data of AttributeName Field
+Oct 03,2016 15:46:35 [info]  Verified that Expected value :[AUT_Attributes_RANGE 4_1003201634310] is matched with Actual value :[AUT_Attributes_RANGE 4_1003201634310]
+Oct 03,2016 15:46:36 [info]  Verify The data of DataType Field
+Oct 03,2016 15:46:36 [info]  ====Failed==== Expected value is:[Range] but Actual value is[Numeric]. Please check the screenshot with name: DataType Fieldfor more details
+Oct 03,2016 15:46:36 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\DataType Field_CheckpointFailure_10-03-2016 3-46-36 PM.jpg
+Oct 03,2016 15:46:36 [info]  Verify The data of Format Field
+Oct 03,2016 15:46:36 [info]  ====Failed==== Expected value is:[$$$$$] but Actual value is[]. Please check the screenshot with name: Format Fieldfor more details
+Oct 03,2016 15:46:36 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\Format Field_CheckpointFailure_10-03-2016 3-46-36 PM.jpg
+Oct 03,2016 15:46:36 [info]  
+Oct 03,2016 15:46:36 [info]  Clicked on the 'New Button to Add Attribute' using JS Executor
+Oct 03,2016 15:46:39 [info]  Clicked on the 'Module Field'
+Oct 03,2016 15:46:39 [info]  ====Failed==== "Entered Asset Maintenance in Module Input Field" field is not present'Entered Asset Maintenance in Module Input Field'
+Oct 03,2016 15:46:39 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\Entered Asset Maintenance in Module Input Field_CheckpointFailure_10-03-2016 3-46-39 PM.jpg
+Oct 03,2016 15:46:39 [info]  Clicked on the 'AttributeName Field'
+Oct 03,2016 15:46:39 [info]  ====Failed==== "Entered AUT_Attributes_RANGE 5_1003201634310 in Attribute Name Input Field" field is not present'Entered AUT_Attributes_RANGE 5_1003201634310 in Attribute Name Input Field'
+Oct 03,2016 15:46:40 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\Entered AUT_Attributes_RANGE 5_1003201634310 in Attribute Name Input Field_CheckpointFailure_10-03-2016 3-46-39 PM.jpg
+Oct 03,2016 15:46:40 [info]  Clicked on the 'DataType Field'
+Oct 03,2016 15:46:40 [info]  ====Failed==== "Entered Range in DataType Input Field" field is not present'Entered Range in DataType Input Field'
+Oct 03,2016 15:46:40 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\Entered Range in DataType Input Field_CheckpointFailure_10-03-2016 3-46-40 PM.jpg
+Oct 03,2016 15:46:40 [info]  Clicked on the 'Format Field'
+Oct 03,2016 15:46:41 [info]  ====Failed==== "Entered $$$$$.cc in Format Input Field" field is not present'Entered $$$$$.cc in Format Input Field'
+Oct 03,2016 15:46:41 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\Entered $$$$$.cc in Format Input Field_CheckpointFailure_10-03-2016 3-46-41 PM.jpg
+Oct 03,2016 15:46:41 [info]  Clicked on the 'Support Click'
+Oct 03,2016 15:46:41 [info]  Clicked on the 'Save Button to Add Attribute' using JS Executor
+Oct 03,2016 15:46:45 [info]  Verify the details of Created Custom Attribute
+Oct 03,2016 15:46:45 [info]  Verify The data of ModuleName Field
+Oct 03,2016 15:46:45 [info]  ====Failed==== Expected value is:[Asset Maintenance] but Actual value is[]. Please check the screenshot with name: ModuleName Fieldfor more details
+Oct 03,2016 15:46:45 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\ModuleName Field_CheckpointFailure_10-03-2016 3-46-45 PM.jpg
+Oct 03,2016 15:46:45 [info]  Verify The data of AttributeName Field
+Oct 03,2016 15:46:45 [info]  ====Failed==== Expected value is:[AUT_Attributes_RANGE 5_1003201634310] but Actual value is[]. Please check the screenshot with name: AttributeName Fieldfor more details
+Oct 03,2016 15:46:45 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\AttributeName Field_CheckpointFailure_10-03-2016 3-46-45 PM.jpg
+Oct 03,2016 15:46:45 [info]  Verify The data of DataType Field
+Oct 03,2016 15:46:45 [info]  ====Failed==== Expected value is:[Range] but Actual value is[]. Please check the screenshot with name: DataType Fieldfor more details
+Oct 03,2016 15:46:46 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\DataType Field_CheckpointFailure_10-03-2016 3-46-45 PM.jpg
+Oct 03,2016 15:46:46 [info]  Verify The data of Format Field
+Oct 03,2016 15:46:46 [info]  ====Failed==== Expected value is:[$$$$$.cc] but Actual value is[]. Please check the screenshot with name: Format Fieldfor more details
+Oct 03,2016 15:46:46 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\Format Field_CheckpointFailure_10-03-2016 3-46-46 PM.jpg
+Oct 03,2016 15:46:46 [info]  
+Oct 03,2016 15:46:46 [info]  Clicked on the 'New Button to Add Attribute' using JS Executor
+Oct 03,2016 15:46:48 [info]  Clicked on the 'Module Field'
+Oct 03,2016 15:46:49 [info]  ====Failed==== "Entered Asset Maintenance in Module Input Field" field is not present'Entered Asset Maintenance in Module Input Field'
+Oct 03,2016 15:46:49 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\Entered Asset Maintenance in Module Input Field_CheckpointFailure_10-03-2016 3-46-49 PM.jpg
+Oct 03,2016 15:46:49 [info]  Clicked on the 'AttributeName Field'
+Oct 03,2016 15:46:49 [info]  ====Failed==== "Entered AUT_Attributes_RANGE 6_1003201634310 in Attribute Name Input Field" field is not present'Entered AUT_Attributes_RANGE 6_1003201634310 in Attribute Name Input Field'
+Oct 03,2016 15:46:50 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\Entered AUT_Attributes_RANGE 6_1003201634310 in Attribute Name Input Field_CheckpointFailure_10-03-2016 3-46-49 PM.jpg
+Oct 03,2016 15:46:50 [info]  Clicked on the 'DataType Field'
+Oct 03,2016 15:46:50 [info]  ====Failed==== "Entered Range in DataType Input Field" field is not present'Entered Range in DataType Input Field'
+Oct 03,2016 15:46:50 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\Entered Range in DataType Input Field_CheckpointFailure_10-03-2016 3-46-50 PM.jpg
+Oct 03,2016 15:46:50 [info]  Clicked on the 'Format Field'
+Oct 03,2016 15:46:51 [info]  ====Failed==== "Entered No format in Format Input Field" field is not present'Entered No format in Format Input Field'
+Oct 03,2016 15:46:51 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\Entered No format in Format Input Field_CheckpointFailure_10-03-2016 3-46-51 PM.jpg
+Oct 03,2016 15:46:51 [info]  Clicked on the 'Support Click'
+Oct 03,2016 15:46:51 [info]  Clicked on the 'Save Button to Add Attribute' using JS Executor
+Oct 03,2016 15:46:54 [info]  Verify the details of Created Custom Attribute
+Oct 03,2016 15:46:55 [info]  Verify The data of ModuleName Field
+Oct 03,2016 15:46:55 [info]  ====Failed==== Expected value is:[Asset Maintenance] but Actual value is[]. Please check the screenshot with name: ModuleName Fieldfor more details
+Oct 03,2016 15:46:55 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\ModuleName Field_CheckpointFailure_10-03-2016 3-46-55 PM.jpg
+Oct 03,2016 15:46:55 [info]  Verify The data of AttributeName Field
+Oct 03,2016 15:46:55 [info]  ====Failed==== Expected value is:[AUT_Attributes_RANGE 6_1003201634310] but Actual value is[]. Please check the screenshot with name: AttributeName Fieldfor more details
+Oct 03,2016 15:46:55 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\AttributeName Field_CheckpointFailure_10-03-2016 3-46-55 PM.jpg
+Oct 03,2016 15:46:55 [info]  Verify The data of DataType Field
+Oct 03,2016 15:46:55 [info]  ====Failed==== Expected value is:[Range] but Actual value is[]. Please check the screenshot with name: DataType Fieldfor more details
+Oct 03,2016 15:46:55 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\DataType Field_CheckpointFailure_10-03-2016 3-46-55 PM.jpg
+Oct 03,2016 15:46:56 [info]  Verify The data of Format Field
+Oct 03,2016 15:46:56 [info]  ====Failed==== Expected value is:[No format] but Actual value is[]. Please check the screenshot with name: Format Fieldfor more details
+Oct 03,2016 15:46:56 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\Format Field_CheckpointFailure_10-03-2016 3-46-56 PM.jpg
+Oct 03,2016 15:46:56 [info]  
+Oct 03,2016 15:46:56 [info]  Clicked on the 'New Button to Add Attribute' using JS Executor
+Oct 03,2016 15:46:58 [info]  Clicked on the 'Module Field'
+Oct 03,2016 15:46:59 [info]  ====Failed==== "Entered Asset Maintenance in Module Input Field" field is not present'Entered Asset Maintenance in Module Input Field'
+Oct 03,2016 15:46:59 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\Entered Asset Maintenance in Module Input Field_CheckpointFailure_10-03-2016 3-46-59 PM.jpg
+Oct 03,2016 15:46:59 [info]  Clicked on the 'AttributeName Field'
+Oct 03,2016 15:46:59 [info]  ====Failed==== "Entered AUT_Attributes_RANGE 7_1003201634310 in Attribute Name Input Field" field is not present'Entered AUT_Attributes_RANGE 7_1003201634310 in Attribute Name Input Field'
+Oct 03,2016 15:46:59 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\Entered AUT_Attributes_RANGE 7_1003201634310 in Attribute Name Input Field_CheckpointFailure_10-03-2016 3-46-59 PM.jpg
+Oct 03,2016 15:47:00 [info]  Clicked on the 'DataType Field'
+Oct 03,2016 15:47:00 [info]  ====Failed==== "Entered Range in DataType Input Field" field is not present'Entered Range in DataType Input Field'
+Oct 03,2016 15:47:00 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\Entered Range in DataType Input Field_CheckpointFailure_10-03-2016 3-47-00 PM.jpg
+Oct 03,2016 15:47:00 [info]  Clicked on the 'Format Field'
+Oct 03,2016 15:47:01 [info]  ====Failed==== "Entered Text in Format Input Field" field is not present'Entered Text in Format Input Field'
+Oct 03,2016 15:47:01 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\Entered Text in Format Input Field_CheckpointFailure_10-03-2016 3-47-01 PM.jpg
+Oct 03,2016 15:47:01 [info]  Clicked on the 'Support Click'
+Oct 03,2016 15:47:01 [info]  Clicked on the 'Save Button to Add Attribute' using JS Executor
+Oct 03,2016 15:47:04 [info]  Verify the details of Created Custom Attribute
+Oct 03,2016 15:47:05 [info]  Verify The data of ModuleName Field
+Oct 03,2016 15:47:05 [info]  ====Failed==== Expected value is:[Asset Maintenance] but Actual value is[]. Please check the screenshot with name: ModuleName Fieldfor more details
+Oct 03,2016 15:47:05 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\ModuleName Field_CheckpointFailure_10-03-2016 3-47-05 PM.jpg
+Oct 03,2016 15:47:05 [info]  Verify The data of AttributeName Field
+Oct 03,2016 15:47:05 [info]  ====Failed==== Expected value is:[AUT_Attributes_RANGE 7_1003201634310] but Actual value is[]. Please check the screenshot with name: AttributeName Fieldfor more details
+Oct 03,2016 15:47:05 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\AttributeName Field_CheckpointFailure_10-03-2016 3-47-05 PM.jpg
+Oct 03,2016 15:47:05 [info]  Verify The data of DataType Field
+Oct 03,2016 15:47:05 [info]  ====Failed==== Expected value is:[Range] but Actual value is[]. Please check the screenshot with name: DataType Fieldfor more details
+Oct 03,2016 15:47:06 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\DataType Field_CheckpointFailure_10-03-2016 3-47-05 PM.jpg
+Oct 03,2016 15:47:06 [info]  Verify The data of Format Field
+Oct 03,2016 15:47:06 [info]  ====Failed==== Expected value is:[Text] but Actual value is[]. Please check the screenshot with name: Format Fieldfor more details
+Oct 03,2016 15:47:06 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\Format Field_CheckpointFailure_10-03-2016 3-47-06 PM.jpg
+Oct 03,2016 15:47:06 [info]  
+Oct 03,2016 15:47:06 [info]  Clicked on the 'New Button to Add Attribute' using JS Executor
+Oct 03,2016 15:47:08 [info]  Clicked on the 'Module Field'
+Oct 03,2016 15:47:09 [info]  ====Failed==== "Entered Asset Maintenance in Module Input Field" field is not present'Entered Asset Maintenance in Module Input Field'
+Oct 03,2016 15:47:09 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\Entered Asset Maintenance in Module Input Field_CheckpointFailure_10-03-2016 3-47-09 PM.jpg
+Oct 03,2016 15:47:09 [info]  Clicked on the 'AttributeName Field'
+Oct 03,2016 15:47:09 [info]  ====Failed==== "Entered AUT_Attributes_List_1003201634310 in Attribute Name Input Field" field is not present'Entered AUT_Attributes_List_1003201634310 in Attribute Name Input Field'
+Oct 03,2016 15:47:09 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\Entered AUT_Attributes_List_1003201634310 in Attribute Name Input Field_CheckpointFailure_10-03-2016 3-47-09 PM.jpg
+Oct 03,2016 15:47:10 [info]  Clicked on the 'DataType Field'
+Oct 03,2016 15:47:10 [info]  ====Failed==== "Entered List in DataType Input Field" field is not present'Entered List in DataType Input Field'
+Oct 03,2016 15:47:10 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\Entered List in DataType Input Field_CheckpointFailure_10-03-2016 3-47-10 PM.jpg
+Oct 03,2016 15:47:10 [info]  Clicked on the 'Format Field'
+Oct 03,2016 15:47:11 [info]  ====Failed==== "Entered No Format in Format Input Field" field is not present'Entered No Format in Format Input Field'
+Oct 03,2016 15:47:11 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\Entered No Format in Format Input Field_CheckpointFailure_10-03-2016 3-47-11 PM.jpg
+Oct 03,2016 15:47:11 [info]  Clicked on the 'Support Click'
+Oct 03,2016 15:47:11 [info]  Clicked on the 'ListElement Field'
+Oct 03,2016 15:47:21 [info]  ====Failed==== "Entered Volume 1, Volume 2, Volume 3, Volume 4, Volume 5, Volume 6, Volume 7, Volume 8, Volume 9, Volume 10, Special in DataType Input Field" field is not present'Entered Volume 1, Volume 2, Volume 3, Volume 4, Volume 5, Volume 6, Volume 7, Volume 8, Volume 9, Volume 10, Special in DataType Input Field'
+Oct 03,2016 15:47:21 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\Entered Volume 1, Volume 2, Volume 3, Volume 4, Volume 5, Volume 6, Volume 7, Volume 8, Volume 9, Volume 10, Special in DataType Input Field_CheckpointFailure_10-03-2016 3-47-21 PM.jpg
+Oct 03,2016 15:47:22 [info]  Clicked on the 'Support Click'
+Oct 03,2016 15:47:22 [info]  Clicked on the 'Save Button to Add Attribute' using JS Executor
+Oct 03,2016 15:47:25 [info]  Verify the details of Created Custom Attribute
+Oct 03,2016 15:47:25 [info]  Verify The data of ModuleName Field
+Oct 03,2016 15:47:25 [info]  ====Failed==== Expected value is:[Asset Maintenance] but Actual value is[]. Please check the screenshot with name: ModuleName Fieldfor more details
+Oct 03,2016 15:47:26 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\ModuleName Field_CheckpointFailure_10-03-2016 3-47-25 PM.jpg
+Oct 03,2016 15:47:26 [info]  Verify The data of AttributeName Field
+Oct 03,2016 15:47:26 [info]  ====Failed==== Expected value is:[AUT_Attributes_List_1003201634310] but Actual value is[]. Please check the screenshot with name: AttributeName Fieldfor more details
+Oct 03,2016 15:47:26 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\AttributeName Field_CheckpointFailure_10-03-2016 3-47-26 PM.jpg
+Oct 03,2016 15:47:26 [info]  Verify The data of DataType Field
+Oct 03,2016 15:47:26 [info]  ====Failed==== Expected value is:[List] but Actual value is[]. Please check the screenshot with name: DataType Fieldfor more details
+Oct 03,2016 15:47:26 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\DataType Field_CheckpointFailure_10-03-2016 3-47-26 PM.jpg
+Oct 03,2016 15:47:26 [info]  Verify The data of Format Field
+Oct 03,2016 15:47:26 [info]  ====Failed==== Expected value is:[No Format] but Actual value is[]. Please check the screenshot with name: Format Fieldfor more details
+Oct 03,2016 15:47:27 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\Format Field_CheckpointFailure_10-03-2016 3-47-26 PM.jpg
+Oct 03,2016 15:47:27 [info]  Verify The data of ListElement
+Oct 03,2016 15:47:27 [info]  ====Failed==== Expected value is:[Volume 1, Volume 2, Volume 3, Volume 4, Volume 5, Volume 6, Volume 7, Volume 8, Volume 9, Volume 10, Special] but Actual value is[]. Please check the screenshot with name: ListElementfor more details
+Oct 03,2016 15:47:27 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\ListElement_CheckpointFailure_10-03-2016 3-47-27 PM.jpg
+Oct 03,2016 15:47:27 [info]  
+Oct 03,2016 15:47:27 [info]  Clicked on the 'New Button to Add Attribute' using JS Executor
+Oct 03,2016 15:47:30 [info]  Clicked on the 'Module Field'
+Oct 03,2016 15:47:30 [info]  ====Failed==== "Entered Asset Maintenance in Module Input Field" field is not present'Entered Asset Maintenance in Module Input Field'
+Oct 03,2016 15:47:30 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\Entered Asset Maintenance in Module Input Field_CheckpointFailure_10-03-2016 3-47-30 PM.jpg
+Oct 03,2016 15:47:30 [info]  Clicked on the 'AttributeName Field'
+Oct 03,2016 15:47:30 [info]  ====Failed==== "Entered AUT_Attributes_Date1_1003201634310 in Attribute Name Input Field" field is not present'Entered AUT_Attributes_Date1_1003201634310 in Attribute Name Input Field'
+Oct 03,2016 15:47:31 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\Entered AUT_Attributes_Date1_1003201634310 in Attribute Name Input Field_CheckpointFailure_10-03-2016 3-47-30 PM.jpg
+Oct 03,2016 15:47:31 [info]  Clicked on the 'DataType Field'
+Oct 03,2016 15:47:31 [info]  ====Failed==== "Entered Date in DataType Input Field" field is not present'Entered Date in DataType Input Field'
+Oct 03,2016 15:47:31 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\Entered Date in DataType Input Field_CheckpointFailure_10-03-2016 3-47-31 PM.jpg
+Oct 03,2016 15:47:31 [info]  Clicked on the 'Format Field'
+Oct 03,2016 15:47:32 [info]  ====Failed==== "Entered Custom in Format Input Field" field is not present'Entered Custom in Format Input Field'
+Oct 03,2016 15:47:32 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\Entered Custom in Format Input Field_CheckpointFailure_10-03-2016 3-47-32 PM.jpg
+Oct 03,2016 15:47:32 [info]  Clicked on the 'Support Click'
+Oct 03,2016 15:47:32 [info]  Clicked on the 'Save Button to Add Attribute' using JS Executor
+Oct 03,2016 15:47:35 [info]  Verify the details of Created Custom Attribute
+Oct 03,2016 15:47:36 [info]  Verify The data of ModuleName Field
+Oct 03,2016 15:47:36 [info]  ====Failed==== Expected value is:[Asset Maintenance] but Actual value is[]. Please check the screenshot with name: ModuleName Fieldfor more details
+Oct 03,2016 15:47:36 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\ModuleName Field_CheckpointFailure_10-03-2016 3-47-36 PM.jpg
+Oct 03,2016 15:47:36 [info]  Verify The data of AttributeName Field
+Oct 03,2016 15:47:36 [info]  ====Failed==== Expected value is:[AUT_Attributes_Date1_1003201634310] but Actual value is[]. Please check the screenshot with name: AttributeName Fieldfor more details
+Oct 03,2016 15:47:36 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\AttributeName Field_CheckpointFailure_10-03-2016 3-47-36 PM.jpg
+Oct 03,2016 15:47:36 [info]  Verify The data of DataType Field
+Oct 03,2016 15:47:36 [info]  ====Failed==== Expected value is:[Date] but Actual value is[]. Please check the screenshot with name: DataType Fieldfor more details
+Oct 03,2016 15:47:37 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\DataType Field_CheckpointFailure_10-03-2016 3-47-36 PM.jpg
+Oct 03,2016 15:47:37 [info]  Verify The data of Format Field
+Oct 03,2016 15:47:37 [info]  ====Failed==== Expected value is:[Custom] but Actual value is[]. Please check the screenshot with name: Format Fieldfor more details
+Oct 03,2016 15:47:37 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\Format Field_CheckpointFailure_10-03-2016 3-47-37 PM.jpg
+Oct 03,2016 15:47:37 [info]  
+Oct 03,2016 15:47:37 [info]  Test 'createCustomAttributes_Prerequisites' PASSED
+Oct 03,2016 15:47:38 [info]  Closed the Browser
+Oct 03,2016 15:47:38 [info]  *********************Started Executing 'TC1_AttributeUI' Test Case*********************
+Oct 03,2016 15:47:47 [info]  Client: CORUS
+Oct 03,2016 15:47:47 [info]  URL: https://corus-rsgqa.rightslogic.com/Login.aspx 
+Oct 03,2016 15:47:47 [info]  UserName: admin
+Oct 03,2016 15:47:47 [info]  Password: admin_corus
+Oct 03,2016 15:47:48 [info]  Entered "admin" in field 'User Name'
+Oct 03,2016 15:47:48 [info]  Clicked on the 'Temporary Check Box'
+Oct 03,2016 15:47:49 [info]  Entered "admin_corus" in field 'Password'
+Oct 03,2016 15:47:57 [info]  Clicked on the 'LoginButton'
+Oct 03,2016 15:48:04 [info]  ************************Started Creating Asset of Type: Program - Series************************
+Oct 03,2016 15:48:08 [info]  Clicked on the 'MODULE'
+Oct 03,2016 15:48:18 [info]  Clicked on the 'Asset Maintenance'
+Oct 03,2016 15:48:26 [info]  Clicked on the 'New Button' using JS Executor
+Oct 03,2016 15:48:27 [info]  Clicked on the 'Program' using JS Executor
+Oct 03,2016 15:48:36 [info]  Clicked on the 'General TAB'
+Oct 03,2016 15:48:40 [info]  Selected "Program - Series" in "AssetTypeDropDown" drop down
+Oct 03,2016 15:48:48 [info]  Entered "AUT_AssetSeries_1003201634310" in field 'AssetTitle'
+Oct 03,2016 15:48:49 [info]  Clicked on the 'SBUImage' using JS Executor
+Oct 03,2016 15:48:50 [info]  Verified that Expected value :[Primary Channel Template] is matched with Actual value :[Primary Channel Template]
+Oct 03,2016 15:48:51 [info]  Clicked on the ''Select All' CheckBox at SBU' using JS Executor
+Oct 03,2016 15:48:57 [info]  Clicked on the 'First CheckBox At SBU window'
+Oct 03,2016 15:48:58 [info]  Clicked on the 'Ninth CheckBox At SBU winodw'
+Oct 03,2016 15:49:00 [info]  Clicked on the 'Apply Button' using JS Executor
+Oct 03,2016 15:49:01 [info]  Entered "00:30:00" in field 'Duration'
+Oct 03,2016 15:49:03 [info]  Entered "00:30:00" in field 'Duration'
+Oct 03,2016 15:49:03 [info]  Selected "Production" in "Asset Status" drop down
+Oct 03,2016 15:49:03 [info]  Selected "Licensed Acquired Production" in "Asset Source" drop down
+Oct 03,2016 15:49:04 [info]  Selected "DVD" in "Asset Category/Group" drop down
+Oct 03,2016 15:49:05 [info]  Entered "AUT_Series" in field 'Short Name'
+Oct 03,2016 15:49:06 [info]  Clicked on the 'Genre Add Button' using JS Executor
+Oct 03,2016 15:49:06 [info]  Clicked on the 'Genre Type Row Field' using JS Executor
+Oct 03,2016 15:49:06 [info]  Clicked on the 'Genere Type Dropdown Image'
+Oct 03,2016 15:49:07 [info]  Clicked on the 'First Genere Type DropDown Value in the list'
+Oct 03,2016 15:49:07 [info]  Clicked on the 'Genre Row Field' using JS Executor
+Oct 03,2016 15:49:07 [info]  Clicked on the 'Genere Dropdown Image'
+Oct 03,2016 15:49:08 [info]  Clicked on the 'Genere Dropdown value'
+Oct 03,2016 15:49:08 [info]  Clicked on the 'Add Button of Note' using JS Executor
+Oct 03,2016 15:49:11 [info]  Entered "Medium" in field 'Asset Priority'
+Oct 03,2016 15:49:11 [info]  Entered "Subject For the Deal" in field 'Asset Subject'
+Oct 03,2016 15:49:12 [info]  Entered "New Asset" in field 'AssetNotes TextField'
+Oct 03,2016 15:49:13 [info]  Clicked on the 'OK button'
+Oct 03,2016 15:49:15 [info]  Clicked on the 'Save Button' using JS Executor
+Oct 03,2016 15:49:28 [info]  Verified that Expected value :[AUT_AssetSeries_1003201634310] is matched with Actual value :[AUT_AssetSeries_1003201634310]
+Oct 03,2016 15:49:28 [info]  ************************Created Asset of TypeProgram - Series************************
+Oct 03,2016 15:49:32 [info]  Clicked on the 'MODULE'
+Oct 03,2016 15:49:41 [info]  Clicked on the 'Asset Maintenance'
+Oct 03,2016 15:49:44 [info]  Clicked on the 'Search Menu Icon' using JS Executor
+Oct 03,2016 15:49:44 [info]  Clicked on the 'AssetSearchUnderAsset' using JS Executor
+Oct 03,2016 15:49:56 [info]  Entered "AUT_AssetSeries_1003201634310" in field 'AssetTitle'
+Oct 03,2016 15:49:56 [info]  Clicked on the 'Find Button' using JS Executor
+Oct 03,2016 15:50:14 [info]  Moved Mouse over 'First Asset in the Searched Asset'
+Oct 03,2016 15:50:14 [info]  Clicked on the 'First Asset in the Searched Asset'
+Oct 03,2016 15:50:15 [info]  Clicked on the 'First Asset in the Searched Asset'
+Oct 03,2016 15:50:18 [info]  Clicked on the 'View Asset' using JS Executor
+Oct 03,2016 15:50:36 [info]  Verified that Expected value :[AUT_AssetSeries_1003201634310] is matched with Actual value :[AUT_AssetSeries_1003201634310]
+Oct 03,2016 15:50:38 [info]  Clicked on the 'Attributes TAB'
+Oct 03,2016 15:50:42 [info]  *****Verify Headers of Attribute TAB in View mode*****
+Oct 03,2016 15:50:42 [info]  Verified that Expected value :[Attribute] is matched with Actual value :[Attribute]
+Oct 03,2016 15:50:42 [info]  Verified that Expected value :[Value] is matched with Actual value :[Value]
+Oct 03,2016 15:50:42 [info]  
+Oct 03,2016 15:50:42 [info]  *****Verify Attribute in View mode*****
+Oct 03,2016 15:50:42 [info]  Verified that Expected value :[AUT_Attributes_Film location1003201634310] is matched with Actual value :[AUT_Attributes_Film location1003201634310]
+Oct 03,2016 15:50:42 [info]  Verified that Expected value :[AUT_Attributes_Media_1003201634310] is matched with Actual value :[AUT_Attributes_Media_1003201634310]
+Oct 03,2016 15:50:42 [info]  Verified that Expected value :[AUT_Attributes_ NUMERIC 1_1003201634310] is matched with Actual value :[AUT_Attributes_ NUMERIC 1_1003201634310]
+Oct 03,2016 15:50:43 [info]  Verified that Expected value :[AUT_Attributes_NUMERIC 2_1003201634310] is matched with Actual value :[AUT_Attributes_NUMERIC 2_1003201634310]
+Oct 03,2016 15:50:43 [info]  Verified that Expected value :[AUT_Attributes_CURRENCY 1_1003201634310] is matched with Actual value :[AUT_Attributes_CURRENCY 1_1003201634310]
+Oct 03,2016 15:50:43 [info]  Verified that Expected value :[AUT_Attributes_CURRENCY 2_1003201634310] is matched with Actual value :[AUT_Attributes_CURRENCY 2_1003201634310]
+Oct 03,2016 15:50:43 [info]  Verified that Expected value :[AUT_Attributes_RANGE 1_1003201634310] is matched with Actual value :[AUT_Attributes_RANGE 1_1003201634310]
+Oct 03,2016 15:50:43 [info]  Verified that Expected value :[AUT_Attributes_RANGE 2_1003201634310] is matched with Actual value :[AUT_Attributes_RANGE 2_1003201634310]
+Oct 03,2016 15:50:43 [info]  Verified that Expected value :[AUT_Attributes_RANGE 3_1003201634310] is matched with Actual value :[AUT_Attributes_RANGE 3_1003201634310]
+Oct 03,2016 15:50:53 [info]  ====Failed==== Expected value is:[AUT_Attributes_RANGE 4_1003201634310] but Actual value is[]. Please check the screenshot with name: AM_Attributes Namefor more details
+Oct 03,2016 15:50:53 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\AM_Attributes Name_CheckpointFailure_10-03-2016 3-50-53 PM.jpg
+Oct 03,2016 15:51:04 [info]  ====Failed==== Expected value is:[AUT_Attributes_RANGE 5_1003201634310] but Actual value is[]. Please check the screenshot with name: AM_Attributes Namefor more details
+Oct 03,2016 15:51:04 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\AM_Attributes Name_CheckpointFailure_10-03-2016 3-51-04 PM.jpg
+Oct 03,2016 15:51:14 [info]  ====Failed==== Expected value is:[AUT_Attributes_RANGE 6_1003201634310] but Actual value is[]. Please check the screenshot with name: AM_Attributes Namefor more details
+Oct 03,2016 15:51:14 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\AM_Attributes Name_CheckpointFailure_10-03-2016 3-51-14 PM.jpg
+Oct 03,2016 15:51:24 [info]  ====Failed==== Expected value is:[AUT_Attributes_RANGE 7_1003201634310] but Actual value is[]. Please check the screenshot with name: AM_Attributes Namefor more details
+Oct 03,2016 15:51:24 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\AM_Attributes Name_CheckpointFailure_10-03-2016 3-51-24 PM.jpg
+Oct 03,2016 15:51:34 [info]  ====Failed==== Expected value is:[AUT_Attributes_List_1003201634310] but Actual value is[]. Please check the screenshot with name: AM_Attributes Namefor more details
+Oct 03,2016 15:51:34 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\AM_Attributes Name_CheckpointFailure_10-03-2016 3-51-34 PM.jpg
+Oct 03,2016 15:51:44 [info]  ====Failed==== Expected value is:[AUT_Attributes_Date1_1003201634310] but Actual value is[]. Please check the screenshot with name: AM_Attributes Namefor more details
+Oct 03,2016 15:51:44 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\AM_Attributes Name_CheckpointFailure_10-03-2016 3-51-44 PM.jpg
+Oct 03,2016 15:51:44 [info]  
+Oct 03,2016 15:51:45 [info]  Clicked on the 'Edit Button' using JS Executor
+Oct 03,2016 15:51:46 [info]  *****Verify Headers of Attribute TAB in Edit mode*****
+Oct 03,2016 15:51:46 [info]  Verified that Expected value :[*Attribute] is matched with Actual value :[*Attribute]
+Oct 03,2016 15:51:46 [info]  Verified that Expected value :[Value] is matched with Actual value :[Value]
+Oct 03,2016 15:51:46 [info]  *****Verify Button available in Edit mode*****
+Oct 03,2016 15:51:46 [info]  Verified that Expected value :[Save] is matched with Actual value :[Save]
+Oct 03,2016 15:51:47 [info]  Verified that Expected value :[Cancel] is matched with Actual value :[Cancel]
+Oct 03,2016 15:51:47 [info]  
+Oct 03,2016 15:51:47 [info]  *****Verify Attributes in Edit mode*****
+Oct 03,2016 15:51:47 [info]  
+Oct 03,2016 15:51:47 [info]  Clicked on the 'Cancel button' using JS Executor
+Oct 03,2016 15:51:47 [info]  Test 'TC1_AttributeUI' PASSED
+Oct 03,2016 15:51:48 [info]  Closed the Browser
+Oct 03,2016 15:51:48 [info]  *********************Started Executing 'TC2_ValueEnter_FilmLocationAttribute' Test Case*********************
+Oct 03,2016 15:51:56 [info]  Client: CORUS
+Oct 03,2016 15:51:56 [info]  URL: https://corus-rsgqa.rightslogic.com/Login.aspx 
+Oct 03,2016 15:51:56 [info]  UserName: admin
+Oct 03,2016 15:51:56 [info]  Password: admin_corus
+Oct 03,2016 15:51:57 [info]  Entered "admin" in field 'User Name'
+Oct 03,2016 15:51:57 [info]  Clicked on the 'Temporary Check Box'
+Oct 03,2016 15:51:58 [info]  Entered "admin_corus" in field 'Password'
+Oct 03,2016 15:52:06 [info]  Clicked on the 'LoginButton'
+Oct 03,2016 15:52:16 [info]  Clicked on the 'MODULE'
+Oct 03,2016 15:52:25 [info]  Clicked on the 'Asset Maintenance'
+Oct 03,2016 15:52:29 [info]  Clicked on the 'Search Menu Icon' using JS Executor
+Oct 03,2016 15:52:29 [info]  Clicked on the 'AssetSearchUnderAsset' using JS Executor
+Oct 03,2016 15:52:42 [info]  Entered "AUT_AssetSeries_1003201634310" in field 'AssetTitle'
+Oct 03,2016 15:52:42 [info]  Clicked on the 'Find Button' using JS Executor
+Oct 03,2016 15:53:00 [info]  Moved Mouse over 'First Asset in the Searched Asset'
+Oct 03,2016 15:53:01 [info]  Clicked on the 'First Asset in the Searched Asset'
+Oct 03,2016 15:53:02 [info]  Clicked on the 'First Asset in the Searched Asset'
+Oct 03,2016 15:53:05 [info]  Clicked on the 'View Asset' using JS Executor
+Oct 03,2016 15:53:24 [info]  Verified that Expected value :[AUT_AssetSeries_1003201634310] is matched with Actual value :[AUT_AssetSeries_1003201634310]
+Oct 03,2016 15:53:25 [info]  Clicked on the 'Attributes TAB'
+Oct 03,2016 15:53:29 [info]  Clicked on the 'Edit Button' using JS Executor
+Oct 03,2016 15:53:31 [info]  Clicked on the 'Value1 of AUT_Attributes_Film location1003201634310'
+Oct 03,2016 15:53:32 [info]  Entered "3423423" in field 'AM_AttributeValue1_InputField'
+Oct 03,2016 15:53:32 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Oct 03,2016 15:53:35 [info]  
+Oct 03,2016 15:53:36 [info]  Verify The data of Alert Message on Entering Invalid Data for Attribute Value
+Oct 03,2016 15:53:36 [info]  Verified that Expected value :[Please enter only text for the attribute.] is matched with Actual value :[Please enter only text for the attribute.]
+Oct 03,2016 15:53:36 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Oct 03,2016 15:53:37 [info]  Clicked on the 'Value1 of AUT_Attributes_Film location1003201634310'
+Oct 03,2016 15:53:37 [info]  Entered "RSG3423423ab" in field 'AM_AttributeValue1_InputField'
+Oct 03,2016 15:53:38 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Oct 03,2016 15:53:41 [info]  
+Oct 03,2016 15:53:41 [info]  Verify The data of Alert Message on Entering Invalid Data for Attribute Value
+Oct 03,2016 15:53:41 [info]  Verified that Expected value :[Please enter only text for the attribute.] is matched with Actual value :[Please enter only text for the attribute.]
+Oct 03,2016 15:53:41 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Oct 03,2016 15:53:42 [info]  Clicked on the 'Value1 of AUT_Attributes_Film location1003201634310'
+Oct 03,2016 15:53:44 [info]  Entered "RSGab#$%^*%#$" in field 'AM_AttributeValue1_InputField'
+Oct 03,2016 15:53:44 [info]  Clicked on the 'Select Attribute AUT_Attributes_Film location1003201634310'
+Oct 03,2016 15:53:44 [info]  
+Oct 03,2016 15:53:44 [info]  Verify The data of  Value1 Field of Attribute AUT_Attributes_Film location1003201634310 in Edit Mode
+Oct 03,2016 15:53:44 [info]  Verified that Expected value :[RSGab#$%^*%#$] is matched with Actual value :[RSGab#$%^*%#$]
+Oct 03,2016 15:53:46 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Oct 03,2016 15:53:50 [info]  
+Oct 03,2016 15:53:50 [info]  Verify The data of Value1 Field of Attribute AUT_Attributes_Film location1003201634310 in View Mode
+Oct 03,2016 15:53:50 [info]  Verified that Expected value :[RSGab#$%^*%#$] is matched with Actual value :[RSGab#$%^*%#$]
+Oct 03,2016 15:53:51 [info]  Clicked on the 'Edit Button' using JS Executor
+Oct 03,2016 15:53:52 [info]  Test 'TC2_ValueEnter_FilmLocationAttribute' PASSED
+Oct 03,2016 15:53:53 [info]  Closed the Browser
+Oct 03,2016 15:53:53 [info]  *********************Started Executing 'TC3_ValueEnter_MediaAttribute' Test Case*********************
+Oct 03,2016 15:54:01 [info]  Client: CORUS
+Oct 03,2016 15:54:01 [info]  URL: https://corus-rsgqa.rightslogic.com/Login.aspx 
+Oct 03,2016 15:54:01 [info]  UserName: admin
+Oct 03,2016 15:54:01 [info]  Password: admin_corus
+Oct 03,2016 15:54:02 [info]  Entered "admin" in field 'User Name'
+Oct 03,2016 15:54:02 [info]  Clicked on the 'Temporary Check Box'
+Oct 03,2016 15:54:03 [info]  Entered "admin_corus" in field 'Password'
+Oct 03,2016 15:54:11 [info]  Clicked on the 'LoginButton'
+Oct 03,2016 15:54:21 [info]  Clicked on the 'MODULE'
+Oct 03,2016 15:54:30 [info]  Clicked on the 'Asset Maintenance'
+Oct 03,2016 15:54:34 [info]  Clicked on the 'Search Menu Icon' using JS Executor
+Oct 03,2016 15:54:34 [info]  Clicked on the 'AssetSearchUnderAsset' using JS Executor
+Oct 03,2016 15:54:48 [info]  Entered "AUT_AssetSeries_1003201634310" in field 'AssetTitle'
+Oct 03,2016 15:54:49 [info]  Clicked on the 'Find Button' using JS Executor
+Oct 03,2016 15:55:07 [info]  Moved Mouse over 'First Asset in the Searched Asset'
+Oct 03,2016 15:55:09 [info]  Clicked on the 'First Asset in the Searched Asset'
+Oct 03,2016 15:55:09 [info]  Clicked on the 'First Asset in the Searched Asset'
+Oct 03,2016 15:55:12 [info]  Clicked on the 'View Asset' using JS Executor
+Oct 03,2016 15:55:30 [info]  Verified that Expected value :[AUT_AssetSeries_1003201634310] is matched with Actual value :[AUT_AssetSeries_1003201634310]
+Oct 03,2016 15:55:32 [info]  Clicked on the 'Attributes TAB'
+Oct 03,2016 15:55:36 [info]  Clicked on the 'Edit Button' using JS Executor
+Oct 03,2016 15:55:38 [info]  Clicked on the 'Value1 of AUT_Attributes_Media_1003201634310'
+Oct 03,2016 15:55:38 [info]  Entered "10.1" in field 'AM_AttributeValue1_InputField'
+Oct 03,2016 15:55:39 [info]  Clicked on the 'Select Attribute AUT_Attributes_Media_1003201634310'
+Oct 03,2016 15:55:39 [info]  
+Oct 03,2016 15:55:39 [info]  Verify The data of  Value1 Field of Attribute AUT_Attributes_Media_1003201634310 in Edit Mode
+Oct 03,2016 15:55:39 [info]  Verified that Expected value :[10.1] is matched with Actual value :[10.1]
+Oct 03,2016 15:55:41 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Oct 03,2016 15:55:45 [info]  
+Oct 03,2016 15:55:45 [info]  Verify The data of Value1 Field of Attribute AUT_Attributes_Media_1003201634310 in View Mode
+Oct 03,2016 15:55:45 [info]  Verified that Expected value :[10.1] is matched with Actual value :[10.1]
+Oct 03,2016 15:55:46 [info]  Clicked on the 'Edit Button' using JS Executor
+Oct 03,2016 15:55:48 [info]  Clicked on the 'Value1 of AUT_Attributes_Media_1003201634310'
+Oct 03,2016 15:55:48 [info]  Entered "RSG3423423ab" in field 'AM_AttributeValue1_InputField'
+Oct 03,2016 15:55:49 [info]  Clicked on the 'Select Attribute AUT_Attributes_Media_1003201634310'
+Oct 03,2016 15:55:49 [info]  
+Oct 03,2016 15:55:49 [info]  Verify The data of  Value1 Field of Attribute AUT_Attributes_Media_1003201634310 in Edit Mode
+Oct 03,2016 15:55:49 [info]  Verified that Expected value :[RSG3423423ab] is matched with Actual value :[RSG3423423ab]
+Oct 03,2016 15:55:52 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Oct 03,2016 15:55:55 [info]  
+Oct 03,2016 15:55:55 [info]  Verify The data of Value1 Field of Attribute AUT_Attributes_Media_1003201634310 in View Mode
+Oct 03,2016 15:55:55 [info]  Verified that Expected value :[RSG3423423ab] is matched with Actual value :[RSG3423423ab]
+Oct 03,2016 15:55:56 [info]  Clicked on the 'Edit Button' using JS Executor
+Oct 03,2016 15:55:58 [info]  Clicked on the 'Value1 of AUT_Attributes_Media_1003201634310'
+Oct 03,2016 15:56:00 [info]  Entered "RSGab#$%^*%#$" in field 'AM_AttributeValue1_InputField'
+Oct 03,2016 15:56:00 [info]  Clicked on the 'Select Attribute AUT_Attributes_Media_1003201634310'
+Oct 03,2016 15:56:00 [info]  
+Oct 03,2016 15:56:01 [info]  Verify The data of  Value1 Field of Attribute AUT_Attributes_Media_1003201634310 in Edit Mode
+Oct 03,2016 15:56:01 [info]  Verified that Expected value :[RSGab#$%^*%#$] is matched with Actual value :[RSGab#$%^*%#$]
+Oct 03,2016 15:56:03 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Oct 03,2016 15:56:07 [info]  
+Oct 03,2016 15:56:07 [info]  Verify The data of Value1 Field of Attribute AUT_Attributes_Media_1003201634310 in View Mode
+Oct 03,2016 15:56:07 [info]  Verified that Expected value :[RSGab#$%^*%#$] is matched with Actual value :[RSGab#$%^*%#$]
+Oct 03,2016 15:56:07 [info]  Clicked on the 'Edit Button' using JS Executor
+Oct 03,2016 15:56:09 [info]  Test 'TC3_ValueEnter_MediaAttribute' PASSED
+Oct 03,2016 15:56:10 [info]  Closed the Browser
+Oct 03,2016 15:56:10 [info]  *********************Started Executing 'TC4_ValueEnter_Numeric1Attribute' Test Case*********************
+Oct 03,2016 15:56:18 [info]  Client: CORUS
+Oct 03,2016 15:56:18 [info]  URL: https://corus-rsgqa.rightslogic.com/Login.aspx 
+Oct 03,2016 15:56:18 [info]  UserName: admin
+Oct 03,2016 15:56:18 [info]  Password: admin_corus
+Oct 03,2016 15:56:19 [info]  Entered "admin" in field 'User Name'
+Oct 03,2016 15:56:19 [info]  Clicked on the 'Temporary Check Box'
+Oct 03,2016 15:56:20 [info]  Entered "admin_corus" in field 'Password'
+Oct 03,2016 15:56:29 [info]  Clicked on the 'LoginButton'
+Oct 03,2016 15:56:39 [info]  Clicked on the 'MODULE'
+Oct 03,2016 15:56:49 [info]  Clicked on the 'Asset Maintenance'
+Oct 03,2016 15:56:52 [info]  Clicked on the 'Search Menu Icon' using JS Executor
+Oct 03,2016 15:56:53 [info]  Clicked on the 'AssetSearchUnderAsset' using JS Executor
+Oct 03,2016 15:57:06 [info]  Entered "AUT_AssetSeries_1003201634310" in field 'AssetTitle'
+Oct 03,2016 15:57:06 [info]  Clicked on the 'Find Button' using JS Executor
+Oct 03,2016 15:57:25 [info]  Moved Mouse over 'First Asset in the Searched Asset'
+Oct 03,2016 15:57:26 [info]  Clicked on the 'First Asset in the Searched Asset'
+Oct 03,2016 15:57:27 [info]  Clicked on the 'First Asset in the Searched Asset'
+Oct 03,2016 15:57:30 [info]  Clicked on the 'View Asset' using JS Executor
+Oct 03,2016 15:57:47 [info]  Verified that Expected value :[AUT_AssetSeries_1003201634310] is matched with Actual value :[AUT_AssetSeries_1003201634310]
+Oct 03,2016 15:57:49 [info]  Clicked on the 'Attributes TAB'
+Oct 03,2016 15:57:52 [info]  Clicked on the 'Edit Button' using JS Executor
+Oct 03,2016 15:57:55 [info]  Clicked on the 'Value1 of AUT_Attributes_ NUMERIC 1_1003201634310'
+Oct 03,2016 15:57:56 [info]  Entered "RSG3423423" in field 'AM_AttributeValue1_InputField'
+Oct 03,2016 15:57:56 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Oct 03,2016 15:57:59 [info]  
+Oct 03,2016 15:58:00 [info]  Verify The data of Alert Message on Entering Invalid Data for Attribute Value
+Oct 03,2016 15:58:00 [info]  Verified that Expected value :[Please enter valid numeric values for the attribute.] is matched with Actual value :[Please enter valid numeric values for the attribute.]
+Oct 03,2016 15:58:00 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Oct 03,2016 15:58:01 [info]  Clicked on the 'Value1 of AUT_Attributes_ NUMERIC 1_1003201634310'
+Oct 03,2016 15:58:03 [info]  Entered "RSGab#$%^*%#$" in field 'AM_AttributeValue1_InputField'
+Oct 03,2016 15:58:03 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Oct 03,2016 15:58:06 [info]  
+Oct 03,2016 15:58:07 [info]  Verify The data of Alert Message on Entering Invalid Data for Attribute Value
+Oct 03,2016 15:58:07 [info]  Verified that Expected value :[Please enter valid numeric values for the attribute.] is matched with Actual value :[Please enter valid numeric values for the attribute.]
+Oct 03,2016 15:58:07 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Oct 03,2016 15:58:08 [info]  Clicked on the 'Value1 of AUT_Attributes_ NUMERIC 1_1003201634310'
+Oct 03,2016 15:58:08 [info]  Entered "10.32" in field 'AM_AttributeValue1_InputField'
+Oct 03,2016 15:58:09 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Oct 03,2016 15:58:12 [info]  
+Oct 03,2016 15:58:12 [info]  Verify The data of Alert Message on Entering Invalid Data for Attribute Value
+Oct 03,2016 15:58:12 [info]  Verified that Expected value :[Please enter valid numeric values for the attribute.] is matched with Actual value :[Please enter valid numeric values for the attribute.]
+Oct 03,2016 15:58:13 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Oct 03,2016 15:58:14 [info]  Clicked on the 'Value1 of AUT_Attributes_ NUMERIC 1_1003201634310'
+Oct 03,2016 15:58:14 [info]  Entered "342342" in field 'AM_AttributeValue1_InputField'
+Oct 03,2016 15:58:15 [info]  Clicked on the 'Select Attribute AUT_Attributes_ NUMERIC 1_1003201634310'
+Oct 03,2016 15:58:15 [info]  
+Oct 03,2016 15:58:15 [info]  Verify The data of  Value1 Field of Attribute AUT_Attributes_ NUMERIC 1_1003201634310 in Edit Mode
+Oct 03,2016 15:58:15 [info]  Verified that Expected value :[342342] is matched with Actual value :[342342]
+Oct 03,2016 15:58:17 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Oct 03,2016 15:58:21 [info]  
+Oct 03,2016 15:58:21 [info]  Verify The data of Value1 Field of Attribute AUT_Attributes_ NUMERIC 1_1003201634310 in View Mode
+Oct 03,2016 15:58:21 [info]  Verified that Expected value :[342342] is matched with Actual value :[342342]
+Oct 03,2016 15:58:22 [info]  Clicked on the 'Edit Button' using JS Executor
+Oct 03,2016 15:58:23 [info]  Test 'TC4_ValueEnter_Numeric1Attribute' PASSED
+Oct 03,2016 15:58:24 [info]  Closed the Browser
+Oct 03,2016 15:58:24 [info]  *********************Started Executing 'TC5_ValueEnter_Numeric2Attribute' Test Case*********************
+Oct 03,2016 15:58:32 [info]  Client: CORUS
+Oct 03,2016 15:58:32 [info]  URL: https://corus-rsgqa.rightslogic.com/Login.aspx 
+Oct 03,2016 15:58:32 [info]  UserName: admin
+Oct 03,2016 15:58:32 [info]  Password: admin_corus
+Oct 03,2016 15:58:33 [info]  Entered "admin" in field 'User Name'
+Oct 03,2016 15:58:33 [info]  Clicked on the 'Temporary Check Box'
+Oct 03,2016 15:58:34 [info]  Entered "admin_corus" in field 'Password'
+Oct 03,2016 15:58:43 [info]  Clicked on the 'LoginButton'
+Oct 03,2016 15:58:53 [info]  Clicked on the 'MODULE'
+Oct 03,2016 15:59:02 [info]  Clicked on the 'Asset Maintenance'
+Oct 03,2016 15:59:06 [info]  Clicked on the 'Search Menu Icon' using JS Executor
+Oct 03,2016 15:59:06 [info]  Clicked on the 'AssetSearchUnderAsset' using JS Executor
+Oct 03,2016 15:59:20 [info]  Entered "AUT_AssetSeries_1003201634310" in field 'AssetTitle'
+Oct 03,2016 15:59:20 [info]  Clicked on the 'Find Button' using JS Executor
+Oct 03,2016 15:59:39 [info]  Moved Mouse over 'First Asset in the Searched Asset'
+Oct 03,2016 15:59:40 [info]  Clicked on the 'First Asset in the Searched Asset'
+Oct 03,2016 15:59:40 [info]  Clicked on the 'First Asset in the Searched Asset'
+Oct 03,2016 15:59:43 [info]  Clicked on the 'View Asset' using JS Executor
+Oct 03,2016 16:00:01 [info]  Verified that Expected value :[AUT_AssetSeries_1003201634310] is matched with Actual value :[AUT_AssetSeries_1003201634310]
+Oct 03,2016 16:00:03 [info]  Clicked on the 'Attributes TAB'
+Oct 03,2016 16:00:07 [info]  Clicked on the 'Edit Button' using JS Executor
+Oct 03,2016 16:00:08 [info]  Clicked on the 'Value1 of AUT_Attributes_NUMERIC 2_1003201634310'
+Oct 03,2016 16:00:09 [info]  Entered "RSG3423423" in field 'AM_AttributeValue1_InputField'
+Oct 03,2016 16:00:10 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Oct 03,2016 16:00:13 [info]  
+Oct 03,2016 16:00:13 [info]  Verify The data of Alert Message on Entering Invalid Data for Attribute Value
+Oct 03,2016 16:00:13 [info]  Verified that Expected value :[Please enter decimal values for the attribute.] is matched with Actual value :[Please enter decimal values for the attribute.]
+Oct 03,2016 16:00:13 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Oct 03,2016 16:00:15 [info]  Clicked on the 'Value1 of AUT_Attributes_NUMERIC 2_1003201634310'
+Oct 03,2016 16:00:16 [info]  Entered "RSGab#$%^*%#$" in field 'AM_AttributeValue1_InputField'
+Oct 03,2016 16:00:17 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Oct 03,2016 16:00:20 [info]  
+Oct 03,2016 16:00:20 [info]  Verify The data of Alert Message on Entering Invalid Data for Attribute Value
+Oct 03,2016 16:00:20 [info]  Verified that Expected value :[Please enter decimal values for the attribute.] is matched with Actual value :[Please enter decimal values for the attribute.]
+Oct 03,2016 16:00:20 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Oct 03,2016 16:00:22 [info]  Clicked on the 'Value1 of AUT_Attributes_NUMERIC 2_1003201634310'
+Oct 03,2016 16:00:22 [info]  Entered "10003" in field 'AM_AttributeValue1_InputField'
+Oct 03,2016 16:00:22 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Oct 03,2016 16:00:26 [info]  
+Oct 03,2016 16:00:26 [info]  Verify The data of Alert Message on Entering Invalid Data for Attribute Value
+Oct 03,2016 16:00:26 [info]  Verified that Expected value :[Please enter decimal values for the attribute.] is matched with Actual value :[Please enter decimal values for the attribute.]
+Oct 03,2016 16:00:26 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Oct 03,2016 16:00:27 [info]  Clicked on the 'Value1 of AUT_Attributes_NUMERIC 2_1003201634310'
+Oct 03,2016 16:00:28 [info]  Entered "342342.33" in field 'AM_AttributeValue1_InputField'
+Oct 03,2016 16:00:28 [info]  Clicked on the 'Select Attribute AUT_Attributes_NUMERIC 2_1003201634310'
+Oct 03,2016 16:00:28 [info]  
+Oct 03,2016 16:00:28 [info]  Verify The data of  Value1 Field of Attribute AUT_Attributes_NUMERIC 2_1003201634310 in Edit Mode
+Oct 03,2016 16:00:28 [info]  Verified that Expected value :[342342.33] is matched with Actual value :[342342.33]
+Oct 03,2016 16:00:31 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Oct 03,2016 16:00:35 [info]  
+Oct 03,2016 16:00:35 [info]  Verify The data of Value1 Field of Attribute AUT_Attributes_NUMERIC 2_1003201634310 in View Mode
+Oct 03,2016 16:00:35 [info]  Verified that Expected value :[342342.33] is matched with Actual value :[342342.33]
+Oct 03,2016 16:00:35 [info]  Clicked on the 'Edit Button' using JS Executor
+Oct 03,2016 16:00:36 [info]  Test 'TC5_ValueEnter_Numeric2Attribute' PASSED
+Oct 03,2016 16:00:37 [info]  Closed the Browser
+Oct 03,2016 16:00:37 [info]  *********************Started Executing 'TC6_ValueEnter_Currency1Attribute' Test Case*********************
+Oct 03,2016 16:00:46 [info]  Client: CORUS
+Oct 03,2016 16:00:46 [info]  URL: https://corus-rsgqa.rightslogic.com/Login.aspx 
+Oct 03,2016 16:00:46 [info]  UserName: admin
+Oct 03,2016 16:00:46 [info]  Password: admin_corus
+Oct 03,2016 16:00:47 [info]  Entered "admin" in field 'User Name'
+Oct 03,2016 16:00:47 [info]  Clicked on the 'Temporary Check Box'
+Oct 03,2016 16:00:48 [info]  Entered "admin_corus" in field 'Password'
+Oct 03,2016 16:00:55 [info]  Clicked on the 'LoginButton'
+Oct 03,2016 16:01:05 [info]  Clicked on the 'MODULE'
+Oct 03,2016 16:01:15 [info]  Clicked on the 'Asset Maintenance'
+Oct 03,2016 16:01:18 [info]  Clicked on the 'Search Menu Icon' using JS Executor
+Oct 03,2016 16:01:19 [info]  Clicked on the 'AssetSearchUnderAsset' using JS Executor
+Oct 03,2016 16:01:32 [info]  Entered "AUT_AssetSeries_1003201634310" in field 'AssetTitle'
+Oct 03,2016 16:01:33 [info]  Clicked on the 'Find Button' using JS Executor
+Oct 03,2016 16:01:51 [info]  Moved Mouse over 'First Asset in the Searched Asset'
+Oct 03,2016 16:01:52 [info]  Clicked on the 'First Asset in the Searched Asset'
+Oct 03,2016 16:01:53 [info]  Clicked on the 'First Asset in the Searched Asset'
+Oct 03,2016 16:01:56 [info]  Clicked on the 'View Asset' using JS Executor
+Oct 03,2016 16:02:15 [info]  Verified that Expected value :[AUT_AssetSeries_1003201634310] is matched with Actual value :[AUT_AssetSeries_1003201634310]
+Oct 03,2016 16:02:16 [info]  Clicked on the 'Attributes TAB'
+Oct 03,2016 16:02:20 [info]  Clicked on the 'Edit Button' using JS Executor
+Oct 03,2016 16:02:22 [info]  Clicked on the 'Value1 of AUT_Attributes_CURRENCY 1_1003201634310'
+Oct 03,2016 16:02:23 [info]  Entered "RSG3423423" in field 'AM_AttributeValue1_InputField'
+Oct 03,2016 16:02:23 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Oct 03,2016 16:02:27 [info]  
+Oct 03,2016 16:02:27 [info]  Verify The data of Alert Message on Entering Invalid Data for Attribute Value
+Oct 03,2016 16:02:27 [info]  Verified that Expected value :[Please enter valid numeric values for the attribute.] is matched with Actual value :[Please enter valid numeric values for the attribute.]
+Oct 03,2016 16:02:27 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Oct 03,2016 16:02:28 [info]  Clicked on the 'Value1 of AUT_Attributes_CURRENCY 1_1003201634310'
+Oct 03,2016 16:02:30 [info]  Entered "12RSGab#$%^*%#$" in field 'AM_AttributeValue1_InputField'
+Oct 03,2016 16:02:30 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Oct 03,2016 16:02:34 [info]  
+Oct 03,2016 16:02:34 [info]  Verify The data of Alert Message on Entering Invalid Data for Attribute Value
+Oct 03,2016 16:02:34 [info]  Verified that Expected value :[Please enter valid numeric values for the attribute.] is matched with Actual value :[Please enter valid numeric values for the attribute.]
+Oct 03,2016 16:02:34 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Oct 03,2016 16:02:35 [info]  Clicked on the 'Value1 of AUT_Attributes_CURRENCY 1_1003201634310'
+Oct 03,2016 16:02:36 [info]  Entered "10.32" in field 'AM_AttributeValue1_InputField'
+Oct 03,2016 16:02:36 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Oct 03,2016 16:02:39 [info]  
+Oct 03,2016 16:02:40 [info]  Verify The data of Alert Message on Entering Invalid Data for Attribute Value
+Oct 03,2016 16:02:40 [info]  Verified that Expected value :[Please enter non decimal values for the attribute.] is matched with Actual value :[Please enter non decimal values for the attribute.]
+Oct 03,2016 16:02:40 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Oct 03,2016 16:02:41 [info]  Clicked on the 'Value1 of AUT_Attributes_CURRENCY 1_1003201634310'
+Oct 03,2016 16:02:41 [info]  Entered "342342" in field 'AM_AttributeValue1_InputField'
+Oct 03,2016 16:02:42 [info]  Clicked on the 'Select Attribute AUT_Attributes_CURRENCY 1_1003201634310'
+Oct 03,2016 16:02:42 [info]  
+Oct 03,2016 16:02:42 [info]  Verify The data of  Value1 Field of Attribute AUT_Attributes_CURRENCY 1_1003201634310 in Edit Mode
+Oct 03,2016 16:02:42 [info]  Verified that Expected value :[342342] is matched with Actual value :[342342]
+Oct 03,2016 16:02:45 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Oct 03,2016 16:02:48 [info]  
+Oct 03,2016 16:02:48 [info]  Verify The data of Value1 Field of Attribute AUT_Attributes_CURRENCY 1_1003201634310 in View Mode
+Oct 03,2016 16:02:48 [info]  Verified that Expected value :[342342] is matched with Actual value :[342342]
+Oct 03,2016 16:02:49 [info]  Clicked on the 'Edit Button' using JS Executor
+Oct 03,2016 16:02:50 [info]  Test 'TC6_ValueEnter_Currency1Attribute' PASSED
+Oct 03,2016 16:02:51 [info]  Closed the Browser
+Oct 03,2016 16:02:51 [info]  *********************Started Executing 'TC7_ValueEnter_Currency2Attribute' Test Case*********************
+Oct 03,2016 16:02:59 [info]  Client: CORUS
+Oct 03,2016 16:02:59 [info]  URL: https://corus-rsgqa.rightslogic.com/Login.aspx 
+Oct 03,2016 16:02:59 [info]  UserName: admin
+Oct 03,2016 16:02:59 [info]  Password: admin_corus
+Oct 03,2016 16:03:00 [info]  Entered "admin" in field 'User Name'
+Oct 03,2016 16:03:01 [info]  Clicked on the 'Temporary Check Box'
+Oct 03,2016 16:03:01 [info]  Entered "admin_corus" in field 'Password'
+Oct 03,2016 16:03:09 [info]  Clicked on the 'LoginButton'
+Oct 03,2016 16:03:19 [info]  Clicked on the 'MODULE'
+Oct 03,2016 16:03:28 [info]  Clicked on the 'Asset Maintenance'
+Oct 03,2016 16:03:32 [info]  Clicked on the 'Search Menu Icon' using JS Executor
+Oct 03,2016 16:03:32 [info]  Clicked on the 'AssetSearchUnderAsset' using JS Executor
+Oct 03,2016 16:03:47 [info]  Entered "AUT_AssetSeries_1003201634310" in field 'AssetTitle'
+Oct 03,2016 16:03:47 [info]  Clicked on the 'Find Button' using JS Executor
+Oct 03,2016 16:04:06 [info]  Moved Mouse over 'First Asset in the Searched Asset'
+Oct 03,2016 16:04:07 [info]  Clicked on the 'First Asset in the Searched Asset'
+Oct 03,2016 16:04:07 [info]  Clicked on the 'First Asset in the Searched Asset'
+Oct 03,2016 16:04:10 [info]  Clicked on the 'View Asset' using JS Executor
+Oct 03,2016 16:04:29 [info]  Verified that Expected value :[AUT_AssetSeries_1003201634310] is matched with Actual value :[AUT_AssetSeries_1003201634310]
+Oct 03,2016 16:04:31 [info]  Clicked on the 'Attributes TAB'
+Oct 03,2016 16:04:34 [info]  Clicked on the 'Edit Button' using JS Executor
+Oct 03,2016 16:04:36 [info]  Clicked on the 'Value1 of AUT_Attributes_CURRENCY 2_1003201634310'
+Oct 03,2016 16:04:37 [info]  Entered "RSG3423423" in field 'AM_AttributeValue1_InputField'
+Oct 03,2016 16:04:37 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Oct 03,2016 16:04:41 [info]  
+Oct 03,2016 16:04:41 [info]  Verify The data of Alert Message on Entering Invalid Data for Attribute Value
+Oct 03,2016 16:04:41 [info]  Verified that Expected value :[Please enter valid decimal values for the attribute.] is matched with Actual value :[Please enter valid decimal values for the attribute.]
+Oct 03,2016 16:04:41 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Oct 03,2016 16:04:42 [info]  Clicked on the 'Value1 of AUT_Attributes_CURRENCY 2_1003201634310'
+Oct 03,2016 16:04:44 [info]  Entered "12RSGab#$%^*%#$" in field 'AM_AttributeValue1_InputField'
+Oct 03,2016 16:04:44 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Oct 03,2016 16:04:48 [info]  
+Oct 03,2016 16:04:48 [info]  Verify The data of Alert Message on Entering Invalid Data for Attribute Value
+Oct 03,2016 16:04:48 [info]  Verified that Expected value :[Please enter valid decimal values for the attribute.] is matched with Actual value :[Please enter valid decimal values for the attribute.]
+Oct 03,2016 16:04:48 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Oct 03,2016 16:04:49 [info]  Clicked on the 'Value1 of AUT_Attributes_CURRENCY 2_1003201634310'
+Oct 03,2016 16:04:50 [info]  Entered "10003" in field 'AM_AttributeValue1_InputField'
+Oct 03,2016 16:04:50 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Oct 03,2016 16:04:54 [info]  
+Oct 03,2016 16:04:54 [info]  Verify The data of Alert Message on Entering Invalid Data for Attribute Value
+Oct 03,2016 16:04:54 [info]  Verified that Expected value :[Please enter decimal values for the attribute.] is matched with Actual value :[Please enter decimal values for the attribute.]
+Oct 03,2016 16:04:54 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Oct 03,2016 16:04:55 [info]  Clicked on the 'Value1 of AUT_Attributes_CURRENCY 2_1003201634310'
+Oct 03,2016 16:04:56 [info]  Entered "342342.33" in field 'AM_AttributeValue1_InputField'
+Oct 03,2016 16:04:56 [info]  Clicked on the 'Select Attribute AUT_Attributes_CURRENCY 2_1003201634310'
+Oct 03,2016 16:04:56 [info]  
+Oct 03,2016 16:04:56 [info]  Verify The data of  Value1 Field of Attribute AUT_Attributes_CURRENCY 2_1003201634310 in Edit Mode
+Oct 03,2016 16:04:56 [info]  Verified that Expected value :[342342.33] is matched with Actual value :[342342.33]
+Oct 03,2016 16:04:59 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Oct 03,2016 16:05:02 [info]  
+Oct 03,2016 16:05:03 [info]  Verify The data of Value1 Field of Attribute AUT_Attributes_CURRENCY 2_1003201634310 in View Mode
+Oct 03,2016 16:05:03 [info]  Verified that Expected value :[342342.33] is matched with Actual value :[342342.33]
+Oct 03,2016 16:05:03 [info]  Clicked on the 'Edit Button' using JS Executor
+Oct 03,2016 16:05:04 [info]  Test 'TC7_ValueEnter_Currency2Attribute' PASSED
+Oct 03,2016 16:05:05 [info]  Closed the Browser
+Oct 03,2016 16:05:05 [info]  *********************Started Executing 'TC8_ValueEnter_Range1Attribute' Test Case*********************
+Oct 03,2016 16:05:13 [info]  Client: CORUS
+Oct 03,2016 16:05:13 [info]  URL: https://corus-rsgqa.rightslogic.com/Login.aspx 
+Oct 03,2016 16:05:13 [info]  UserName: admin
+Oct 03,2016 16:05:13 [info]  Password: admin_corus
+Oct 03,2016 16:05:14 [info]  Entered "admin" in field 'User Name'
+Oct 03,2016 16:05:15 [info]  Clicked on the 'Temporary Check Box'
+Oct 03,2016 16:05:15 [info]  Entered "admin_corus" in field 'Password'
+Oct 03,2016 16:05:23 [info]  Clicked on the 'LoginButton'
+Oct 03,2016 16:05:33 [info]  Clicked on the 'MODULE'
+Oct 03,2016 16:05:43 [info]  Clicked on the 'Asset Maintenance'
+Oct 03,2016 16:05:47 [info]  Clicked on the 'Search Menu Icon' using JS Executor
+Oct 03,2016 16:05:47 [info]  Clicked on the 'AssetSearchUnderAsset' using JS Executor
+Oct 03,2016 16:06:01 [info]  Entered "AUT_AssetSeries_1003201634310" in field 'AssetTitle'
+Oct 03,2016 16:06:01 [info]  Clicked on the 'Find Button' using JS Executor
+Oct 03,2016 16:06:20 [info]  Moved Mouse over 'First Asset in the Searched Asset'
+Oct 03,2016 16:06:21 [info]  Clicked on the 'First Asset in the Searched Asset'
+Oct 03,2016 16:06:22 [info]  Clicked on the 'First Asset in the Searched Asset'
+Oct 03,2016 16:06:25 [info]  Clicked on the 'View Asset' using JS Executor
+Oct 03,2016 16:06:44 [info]  Verified that Expected value :[AUT_AssetSeries_1003201634310] is matched with Actual value :[AUT_AssetSeries_1003201634310]
+Oct 03,2016 16:06:45 [info]  Clicked on the 'Attributes TAB'
+Oct 03,2016 16:06:49 [info]  Clicked on the 'Edit Button' using JS Executor
+Oct 03,2016 16:06:54 [info]  
+Oct 03,2016 16:06:54 [info]  Clicked on the 'Value1 of AUT_Attributes_RANGE 1_1003201634310'
+Oct 03,2016 16:06:56 [info]  Entered "12RSGab#$%^*%#$" in field 'AM_AttributeValue1_InputField'
+Oct 03,2016 16:06:57 [info]  Clicked on the 'Select Attribute AUT_Attributes_RANGE 1_1003201634310'
+Oct 03,2016 16:06:57 [info]  
+Oct 03,2016 16:06:57 [info]  Verify The data of  Value1 Field of Attribute AUT_Attributes_RANGE 1_1003201634310 in Edit Mode
+Oct 03,2016 16:06:57 [info]  ====Failed==== Expected value is:[12RSGab#$%^*%#$] but Actual value is[]. Please check the screenshot with name:  Value1 Field of Attribute AUT_Attributes_RANGE 1_1003201634310 in Edit Modefor more details
+Oct 03,2016 16:06:57 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\ Value1 Field of Attribute AUT_Attributes_RANGE 1_1003201634310 in Edit Mode_CheckpointFailure_10-03-2016 4-06-57 PM.jpg
+Oct 03,2016 16:06:57 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Oct 03,2016 16:07:01 [info]  
+Oct 03,2016 16:07:01 [info]  Verify The data of Value1 Field of Attribute AUT_Attributes_RANGE 1_1003201634310 in View Mode
+Oct 03,2016 16:07:01 [info]  ====Failed==== Expected value is:[12RSGab#$%^*%#$] but Actual value is[]. Please check the screenshot with name: Value1 Field of Attribute AUT_Attributes_RANGE 1_1003201634310 in View Modefor more details
+Oct 03,2016 16:07:01 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\Value1 Field of Attribute AUT_Attributes_RANGE 1_1003201634310 in View Mode_CheckpointFailure_10-03-2016 4-07-01 PM.jpg
+Oct 03,2016 16:07:01 [info]  Clicked on the 'Edit Button' using JS Executor
+Oct 03,2016 16:07:02 [info]  Test 'TC8_ValueEnter_Range1Attribute' PASSED
+Oct 03,2016 16:07:03 [info]  Closed the Browser
+Oct 03,2016 16:07:03 [info]  *********************Started Executing 'TC9_ValueEnter_Range2Attribute' Test Case*********************
+Oct 03,2016 16:07:11 [info]  Client: CORUS
+Oct 03,2016 16:07:11 [info]  URL: https://corus-rsgqa.rightslogic.com/Login.aspx 
+Oct 03,2016 16:07:11 [info]  UserName: admin
+Oct 03,2016 16:07:11 [info]  Password: admin_corus
+Oct 03,2016 16:07:12 [info]  Entered "admin" in field 'User Name'
+Oct 03,2016 16:07:12 [info]  Clicked on the 'Temporary Check Box'
+Oct 03,2016 16:07:13 [info]  Entered "admin_corus" in field 'Password'
+Oct 03,2016 16:07:20 [info]  Clicked on the 'LoginButton'
+Oct 03,2016 16:07:30 [info]  Clicked on the 'MODULE'
+Oct 03,2016 16:07:40 [info]  Clicked on the 'Asset Maintenance'
+Oct 03,2016 16:07:44 [info]  Clicked on the 'Search Menu Icon' using JS Executor
+Oct 03,2016 16:07:44 [info]  Clicked on the 'AssetSearchUnderAsset' using JS Executor
+Oct 03,2016 16:07:58 [info]  Entered "AUT_AssetSeries_1003201634310" in field 'AssetTitle'
+Oct 03,2016 16:07:59 [info]  Clicked on the 'Find Button' using JS Executor
+Oct 03,2016 16:08:17 [info]  Moved Mouse over 'First Asset in the Searched Asset'
+Oct 03,2016 16:08:18 [info]  Clicked on the 'First Asset in the Searched Asset'
+Oct 03,2016 16:08:19 [info]  Clicked on the 'First Asset in the Searched Asset'
+Oct 03,2016 16:08:22 [info]  Clicked on the 'View Asset' using JS Executor
+Oct 03,2016 16:08:40 [info]  Verified that Expected value :[AUT_AssetSeries_1003201634310] is matched with Actual value :[AUT_AssetSeries_1003201634310]
+Oct 03,2016 16:08:42 [info]  Clicked on the 'Attributes TAB'
+Oct 03,2016 16:08:45 [info]  Clicked on the 'Edit Button' using JS Executor
+Oct 03,2016 16:08:50 [info]  
+Oct 03,2016 16:08:51 [info]  Clicked on the 'Value1 of AUT_Attributes_RANGE 2_1003201634310'
+Oct 03,2016 16:08:53 [info]  Entered "12RSGab#$%^*%#$" in field 'AM_AttributeValue1_InputField'
+Oct 03,2016 16:08:53 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Oct 03,2016 16:08:56 [info]  
+Oct 03,2016 16:08:57 [info]  Verify The data of Alert Message on Entering Invalid Data for Attribute Value
+Oct 03,2016 16:08:57 [info]  ====Failed==== Expected value is:[Please enter only Number for the attribute.] but Actual value is[Please enter valid numeric values for the attribute.]. Please check the screenshot with name: Alert Message on Entering Invalid Data for Attribute Valuefor more details
+Oct 03,2016 16:08:57 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\Alert Message on Entering Invalid Data for Attribute Value_CheckpointFailure_10-03-2016 4-08-57 PM.jpg
+Oct 03,2016 16:08:57 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Oct 03,2016 16:08:58 [info]  Clicked on the 'Value1 of AUT_Attributes_RANGE 2_1003201634310'
+Oct 03,2016 16:08:59 [info]  Entered "RSG" in field 'AM_AttributeValue1_InputField'
+Oct 03,2016 16:08:59 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Oct 03,2016 16:09:03 [info]  
+Oct 03,2016 16:09:03 [info]  Verify The data of Alert Message on Entering Invalid Data for Attribute Value
+Oct 03,2016 16:09:03 [info]  ====Failed==== Expected value is:[Please enter only Number for the attribute.] but Actual value is[Please enter valid numeric values for the attribute.]. Please check the screenshot with name: Alert Message on Entering Invalid Data for Attribute Valuefor more details
+Oct 03,2016 16:09:03 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\Alert Message on Entering Invalid Data for Attribute Value_CheckpointFailure_10-03-2016 4-09-03 PM.jpg
+Oct 03,2016 16:09:03 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Oct 03,2016 16:09:04 [info]  Clicked on the 'Value1 of AUT_Attributes_RANGE 2_1003201634310'
+Oct 03,2016 16:09:05 [info]  Entered "1024" in field 'AM_AttributeValue1_InputField'
+Oct 03,2016 16:09:07 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Oct 03,2016 16:09:10 [info]  
+Oct 03,2016 16:09:11 [info]  Verify The data of Alert Message on Entering Invalid Data for Attribute Value
+Oct 03,2016 16:09:11 [info]  ====Failed==== Expected value is:[Please enter valid numeric values for the attribute.] but Actual value is[]. Please check the screenshot with name: Alert Message on Entering Invalid Data for Attribute Valuefor more details
+Oct 03,2016 16:09:11 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\Alert Message on Entering Invalid Data for Attribute Value_CheckpointFailure_10-03-2016 4-09-11 PM.jpg
+Oct 03,2016 16:09:11 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Oct 03,2016 16:09:21 [info]  ====Failed==== " Could not find the Frame: div[id*='WebDialogWindow1'][style*=visible]
+Oct 03,2016 16:09:21 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\FrameSwitchingFailed0_CheckpointFailure_10-03-2016 4-09-21 PM.jpg
+Oct 03,2016 16:09:25 [info]  
+Oct 03,2016 16:09:35 [info]  ====Failed==== " Could not find the Frame: div[id*='WebDialogWindow1'][style*=visible]
+Oct 03,2016 16:09:35 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\FrameSwitchingFailed1_CheckpointFailure_10-03-2016 4-09-35 PM.jpg
+Oct 03,2016 16:09:45 [info]  ====Failed==== "Value1 of AUT_Attributes_RANGE 2_1003201634310" field is not present'
+Oct 03,2016 16:09:45 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\Value1 of AUT_Attributes_RANGE 2_1003201634310_CheckpointFailure_10-03-2016 4-09-45 PM.jpg
+Oct 03,2016 16:09:55 [info]  ====Failed==== "AM_AttributeValue1_InputField" field is not present'AM_AttributeValue1_InputField'
+Oct 03,2016 16:09:55 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\AM_AttributeValue1_InputField_CheckpointFailure_10-03-2016 4-09-55 PM.jpg
+Oct 03,2016 16:10:05 [info]  ====Failed==== "Save Button at 'Attribute Edit Window'" field is not present'
+Oct 03,2016 16:10:06 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\Save Button at 'Attribute Edit Window'_CheckpointFailure_10-03-2016 4-10-05 PM.jpg
+Oct 03,2016 16:10:09 [info]  
+Oct 03,2016 16:10:09 [info]  Verify The data of Alert Message on Entering Invalid Data for Attribute Value
+Oct 03,2016 16:10:09 [info]  ====Failed==== Expected value is:[Please enter only Number for the attribute.] but Actual value is[]. Please check the screenshot with name: Alert Message on Entering Invalid Data for Attribute Valuefor more details
+Oct 03,2016 16:10:09 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\Alert Message on Entering Invalid Data for Attribute Value_CheckpointFailure_10-03-2016 4-10-09 PM.jpg
+Oct 03,2016 16:10:09 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Oct 03,2016 16:10:20 [info]  ====Failed==== " Could not find the Frame: div[id*='WebDialogWindow1'][style*=visible]
+Oct 03,2016 16:10:20 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\FrameSwitchingFailed2_CheckpointFailure_10-03-2016 4-10-20 PM.jpg
+Oct 03,2016 16:10:30 [info]  ====Failed==== " Could not find the Frame: div[id*='WebDialogWindow1'][style*=visible]
+Oct 03,2016 16:10:30 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\FrameSwitchingFailed3_CheckpointFailure_10-03-2016 4-10-30 PM.jpg
+Oct 03,2016 16:10:40 [info]  ====Failed==== "Value1 of AUT_Attributes_RANGE 2_1003201634310" field is not present'
+Oct 03,2016 16:10:40 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\Value1 of AUT_Attributes_RANGE 2_1003201634310_CheckpointFailure_10-03-2016 4-10-40 PM.jpg
+Oct 03,2016 16:10:50 [info]  ====Failed==== "AM_AttributeValue1_InputField" field is not present'AM_AttributeValue1_InputField'
+Oct 03,2016 16:10:50 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\AM_AttributeValue1_InputField_CheckpointFailure_10-03-2016 4-10-50 PM.jpg
+Oct 03,2016 16:11:00 [info]  ====Failed==== "Select Attribute AUT_Attributes_RANGE 2_1003201634310" field is not present'
+Oct 03,2016 16:11:01 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\Select Attribute AUT_Attributes_RANGE 2_1003201634310_CheckpointFailure_10-03-2016 4-11-00 PM.jpg
+Oct 03,2016 16:11:01 [info]  
+Oct 03,2016 16:11:11 [info]  Verify The data of  Value1 Field of Attribute AUT_Attributes_RANGE 2_1003201634310 in Edit Mode
+Oct 03,2016 16:11:11 [info]  ====Failed==== Expected value is:[1024] but Actual value is[]. Please check the screenshot with name:  Value1 Field of Attribute AUT_Attributes_RANGE 2_1003201634310 in Edit Modefor more details
+Oct 03,2016 16:11:11 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\ Value1 Field of Attribute AUT_Attributes_RANGE 2_1003201634310 in Edit Mode_CheckpointFailure_10-03-2016 4-11-11 PM.jpg
+Oct 03,2016 16:11:21 [info]  Verify The data of Value1 Field of Attribute AUT_Attributes_RANGE 2_1003201634310 in View Mode
+Oct 03,2016 16:11:21 [info]  ====Failed==== Expected value is:[1024] but Actual value is[]. Please check the screenshot with name: Value1 Field of Attribute AUT_Attributes_RANGE 2_1003201634310 in View Modefor more details
+Oct 03,2016 16:11:21 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\Value1 Field of Attribute AUT_Attributes_RANGE 2_1003201634310 in View Mode_CheckpointFailure_10-03-2016 4-11-21 PM.jpg
+Oct 03,2016 16:11:21 [info]  Test 'TC9_ValueEnter_Range2Attribute' PASSED
+Oct 03,2016 16:11:22 [info]  Closed the Browser
+Oct 03,2016 16:11:22 [info]  *********************Started Executing 'TC10_ValueEnter_Range3Attribute' Test Case*********************
+Oct 03,2016 16:11:30 [info]  Client: CORUS
+Oct 03,2016 16:11:30 [info]  URL: https://corus-rsgqa.rightslogic.com/Login.aspx 
+Oct 03,2016 16:11:30 [info]  UserName: admin
+Oct 03,2016 16:11:30 [info]  Password: admin_corus
+Oct 03,2016 16:11:32 [info]  Entered "admin" in field 'User Name'
+Oct 03,2016 16:11:32 [info]  Clicked on the 'Temporary Check Box'
+Oct 03,2016 16:11:33 [info]  Entered "admin_corus" in field 'Password'
+Oct 03,2016 16:11:40 [info]  Clicked on the 'LoginButton'
+Oct 03,2016 16:11:50 [info]  Clicked on the 'MODULE'
+Oct 03,2016 16:12:00 [info]  Clicked on the 'Asset Maintenance'
+Oct 03,2016 16:12:03 [info]  Clicked on the 'Search Menu Icon' using JS Executor
+Oct 03,2016 16:12:03 [info]  Clicked on the 'AssetSearchUnderAsset' using JS Executor
+Oct 03,2016 16:12:17 [info]  Entered "AUT_AssetSeries_1003201634310" in field 'AssetTitle'
+Oct 03,2016 16:12:17 [info]  Clicked on the 'Find Button' using JS Executor
+Oct 03,2016 16:12:36 [info]  Moved Mouse over 'First Asset in the Searched Asset'
+Oct 03,2016 16:12:37 [info]  Clicked on the 'First Asset in the Searched Asset'
+Oct 03,2016 16:12:38 [info]  Clicked on the 'First Asset in the Searched Asset'
+Oct 03,2016 16:12:41 [info]  Clicked on the 'View Asset' using JS Executor
+Oct 03,2016 16:13:00 [info]  Verified that Expected value :[AUT_AssetSeries_1003201634310] is matched with Actual value :[AUT_AssetSeries_1003201634310]
+Oct 03,2016 16:13:02 [info]  Clicked on the 'Attributes TAB'
+Oct 03,2016 16:13:05 [info]  Clicked on the 'Edit Button' using JS Executor
+Oct 03,2016 16:13:10 [info]  
+Oct 03,2016 16:13:11 [info]  Clicked on the 'Value1 of AUT_Attributes_RANGE 3_1003201634310'
+Oct 03,2016 16:13:13 [info]  Entered "12RSGab#$%^*%#$" in field 'AM_AttributeValue1_InputField'
+Oct 03,2016 16:13:13 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Oct 03,2016 16:13:16 [info]  
+Oct 03,2016 16:13:17 [info]  Verify The data of Alert Message on Entering Invalid Data for Attribute Value
+Oct 03,2016 16:13:17 [info]  ====Failed==== Expected value is:[Please enter valid numeric values for the attribute.] but Actual value is[Please enter decimal values for the attribute.]. Please check the screenshot with name: Alert Message on Entering Invalid Data for Attribute Valuefor more details
+Oct 03,2016 16:13:17 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\Alert Message on Entering Invalid Data for Attribute Value_CheckpointFailure_10-03-2016 4-13-17 PM.jpg
+Oct 03,2016 16:13:17 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Oct 03,2016 16:13:18 [info]  Clicked on the 'Value1 of AUT_Attributes_RANGE 3_1003201634310'
+Oct 03,2016 16:13:19 [info]  Entered "RSG" in field 'AM_AttributeValue1_InputField'
+Oct 03,2016 16:13:19 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Oct 03,2016 16:13:23 [info]  
+Oct 03,2016 16:13:23 [info]  Verify The data of Alert Message on Entering Invalid Data for Attribute Value
+Oct 03,2016 16:13:23 [info]  ====Failed==== Expected value is:[Please enter valid numeric values for the attribute.] but Actual value is[Please enter decimal values for the attribute.]. Please check the screenshot with name: Alert Message on Entering Invalid Data for Attribute Valuefor more details
+Oct 03,2016 16:13:23 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\Alert Message on Entering Invalid Data for Attribute Value_CheckpointFailure_10-03-2016 4-13-23 PM.jpg
+Oct 03,2016 16:13:23 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Oct 03,2016 16:13:24 [info]  Clicked on the 'Value1 of AUT_Attributes_RANGE 3_1003201634310'
+Oct 03,2016 16:13:25 [info]  Entered "1024.33" in field 'AM_AttributeValue1_InputField'
+Oct 03,2016 16:13:27 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Oct 03,2016 16:13:30 [info]  
+Oct 03,2016 16:13:31 [info]  Verify The data of Alert Message on Entering Invalid Data for Attribute Value
+Oct 03,2016 16:13:31 [info]  ====Failed==== Expected value is:[Please enter valid numeric values for the attribute.] but Actual value is[]. Please check the screenshot with name: Alert Message on Entering Invalid Data for Attribute Valuefor more details
+Oct 03,2016 16:13:31 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\Alert Message on Entering Invalid Data for Attribute Value_CheckpointFailure_10-03-2016 4-13-31 PM.jpg
+Oct 03,2016 16:13:31 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Oct 03,2016 16:13:41 [info]  ====Failed==== " Could not find the Frame: div[id*='WebDialogWindow1'][style*=visible]
+Oct 03,2016 16:13:41 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\FrameSwitchingFailed4_CheckpointFailure_10-03-2016 4-13-41 PM.jpg
+Oct 03,2016 16:13:45 [info]  
+Oct 03,2016 16:13:48 [info]  
+Oct 03,2016 16:13:58 [info]  ====Failed==== " Could not find the Frame: div[id*='WebDialogWindow1'][style*=visible]
+Oct 03,2016 16:13:58 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\FrameSwitchingFailed5_CheckpointFailure_10-03-2016 4-13-58 PM.jpg
+Oct 03,2016 16:14:08 [info]  ====Failed==== "Value1 of AUT_Attributes_RANGE 3_1003201634310" field is not present'
+Oct 03,2016 16:14:08 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\Value1 of AUT_Attributes_RANGE 3_1003201634310_CheckpointFailure_10-03-2016 4-14-08 PM.jpg
+Oct 03,2016 16:14:19 [info]  ====Failed==== "AM_AttributeValue1_InputField" field is not present'AM_AttributeValue1_InputField'
+Oct 03,2016 16:14:19 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\AM_AttributeValue1_InputField_CheckpointFailure_10-03-2016 4-14-19 PM.jpg
+Oct 03,2016 16:14:29 [info]  ====Failed==== "Select Attribute AUT_Attributes_RANGE 3_1003201634310" field is not present'
+Oct 03,2016 16:14:29 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\Select Attribute AUT_Attributes_RANGE 3_1003201634310_CheckpointFailure_10-03-2016 4-14-29 PM.jpg
+Oct 03,2016 16:14:29 [info]  
+Oct 03,2016 16:14:39 [info]  Verify The data of  Value1 Field of Attribute AUT_Attributes_RANGE 3_1003201634310 in Edit Mode
+Oct 03,2016 16:14:39 [info]  ====Failed==== Expected value is:[1024] but Actual value is[]. Please check the screenshot with name:  Value1 Field of Attribute AUT_Attributes_RANGE 3_1003201634310 in Edit Modefor more details
+Oct 03,2016 16:14:39 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\ Value1 Field of Attribute AUT_Attributes_RANGE 3_1003201634310 in Edit Mode_CheckpointFailure_10-03-2016 4-14-39 PM.jpg
+Oct 03,2016 16:14:49 [info]  Verify The data of Value1 Field of Attribute AUT_Attributes_RANGE 3_1003201634310 in View Mode
+Oct 03,2016 16:14:49 [info]  ====Failed==== Expected value is:[1024] but Actual value is[]. Please check the screenshot with name: Value1 Field of Attribute AUT_Attributes_RANGE 3_1003201634310 in View Modefor more details
+Oct 03,2016 16:14:49 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\Value1 Field of Attribute AUT_Attributes_RANGE 3_1003201634310 in View Mode_CheckpointFailure_10-03-2016 4-14-49 PM.jpg
+Oct 03,2016 16:14:49 [info]  Test 'TC10_ValueEnter_Range3Attribute' PASSED
+Oct 03,2016 16:14:50 [info]  Closed the Browser
+Oct 03,2016 16:14:50 [info]  *********************Started Executing 'TC11_ValueEnter_Range4Attribute' Test Case*********************
+Oct 03,2016 16:14:59 [info]  Client: CORUS
+Oct 03,2016 16:14:59 [info]  URL: https://corus-rsgqa.rightslogic.com/Login.aspx 
+Oct 03,2016 16:14:59 [info]  UserName: admin
+Oct 03,2016 16:14:59 [info]  Password: admin_corus
+Oct 03,2016 16:15:00 [info]  Entered "admin" in field 'User Name'
+Oct 03,2016 16:15:00 [info]  Clicked on the 'Temporary Check Box'
+Oct 03,2016 16:15:01 [info]  Entered "admin_corus" in field 'Password'
+Oct 03,2016 16:15:08 [info]  Clicked on the 'LoginButton'
+Oct 03,2016 16:15:18 [info]  Clicked on the 'MODULE'
+Oct 03,2016 16:15:28 [info]  Clicked on the 'Asset Maintenance'
+Oct 03,2016 16:15:31 [info]  Clicked on the 'Search Menu Icon' using JS Executor
+Oct 03,2016 16:15:32 [info]  Clicked on the 'AssetSearchUnderAsset' using JS Executor
+Oct 03,2016 16:15:45 [info]  Entered "AUT_AssetSeries_1003201634310" in field 'AssetTitle'
+Oct 03,2016 16:15:45 [info]  Clicked on the 'Find Button' using JS Executor
+Oct 03,2016 16:16:04 [info]  Moved Mouse over 'First Asset in the Searched Asset'
+Oct 03,2016 16:16:05 [info]  Clicked on the 'First Asset in the Searched Asset'
+Oct 03,2016 16:16:06 [info]  Clicked on the 'First Asset in the Searched Asset'
+Oct 03,2016 16:16:09 [info]  Clicked on the 'View Asset' using JS Executor
+Oct 03,2016 16:16:27 [info]  Verified that Expected value :[AUT_AssetSeries_1003201634310] is matched with Actual value :[AUT_AssetSeries_1003201634310]
+Oct 03,2016 16:16:29 [info]  Clicked on the 'Attributes TAB'
+Oct 03,2016 16:16:32 [info]  Clicked on the 'Edit Button' using JS Executor
+Oct 03,2016 16:16:37 [info]  
+Oct 03,2016 16:16:47 [info]  ====Failed==== "Value1 of AUT_Attributes_RANGE 4_1003201634310" field is not present'
+Oct 03,2016 16:16:47 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\Value1 of AUT_Attributes_RANGE 4_1003201634310_CheckpointFailure_10-03-2016 4-16-47 PM.jpg
+Oct 03,2016 16:16:48 [info]  ====Failed==== "AM_AttributeValue1_InputField" field is not present'AM_AttributeValue1_InputField'
+Oct 03,2016 16:16:48 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\AM_AttributeValue1_InputField_CheckpointFailure_10-03-2016 4-16-48 PM.jpg
+Oct 03,2016 16:16:50 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Oct 03,2016 16:16:54 [info]  
+Oct 03,2016 16:16:54 [info]  Verify The data of Alert Message on Entering Invalid Data for Attribute Value
+Oct 03,2016 16:16:54 [info]  ====Failed==== Expected value is:[Please enter valid numeric values for the attribute.] but Actual value is[]. Please check the screenshot with name: Alert Message on Entering Invalid Data for Attribute Valuefor more details
+Oct 03,2016 16:16:54 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\Alert Message on Entering Invalid Data for Attribute Value_CheckpointFailure_10-03-2016 4-16-54 PM.jpg
+Oct 03,2016 16:16:54 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Oct 03,2016 16:17:04 [info]  ====Failed==== " Could not find the Frame: div[id*='WebDialogWindow1'][style*=visible]
+Oct 03,2016 16:17:05 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\FrameSwitchingFailed6_CheckpointFailure_10-03-2016 4-17-04 PM.jpg
+Oct 03,2016 16:17:15 [info]  ====Failed==== " Could not find the Frame: div[id*='WebDialogWindow1'][style*=visible]
+Oct 03,2016 16:17:15 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\FrameSwitchingFailed7_CheckpointFailure_10-03-2016 4-17-15 PM.jpg
+Oct 03,2016 16:17:25 [info]  ====Failed==== "Value1 of AUT_Attributes_RANGE 4_1003201634310" field is not present'
+Oct 03,2016 16:17:25 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\Value1 of AUT_Attributes_RANGE 4_1003201634310_CheckpointFailure_10-03-2016 4-17-25 PM.jpg
+Oct 03,2016 16:17:35 [info]  ====Failed==== "AM_AttributeValue1_InputField" field is not present'AM_AttributeValue1_InputField'
+Oct 03,2016 16:17:35 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\AM_AttributeValue1_InputField_CheckpointFailure_10-03-2016 4-17-35 PM.jpg
+Oct 03,2016 16:17:45 [info]  ====Failed==== "Save Button at 'Attribute Edit Window'" field is not present'
+Oct 03,2016 16:17:45 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\Save Button at 'Attribute Edit Window'_CheckpointFailure_10-03-2016 4-17-45 PM.jpg
+Oct 03,2016 16:17:49 [info]  
+Oct 03,2016 16:17:49 [info]  Verify The data of Alert Message on Entering Invalid Data for Attribute Value
+Oct 03,2016 16:17:49 [info]  ====Failed==== Expected value is:[Please enter valid numeric values for the attribute.] but Actual value is[]. Please check the screenshot with name: Alert Message on Entering Invalid Data for Attribute Valuefor more details
+Oct 03,2016 16:17:49 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\Alert Message on Entering Invalid Data for Attribute Value_CheckpointFailure_10-03-2016 4-17-49 PM.jpg
+Oct 03,2016 16:17:49 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Oct 03,2016 16:17:59 [info]  ====Failed==== " Could not find the Frame: div[id*='WebDialogWindow1'][style*=visible]
+Oct 03,2016 16:18:00 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\FrameSwitchingFailed8_CheckpointFailure_10-03-2016 4-17-59 PM.jpg
+Oct 03,2016 16:18:10 [info]  ====Failed==== " Could not find the Frame: div[id*='WebDialogWindow1'][style*=visible]
+Oct 03,2016 16:18:10 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\FrameSwitchingFailed9_CheckpointFailure_10-03-2016 4-18-10 PM.jpg
+Oct 03,2016 16:18:20 [info]  ====Failed==== "Value1 of AUT_Attributes_RANGE 4_1003201634310" field is not present'
+Oct 03,2016 16:18:20 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\Value1 of AUT_Attributes_RANGE 4_1003201634310_CheckpointFailure_10-03-2016 4-18-20 PM.jpg
+Oct 03,2016 16:18:30 [info]  ====Failed==== "AM_AttributeValue1_InputField" field is not present'AM_AttributeValue1_InputField'
+Oct 03,2016 16:18:30 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\AM_AttributeValue1_InputField_CheckpointFailure_10-03-2016 4-18-30 PM.jpg
+Oct 03,2016 16:18:40 [info]  ====Failed==== "Save Button at 'Attribute Edit Window'" field is not present'
+Oct 03,2016 16:18:41 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\Save Button at 'Attribute Edit Window'_CheckpointFailure_10-03-2016 4-18-40 PM.jpg
+Oct 03,2016 16:18:44 [info]  
+Oct 03,2016 16:18:44 [info]  Verify The data of Alert Message on Entering Invalid Data for Attribute Value
+Oct 03,2016 16:18:44 [info]  ====Failed==== Expected value is:[Please enter valid numeric values for the attribute.] but Actual value is[]. Please check the screenshot with name: Alert Message on Entering Invalid Data for Attribute Valuefor more details
+Oct 03,2016 16:18:44 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\Alert Message on Entering Invalid Data for Attribute Value_CheckpointFailure_10-03-2016 4-18-44 PM.jpg
+Oct 03,2016 16:18:44 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Oct 03,2016 16:18:55 [info]  ====Failed==== " Could not find the Frame: div[id*='WebDialogWindow1'][style*=visible]
+Oct 03,2016 16:18:55 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\FrameSwitchingFailed10_CheckpointFailure_10-03-2016 4-18-55 PM.jpg
+Oct 03,2016 16:18:58 [info]  
+Oct 03,2016 16:19:01 [info]  
+Oct 03,2016 16:19:12 [info]  ====Failed==== " Could not find the Frame: div[id*='WebDialogWindow1'][style*=visible]
+Oct 03,2016 16:19:12 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\FrameSwitchingFailed11_CheckpointFailure_10-03-2016 4-19-12 PM.jpg
+Oct 03,2016 16:19:22 [info]  ====Failed==== "Value1 of AUT_Attributes_RANGE 2_1003201634310" field is not present'
+Oct 03,2016 16:19:22 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\Value1 of AUT_Attributes_RANGE 2_1003201634310_CheckpointFailure_10-03-2016 4-19-22 PM.jpg
+Oct 03,2016 16:19:32 [info]  ====Failed==== "AM_AttributeValue1_InputField" field is not present'AM_AttributeValue1_InputField'
+Oct 03,2016 16:19:32 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\AM_AttributeValue1_InputField_CheckpointFailure_10-03-2016 4-19-32 PM.jpg
+Oct 03,2016 16:19:42 [info]  ====Failed==== "Select Attribute AUT_Attributes_RANGE 4_1003201634310" field is not present'
+Oct 03,2016 16:19:42 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\Select Attribute AUT_Attributes_RANGE 4_1003201634310_CheckpointFailure_10-03-2016 4-19-42 PM.jpg
+Oct 03,2016 16:19:42 [info]  
+Oct 03,2016 16:19:52 [info]  Verify The data of  Value1 Field of Attribute AUT_Attributes_RANGE 4_1003201634310 in Edit Mode
+Oct 03,2016 16:19:52 [info]  ====Failed==== Expected value is:[1024] but Actual value is[]. Please check the screenshot with name:  Value1 Field of Attribute AUT_Attributes_RANGE 4_1003201634310 in Edit Modefor more details
+Oct 03,2016 16:19:53 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\ Value1 Field of Attribute AUT_Attributes_RANGE 4_1003201634310 in Edit Mode_CheckpointFailure_10-03-2016 4-19-52 PM.jpg
+Oct 03,2016 16:20:03 [info]  Verify The data of Value1 Field of Attribute AUT_Attributes_RANGE 4_1003201634310 in View Mode
+Oct 03,2016 16:20:03 [info]  ====Failed==== Expected value is:[1024] but Actual value is[]. Please check the screenshot with name: Value1 Field of Attribute AUT_Attributes_RANGE 4_1003201634310 in View Modefor more details
+Oct 03,2016 16:20:03 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\Value1 Field of Attribute AUT_Attributes_RANGE 4_1003201634310 in View Mode_CheckpointFailure_10-03-2016 4-20-03 PM.jpg
+Oct 03,2016 16:20:03 [info]  Test 'TC11_ValueEnter_Range4Attribute' PASSED
+Oct 03,2016 16:20:04 [info]  Closed the Browser
+Oct 03,2016 16:20:04 [info]  *********************Started Executing 'TC12_ValueEnter_Range5Attribute' Test Case*********************
+Oct 03,2016 16:20:12 [info]  Client: CORUS
+Oct 03,2016 16:20:12 [info]  URL: https://corus-rsgqa.rightslogic.com/Login.aspx 
+Oct 03,2016 16:20:12 [info]  UserName: admin
+Oct 03,2016 16:20:12 [info]  Password: admin_corus
+Oct 03,2016 16:20:13 [info]  Entered "admin" in field 'User Name'
+Oct 03,2016 16:20:13 [info]  Clicked on the 'Temporary Check Box'
+Oct 03,2016 16:20:14 [info]  Entered "admin_corus" in field 'Password'
+Oct 03,2016 16:20:22 [info]  Clicked on the 'LoginButton'
+Oct 03,2016 16:20:32 [info]  Clicked on the 'MODULE'
+Oct 03,2016 16:20:41 [info]  Clicked on the 'Asset Maintenance'
+Oct 03,2016 16:20:44 [info]  Clicked on the 'Search Menu Icon' using JS Executor
+Oct 03,2016 16:20:45 [info]  Clicked on the 'AssetSearchUnderAsset' using JS Executor
+Oct 03,2016 16:20:59 [info]  Entered "AUT_AssetSeries_1003201634310" in field 'AssetTitle'
+Oct 03,2016 16:21:00 [info]  Clicked on the 'Find Button' using JS Executor
+Oct 03,2016 16:21:18 [info]  Moved Mouse over 'First Asset in the Searched Asset'
+Oct 03,2016 16:21:19 [info]  Clicked on the 'First Asset in the Searched Asset'
+Oct 03,2016 16:21:20 [info]  Clicked on the 'First Asset in the Searched Asset'
+Oct 03,2016 16:21:23 [info]  Clicked on the 'View Asset' using JS Executor
+Oct 03,2016 16:21:42 [info]  Verified that Expected value :[AUT_AssetSeries_1003201634310] is matched with Actual value :[AUT_AssetSeries_1003201634310]
+Oct 03,2016 16:21:44 [info]  Clicked on the 'Attributes TAB'
+Oct 03,2016 16:21:48 [info]  Clicked on the 'Edit Button' using JS Executor
+Oct 03,2016 16:21:52 [info]  
+Oct 03,2016 16:22:03 [info]  ====Failed==== "Value1 of AUT_Attributes_RANGE 5_1003201634310" field is not present'
+Oct 03,2016 16:22:03 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\Value1 of AUT_Attributes_RANGE 5_1003201634310_CheckpointFailure_10-03-2016 4-22-03 PM.jpg
+Oct 03,2016 16:22:03 [info]  ====Failed==== "AM_AttributeValue1_InputField" field is not present'AM_AttributeValue1_InputField'
+Oct 03,2016 16:22:03 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\AM_AttributeValue1_InputField_CheckpointFailure_10-03-2016 4-22-03 PM.jpg
+Oct 03,2016 16:22:06 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Oct 03,2016 16:22:09 [info]  
+Oct 03,2016 16:22:09 [info]  Verify The data of Alert Message on Entering Invalid Data for Attribute Value
+Oct 03,2016 16:22:09 [info]  ====Failed==== Expected value is:[Please enter valid numeric values for the attribute.] but Actual value is[]. Please check the screenshot with name: Alert Message on Entering Invalid Data for Attribute Valuefor more details
+Oct 03,2016 16:22:09 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\Alert Message on Entering Invalid Data for Attribute Value_CheckpointFailure_10-03-2016 4-22-09 PM.jpg
+Oct 03,2016 16:22:10 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Oct 03,2016 16:22:20 [info]  ====Failed==== " Could not find the Frame: div[id*='WebDialogWindow1'][style*=visible]
+Oct 03,2016 16:22:20 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\FrameSwitchingFailed12_CheckpointFailure_10-03-2016 4-22-20 PM.jpg
+Oct 03,2016 16:22:30 [info]  ====Failed==== " Could not find the Frame: div[id*='WebDialogWindow1'][style*=visible]
+Oct 03,2016 16:22:30 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\FrameSwitchingFailed13_CheckpointFailure_10-03-2016 4-22-30 PM.jpg
+Oct 03,2016 16:22:40 [info]  ====Failed==== "Value1 of AUT_Attributes_RANGE 5_1003201634310" field is not present'
+Oct 03,2016 16:22:40 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\Value1 of AUT_Attributes_RANGE 5_1003201634310_CheckpointFailure_10-03-2016 4-22-40 PM.jpg
+Oct 03,2016 16:22:50 [info]  ====Failed==== "AM_AttributeValue1_InputField" field is not present'AM_AttributeValue1_InputField'
+Oct 03,2016 16:22:51 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\AM_AttributeValue1_InputField_CheckpointFailure_10-03-2016 4-22-50 PM.jpg
+Oct 03,2016 16:23:01 [info]  ====Failed==== "Save Button at 'Attribute Edit Window'" field is not present'
+Oct 03,2016 16:23:01 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\Save Button at 'Attribute Edit Window'_CheckpointFailure_10-03-2016 4-23-01 PM.jpg
+Oct 03,2016 16:23:04 [info]  
+Oct 03,2016 16:23:04 [info]  Verify The data of Alert Message on Entering Invalid Data for Attribute Value
+Oct 03,2016 16:23:04 [info]  ====Failed==== Expected value is:[Please enter valid numeric values for the attribute.] but Actual value is[]. Please check the screenshot with name: Alert Message on Entering Invalid Data for Attribute Valuefor more details
+Oct 03,2016 16:23:05 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\Alert Message on Entering Invalid Data for Attribute Value_CheckpointFailure_10-03-2016 4-23-04 PM.jpg
+Oct 03,2016 16:23:05 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Oct 03,2016 16:23:15 [info]  ====Failed==== " Could not find the Frame: div[id*='WebDialogWindow1'][style*=visible]
+Oct 03,2016 16:23:15 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\FrameSwitchingFailed14_CheckpointFailure_10-03-2016 4-23-15 PM.jpg
+Oct 03,2016 16:23:25 [info]  ====Failed==== " Could not find the Frame: div[id*='WebDialogWindow1'][style*=visible]
+Oct 03,2016 16:23:25 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\FrameSwitchingFailed15_CheckpointFailure_10-03-2016 4-23-25 PM.jpg
+Oct 03,2016 16:23:35 [info]  ====Failed==== "Value1 of AUT_Attributes_RANGE 5_1003201634310" field is not present'
+Oct 03,2016 16:23:35 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\Value1 of AUT_Attributes_RANGE 5_1003201634310_CheckpointFailure_10-03-2016 4-23-35 PM.jpg
+Oct 03,2016 16:23:45 [info]  ====Failed==== "AM_AttributeValue1_InputField" field is not present'AM_AttributeValue1_InputField'
+Oct 03,2016 16:23:46 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\AM_AttributeValue1_InputField_CheckpointFailure_10-03-2016 4-23-45 PM.jpg
+Oct 03,2016 16:23:56 [info]  ====Failed==== "Save Button at 'Attribute Edit Window'" field is not present'
+Oct 03,2016 16:23:56 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\Save Button at 'Attribute Edit Window'_CheckpointFailure_10-03-2016 4-23-56 PM.jpg
+Oct 03,2016 16:23:59 [info]  
+Oct 03,2016 16:23:59 [info]  Verify The data of Alert Message on Entering Invalid Data for Attribute Value
+Oct 03,2016 16:23:59 [info]  ====Failed==== Expected value is:[Please enter valid numeric values for the attribute.] but Actual value is[]. Please check the screenshot with name: Alert Message on Entering Invalid Data for Attribute Valuefor more details
+Oct 03,2016 16:24:00 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\Alert Message on Entering Invalid Data for Attribute Value_CheckpointFailure_10-03-2016 4-23-59 PM.jpg
+Oct 03,2016 16:24:00 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Oct 03,2016 16:24:10 [info]  ====Failed==== " Could not find the Frame: div[id*='WebDialogWindow1'][style*=visible]
+Oct 03,2016 16:24:10 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\FrameSwitchingFailed16_CheckpointFailure_10-03-2016 4-24-10 PM.jpg
+Oct 03,2016 16:24:13 [info]  
+Oct 03,2016 16:24:17 [info]  
+Oct 03,2016 16:24:27 [info]  ====Failed==== " Could not find the Frame: div[id*='WebDialogWindow1'][style*=visible]
+Oct 03,2016 16:24:27 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\FrameSwitchingFailed17_CheckpointFailure_10-03-2016 4-24-27 PM.jpg
+Oct 03,2016 16:24:37 [info]  ====Failed==== "Value1 of AUT_Attributes_RANGE 2_1003201634310" field is not present'
+Oct 03,2016 16:24:37 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\Value1 of AUT_Attributes_RANGE 2_1003201634310_CheckpointFailure_10-03-2016 4-24-37 PM.jpg
+Oct 03,2016 16:24:47 [info]  ====Failed==== "AM_AttributeValue1_InputField" field is not present'AM_AttributeValue1_InputField'
+Oct 03,2016 16:24:47 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\AM_AttributeValue1_InputField_CheckpointFailure_10-03-2016 4-24-47 PM.jpg
+Oct 03,2016 16:24:57 [info]  ====Failed==== "Select Attribute AUT_Attributes_RANGE 5_1003201634310" field is not present'
+Oct 03,2016 16:24:58 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\Select Attribute AUT_Attributes_RANGE 5_1003201634310_CheckpointFailure_10-03-2016 4-24-57 PM.jpg
+Oct 03,2016 16:24:58 [info]  
+Oct 03,2016 16:25:08 [info]  Verify The data of  Value1 Field of Attribute AUT_Attributes_RANGE 5_1003201634310 in Edit Mode
+Oct 03,2016 16:25:08 [info]  ====Failed==== Expected value is:[1024.33] but Actual value is[]. Please check the screenshot with name:  Value1 Field of Attribute AUT_Attributes_RANGE 5_1003201634310 in Edit Modefor more details
+Oct 03,2016 16:25:08 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\ Value1 Field of Attribute AUT_Attributes_RANGE 5_1003201634310 in Edit Mode_CheckpointFailure_10-03-2016 4-25-08 PM.jpg
+Oct 03,2016 16:25:18 [info]  Verify The data of Value1 Field of Attribute AUT_Attributes_RANGE 5_1003201634310 in View Mode
+Oct 03,2016 16:25:18 [info]  ====Failed==== Expected value is:[1024.33] but Actual value is[]. Please check the screenshot with name: Value1 Field of Attribute AUT_Attributes_RANGE 5_1003201634310 in View Modefor more details
+Oct 03,2016 16:25:18 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\Value1 Field of Attribute AUT_Attributes_RANGE 5_1003201634310 in View Mode_CheckpointFailure_10-03-2016 4-25-18 PM.jpg
+Oct 03,2016 16:25:18 [info]  Test 'TC12_ValueEnter_Range5Attribute' PASSED
+Oct 03,2016 16:25:19 [info]  Closed the Browser
+Oct 03,2016 16:25:19 [info]  *********************Started Executing 'TC13_ValueEnter_Range6Attribute' Test Case*********************
+Oct 03,2016 16:25:27 [info]  Client: CORUS
+Oct 03,2016 16:25:27 [info]  URL: https://corus-rsgqa.rightslogic.com/Login.aspx 
+Oct 03,2016 16:25:27 [info]  UserName: admin
+Oct 03,2016 16:25:27 [info]  Password: admin_corus
+Oct 03,2016 16:25:28 [info]  Entered "admin" in field 'User Name'
+Oct 03,2016 16:25:29 [info]  Clicked on the 'Temporary Check Box'
+Oct 03,2016 16:25:29 [info]  Entered "admin_corus" in field 'Password'
+Oct 03,2016 16:25:37 [info]  Clicked on the 'LoginButton'
+Oct 03,2016 16:25:47 [info]  Clicked on the 'MODULE'
+Oct 03,2016 16:25:56 [info]  Clicked on the 'Asset Maintenance'
+Oct 03,2016 16:26:00 [info]  Clicked on the 'Search Menu Icon' using JS Executor
+Oct 03,2016 16:26:00 [info]  Clicked on the 'AssetSearchUnderAsset' using JS Executor
+Oct 03,2016 16:26:14 [info]  Entered "AUT_AssetSeries_1003201634310" in field 'AssetTitle'
+Oct 03,2016 16:26:15 [info]  Clicked on the 'Find Button' using JS Executor
+Oct 03,2016 16:26:33 [info]  Moved Mouse over 'First Asset in the Searched Asset'
+Oct 03,2016 16:26:34 [info]  Clicked on the 'First Asset in the Searched Asset'
+Oct 03,2016 16:26:35 [info]  Clicked on the 'First Asset in the Searched Asset'
+Oct 03,2016 16:26:38 [info]  Clicked on the 'View Asset' using JS Executor
+Oct 03,2016 16:26:56 [info]  Verified that Expected value :[AUT_AssetSeries_1003201634310] is matched with Actual value :[AUT_AssetSeries_1003201634310]
+Oct 03,2016 16:26:58 [info]  Clicked on the 'Attributes TAB'
+Oct 03,2016 16:27:01 [info]  Clicked on the 'Edit Button' using JS Executor
+Oct 03,2016 16:27:06 [info]  
+Oct 03,2016 16:27:17 [info]  ====Failed==== "Value1 of AUT_Attributes_RANGE 7_1003201634310" field is not present'
+Oct 03,2016 16:27:17 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\Value1 of AUT_Attributes_RANGE 7_1003201634310_CheckpointFailure_10-03-2016 4-27-17 PM.jpg
+Oct 03,2016 16:27:17 [info]  ====Failed==== "AM_AttributeValue1_InputField" field is not present'AM_AttributeValue1_InputField'
+Oct 03,2016 16:27:17 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\AM_AttributeValue1_InputField_CheckpointFailure_10-03-2016 4-27-17 PM.jpg
+Oct 03,2016 16:27:20 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Oct 03,2016 16:27:23 [info]  
+Oct 03,2016 16:27:23 [info]  Verify The data of Alert Message on Entering Invalid Data for Attribute Value
+Oct 03,2016 16:27:23 [info]  ====Failed==== Expected value is:[Please enter only text for the attribute.] but Actual value is[]. Please check the screenshot with name: Alert Message on Entering Invalid Data for Attribute Valuefor more details
+Oct 03,2016 16:27:23 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\Alert Message on Entering Invalid Data for Attribute Value_CheckpointFailure_10-03-2016 4-27-23 PM.jpg
+Oct 03,2016 16:27:24 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Oct 03,2016 16:27:34 [info]  ====Failed==== " Could not find the Frame: div[id*='WebDialogWindow1'][style*=visible]
+Oct 03,2016 16:27:34 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\FrameSwitchingFailed18_CheckpointFailure_10-03-2016 4-27-34 PM.jpg
+Oct 03,2016 16:27:44 [info]  ====Failed==== " Could not find the Frame: div[id*='WebDialogWindow1'][style*=visible]
+Oct 03,2016 16:27:44 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\FrameSwitchingFailed19_CheckpointFailure_10-03-2016 4-27-44 PM.jpg
+Oct 03,2016 16:27:54 [info]  ====Failed==== "Value1 of AUT_Attributes_RANGE 7_1003201634310" field is not present'
+Oct 03,2016 16:27:54 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\Value1 of AUT_Attributes_RANGE 7_1003201634310_CheckpointFailure_10-03-2016 4-27-54 PM.jpg
+Oct 03,2016 16:28:04 [info]  ====Failed==== "AM_AttributeValue1_InputField" field is not present'AM_AttributeValue1_InputField'
+Oct 03,2016 16:28:05 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\AM_AttributeValue1_InputField_CheckpointFailure_10-03-2016 4-28-04 PM.jpg
+Oct 03,2016 16:28:15 [info]  ====Failed==== "Save Button at 'Attribute Edit Window'" field is not present'
+Oct 03,2016 16:28:15 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\Save Button at 'Attribute Edit Window'_CheckpointFailure_10-03-2016 4-28-15 PM.jpg
+Oct 03,2016 16:28:18 [info]  
+Oct 03,2016 16:28:18 [info]  Verify The data of Alert Message on Entering Invalid Data for Attribute Value
+Oct 03,2016 16:28:18 [info]  ====Failed==== Expected value is:[Please enter only text for the attribute.] but Actual value is[]. Please check the screenshot with name: Alert Message on Entering Invalid Data for Attribute Valuefor more details
+Oct 03,2016 16:28:19 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\Alert Message on Entering Invalid Data for Attribute Value_CheckpointFailure_10-03-2016 4-28-18 PM.jpg
+Oct 03,2016 16:28:19 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Oct 03,2016 16:28:29 [info]  ====Failed==== " Could not find the Frame: div[id*='WebDialogWindow1'][style*=visible]
+Oct 03,2016 16:28:29 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\FrameSwitchingFailed20_CheckpointFailure_10-03-2016 4-28-29 PM.jpg
+Oct 03,2016 16:28:39 [info]  ====Failed==== " Could not find the Frame: div[id*='WebDialogWindow1'][style*=visible]
+Oct 03,2016 16:28:39 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\FrameSwitchingFailed21_CheckpointFailure_10-03-2016 4-28-39 PM.jpg
+Oct 03,2016 16:28:49 [info]  ====Failed==== "Value1 of AUT_Attributes_RANGE 7_1003201634310" field is not present'
+Oct 03,2016 16:28:50 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\Value1 of AUT_Attributes_RANGE 7_1003201634310_CheckpointFailure_10-03-2016 4-28-49 PM.jpg
+Oct 03,2016 16:29:00 [info]  ====Failed==== "AM_AttributeValue1_InputField" field is not present'AM_AttributeValue1_InputField'
+Oct 03,2016 16:29:00 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\AM_AttributeValue1_InputField_CheckpointFailure_10-03-2016 4-29-00 PM.jpg
+Oct 03,2016 16:29:10 [info]  ====Failed==== "Save Button at 'Attribute Edit Window'" field is not present'
+Oct 03,2016 16:29:10 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\Save Button at 'Attribute Edit Window'_CheckpointFailure_10-03-2016 4-29-10 PM.jpg
+Oct 03,2016 16:29:13 [info]  
+Oct 03,2016 16:29:14 [info]  Verify The data of Alert Message on Entering Invalid Data for Attribute Value
+Oct 03,2016 16:29:14 [info]  ====Failed==== Expected value is:[Please enter only text for the attribute.] but Actual value is[]. Please check the screenshot with name: Alert Message on Entering Invalid Data for Attribute Valuefor more details
+Oct 03,2016 16:29:14 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\Alert Message on Entering Invalid Data for Attribute Value_CheckpointFailure_10-03-2016 4-29-14 PM.jpg
+Oct 03,2016 16:29:14 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Oct 03,2016 16:29:24 [info]  ====Failed==== " Could not find the Frame: div[id*='WebDialogWindow1'][style*=visible]
+Oct 03,2016 16:29:24 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\FrameSwitchingFailed22_CheckpointFailure_10-03-2016 4-29-24 PM.jpg
+Oct 03,2016 16:29:34 [info]  ====Failed==== " Could not find the Frame: div[id*='WebDialogWindow1'][style*=visible]
+Oct 03,2016 16:29:34 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\FrameSwitchingFailed23_CheckpointFailure_10-03-2016 4-29-34 PM.jpg
+Oct 03,2016 16:29:45 [info]  ====Failed==== "Value1 of AUT_Attributes_RANGE 7_1003201634310" field is not present'
+Oct 03,2016 16:29:45 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\Value1 of AUT_Attributes_RANGE 7_1003201634310_CheckpointFailure_10-03-2016 4-29-45 PM.jpg
+Oct 03,2016 16:29:55 [info]  ====Failed==== "AM_AttributeValue1_InputField" field is not present'AM_AttributeValue1_InputField'
+Oct 03,2016 16:29:55 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\AM_AttributeValue1_InputField_CheckpointFailure_10-03-2016 4-29-55 PM.jpg
+Oct 03,2016 16:30:05 [info]  ====Failed==== "Save Button at 'Attribute Edit Window'" field is not present'
+Oct 03,2016 16:30:05 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\Save Button at 'Attribute Edit Window'_CheckpointFailure_10-03-2016 4-30-05 PM.jpg
+Oct 03,2016 16:30:08 [info]  
+Oct 03,2016 16:30:09 [info]  Verify The data of Alert Message on Entering Invalid Data for Attribute Value
+Oct 03,2016 16:30:09 [info]  ====Failed==== Expected value is:[Please enter range values for the attribute.] but Actual value is[]. Please check the screenshot with name: Alert Message on Entering Invalid Data for Attribute Valuefor more details
+Oct 03,2016 16:30:09 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\Alert Message on Entering Invalid Data for Attribute Value_CheckpointFailure_10-03-2016 4-30-09 PM.jpg
+Oct 03,2016 16:30:09 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Oct 03,2016 16:30:19 [info]  ====Failed==== " Could not find the Frame: div[id*='WebDialogWindow1'][style*=visible]
+Oct 03,2016 16:30:19 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\FrameSwitchingFailed24_CheckpointFailure_10-03-2016 4-30-19 PM.jpg
+Oct 03,2016 16:30:23 [info]  
+Oct 03,2016 16:30:26 [info]  
+Oct 03,2016 16:30:36 [info]  ====Failed==== "Value1 of AUT_Attributes_RANGE 2_1003201634310" field is not present'
+Oct 03,2016 16:30:36 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\Value1 of AUT_Attributes_RANGE 2_1003201634310_CheckpointFailure_10-03-2016 4-30-36 PM.jpg
+Oct 03,2016 16:30:46 [info]  ====Failed==== "AM_AttributeValue1_InputField" field is not present'AM_AttributeValue1_InputField'
+Oct 03,2016 16:30:46 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\AM_AttributeValue1_InputField_CheckpointFailure_10-03-2016 4-30-46 PM.jpg
+Oct 03,2016 16:30:56 [info]  ====Failed==== "Select Attribute AUT_Attributes_RANGE 7_1003201634310" field is not present'
+Oct 03,2016 16:30:57 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\Select Attribute AUT_Attributes_RANGE 7_1003201634310_CheckpointFailure_10-03-2016 4-30-56 PM.jpg
+Oct 03,2016 16:30:57 [info]  
+Oct 03,2016 16:31:07 [info]  Verify The data of  Value1 Field of Attribute AUT_Attributes_RANGE 7_1003201634310 in Edit Mode
+Oct 03,2016 16:31:07 [info]  ====Failed==== Expected value is:[RSG] but Actual value is[]. Please check the screenshot with name:  Value1 Field of Attribute AUT_Attributes_RANGE 7_1003201634310 in Edit Modefor more details
+Oct 03,2016 16:31:07 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\ Value1 Field of Attribute AUT_Attributes_RANGE 7_1003201634310 in Edit Mode_CheckpointFailure_10-03-2016 4-31-07 PM.jpg
+Oct 03,2016 16:31:17 [info]  Verify The data of Value1 Field of Attribute AUT_Attributes_RANGE 7_1003201634310 in View Mode
+Oct 03,2016 16:31:17 [info]  ====Failed==== Expected value is:[RSG] but Actual value is[]. Please check the screenshot with name: Value1 Field of Attribute AUT_Attributes_RANGE 7_1003201634310 in View Modefor more details
+Oct 03,2016 16:31:17 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\03\Value1 Field of Attribute AUT_Attributes_RANGE 7_1003201634310 in View Mode_CheckpointFailure_10-03-2016 4-31-17 PM.jpg
+Oct 03,2016 16:31:17 [info]  Test 'TC13_ValueEnter_Range6Attribute' PASSED
+Oct 03,2016 16:31:18 [info]  Closed the Browser

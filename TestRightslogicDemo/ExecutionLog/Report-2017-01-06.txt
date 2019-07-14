@@ -1,0 +1,65 @@
+Jan 06,2017 02:19:09 [info]  ********************Started Executiong the Test Suite at 02:19:09******************
+Jan 06,2017 02:19:09 [info]  Client: VMN
+Jan 06,2017 02:19:09 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Jan 06,2017 02:19:09 [info]  *********************Started Executing 'TC7_DeleteFunctionality' Test Case*********************
+Jan 06,2017 02:19:18 [info]  Client: VMN
+Jan 06,2017 02:19:18 [info]  URL: http://rlv3wb53/login.aspx
+Jan 06,2017 02:19:18 [info]  UserName: admin
+Jan 06,2017 02:19:18 [info]  Password: admin
+Jan 06,2017 02:19:21 [info]  Entered "admin" in field 'User Name'
+Jan 06,2017 02:19:22 [info]  Clicked on the 'Temporary Check Box'
+Jan 06,2017 02:19:22 [info]  Entered "admin" in field 'Password'
+Jan 06,2017 02:19:33 [info]  Clicked on the 'LoginButton'
+Jan 06,2017 02:19:39 [info]  ---------------------------------Started creating pre-requisites------------------------------------------------------------------
+Jan 06,2017 02:20:09 [info]  Could not find the locator: AUT_Deal_TC7_0106201721909Deal'
+Jan 06,2017 02:20:09 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Jan2017\\06\AUT_Deal_TC7_0106201721909Deal_CheckpointFailure_01-06-2017 2-20-09 AM.jpg
+<span style="color:red;">Jan 06,2017 02:20:43 [info]  ====Failed==== "Media Rights TAB" field is not present'</span>
+Jan 06,2017 02:20:43 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Jan2017\\06\Media Rights TAB_CheckpointFailure_01-06-2017 2-20-43 AM.jpg
+<span style="color:red;">Jan 06,2017 02:21:13 [info]  ====Failed==== " Could not find the Frame: div[class*='igtab_Office2007BlueTHContent'][style*=visible]</span>
+<span style="color:red;">Jan 06,2017 02:21:14 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Jan2017\\06\FrameSwitchingFailed0_CheckpointFailure_01-06-2017 2-21-13 AM.jpg</span>
+Jan 06,2017 02:21:14 [info]  Unable to find element with css selector == div[class*='igtab_Office2007BlueTHContent'][style*=visible] (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 30.03 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: '9P4G6BS', ip: '10.10.22.71', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=true, ie.forceCreateProcessApi=false, pageLoadStrategy=normal, ie.usePerProcessProxy=false, ignoreZoomSetting=false, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=false, browserName=internet explorer, initialBrowserUrl=http://localhost:25217/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=false, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: f8a230ed-f0cd-4213-8357-e86b78f4bd57
+*** Element info: {Using=css selector, value=div[class*='igtab_Office2007BlueTHContent'][style*=visible]}
+Jan 06,2017 02:22:45 [info]  Test 'TC7_DeleteFunctionality' FAILED
+Jan 06,2017 02:22:45 [info]  2
+Jan 06,2017 02:22:45 [info]  Test Case :TC7_DeleteFunctionality's Screenshot of Failure Page: C:\Screenshots\Jan2017\\06\TC7_DeleteFunctionality_01-06-2017 2-22-45 AM.jpg
+Jan 06,2017 02:22:46 [info]  Closed the Browser
+Jan 06,2017 18:22:05 [info]  ********************Started Executiong the Test Suite at 18:22:05******************
+Jan 06,2017 18:22:05 [info]  Client: VMN
+Jan 06,2017 18:22:05 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Jan 06,2017 18:22:05 [info]  *********************Started Executing 'TC8_EpisodeUpdateTool' Test Case*********************
+Jan 06,2017 18:22:15 [info]  Client: VMN
+Jan 06,2017 18:22:15 [info]  URL: http://rlv3wb53/login.aspx
+Jan 06,2017 18:22:15 [info]  UserName: admin
+Jan 06,2017 18:22:15 [info]  Password: admin
+Jan 06,2017 18:22:16 [info]  Entered "admin" in field 'User Name'
+Jan 06,2017 18:22:17 [info]  Clicked on the 'Temporary Check Box'
+Jan 06,2017 18:22:17 [info]  Entered "admin" in field 'Password'
+Jan 06,2017 18:22:27 [info]  Clicked on the 'LoginButton'
+Jan 06,2017 18:24:45 [info]  Clicked on the 'Season Field of Episode006' using JS Executor
+<span style="color:red;">Jan 06,2017 18:24:51 [info]  ====Failed==== "Image Drop Down at 'Episode Edit Window'" field is not present'</span>
+Jan 06,2017 18:24:52 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Jan2017\\06\Image Drop Down at 'Episode Edit Window'_CheckpointFailure_01-06-2017 6-24-51 PM.jpg
+<span style="color:red;">Jan 06,2017 18:24:55 [info]  ====Failed==== "Season 2" field is not present'</span>
+Jan 06,2017 18:24:55 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Jan2017\\06\Season 2_CheckpointFailure_01-06-2017 6-24-55 PM.jpg
+Jan 06,2017 18:24:56 [info]  Clicked on the 'Support click to select season'
+Jan 06,2017 18:25:01 [info]  Clicked on the 'Select 1st Row'
+Jan 06,2017 18:25:02 [info]  **********Copy TBA value for all episodes of Season1*********
+<span style="color:red;">Jan 06,2017 18:27:56 [info]  ====Failed==== "TBA Check Box" field is not present'</span>
+Jan 06,2017 18:27:56 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Jan2017\\06\TBA Check Box_CheckpointFailure_01-06-2017 6-27-56 PM.jpg
+Jan 06,2017 18:28:44 [info]  **********Copy TBA value for all episodes of Season1*********
+Jan 06,2017 18:28:45 [info]  Clicked on the 'TBA Check Box'
+Jan 06,2017 18:28:57 [info]  **********Copy TBA value for all episodes of Season1*********
+Jan 06,2017 18:28:58 [info]  Clicked on the 'TBA Check Box'
+Jan 06,2017 18:29:07 [info]  **********Copy TBA value for all episodes of Season1*********
+Jan 06,2017 18:29:08 [info]  Clicked on the 'TBA Check Box' using JS Executor
+Jan 06,2017 18:29:23 [info]  **********Copy TBA value for all episodes of Season1*********
+Jan 06,2017 18:29:23 [info]  Clicked on the 'TBA Check Box'
+Jan 06,2017 18:29:23 [info]  Clicked on the 'Update Tool' using JS Executor
+Jan 06,2017 18:29:23 [info]  ************************Started Creating Asset of Type: Program - Series************************
+Jan 06,2017 18:29:27 [info]  Clicked on the 'MODULE'

@@ -1,0 +1,730 @@
+Feb 01,2017 13:25:41 [info]  ********************Started Executiong the Test Suite at 13:25:41******************
+Feb 01,2017 13:25:41 [info]  Client: AMCN
+Feb 01,2017 13:25:41 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Feb 01,2017 13:25:41 [info]  *********************Started Executing 'TC2_AssetNavigator' Test Case*********************
+Feb 01,2017 13:25:52 [info]  Client: AMCN
+Feb 01,2017 13:25:52 [info]  URL: http://rlv2wb79/login.aspx
+Feb 01,2017 13:25:52 [info]  UserName: admin
+Feb 01,2017 13:25:52 [info]  Password: admin
+Feb 01,2017 13:25:53 [info]  Entered "admin" in field 'User Name'
+Feb 01,2017 13:25:53 [info]  Clicked on the 'Temporary Check Box'
+Feb 01,2017 13:25:54 [info]  Entered "admin" in field 'Password'
+Feb 01,2017 13:26:02 [info]  Clicked on the 'LoginButton'
+Feb 01,2017 13:26:12 [info]  Clicked on the 'MODULE'
+Feb 01,2017 13:26:21 [info]  Clicked on the 'Asset Maintenance'
+Feb 01,2017 13:26:25 [info]  Clicked on the 'Search Menu Icon' using JS Executor
+Feb 01,2017 13:26:25 [info]  Clicked on the 'AssetSearchUnderAsset' using JS Executor
+Feb 01,2017 13:26:38 [info]  Entered "AUT_AssetSeries_0130201742918" in field 'AssetTitle'
+Feb 01,2017 13:26:38 [info]  Clicked on the 'All Check Box' using JS Executor
+Feb 01,2017 13:26:38 [info]  Clicked on the 'Find Button' using JS Executor
+Feb 01,2017 13:27:03 [info]  Moved Mouse over 'First Asset in the Searched Asset'
+Feb 01,2017 13:27:04 [info]  Clicked on the 'First Asset in the Searched Asset'
+Feb 01,2017 13:27:04 [info]  Clicked on the 'First Asset in the Searched Asset'
+Feb 01,2017 13:27:08 [info]  Clicked on the 'View Asset' using JS Executor
+Feb 01,2017 13:27:25 [info]  Verify The data of Created Asset At Home
+<span style="color:green;">Feb 01,2017 13:27:25 [Verification]  Verified that Expected value :[AUT_AssetSeries_0130201742918] is matched with Actual value :[AUT_AssetSeries_0130201742918]</span>
+Feb 01,2017 13:27:26 [info]  Clicked on the 'Navigator' using JS Executor
+Feb 01,2017 13:27:26 [info]  Verify The data of AUT_AssetSeries_0130201742918
+<span style="color:green;">Feb 01,2017 13:27:26 [Verification]  Verified that Expected value :[AUT_AssetSeries_0130201742918] is matched with Actual value :[AUT_AssetSeries_0130201742918]</span>
+Feb 01,2017 13:27:27 [info]  Verify The data of Season 1
+<span style="color:green;">Feb 01,2017 13:27:27 [Verification]  Verified that Expected value :[Season 1] is matched with Actual value :[Season 1]</span>
+Feb 01,2017 13:27:27 [info]  Verify The data of Season 2
+<span style="color:green;">Feb 01,2017 13:27:27 [Verification]  Verified that Expected value :[Season 2] is matched with Actual value :[Season 2]</span>
+Feb 01,2017 13:27:27 [info]  Verify The data of Ep.101: Episode101
+<span style="color:green;">Feb 01,2017 13:27:27 [Verification]  Verified that Expected value :[Ep.101: Episode101] is matched with Actual value :[Ep.101: Episode101]</span>
+Feb 01,2017 13:27:27 [info]  Verify The data of Ep.102: Episode102
+<span style="color:green;">Feb 01,2017 13:27:27 [Verification]  Verified that Expected value :[Ep.102: Episode102] is matched with Actual value :[Ep.102: Episode102]</span>
+Feb 01,2017 13:27:27 [info]  Verify The data of Ep.201: Episode201
+<span style="color:green;">Feb 01,2017 13:27:27 [Verification]  Verified that Expected value :[Ep.201: Episode201] is matched with Actual value :[Ep.201: Episode201]</span>
+Feb 01,2017 13:27:28 [info]  Verify The data of Ep.202: Episode202
+<span style="color:green;">Feb 01,2017 13:27:28 [Verification]  Verified that Expected value :[Ep.202: Episode202] is matched with Actual value :[Ep.202: Episode202]</span>
+Feb 01,2017 13:27:28 [info]  Clicked on the 'Asset Title Navigater'
+Feb 01,2017 13:27:28 [info]  Clicked on the 'Add Season' using JS Executor
+Feb 01,2017 13:27:30 [info]  Verify The data of Applies to
+<span style="color:green;">Feb 01,2017 13:27:30 [Verification]  Verified that Expected value :[Applies to] is matched with Actual value :[Applies to]</span>
+Feb 01,2017 13:27:30 [info]  Verify The data of Season Name
+<span style="color:green;">Feb 01,2017 13:27:30 [Verification]  Verified that Expected value :[Season Name] is matched with Actual value :[Season Name]</span>
+Feb 01,2017 13:27:30 [info]  Verify The data of Season Name
+<span style="color:green;">Feb 01,2017 13:27:30 [Verification]  Verified that Expected value :[Season Name] is matched with Actual value :[Season Name]</span>
+Feb 01,2017 13:27:30 [info]  Verify The data of Save
+<span style="color:green;">Feb 01,2017 13:27:30 [Verification]  Verified that Expected value :[Save] is matched with Actual value :[Save]</span>
+Feb 01,2017 13:27:30 [info]  Verify The data of Cancel
+<span style="color:green;">Feb 01,2017 13:27:30 [Verification]  Verified that Expected value :[Cancel] is matched with Actual value :[Cancel]</span>
+Feb 01,2017 13:27:31 [info]  Verify The data of Appliesto
+<span style="color:green;">Feb 01,2017 13:27:31 [Verification]  Verified that Expected value :[AUT_AssetSeries_0130201742918] is matched with Actual value :[AUT_AssetSeries_0130201742918]</span>
+<span style="color:green;">Feb 01,2017 13:27:31 [Verification]  Verified that Expected value :[User-defined] is matched with Actual value :[User-defined]</span>
+Feb 01,2017 13:27:32 [info]  Selected "Season 3" in "Season Name DropDown" drop down
+Feb 01,2017 13:27:34 [info]  Clicked on the 'Save' using JS Executor
+Feb 01,2017 13:27:37 [info]  Verify The data of AUT_AssetSeries_0130201742918
+<span style="color:green;">Feb 01,2017 13:27:37 [Verification]  Verified that Expected value :[AUT_AssetSeries_0130201742918] is matched with Actual value :[AUT_AssetSeries_0130201742918]</span>
+Feb 01,2017 13:27:37 [info]  Verify The data of Season 1
+<span style="color:green;">Feb 01,2017 13:27:37 [Verification]  Verified that Expected value :[Season 1] is matched with Actual value :[Season 1]</span>
+Feb 01,2017 13:27:37 [info]  Verify The data of Ep.101: Episode101
+<span style="color:green;">Feb 01,2017 13:27:37 [Verification]  Verified that Expected value :[Ep.101: Episode101] is matched with Actual value :[Ep.101: Episode101]</span>
+Feb 01,2017 13:27:38 [info]  Verify The data of Ep.102: Episode102
+<span style="color:green;">Feb 01,2017 13:27:38 [Verification]  Verified that Expected value :[Ep.102: Episode102] is matched with Actual value :[Ep.102: Episode102]</span>
+Feb 01,2017 13:27:38 [info]  Verify The data of Season 2
+<span style="color:green;">Feb 01,2017 13:27:38 [Verification]  Verified that Expected value :[Season 2] is matched with Actual value :[Season 2]</span>
+Feb 01,2017 13:27:38 [info]  Verify The data of Ep.201: Episode201
+<span style="color:green;">Feb 01,2017 13:27:38 [Verification]  Verified that Expected value :[Ep.201: Episode201] is matched with Actual value :[Ep.201: Episode201]</span>
+Feb 01,2017 13:27:38 [info]  Verify The data of Ep.202: Episode202
+<span style="color:green;">Feb 01,2017 13:27:38 [Verification]  Verified that Expected value :[Ep.202: Episode202] is matched with Actual value :[Ep.202: Episode202]</span>
+Feb 01,2017 13:27:40 [info]  Verify The data of Season 3
+<span style="color:green;">Feb 01,2017 13:27:40 [Verification]  Verified that Expected value :[Season 3] is matched with Actual value :[Season 3]</span>
+Feb 01,2017 13:27:41 [info]  Clicked on the 'Add Season'
+Feb 01,2017 13:27:42 [info]  Selected "User-defined" in "Season Name DropDown" drop down
+Feb 01,2017 13:27:43 [info]  Entered "RSG" in field 'Season Name'
+Feb 01,2017 13:27:43 [info]  Clicked on the 'Save' using JS Executor
+Feb 01,2017 13:27:45 [info]  "RSG" is Present
+Feb 01,2017 13:27:45 [info]  Clicked on the 'Ok Button' using JS Executor
+Feb 01,2017 13:27:46 [info]  Clicked on the 'Navigator' using JS Executor
+Feb 01,2017 13:27:54 [info]  Clicked on the 'Add Season'
+Feb 01,2017 13:27:55 [info]  Selected "User-defined" in "Season Name DropDown" drop down
+Feb 01,2017 13:27:56 [info]  Entered "RSG" in field 'Season Name'
+Feb 01,2017 13:27:56 [info]  Clicked on the 'cancel Button' using JS Executor
+Feb 01,2017 13:27:56 [info]  Clicked on the ' Season1'
+<span style="color:red;">Feb 01,2017 13:28:07 [Fail]  ====Failed==== "Add Episode" field is not present'</span>
+Feb 01,2017 13:28:07 [info]  File created C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Feb2017
+Feb 01,2017 13:28:07 [info]  File created C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Feb2017\01
+<span style="color:red;">Feb 01,2017 13:28:17 [Fail]  ====Failed==== " Could not find the Frame: div[id*='WebDialogWindow2'][style*=visible]</span>
+Feb 01,2017 13:28:17 [info]  Unable to find element with css selector == div[id*='WebDialogWindow2'][style*=visible] (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.15 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: '9P4G6BS', ip: '10.10.22.71', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=true, ie.forceCreateProcessApi=false, pageLoadStrategy=normal, ie.usePerProcessProxy=false, ignoreZoomSetting=false, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=false, browserName=internet explorer, initialBrowserUrl=http://localhost:24838/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=false, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: 921b4226-02cd-4666-b168-673db2f75b8e
+*** Element info: {Using=css selector, value=div[id*='WebDialogWindow2'][style*=visible]}
+Feb 01,2017 13:32:28 [info]  ********************Started Executiong the Test Suite at 13:32:28******************
+Feb 01,2017 13:32:28 [info]  Client: AMCN
+Feb 01,2017 13:32:28 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Feb 01,2017 13:32:28 [info]  *********************Started Executing 'TC2_AssetNavigator' Test Case*********************
+Feb 01,2017 13:32:38 [info]  Client: AMCN
+Feb 01,2017 13:32:38 [info]  URL: http://rlv2wb79/login.aspx
+Feb 01,2017 13:32:38 [info]  UserName: admin
+Feb 01,2017 13:32:38 [info]  Password: admin
+Feb 01,2017 13:32:39 [info]  Entered "admin" in field 'User Name'
+Feb 01,2017 13:32:39 [info]  Clicked on the 'Temporary Check Box'
+Feb 01,2017 13:32:40 [info]  Entered "admin" in field 'Password'
+Feb 01,2017 13:32:47 [info]  Clicked on the 'LoginButton'
+Feb 01,2017 13:32:58 [info]  Clicked on the 'MODULE'
+Feb 01,2017 13:33:07 [info]  Clicked on the 'Asset Maintenance'
+Feb 01,2017 13:33:11 [info]  Clicked on the 'Search Menu Icon' using JS Executor
+Feb 01,2017 13:33:11 [info]  Clicked on the 'AssetSearchUnderAsset' using JS Executor
+Feb 01,2017 13:33:23 [info]  Test 'TC2_AssetNavigator' FAILED
+Feb 01,2017 13:33:23 [info]  2
+Feb 01,2017 13:33:23 [info]  File created C:\Screenshots\Feb2017
+Feb 01,2017 13:33:23 [info]  File created C:\Screenshots\Feb2017\01
+Feb 01,2017 13:33:23 [info]  Test Case :TC2_AssetNavigator's Screenshot of Failure Page: C:\Screenshots\Feb2017\\01\TC2_AssetNavigator_02-01-2017 1-33-23 PM.jpg
+Feb 01,2017 13:33:24 [info]  Closed the Browser
+Feb 01,2017 13:34:35 [info]  ********************Started Executiong the Test Suite at 13:34:35******************
+Feb 01,2017 13:34:35 [info]  Client: AMCN
+Feb 01,2017 13:34:35 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Feb 01,2017 13:34:35 [info]  *********************Started Executing 'TC2_AssetNavigator' Test Case*********************
+Feb 01,2017 13:34:44 [info]  Client: AMCN
+Feb 01,2017 13:34:44 [info]  URL: http://rlv2wb79/login.aspx
+Feb 01,2017 13:34:44 [info]  UserName: admin
+Feb 01,2017 13:34:44 [info]  Password: admin
+Feb 01,2017 13:34:45 [info]  Entered "admin" in field 'User Name'
+Feb 01,2017 13:34:46 [info]  Clicked on the 'Temporary Check Box'
+Feb 01,2017 13:34:46 [info]  Entered "admin" in field 'Password'
+Feb 01,2017 13:34:54 [info]  Clicked on the 'LoginButton'
+Feb 01,2017 13:35:04 [info]  Clicked on the 'MODULE'
+Feb 01,2017 13:35:13 [info]  Clicked on the 'Asset Maintenance'
+Feb 01,2017 13:35:16 [info]  Clicked on the 'Search Menu Icon' using JS Executor
+Feb 01,2017 13:35:16 [info]  Clicked on the 'AssetSearchUnderAsset' using JS Executor
+Feb 01,2017 13:35:29 [info]  Entered "AUT_AssetSeries_0130201742918" in field 'AssetTitle'
+Feb 01,2017 13:35:29 [info]  Clicked on the 'All Check Box' using JS Executor
+Feb 01,2017 13:35:29 [info]  Clicked on the 'Find Button' using JS Executor
+Feb 01,2017 13:35:55 [info]  Moved Mouse over 'First Asset in the Searched Asset'
+Feb 01,2017 13:35:56 [info]  Clicked on the 'First Asset in the Searched Asset'
+Feb 01,2017 13:35:56 [info]  Clicked on the 'First Asset in the Searched Asset'
+Feb 01,2017 13:35:59 [info]  Clicked on the 'View Asset' using JS Executor
+Feb 01,2017 13:36:17 [info]  Verify The data of Created Asset At Home
+<span style="color:green;">Feb 01,2017 13:36:17 [Verification]  Verified that Expected value :[AUT_AssetSeries_0130201742918] is matched with Actual value :[AUT_AssetSeries_0130201742918]</span>
+Feb 01,2017 13:36:17 [info]  Clicked on the 'Navigator' using JS Executor
+Feb 01,2017 13:36:18 [info]  Verify The data of AUT_AssetSeries_0130201742918
+<span style="color:green;">Feb 01,2017 13:36:18 [Verification]  Verified that Expected value :[AUT_AssetSeries_0130201742918] is matched with Actual value :[AUT_AssetSeries_0130201742918]</span>
+Feb 01,2017 13:36:18 [info]  Verify The data of Season 1
+<span style="color:green;">Feb 01,2017 13:36:18 [Verification]  Verified that Expected value :[Season 1] is matched with Actual value :[Season 1]</span>
+Feb 01,2017 13:36:18 [info]  Verify The data of Season 2
+<span style="color:green;">Feb 01,2017 13:36:18 [Verification]  Verified that Expected value :[Season 2] is matched with Actual value :[Season 2]</span>
+Feb 01,2017 13:36:18 [info]  Verify The data of Ep.101: Episode101
+<span style="color:green;">Feb 01,2017 13:36:18 [Verification]  Verified that Expected value :[Ep.101: Episode101] is matched with Actual value :[Ep.101: Episode101]</span>
+Feb 01,2017 13:36:19 [info]  Verify The data of Ep.102: Episode102
+<span style="color:green;">Feb 01,2017 13:36:19 [Verification]  Verified that Expected value :[Ep.102: Episode102] is matched with Actual value :[Ep.102: Episode102]</span>
+Feb 01,2017 13:36:19 [info]  Verify The data of Ep.201: Episode201
+<span style="color:green;">Feb 01,2017 13:36:19 [Verification]  Verified that Expected value :[Ep.201: Episode201] is matched with Actual value :[Ep.201: Episode201]</span>
+Feb 01,2017 13:36:19 [info]  Verify The data of Ep.202: Episode202
+<span style="color:green;">Feb 01,2017 13:36:19 [Verification]  Verified that Expected value :[Ep.202: Episode202] is matched with Actual value :[Ep.202: Episode202]</span>
+Feb 01,2017 13:36:19 [info]  Clicked on the 'Asset Title Navigater'
+Feb 01,2017 13:36:19 [info]  Clicked on the 'Add Season' using JS Executor
+Feb 01,2017 13:36:20 [info]  Verify The data of Applies to
+<span style="color:green;">Feb 01,2017 13:36:20 [Verification]  Verified that Expected value :[Applies to] is matched with Actual value :[Applies to]</span>
+Feb 01,2017 13:36:20 [info]  Verify The data of Season Name
+<span style="color:green;">Feb 01,2017 13:36:20 [Verification]  Verified that Expected value :[Season Name] is matched with Actual value :[Season Name]</span>
+Feb 01,2017 13:36:20 [info]  Verify The data of Season Name
+<span style="color:green;">Feb 01,2017 13:36:20 [Verification]  Verified that Expected value :[Season Name] is matched with Actual value :[Season Name]</span>
+Feb 01,2017 13:36:20 [info]  Verify The data of Save
+<span style="color:green;">Feb 01,2017 13:36:20 [Verification]  Verified that Expected value :[Save] is matched with Actual value :[Save]</span>
+Feb 01,2017 13:36:20 [info]  Verify The data of Cancel
+<span style="color:green;">Feb 01,2017 13:36:20 [Verification]  Verified that Expected value :[Cancel] is matched with Actual value :[Cancel]</span>
+Feb 01,2017 13:36:21 [info]  Verify The data of Appliesto
+<span style="color:green;">Feb 01,2017 13:36:21 [Verification]  Verified that Expected value :[AUT_AssetSeries_0130201742918] is matched with Actual value :[AUT_AssetSeries_0130201742918]</span>
+<span style="color:green;">Feb 01,2017 13:36:21 [Verification]  Verified that Expected value :[User-defined] is matched with Actual value :[User-defined]</span>
+Feb 01,2017 13:36:22 [info]  Selected "Season 3" in "Season Name DropDown" drop down
+Feb 01,2017 13:36:24 [info]  Clicked on the 'Save' using JS Executor
+Feb 01,2017 13:36:27 [info]  Verify The data of AUT_AssetSeries_0130201742918
+<span style="color:green;">Feb 01,2017 13:36:27 [Verification]  Verified that Expected value :[AUT_AssetSeries_0130201742918] is matched with Actual value :[AUT_AssetSeries_0130201742918]</span>
+Feb 01,2017 13:36:28 [info]  Verify The data of Season 1
+<span style="color:green;">Feb 01,2017 13:36:28 [Verification]  Verified that Expected value :[Season 1] is matched with Actual value :[Season 1]</span>
+Feb 01,2017 13:36:28 [info]  Verify The data of Ep.101: Episode101
+<span style="color:green;">Feb 01,2017 13:36:28 [Verification]  Verified that Expected value :[Ep.101: Episode101] is matched with Actual value :[Ep.101: Episode101]</span>
+Feb 01,2017 13:36:28 [info]  Verify The data of Ep.102: Episode102
+<span style="color:green;">Feb 01,2017 13:36:28 [Verification]  Verified that Expected value :[Ep.102: Episode102] is matched with Actual value :[Ep.102: Episode102]</span>
+Feb 01,2017 13:36:28 [info]  Verify The data of Season 2
+<span style="color:green;">Feb 01,2017 13:36:28 [Verification]  Verified that Expected value :[Season 2] is matched with Actual value :[Season 2]</span>
+Feb 01,2017 13:36:28 [info]  Verify The data of Ep.201: Episode201
+<span style="color:green;">Feb 01,2017 13:36:28 [Verification]  Verified that Expected value :[Ep.201: Episode201] is matched with Actual value :[Ep.201: Episode201]</span>
+Feb 01,2017 13:36:28 [info]  Verify The data of Ep.202: Episode202
+<span style="color:green;">Feb 01,2017 13:36:28 [Verification]  Verified that Expected value :[Ep.202: Episode202] is matched with Actual value :[Ep.202: Episode202]</span>
+Feb 01,2017 13:36:30 [info]  Verify The data of Season 3
+<span style="color:green;">Feb 01,2017 13:36:30 [Verification]  Verified that Expected value :[Season 3] is matched with Actual value :[Season 3]</span>
+Feb 01,2017 13:36:32 [info]  Clicked on the 'Add Season'
+Feb 01,2017 13:36:32 [info]  Selected "User-defined" in "Season Name DropDown" drop down
+Feb 01,2017 13:36:33 [info]  Entered "RSG" in field 'Season Name'
+Feb 01,2017 13:36:33 [info]  Clicked on the 'Save' using JS Executor
+Feb 01,2017 13:36:36 [info]  "RSG" is Present
+Feb 01,2017 13:36:36 [info]  Clicked on the 'Ok Button' using JS Executor
+Feb 01,2017 13:36:36 [info]  Clicked on the 'Navigator' using JS Executor
+Feb 01,2017 13:36:45 [info]  Clicked on the 'Add Season'
+Feb 01,2017 13:36:45 [info]  Selected "User-defined" in "Season Name DropDown" drop down
+Feb 01,2017 13:36:46 [info]  Entered "RSG" in field 'Season Name'
+Feb 01,2017 13:36:46 [info]  Clicked on the 'cancel Button' using JS Executor
+Feb 01,2017 13:36:47 [info]  Clicked on the ' Season1'
+Feb 01,2017 13:36:47 [info]  Clicked on the 'Add Episode'
+Feb 01,2017 13:36:48 [info]  Verify The data of Applies to
+<span style="color:green;">Feb 01,2017 13:36:48 [Verification]  Verified that Expected value :[Applies to] is matched with Actual value :[Applies to]</span>
+Feb 01,2017 13:36:48 [info]  Verify The data of Episode Name
+<span style="color:green;">Feb 01,2017 13:36:48 [Verification]  Verified that Expected value :[Episode Name] is matched with Actual value :[Episode Name]</span>
+Feb 01,2017 13:36:48 [info]  Verify The data of Episode Number
+<span style="color:green;">Feb 01,2017 13:36:48 [Verification]  Verified that Expected value :[Episode Number] is matched with Actual value :[Episode Number]</span>
+Feb 01,2017 13:36:48 [info]  Verify The data of Initial Air Date
+<span style="color:green;">Feb 01,2017 13:36:48 [Verification]  Verified that Expected value :[Initial Air Date] is matched with Actual value :[Initial Air Date]</span>
+Feb 01,2017 13:36:48 [info]  Verify The data of Save
+<span style="color:green;">Feb 01,2017 13:36:48 [Verification]  Verified that Expected value :[Save] is matched with Actual value :[Save]</span>
+Feb 01,2017 13:36:49 [info]  Verify The data of Cancel
+<span style="color:green;">Feb 01,2017 13:36:49 [Verification]  Verified that Expected value :[Cancel] is matched with Actual value :[Cancel]</span>
+Feb 01,2017 13:36:49 [info]  Clicked on the 'Cencel Button' using JS Executor
+Feb 01,2017 13:36:50 [info]  Clicked on the 'Add Episode'
+Feb 01,2017 13:36:51 [info]  Clicked on the 'Save' using JS Executor
+Feb 01,2017 13:36:51 [info]  Verify The data of Alert Msg
+<span style="color:green;">Feb 01,2017 13:36:51 [Verification]  Verified that Expected value :[Please enter Episode Name] is matched with Actual value :[Please enter Episode Name]</span>
+Feb 01,2017 13:36:53 [info]  Clicked on the 'Alert Ok Button' using JS Executor
+Feb 01,2017 13:36:53 [info]  Entered "Episode103" in field 'Episode'
+Feb 01,2017 13:36:53 [info]  Clicked on the 'Save' using JS Executor
+Feb 01,2017 13:36:54 [info]  Verify The data of Alert Msg
+<span style="color:green;">Feb 01,2017 13:36:54 [Verification]  Verified that Expected value :[Please enter value for Episode Number] is matched with Actual value :[Please enter value for Episode Number]</span>
+Feb 01,2017 13:36:55 [info]  Clicked on the 'Alert Ok Button' using JS Executor
+Feb 01,2017 13:36:56 [info]  Entered "103" in field 'Episode Number Input'
+Feb 01,2017 13:36:56 [info]  Entered "12/01/2013" in field 'Initial Air Date Input'
+Feb 01,2017 13:36:56 [info]  Clicked on the 'Save' using JS Executor
+Feb 01,2017 13:36:59 [info]  Verify The data of Added Episode
+<span style="color:green;">Feb 01,2017 13:36:59 [Verification]  Verified that Expected value :[Ep.103: Episode103] is matched with Actual value :[Ep.103: Episode103]</span>
+Feb 01,2017 13:37:01 [info]  Entered "Episode103" in field 'Episode NameInput'
+Feb 01,2017 13:37:02 [info]  Entered "103" in field 'Episode Number Input'
+Feb 01,2017 13:37:02 [info]  Clicked on the 'Save' using JS Executor
+Feb 01,2017 13:37:09 [info]  Clicked on the 'Cancel Button' using JS Executor
+Feb 01,2017 13:37:10 [info]  Clicked on the 'Episode103'
+<span style="color:red;">Feb 01,2017 13:37:20 [Fail]  ====Failed==== "Edit Season" field is not present'</span>
+<span style="color:red;">Feb 01,2017 13:37:31 [Fail]  ====Failed==== " Could not find the Frame: div[id*='WebDialogWindow2'][style*=visible]</span>
+Feb 01,2017 13:37:31 [info]  Unable to find element with css selector == div[id*='WebDialogWindow2'][style*=visible] (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.27 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: '9P4G6BS', ip: '10.10.22.71', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=true, ie.forceCreateProcessApi=false, pageLoadStrategy=normal, ie.usePerProcessProxy=false, ignoreZoomSetting=false, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=false, browserName=internet explorer, initialBrowserUrl=http://localhost:39826/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=false, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: 6c45991d-9e6f-40e7-a2e8-7a2b3c6aa4cf
+*** Element info: {Using=css selector, value=div[id*='WebDialogWindow2'][style*=visible]}
+<span style="color:red;">Feb 01,2017 13:37:41 [Fail]  ====Failed==== "Cancel Button" field is not present'</span>
+Feb 01,2017 13:37:43 [info]  Clicked on the 'Edit Episode'
+Feb 01,2017 13:37:44 [info]  Entered "Episode104" in field 'Episode NameInput'
+Feb 01,2017 13:37:44 [info]  Entered "104" in field 'Episode Number Input'
+Feb 01,2017 13:37:44 [info]  Entered "12/02/2013" in field 'Initial Air Date Input'
+Feb 01,2017 13:37:45 [info]  Clicked on the 'Save' using JS Executor
+Feb 01,2017 13:37:50 [info]  Clicked on the 'Delete Episode '
+Feb 01,2017 13:37:50 [info]  Clicked on the 'OKButton' using JS Executor
+Feb 01,2017 13:38:06 [info]  "Episode104" is disable or not Present
+Feb 01,2017 13:38:09 [info]  Clicked on the 'Edit'
+Feb 01,2017 13:38:09 [info]  Clicked on the 'Add Button' using JS Executor
+Feb 01,2017 13:38:10 [info]  Entered "1-5" in field 'Enetr Episode'
+Feb 01,2017 13:38:11 [info]  Clicked on the 'Ok Button' using JS Executor
+Feb 01,2017 13:38:16 [info]  Clicked on the 'Season Field of Episode001' using JS Executor
+Feb 01,2017 13:38:16 [info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Feb 01,2017 13:38:17 [info]  Clicked on the 'Season 1'
+Feb 01,2017 13:38:17 [info]  Clicked on the 'Support click to select season'
+Feb 01,2017 13:38:18 [info]  Clicked on the 'Save' using JS Executor
+Feb 01,2017 13:38:26 [info]  Verify The data of Episode001
+<span style="color:green;">Feb 01,2017 13:38:26 [Verification]  Verified that Expected value :[Episode001] is matched with Actual value :[Episode001]</span>
+Feb 01,2017 13:38:26 [info]  Verify The data of Episode002
+<span style="color:green;">Feb 01,2017 13:38:26 [Verification]  Verified that Expected value :[Episode002] is matched with Actual value :[Episode002]</span>
+Feb 01,2017 13:38:26 [info]  Verify The data of Episode003
+<span style="color:green;">Feb 01,2017 13:38:26 [Verification]  Verified that Expected value :[Episode003] is matched with Actual value :[Episode003]</span>
+Feb 01,2017 13:38:26 [info]  Verify The data of Episode004
+<span style="color:green;">Feb 01,2017 13:38:26 [Verification]  Verified that Expected value :[Episode004] is matched with Actual value :[Episode004]</span>
+Feb 01,2017 13:38:26 [info]  Verify The data of Episode005
+<span style="color:green;">Feb 01,2017 13:38:26 [Verification]  Verified that Expected value :[Episode005] is matched with Actual value :[Episode005]</span>
+Feb 01,2017 13:38:27 [info]  Verify The data of Validation Msg
+<span style="color:green;">Feb 01,2017 13:38:27 [Verification]  Verified that Expected value :[Changes have been saved successfully] is matched with Actual value :[Changes have been saved successfully]</span>
+Feb 01,2017 13:38:27 [info]  Clicked on the 'Window Close' using JS Executor
+Feb 01,2017 13:38:30 [info]  Clicked on the 'Add Edit Episode'
+Feb 01,2017 13:38:31 [info]  Clicked on the 'Delete Button' using JS Executor
+Feb 01,2017 13:38:31 [info]  Verify The data of Alert Msg
+<span style="color:green;">Feb 01,2017 13:38:31 [Verification]  Verified that Expected value :[Please select an episode before clicking on Delete button.] is matched with Actual value :[Please select an episode before clicking on Delete button.]</span>
+Feb 01,2017 13:38:32 [info]  Clicked on the 'Alert Ok Button' using JS Executor
+Feb 01,2017 13:38:33 [info]  Clicked on the 'Select Episode005' using JS Executor
+Feb 01,2017 13:38:33 [info]  Clicked on the 'Delete Button' using JS Executor
+Feb 01,2017 13:38:34 [info]  Clicked on the 'OKButton' using JS Executor
+Feb 01,2017 13:38:42 [info]  Clicked on the 'Save' using JS Executor
+Feb 01,2017 13:38:53 [info]  Verify The data of Episode001
+<span style="color:green;">Feb 01,2017 13:38:53 [Verification]  Verified that Expected value :[Episode001] is matched with Actual value :[Episode001]</span>
+Feb 01,2017 13:38:53 [info]  Verify The data of Episode002
+<span style="color:green;">Feb 01,2017 13:38:53 [Verification]  Verified that Expected value :[Episode002] is matched with Actual value :[Episode002]</span>
+Feb 01,2017 13:38:53 [info]  Verify The data of Episode003
+<span style="color:green;">Feb 01,2017 13:38:53 [Verification]  Verified that Expected value :[Episode003] is matched with Actual value :[Episode003]</span>
+Feb 01,2017 13:38:53 [info]  Verify The data of Episode004
+<span style="color:green;">Feb 01,2017 13:38:53 [Verification]  Verified that Expected value :[Episode004] is matched with Actual value :[Episode004]</span>
+Feb 01,2017 13:38:53 [info]  Verify The data of Validation Msg
+<span style="color:green;">Feb 01,2017 13:38:53 [Verification]  Verified that Expected value :[Changes have been saved successfully] is matched with Actual value :[Changes have been saved successfully]</span>
+Feb 01,2017 13:38:53 [info]  Clicked on the 'Window Close' using JS Executor
+Feb 01,2017 13:39:09 [info]  "Episode005" is disable or not Present
+Feb 01,2017 13:39:12 [info]  Entered "AAA" in field 'Season NameInput'
+Feb 01,2017 13:39:12 [info]  Entered "111" in field 'Episode Number Input'
+Feb 01,2017 13:39:12 [info]  Clicked on the 'Save' using JS Executor
+Feb 01,2017 13:39:17 [info]  Verify The data of Ep.111: AAA
+<span style="color:green;">Feb 01,2017 13:39:17 [Verification]  Verified that Expected value :[Ep.111: AAA] is matched with Actual value :[Ep.111: AAA]</span>
+Feb 01,2017 13:39:18 [info]  Clicked on the ' Season1'
+<span style="color:red;">Feb 01,2017 13:39:28 [Fail]  ====Failed==== "Edit Season Img" field is not present'</span>
+<span style="color:red;">Feb 01,2017 13:39:38 [Fail]  ====Failed==== " Could not find the Frame: div[id*='WebDialogWindow2'][style*=visible]</span>
+Feb 01,2017 13:39:38 [info]  Unable to find element with css selector == div[id*='WebDialogWindow2'][style*=visible] (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.27 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: '9P4G6BS', ip: '10.10.22.71', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=true, ie.forceCreateProcessApi=false, pageLoadStrategy=normal, ie.usePerProcessProxy=false, ignoreZoomSetting=false, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=false, browserName=internet explorer, initialBrowserUrl=http://localhost:39826/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=false, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: 6c45991d-9e6f-40e7-a2e8-7a2b3c6aa4cf
+*** Element info: {Using=css selector, value=div[id*='WebDialogWindow2'][style*=visible]}
+Feb 01,2017 13:41:14 [info]  Test 'TC2_AssetNavigator' FAILED
+Feb 01,2017 13:41:14 [info]  2
+Feb 01,2017 13:41:14 [info]  Test Case :TC2_AssetNavigator's Screenshot of Failure Page: C:\Screenshots\Feb2017\\01\TC2_AssetNavigator_02-01-2017 1-41-14 PM.jpg
+Feb 01,2017 13:41:16 [info]  Closed the Browser
+Feb 01,2017 13:50:14 [info]  ********************Started Executiong the Test Suite at 13:50:14******************
+Feb 01,2017 13:50:14 [info]  Client: AMCN
+Feb 01,2017 13:50:14 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Feb 01,2017 13:50:14 [info]  *********************Started Executing 'TC2_AssetNavigator' Test Case*********************
+Feb 01,2017 13:50:24 [info]  Client: AMCN
+Feb 01,2017 13:50:24 [info]  URL: http://rlv2wb79/login.aspx
+Feb 01,2017 13:50:24 [info]  UserName: admin
+Feb 01,2017 13:50:24 [info]  Password: admin
+Feb 01,2017 13:50:26 [info]  Entered "admin" in field 'User Name'
+Feb 01,2017 13:50:26 [info]  Clicked on the 'Temporary Check Box'
+Feb 01,2017 13:50:26 [info]  Entered "admin" in field 'Password'
+Feb 01,2017 13:50:34 [info]  Clicked on the 'LoginButton'
+Feb 01,2017 13:50:44 [info]  Clicked on the 'MODULE'
+Feb 01,2017 13:50:53 [info]  Clicked on the 'Asset Maintenance'
+Feb 01,2017 13:50:57 [info]  Clicked on the 'Search Menu Icon' using JS Executor
+Feb 01,2017 13:50:58 [info]  Clicked on the 'AssetSearchUnderAsset' using JS Executor
+Feb 01,2017 13:51:14 [info]  Entered "AUT_AssetSeries_0130201742918" in field 'AssetTitle'
+Feb 01,2017 13:51:15 [info]  Clicked on the 'All Check Box' using JS Executor
+Feb 01,2017 13:51:15 [info]  Clicked on the 'Find Button' using JS Executor
+Feb 01,2017 13:51:42 [info]  Moved Mouse over 'First Asset in the Searched Asset'
+Feb 01,2017 13:51:43 [info]  Clicked on the 'First Asset in the Searched Asset'
+Feb 01,2017 13:51:44 [info]  Clicked on the 'First Asset in the Searched Asset'
+Feb 01,2017 13:51:47 [info]  Clicked on the 'View Asset' using JS Executor
+Feb 01,2017 13:52:05 [info]  Verify The data of Created Asset At Home
+<span style="color:green;">Feb 01,2017 13:52:05 [Verification]  Verified that Expected value :[AUT_AssetSeries_0130201742918] is matched with Actual value :[AUT_AssetSeries_0130201742918]</span>
+Feb 01,2017 13:52:05 [info]  Clicked on the 'Navigator' using JS Executor
+Feb 01,2017 13:52:06 [info]  Verify The data of AUT_AssetSeries_0130201742918
+<span style="color:green;">Feb 01,2017 13:52:06 [Verification]  Verified that Expected value :[AUT_AssetSeries_0130201742918] is matched with Actual value :[AUT_AssetSeries_0130201742918]</span>
+Feb 01,2017 13:52:06 [info]  Verify The data of Season 1
+<span style="color:green;">Feb 01,2017 13:52:06 [Verification]  Verified that Expected value :[Season 1] is matched with Actual value :[Season 1]</span>
+Feb 01,2017 13:52:06 [info]  Verify The data of Season 2
+<span style="color:green;">Feb 01,2017 13:52:06 [Verification]  Verified that Expected value :[Season 2] is matched with Actual value :[Season 2]</span>
+Feb 01,2017 13:52:06 [info]  Verify The data of Ep.101: Episode101
+<span style="color:green;">Feb 01,2017 13:52:06 [Verification]  Verified that Expected value :[Ep.101: Episode101] is matched with Actual value :[Ep.101: Episode101]</span>
+Feb 01,2017 13:52:06 [info]  Verify The data of Ep.102: Episode102
+<span style="color:green;">Feb 01,2017 13:52:06 [Verification]  Verified that Expected value :[Ep.102: Episode102] is matched with Actual value :[Ep.102: Episode102]</span>
+Feb 01,2017 13:52:07 [info]  Verify The data of Ep.201: Episode201
+<span style="color:green;">Feb 01,2017 13:52:07 [Verification]  Verified that Expected value :[Ep.201: Episode201] is matched with Actual value :[Ep.201: Episode201]</span>
+Feb 01,2017 13:52:07 [info]  Verify The data of Ep.202: Episode202
+<span style="color:green;">Feb 01,2017 13:52:07 [Verification]  Verified that Expected value :[Ep.202: Episode202] is matched with Actual value :[Ep.202: Episode202]</span>
+Feb 01,2017 13:52:07 [info]  Clicked on the 'Asset Title Navigater'
+Feb 01,2017 13:52:08 [info]  Clicked on the 'Add Season' using JS Executor
+Feb 01,2017 13:52:08 [info]  Verify The data of Applies to
+<span style="color:green;">Feb 01,2017 13:52:08 [Verification]  Verified that Expected value :[Applies to] is matched with Actual value :[Applies to]</span>
+Feb 01,2017 13:52:08 [info]  Verify The data of Season Name
+<span style="color:green;">Feb 01,2017 13:52:08 [Verification]  Verified that Expected value :[Season Name] is matched with Actual value :[Season Name]</span>
+Feb 01,2017 13:52:09 [info]  Verify The data of Season Name
+<span style="color:green;">Feb 01,2017 13:52:09 [Verification]  Verified that Expected value :[Season Name] is matched with Actual value :[Season Name]</span>
+Feb 01,2017 13:52:09 [info]  Verify The data of Save
+<span style="color:green;">Feb 01,2017 13:52:09 [Verification]  Verified that Expected value :[Save] is matched with Actual value :[Save]</span>
+Feb 01,2017 13:52:09 [info]  Verify The data of Cancel
+<span style="color:green;">Feb 01,2017 13:52:09 [Verification]  Verified that Expected value :[Cancel] is matched with Actual value :[Cancel]</span>
+Feb 01,2017 13:52:09 [info]  Verify The data of Appliesto
+<span style="color:green;">Feb 01,2017 13:52:09 [Verification]  Verified that Expected value :[AUT_AssetSeries_0130201742918] is matched with Actual value :[AUT_AssetSeries_0130201742918]</span>
+<span style="color:green;">Feb 01,2017 13:52:09 [Verification]  Verified that Expected value :[User-defined] is matched with Actual value :[User-defined]</span>
+Feb 01,2017 13:52:10 [info]  Selected "Season 3" in "Season Name DropDown" drop down
+Feb 01,2017 13:52:12 [info]  Clicked on the 'Save' using JS Executor
+Feb 01,2017 13:52:16 [info]  Verify The data of AUT_AssetSeries_0130201742918
+<span style="color:green;">Feb 01,2017 13:52:16 [Verification]  Verified that Expected value :[AUT_AssetSeries_0130201742918] is matched with Actual value :[AUT_AssetSeries_0130201742918]</span>
+Feb 01,2017 13:52:17 [info]  Verify The data of Season 1
+<span style="color:green;">Feb 01,2017 13:52:17 [Verification]  Verified that Expected value :[Season 1] is matched with Actual value :[Season 1]</span>
+Feb 01,2017 13:52:17 [info]  Verify The data of Ep.101: Episode101
+<span style="color:green;">Feb 01,2017 13:52:17 [Verification]  Verified that Expected value :[Ep.101: Episode101] is matched with Actual value :[Ep.101: Episode101]</span>
+Feb 01,2017 13:52:18 [info]  Verify The data of Ep.102: Episode102
+<span style="color:green;">Feb 01,2017 13:52:18 [Verification]  Verified that Expected value :[Ep.102: Episode102] is matched with Actual value :[Ep.102: Episode102]</span>
+Feb 01,2017 13:52:18 [info]  Verify The data of Season 2
+<span style="color:green;">Feb 01,2017 13:52:18 [Verification]  Verified that Expected value :[Season 2] is matched with Actual value :[Season 2]</span>
+Feb 01,2017 13:52:18 [info]  Verify The data of Ep.201: Episode201
+<span style="color:green;">Feb 01,2017 13:52:18 [Verification]  Verified that Expected value :[Ep.201: Episode201] is matched with Actual value :[Ep.201: Episode201]</span>
+Feb 01,2017 13:52:18 [info]  Verify The data of Ep.202: Episode202
+<span style="color:green;">Feb 01,2017 13:52:18 [Verification]  Verified that Expected value :[Ep.202: Episode202] is matched with Actual value :[Ep.202: Episode202]</span>
+Feb 01,2017 13:52:21 [info]  Verify The data of Season 3
+<span style="color:green;">Feb 01,2017 13:52:21 [Verification]  Verified that Expected value :[Season 3] is matched with Actual value :[Season 3]</span>
+Feb 01,2017 13:52:23 [info]  Clicked on the 'Add Season'
+Feb 01,2017 13:52:23 [info]  Selected "User-defined" in "Season Name DropDown" drop down
+Feb 01,2017 13:52:24 [info]  Entered "RSG" in field 'Season Name'
+Feb 01,2017 13:52:24 [info]  Clicked on the 'Save' using JS Executor
+Feb 01,2017 13:52:27 [info]  "RSG" is Present
+Feb 01,2017 13:52:27 [info]  Clicked on the 'Ok Button' using JS Executor
+Feb 01,2017 13:52:27 [info]  Clicked on the 'Navigator' using JS Executor
+Feb 01,2017 13:52:36 [info]  Clicked on the 'Add Season'
+Feb 01,2017 13:52:37 [info]  Selected "User-defined" in "Season Name DropDown" drop down
+Feb 01,2017 13:52:37 [info]  Entered "RSG" in field 'Season Name'
+Feb 01,2017 13:52:38 [info]  Clicked on the 'cancel Button' using JS Executor
+Feb 01,2017 13:52:39 [info]  Clicked on the ' Season1'
+Feb 01,2017 13:52:39 [info]  Clicked on the 'Add Episode'
+Feb 01,2017 13:52:40 [info]  Verify The data of Applies to
+<span style="color:green;">Feb 01,2017 13:52:40 [Verification]  Verified that Expected value :[Applies to] is matched with Actual value :[Applies to]</span>
+Feb 01,2017 13:52:40 [info]  Verify The data of Episode Name
+<span style="color:green;">Feb 01,2017 13:52:40 [Verification]  Verified that Expected value :[Episode Name] is matched with Actual value :[Episode Name]</span>
+Feb 01,2017 13:52:40 [info]  Verify The data of Episode Number
+<span style="color:green;">Feb 01,2017 13:52:40 [Verification]  Verified that Expected value :[Episode Number] is matched with Actual value :[Episode Number]</span>
+Feb 01,2017 13:52:40 [info]  Verify The data of Initial Air Date
+<span style="color:green;">Feb 01,2017 13:52:40 [Verification]  Verified that Expected value :[Initial Air Date] is matched with Actual value :[Initial Air Date]</span>
+Feb 01,2017 13:52:40 [info]  Verify The data of Save
+<span style="color:green;">Feb 01,2017 13:52:40 [Verification]  Verified that Expected value :[Save] is matched with Actual value :[Save]</span>
+Feb 01,2017 13:52:41 [info]  Verify The data of Cancel
+<span style="color:green;">Feb 01,2017 13:52:41 [Verification]  Verified that Expected value :[Cancel] is matched with Actual value :[Cancel]</span>
+Feb 01,2017 13:52:41 [info]  Clicked on the 'Cencel Button' using JS Executor
+Feb 01,2017 13:52:43 [info]  Clicked on the 'Add Episode'
+Feb 01,2017 13:52:43 [info]  Clicked on the 'Save' using JS Executor
+Feb 01,2017 13:52:44 [info]  Verify The data of Alert Msg
+<span style="color:green;">Feb 01,2017 13:52:44 [Verification]  Verified that Expected value :[Please enter Episode Name] is matched with Actual value :[Please enter Episode Name]</span>
+Feb 01,2017 13:52:45 [info]  Clicked on the 'Alert Ok Button' using JS Executor
+Feb 01,2017 13:52:46 [info]  Entered "Episode103" in field 'Episode'
+Feb 01,2017 13:52:46 [info]  Clicked on the 'Save' using JS Executor
+Feb 01,2017 13:52:46 [info]  Verify The data of Alert Msg
+<span style="color:green;">Feb 01,2017 13:52:46 [Verification]  Verified that Expected value :[Please enter value for Episode Number] is matched with Actual value :[Please enter value for Episode Number]</span>
+Feb 01,2017 13:52:48 [info]  Clicked on the 'Alert Ok Button' using JS Executor
+Feb 01,2017 13:52:48 [info]  Entered "103" in field 'Episode Number Input'
+Feb 01,2017 13:52:49 [info]  Entered "12/01/2013" in field 'Initial Air Date Input'
+Feb 01,2017 13:52:49 [info]  Clicked on the 'Save' using JS Executor
+Feb 01,2017 13:52:51 [info]  Verify The data of Added Episode
+<span style="color:green;">Feb 01,2017 13:52:51 [Verification]  Verified that Expected value :[Ep.103: Episode103] is matched with Actual value :[Ep.103: Episode103]</span>
+Feb 01,2017 13:52:53 [info]  Entered "Episode103" in field 'Episode NameInput'
+Feb 01,2017 13:52:54 [info]  Entered "103" in field 'Episode Number Input'
+Feb 01,2017 13:52:54 [info]  Clicked on the 'Save' using JS Executor
+Feb 01,2017 13:53:01 [info]  Clicked on the 'Cancel Button' using JS Executor
+Feb 01,2017 13:53:02 [info]  Clicked on the 'Episode103'
+Feb 01,2017 13:53:03 [info]  Clicked on the 'Edit Season Img'
+Feb 01,2017 13:53:03 [info]  Clicked on the 'Cancel Button' using JS Executor
+Feb 01,2017 13:53:05 [info]  Clicked on the 'Edit Episode'
+Feb 01,2017 13:53:06 [info]  Entered "Episode104" in field 'Episode NameInput'
+Feb 01,2017 13:53:06 [info]  Entered "104" in field 'Episode Number Input'
+Feb 01,2017 13:53:07 [info]  Entered "12/02/2013" in field 'Initial Air Date Input'
+Feb 01,2017 13:53:07 [info]  Clicked on the 'Save' using JS Executor
+Feb 01,2017 13:53:10 [info]  Clicked on the 'Delete Episode '
+Feb 01,2017 13:53:11 [info]  Clicked on the 'OKButton' using JS Executor
+Feb 01,2017 13:53:26 [info]  "Episode104" is disable or not Present
+Feb 01,2017 13:53:28 [info]  Clicked on the 'Edit'
+Feb 01,2017 13:53:29 [info]  Clicked on the 'Add Button' using JS Executor
+Feb 01,2017 13:53:30 [info]  Entered "1-5" in field 'Enetr Episode'
+Feb 01,2017 13:53:30 [info]  Clicked on the 'Ok Button' using JS Executor
+Feb 01,2017 13:53:35 [info]  Clicked on the 'Season Field of Episode001' using JS Executor
+Feb 01,2017 13:53:36 [info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Feb 01,2017 13:53:36 [info]  Clicked on the 'Season 1'
+Feb 01,2017 13:53:37 [info]  Clicked on the 'Support click to select season'
+Feb 01,2017 13:53:37 [info]  Clicked on the 'Save' using JS Executor
+Feb 01,2017 13:53:45 [info]  Verify The data of Episode001
+<span style="color:green;">Feb 01,2017 13:53:45 [Verification]  Verified that Expected value :[Episode001] is matched with Actual value :[Episode001]</span>
+Feb 01,2017 13:53:46 [info]  Verify The data of Episode002
+<span style="color:red;">Feb 01,2017 13:53:46 [Fail]  ====Failed==== Expected value is:[Episode002] but Actual value is[Episode001]. Please check the screenshot with name: Episode002for more details</span>
+Feb 01,2017 13:53:46 [info]  Verify The data of Episode003
+<span style="color:red;">Feb 01,2017 13:53:46 [Fail]  ====Failed==== Expected value is:[Episode003] but Actual value is[Episode002]. Please check the screenshot with name: Episode003for more details</span>
+Feb 01,2017 13:53:46 [info]  Verify The data of Episode004
+<span style="color:red;">Feb 01,2017 13:53:46 [Fail]  ====Failed==== Expected value is:[Episode004] but Actual value is[Episode002]. Please check the screenshot with name: Episode004for more details</span>
+Feb 01,2017 13:53:47 [info]  Verify The data of Episode005
+<span style="color:red;">Feb 01,2017 13:53:47 [Fail]  ====Failed==== Expected value is:[Episode005] but Actual value is[Episode003]. Please check the screenshot with name: Episode005for more details</span>
+Feb 01,2017 13:53:47 [info]  Verify The data of Validation Msg
+<span style="color:green;">Feb 01,2017 13:53:47 [Verification]  Verified that Expected value :[Changes have been saved successfully] is matched with Actual value :[Changes have been saved successfully]</span>
+Feb 01,2017 13:53:47 [info]  Clicked on the 'Window Close' using JS Executor
+Feb 01,2017 13:53:50 [info]  Clicked on the 'Add Edit Episode'
+Feb 01,2017 13:53:51 [info]  Clicked on the 'Delete Button' using JS Executor
+Feb 01,2017 13:53:51 [info]  Verify The data of Alert Msg
+<span style="color:green;">Feb 01,2017 13:53:51 [Verification]  Verified that Expected value :[Please select an episode before clicking on Delete button.] is matched with Actual value :[Please select an episode before clicking on Delete button.]</span>
+Feb 01,2017 13:53:53 [info]  Clicked on the 'Alert Ok Button' using JS Executor
+Feb 01,2017 13:53:53 [info]  Clicked on the 'Select Episode005' using JS Executor
+Feb 01,2017 13:53:53 [info]  Clicked on the 'Delete Button' using JS Executor
+Feb 01,2017 13:53:54 [info]  Clicked on the 'OKButton' using JS Executor
+Feb 01,2017 13:54:03 [info]  Clicked on the 'Save' using JS Executor
+Feb 01,2017 13:54:13 [info]  Verify The data of Episode001
+<span style="color:green;">Feb 01,2017 13:54:13 [Verification]  Verified that Expected value :[Episode001] is matched with Actual value :[Episode001]</span>
+Feb 01,2017 13:54:13 [info]  Verify The data of Episode002
+<span style="color:red;">Feb 01,2017 13:54:13 [Fail]  ====Failed==== Expected value is:[Episode002] but Actual value is[Episode001]. Please check the screenshot with name: Episode002for more details</span>
+Feb 01,2017 13:54:13 [info]  Verify The data of Episode003
+<span style="color:red;">Feb 01,2017 13:54:13 [Fail]  ====Failed==== Expected value is:[Episode003] but Actual value is[Episode002]. Please check the screenshot with name: Episode003for more details</span>
+Feb 01,2017 13:54:14 [info]  Verify The data of Episode004
+<span style="color:red;">Feb 01,2017 13:54:14 [Fail]  ====Failed==== Expected value is:[Episode004] but Actual value is[Episode002]. Please check the screenshot with name: Episode004for more details</span>
+Feb 01,2017 13:54:14 [info]  Verify The data of Validation Msg
+<span style="color:green;">Feb 01,2017 13:54:14 [Verification]  Verified that Expected value :[Changes have been saved successfully] is matched with Actual value :[Changes have been saved successfully]</span>
+Feb 01,2017 13:54:14 [info]  Clicked on the 'Window Close' using JS Executor
+Feb 01,2017 13:54:20 [info]  Verify The data of Episode005
+<span style="color:red;">Feb 01,2017 13:54:20 [Fail]  ====Failed==== "Episode005"  should not be shown</span>
+Feb 01,2017 13:54:23 [info]  Entered "AAA" in field 'Season NameInput'
+Feb 01,2017 13:54:23 [info]  Entered "111" in field 'Episode Number Input'
+Feb 01,2017 13:54:23 [info]  Clicked on the 'Save' using JS Executor
+<span style="color:red;">Feb 01,2017 13:54:25 [Fail]  ====Failed==== " Could not find the Frame: div[id*='WebDialogWindow1'][style*=visible]</span>
+Feb 01,2017 13:54:26 [info]  Modal dialog present: There exists an episode with a given number and season. Please enter valid episode number
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: '9P4G6BS', ip: '10.10.22.71', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=true, ie.forceCreateProcessApi=false, pageLoadStrategy=normal, ie.usePerProcessProxy=false, ignoreZoomSetting=false, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=false, browserName=internet explorer, initialBrowserUrl=http://localhost:27473/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=false, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: bab5fc7b-0262-4fa9-983a-e812645b9ed6
+Feb 01,2017 13:55:22 [info]  Test 'TC2_AssetNavigator' FAILED
+Feb 01,2017 13:55:22 [info]  2
+Feb 01,2017 13:55:22 [info]  Test Case :TC2_AssetNavigator's Screenshot of Failure Page: C:\Screenshots\Feb2017\\01\TC2_AssetNavigator_02-01-2017 1-55-22 PM.jpg
+Feb 01,2017 13:55:23 [info]  Closed the Browser
+Feb 01,2017 13:55:56 [info]  ********************Started Executiong the Test Suite at 13:55:56******************
+Feb 01,2017 13:55:56 [info]  Client: AMCN
+Feb 01,2017 13:55:56 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Feb 01,2017 13:55:56 [info]  *********************Started Executing 'testscript1' Test Case*********************
+Feb 01,2017 13:56:06 [info]  Client: AMCN
+Feb 01,2017 13:56:06 [info]  URL: http://rlv2wb79/login.aspx
+Feb 01,2017 13:56:06 [info]  UserName: admin
+Feb 01,2017 13:56:06 [info]  Password: admin
+Feb 01,2017 13:56:07 [info]  Entered "admin" in field 'User Name'
+Feb 01,2017 13:56:07 [info]  Clicked on the 'Temporary Check Box'
+Feb 01,2017 13:56:08 [info]  Entered "admin" in field 'Password'
+Feb 01,2017 13:56:08 [info]  Clicked on the 'LoginButton'
+Feb 01,2017 13:56:14 [info]  Test1
+Feb 01,2017 13:59:24 [info]  Clicked on the 'Expand Season1 at Asset Search Grid'
+Feb 01,2017 13:59:49 [info]  Clicked on the 'Expand Season1 at Asset Search Grid' using JS Executor
+Feb 01,2017 15:02:19 [info]  ********************Started Executiong the Test Suite at 15:02:19******************
+Feb 01,2017 15:02:19 [info]  Client: VMN
+Feb 01,2017 15:02:19 [info]  *********************Started Executing the Test Area(Modules/TAB): 'TrackingEvents TAB'*********************
+Feb 01,2017 15:02:19 [info]  *********************Started Executing 'createData' Test Case*********************
+Feb 01,2017 15:02:31 [info]  Client: VMN
+Feb 01,2017 15:02:31 [info]  URL: http://cgptwb01/Home.aspx
+Feb 01,2017 15:02:31 [info]  UserName: automation
+Feb 01,2017 15:02:31 [info]  Password: automation
+Feb 01,2017 15:02:37 [info]  Entered "automation" in field 'User Name'
+Feb 01,2017 15:02:37 [info]  Clicked on the 'Temporary Check Box'
+Feb 01,2017 15:02:38 [info]  Entered "automation" in field 'Password'
+Feb 01,2017 15:02:50 [info]  Clicked on the 'LoginButton'
+Feb 01,2017 15:02:56 [info]  ************************Started Creating Asset of Type: Program - Series************************
+Feb 01,2017 15:03:00 [info]  Clicked on the 'MODULE'
+Feb 01,2017 15:03:08 [info]  Clicked on the 'Property Entry & Maintenance'
+Feb 01,2017 15:03:15 [info]  Clicked on the 'SearchLink' using JS Executor
+Feb 01,2017 15:03:20 [info]  Clicked on the 'Property Search' using JS Executor
+Feb 01,2017 15:03:26 [info]  Clicked on the 'TR_Asset_Search_Params' using JS Executor
+Feb 01,2017 15:03:26 [info]  Entered "AUT_AssetSeries_TC23_0201201730219" in field 'Asset Title'
+Feb 01,2017 15:03:33 [info]  Clicked on the 'Find Button' using JS Executor
+Feb 01,2017 15:03:40 [info]  Verify The data of Alert Message
+<span style="color:green;">Feb 01,2017 15:03:40 [Verification]  Verified that Expected value :[No search results were found for this query. Please try again using different criteria.] is matched with Actual value :[No search results were found for this query. Please try again using different criteria.]</span>
+Feb 01,2017 15:03:40 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Feb 01,2017 15:03:40 [info]  Clicked on the 'Ok button At Alert' using JS Executor
+Feb 01,2017 15:03:46 [info]  Clicked on the 'Add Asset Button' using JS Executor
+Feb 01,2017 15:03:50 [info]  Selected "Program" in "AssetTypeDropDown Pop upn VMN" drop down
+Feb 01,2017 15:04:47 [info]  Double clicked on 'OK Button'
+Feb 01,2017 15:04:53 [info]  Asset id is 193642
+Feb 01,2017 15:05:04 [info]  Selected "Program - Series" in "AssetTypeDropDown" drop down
+Feb 01,2017 15:05:08 [info]  Entered "AUT_AssetSeries_TC23_0201201730219" in field 'AssetTitle'
+Feb 01,2017 15:05:13 [info]  Clicked on the 'IPImageIcon' using JS Executor
+Feb 01,2017 15:05:17 [info]  Clicked on the 'Find Button' using JS Executor
+Feb 01,2017 15:05:21 [info]  Clicked on the 'loc_IPName_AT_IPWindow'
+Feb 01,2017 15:05:21 [info]  Clicked on the 'IP Select Button' using JS Executor
+Feb 01,2017 15:05:23 [info]  Clicked on the 'Vendor Img Icon' using JS Executor
+Feb 01,2017 15:05:23 [info]  Entered "AUT_VMN_Vendor1" in field 'SearchvalueVendor'
+Feb 01,2017 15:05:36 [info]  Clicked on the 'VendorWindowButtonfind' using JS Executor
+Feb 01,2017 15:05:42 [info]  Clicked on the 'VendorName At VendorWindow'
+Feb 01,2017 15:05:42 [info]  Clicked on the 'Vendor Select Button' using JS Executor
+Feb 01,2017 15:05:45 [info]  Verify The data of Vendor1
+<span style="color:green;">Feb 01,2017 15:05:45 [Verification]  Verified that Expected value :[AUT_VMN_Vendor1] is matched with Actual value :[AUT_VMN_Vendor1]</span>
+Feb 01,2017 15:05:50 [info]  Clicked on the 'StudioImageIcon' using JS Executor
+Feb 01,2017 15:05:50 [info]  Verify The data of Studio Window Header
+<span style="color:green;">Feb 01,2017 15:05:50 [Verification]  Verified that Expected value :[Select Copyright Owner] is matched with Actual value :[Select Copyright Owner]</span>
+Feb 01,2017 15:05:51 [info]  Entered "AUT_VMN_Studio" in field 'Studio Name'
+Feb 01,2017 15:06:03 [info]  Clicked on the 'Find Button' using JS Executor
+Feb 01,2017 15:06:11 [info]  Clicked on the 'VendorName At VendorWindow'
+Feb 01,2017 15:06:11 [info]  Clicked on the 'Vendor Select Button' using JS Executor
+Feb 01,2017 15:06:14 [info]  Verify The data of Studio/Vendor2
+<span style="color:green;">Feb 01,2017 15:06:14 [Verification]  Verified that Expected value :[AUT_VMN_Studio] is matched with Actual value :[AUT_VMN_Studio]</span>
+Feb 01,2017 15:06:16 [info]  Clicked on the 'SBUImage' using JS Executor
+Feb 01,2017 15:06:17 [info]  Verify The data of SBU Window/Owner Channel Header
+<span style="color:green;">Feb 01,2017 15:06:17 [Verification]  Verified that Expected value :[Channel / Entity Template] is matched with Actual value :[Channel / Entity Template]</span>
+Feb 01,2017 15:06:23 [info]  Clicked on the 'First CheckBox At SBU window'
+Feb 01,2017 15:06:25 [info]  Clicked on the 'Apply Button' using JS Executor
+Feb 01,2017 15:06:25 [info]  Entered "11:11:11" in field 'Duration'
+Feb 01,2017 15:06:35 [info]  Selected "Active Production" in "Asset Status" drop down
+Feb 01,2017 15:06:36 [info]  Selected "Animated" in "Asset Format" drop down
+Feb 01,2017 15:06:36 [info]  Selected "Co-Production" in "Asset Source" drop down
+Feb 01,2017 15:06:36 [info]  Selected "Television" in "Asset Category/Group" drop down
+Feb 01,2017 15:06:36 [info]  Entered "" in field 'ProjectID'
+Feb 01,2017 15:06:36 [info]  Selected "TBD" in "Client Group" drop down
+Feb 01,2017 15:06:36 [info]  Selected "In Progress" in "PROD Contract Entry/AssetData Status" drop down
+Feb 01,2017 15:06:36 [info]  Clicked on the 'Save Button' using JS Executor
+Feb 01,2017 15:07:05 [info]  Verify The data of Created AssetAUT_AssetSeries_TC23_0201201730219
+<span style="color:green;">Feb 01,2017 15:07:05 [Verification]  Verified that Expected value :[AUT_AssetSeries_TC23_0201201730219] is matched with Actual value :[AUT_AssetSeries_TC23_0201201730219]</span>
+Feb 01,2017 15:07:05 [info]  ************************Created Asset of TypeProgram - Series************************
+Feb 01,2017 15:07:09 [info]  Clicked on the 'MODULE'
+Feb 01,2017 15:07:17 [info]  Clicked on the 'Property Entry & Maintenance'
+Feb 01,2017 15:07:20 [info]  Clicked on the 'Search Icon' using JS Executor
+Feb 01,2017 15:07:23 [info]  Clicked on the 'Property Search' using JS Executor
+Feb 01,2017 15:07:31 [info]  Entered "AUT_AssetSeries_TC23_0201201730219" in field 'AssetTitle'
+Feb 01,2017 15:07:39 [info]  Clicked on the 'Find Button' using JS Executor
+Feb 01,2017 15:08:04 [info]  Moved Mouse over 'First Asset in the Searched Asset'
+Feb 01,2017 15:08:04 [info]  Clicked on the 'First Asset in the Searched Asset'
+Feb 01,2017 15:08:04 [info]  Clicked on the 'First Asset in the Searched Asset'
+Feb 01,2017 15:08:07 [info]  Clicked on the 'View Asset' using JS Executor
+Feb 01,2017 15:08:19 [info]  Verify The data of Created Asset At Home
+<span style="color:green;">Feb 01,2017 15:08:19 [Verification]  Verified that Expected value :[AUT_AssetSeries_TC23_0201201730219] is matched with Actual value :[AUT_AssetSeries_TC23_0201201730219]</span>
+Feb 01,2017 15:08:25 [info]  Clicked on the 'Episodes TAB'
+Feb 01,2017 15:08:32 [info]  Clicked on the ''Edit' Button at Episode window' using JS Executor
+Feb 01,2017 15:08:38 [info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Feb 01,2017 15:08:41 [info]  Entered "101" in field 'Add Episode input field'
+Feb 01,2017 15:08:46 [info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Feb 01,2017 15:08:55 [info]  Clicked on the 'Season Field of Episode101' using JS Executor
+Feb 01,2017 15:08:55 [info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Feb 01,2017 15:08:55 [info]  Clicked on the 'Season 1.Original Version'
+Feb 01,2017 15:08:55 [info]  Clicked on the 'Support click to select season'
+Feb 01,2017 15:08:55 [info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Feb 01,2017 15:08:58 [info]  Entered "102" in field 'Add Episode input field'
+Feb 01,2017 15:09:03 [info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Feb 01,2017 15:09:11 [info]  Clicked on the 'Season Field of Episode101' using JS Executor
+Feb 01,2017 15:09:11 [info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Feb 01,2017 15:09:12 [info]  Clicked on the 'Season 1.Original Version'
+Feb 01,2017 15:09:12 [info]  Clicked on the 'Support click to select season'
+Feb 01,2017 15:09:22 [info]  Clicked on the 'Save Button at 'Episode Edit Window'' using JS Executor
+Feb 01,2017 15:09:31 [info]  Clicked on the 'Close Button at 'Episode Edit Window'' using JS Executor
+Feb 01,2017 15:09:54 [info]  Clicked on the 'New Button' using JS Executor
+Feb 01,2017 15:09:58 [info]  Clicked on the 'Standalone Agreement' using JS Executor
+Feb 01,2017 15:10:05 [info]  Generated Deal Id is 30629
+Feb 01,2017 15:10:05 [info]  Clicked on the 'DealTitleField' using JS Executor
+Feb 01,2017 15:10:06 [info]  Entered "AUT_Deal_TC23_1_0201201730219" in field 'Deal Name Field'
+Feb 01,2017 15:10:06 [info]  Entered "AUT_Deal_TC23_1_0201201730219_desc" in field 'Deal Description/ContractID'
+Feb 01,2017 15:10:06 [info]  Selected "Program Acquisition/Licensed Original" in "DealType_DropDownField" drop down
+Feb 01,2017 15:10:06 [info]  Entered "Fully Executed" in field 'Deal Creation Contract Status'
+Feb 01,2017 15:10:06 [info]  Entered "Finalized / Approved" in field 'DealCreationCDEStatus'
+Feb 01,2017 15:10:06 [info]  Entered "01/01/2014" in field 'DateExecuted_InputField'
+Feb 01,2017 15:10:14 [info]  Clicked on the 'SBU look up Icon' using JS Executor
+Feb 01,2017 15:10:22 [info]  Clicked on the 'Select All Button at SBU'
+Feb 01,2017 15:10:22 [info]  Clicked on the 'FirstCheckBoxAtSBU'
+Feb 01,2017 15:10:22 [info]  Clicked on the 'NinthCheckBoxAtSBU'
+Feb 01,2017 15:10:23 [info]  Clicked on the 'Apply Button'
+Feb 01,2017 15:10:23 [info]  Clicked on the 'Doc Type look up Icon' using JS Executor
+Feb 01,2017 15:10:31 [info]  Clicked on the 'Select All Button at SBU'
+Feb 01,2017 15:10:32 [info]  Clicked on the 'FirstCheckBoxAtSBU'
+Feb 01,2017 15:10:32 [info]  Clicked on the 'NinthCheckBoxAtSBU'
+Feb 01,2017 15:10:32 [info]  Clicked on the 'Apply Button'
+Feb 01,2017 15:10:35 [info]  Moved Mouse over 'Party_AddButton'
+Feb 01,2017 15:10:35 [info]  Clicked on the 'Party_AddButton'
+Feb 01,2017 15:10:36 [info]  Clicked on the 'PartyPopUp Icon' using JS Executor
+Feb 01,2017 15:10:39 [info]  Entered "AUT_VMN_RI_PRIMARY_PARTY" in field 'Search Party InputField'
+Feb 01,2017 15:10:51 [info]  Double clicked on 'RI Search Party Window Find Button'
+Feb 01,2017 15:10:55 [info]  Clicked on the 'AUT_VMN_RI_PRIMARY_PARTY'
+Feb 01,2017 15:10:55 [info]  Clicked on the 'Select Button'
+Feb 01,2017 15:11:01 [info]  Clicked on the 'Party Type Field' using JS Executor
+Feb 01,2017 15:11:02 [info]  Entered "Primary" in field 'Party Party InputField'
+Feb 01,2017 15:11:02 [info]  Clicked on the 'Support Click '
+Feb 01,2017 15:11:02 [info]  Clicked on the 'Party_AddButton' using JS Executor
+Feb 01,2017 15:11:04 [info]  Clicked on the 'PartyPopUp Icon' using JS Executor
+Feb 01,2017 15:11:09 [info]  Entered "AUT_VMN_RI_LICENSOR_PARTY" in field 'Search Party InputField'
+Feb 01,2017 15:11:21 [info]  Double clicked on 'RI Search Party Window Find Button'
+Feb 01,2017 15:11:29 [info]  Clicked on the 'Select Party'
+Feb 01,2017 15:11:29 [info]  Clicked on the 'Select Button'
+Feb 01,2017 15:11:35 [info]  Clicked on the 'Party Type Field' using JS Executor
+Feb 01,2017 15:11:35 [info]  Entered "Licensor" in field 'Party Party InputField'
+Feb 01,2017 15:11:35 [info]  Clicked on the 'Support Click '
+Feb 01,2017 15:11:49 [info]  Clicked on the 'Save Button' using JS Executor
+Feb 01,2017 15:11:55 [info]  Verify The data of CreatedDeal
+<span style="color:green;">Feb 01,2017 15:11:55 [Verification]  Verified that Expected value :[AUT_Deal_TC23_1_0201201730219] is matched with Actual value :[AUT_Deal_TC23_1_0201201730219]</span>
+Feb 01,2017 15:12:00 [info]  Clicked on the 'Navigator' using JS Executor
+Feb 01,2017 15:12:08 [info]  Clicked on the 'Associate With Exiting Asset' using JS Executor
+Feb 01,2017 15:12:09 [info]  Clicked on the 'Asset Status'
+Feb 01,2017 15:12:09 [info]  Clicked on the 'Asset tile' using JS Executor
+Feb 01,2017 15:12:09 [info]  Entered "AUT_AssetSeries_TC23_0201201730219" in field 'Asset title'
+<span style="color:red;">Feb 01,2017 15:12:09 [Fail]  <span style="color:red;">=====BUG ID======: 20309</span></span>
+Feb 01,2017 15:12:09 [info]  Clicked on the 'Display Season checkBox' using JS Executor
+Feb 01,2017 15:12:12 [info]  Clicked on the 'Search Button' using JS Executor
+Feb 01,2017 15:12:19 [info]  Clicked on the 'Toggle'
+Feb 01,2017 15:12:22 [info]  Double clicked on 'Searched Asset'
+Feb 01,2017 15:12:40 [info]  Clicked on the 'Ok Button'
+Feb 01,2017 15:13:04 [info]  Clicked on the 'New Button' using JS Executor
+Feb 01,2017 15:13:08 [info]  Clicked on the 'Standalone Agreement' using JS Executor
+Feb 01,2017 15:13:14 [info]  Generated Deal Id is 30630
+Feb 01,2017 15:13:14 [info]  Clicked on the 'DealTitleField' using JS Executor
+Feb 01,2017 15:13:14 [info]  Entered "AUT_Deal_TC23_2_0201201730219" in field 'Deal Name Field'
+Feb 01,2017 15:13:15 [info]  Entered "AUT_Deal_TC23_2_0201201730219_desc" in field 'Deal Description/ContractID'
+Feb 01,2017 15:13:15 [info]  Selected "Program Acquisition/Licensed Original" in "DealType_DropDownField" drop down
+Feb 01,2017 15:13:15 [info]  Entered "Fully Executed" in field 'Deal Creation Contract Status'
+Feb 01,2017 15:13:15 [info]  Entered "Finalized / Approved" in field 'DealCreationCDEStatus'
+Feb 01,2017 15:13:15 [info]  Entered "01/01/2014" in field 'DateExecuted_InputField'
+Feb 01,2017 15:13:23 [info]  Clicked on the 'SBU look up Icon' using JS Executor
+Feb 01,2017 15:13:31 [info]  Clicked on the 'Select All Button at SBU'
+Feb 01,2017 15:13:31 [info]  Clicked on the 'FirstCheckBoxAtSBU'
+Feb 01,2017 15:13:31 [info]  Clicked on the 'NinthCheckBoxAtSBU'
+Feb 01,2017 15:13:32 [info]  Clicked on the 'Apply Button'
+Feb 01,2017 15:13:32 [info]  Clicked on the 'Doc Type look up Icon' using JS Executor
+Feb 01,2017 15:13:40 [info]  Clicked on the 'Select All Button at SBU'
+Feb 01,2017 15:13:40 [info]  Clicked on the 'FirstCheckBoxAtSBU'
+Feb 01,2017 15:13:40 [info]  Clicked on the 'NinthCheckBoxAtSBU'
+Feb 01,2017 15:13:41 [info]  Clicked on the 'Apply Button'
+Feb 01,2017 15:13:44 [info]  Moved Mouse over 'Party_AddButton'
+Feb 01,2017 15:13:44 [info]  Clicked on the 'Party_AddButton'
+Feb 01,2017 15:13:45 [info]  Clicked on the 'PartyPopUp Icon' using JS Executor
+Feb 01,2017 15:13:48 [info]  Entered "AUT_VMN_RI_PRIMARY_PARTY" in field 'Search Party InputField'
+Feb 01,2017 15:13:59 [info]  Double clicked on 'RI Search Party Window Find Button'
+Feb 01,2017 15:14:03 [info]  Clicked on the 'AUT_VMN_RI_PRIMARY_PARTY'
+Feb 01,2017 15:14:03 [info]  Clicked on the 'Select Button'
+Feb 01,2017 15:14:09 [info]  Clicked on the 'Party Type Field' using JS Executor
+Feb 01,2017 15:14:10 [info]  Entered "Primary" in field 'Party Party InputField'
+Feb 01,2017 15:14:10 [info]  Clicked on the 'Support Click '
+Feb 01,2017 15:14:10 [info]  Clicked on the 'Party_AddButton' using JS Executor
+Feb 01,2017 15:14:11 [info]  Clicked on the 'PartyPopUp Icon' using JS Executor
+Feb 01,2017 15:14:17 [info]  Entered "AUT_VMN_RI_LICENSOR_PARTY" in field 'Search Party InputField'
+Feb 01,2017 15:14:27 [info]  Double clicked on 'RI Search Party Window Find Button'
+Feb 01,2017 15:14:36 [info]  Clicked on the 'Select Party'
+Feb 01,2017 15:14:36 [info]  Clicked on the 'Select Button'
+Feb 01,2017 15:14:42 [info]  Clicked on the 'Party Type Field' using JS Executor
+Feb 01,2017 15:14:42 [info]  Entered "Licensor" in field 'Party Party InputField'
+Feb 01,2017 15:14:42 [info]  Clicked on the 'Support Click '
+Feb 01,2017 15:14:52 [info]  Clicked on the 'Save Button' using JS Executor
+Feb 01,2017 15:14:59 [info]  Verify The data of CreatedDeal
+<span style="color:green;">Feb 01,2017 15:14:59 [Verification]  Verified that Expected value :[AUT_Deal_TC23_2_0201201730219] is matched with Actual value :[AUT_Deal_TC23_2_0201201730219]</span>
+Feb 01,2017 15:15:01 [info]  Clicked on the 'Navigator' using JS Executor
+Feb 01,2017 15:15:08 [info]  Clicked on the 'Associate With Exiting Asset' using JS Executor
+Feb 01,2017 15:15:08 [info]  Clicked on the 'Asset Status'
+Feb 01,2017 15:15:08 [info]  Clicked on the 'Asset tile' using JS Executor
+Feb 01,2017 15:15:09 [info]  Entered "AUT_AssetSeries_TC23_0201201730219" in field 'Asset title'
+<span style="color:red;">Feb 01,2017 15:15:09 [Fail]  <span style="color:red;">=====BUG ID======: 20309</span></span>
+Feb 01,2017 15:15:09 [info]  Clicked on the 'Display Season checkBox' using JS Executor
+Feb 01,2017 15:15:13 [info]  Clicked on the 'Search Button' using JS Executor
+Feb 01,2017 15:15:20 [info]  Clicked on the 'Toggle'
+Feb 01,2017 15:15:23 [info]  Double clicked on 'Searched Asset'
+Feb 01,2017 15:15:40 [info]  Clicked on the 'Ok Button'
+Feb 01,2017 15:15:46 [info]  Test 'createData' PASSED
+Feb 01,2017 15:15:47 [info]  Closed the Browser

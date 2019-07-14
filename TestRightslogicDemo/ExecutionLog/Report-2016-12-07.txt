@@ -1,0 +1,1386 @@
+Dec 07,2016 11:45:42 [info]  ********************Started Executiong the Test Suite at 11:45:42******************
+Dec 07,2016 11:45:42 [info]  Client: AMCN
+Dec 07,2016 11:45:42 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Dec 07,2016 11:45:42 [info]  *********************Started Executing 'Exhibition_UI_Verification' Test Case*********************
+Dec 07,2016 11:45:55 [info]  Client: AMCN
+Dec 07,2016 11:45:55 [info]  URL: http://rlv2wb79/login.aspx
+Dec 07,2016 11:45:55 [info]  UserName: automation
+Dec 07,2016 11:45:55 [info]  Password: automation
+Dec 07,2016 11:45:56 [info]  Entered "automation" in field 'User Name'
+Dec 07,2016 11:45:56 [info]  Clicked on the 'Temporary Check Box'
+Dec 07,2016 11:45:56 [info]  Entered "automation" in field 'Password'
+Dec 07,2016 11:46:04 [info]  Clicked on the 'LoginButton'
+Dec 07,2016 11:46:13 [info]  Clicked on the 'Exhibition Rights TAB'
+Dec 07,2016 11:46:16 [info]  Verify The data of Media Row Number
+Dec 07,2016 11:46:16 [info]  Verified that Expected value :[Media Row No] is matched with Actual value :[Media Row No]
+Dec 07,2016 11:46:16 [info]  Verify The data of Exhibit APPLIESTO
+Dec 07,2016 11:46:16 [info]  Verified that Expected value :[Applies To] is matched with Actual value :[Applies To]
+Dec 07,2016 11:46:16 [info]  Verify The data of UNLIMITED Header
+Dec 07,2016 11:46:16 [info]  Verified that Expected value :[Unlimited] is matched with Actual value :[Unlimited]
+Dec 07,2016 11:46:16 [info]  Verify The data of EXHIBIT DATE UPDATE Header
+Dec 07,2016 11:46:16 [info]  Verified that Expected value :[Update] is matched with Actual value :[Update]
+Dec 07,2016 11:46:16 [info]  Verify The data of EXHIBITION_DAYSHeader
+Dec 07,2016 11:46:16 [info]  Verified that Expected value :[Exhib.Days] is matched with Actual value :[Exhib.Days]
+Dec 07,2016 11:46:16 [info]  Verify The data of RESERVED_EXHIBITION Header
+Dec 07,2016 11:46:16 [info]  Verified that Expected value :[Reserved Exhibitions] is matched with Actual value :[Reserved Exhibitions]
+Dec 07,2016 11:46:16 [info]  Verify The data of POOLED Header
+Dec 07,2016 11:46:16 [info]  Verified that Expected value :[Pooled] is matched with Actual value :[Pooled]
+Dec 07,2016 11:46:17 [info]  Verify The data of RI_Exh_ViewMode_EXHIBITIONDAYSCOPE_Header
+Dec 07,2016 11:46:17 [info]  Verified that Expected value :[Exhib.Day Scope] is matched with Actual value :[Exhib.Day Scope]
+Dec 07,2016 11:46:17 [info]  Verify The data of STARTDATE Header
+Dec 07,2016 11:46:17 [info]  Verified that Expected value :[Start Date] is matched with Actual value :[Start Date]
+Dec 07,2016 11:46:17 [info]  Verify The data of ENDDATEHeader
+Dec 07,2016 11:46:17 [info]  Verified that Expected value :[End Date] is matched with Actual value :[End Date]
+Dec 07,2016 11:46:17 [info]  Verify The data of ExhibitBUSINESS_TERMSHeader
+Dec 07,2016 11:46:17 [info]  Verified that Expected value :[Notes] is matched with Actual value :[Notes]
+Dec 07,2016 11:46:17 [info]  
+Dec 07,2016 11:46:17 [info]  *****Verify all the buttons, drop down available in View Mode at the Exhibition Rights TAB*****
+Dec 07,2016 11:46:17 [info]  Verify The data of RI_Exh_AppliesToLabel
+Dec 07,2016 11:46:17 [info]  Verified that Expected value :[Applies To] is matched with Actual value :[Applies To]
+Dec 07,2016 11:46:17 [info]  Verify The data of RI_Exh_ClearFiltersButton
+Dec 07,2016 11:46:17 [info]  Verified that Expected value :[Clear Filters] is matched with Actual value :[Clear Filters]
+Dec 07,2016 11:46:17 [info]  Verify The data of RI_Exh_ShowAllRowsLabel
+Dec 07,2016 11:46:17 [info]  Verified that Expected value :[Show All Rows] is matched with Actual value :[Show All Rows]
+Dec 07,2016 11:46:17 [info]  ====Failed===="RI_Exh_ExpandAll" is not Present
+Dec 07,2016 11:46:17 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\07\RI_Exh_ExpandAll_CheckpointFailure_12-07-2016 11-46-17 AM.jpg
+Dec 07,2016 11:46:18 [info]  ====Failed===="RI_Exh_CollapseAll" is not Present
+Dec 07,2016 11:46:18 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\07\RI_Exh_CollapseAll_CheckpointFailure_12-07-2016 11-46-18 AM.jpg
+Dec 07,2016 11:46:20 [info]  Clicked on the ''Edit' Button at Media Rights TAB' using JS Executor
+Dec 07,2016 11:46:21 [info]  Verify The data of Media Row Number
+Dec 07,2016 11:46:21 [info]  Verified that Expected value :[Media Row No] is matched with Actual value :[Media Row No]
+Dec 07,2016 11:46:21 [info]  Verify The data of Exhibit APPLIESTO
+Dec 07,2016 11:46:21 [info]  Verified that Expected value :[Applies To] is matched with Actual value :[Applies To]
+Dec 07,2016 11:46:21 [info]  Verify The data of UNLIMITED Header
+Dec 07,2016 11:46:21 [info]  Verified that Expected value :[Unlimited] is matched with Actual value :[Unlimited]
+Dec 07,2016 11:46:21 [info]  Verify The data of EXHIBIT DATE UPDATE Header
+Dec 07,2016 11:46:21 [info]  Verified that Expected value :[Update] is matched with Actual value :[*Update]
+Dec 07,2016 11:46:21 [info]  Verify The data of EXHIBITION_DAYSHeader
+Dec 07,2016 11:46:21 [info]  Verified that Expected value :[Exhib.Days] is matched with Actual value :[Exhib.Days]
+Dec 07,2016 11:46:21 [info]  Verify The data of RESERVED_EXHIBITION Header
+Dec 07,2016 11:46:21 [info]  Verified that Expected value :[Reserved Exhibitions] is matched with Actual value :[Reserved Exhibitions]
+Dec 07,2016 11:46:21 [info]  Verify The data of POOLED Header
+Dec 07,2016 11:46:21 [info]  Verified that Expected value :[Pooled] is matched with Actual value :[Pooled]
+Dec 07,2016 11:46:21 [info]  Verify The data of RI_Exh_ViewMode_EXHIBITIONDAYSCOPE_Header
+Dec 07,2016 11:46:21 [info]  Verified that Expected value :[Exhib.Day Scope] is matched with Actual value :[*Exhib.Day Scope]
+Dec 07,2016 11:46:21 [info]  Verify The data of STARTDATE Header
+Dec 07,2016 11:46:21 [info]  Verified that Expected value :[Start Date] is matched with Actual value :[Start Date]
+Dec 07,2016 11:46:21 [info]  Verify The data of ENDDATEHeader
+Dec 07,2016 11:46:21 [info]  Verified that Expected value :[End Date] is matched with Actual value :[End Date]
+Dec 07,2016 11:46:21 [info]  Verify The data of ExhibitBUSINESS_TERMSHeader
+Dec 07,2016 11:46:21 [info]  Verified that Expected value :[Notes] is matched with Actual value :[Notes]
+Dec 07,2016 11:46:21 [info]  **********checking Mandatory field in Edit Mode**********
+Dec 07,2016 11:46:21 [info]  Verify The data of EXHIBIT DATE UPDATE Header
+Dec 07,2016 11:46:21 [info]  ====Failed==== Expected value is:[Unlimited] but Actual value is[*Update]. Please check the screenshot with name: EXHIBIT DATE UPDATE Headerfor more details
+Dec 07,2016 11:46:22 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\07\EXHIBIT DATE UPDATE Header_CheckpointFailure_12-07-2016 11-46-21 AM.jpg
+Dec 07,2016 11:46:22 [info]  Verify The data of RI_Exh_ViewMode_EXHIBITIONDAYSCOPE_Header
+Dec 07,2016 11:46:22 [info]  ====Failed==== Expected value is:[Pooled] but Actual value is[*Exhib.Day Scope]. Please check the screenshot with name: RI_Exh_ViewMode_EXHIBITIONDAYSCOPE_Headerfor more details
+Dec 07,2016 11:46:22 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\07\RI_Exh_ViewMode_EXHIBITIONDAYSCOPE_Header_CheckpointFailure_12-07-2016 11-46-22 AM.jpg
+Dec 07,2016 11:46:22 [info]  
+Dec 07,2016 11:46:22 [info]  Verifying the headers of Child Row in Edit Mode
+Dec 07,2016 11:46:32 [info]  Verify The data of WINDOWNAME
+Dec 07,2016 11:46:32 [info]  ====Failed==== Expected value is:[Window Name] but Actual value is[]. Please check the screenshot with name: WINDOWNAMEfor more details
+Dec 07,2016 11:46:32 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\07\WINDOWNAME_CheckpointFailure_12-07-2016 11-46-32 AM.jpg
+Dec 07,2016 11:46:32 [info]  Verify The data of WINDOW_TYPE Header
+Dec 07,2016 11:46:32 [info]  Verified that Expected value :[Window Type] is matched with Actual value :[Window Type]
+Dec 07,2016 11:46:42 [info]  Verify The data of RIGHTSTYPE UPDATE Header
+Dec 07,2016 11:46:42 [info]  ====Failed==== Expected value is:[Rights Type] but Actual value is[]. Please check the screenshot with name: RIGHTSTYPE UPDATE Headerfor more details
+Dec 07,2016 11:46:43 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\07\RIGHTSTYPE UPDATE Header_CheckpointFailure_12-07-2016 11-46-42 AM.jpg
+Dec 07,2016 11:46:43 [info]  Verify The data of EXHIBITION_DAYSHeader
+Dec 07,2016 11:46:43 [info]  Verified that Expected value :[Exhib.Days] is matched with Actual value :[Exhib.Days]
+Dec 07,2016 11:46:43 [info]  Verify The data of POOLED Header
+Dec 07,2016 11:46:43 [info]  Verified that Expected value :[Pooled] is matched with Actual value :[Pooled]
+Dec 07,2016 11:46:43 [info]  Verify The data of STARTDATECHILD_Header
+Dec 07,2016 11:46:43 [info]  ====Failed==== Expected value is:[From - To] but Actual value is[Start Date]. Please check the screenshot with name: STARTDATECHILD_Headerfor more details
+Dec 07,2016 11:46:43 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\07\STARTDATECHILD_Header_CheckpointFailure_12-07-2016 11-46-43 AM.jpg
+Dec 07,2016 11:46:53 [info]  Verify The data of NETWORK_SUMMARY Header
+Dec 07,2016 11:46:53 [info]  ====Failed==== Expected value is:[Exhib.Network] but Actual value is[]. Please check the screenshot with name: NETWORK_SUMMARY Headerfor more details
+Dec 07,2016 11:46:53 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\07\NETWORK_SUMMARY Header_CheckpointFailure_12-07-2016 11-46-53 AM.jpg
+Dec 07,2016 11:47:03 [info]  Verify The data of TERRITORY_TERMSHeader
+Dec 07,2016 11:47:03 [info]  ====Failed==== Expected value is:[Territory] but Actual value is[]. Please check the screenshot with name: TERRITORY_TERMSHeaderfor more details
+Dec 07,2016 11:47:04 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\07\TERRITORY_TERMSHeader_CheckpointFailure_12-07-2016 11-47-03 AM.jpg
+Dec 07,2016 11:47:14 [info]  Verify The data of EXHIBITIONDAYTYPE_Header
+Dec 07,2016 11:47:14 [info]  ====Failed==== Expected value is:[Day Type] but Actual value is[]. Please check the screenshot with name: EXHIBITIONDAYTYPE_Headerfor more details
+Dec 07,2016 11:47:14 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\07\EXHIBITIONDAYTYPE_Header_CheckpointFailure_12-07-2016 11-47-14 AM.jpg
+Dec 07,2016 11:47:24 [info]  Verify The data of EXHIBITIONDAYPERIOD Header
+Dec 07,2016 11:47:24 [info]  ====Failed==== Expected value is:[Day Period] but Actual value is[]. Please check the screenshot with name: EXHIBITIONDAYPERIOD Headerfor more details
+Dec 07,2016 11:47:24 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\07\EXHIBITIONDAYPERIOD Header_CheckpointFailure_12-07-2016 11-47-24 AM.jpg
+Dec 07,2016 11:47:34 [info]  Verify The data of PLAYSPEREXHIBITION Header
+Dec 07,2016 11:47:34 [info]  ====Failed==== Expected value is:[Palys] but Actual value is[]. Please check the screenshot with name: PLAYSPEREXHIBITION Headerfor more details
+Dec 07,2016 11:47:35 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\07\PLAYSPEREXHIBITION Header_CheckpointFailure_12-07-2016 11-47-34 AM.jpg
+Dec 07,2016 11:47:45 [info]  Verify The data of ADDLNETWORKUSAGE_Header
+Dec 07,2016 11:47:45 [info]  ====Failed==== Expected value is:[Addl.Exhib.Restrictions] but Actual value is[]. Please check the screenshot with name: ADDLNETWORKUSAGE_Headerfor more details
+Dec 07,2016 11:47:45 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\07\ADDLNETWORKUSAGE_Header_CheckpointFailure_12-07-2016 11-47-45 AM.jpg
+Dec 07,2016 11:47:55 [info]  Verify The data of RID_RATING_TERMSHeader
+Dec 07,2016 11:47:55 [info]  ====Failed==== Expected value is:[Evaluation] but Actual value is[]. Please check the screenshot with name: RID_RATING_TERMSHeaderfor more details
+Dec 07,2016 11:47:55 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\07\RID_RATING_TERMSHeader_CheckpointFailure_12-07-2016 11-47-55 AM.jpg
+Dec 07,2016 11:47:55 [info]  Test 'Exhibition_UI_Verification' PASSED
+Dec 07,2016 11:47:56 [info]  Closed the Browser
+Dec 07,2016 12:04:22 [info]  ********************Started Executiong the Test Suite at 12:04:22******************
+Dec 07,2016 12:04:22 [info]  Client: AMCN
+Dec 07,2016 12:04:22 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Dec 07,2016 12:04:22 [info]  *********************Started Executing 'Exhibition_UI_Verification' Test Case*********************
+Dec 07,2016 12:04:33 [info]  Client: AMCN
+Dec 07,2016 12:04:33 [info]  URL: http://rlv2wb79/login.aspx
+Dec 07,2016 12:04:33 [info]  UserName: automation
+Dec 07,2016 12:04:33 [info]  Password: automation
+Dec 07,2016 12:05:21 [info]  ====Failed==== "User Name" field is not present'User Name'
+Dec 07,2016 12:05:22 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\07\User Name_CheckpointFailure_12-07-2016 12-05-21 PM.jpg
+Dec 07,2016 12:05:32 [info]  ====Failed==== "Temporary Check Box" field is not present'
+Dec 07,2016 12:05:32 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\07\Temporary Check Box_CheckpointFailure_12-07-2016 12-05-32 PM.jpg
+Dec 07,2016 12:05:42 [info]  ====Failed==== "Password" field is not present'Password'
+Dec 07,2016 12:05:43 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\07\Password_CheckpointFailure_12-07-2016 12-05-42 PM.jpg
+Dec 07,2016 12:05:53 [info]  ====Failed==== "LoginButton" field is not present'
+Dec 07,2016 12:05:53 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\07\LoginButton_CheckpointFailure_12-07-2016 12-05-53 PM.jpg
+Dec 07,2016 12:36:32 [info]  ********************Started Executiong the Test Suite at 12:36:32******************
+Dec 07,2016 12:36:32 [info]  Client: VMN
+Dec 07,2016 12:36:32 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Dec 07,2016 12:36:32 [info]  *********************Started Executing 'Exhibition_UI_Verification' Test Case*********************
+Dec 07,2016 12:36:43 [info]  Client: VMN
+Dec 07,2016 12:36:43 [info]  URL: http://rlv2wb41/login.aspx
+Dec 07,2016 12:36:43 [info]  UserName: admin
+Dec 07,2016 12:36:43 [info]  Password: admin
+Dec 07,2016 12:36:44 [info]  Entered "admin" in field 'User Name'
+Dec 07,2016 12:36:44 [info]  Clicked on the 'Temporary Check Box'
+Dec 07,2016 12:36:44 [info]  Entered "admin" in field 'Password'
+Dec 07,2016 12:36:56 [info]  Clicked on the 'LoginButton'
+Dec 07,2016 12:38:11 [info]  Clicked on the 'Exhibition Rights TAB'
+Dec 07,2016 12:38:16 [info]  Verify The data of Media Row Number
+Dec 07,2016 12:38:16 [info]  Verified that Expected value :[Media Row] is matched with Actual value :[Media Row]
+Dec 07,2016 12:38:16 [info]  Verify The data of Exhibit APPLIESTO
+Dec 07,2016 12:38:16 [info]  Verified that Expected value :[Property] is matched with Actual value :[Property]
+Dec 07,2016 12:38:16 [info]  Verify The data of UNLIMITED Header
+Dec 07,2016 12:38:16 [info]  Verified that Expected value :[Unlimited] is matched with Actual value :[Unlimited]
+Dec 07,2016 12:38:26 [info]  Verify The data of EXHIBIT DATE UPDATE Header
+Dec 07,2016 12:38:26 [info]  ====Failed==== Expected value is:[N/A] but Actual value is[]. Please check the screenshot with name: EXHIBIT DATE UPDATE Headerfor more details
+Dec 07,2016 12:38:26 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\07\EXHIBIT DATE UPDATE Header_CheckpointFailure_12-07-2016 12-38-26 PM.jpg
+Dec 07,2016 12:38:26 [info]  Verify The data of EXHIBITION_DAYSHeader
+Dec 07,2016 12:38:26 [info]  Verified that Expected value :[Exhibitions] is matched with Actual value :[Exhibitions]
+Dec 07,2016 12:38:27 [info]  Verify The data of RESERVED_EXHIBITION Header
+Dec 07,2016 12:38:27 [info]  Verified that Expected value :[Reserved Exhibitions] is matched with Actual value :[Reserved Exhibitions]
+Dec 07,2016 12:38:27 [info]  Verify The data of POOLED Header
+Dec 07,2016 12:38:27 [info]  Verified that Expected value :[Pooled] is matched with Actual value :[Pooled]
+Dec 07,2016 12:38:27 [info]  Verify The data of RI_Exh_ViewMode_EXHIBITIONDAYSCOPE_Header
+Dec 07,2016 12:38:27 [info]  Verified that Expected value :[Day Scope] is matched with Actual value :[Day Scope]
+Dec 07,2016 12:38:27 [info]  Verify The data of STARTDATE Header
+Dec 07,2016 12:38:27 [info]  ====Failed==== Expected value is:[Start Date] but Actual value is[Term From]. Please check the screenshot with name: STARTDATE Headerfor more details
+Dec 07,2016 12:38:27 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\07\STARTDATE Header_CheckpointFailure_12-07-2016 12-38-27 PM.jpg
+Dec 07,2016 12:38:27 [info]  Verify The data of ENDDATEHeader
+Dec 07,2016 12:38:27 [info]  ====Failed==== Expected value is:[N/A] but Actual value is[Term To]. Please check the screenshot with name: ENDDATEHeaderfor more details
+Dec 07,2016 12:38:27 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\07\ENDDATEHeader_CheckpointFailure_12-07-2016 12-38-27 PM.jpg
+Dec 07,2016 12:38:28 [info]  Verify The data of ExhibitBUSINESS_TERMSHeader
+Dec 07,2016 12:38:28 [info]  Verified that Expected value :[Notes] is matched with Actual value :[Notes]
+Dec 07,2016 12:38:28 [info]  
+Dec 07,2016 12:38:28 [info]  *****Verify all the buttons, drop down available in View Mode at the Exhibition Rights TAB*****
+Dec 07,2016 12:38:38 [info]  Verify The data of RI_Exh_ShowAllRowsLabel
+Dec 07,2016 12:38:38 [info]  ====Failed==== Expected value is:[Show All Rows] but Actual value is[]. Please check the screenshot with name: RI_Exh_ShowAllRowsLabelfor more details
+Dec 07,2016 12:38:38 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\07\RI_Exh_ShowAllRowsLabel_CheckpointFailure_12-07-2016 12-38-38 PM.jpg
+Dec 07,2016 12:38:38 [info]  ====Failed===="RI_Exh_ExpandAll" is not Present
+Dec 07,2016 12:38:38 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\07\RI_Exh_ExpandAll_CheckpointFailure_12-07-2016 12-38-38 PM.jpg
+Dec 07,2016 12:38:38 [info]  ====Failed===="RI_Exh_CollapseAll" is not Present
+Dec 07,2016 12:38:39 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\07\RI_Exh_CollapseAll_CheckpointFailure_12-07-2016 12-38-38 PM.jpg
+Dec 07,2016 12:38:43 [info]  Clicked on the ''Edit' Button at Media Rights TAB' using JS Executor
+Dec 07,2016 12:38:43 [info]  Verify The data of Media Row Number
+Dec 07,2016 12:38:43 [info]  Verified that Expected value :[Media Row] is matched with Actual value :[Media Row]
+Dec 07,2016 12:38:43 [info]  Verify The data of Exhibit APPLIESTO
+Dec 07,2016 12:38:43 [info]  Verified that Expected value :[Property] is matched with Actual value :[*Property]
+Dec 07,2016 12:38:44 [info]  Verify The data of UNLIMITED Header
+Dec 07,2016 12:38:44 [info]  Verified that Expected value :[Unlimited] is matched with Actual value :[Unlimited]
+Dec 07,2016 12:38:54 [info]  Verify The data of EXHIBIT DATE UPDATE Header
+Dec 07,2016 12:38:54 [info]  ====Failed==== Expected value is:[N/A] but Actual value is[]. Please check the screenshot with name: EXHIBIT DATE UPDATE Headerfor more details
+Dec 07,2016 12:38:54 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\07\EXHIBIT DATE UPDATE Header_CheckpointFailure_12-07-2016 12-38-54 PM.jpg
+Dec 07,2016 12:38:54 [info]  Verify The data of EXHIBITION_DAYSHeader
+Dec 07,2016 12:38:54 [info]  Verified that Expected value :[Exhibitions] is matched with Actual value :[*Exhibitions]
+Dec 07,2016 12:38:54 [info]  Verify The data of RESERVED_EXHIBITION Header
+Dec 07,2016 12:38:54 [info]  Verified that Expected value :[Reserved Exhibitions] is matched with Actual value :[Reserved Exhibitions]
+Dec 07,2016 12:38:54 [info]  Verify The data of POOLED Header
+Dec 07,2016 12:38:54 [info]  Verified that Expected value :[Pooled] is matched with Actual value :[Pooled]
+Dec 07,2016 12:38:54 [info]  Verify The data of RI_Exh_ViewMode_EXHIBITIONDAYSCOPE_Header
+Dec 07,2016 12:38:54 [info]  Verified that Expected value :[Day Scope] is matched with Actual value :[*Day Scope]
+Dec 07,2016 12:38:54 [info]  Verify The data of STARTDATE Header
+Dec 07,2016 12:38:54 [info]  ====Failed==== Expected value is:[Start Date] but Actual value is[Term From]. Please check the screenshot with name: STARTDATE Headerfor more details
+Dec 07,2016 12:38:54 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\07\STARTDATE Header_CheckpointFailure_12-07-2016 12-38-54 PM.jpg
+Dec 07,2016 12:38:54 [info]  Verify The data of ENDDATEHeader
+Dec 07,2016 12:38:54 [info]  ====Failed==== Expected value is:[N/A] but Actual value is[Term To]. Please check the screenshot with name: ENDDATEHeaderfor more details
+Dec 07,2016 12:38:55 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\07\ENDDATEHeader_CheckpointFailure_12-07-2016 12-38-54 PM.jpg
+Dec 07,2016 12:38:55 [info]  Verify The data of ExhibitBUSINESS_TERMSHeader
+Dec 07,2016 12:38:55 [info]  Verified that Expected value :[Notes] is matched with Actual value :[Notes]
+Dec 07,2016 12:38:55 [info]  **********checking Mandatory field in Edit Mode**********
+Dec 07,2016 12:39:05 [info]  Verify The data of EXHIBIT DATE UPDATE Header
+Dec 07,2016 12:39:05 [info]  ====Failed==== Expected value is:[N/A] but Actual value is[]. Please check the screenshot with name: EXHIBIT DATE UPDATE Headerfor more details
+Dec 07,2016 12:39:05 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\07\EXHIBIT DATE UPDATE Header_CheckpointFailure_12-07-2016 12-39-05 PM.jpg
+Dec 07,2016 12:39:05 [info]  Verify The data of RI_Exh_ViewMode_EXHIBITIONDAYSCOPE_Header
+Dec 07,2016 12:39:05 [info]  Verified that Expected value :[*Day Scope] is matched with Actual value :[*Day Scope]
+Dec 07,2016 12:42:12 [info]  
+Dec 07,2016 12:42:13 [info]  Verifying the headers of Child Row in Edit Mode
+Dec 07,2016 12:42:27 [info]  Verify The data of WINDOWNAME
+Dec 07,2016 12:42:27 [info]  ====Failed==== Expected value is:[*Window Name] but Actual value is[]. Please check the screenshot with name: WINDOWNAMEfor more details
+Dec 07,2016 12:42:27 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\07\WINDOWNAME_CheckpointFailure_12-07-2016 12-42-27 PM.jpg
+Dec 07,2016 12:42:36 [info]  Verify The data of EXHIBITION_DAYSHeader
+Dec 07,2016 12:42:36 [info]  Verified that Expected value :[Exhibitions] is matched with Actual value :[*Exhibitions]
+Dec 07,2016 12:42:38 [info]  Verify The data of STARTDATECHILD_Header
+Dec 07,2016 12:42:38 [info]  ====Failed==== Expected value is:[Start Date] but Actual value is[Term From]. Please check the screenshot with name: STARTDATECHILD_Headerfor more details
+Dec 07,2016 12:42:39 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\07\STARTDATECHILD_Header_CheckpointFailure_12-07-2016 12-42-38 PM.jpg
+Dec 07,2016 12:42:50 [info]  Verify The data of ENDDATECHILD Header
+Dec 07,2016 12:42:50 [info]  Verified that Expected value :[End Date] is matched with Actual value :[*End Date]
+Dec 07,2016 12:42:52 [info]  Verify The data of NETWORK_SUMMARY Header
+Dec 07,2016 12:42:52 [info]  Verified that Expected value :[Network] is matched with Actual value :[Network]
+Dec 07,2016 12:42:54 [info]  Verify The data of TERRITORY_TERMSHeader
+Dec 07,2016 12:42:54 [info]  Verified that Expected value :[Territory] is matched with Actual value :[Territory]
+Dec 07,2016 12:42:55 [info]  Verify The data of EXHIBITIONDAYTYPE_Header
+Dec 07,2016 12:42:55 [info]  Verified that Expected value :[Day Type] is matched with Actual value :[*Day Type]
+Dec 07,2016 12:42:56 [info]  Verify The data of EXHIBITIONDAYPERIOD Header
+Dec 07,2016 12:42:56 [info]  Verified that Expected value :[Day Period] is matched with Actual value :[*Day Period]
+Dec 07,2016 12:42:57 [info]  Verify The data of PLAYSPEREXHIBITION Header
+Dec 07,2016 12:42:57 [info]  Verified that Expected value :[Plays / Exhib.] is matched with Actual value :[*Plays / Exhib.]
+Dec 07,2016 12:42:57 [info]  Verify The data of ADDLNETWORKUSAGE_Header
+Dec 07,2016 12:42:57 [info]  Verified that Expected value :[Addl.Exhib.Restrictions] is matched with Actual value :[*Addl.Exhib.Restrictions]
+Dec 07,2016 12:43:01 [info]  Test 'Exhibition_UI_Verification' PASSED
+Dec 07,2016 12:43:02 [info]  Closed the Browser
+Dec 07,2016 14:46:33 [info]  ********************Started Executiong the Test Suite at 14:46:33******************
+Dec 07,2016 14:46:33 [info]  Client: AMCN
+Dec 07,2016 14:46:33 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Dec 07,2016 14:46:33 [info]  *********************Started Executing 'createData' Test Case*********************
+Dec 07,2016 14:46:44 [info]  Client: AMCN
+Dec 07,2016 14:46:44 [info]  URL: http://rlv2wb79/login.aspx
+Dec 07,2016 14:46:44 [info]  UserName: automation
+Dec 07,2016 14:46:44 [info]  Password: automation
+Dec 07,2016 14:46:46 [info]  Entered "automation" in field 'User Name'
+Dec 07,2016 14:46:46 [info]  Clicked on the 'Temporary Check Box'
+Dec 07,2016 14:46:46 [info]  Entered "automation" in field 'Password'
+Dec 07,2016 14:46:53 [info]  Clicked on the 'LoginButton'
+Dec 07,2016 14:46:59 [info]  ************************Started Creating Asset of Type: Program - Series************************
+Dec 07,2016 14:47:02 [info]  Clicked on the 'MODULE'
+Dec 07,2016 14:47:09 [info]  Clicked on the 'Asset Maintenance'
+Dec 07,2016 14:47:15 [info]  Clicked on the 'New Button' using JS Executor
+Dec 07,2016 14:47:20 [info]  Clicked on the 'Program' using JS Executor
+Dec 07,2016 14:47:28 [info]  Clicked on the 'General TAB'
+Dec 07,2016 14:47:32 [info]  Selected "Program - Series" in "AssetTypeDropDown" drop down
+Dec 07,2016 14:47:35 [info]  Entered "AUT_AssetSeries_TC1_1207201624633" in field 'AssetTitle'
+Dec 07,2016 14:47:37 [info]  Clicked on the 'Vendor Img Icon' using JS Executor
+Dec 07,2016 14:47:37 [info]  Entered "AUT_AMCN_Vendor1" in field 'SearchvalueVendor'
+Dec 07,2016 14:47:40 [info]  Clicked on the 'VendorWindowButtonfind' using JS Executor
+Dec 07,2016 14:47:46 [info]  Clicked on the 'VendorName At VendorWindow'
+Dec 07,2016 14:47:46 [info]  Clicked on the 'Vendor Select Button' using JS Executor
+Dec 07,2016 14:47:49 [info]  Verify The data of Vendor1
+Dec 07,2016 14:47:49 [info]  Verified that Expected value :[AUT_AMCN_Vendor1] is matched with Actual value :[AUT_AMCN_Vendor1]
+Dec 07,2016 14:47:50 [info]  Clicked on the 'StudioImageIcon' using JS Executor
+Dec 07,2016 14:47:50 [info]  Verified that Expected value :[Studio] is matched with Actual value :[Studio]
+Dec 07,2016 14:47:51 [info]  Entered "AUT_AMCN_Studio" in field 'Studio Name'
+Dec 07,2016 14:47:52 [info]  Clicked on the 'Find Button' using JS Executor
+Dec 07,2016 14:48:00 [info]  Clicked on the 'VendorName At VendorWindow'
+Dec 07,2016 14:48:01 [info]  Clicked on the 'Vendor Select Button' using JS Executor
+Dec 07,2016 14:48:04 [info]  Verify The data of Studio/Vendor2
+Dec 07,2016 14:48:04 [info]  Verified that Expected value :[AUT_AMCN_Studio] is matched with Actual value :[AUT_AMCN_Studio]
+Dec 07,2016 14:48:04 [info]  Clicked on the 'SBUImage' using JS Executor
+Dec 07,2016 14:48:05 [info]  Verified that Expected value :[Source Business Unit Template] is matched with Actual value :[Source Business Unit Template]
+Dec 07,2016 14:48:11 [info]  Clicked on the 'First CheckBox At SBU window'
+Dec 07,2016 14:48:13 [info]  Clicked on the 'Apply Button' using JS Executor
+Dec 07,2016 14:48:13 [info]  Entered "11:11:11" in field 'Duration'
+Dec 07,2016 14:48:23 [info]  Selected "Production" in "Asset Status" drop down
+Dec 07,2016 14:48:24 [info]  Selected "Licensed Acquired" in "Asset Source" drop down
+Dec 07,2016 14:48:24 [info]  Selected "TBD" in "Asset Category/Group" drop down
+Dec 07,2016 14:48:24 [info]  Entered "AUT_Series" in field 'Short Name'
+Dec 07,2016 14:48:24 [info]  Entered "Test" in field 'ProjectID'
+Dec 07,2016 14:48:24 [info]  Clicked on the 'Save Button' using JS Executor
+Dec 07,2016 14:48:32 [info]  Verified that Expected value :[AUT_AssetSeries_TC1_1207201624633] is matched with Actual value :[AUT_AssetSeries_TC1_1207201624633]
+Dec 07,2016 14:48:32 [info]  ************************Created Asset of TypeProgram - Series************************
+Dec 07,2016 14:48:35 [info]  Clicked on the 'MODULE'
+Dec 07,2016 14:48:41 [info]  Clicked on the 'Asset Maintenance'
+Dec 07,2016 14:48:45 [info]  Clicked on the 'Search Menu Icon' using JS Executor
+Dec 07,2016 14:48:47 [info]  Clicked on the 'AssetSearchUnderAsset' using JS Executor
+Dec 07,2016 14:48:55 [info]  Entered "AUT_AssetSeries_TC1_1207201624633" in field 'AssetTitle'
+Dec 07,2016 14:48:55 [info]  Clicked on the 'All Check Box' using JS Executor
+Dec 07,2016 14:48:59 [info]  Clicked on the 'Find Button' using JS Executor
+Dec 07,2016 14:49:24 [info]  Moved Mouse over 'First Asset in the Searched Asset'
+Dec 07,2016 14:49:24 [info]  Clicked on the 'First Asset in the Searched Asset'
+Dec 07,2016 14:49:24 [info]  Clicked on the 'First Asset in the Searched Asset'
+Dec 07,2016 14:49:27 [info]  Clicked on the 'View Asset' using JS Executor
+Dec 07,2016 14:49:39 [info]  Verified that Expected value :[AUT_AssetSeries_TC1_1207201624633] is matched with Actual value :[AUT_AssetSeries_TC1_1207201624633]
+Dec 07,2016 14:49:45 [info]  Clicked on the 'Episodes TAB'
+Dec 07,2016 14:49:50 [info]  Clicked on the ''Edit' Button at Episode window' using JS Executor
+Dec 07,2016 14:49:56 [info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Dec 07,2016 14:49:59 [info]  Entered "101" in field 'Add Episode input field'
+Dec 07,2016 14:50:00 [info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Dec 07,2016 14:50:09 [info]  Clicked on the 'Season Field of Episode101' using JS Executor
+Dec 07,2016 14:50:09 [info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Dec 07,2016 14:50:09 [info]  Clicked on the 'Season 1'
+Dec 07,2016 14:50:09 [info]  Clicked on the 'Support click to select season'
+Dec 07,2016 14:50:12 [info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Dec 07,2016 14:50:12 [info]  Entered "102" in field 'Add Episode input field'
+Dec 07,2016 14:50:14 [info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Dec 07,2016 14:50:25 [info]  Clicked on the 'Season Field of Episode102' using JS Executor
+Dec 07,2016 14:50:25 [info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Dec 07,2016 14:50:25 [info]  Clicked on the 'Season 1'
+Dec 07,2016 14:50:25 [info]  Clicked on the 'Support click to select season'
+Dec 07,2016 14:50:25 [info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Dec 07,2016 14:50:25 [info]  Entered "201" in field 'Add Episode input field'
+Dec 07,2016 14:50:27 [info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Dec 07,2016 14:50:38 [info]  Clicked on the 'Season Field of Episode201' using JS Executor
+Dec 07,2016 14:50:38 [info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Dec 07,2016 14:50:38 [info]  Clicked on the 'Season 2'
+Dec 07,2016 14:50:38 [info]  Clicked on the 'Support click to select season'
+Dec 07,2016 14:50:41 [info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Dec 07,2016 14:50:41 [info]  Entered "202" in field 'Add Episode input field'
+Dec 07,2016 14:50:43 [info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Dec 07,2016 14:50:51 [info]  Clicked on the 'Support click to select season'
+Dec 07,2016 14:50:54 [info]  Clicked on the 'Season Field of Episode201' using JS Executor
+Dec 07,2016 14:50:54 [info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Dec 07,2016 14:50:55 [info]  Clicked on the 'Season 2'
+Dec 07,2016 14:50:55 [info]  Clicked on the 'Support click to select season'
+Dec 07,2016 14:51:01 [info]  Clicked on the 'Save Button at 'Episode Edit Window'' using JS Executor
+Dec 07,2016 14:51:08 [info]  Clicked on the 'Close Button at 'Episode Edit Window'' using JS Executor
+Dec 07,2016 14:51:30 [info]  Clicked on the 'New Button' using JS Executor
+Dec 07,2016 14:51:32 [info]  Clicked on the 'Standalone Agreement' using JS Executor
+Dec 07,2016 14:51:38 [info]  Generated Deal Id is 55989
+Dec 07,2016 14:51:38 [info]  Clicked on the 'DealTitleField' using JS Executor
+Dec 07,2016 14:51:38 [info]  Entered "AUT_Deal_TC1_1207201624633" in field 'Deal Name Field'
+Dec 07,2016 14:51:39 [info]  Entered "AUT_Deal_TC1_1207201624633_desc" in field 'Deal Description/ContractID'
+Dec 07,2016 14:51:39 [info]  Selected "Production" in "DealType_DropDownField" drop down
+Dec 07,2016 14:51:39 [info]  Selected "Development" in "Deal/Agreement Sub Type" drop down
+Dec 07,2016 14:51:39 [info]  Entered "In Progress - IDM" in field 'DealCreationCDEStatus'
+Dec 07,2016 14:51:39 [info]  Entered "01/01/2014" in field 'DateExecuted_InputField'
+Dec 07,2016 14:51:40 [info]  Entered "01/01/2015" in field 'DateEffective_InputField'
+Dec 07,2016 14:51:40 [info]  Entered "USD" in field 'DealCreationCurrency'
+Dec 07,2016 14:51:40 [info]  Selected "AMC" in "ProfitCenter_InputField" drop down
+Dec 07,2016 14:51:46 [info]  Selected "Acquired Series - 280-206100-612103" in "BudgetLine_InputField" drop down
+Dec 07,2016 14:52:08 [info]  Moved Mouse over 'Party_AddButton'
+Dec 07,2016 14:52:08 [info]  Clicked on the 'Party_AddButton'
+Dec 07,2016 14:52:11 [info]  Entered "AUT_AMCN_RI_PRIMARY_PARTY" in field 'Search Party InputField'
+Dec 07,2016 14:52:13 [info]  Double clicked on 'RI Search Party Window Find Button'
+Dec 07,2016 14:52:17 [info]  Clicked on the 'AUT_AMCN_RI_PRIMARY_PARTY'
+Dec 07,2016 14:52:17 [info]  Clicked on the 'Select Button'
+Dec 07,2016 14:52:23 [info]  Clicked on the 'Party Type Field' using JS Executor
+Dec 07,2016 14:52:23 [info]  Entered "Primary" in field 'Party Party InputField'
+Dec 07,2016 14:52:23 [info]  Clicked on the 'Support Click '
+Dec 07,2016 14:52:24 [info]  Clicked on the 'Party_AddButton' using JS Executor
+Dec 07,2016 14:52:29 [info]  Entered "AUT_AMCN_RI_LICENSOR_PARTY" in field 'Search Party InputField'
+Dec 07,2016 14:52:31 [info]  Double clicked on 'RI Search Party Window Find Button'
+Dec 07,2016 14:52:39 [info]  Clicked on the 'Select Party'
+Dec 07,2016 14:52:39 [info]  Clicked on the 'Select Button'
+Dec 07,2016 14:52:45 [info]  Clicked on the 'Party Type Field' using JS Executor
+Dec 07,2016 14:52:46 [info]  Entered "Distributor" in field 'Party Party InputField'
+Dec 07,2016 14:52:46 [info]  Clicked on the 'Support Click '
+Dec 07,2016 14:52:49 [info]  Clicked on the 'Skip Workflow CheckBox'
+Dec 07,2016 14:52:53 [info]  Clicked on the 'Save Button' using JS Executor
+Dec 07,2016 14:52:59 [info]  Verify The data of CreatedDeal
+Dec 07,2016 14:52:59 [info]  Verified that Expected value :[AUT_Deal_TC1_1207201624633] is matched with Actual value :[AUT_Deal_TC1_1207201624633]
+Dec 07,2016 14:52:59 [info]  Clicked on the 'Modules'
+Dec 07,2016 14:53:09 [info]  Clicked on the 'RightsIN'
+Dec 07,2016 14:53:09 [info]  Clicked on the 'Search Icon' using JS Executor
+Dec 07,2016 14:53:11 [info]  Clicked on the 'Agreement Link' using JS Executor
+Dec 07,2016 14:53:14 [info]  Entered "AUT_Deal_TC1_1207201624633" in field 'AssetTitle'
+Dec 07,2016 14:53:18 [info]  Clicked on the 'Find Button' using JS Executor
+Dec 07,2016 14:53:22 [info]  Moved Mouse over 'First Asset in the Searched Asset'
+Dec 07,2016 14:53:22 [info]  Clicked on the 'First Asset in the Searched Asset'
+Dec 07,2016 14:53:25 [info]  Clicked on the 'View Asset' using JS Executor
+Dec 07,2016 14:53:31 [info]  Verified that Expected value :[AUT_Deal_TC1_1207201624633] is matched with Actual value :[AUT_Deal_TC1_1207201624633]
+Dec 07,2016 14:53:33 [info]  Clicked on the 'Navigator' using JS Executor
+Dec 07,2016 14:53:39 [info]  Clicked on the 'Deal'
+Dec 07,2016 14:53:39 [info]  Double clicked on 'Associate With Exiting Asset'
+Dec 07,2016 14:53:41 [info]  Clicked on the 'Asset Status'
+Dec 07,2016 14:53:41 [info]  Clicked on the 'Asset tile' using JS Executor
+Dec 07,2016 14:53:41 [info]  Entered "AUT_AssetSeries_TC1_1207201624633" in field 'Asset title'
+Dec 07,2016 14:53:41 [info]  =====BUG ID======: 20309
+Dec 07,2016 14:53:41 [info]  Clicked on the 'Display Season checkBox' using JS Executor
+Dec 07,2016 14:53:44 [info]  Clicked on the 'Search Button' using JS Executor
+Dec 07,2016 14:53:50 [info]  Clicked on the 'Toggle'
+Dec 07,2016 14:53:53 [info]  Double clicked on 'Searched Asset'
+Dec 07,2016 14:54:05 [info]  Clicked on the 'Ok Button'
+Dec 07,2016 14:54:12 [info]  Test 'createData' PASSED
+Dec 07,2016 14:54:13 [info]  Closed the Browser
+Dec 07,2016 14:59:23 [info]  ********************Started Executiong the Test Suite at 14:59:23******************
+Dec 07,2016 14:59:23 [info]  Client: AMCN
+Dec 07,2016 14:59:23 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Dec 07,2016 14:59:23 [info]  *********************Started Executing 'TC3_sValidationsMsgs_Allocate_Copy_Delete' Test Case*********************
+Dec 07,2016 14:59:34 [info]  Client: AMCN
+Dec 07,2016 14:59:34 [info]  URL: http://rlv2wb79/login.aspx
+Dec 07,2016 14:59:34 [info]  UserName: automation
+Dec 07,2016 14:59:34 [info]  Password: automation
+Dec 07,2016 14:59:35 [info]  Entered "automation" in field 'User Name'
+Dec 07,2016 14:59:35 [info]  Clicked on the 'Temporary Check Box'
+Dec 07,2016 14:59:35 [info]  Entered "automation" in field 'Password'
+Dec 07,2016 14:59:42 [info]  Clicked on the 'LoginButton'
+Dec 07,2016 14:59:48 [info]  Clicked on the 'AUT_Deal_TC1_1207201624633Deal'
+Dec 07,2016 14:59:58 [info]  ====Failed==== "Exhibition Rights TAB" field is not present'
+Dec 07,2016 14:59:58 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\07\Exhibition Rights TAB_CheckpointFailure_12-07-2016 2-59-58 PM.jpg
+Dec 07,2016 15:00:08 [info]  ====Failed==== " Could not find the Frame: div[class*='igtab_Office2007BlueTHContent'][style*=visible]
+Dec 07,2016 15:00:09 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\07\FrameSwitchingFailed0_CheckpointFailure_12-07-2016 3-00-08 PM.jpg
+Dec 07,2016 15:00:09 [info]  no such element: Unable to locate element: {"method":"css selector","selector":"div[class*='igtab_Office2007BlueTHContent'][style*=visible]"}
+  (Session info: chrome=54.0.2840.99)
+  (Driver info: chromedriver=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.04 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: '9P4G6BS', ip: '10.10.22.71', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed), userDataDir=C:\Users\Rajudd\AppData\Local\Temp\scoped_dir4136_12410}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=54.0.2840.99, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 7016d686188ac9214d1d1a6fb9bf7eeb
+*** Element info: {Using=css selector, value=div[class*='igtab_Office2007BlueTHContent'][style*=visible]}
+Dec 07,2016 15:00:19 [info]  ====Failed==== "'Edit' Button at Media Rights TAB" field is not present'
+Dec 07,2016 15:00:19 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\07\'Edit' Button at Media Rights TAB_CheckpointFailure_12-07-2016 3-00-19 PM.jpg
+Dec 07,2016 15:00:19 [info]  
+Dec 07,2016 15:00:19 [info]  Do not select row >> Click Allocate >> Verify Validation Message
+Dec 07,2016 15:00:30 [info]  ====Failed==== " Could not find the Frame: div[id*='WebDialogWindow1'][style*=visible]
+Dec 07,2016 15:00:30 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\07\FrameSwitchingFailed1_CheckpointFailure_12-07-2016 3-00-30 PM.jpg
+Dec 07,2016 15:00:40 [info]  ====Failed==== "Allocate Button" field is not present'
+Dec 07,2016 15:00:40 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\07\Allocate Button_CheckpointFailure_12-07-2016 3-00-40 PM.jpg
+Dec 07,2016 15:00:43 [info]  
+Dec 07,2016 15:00:43 [info]  Verify The data of Alert Message on clicking Allocate Button
+Dec 07,2016 15:00:43 [info]  ====Failed==== Expected value is:[Please select the Exhibition for which you wish to create a Window] but Actual value is[]. Please check the screenshot with name: Alert Message on clicking Allocate Buttonfor more details
+Dec 07,2016 15:00:44 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\07\Alert Message on clicking Allocate Button_CheckpointFailure_12-07-2016 3-00-43 PM.jpg
+Dec 07,2016 15:00:44 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Dec 07,2016 15:00:44 [info]  
+Dec 07,2016 15:00:44 [info]  Do not select row >> Click Copy >> Verify Validation Message
+Dec 07,2016 15:00:54 [info]  ====Failed==== " Could not find the Frame: div[id*='WebDialogWindow1'][style*=visible]
+Dec 07,2016 15:00:54 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\07\FrameSwitchingFailed2_CheckpointFailure_12-07-2016 3-00-54 PM.jpg
+Dec 07,2016 15:01:04 [info]  ====Failed==== "Copy Button" field is not present'
+Dec 07,2016 15:01:04 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\07\Copy Button_CheckpointFailure_12-07-2016 3-01-04 PM.jpg
+Dec 07,2016 15:01:07 [info]  
+Dec 07,2016 15:01:07 [info]  Verify The data of Alert Message on clicking copy Button
+Dec 07,2016 15:01:07 [info]  ====Failed==== Expected value is:[Please select the Exhibition for which you wish to create a Window] but Actual value is[]. Please check the screenshot with name: Alert Message on clicking copy Buttonfor more details
+Dec 07,2016 15:01:08 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\07\Alert Message on clicking copy Button_CheckpointFailure_12-07-2016 3-01-07 PM.jpg
+Dec 07,2016 15:01:08 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Dec 07,2016 15:01:08 [info]  
+Dec 07,2016 15:01:08 [info]  Do not select row >> Click Delete >> Verify Validation Message
+Dec 07,2016 15:01:18 [info]  ====Failed==== " Could not find the Frame: div[id*='WebDialogWindow1'][style*=visible]
+Dec 07,2016 15:01:18 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\07\FrameSwitchingFailed3_CheckpointFailure_12-07-2016 3-01-18 PM.jpg
+Dec 07,2016 15:01:28 [info]  ====Failed==== "Copy Button" field is not present'
+Dec 07,2016 15:01:28 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\07\Copy Button_CheckpointFailure_12-07-2016 3-01-28 PM.jpg
+Dec 07,2016 15:01:31 [info]  
+Dec 07,2016 15:01:32 [info]  Verify The data of Alert Message on clicking Delete Button
+Dec 07,2016 15:01:32 [info]  ====Failed==== Expected value is:[Please select the Exhibition for which you wish to create a Window] but Actual value is[]. Please check the screenshot with name: Alert Message on clicking Delete Buttonfor more details
+Dec 07,2016 15:01:32 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\07\Alert Message on clicking Delete Button_CheckpointFailure_12-07-2016 3-01-32 PM.jpg
+Dec 07,2016 15:01:32 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Dec 07,2016 15:01:32 [info]  
+Dec 07,2016 15:01:32 [info]  Add Button >> Verify Media Rights's rows >> verify Select Check Box is shown >> Verify Buttons
+Dec 07,2016 15:01:42 [info]  ====Failed==== " Could not find the Frame: div[id*='WebDialogWindow1'][style*=visible]
+Dec 07,2016 15:01:42 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\07\FrameSwitchingFailed4_CheckpointFailure_12-07-2016 3-01-42 PM.jpg
+Dec 07,2016 15:01:52 [info]  ====Failed==== "Add Button" field is not present'
+Dec 07,2016 15:01:52 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\07\Add Button_CheckpointFailure_12-07-2016 3-01-52 PM.jpg
+Dec 07,2016 15:02:03 [info]  ====Failed==== " Could not find the Frame: div[id*='WebDialogWindow2'][style*=visible]
+Dec 07,2016 15:02:03 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\07\FrameSwitchingFailed5_CheckpointFailure_12-07-2016 3-02-03 PM.jpg
+Dec 07,2016 15:02:03 [info]  Test 'TC3_sValidationsMsgs_Allocate_Copy_Delete' PASSED
+Dec 07,2016 15:02:04 [info]  Closed the Browser
+Dec 07,2016 15:15:15 [info]  ********************Started Executiong the Test Suite at 15:15:15******************
+Dec 07,2016 15:15:15 [info]  Client: AMCN
+Dec 07,2016 15:15:15 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Dec 07,2016 15:15:15 [info]  *********************Started Executing 'TC3_sValidationsMsgs_Allocate_Copy_Delete' Test Case*********************
+Dec 07,2016 15:15:26 [info]  Client: AMCN
+Dec 07,2016 15:15:26 [info]  URL: http://rlv2wb79/login.aspx
+Dec 07,2016 15:15:26 [info]  UserName: automation
+Dec 07,2016 15:15:26 [info]  Password: automation
+Dec 07,2016 15:15:26 [info]  Entered "automation" in field 'User Name'
+Dec 07,2016 15:15:27 [info]  Clicked on the 'Temporary Check Box'
+Dec 07,2016 15:15:27 [info]  Entered "automation" in field 'Password'
+Dec 07,2016 15:15:34 [info]  Clicked on the 'LoginButton'
+Dec 07,2016 15:15:43 [info]  Double clicked on 'AUT_Deal_TC1_1207201624633Deal'
+Dec 07,2016 15:15:46 [info]  Clicked on the 'Exhibition Rights TAB'
+Dec 07,2016 15:15:51 [info]  Clicked on the ''Edit' Button at Media Rights TAB' using JS Executor
+Dec 07,2016 15:15:51 [info]  
+Dec 07,2016 15:15:51 [info]  Do not select row >> Click Allocate >> Verify Validation Message
+Dec 07,2016 15:15:51 [info]  Clicked on the 'Allocate Button'
+Dec 07,2016 15:15:54 [info]  
+Dec 07,2016 15:15:54 [info]  Verify The data of Alert Message on clicking Allocate Button
+Dec 07,2016 15:15:54 [info]  ====Failed==== Expected value is:[Please select the Exhibition for which you wish to create a Window] but Actual value is[Please select a row before clicking Copy!]. Please check the screenshot with name: Alert Message on clicking Allocate Buttonfor more details
+Dec 07,2016 15:15:55 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\07\Alert Message on clicking Allocate Button_CheckpointFailure_12-07-2016 3-15-54 PM.jpg
+Dec 07,2016 15:15:55 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Dec 07,2016 15:15:55 [info]  
+Dec 07,2016 15:15:55 [info]  Do not select row >> Click Copy >> Verify Validation Message
+Dec 07,2016 15:15:55 [info]  Clicked on the 'Copy Button'
+Dec 07,2016 15:15:58 [info]  
+Dec 07,2016 15:15:58 [info]  Verify The data of Alert Message on clicking copy Button
+Dec 07,2016 15:15:58 [info]  Verified that Expected value :[Please select the Exhibition for which you wish to create a Window] is matched with Actual value :[Please select the Exhibition for which you wish to create a Window]
+Dec 07,2016 15:15:58 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Dec 07,2016 15:15:58 [info]  
+Dec 07,2016 15:15:58 [info]  Do not select row >> Click Delete >> Verify Validation Message
+Dec 07,2016 15:15:58 [info]  Clicked on the 'Copy Button'
+Dec 07,2016 15:16:01 [info]  
+Dec 07,2016 15:16:01 [info]  Verify The data of Alert Message on clicking Delete Button
+Dec 07,2016 15:16:01 [info]  Verified that Expected value :[Please select the Exhibition for which you wish to create a Window] is matched with Actual value :[Please select the Exhibition for which you wish to create a Window]
+Dec 07,2016 15:16:01 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Dec 07,2016 15:16:01 [info]  
+Dec 07,2016 15:16:01 [info]  Add Button >> Verify Media Rights's rows >> verify Select Check Box is shown >> Verify Buttons
+Dec 07,2016 15:16:02 [info]  Clicked on the 'Add Button'
+Dec 07,2016 15:16:04 [info]  Test 'TC3_sValidationsMsgs_Allocate_Copy_Delete' PASSED
+Dec 07,2016 15:16:04 [info]  Closed the Browser
+Dec 07,2016 15:17:40 [info]  ********************Started Executiong the Test Suite at 15:17:40******************
+Dec 07,2016 15:17:40 [info]  Client: AMCN
+Dec 07,2016 15:17:40 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Dec 07,2016 15:17:40 [info]  *********************Started Executing 'TC3_ValidationsMsgs_Allocate_Copy_Delete' Test Case*********************
+Dec 07,2016 15:17:50 [info]  Client: AMCN
+Dec 07,2016 15:17:50 [info]  URL: http://rlv2wb79/login.aspx
+Dec 07,2016 15:17:50 [info]  UserName: automation
+Dec 07,2016 15:17:50 [info]  Password: automation
+Dec 07,2016 15:17:51 [info]  Entered "automation" in field 'User Name'
+Dec 07,2016 15:17:51 [info]  Clicked on the 'Temporary Check Box'
+Dec 07,2016 15:17:52 [info]  Entered "automation" in field 'Password'
+Dec 07,2016 15:17:58 [info]  Clicked on the 'LoginButton'
+Dec 07,2016 15:18:07 [info]  Double clicked on 'AUT_Deal_TC1_1207201624633Deal'
+Dec 07,2016 15:18:10 [info]  Clicked on the 'Exhibition Rights TAB'
+Dec 07,2016 15:18:15 [info]  Clicked on the ''Edit' Button at Media Rights TAB' using JS Executor
+Dec 07,2016 15:18:15 [info]  
+Dec 07,2016 15:18:15 [info]  Do not select row >> Click Allocate >> Verify Validation Message
+Dec 07,2016 15:18:15 [info]  Clicked on the 'Allocate Button'
+Dec 07,2016 15:18:18 [info]  
+Dec 07,2016 15:18:18 [info]  Verify The data of Alert Message on clicking Allocate Button
+Dec 07,2016 15:18:18 [info]  ====Failed==== Expected value is:[Please select the Exhibition for which you wish to create a Window] but Actual value is[Please select a row before clicking Copy!]. Please check the screenshot with name: Alert Message on clicking Allocate Buttonfor more details
+Dec 07,2016 15:18:19 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\07\Alert Message on clicking Allocate Button_CheckpointFailure_12-07-2016 3-18-18 PM.jpg
+Dec 07,2016 15:18:19 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Dec 07,2016 15:18:19 [info]  
+Dec 07,2016 15:18:19 [info]  Do not select row >> Click Copy >> Verify Validation Message
+Dec 07,2016 15:18:19 [info]  Clicked on the 'Copy Button'
+Dec 07,2016 15:18:22 [info]  
+Dec 07,2016 15:18:22 [info]  Verify The data of Alert Message on clicking copy Button
+Dec 07,2016 15:18:22 [info]  ====Failed==== Expected value is:[Please select a row before clicking Copy!] but Actual value is[Please select the Exhibition for which you wish to create a Window]. Please check the screenshot with name: Alert Message on clicking copy Buttonfor more details
+Dec 07,2016 15:18:22 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\07\Alert Message on clicking copy Button_CheckpointFailure_12-07-2016 3-18-22 PM.jpg
+Dec 07,2016 15:18:22 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Dec 07,2016 15:18:22 [info]  
+Dec 07,2016 15:18:22 [info]  Do not select row >> Click Delete >> Verify Validation Message
+Dec 07,2016 15:18:22 [info]  Clicked on the 'Copy Button'
+Dec 07,2016 15:18:25 [info]  
+Dec 07,2016 15:18:26 [info]  Verify The data of Alert Message on clicking Delete Button
+Dec 07,2016 15:18:26 [info]  ====Failed==== Expected value is:[Please select a row before attempting to delete.] but Actual value is[Please select the Exhibition for which you wish to create a Window]. Please check the screenshot with name: Alert Message on clicking Delete Buttonfor more details
+Dec 07,2016 15:18:26 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\07\Alert Message on clicking Delete Button_CheckpointFailure_12-07-2016 3-18-26 PM.jpg
+Dec 07,2016 15:18:26 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Dec 07,2016 15:18:26 [info]  
+Dec 07,2016 15:18:26 [info]  Add Button >> Verify Media Rights's rows >> verify Select Check Box is shown >> Verify Buttons
+Dec 07,2016 15:18:26 [info]  Clicked on the 'Add Button'
+Dec 07,2016 15:18:28 [info]  Test 'TC3_ValidationsMsgs_Allocate_Copy_Delete' PASSED
+Dec 07,2016 15:18:29 [info]  Closed the Browser
+Dec 07,2016 15:19:40 [info]  ********************Started Executiong the Test Suite at 15:19:40******************
+Dec 07,2016 15:19:40 [info]  Client: AMCN
+Dec 07,2016 15:19:40 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Dec 07,2016 15:19:40 [info]  *********************Started Executing 'TC3_ValidationsMsgs_Allocate_Copy_Delete' Test Case*********************
+Dec 07,2016 15:19:50 [info]  Client: AMCN
+Dec 07,2016 15:19:50 [info]  URL: http://rlv2wb79/login.aspx
+Dec 07,2016 15:19:50 [info]  UserName: automation
+Dec 07,2016 15:19:50 [info]  Password: automation
+Dec 07,2016 15:19:51 [info]  Entered "automation" in field 'User Name'
+Dec 07,2016 15:19:51 [info]  Clicked on the 'Temporary Check Box'
+Dec 07,2016 15:19:51 [info]  Entered "automation" in field 'Password'
+Dec 07,2016 15:19:57 [info]  Clicked on the 'LoginButton'
+Dec 07,2016 15:20:07 [info]  Double clicked on 'AUT_Deal_TC1_1207201624633Deal'
+Dec 07,2016 15:20:10 [info]  Clicked on the 'Exhibition Rights TAB'
+Dec 07,2016 15:20:15 [info]  Clicked on the ''Edit' Button at Media Rights TAB' using JS Executor
+Dec 07,2016 15:20:15 [info]  
+Dec 07,2016 15:20:15 [info]  Do not select row >> Click Allocate >> Verify Validation Message
+Dec 07,2016 15:20:15 [info]  Clicked on the 'Allocate Button'
+Dec 07,2016 15:20:18 [info]  
+Dec 07,2016 15:20:18 [info]  Verify The data of Alert Message on clicking Allocate Button
+Dec 07,2016 15:20:18 [info]  Verified that Expected value :[Please select the Exhibition for which you wish to create a Window] is matched with Actual value :[Please select the Exhibition for which you wish to create a Window]
+Dec 07,2016 15:20:18 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Dec 07,2016 15:20:18 [info]  
+Dec 07,2016 15:20:18 [info]  Do not select row >> Click Copy >> Verify Validation Message
+Dec 07,2016 15:20:18 [info]  Clicked on the 'Copy Button'
+Dec 07,2016 15:20:22 [info]  
+Dec 07,2016 15:20:22 [info]  Verify The data of Alert Message on clicking copy Button
+Dec 07,2016 15:20:22 [info]  ====Failed==== Expected value is:[Please select a row before clicking Copy!] but Actual value is[Please select the Exhibition for which you wish to create a Window]. Please check the screenshot with name: Alert Message on clicking copy Buttonfor more details
+Dec 07,2016 15:20:22 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\07\Alert Message on clicking copy Button_CheckpointFailure_12-07-2016 3-20-22 PM.jpg
+Dec 07,2016 15:20:22 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Dec 07,2016 15:20:22 [info]  
+Dec 07,2016 15:20:22 [info]  Do not select row >> Click Delete >> Verify Validation Message
+Dec 07,2016 15:20:22 [info]  Clicked on the 'Delete Button'
+Dec 07,2016 15:20:25 [info]  
+Dec 07,2016 15:20:25 [info]  Verify The data of Alert Message on clicking Delete Button
+Dec 07,2016 15:20:25 [info]  Verified that Expected value :[Please select a row before attempting to delete.] is matched with Actual value :[Please select a row before attempting to delete.]
+Dec 07,2016 15:20:25 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Dec 07,2016 15:20:25 [info]  
+Dec 07,2016 15:20:25 [info]  Add Button >> Verify Media Rights's rows >> verify Select Check Box is shown >> Verify Buttons
+Dec 07,2016 15:20:25 [info]  Clicked on the 'Add Button'
+Dec 07,2016 15:20:27 [info]  Test 'TC3_ValidationsMsgs_Allocate_Copy_Delete' PASSED
+Dec 07,2016 15:20:28 [info]  Closed the Browser
+Dec 07,2016 15:21:11 [info]  ********************Started Executiong the Test Suite at 15:21:11******************
+Dec 07,2016 15:21:11 [info]  Client: AMCN
+Dec 07,2016 15:21:11 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Dec 07,2016 15:21:11 [info]  *********************Started Executing 'TC3_ValidationsMsgs_Allocate_Copy_Delete' Test Case*********************
+Dec 07,2016 15:21:21 [info]  Client: AMCN
+Dec 07,2016 15:21:21 [info]  URL: http://rlv2wb79/login.aspx
+Dec 07,2016 15:21:21 [info]  UserName: automation
+Dec 07,2016 15:21:21 [info]  Password: automation
+Dec 07,2016 15:21:22 [info]  Entered "automation" in field 'User Name'
+Dec 07,2016 15:21:23 [info]  Clicked on the 'Temporary Check Box'
+Dec 07,2016 15:21:23 [info]  Entered "automation" in field 'Password'
+Dec 07,2016 15:21:29 [info]  Clicked on the 'LoginButton'
+Dec 07,2016 15:21:39 [info]  Double clicked on 'AUT_Deal_TC1_1207201624633Deal'
+Dec 07,2016 15:21:42 [info]  Clicked on the 'Exhibition Rights TAB'
+Dec 07,2016 15:21:46 [info]  Clicked on the ''Edit' Button at Media Rights TAB' using JS Executor
+Dec 07,2016 15:21:46 [info]  
+Dec 07,2016 15:21:46 [info]  Do not select row >> Click Allocate >> Verify Validation Message
+Dec 07,2016 15:21:46 [info]  Clicked on the 'Allocate Button'
+Dec 07,2016 15:21:49 [info]  
+Dec 07,2016 15:21:50 [info]  Verify The data of Alert Message on clicking Allocate Button
+Dec 07,2016 15:21:50 [info]  Verified that Expected value :[Please select the Exhibition for which you wish to create a Window] is matched with Actual value :[Please select the Exhibition for which you wish to create a Window]
+Dec 07,2016 15:21:50 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Dec 07,2016 15:21:50 [info]  
+Dec 07,2016 15:21:50 [info]  Do not select row >> Click Copy >> Verify Validation Message
+Dec 07,2016 15:21:50 [info]  Clicked on the 'Copy Button'
+Dec 07,2016 15:21:53 [info]  
+Dec 07,2016 15:21:53 [info]  Verify The data of Alert Message on clicking copy Button
+Dec 07,2016 15:21:53 [info]  Verified that Expected value :[Please select a row before clicking Copy!] is matched with Actual value :[Please select a row before clicking Copy!]
+Dec 07,2016 15:21:53 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Dec 07,2016 15:21:53 [info]  
+Dec 07,2016 15:21:53 [info]  Do not select row >> Click Delete >> Verify Validation Message
+Dec 07,2016 15:21:53 [info]  Clicked on the 'Delete Button'
+Dec 07,2016 15:21:56 [info]  
+Dec 07,2016 15:21:56 [info]  Verify The data of Alert Message on clicking Delete Button
+Dec 07,2016 15:21:56 [info]  Verified that Expected value :[Please select a row before attempting to delete.] is matched with Actual value :[Please select a row before attempting to delete.]
+Dec 07,2016 15:21:56 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Dec 07,2016 15:21:56 [info]  
+Dec 07,2016 15:21:56 [info]  Add Button >> Verify Media Rights's rows >> verify Select Check Box is shown >> Verify Buttons
+Dec 07,2016 15:21:56 [info]  Clicked on the 'Add Button'
+Dec 07,2016 15:21:58 [info]  Test 'TC3_ValidationsMsgs_Allocate_Copy_Delete' PASSED
+Dec 07,2016 15:21:59 [info]  Closed the Browser
+Dec 07,2016 15:27:24 [info]  ********************Started Executiong the Test Suite at 15:27:24******************
+Dec 07,2016 15:27:24 [info]  Client: AMCN
+Dec 07,2016 15:27:24 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Dec 07,2016 15:27:24 [info]  *********************Started Executing 'TC1_MediaRightsRow' Test Case*********************
+Dec 07,2016 15:27:34 [info]  Client: AMCN
+Dec 07,2016 15:27:34 [info]  URL: http://rlv2wb79/login.aspx
+Dec 07,2016 15:27:34 [info]  UserName: automation
+Dec 07,2016 15:27:34 [info]  Password: automation
+Dec 07,2016 15:27:35 [info]  Entered "automation" in field 'User Name'
+Dec 07,2016 15:27:35 [info]  Clicked on the 'Temporary Check Box'
+Dec 07,2016 15:27:35 [info]  Entered "automation" in field 'Password'
+Dec 07,2016 15:27:41 [info]  Clicked on the 'LoginButton'
+Dec 07,2016 15:27:51 [info]  Double clicked on 'AUT_Deal_TC1_1207201624633Deal'
+Dec 07,2016 15:27:54 [info]  Clicked on the 'Media Rights TAB'
+Dec 07,2016 15:27:58 [info]  Clicked on the ''Edit' Button at Media Rights TAB' using JS Executor
+Dec 07,2016 15:28:00 [info]  Clicked on the ''Add' Button at Media Rights Edit window' using JS Executor
+Dec 07,2016 15:28:04 [info]  Double clicked on 'RI_MediaRights_EditMode_Applies To'
+Dec 07,2016 15:28:05 [info]  Clicked on the '*Applies ToDrop Down Image'
+Dec 07,2016 15:28:05 [info]  Clicked on the 'All'
+Dec 07,2016 15:28:08 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Dec 07,2016 15:28:08 [info]  Verify The data of RI_MediaRights_EditMode_*Applies To
+Dec 07,2016 15:28:08 [info]  Verified that Expected value :[All] is matched with Actual value :[All]
+Dec 07,2016 15:28:09 [info]  Double clicked on 'RI_MediaRights_EditMode_Party'
+Dec 07,2016 15:28:09 [info]  Clicked on the 'PartyDrop Down Image'
+Dec 07,2016 15:28:10 [info]  Clicked on the 'AUT_AMCN_RI_PRIMARY_PARTY'
+Dec 07,2016 15:28:13 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Dec 07,2016 15:28:13 [info]  Verify The data of RI_MediaRights_EditMode_Party
+Dec 07,2016 15:28:13 [info]  Verified that Expected value :[AUT_AMCN_RI_PRIMARY_PARTY] is matched with Actual value :[AUT_AMCN_RI_PRIMARY_PARTY]
+Dec 07,2016 15:28:14 [info]  Double clicked on 'RI_MediaRights_EditMode_Media Type'
+Dec 07,2016 15:28:14 [info]  Clicked on the '*Media TypeDrop Down Image'
+Dec 07,2016 15:28:14 [info]  Clicked on the 'All Media'
+Dec 07,2016 15:28:18 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Dec 07,2016 15:28:18 [info]  Verify The data of RI_MediaRights_EditMode_*Media Type
+Dec 07,2016 15:28:18 [info]  Verified that Expected value :[All Media] is matched with Actual value :[All Media]
+Dec 07,2016 15:28:19 [info]  Double clicked on 'RI_MediaRights_EditMode_Venue'
+Dec 07,2016 15:28:19 [info]  Clicked on the '*VenueDrop Down Image'
+Dec 07,2016 15:28:19 [info]  Clicked on the 'All Venues'
+Dec 07,2016 15:28:22 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Dec 07,2016 15:28:22 [info]  Verify The data of RI_MediaRights_EditMode_*Venue
+Dec 07,2016 15:28:22 [info]  Verified that Expected value :[All Venues] is matched with Actual value :[All Venues]
+Dec 07,2016 15:28:28 [info]  Double clicked on 'RI_MediaRights_EditMode_Platforms'
+Dec 07,2016 15:28:28 [info]  Clicked on the '*PlatformsDrop Down Image'
+Dec 07,2016 15:28:28 [info]  Clicked on the 'All Platforms'
+Dec 07,2016 15:28:31 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Dec 07,2016 15:28:31 [info]  Verify The data of RI_MediaRights_EditMode_*Platforms
+Dec 07,2016 15:28:31 [info]  Verified that Expected value :[All Platforms] is matched with Actual value :[All Platforms]
+Dec 07,2016 15:28:33 [info]  Double clicked on 'RI_MediaRights_EditMode_Restrictions'
+Dec 07,2016 15:28:33 [info]  Clicked on the '*RestrictionsDrop Down Image'
+Dec 07,2016 15:28:33 [info]  Clicked on the 'All Restrictions'
+Dec 07,2016 15:28:36 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Dec 07,2016 15:28:36 [info]  Verify The data of RI_MediaRights_EditMode_*Restrictions
+Dec 07,2016 15:28:36 [info]  Verified that Expected value :[All Restrictions] is matched with Actual value :[All Restrictions]
+Dec 07,2016 15:28:37 [info]  Double clicked on 'RI_MediaRights_EditMode_Business Outlets'
+Dec 07,2016 15:28:37 [info]  Clicked on the '*Business OutletsDrop Down Image'
+Dec 07,2016 15:28:37 [info]  Clicked on the 'All Business Outlets'
+Dec 07,2016 15:28:41 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Dec 07,2016 15:28:41 [info]  Verify The data of RI_MediaRights_EditMode_*Business Outlets
+Dec 07,2016 15:28:41 [info]  Verified that Expected value :[All Business Outlets] is matched with Actual value :[All Business Outlets]
+Dec 07,2016 15:28:42 [info]  Double clicked on 'RI_MediaRights_EditMode_Territory'
+Dec 07,2016 15:28:42 [info]  Clicked on the '*TerritoryDrop Down Image'
+Dec 07,2016 15:28:42 [info]  Clicked on the 'All Worldwide'
+Dec 07,2016 15:28:45 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Dec 07,2016 15:28:46 [info]  Verify The data of RI_MediaRights_EditMode_*Territory
+Dec 07,2016 15:28:46 [info]  Verified that Expected value :[All Worldwide] is matched with Actual value :[All Worldwide]
+Dec 07,2016 15:28:47 [info]  Double clicked on 'RI_MediaRights_EditMode_Language'
+Dec 07,2016 15:28:47 [info]  Clicked on the '*LanguageDrop Down Image'
+Dec 07,2016 15:28:47 [info]  Clicked on the 'All Languages'
+Dec 07,2016 15:28:50 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Dec 07,2016 15:28:50 [info]  Verify The data of RI_MediaRights_EditMode_*Language
+Dec 07,2016 15:28:50 [info]  Verified that Expected value :[All Languages] is matched with Actual value :[All Languages]
+Dec 07,2016 15:28:50 [info]  Clicked on the 'Term From Field'
+Dec 07,2016 15:28:51 [info]  Entered "01/01/2007" in field 'Term From'
+Dec 07,2016 15:28:51 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Dec 07,2016 15:28:51 [info]  Verify The data of Term From Data
+Dec 07,2016 15:28:51 [info]  Verified that Expected value :[01/01/2007] is matched with Actual value :[01/01/2007]
+Dec 07,2016 15:28:51 [info]  Clicked on the 'Term To Field'
+Dec 07,2016 15:28:51 [info]  Entered "12/31/2008" in field 'Term To input Field'
+Dec 07,2016 15:28:51 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Dec 07,2016 15:28:51 [info]  Verify The data of Term From Data
+Dec 07,2016 15:28:51 [info]  Verified that Expected value :[12/31/2008] is matched with Actual value :[12/31/2008]
+Dec 07,2016 15:28:53 [info]  Clicked on the ''Add' Button at Media Rights Edit window' using JS Executor
+Dec 07,2016 15:28:58 [info]  Double clicked on 'RI_MediaRights_EditMode_Applies To'
+Dec 07,2016 15:28:58 [info]  Clicked on the '*Applies ToDrop Down Image'
+Dec 07,2016 15:28:58 [info]  Clicked on the 'AUT_AssetSeries_TC1_1207201624633'
+Dec 07,2016 15:29:01 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Dec 07,2016 15:29:01 [info]  Verify The data of RI_MediaRights_EditMode_*Applies To
+Dec 07,2016 15:29:01 [info]  Verified that Expected value :[AUT_AssetSeries_TC1_1207201624633] is matched with Actual value :[AUT_AssetSeries_TC1_1207201624633]
+Dec 07,2016 15:29:03 [info]  Double clicked on 'RI_MediaRights_EditMode_Party'
+Dec 07,2016 15:29:03 [info]  Clicked on the 'PartyDrop Down Image'
+Dec 07,2016 15:29:03 [info]  Clicked on the 'AUT_AMCN_RI_PRIMARY_PARTY'
+Dec 07,2016 15:29:06 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Dec 07,2016 15:29:06 [info]  Verify The data of RI_MediaRights_EditMode_Party
+Dec 07,2016 15:29:06 [info]  Verified that Expected value :[AUT_AMCN_RI_PRIMARY_PARTY] is matched with Actual value :[AUT_AMCN_RI_PRIMARY_PARTY]
+Dec 07,2016 15:29:07 [info]  Double clicked on 'RI_MediaRights_EditMode_Media Type'
+Dec 07,2016 15:29:07 [info]  Clicked on the '*Media TypeDrop Down Image'
+Dec 07,2016 15:29:08 [info]  Clicked on the 'All Media'
+Dec 07,2016 15:29:11 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Dec 07,2016 15:29:11 [info]  Verify The data of RI_MediaRights_EditMode_*Media Type
+Dec 07,2016 15:29:11 [info]  Verified that Expected value :[All Media] is matched with Actual value :[All Media]
+Dec 07,2016 15:29:12 [info]  Double clicked on 'RI_MediaRights_EditMode_Venue'
+Dec 07,2016 15:29:12 [info]  Clicked on the '*VenueDrop Down Image'
+Dec 07,2016 15:29:12 [info]  Clicked on the 'All Venues'
+Dec 07,2016 15:29:15 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Dec 07,2016 15:29:16 [info]  Verify The data of RI_MediaRights_EditMode_*Venue
+Dec 07,2016 15:29:16 [info]  Verified that Expected value :[All Venues] is matched with Actual value :[All Venues]
+Dec 07,2016 15:29:21 [info]  Double clicked on 'RI_MediaRights_EditMode_Platforms'
+Dec 07,2016 15:29:21 [info]  Clicked on the '*PlatformsDrop Down Image'
+Dec 07,2016 15:29:21 [info]  Clicked on the 'All Platforms'
+Dec 07,2016 15:29:24 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Dec 07,2016 15:29:24 [info]  Verify The data of RI_MediaRights_EditMode_*Platforms
+Dec 07,2016 15:29:24 [info]  Verified that Expected value :[All Platforms] is matched with Actual value :[All Platforms]
+Dec 07,2016 15:29:26 [info]  Double clicked on 'RI_MediaRights_EditMode_Restrictions'
+Dec 07,2016 15:29:26 [info]  Clicked on the '*RestrictionsDrop Down Image'
+Dec 07,2016 15:29:26 [info]  Clicked on the 'All Restrictions'
+Dec 07,2016 15:29:29 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Dec 07,2016 15:29:29 [info]  Verify The data of RI_MediaRights_EditMode_*Restrictions
+Dec 07,2016 15:29:29 [info]  Verified that Expected value :[All Restrictions] is matched with Actual value :[All Restrictions]
+Dec 07,2016 15:29:30 [info]  Double clicked on 'RI_MediaRights_EditMode_Business Outlets'
+Dec 07,2016 15:29:30 [info]  Clicked on the '*Business OutletsDrop Down Image'
+Dec 07,2016 15:29:31 [info]  Clicked on the 'All Business Outlets'
+Dec 07,2016 15:29:34 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Dec 07,2016 15:29:34 [info]  Verify The data of RI_MediaRights_EditMode_*Business Outlets
+Dec 07,2016 15:29:34 [info]  Verified that Expected value :[All Business Outlets] is matched with Actual value :[All Business Outlets]
+Dec 07,2016 15:29:35 [info]  Double clicked on 'RI_MediaRights_EditMode_Territory'
+Dec 07,2016 15:29:35 [info]  Clicked on the '*TerritoryDrop Down Image'
+Dec 07,2016 15:29:35 [info]  Clicked on the 'All Worldwide'
+Dec 07,2016 15:29:39 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Dec 07,2016 15:29:39 [info]  Verify The data of RI_MediaRights_EditMode_*Territory
+Dec 07,2016 15:29:39 [info]  Verified that Expected value :[All Worldwide] is matched with Actual value :[All Worldwide]
+Dec 07,2016 15:29:40 [info]  Double clicked on 'RI_MediaRights_EditMode_Language'
+Dec 07,2016 15:29:40 [info]  Clicked on the '*LanguageDrop Down Image'
+Dec 07,2016 15:29:40 [info]  Clicked on the 'All Languages'
+Dec 07,2016 15:29:43 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Dec 07,2016 15:29:43 [info]  Verify The data of RI_MediaRights_EditMode_*Language
+Dec 07,2016 15:29:43 [info]  Verified that Expected value :[All Languages] is matched with Actual value :[All Languages]
+Dec 07,2016 15:29:44 [info]  Clicked on the 'Term From Field'
+Dec 07,2016 15:29:44 [info]  Entered "01/01/2007" in field 'Term From'
+Dec 07,2016 15:29:44 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Dec 07,2016 15:29:44 [info]  Verify The data of Term From Data
+Dec 07,2016 15:29:44 [info]  Verified that Expected value :[01/01/2007] is matched with Actual value :[01/01/2007]
+Dec 07,2016 15:29:44 [info]  Clicked on the 'Term To Field'
+Dec 07,2016 15:29:44 [info]  Entered "12/31/2008" in field 'Term To input Field'
+Dec 07,2016 15:29:44 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Dec 07,2016 15:29:44 [info]  Verify The data of Term From Data
+Dec 07,2016 15:29:44 [info]  Verified that Expected value :[12/31/2008] is matched with Actual value :[12/31/2008]
+Dec 07,2016 15:29:46 [info]  Clicked on the ''Add' Button at Media Rights Edit window' using JS Executor
+Dec 07,2016 15:29:51 [info]  Double clicked on 'RI_MediaRights_EditMode_Applies To'
+Dec 07,2016 15:29:51 [info]  Clicked on the '*Applies ToDrop Down Image'
+Dec 07,2016 15:29:51 [info]  Clicked on the 'Season 1'
+Dec 07,2016 15:29:54 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Dec 07,2016 15:29:54 [info]  Verify The data of RI_MediaRights_EditMode_*Applies To
+Dec 07,2016 15:29:54 [info]  Verified that Expected value :[Season 1] is matched with Actual value :[   Season 1]
+Dec 07,2016 15:29:55 [info]  Double clicked on 'RI_MediaRights_EditMode_Party'
+Dec 07,2016 15:29:56 [info]  Clicked on the 'PartyDrop Down Image'
+Dec 07,2016 15:29:56 [info]  Clicked on the 'AUT_AMCN_RI_PRIMARY_PARTY'
+Dec 07,2016 15:29:59 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Dec 07,2016 15:29:59 [info]  Verify The data of RI_MediaRights_EditMode_Party
+Dec 07,2016 15:29:59 [info]  Verified that Expected value :[AUT_AMCN_RI_PRIMARY_PARTY] is matched with Actual value :[AUT_AMCN_RI_PRIMARY_PARTY]
+Dec 07,2016 15:30:00 [info]  Double clicked on 'RI_MediaRights_EditMode_Media Type'
+Dec 07,2016 15:30:00 [info]  Clicked on the '*Media TypeDrop Down Image'
+Dec 07,2016 15:30:00 [info]  Clicked on the 'All Media'
+Dec 07,2016 15:30:04 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Dec 07,2016 15:30:04 [info]  Verify The data of RI_MediaRights_EditMode_*Media Type
+Dec 07,2016 15:30:04 [info]  Verified that Expected value :[All Media] is matched with Actual value :[All Media]
+Dec 07,2016 15:30:05 [info]  Double clicked on 'RI_MediaRights_EditMode_Venue'
+Dec 07,2016 15:30:05 [info]  Clicked on the '*VenueDrop Down Image'
+Dec 07,2016 15:30:05 [info]  Clicked on the 'All Venues'
+Dec 07,2016 15:30:08 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Dec 07,2016 15:30:08 [info]  Verify The data of RI_MediaRights_EditMode_*Venue
+Dec 07,2016 15:30:08 [info]  Verified that Expected value :[All Venues] is matched with Actual value :[All Venues]
+Dec 07,2016 15:30:14 [info]  Double clicked on 'RI_MediaRights_EditMode_Platforms'
+Dec 07,2016 15:30:14 [info]  Clicked on the '*PlatformsDrop Down Image'
+Dec 07,2016 15:30:14 [info]  Clicked on the 'All Platforms'
+Dec 07,2016 15:30:17 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Dec 07,2016 15:30:17 [info]  Verify The data of RI_MediaRights_EditMode_*Platforms
+Dec 07,2016 15:30:17 [info]  Verified that Expected value :[All Platforms] is matched with Actual value :[All Platforms]
+Dec 07,2016 15:30:18 [info]  Double clicked on 'RI_MediaRights_EditMode_Restrictions'
+Dec 07,2016 15:30:19 [info]  Clicked on the '*RestrictionsDrop Down Image'
+Dec 07,2016 15:30:19 [info]  Clicked on the 'All Restrictions'
+Dec 07,2016 15:30:22 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Dec 07,2016 15:30:22 [info]  Verify The data of RI_MediaRights_EditMode_*Restrictions
+Dec 07,2016 15:30:22 [info]  Verified that Expected value :[All Restrictions] is matched with Actual value :[All Restrictions]
+Dec 07,2016 15:30:23 [info]  Double clicked on 'RI_MediaRights_EditMode_Business Outlets'
+Dec 07,2016 15:30:23 [info]  Clicked on the '*Business OutletsDrop Down Image'
+Dec 07,2016 15:30:23 [info]  Clicked on the 'All Business Outlets'
+Dec 07,2016 15:30:27 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Dec 07,2016 15:30:27 [info]  Verify The data of RI_MediaRights_EditMode_*Business Outlets
+Dec 07,2016 15:30:27 [info]  Verified that Expected value :[All Business Outlets] is matched with Actual value :[All Business Outlets]
+Dec 07,2016 15:30:28 [info]  Double clicked on 'RI_MediaRights_EditMode_Territory'
+Dec 07,2016 15:30:28 [info]  Clicked on the '*TerritoryDrop Down Image'
+Dec 07,2016 15:30:28 [info]  Clicked on the 'All Worldwide'
+Dec 07,2016 15:30:31 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Dec 07,2016 15:30:32 [info]  Verify The data of RI_MediaRights_EditMode_*Territory
+Dec 07,2016 15:30:32 [info]  Verified that Expected value :[All Worldwide] is matched with Actual value :[All Worldwide]
+Dec 07,2016 15:30:33 [info]  Double clicked on 'RI_MediaRights_EditMode_Language'
+Dec 07,2016 15:30:33 [info]  Clicked on the '*LanguageDrop Down Image'
+Dec 07,2016 15:30:33 [info]  Clicked on the 'All Languages'
+Dec 07,2016 15:30:36 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Dec 07,2016 15:30:36 [info]  Verify The data of RI_MediaRights_EditMode_*Language
+Dec 07,2016 15:30:36 [info]  Verified that Expected value :[All Languages] is matched with Actual value :[All Languages]
+Dec 07,2016 15:30:37 [info]  Clicked on the 'Term From Field'
+Dec 07,2016 15:30:37 [info]  Entered "01/01/2007" in field 'Term From'
+Dec 07,2016 15:30:37 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Dec 07,2016 15:30:37 [info]  Verify The data of Term From Data
+Dec 07,2016 15:30:37 [info]  Verified that Expected value :[01/01/2007] is matched with Actual value :[01/01/2007]
+Dec 07,2016 15:30:37 [info]  Clicked on the 'Term To Field'
+Dec 07,2016 15:30:37 [info]  Entered "12/31/2008" in field 'Term To input Field'
+Dec 07,2016 15:30:37 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Dec 07,2016 15:30:37 [info]  Verify The data of Term From Data
+Dec 07,2016 15:30:37 [info]  Verified that Expected value :[12/31/2008] is matched with Actual value :[12/31/2008]
+Dec 07,2016 15:30:39 [info]  Clicked on the ''Add' Button at Media Rights Edit window' using JS Executor
+Dec 07,2016 15:30:44 [info]  Double clicked on 'RI_MediaRights_EditMode_Applies To'
+Dec 07,2016 15:30:44 [info]  Clicked on the '*Applies ToDrop Down Image'
+Dec 07,2016 15:30:44 [info]  Clicked on the 'Ep.101: Episode101'
+Dec 07,2016 15:30:47 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Dec 07,2016 15:30:47 [info]  Verify The data of RI_MediaRights_EditMode_*Applies To
+Dec 07,2016 15:30:47 [info]  Verified that Expected value :[Ep.101: Episode101] is matched with Actual value :[      Ep.101: Episode101]
+Dec 07,2016 15:30:49 [info]  Double clicked on 'RI_MediaRights_EditMode_Party'
+Dec 07,2016 15:30:49 [info]  Clicked on the 'PartyDrop Down Image'
+Dec 07,2016 15:30:49 [info]  Clicked on the 'AUT_AMCN_RI_PRIMARY_PARTY'
+Dec 07,2016 15:30:52 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Dec 07,2016 15:30:52 [info]  Verify The data of RI_MediaRights_EditMode_Party
+Dec 07,2016 15:30:52 [info]  Verified that Expected value :[AUT_AMCN_RI_PRIMARY_PARTY] is matched with Actual value :[AUT_AMCN_RI_PRIMARY_PARTY]
+Dec 07,2016 15:30:53 [info]  Double clicked on 'RI_MediaRights_EditMode_Media Type'
+Dec 07,2016 15:30:53 [info]  Clicked on the '*Media TypeDrop Down Image'
+Dec 07,2016 15:30:54 [info]  Clicked on the 'All Media'
+Dec 07,2016 15:30:57 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Dec 07,2016 15:30:57 [info]  Verify The data of RI_MediaRights_EditMode_*Media Type
+Dec 07,2016 15:30:57 [info]  Verified that Expected value :[All Media] is matched with Actual value :[All Media]
+Dec 07,2016 15:30:58 [info]  Double clicked on 'RI_MediaRights_EditMode_Venue'
+Dec 07,2016 15:30:58 [info]  Clicked on the '*VenueDrop Down Image'
+Dec 07,2016 15:30:58 [info]  Clicked on the 'All Venues'
+Dec 07,2016 15:31:01 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Dec 07,2016 15:31:02 [info]  Verify The data of RI_MediaRights_EditMode_*Venue
+Dec 07,2016 15:31:02 [info]  Verified that Expected value :[All Venues] is matched with Actual value :[All Venues]
+Dec 07,2016 15:31:07 [info]  Double clicked on 'RI_MediaRights_EditMode_Platforms'
+Dec 07,2016 15:31:07 [info]  Clicked on the '*PlatformsDrop Down Image'
+Dec 07,2016 15:31:07 [info]  Clicked on the 'All Platforms'
+Dec 07,2016 15:31:10 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Dec 07,2016 15:31:10 [info]  Verify The data of RI_MediaRights_EditMode_*Platforms
+Dec 07,2016 15:31:10 [info]  Verified that Expected value :[All Platforms] is matched with Actual value :[All Platforms]
+Dec 07,2016 15:31:12 [info]  Double clicked on 'RI_MediaRights_EditMode_Restrictions'
+Dec 07,2016 15:31:12 [info]  Clicked on the '*RestrictionsDrop Down Image'
+Dec 07,2016 15:31:12 [info]  Clicked on the 'All Restrictions'
+Dec 07,2016 15:31:15 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Dec 07,2016 15:31:15 [info]  Verify The data of RI_MediaRights_EditMode_*Restrictions
+Dec 07,2016 15:31:15 [info]  Verified that Expected value :[All Restrictions] is matched with Actual value :[All Restrictions]
+Dec 07,2016 15:31:16 [info]  Double clicked on 'RI_MediaRights_EditMode_Business Outlets'
+Dec 07,2016 15:31:17 [info]  Clicked on the '*Business OutletsDrop Down Image'
+Dec 07,2016 15:31:17 [info]  Clicked on the 'All Business Outlets'
+Dec 07,2016 15:31:20 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Dec 07,2016 15:31:20 [info]  Verify The data of RI_MediaRights_EditMode_*Business Outlets
+Dec 07,2016 15:31:20 [info]  Verified that Expected value :[All Business Outlets] is matched with Actual value :[All Business Outlets]
+Dec 07,2016 15:31:21 [info]  Double clicked on 'RI_MediaRights_EditMode_Territory'
+Dec 07,2016 15:31:21 [info]  Clicked on the '*TerritoryDrop Down Image'
+Dec 07,2016 15:31:22 [info]  Clicked on the 'All Worldwide'
+Dec 07,2016 15:31:25 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Dec 07,2016 15:31:25 [info]  Verify The data of RI_MediaRights_EditMode_*Territory
+Dec 07,2016 15:31:25 [info]  Verified that Expected value :[All Worldwide] is matched with Actual value :[All Worldwide]
+Dec 07,2016 15:31:26 [info]  Double clicked on 'RI_MediaRights_EditMode_Language'
+Dec 07,2016 15:31:26 [info]  Clicked on the '*LanguageDrop Down Image'
+Dec 07,2016 15:31:26 [info]  Clicked on the 'All Languages'
+Dec 07,2016 15:31:29 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Dec 07,2016 15:31:30 [info]  Verify The data of RI_MediaRights_EditMode_*Language
+Dec 07,2016 15:31:30 [info]  Verified that Expected value :[All Languages] is matched with Actual value :[All Languages]
+Dec 07,2016 15:31:30 [info]  Clicked on the 'Term From Field'
+Dec 07,2016 15:31:30 [info]  Entered "01/01/2007" in field 'Term From'
+Dec 07,2016 15:31:30 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Dec 07,2016 15:31:30 [info]  Verify The data of Term From Data
+Dec 07,2016 15:31:30 [info]  Verified that Expected value :[01/01/2007] is matched with Actual value :[01/01/2007]
+Dec 07,2016 15:31:30 [info]  Clicked on the 'Term To Field'
+Dec 07,2016 15:31:30 [info]  Entered "12/31/2008" in field 'Term To input Field'
+Dec 07,2016 15:31:30 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Dec 07,2016 15:31:31 [info]  Verify The data of Term From Data
+Dec 07,2016 15:31:31 [info]  Verified that Expected value :[12/31/2008] is matched with Actual value :[12/31/2008]
+Dec 07,2016 15:31:35 [info]  Clicked on the ''Save' Button at Media Rights Edit window' using JS Executor
+Dec 07,2016 15:31:38 [info]  Verified that Expected value :[Changes Saved Successfully.] is matched with Actual value :[Changes Saved Successfully. The Filter has been updated to reflect your changes.]
+Dec 07,2016 15:31:38 [info]  
+Dec 07,2016 15:31:38 [info]  Started Verifying the data for row:1
+Dec 07,2016 15:31:38 [info]  Verify The data of RI_MediaRights_EditMode_*Applies To
+Dec 07,2016 15:31:38 [info]  Verified that Expected value :[All] is matched with Actual value :[All]
+Dec 07,2016 15:31:38 [info]  Verify The data of RI_MediaRights_EditMode_Party
+Dec 07,2016 15:31:38 [info]  Verified that Expected value :[AUT_AMCN_RI_PRIMARY_PARTY] is matched with Actual value :[AUT_AMCN_RI_PRIMARY_PARTY]
+Dec 07,2016 15:31:38 [info]  Verify The data of RI_MediaRights_EditMode_*Media Type
+Dec 07,2016 15:31:38 [info]  Verified that Expected value :[All Media] is matched with Actual value :[All Media]
+Dec 07,2016 15:31:38 [info]  Verify The data of RI_MediaRights_EditMode_*Venue
+Dec 07,2016 15:31:38 [info]  Verified that Expected value :[All Venues] is matched with Actual value :[All Venues]
+Dec 07,2016 15:31:38 [info]  Verify The data of RI_MediaRights_EditMode_*Platforms
+Dec 07,2016 15:31:38 [info]  Verified that Expected value :[All Platforms] is matched with Actual value :[All Platforms]
+Dec 07,2016 15:31:39 [info]  Verify The data of RI_MediaRights_EditMode_*Restrictions
+Dec 07,2016 15:31:39 [info]  Verified that Expected value :[All Restrictions] is matched with Actual value :[All Restrictions]
+Dec 07,2016 15:31:39 [info]  Verify The data of RI_MediaRights_EditMode_*Business Outlets
+Dec 07,2016 15:31:39 [info]  Verified that Expected value :[All Business Outlets] is matched with Actual value :[All Business Outlets]
+Dec 07,2016 15:31:39 [info]  Verify The data of RI_MediaRights_EditMode_*Territory
+Dec 07,2016 15:31:39 [info]  Verified that Expected value :[All Worldwide] is matched with Actual value :[All Worldwide]
+Dec 07,2016 15:31:39 [info]  Verify The data of RI_MediaRights_EditMode_*Language
+Dec 07,2016 15:31:39 [info]  Verified that Expected value :[All Languages] is matched with Actual value :[All Languages]
+Dec 07,2016 15:31:39 [info]  
+Dec 07,2016 15:31:39 [info]  Started Verifying the data for row:2
+Dec 07,2016 15:31:39 [info]  Verify The data of RI_MediaRights_EditMode_*Applies To
+Dec 07,2016 15:31:39 [info]  Verified that Expected value :[AUT_AssetSeries_TC1_1207201624633] is matched with Actual value :[AUT_AssetSeries_TC1_1207201624633]
+Dec 07,2016 15:31:39 [info]  Verify The data of RI_MediaRights_EditMode_Party
+Dec 07,2016 15:31:39 [info]  Verified that Expected value :[AUT_AMCN_RI_PRIMARY_PARTY] is matched with Actual value :[AUT_AMCN_RI_PRIMARY_PARTY]
+Dec 07,2016 15:31:39 [info]  Verify The data of RI_MediaRights_EditMode_*Media Type
+Dec 07,2016 15:31:39 [info]  Verified that Expected value :[All Media] is matched with Actual value :[All Media]
+Dec 07,2016 15:31:39 [info]  Verify The data of RI_MediaRights_EditMode_*Venue
+Dec 07,2016 15:31:39 [info]  Verified that Expected value :[All Venues] is matched with Actual value :[All Venues]
+Dec 07,2016 15:31:40 [info]  Verify The data of RI_MediaRights_EditMode_*Platforms
+Dec 07,2016 15:31:40 [info]  Verified that Expected value :[All Platforms] is matched with Actual value :[All Platforms]
+Dec 07,2016 15:31:40 [info]  Verify The data of RI_MediaRights_EditMode_*Restrictions
+Dec 07,2016 15:31:40 [info]  Verified that Expected value :[All Restrictions] is matched with Actual value :[All Restrictions]
+Dec 07,2016 15:31:40 [info]  Verify The data of RI_MediaRights_EditMode_*Business Outlets
+Dec 07,2016 15:31:40 [info]  Verified that Expected value :[All Business Outlets] is matched with Actual value :[All Business Outlets]
+Dec 07,2016 15:31:40 [info]  Verify The data of RI_MediaRights_EditMode_*Territory
+Dec 07,2016 15:31:40 [info]  Verified that Expected value :[All Worldwide] is matched with Actual value :[All Worldwide]
+Dec 07,2016 15:31:40 [info]  Verify The data of RI_MediaRights_EditMode_*Language
+Dec 07,2016 15:31:40 [info]  Verified that Expected value :[All Languages] is matched with Actual value :[All Languages]
+Dec 07,2016 15:31:40 [info]  
+Dec 07,2016 15:31:40 [info]  Started Verifying the data for row:3
+Dec 07,2016 15:31:40 [info]  Verify The data of RI_MediaRights_EditMode_*Applies To
+Dec 07,2016 15:31:40 [info]  Verified that Expected value :[Season 1] is matched with Actual value :[Season 1]
+Dec 07,2016 15:31:40 [info]  Verify The data of RI_MediaRights_EditMode_Party
+Dec 07,2016 15:31:40 [info]  Verified that Expected value :[AUT_AMCN_RI_PRIMARY_PARTY] is matched with Actual value :[AUT_AMCN_RI_PRIMARY_PARTY]
+Dec 07,2016 15:31:40 [info]  Verify The data of RI_MediaRights_EditMode_*Media Type
+Dec 07,2016 15:31:40 [info]  Verified that Expected value :[All Media] is matched with Actual value :[All Media]
+Dec 07,2016 15:31:41 [info]  Verify The data of RI_MediaRights_EditMode_*Venue
+Dec 07,2016 15:31:41 [info]  Verified that Expected value :[All Venues] is matched with Actual value :[All Venues]
+Dec 07,2016 15:31:41 [info]  Verify The data of RI_MediaRights_EditMode_*Platforms
+Dec 07,2016 15:31:41 [info]  Verified that Expected value :[All Platforms] is matched with Actual value :[All Platforms]
+Dec 07,2016 15:31:41 [info]  Verify The data of RI_MediaRights_EditMode_*Restrictions
+Dec 07,2016 15:31:41 [info]  Verified that Expected value :[All Restrictions] is matched with Actual value :[All Restrictions]
+Dec 07,2016 15:31:41 [info]  Verify The data of RI_MediaRights_EditMode_*Business Outlets
+Dec 07,2016 15:31:41 [info]  Verified that Expected value :[All Business Outlets] is matched with Actual value :[All Business Outlets]
+Dec 07,2016 15:31:41 [info]  Verify The data of RI_MediaRights_EditMode_*Territory
+Dec 07,2016 15:31:41 [info]  Verified that Expected value :[All Worldwide] is matched with Actual value :[All Worldwide]
+Dec 07,2016 15:31:41 [info]  Verify The data of RI_MediaRights_EditMode_*Language
+Dec 07,2016 15:31:41 [info]  Verified that Expected value :[All Languages] is matched with Actual value :[All Languages]
+Dec 07,2016 15:31:41 [info]  
+Dec 07,2016 15:31:41 [info]  Started Verifying the data for row:4
+Dec 07,2016 15:31:41 [info]  Verify The data of RI_MediaRights_EditMode_*Applies To
+Dec 07,2016 15:31:41 [info]  Verified that Expected value :[Ep.101: Episode101] is matched with Actual value :[Ep.101: Episode101]
+Dec 07,2016 15:31:41 [info]  Verify The data of RI_MediaRights_EditMode_Party
+Dec 07,2016 15:31:41 [info]  Verified that Expected value :[AUT_AMCN_RI_PRIMARY_PARTY] is matched with Actual value :[AUT_AMCN_RI_PRIMARY_PARTY]
+Dec 07,2016 15:31:42 [info]  Verify The data of RI_MediaRights_EditMode_*Media Type
+Dec 07,2016 15:31:42 [info]  Verified that Expected value :[All Media] is matched with Actual value :[All Media]
+Dec 07,2016 15:31:42 [info]  Verify The data of RI_MediaRights_EditMode_*Venue
+Dec 07,2016 15:31:42 [info]  Verified that Expected value :[All Venues] is matched with Actual value :[All Venues]
+Dec 07,2016 15:31:42 [info]  Verify The data of RI_MediaRights_EditMode_*Platforms
+Dec 07,2016 15:31:42 [info]  Verified that Expected value :[All Platforms] is matched with Actual value :[All Platforms]
+Dec 07,2016 15:31:42 [info]  Verify The data of RI_MediaRights_EditMode_*Restrictions
+Dec 07,2016 15:31:42 [info]  Verified that Expected value :[All Restrictions] is matched with Actual value :[All Restrictions]
+Dec 07,2016 15:31:42 [info]  Verify The data of RI_MediaRights_EditMode_*Business Outlets
+Dec 07,2016 15:31:42 [info]  Verified that Expected value :[All Business Outlets] is matched with Actual value :[All Business Outlets]
+Dec 07,2016 15:31:42 [info]  Verify The data of RI_MediaRights_EditMode_*Territory
+Dec 07,2016 15:31:42 [info]  Verified that Expected value :[All Worldwide] is matched with Actual value :[All Worldwide]
+Dec 07,2016 15:31:42 [info]  Verify The data of RI_MediaRights_EditMode_*Language
+Dec 07,2016 15:31:42 [info]  Verified that Expected value :[All Languages] is matched with Actual value :[All Languages]
+Dec 07,2016 15:31:42 [info]  Test 'TC1_MediaRightsRow' PASSED
+Dec 07,2016 15:31:43 [info]  Closed the Browser
+Dec 07,2016 15:46:54 [info]  ********************Started Executiong the Test Suite at 15:46:54******************
+Dec 07,2016 15:46:54 [info]  Client: AMCN
+Dec 07,2016 15:46:54 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Dec 07,2016 15:46:54 [info]  *********************Started Executing 'TC3_ValidationsMsgs_Allocate_Copy_Delete' Test Case*********************
+Dec 07,2016 15:47:05 [info]  Client: AMCN
+Dec 07,2016 15:47:05 [info]  URL: http://rlv2wb79/login.aspx
+Dec 07,2016 15:47:05 [info]  UserName: automation
+Dec 07,2016 15:47:05 [info]  Password: automation
+Dec 07,2016 15:47:05 [info]  Entered "automation" in field 'User Name'
+Dec 07,2016 15:47:06 [info]  Clicked on the 'Temporary Check Box'
+Dec 07,2016 15:47:06 [info]  Entered "automation" in field 'Password'
+Dec 07,2016 15:47:13 [info]  Clicked on the 'LoginButton'
+Dec 07,2016 15:47:23 [info]  Double clicked on 'AUT_Deal_TC1_1207201624633Deal'
+Dec 07,2016 15:47:26 [info]  Clicked on the 'Exhibition Rights TAB'
+Dec 07,2016 15:47:30 [info]  Clicked on the ''Edit' Button at Media Rights TAB' using JS Executor
+Dec 07,2016 15:47:30 [info]  
+Dec 07,2016 15:47:30 [info]  Do not select row >> Click Allocate >> Verify Validation Message
+Dec 07,2016 15:47:30 [info]  Clicked on the 'Allocate Button'
+Dec 07,2016 15:47:33 [info]  
+Dec 07,2016 15:47:33 [info]  Verify The data of Alert Message on clicking Allocate Button
+Dec 07,2016 15:47:33 [info]  Verified that Expected value :[Please select the Exhibition for which you wish to create a Window] is matched with Actual value :[Please select the Exhibition for which you wish to create a Window]
+Dec 07,2016 15:47:33 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Dec 07,2016 15:47:33 [info]  
+Dec 07,2016 15:47:33 [info]  Do not select row >> Click Copy >> Verify Validation Message
+Dec 07,2016 15:47:33 [info]  Clicked on the 'Copy Button'
+Dec 07,2016 15:47:37 [info]  
+Dec 07,2016 15:47:37 [info]  Verify The data of Alert Message on clicking copy Button
+Dec 07,2016 15:47:37 [info]  Verified that Expected value :[Please select a row before clicking Copy!] is matched with Actual value :[Please select a row before clicking Copy!]
+Dec 07,2016 15:47:37 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Dec 07,2016 15:47:37 [info]  
+Dec 07,2016 15:47:37 [info]  Do not select row >> Click Delete >> Verify Validation Message
+Dec 07,2016 15:47:37 [info]  Clicked on the 'Delete Button'
+Dec 07,2016 15:47:40 [info]  
+Dec 07,2016 15:47:40 [info]  Verify The data of Alert Message on clicking Delete Button
+Dec 07,2016 15:47:40 [info]  Verified that Expected value :[Please select a row before attempting to delete.] is matched with Actual value :[Please select a row before attempting to delete.]
+Dec 07,2016 15:47:40 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Dec 07,2016 15:47:40 [info]  
+Dec 07,2016 15:47:40 [info]  Add Button >> Verify Media Rights's rows >> verify Select Check Box is shown >> Verify Buttons
+Dec 07,2016 15:47:40 [info]  Clicked on the 'Add Button'
+Dec 07,2016 15:47:43 [info]  Clicked on the 'Select Check Box'
+Dec 07,2016 15:47:43 [info]  Clicked on the 'Select Check Box'
+Dec 07,2016 15:47:53 [info]  ====Failed==== "Add Button at Media rights Pop up Window" field is not present'
+Dec 07,2016 15:47:53 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\07\Add Button at Media rights Pop up Window_CheckpointFailure_12-07-2016 3-47-53 PM.jpg
+Dec 07,2016 15:47:53 [info]  Test 'TC3_ValidationsMsgs_Allocate_Copy_Delete' FAILED
+Dec 07,2016 15:47:53 [info]  2
+Dec 07,2016 15:47:54 [info]  Test Case :TC3_ValidationsMsgs_Allocate_Copy_Delete's Screenshot of Failure Page: C:\Screenshots\Dec2016\\07\TC3_ValidationsMsgs_Allocate_Copy_Delete_12-07-2016 3-47-53 PM.jpg
+Dec 07,2016 15:47:55 [info]  Closed the Browser
+Dec 07,2016 15:50:11 [info]  ********************Started Executiong the Test Suite at 15:50:11******************
+Dec 07,2016 15:50:11 [info]  Client: AMCN
+Dec 07,2016 15:50:11 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Dec 07,2016 15:50:11 [info]  *********************Started Executing 'TC3_ValidationsMsgs_Allocate_Copy_Delete' Test Case*********************
+Dec 07,2016 15:50:22 [info]  Client: AMCN
+Dec 07,2016 15:50:22 [info]  URL: http://rlv2wb79/login.aspx
+Dec 07,2016 15:50:22 [info]  UserName: automation
+Dec 07,2016 15:50:22 [info]  Password: automation
+Dec 07,2016 15:50:23 [info]  Entered "automation" in field 'User Name'
+Dec 07,2016 15:50:23 [info]  Clicked on the 'Temporary Check Box'
+Dec 07,2016 15:50:23 [info]  Entered "automation" in field 'Password'
+Dec 07,2016 15:50:30 [info]  Clicked on the 'LoginButton'
+Dec 07,2016 15:50:40 [info]  Double clicked on 'AUT_Deal_TC1_1207201624633Deal'
+Dec 07,2016 15:50:43 [info]  Clicked on the 'Exhibition Rights TAB'
+Dec 07,2016 15:50:46 [info]  Clicked on the ''Edit' Button at Media Rights TAB' using JS Executor
+Dec 07,2016 15:50:46 [info]  
+Dec 07,2016 15:50:46 [info]  Do not select row >> Click Allocate >> Verify Validation Message
+Dec 07,2016 15:50:47 [info]  Clicked on the 'Allocate Button'
+Dec 07,2016 15:50:50 [info]  
+Dec 07,2016 15:50:50 [info]  Verify The data of Alert Message on clicking Allocate Button
+Dec 07,2016 15:50:50 [info]  Verified that Expected value :[Please select the Exhibition for which you wish to create a Window] is matched with Actual value :[Please select the Exhibition for which you wish to create a Window]
+Dec 07,2016 15:50:50 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Dec 07,2016 15:50:50 [info]  
+Dec 07,2016 15:50:50 [info]  Do not select row >> Click Copy >> Verify Validation Message
+Dec 07,2016 15:50:50 [info]  Clicked on the 'Copy Button'
+Dec 07,2016 15:50:53 [info]  
+Dec 07,2016 15:50:53 [info]  Verify The data of Alert Message on clicking copy Button
+Dec 07,2016 15:50:53 [info]  Verified that Expected value :[Please select a row before clicking Copy!] is matched with Actual value :[Please select a row before clicking Copy!]
+Dec 07,2016 15:50:54 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Dec 07,2016 15:50:54 [info]  
+Dec 07,2016 15:50:54 [info]  Do not select row >> Click Delete >> Verify Validation Message
+Dec 07,2016 15:50:54 [info]  Clicked on the 'Delete Button'
+Dec 07,2016 15:50:57 [info]  
+Dec 07,2016 15:50:57 [info]  Verify The data of Alert Message on clicking Delete Button
+Dec 07,2016 15:50:57 [info]  Verified that Expected value :[Please select a row before attempting to delete.] is matched with Actual value :[Please select a row before attempting to delete.]
+Dec 07,2016 15:50:57 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Dec 07,2016 15:50:57 [info]  
+Dec 07,2016 15:50:57 [info]  Add Button >> Verify Media Rights's rows >> verify Select Check Box is shown >> Verify Buttons
+Dec 07,2016 15:50:57 [info]  Clicked on the 'Add Button'
+Dec 07,2016 15:51:00 [info]  Clicked on the 'Select Check Box'
+Dec 07,2016 15:51:00 [info]  Clicked on the 'Select Check Box'
+Dec 07,2016 15:51:00 [info]  Clicked on the 'Add Button at Media rights Pop up Window'
+Dec 07,2016 15:51:00 [info]  Verifying the data of Alert Message Same Media Row Select
+Dec 07,2016 15:51:00 [info]  Verified that Expected value :[Applies-To should be same for selected rows.] is matched with Actual value :[Applies-To should be same for selected rows.]
+Dec 07,2016 15:51:00 [info]  Test 'TC3_ValidationsMsgs_Allocate_Copy_Delete' PASSED
+Dec 07,2016 15:51:01 [info]  Closed the Browser
+Dec 07,2016 16:03:01 [info]  ********************Started Executiong the Test Suite at 16:03:01******************
+Dec 07,2016 16:03:01 [info]  Client: AMCN
+Dec 07,2016 16:03:01 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Dec 07,2016 16:03:01 [info]  *********************Started Executing 'TC4_SelectMediaRow_WhileDefiningExhRights' Test Case*********************
+Dec 07,2016 16:03:11 [info]  Client: AMCN
+Dec 07,2016 16:03:11 [info]  URL: http://rlv2wb79/login.aspx
+Dec 07,2016 16:03:11 [info]  UserName: automation
+Dec 07,2016 16:03:11 [info]  Password: automation
+Dec 07,2016 16:03:12 [info]  Entered "automation" in field 'User Name'
+Dec 07,2016 16:03:12 [info]  Clicked on the 'Temporary Check Box'
+Dec 07,2016 16:03:12 [info]  Entered "automation" in field 'Password'
+Dec 07,2016 16:03:20 [info]  Clicked on the 'LoginButton'
+Dec 07,2016 16:03:29 [info]  Double clicked on 'AUT_Deal_TC1_1207201624633Deal'
+Dec 07,2016 16:03:32 [info]  Clicked on the 'Exhibition Rights TAB'
+Dec 07,2016 16:03:35 [info]  Clicked on the ''Edit' Button at Media Rights TAB' using JS Executor
+Dec 07,2016 16:03:35 [info]  
+Dec 07,2016 16:03:35 [info]  Add Button >> Verify Media Rights's rows >> verify Select Check Box is shown >> Verify Buttons
+Dec 07,2016 16:03:36 [info]  Clicked on the 'Add Button'
+Dec 07,2016 16:03:38 [info]  Clicked on the 'Select Check Box'
+Dec 07,2016 16:03:40 [info]  Clicked on the 'Add Button at Media rights Pop up Window'
+Dec 07,2016 16:03:43 [info]  Verify The data of Media Row Number
+Dec 07,2016 16:03:43 [info]  Verified that Expected value :[Media Row No] is matched with Actual value :[Media Row No]
+Dec 07,2016 16:03:43 [info]  Verify The data of Exhibit APPLIESTO
+Dec 07,2016 16:03:43 [info]  Verified that Expected value :[Applies To] is matched with Actual value :[Applies To]
+Dec 07,2016 16:03:43 [info]  Verify The data of UNLIMITED Header
+Dec 07,2016 16:03:43 [info]  Verified that Expected value :[Unlimited] is matched with Actual value :[Unlimited]
+Dec 07,2016 16:03:44 [info]  Verify The data of EXHIBIT DATE UPDATE Header
+Dec 07,2016 16:03:44 [info]  Verified that Expected value :[Update] is matched with Actual value :[*Update]
+Dec 07,2016 16:03:44 [info]  Verify The data of EXHIBITION_DAYSHeader
+Dec 07,2016 16:03:44 [info]  Verified that Expected value :[Exhib.Days] is matched with Actual value :[Exhib.Days]
+Dec 07,2016 16:03:44 [info]  Verify The data of RESERVED_EXHIBITION Header
+Dec 07,2016 16:03:44 [info]  Verified that Expected value :[Reserved Exhibitions] is matched with Actual value :[Reserved Exhibitions]
+Dec 07,2016 16:03:44 [info]  Verify The data of POOLED Header
+Dec 07,2016 16:03:44 [info]  Verified that Expected value :[Pooled] is matched with Actual value :[Pooled]
+Dec 07,2016 16:03:44 [info]  Verify The data of EXHIBITIONDAYSCOPE_Header
+Dec 07,2016 16:03:44 [info]  Verified that Expected value :[Exhib.Day Scope] is matched with Actual value :[*Exhib.Day Scope]
+Dec 07,2016 16:03:44 [info]  Verify The data of STARTDATE Header
+Dec 07,2016 16:03:44 [info]  Verified that Expected value :[Start Date] is matched with Actual value :[Start Date]
+Dec 07,2016 16:03:44 [info]  Verify The data of ENDDATEHeader
+Dec 07,2016 16:03:44 [info]  Verified that Expected value :[End Date] is matched with Actual value :[End Date]
+Dec 07,2016 16:03:44 [info]  Verify The data of ExhibitBUSINESS_TERMSHeader
+Dec 07,2016 16:03:44 [info]  Verified that Expected value :[Notes] is matched with Actual value :[Notes]
+Dec 07,2016 16:03:44 [info]  
+Dec 07,2016 16:03:44 [info]  Verifying the headers of Child Row in Edit Mode
+Dec 07,2016 16:03:44 [info]  Verify The data of WINDOWNAME
+Dec 07,2016 16:03:44 [info]  Verified that Expected value :[Window Name] is matched with Actual value :[*Window Name]
+Dec 07,2016 16:03:44 [info]  Verify The data of WINDOW_TYPE Header
+Dec 07,2016 16:03:44 [info]  Verified that Expected value :[Window Type] is matched with Actual value :[Window Type]
+Dec 07,2016 16:03:44 [info]  Verify The data of RIGHTSTYPE UPDATE Header
+Dec 07,2016 16:03:44 [info]  ====Failed==== Expected value is:[Rights Type] but Actual value is[&nbsp;]. Please check the screenshot with name: RIGHTSTYPE UPDATE Headerfor more details
+Dec 07,2016 16:03:45 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\07\RIGHTSTYPE UPDATE Header_CheckpointFailure_12-07-2016 4-03-44 PM.jpg
+Dec 07,2016 16:03:45 [info]  Verify The data of EXHIBITION_DAYSHeader
+Dec 07,2016 16:03:45 [info]  Verified that Expected value :[Exhib.Days] is matched with Actual value :[Exhib.Days]
+Dec 07,2016 16:03:45 [info]  Verify The data of POOLED Header
+Dec 07,2016 16:03:45 [info]  Verified that Expected value :[Pooled] is matched with Actual value :[Pooled]
+Dec 07,2016 16:03:45 [info]  Verify The data of STARTDATECHILD_Header
+Dec 07,2016 16:03:45 [info]  ====Failed==== Expected value is:[From - To] but Actual value is[*Start Date]. Please check the screenshot with name: STARTDATECHILD_Headerfor more details
+Dec 07,2016 16:03:45 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\07\STARTDATECHILD_Header_CheckpointFailure_12-07-2016 4-03-45 PM.jpg
+Dec 07,2016 16:03:45 [info]  Verify The data of NETWORK_SUMMARY Header
+Dec 07,2016 16:03:45 [info]  Verified that Expected value :[Exhib.Network] is matched with Actual value :[*Exhib.Network]
+Dec 07,2016 16:03:45 [info]  Verify The data of TERRITORY_TERMSHeader
+Dec 07,2016 16:03:45 [info]  Verified that Expected value :[Territory] is matched with Actual value :[Territory]
+Dec 07,2016 16:03:45 [info]  Verify The data of EXHIBITIONDAYTYPE_Header
+Dec 07,2016 16:03:45 [info]  Verified that Expected value :[Day Type] is matched with Actual value :[Day Type]
+Dec 07,2016 16:03:46 [info]  Verify The data of EXHIBITIONDAYPERIOD Header
+Dec 07,2016 16:03:46 [info]  Verified that Expected value :[Day Period] is matched with Actual value :[*Day Period]
+Dec 07,2016 16:03:46 [info]  Verify The data of PLAYSPEREXHIBITION Header
+Dec 07,2016 16:03:46 [info]  ====Failed==== Expected value is:[Palys] but Actual value is[*Plays]. Please check the screenshot with name: PLAYSPEREXHIBITION Headerfor more details
+Dec 07,2016 16:03:46 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\07\PLAYSPEREXHIBITION Header_CheckpointFailure_12-07-2016 4-03-46 PM.jpg
+Dec 07,2016 16:03:46 [info]  Verify The data of ADDLNETWORKUSAGE_Header
+Dec 07,2016 16:03:46 [info]  Verified that Expected value :[Addl.Exhib.Restrictions] is matched with Actual value :[Addl.Exhib.Restrictions]
+Dec 07,2016 16:03:46 [info]  Verify The data of RID_RATING_TERMSHeader
+Dec 07,2016 16:03:46 [info]  Verified that Expected value :[Evaluation] is matched with Actual value :[Evaluation]
+Dec 07,2016 16:03:46 [info]  Test 'TC4_SelectMediaRow_WhileDefiningExhRights' PASSED
+Dec 07,2016 16:03:47 [info]  Closed the Browser
+Dec 07,2016 16:31:49 [info]  ********************Started Executiong the Test Suite at 16:31:49******************
+Dec 07,2016 16:31:49 [info]  Client: AMCN
+Dec 07,2016 16:31:49 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Dec 07,2016 16:31:49 [info]  *********************Started Executing 'TC4_SelectMediaRow_WhileDefiningExhRights' Test Case*********************
+Dec 07,2016 16:31:59 [info]  Client: AMCN
+Dec 07,2016 16:31:59 [info]  URL: http://rlv2wb79/login.aspx
+Dec 07,2016 16:31:59 [info]  UserName: automation
+Dec 07,2016 16:31:59 [info]  Password: automation
+Dec 07,2016 16:32:02 [info]  Entered "automation" in field 'User Name'
+Dec 07,2016 16:32:02 [info]  Clicked on the 'Temporary Check Box'
+Dec 07,2016 16:32:02 [info]  Entered "automation" in field 'Password'
+Dec 07,2016 16:32:10 [info]  Clicked on the 'LoginButton'
+Dec 07,2016 16:32:19 [info]  Double clicked on 'AUT_Deal_TC1_1207201624633Deal'
+Dec 07,2016 16:32:46 [info]  Verify The data of RI_MediaRights_EditMode_Start Date Chile
+Dec 07,2016 16:32:46 [info]  ====Failed==== Expected value is:[01/01/2007] but Actual value is[]. Please check the screenshot with name: RI_MediaRights_EditMode_Start Date Chilefor more details
+Dec 07,2016 16:32:47 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\07\RI_MediaRights_EditMode_Start Date Chile_CheckpointFailure_12-07-2016 4-32-46 PM.jpg
+Dec 07,2016 16:32:47 [info]  Test 'TC4_SelectMediaRow_WhileDefiningExhRights' PASSED
+Dec 07,2016 16:32:48 [info]  Closed the Browser
+Dec 07,2016 16:34:24 [info]  ********************Started Executiong the Test Suite at 16:34:24******************
+Dec 07,2016 16:34:24 [info]  Client: AMCN
+Dec 07,2016 16:34:24 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Dec 07,2016 16:34:24 [info]  *********************Started Executing 'TC4_SelectMediaRow_WhileDefiningExhRights' Test Case*********************
+Dec 07,2016 16:34:35 [info]  Client: AMCN
+Dec 07,2016 16:34:35 [info]  URL: http://rlv2wb79/login.aspx
+Dec 07,2016 16:34:35 [info]  UserName: automation
+Dec 07,2016 16:34:35 [info]  Password: automation
+Dec 07,2016 16:34:37 [info]  Entered "automation" in field 'User Name'
+Dec 07,2016 16:34:37 [info]  Clicked on the 'Temporary Check Box'
+Dec 07,2016 16:34:37 [info]  Entered "automation" in field 'Password'
+Dec 07,2016 16:34:44 [info]  Clicked on the 'LoginButton'
+Dec 07,2016 16:34:53 [info]  Double clicked on 'AUT_Deal_TC1_1207201624633Deal'
+Dec 07,2016 16:35:23 [info]  Verify The data of RI_MediaRights_EditMode_Start Date Chile
+Dec 07,2016 16:35:23 [info]  ====Failed==== Expected value is:[01/01/2007] but Actual value is[]. Please check the screenshot with name: RI_MediaRights_EditMode_Start Date Chilefor more details
+Dec 07,2016 16:35:23 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\07\RI_MediaRights_EditMode_Start Date Chile_CheckpointFailure_12-07-2016 4-35-23 PM.jpg
+Dec 07,2016 16:35:23 [info]  Test 'TC4_SelectMediaRow_WhileDefiningExhRights' PASSED
+Dec 07,2016 16:35:24 [info]  Closed the Browser
+Dec 07,2016 16:53:18 [info]  ********************Started Executiong the Test Suite at 16:53:18******************
+Dec 07,2016 16:53:18 [info]  Client: AMCN
+Dec 07,2016 16:53:18 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Dec 07,2016 16:53:18 [info]  *********************Started Executing 'TC4_SelectMediaRow_WhileDefiningExhRights' Test Case*********************
+Dec 07,2016 16:53:29 [info]  Client: AMCN
+Dec 07,2016 16:53:29 [info]  URL: http://rlv2wb79/login.aspx
+Dec 07,2016 16:53:29 [info]  UserName: automation
+Dec 07,2016 16:53:29 [info]  Password: automation
+Dec 07,2016 16:53:30 [info]  Entered "automation" in field 'User Name'
+Dec 07,2016 16:53:30 [info]  Clicked on the 'Temporary Check Box'
+Dec 07,2016 16:53:30 [info]  Entered "automation" in field 'Password'
+Dec 07,2016 16:53:37 [info]  Clicked on the 'LoginButton'
+Dec 07,2016 16:53:46 [info]  Double clicked on 'AUT_Deal_TC1_1207201624633Deal'
+Dec 07,2016 16:54:12 [info]  Verify The data of RI_MediaRights_EditMode_Start Date Child
+Dec 07,2016 16:54:12 [info]  Verified that Expected value :[01/01/2007] is matched with Actual value :[01/01/2007]
+Dec 07,2016 16:54:12 [info]  Test 'TC4_SelectMediaRow_WhileDefiningExhRights' PASSED
+Dec 07,2016 16:54:13 [info]  Closed the Browser
+Dec 07,2016 17:26:11 [info]  ********************Started Executiong the Test Suite at 17:26:11******************
+Dec 07,2016 17:26:11 [info]  Client: AMCN
+Dec 07,2016 17:26:11 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Dec 07,2016 17:26:11 [info]  *********************Started Executing 'TC4_SelectMediaRow_WhileDefiningExhRights' Test Case*********************
+Dec 07,2016 17:26:21 [info]  Client: AMCN
+Dec 07,2016 17:26:21 [info]  URL: http://rlv2wb79/login.aspx
+Dec 07,2016 17:26:21 [info]  UserName: automation
+Dec 07,2016 17:26:21 [info]  Password: automation
+Dec 07,2016 17:26:22 [info]  Entered "automation" in field 'User Name'
+Dec 07,2016 17:26:22 [info]  Clicked on the 'Temporary Check Box'
+Dec 07,2016 17:26:22 [info]  Entered "automation" in field 'Password'
+Dec 07,2016 17:26:29 [info]  Clicked on the 'LoginButton'
+Dec 07,2016 17:26:38 [info]  Double clicked on 'AUT_Deal_TC1_1207201624633Deal'
+Dec 07,2016 17:26:41 [info]  Clicked on the 'Exhibition Rights TAB'
+Dec 07,2016 17:26:45 [info]  Clicked on the ''Edit' Button at Media Rights TAB' using JS Executor
+Dec 07,2016 17:26:45 [info]  
+Dec 07,2016 17:26:45 [info]  Add Button >> Verify Media Rights's rows >> verify Select Check Box is shown >> Verify Buttons
+Dec 07,2016 17:26:46 [info]  Clicked on the 'Add Button'
+Dec 07,2016 17:26:58 [info]  ====Failed==== "Select Check Box" field is not present'
+Dec 07,2016 17:26:59 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\07\Select Check Box_CheckpointFailure_12-07-2016 5-26-58 PM.jpg
+Dec 07,2016 17:26:59 [info]  Clicked on the 'Add Button at Media rights Pop up Window'
+Dec 07,2016 17:27:02 [info]  Verify The data of Media Row Number
+Dec 07,2016 17:27:02 [info]  Verified that Expected value :[Media Row No] is matched with Actual value :[Media Row No]
+Dec 07,2016 17:27:02 [info]  Verify The data of Exhibit APPLIESTO
+Dec 07,2016 17:27:02 [info]  Verified that Expected value :[Applies To] is matched with Actual value :[Applies To]
+Dec 07,2016 17:27:02 [info]  Verify The data of UNLIMITED Header
+Dec 07,2016 17:27:02 [info]  Verified that Expected value :[Unlimited] is matched with Actual value :[Unlimited]
+Dec 07,2016 17:27:02 [info]  Verify The data of EXHIBIT DATE UPDATE Header
+Dec 07,2016 17:27:02 [info]  Verified that Expected value :[Update] is matched with Actual value :[*Update]
+Dec 07,2016 17:27:03 [info]  Verify The data of EXHIBITION_DAYSHeader
+Dec 07,2016 17:27:03 [info]  Verified that Expected value :[Exhib.Days] is matched with Actual value :[Exhib.Days]
+Dec 07,2016 17:27:03 [info]  Verify The data of RESERVED_EXHIBITION Header
+Dec 07,2016 17:27:03 [info]  Verified that Expected value :[Reserved Exhibitions] is matched with Actual value :[Reserved Exhibitions]
+Dec 07,2016 17:27:03 [info]  Verify The data of POOLED Header
+Dec 07,2016 17:27:03 [info]  Verified that Expected value :[Pooled] is matched with Actual value :[Pooled]
+Dec 07,2016 17:27:03 [info]  Verify The data of EXHIBITIONDAYSCOPE_Header
+Dec 07,2016 17:27:03 [info]  Verified that Expected value :[Exhib.Day Scope] is matched with Actual value :[*Exhib.Day Scope]
+Dec 07,2016 17:27:03 [info]  Verify The data of STARTDATE Header
+Dec 07,2016 17:27:03 [info]  Verified that Expected value :[Start Date] is matched with Actual value :[Start Date]
+Dec 07,2016 17:27:03 [info]  Verify The data of ENDDATEHeader
+Dec 07,2016 17:27:03 [info]  Verified that Expected value :[End Date] is matched with Actual value :[End Date]
+Dec 07,2016 17:27:03 [info]  Verify The data of ExhibitBUSINESS_TERMSHeader
+Dec 07,2016 17:27:03 [info]  Verified that Expected value :[Notes] is matched with Actual value :[Notes]
+Dec 07,2016 17:27:03 [info]  
+Dec 07,2016 17:27:03 [info]  Verifying the headers of Child Row in Edit Mode
+Dec 07,2016 17:27:13 [info]  Verify The data of WINDOWNAME
+Dec 07,2016 17:27:13 [info]  ====Failed==== Expected value is:[Window Name] but Actual value is[]. Please check the screenshot with name: WINDOWNAMEfor more details
+Dec 07,2016 17:27:13 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\07\WINDOWNAME_CheckpointFailure_12-07-2016 5-27-13 PM.jpg
+Dec 07,2016 17:27:13 [info]  Verify The data of WINDOW_TYPE Header
+Dec 07,2016 17:27:13 [info]  Verified that Expected value :[Window Type] is matched with Actual value :[Window Type]
+Dec 07,2016 17:27:23 [info]  Verify The data of RIGHTSTYPE UPDATE Header
+Dec 07,2016 17:27:23 [info]  ====Failed==== Expected value is:[Rights Type] but Actual value is[]. Please check the screenshot with name: RIGHTSTYPE UPDATE Headerfor more details
+Dec 07,2016 17:27:24 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\07\RIGHTSTYPE UPDATE Header_CheckpointFailure_12-07-2016 5-27-23 PM.jpg
+Dec 07,2016 17:27:24 [info]  Verify The data of EXHIBITION_DAYSHeader
+Dec 07,2016 17:27:24 [info]  Verified that Expected value :[Exhib.Days] is matched with Actual value :[Exhib.Days]
+Dec 07,2016 17:27:24 [info]  Verify The data of POOLED Header
+Dec 07,2016 17:27:24 [info]  Verified that Expected value :[Pooled] is matched with Actual value :[Pooled]
+Dec 07,2016 17:27:34 [info]  Verify The data of STARTDATECHILD_Header
+Dec 07,2016 17:27:34 [info]  ====Failed==== Expected value is:[Start Date] but Actual value is[]. Please check the screenshot with name: STARTDATECHILD_Headerfor more details
+Dec 07,2016 17:27:34 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\07\STARTDATECHILD_Header_CheckpointFailure_12-07-2016 5-27-34 PM.jpg
+Dec 07,2016 17:27:44 [info]  Verify The data of NETWORK_SUMMARY Header
+Dec 07,2016 17:27:44 [info]  ====Failed==== Expected value is:[Exhib.Network] but Actual value is[]. Please check the screenshot with name: NETWORK_SUMMARY Headerfor more details
+Dec 07,2016 17:27:44 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\07\NETWORK_SUMMARY Header_CheckpointFailure_12-07-2016 5-27-44 PM.jpg
+Dec 07,2016 17:27:55 [info]  Verify The data of TERRITORY_TERMSHeader
+Dec 07,2016 17:27:55 [info]  ====Failed==== Expected value is:[Territory] but Actual value is[]. Please check the screenshot with name: TERRITORY_TERMSHeaderfor more details
+Dec 07,2016 17:27:55 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\07\TERRITORY_TERMSHeader_CheckpointFailure_12-07-2016 5-27-55 PM.jpg
+Dec 07,2016 17:28:05 [info]  Verify The data of EXHIBITIONDAYTYPE_Header
+Dec 07,2016 17:28:05 [info]  ====Failed==== Expected value is:[Day Type] but Actual value is[]. Please check the screenshot with name: EXHIBITIONDAYTYPE_Headerfor more details
+Dec 07,2016 17:28:05 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\07\EXHIBITIONDAYTYPE_Header_CheckpointFailure_12-07-2016 5-28-05 PM.jpg
+Dec 07,2016 17:29:54 [info]  ********************Started Executiong the Test Suite at 17:29:54******************
+Dec 07,2016 17:29:54 [info]  Client: AMCN
+Dec 07,2016 17:29:54 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Dec 07,2016 17:29:54 [info]  *********************Started Executing 'TC4_SelectMediaRow_WhileDefiningExhRights' Test Case*********************
+Dec 07,2016 17:30:04 [info]  Client: AMCN
+Dec 07,2016 17:30:04 [info]  URL: http://rlv2wb79/login.aspx
+Dec 07,2016 17:30:04 [info]  UserName: automation
+Dec 07,2016 17:30:04 [info]  Password: automation
+Dec 07,2016 17:30:05 [info]  Entered "automation" in field 'User Name'
+Dec 07,2016 17:30:05 [info]  Clicked on the 'Temporary Check Box'
+Dec 07,2016 17:30:05 [info]  Entered "automation" in field 'Password'
+Dec 07,2016 17:30:12 [info]  Clicked on the 'LoginButton'
+Dec 07,2016 17:30:21 [info]  Double clicked on 'AUT_Deal_TC1_1207201624633Deal'
+Dec 07,2016 17:30:24 [info]  Clicked on the 'Exhibition Rights TAB'
+Dec 07,2016 17:30:28 [info]  Clicked on the ''Edit' Button at Media Rights TAB' using JS Executor
+Dec 07,2016 17:30:28 [info]  
+Dec 07,2016 17:30:28 [info]  Add Button >> Verify Media Rights's rows >> verify Select Check Box is shown >> Verify Buttons
+Dec 07,2016 17:30:28 [info]  Clicked on the 'Add Button'
+Dec 07,2016 17:30:51 [info]  ====Failed==== "Select Check Box" field is not present'
+Dec 07,2016 17:30:51 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\07\Select Check Box_CheckpointFailure_12-07-2016 5-30-51 PM.jpg
+Dec 07,2016 17:31:39 [info]  ********************Started Executiong the Test Suite at 17:31:39******************
+Dec 07,2016 17:31:39 [info]  Client: AMCN
+Dec 07,2016 17:31:39 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Dec 07,2016 17:31:39 [info]  *********************Started Executing 'TC4_SelectMediaRow_WhileDefiningExhRights' Test Case*********************
+Dec 07,2016 17:31:49 [info]  Client: AMCN
+Dec 07,2016 17:31:49 [info]  URL: http://rlv2wb79/login.aspx
+Dec 07,2016 17:31:49 [info]  UserName: automation
+Dec 07,2016 17:31:49 [info]  Password: automation
+Dec 07,2016 17:31:50 [info]  Entered "automation" in field 'User Name'
+Dec 07,2016 17:31:50 [info]  Clicked on the 'Temporary Check Box'
+Dec 07,2016 17:31:50 [info]  Entered "automation" in field 'Password'
+Dec 07,2016 17:31:56 [info]  Clicked on the 'LoginButton'
+Dec 07,2016 17:32:05 [info]  Double clicked on 'AUT_Deal_TC1_1207201624633Deal'
+Dec 07,2016 17:32:08 [info]  Clicked on the 'Exhibition Rights TAB'
+Dec 07,2016 17:32:11 [info]  Clicked on the ''Edit' Button at Media Rights TAB' using JS Executor
+Dec 07,2016 17:32:11 [info]  
+Dec 07,2016 17:32:11 [info]  Add Button >> Verify Media Rights's rows >> verify Select Check Box is shown >> Verify Buttons
+Dec 07,2016 17:32:12 [info]  Clicked on the 'Add Button'
+Dec 07,2016 17:32:44 [info]  Clicked on the 'Select Check Box'
+Dec 07,2016 17:32:46 [info]  Clicked on the 'Add Button at Media rights Pop up Window'
+Dec 07,2016 17:32:49 [info]  Verify The data of Media Row Number
+Dec 07,2016 17:32:49 [info]  Verified that Expected value :[Media Row No] is matched with Actual value :[Media Row No]
+Dec 07,2016 17:32:49 [info]  Verify The data of Exhibit APPLIESTO
+Dec 07,2016 17:32:49 [info]  Verified that Expected value :[Applies To] is matched with Actual value :[Applies To]
+Dec 07,2016 17:32:50 [info]  Verify The data of UNLIMITED Header
+Dec 07,2016 17:32:50 [info]  Verified that Expected value :[Unlimited] is matched with Actual value :[Unlimited]
+Dec 07,2016 17:32:50 [info]  Verify The data of EXHIBIT DATE UPDATE Header
+Dec 07,2016 17:32:50 [info]  Verified that Expected value :[Update] is matched with Actual value :[*Update]
+Dec 07,2016 17:32:50 [info]  Verify The data of EXHIBITION_DAYSHeader
+Dec 07,2016 17:32:50 [info]  Verified that Expected value :[Exhib.Days] is matched with Actual value :[Exhib.Days]
+Dec 07,2016 17:32:50 [info]  Verify The data of RESERVED_EXHIBITION Header
+Dec 07,2016 17:32:50 [info]  Verified that Expected value :[Reserved Exhibitions] is matched with Actual value :[Reserved Exhibitions]
+Dec 07,2016 17:32:50 [info]  Verify The data of POOLED Header
+Dec 07,2016 17:32:50 [info]  Verified that Expected value :[Pooled] is matched with Actual value :[Pooled]
+Dec 07,2016 17:32:50 [info]  Verify The data of EXHIBITIONDAYSCOPE_Header
+Dec 07,2016 17:32:50 [info]  Verified that Expected value :[Exhib.Day Scope] is matched with Actual value :[*Exhib.Day Scope]
+Dec 07,2016 17:32:50 [info]  Verify The data of STARTDATE Header
+Dec 07,2016 17:32:50 [info]  Verified that Expected value :[Start Date] is matched with Actual value :[Start Date]
+Dec 07,2016 17:32:50 [info]  Verify The data of ENDDATEHeader
+Dec 07,2016 17:32:50 [info]  Verified that Expected value :[End Date] is matched with Actual value :[End Date]
+Dec 07,2016 17:32:50 [info]  Verify The data of ExhibitBUSINESS_TERMSHeader
+Dec 07,2016 17:32:50 [info]  Verified that Expected value :[Notes] is matched with Actual value :[Notes]
+Dec 07,2016 17:32:50 [info]  
+Dec 07,2016 17:32:50 [info]  Verifying the headers of Child Row in Edit Mode
+Dec 07,2016 17:32:50 [info]  Verify The data of WINDOWNAME
+Dec 07,2016 17:32:50 [info]  Verified that Expected value :[Window Name] is matched with Actual value :[*Window Name]
+Dec 07,2016 17:32:50 [info]  Verify The data of WINDOW_TYPE Header
+Dec 07,2016 17:32:50 [info]  Verified that Expected value :[Window Type] is matched with Actual value :[Window Type]
+Dec 07,2016 17:32:51 [info]  Verify The data of RIGHTSTYPE UPDATE Header
+Dec 07,2016 17:32:51 [info]  ====Failed==== Expected value is:[Rights Type] but Actual value is[&nbsp;]. Please check the screenshot with name: RIGHTSTYPE UPDATE Headerfor more details
+Dec 07,2016 17:32:51 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\07\RIGHTSTYPE UPDATE Header_CheckpointFailure_12-07-2016 5-32-51 PM.jpg
+Dec 07,2016 17:32:51 [info]  Verify The data of EXHIBITION_DAYSHeader
+Dec 07,2016 17:32:51 [info]  Verified that Expected value :[Exhib.Days] is matched with Actual value :[Exhib.Days]
+Dec 07,2016 17:32:51 [info]  Verify The data of POOLED Header
+Dec 07,2016 17:32:51 [info]  Verified that Expected value :[Pooled] is matched with Actual value :[Pooled]
+Dec 07,2016 17:32:51 [info]  Verify The data of STARTDATECHILD_Header
+Dec 07,2016 17:32:51 [info]  Verified that Expected value :[Start Date] is matched with Actual value :[*Start Date]
+Dec 07,2016 17:32:51 [info]  Verify The data of NETWORK_SUMMARY Header
+Dec 07,2016 17:32:51 [info]  Verified that Expected value :[Exhib.Network] is matched with Actual value :[*Exhib.Network]
+Dec 07,2016 17:32:51 [info]  Verify The data of TERRITORY_TERMSHeader
+Dec 07,2016 17:32:51 [info]  Verified that Expected value :[Territory] is matched with Actual value :[Territory]
+Dec 07,2016 17:32:51 [info]  Verify The data of EXHIBITIONDAYTYPE_Header
+Dec 07,2016 17:32:51 [info]  Verified that Expected value :[Day Type] is matched with Actual value :[Day Type]
+Dec 07,2016 17:32:51 [info]  Verify The data of EXHIBITIONDAYPERIOD Header
+Dec 07,2016 17:32:51 [info]  Verified that Expected value :[Day Period] is matched with Actual value :[*Day Period]
+Dec 07,2016 17:32:51 [info]  Verify The data of PLAYSPEREXHIBITION Header
+Dec 07,2016 17:32:51 [info]  Verified that Expected value :[Plays] is matched with Actual value :[*Plays]
+Dec 07,2016 17:32:52 [info]  Verify The data of ADDLNETWORKUSAGE_Header
+Dec 07,2016 17:32:52 [info]  Verified that Expected value :[Addl.Exhib.Restrictions] is matched with Actual value :[Addl.Exhib.Restrictions]
+Dec 07,2016 17:32:52 [info]  Verify The data of RID_RATING_TERMSHeader
+Dec 07,2016 17:32:52 [info]  Verified that Expected value :[Evaluation] is matched with Actual value :[Evaluation]
+Dec 07,2016 17:32:55 [info]  Verify The data of Applies to
+Dec 07,2016 17:32:55 [info]  Verified that Expected value :[All] is matched with Actual value :[All]
+Dec 07,2016 17:32:55 [info]  Verify The data of Applies to
+Dec 07,2016 17:32:55 [info]  Verified that Expected value :[Automatic] is matched with Actual value :[Automatic]
+Dec 07,2016 17:32:55 [info]  Verify The data of STARTDATE
+Dec 07,2016 17:32:55 [info]  Verified that Expected value :[01/01/2007] is matched with Actual value :[01/01/2007]
+Dec 07,2016 17:32:56 [info]  Verify The data of ENDDATE
+Dec 07,2016 17:32:56 [info]  Verified that Expected value :[12/31/2008] is matched with Actual value :[12/31/2008]
+Dec 07,2016 17:32:56 [info]  Verify The data of UNLIMITED Check box
+Dec 07,2016 17:32:56 [info]  Verified that Expected value :[Checked] is matched with Actual value :[Checked]
+Dec 07,2016 17:32:56 [info]  Verify The data of POOLED Check box
+Dec 07,2016 17:32:56 [info]  Verified that Expected value :[Checked] is matched with Actual value :[Checked]
+Dec 07,2016 17:32:56 [info]  Test 'TC4_SelectMediaRow_WhileDefiningExhRights' PASSED
+Dec 07,2016 17:32:57 [info]  Closed the Browser

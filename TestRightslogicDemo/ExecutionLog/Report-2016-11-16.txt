@@ -1,0 +1,1389 @@
+Nov 16,2016 14:53:29 [info]  ********************Started Executiong the Test Suite at 14:53:29******************
+Nov 16,2016 14:53:29 [info]  Client: AMCN
+Nov 16,2016 14:53:29 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Nov 16,2016 14:53:29 [info]  *********************Started Executing 'TC1_MediaRightsUI' Test Case*********************
+Nov 16,2016 14:53:39 [info]  Client: AMCN
+Nov 16,2016 14:53:39 [info]  URL: http://rlv2wb79/login.aspx
+Nov 16,2016 14:53:39 [info]  UserName: automation
+Nov 16,2016 14:53:39 [info]  Password: automation
+Nov 16,2016 14:53:40 [info]  Entered "automation" in field 'User Name'
+Nov 16,2016 14:53:40 [info]  Clicked on the 'Temporary Check Box'
+Nov 16,2016 14:53:41 [info]  Entered "automation" in field 'Password'
+Nov 16,2016 14:53:48 [info]  Clicked on the 'LoginButton'
+Nov 16,2016 14:53:55 [info]  ************************Started Creating Asset of Type: Program - Series************************
+Nov 16,2016 14:53:59 [info]  Clicked on the 'MODULE'
+Nov 16,2016 14:54:10 [info]  Clicked on the 'Asset Maintenance'
+Nov 16,2016 14:54:18 [info]  Clicked on the 'New Button' using JS Executor
+Nov 16,2016 14:54:18 [info]  Clicked on the 'Program' using JS Executor
+Nov 16,2016 14:54:27 [info]  Clicked on the 'General TAB'
+Nov 16,2016 14:54:30 [info]  Selected "Program - Series" in "AssetTypeDropDown" drop down
+Nov 16,2016 14:54:39 [info]  Entered "AUT_AssetSeries_1116201625329" in field 'AssetTitle'
+Nov 16,2016 14:54:40 [info]  Clicked on the 'Vendor Img Icon' using JS Executor
+Nov 16,2016 14:54:42 [info]  Entered "AUT_AMCN_Vendor1" in field 'SearchvalueVendor'
+Nov 16,2016 14:54:44 [info]  Clicked on the 'VendorWindowButtonfind' using JS Executor
+Nov 16,2016 14:54:53 [info]  Clicked on the 'VendorName At VendorWindow'
+Nov 16,2016 14:54:53 [info]  Clicked on the 'Vendor Select Button' using JS Executor
+Nov 16,2016 14:54:57 [info]  Verify The data of Vendor1
+Nov 16,2016 14:54:57 [info]  Verified that Expected value :[AUT_AMCN_Vendor1] is matched with Actual value :[AUT_AMCN_Vendor1]
+Nov 16,2016 14:54:57 [info]  Clicked on the 'StudioImageIcon' using JS Executor
+Nov 16,2016 14:54:59 [info]  Verified that Expected value :[Studio] is matched with Actual value :[Studio]
+Nov 16,2016 14:55:01 [info]  Entered "AUT_AMCN_Studio" in field 'Studio Name'
+Nov 16,2016 14:55:01 [info]  Clicked on the 'Find Button' using JS Executor
+Nov 16,2016 14:55:11 [info]  Clicked on the 'VendorName At VendorWindow'
+Nov 16,2016 14:55:12 [info]  Clicked on the 'Vendor Select Button' using JS Executor
+Nov 16,2016 14:55:15 [info]  Verify The data of Studio/Vendor2
+Nov 16,2016 14:55:15 [info]  Verified that Expected value :[AUT_AMCN_Studio] is matched with Actual value :[AUT_AMCN_Studio]
+Nov 16,2016 14:55:15 [info]  Clicked on the 'SBUImage' using JS Executor
+Nov 16,2016 14:55:17 [info]  Verified that Expected value :[Source Business Unit Template] is matched with Actual value :[Source Business Unit Template]
+Nov 16,2016 14:55:23 [info]  Clicked on the 'First CheckBox At SBU window'
+Nov 16,2016 14:55:25 [info]  Clicked on the 'Apply Button' using JS Executor
+Nov 16,2016 14:55:26 [info]  Entered "11:11:11" in field 'Duration'
+Nov 16,2016 14:55:37 [info]  Selected "Production" in "Asset Status" drop down
+Nov 16,2016 14:55:37 [info]  Selected "Licensed Acquired" in "Asset Source" drop down
+Nov 16,2016 14:55:38 [info]  Selected "TBD" in "Asset Category/Group" drop down
+Nov 16,2016 14:55:39 [info]  Entered "AUT_Series" in field 'Short Name'
+Nov 16,2016 14:55:39 [info]  Entered "Test" in field 'ProjectID'
+Nov 16,2016 14:55:40 [info]  Clicked on the 'Save Button' using JS Executor
+Nov 16,2016 14:55:51 [info]  Verified that Expected value :[AUT_AssetSeries_1116201625329] is matched with Actual value :[AUT_AssetSeries_1116201625329]
+Nov 16,2016 14:55:51 [info]  ************************Created Asset of TypeProgram - Series************************
+Nov 16,2016 14:55:56 [info]  Clicked on the 'MODULE'
+Nov 16,2016 14:56:05 [info]  Clicked on the 'Asset Maintenance'
+Nov 16,2016 14:56:08 [info]  Clicked on the 'Search Menu Icon' using JS Executor
+Nov 16,2016 14:56:09 [info]  Clicked on the 'AssetSearchUnderAsset' using JS Executor
+Nov 16,2016 14:56:22 [info]  Entered "AUT_AssetSeries_1116201625329" in field 'AssetTitle'
+Nov 16,2016 14:56:23 [info]  Clicked on the 'All Check Box' using JS Executor
+Nov 16,2016 14:56:23 [info]  Clicked on the 'Find Button' using JS Executor
+Nov 16,2016 14:56:50 [info]  Moved Mouse over 'First Asset in the Searched Asset'
+Nov 16,2016 14:56:50 [info]  Clicked on the 'First Asset in the Searched Asset'
+Nov 16,2016 14:56:51 [info]  Clicked on the 'First Asset in the Searched Asset'
+Nov 16,2016 14:56:54 [info]  Clicked on the 'View Asset' using JS Executor
+Nov 16,2016 14:57:06 [info]  Verified that Expected value :[AUT_AssetSeries_1116201625329] is matched with Actual value :[AUT_AssetSeries_1116201625329]
+Nov 16,2016 14:57:14 [info]  Clicked on the 'Episodes TAB'
+Nov 16,2016 14:57:18 [info]  Clicked on the ''Edit' Button at Episode window' using JS Executor
+Nov 16,2016 14:57:24 [info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Nov 16,2016 14:57:29 [info]  Entered "101" in field 'Add Episode input field'
+Nov 16,2016 14:57:29 [info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Nov 16,2016 15:00:27 [info]  ====Failed==== "Season Field of Episode101" field is not present'
+Nov 16,2016 15:00:27 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Nov2016\\16\Season Field of Episode101_CheckpointFailure_11-16-2016 3-00-27 PM.jpg
+Nov 16,2016 15:00:37 [info]  ====Failed==== "Image Drop Down at 'Episode Edit Window'" field is not present'
+Nov 16,2016 15:00:37 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Nov2016\\16\Image Drop Down at 'Episode Edit Window'_CheckpointFailure_11-16-2016 3-00-37 PM.jpg
+Nov 16,2016 15:00:47 [info]  ====Failed==== "Season 1" field is not present'
+Nov 16,2016 15:00:48 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Nov2016\\16\Season 1_CheckpointFailure_11-16-2016 3-00-47 PM.jpg
+Nov 16,2016 15:00:58 [info]  ====Failed==== "Support click to select season" field is not present'
+Nov 16,2016 15:00:58 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Nov2016\\16\Support click to select season_CheckpointFailure_11-16-2016 3-00-58 PM.jpg
+Nov 16,2016 15:01:11 [info]  ====Failed==== "'Add' Button at Episode window" field is not present'
+Nov 16,2016 15:01:11 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Nov2016\\16\'Add' Button at Episode window_CheckpointFailure_11-16-2016 3-01-11 PM.jpg
+Nov 16,2016 15:01:12 [info]  ====Failed==== "Add Episode input field" field is not present'Add Episode input field'
+Nov 16,2016 15:01:12 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Nov2016\\16\Add Episode input field_CheckpointFailure_11-16-2016 3-01-12 PM.jpg
+Nov 16,2016 15:01:12 [info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Nov 16,2016 15:03:31 [info]  ====Failed==== "Season Field of Episode102" field is not present'
+Nov 16,2016 15:03:31 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Nov2016\\16\Season Field of Episode102_CheckpointFailure_11-16-2016 3-03-31 PM.jpg
+Nov 16,2016 15:03:41 [info]  ====Failed==== "Image Drop Down at 'Episode Edit Window'" field is not present'
+Nov 16,2016 15:03:41 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Nov2016\\16\Image Drop Down at 'Episode Edit Window'_CheckpointFailure_11-16-2016 3-03-41 PM.jpg
+Nov 16,2016 15:03:51 [info]  ====Failed==== "Season 1" field is not present'
+Nov 16,2016 15:03:52 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Nov2016\\16\Season 1_CheckpointFailure_11-16-2016 3-03-51 PM.jpg
+Nov 16,2016 15:04:02 [info]  ====Failed==== "Support click to select season" field is not present'
+Nov 16,2016 15:04:02 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Nov2016\\16\Support click to select season_CheckpointFailure_11-16-2016 3-04-02 PM.jpg
+Nov 16,2016 15:04:12 [info]  ====Failed==== "'Add' Button at Episode window" field is not present'
+Nov 16,2016 15:04:12 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Nov2016\\16\'Add' Button at Episode window_CheckpointFailure_11-16-2016 3-04-12 PM.jpg
+Nov 16,2016 15:04:13 [info]  ====Failed==== "Add Episode input field" field is not present'Add Episode input field'
+Nov 16,2016 15:04:13 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Nov2016\\16\Add Episode input field_CheckpointFailure_11-16-2016 3-04-13 PM.jpg
+Nov 16,2016 15:04:13 [info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Nov 16,2016 15:06:32 [info]  ====Failed==== "Season Field of Episode201" field is not present'
+Nov 16,2016 15:06:32 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Nov2016\\16\Season Field of Episode201_CheckpointFailure_11-16-2016 3-06-32 PM.jpg
+Nov 16,2016 15:06:42 [info]  ====Failed==== "Image Drop Down at 'Episode Edit Window'" field is not present'
+Nov 16,2016 15:06:42 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Nov2016\\16\Image Drop Down at 'Episode Edit Window'_CheckpointFailure_11-16-2016 3-06-42 PM.jpg
+Nov 16,2016 15:06:52 [info]  ====Failed==== "Season 2" field is not present'
+Nov 16,2016 15:06:52 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Nov2016\\16\Season 2_CheckpointFailure_11-16-2016 3-06-52 PM.jpg
+Nov 16,2016 15:07:03 [info]  ====Failed==== "Support click to select season" field is not present'
+Nov 16,2016 15:07:03 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Nov2016\\16\Support click to select season_CheckpointFailure_11-16-2016 3-07-03 PM.jpg
+Nov 16,2016 15:07:16 [info]  ====Failed==== "'Add' Button at Episode window" field is not present'
+Nov 16,2016 15:07:16 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Nov2016\\16\'Add' Button at Episode window_CheckpointFailure_11-16-2016 3-07-16 PM.jpg
+Nov 16,2016 15:07:17 [info]  ====Failed==== "Add Episode input field" field is not present'Add Episode input field'
+Nov 16,2016 15:07:17 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Nov2016\\16\Add Episode input field_CheckpointFailure_11-16-2016 3-07-17 PM.jpg
+Nov 16,2016 15:07:17 [info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Nov 16,2016 15:09:33 [info]  ====Failed==== "Support click to select season" field is not present'
+Nov 16,2016 15:09:33 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Nov2016\\16\Support click to select season_CheckpointFailure_11-16-2016 3-09-33 PM.jpg
+Nov 16,2016 15:09:46 [info]  ====Failed==== "Season Field of Episode201" field is not present'
+Nov 16,2016 15:09:47 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Nov2016\\16\Season Field of Episode201_CheckpointFailure_11-16-2016 3-09-46 PM.jpg
+Nov 16,2016 15:09:57 [info]  ====Failed==== "Image Drop Down at 'Episode Edit Window'" field is not present'
+Nov 16,2016 15:09:57 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Nov2016\\16\Image Drop Down at 'Episode Edit Window'_CheckpointFailure_11-16-2016 3-09-57 PM.jpg
+Nov 16,2016 15:10:07 [info]  ====Failed==== "Season 2" field is not present'
+Nov 16,2016 15:10:07 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Nov2016\\16\Season 2_CheckpointFailure_11-16-2016 3-10-07 PM.jpg
+Nov 16,2016 15:10:17 [info]  ====Failed==== "Support click to select season" field is not present'
+Nov 16,2016 15:10:18 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Nov2016\\16\Support click to select season_CheckpointFailure_11-16-2016 3-10-17 PM.jpg
+Nov 16,2016 15:10:31 [info]  ====Failed==== "Save Button at 'Episode Edit Window'" field is not present'
+Nov 16,2016 15:10:31 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Nov2016\\16\Save Button at 'Episode Edit Window'_CheckpointFailure_11-16-2016 3-10-31 PM.jpg
+Nov 16,2016 15:11:00 [info]  ====Failed==== " Could not find the Frame: div[id*='WebDialogWindow1'][style*=visible]
+Nov 16,2016 15:11:03 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Nov2016\\16\FrameSwitchingFailed0_CheckpointFailure_11-16-2016 3-11-00 PM.jpg
+Nov 16,2016 15:11:03 [info]  Unable to find element with css selector == div[id*='WebDialogWindow1'][style*=visible] (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.03 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: '9P4G6BS', ip: '10.10.22.71', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=true, ie.forceCreateProcessApi=false, pageLoadStrategy=normal, ie.usePerProcessProxy=false, ignoreZoomSetting=false, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=false, browserName=internet explorer, initialBrowserUrl=http://localhost:24450/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=false, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: d8222314-13ac-4c0e-ada7-477d1d79e509
+*** Element info: {Using=css selector, value=div[id*='WebDialogWindow1'][style*=visible]}
+Nov 16,2016 17:58:17 [info]  ********************Started Executiong the Test Suite at 17:58:17******************
+Nov 16,2016 17:58:17 [info]  Client: AMCN
+Nov 16,2016 17:58:17 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Nov 16,2016 17:58:17 [info]  *********************Started Executing 'TC3_MediaRightsMultiple' Test Case*********************
+Nov 16,2016 17:58:28 [info]  Client: AMCN
+Nov 16,2016 17:58:28 [info]  URL: http://rlv2wb79/login.aspx
+Nov 16,2016 17:58:28 [info]  UserName: automation
+Nov 16,2016 17:58:28 [info]  Password: automation
+Nov 16,2016 17:58:30 [info]  Entered "automation" in field 'User Name'
+Nov 16,2016 17:58:30 [info]  Clicked on the 'Temporary Check Box'
+Nov 16,2016 17:58:31 [info]  Entered "automation" in field 'Password'
+Nov 16,2016 17:58:38 [info]  Clicked on the 'LoginButton'
+Nov 16,2016 17:58:45 [info]  Clicked on the 'Modules'
+Nov 16,2016 17:58:56 [info]  Clicked on the 'RightsIN'
+Nov 16,2016 17:58:57 [info]  Clicked on the 'Search Icon' using JS Executor
+Nov 16,2016 17:58:57 [info]  Clicked on the 'Agreement Link' using JS Executor
+Nov 16,2016 17:59:04 [info]  Entered "AUT_Deal_1102201685101" in field 'AssetTitle'
+Nov 16,2016 17:59:06 [info]  Clicked on the 'Find Button' using JS Executor
+Nov 16,2016 17:59:16 [info]  Moved Mouse over 'First Asset in the Searched Asset'
+Nov 16,2016 17:59:16 [info]  Clicked on the 'First Asset in the Searched Asset'
+Nov 16,2016 17:59:19 [info]  Clicked on the 'View Asset' using JS Executor
+Nov 16,2016 17:59:31 [info]  Verified that Expected value :[AUT_Deal_1102201685101] is matched with Actual value :[AUT_Deal_1102201685101]
+Nov 16,2016 17:59:34 [info]  Clicked on the 'Media Rights TAB'
+Nov 16,2016 17:59:34 [info]  Clicked on the ''Edit' Button at Media Rights TAB' using JS Executor
+Nov 16,2016 17:59:41 [info]  Clicked on the ''Add' Button at Media Rights Edit window' using JS Executor
+Nov 16,2016 17:59:57 [info]  ====Failed==== "RI_MediaRights_EditMode_Applies To" field is not present'
+Nov 16,2016 17:59:58 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Nov2016\\16\RI_MediaRights_EditMode_Applies To_CheckpointFailure_11-16-2016 5-59-57 PM.jpg
+Nov 16,2016 18:00:08 [info]  ====Failed==== "*Applies ToDrop Down Image" field is not present'
+Nov 16,2016 18:00:08 [info]  Test 'TC3_MediaRightsMultiple' FAILED
+Nov 16,2016 18:00:08 [info]  2
+Nov 16,2016 18:00:08 [info]  Test Case :TC3_MediaRightsMultiple's Screenshot of Failure Page: C:\Screenshots\Nov2016\\16\TC3_MediaRightsMultiple_11-16-2016 6-00-08 PM.jpg
+Nov 16,2016 18:00:10 [info]  Closed the Browser
+Nov 16,2016 18:04:05 [info]  ********************Started Executiong the Test Suite at 18:04:05******************
+Nov 16,2016 18:04:05 [info]  Client: AMCN
+Nov 16,2016 18:04:05 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Nov 16,2016 18:04:05 [info]  *********************Started Executing 'TC3_MediaRightsMultiple' Test Case*********************
+Nov 16,2016 18:04:26 [info]  Client: AMCN
+Nov 16,2016 18:04:26 [info]  URL: http://rlv2wb79/login.aspx
+Nov 16,2016 18:04:26 [info]  UserName: automation
+Nov 16,2016 18:04:26 [info]  Password: automation
+Nov 16,2016 18:04:27 [info]  Entered "automation" in field 'User Name'
+Nov 16,2016 18:04:28 [info]  Clicked on the 'Temporary Check Box'
+Nov 16,2016 18:04:28 [info]  Entered "automation" in field 'Password'
+Nov 16,2016 18:04:35 [info]  Clicked on the 'LoginButton'
+Nov 16,2016 18:04:42 [info]  Clicked on the 'Modules'
+Nov 16,2016 18:04:54 [info]  Clicked on the 'RightsIN'
+Nov 16,2016 18:04:54 [info]  Clicked on the 'Search Icon' using JS Executor
+Nov 16,2016 18:04:54 [info]  Clicked on the 'Agreement Link' using JS Executor
+Nov 16,2016 18:05:03 [info]  Entered "AUT_Deal_1102201685101" in field 'AssetTitle'
+Nov 16,2016 18:05:05 [info]  Clicked on the 'Find Button' using JS Executor
+Nov 16,2016 18:05:14 [info]  Moved Mouse over 'First Asset in the Searched Asset'
+Nov 16,2016 18:05:14 [info]  Clicked on the 'First Asset in the Searched Asset'
+Nov 16,2016 18:05:17 [info]  Clicked on the 'View Asset' using JS Executor
+Nov 16,2016 18:05:29 [info]  Verified that Expected value :[AUT_Deal_1102201685101] is matched with Actual value :[AUT_Deal_1102201685101]
+Nov 16,2016 18:05:32 [info]  Clicked on the 'Media Rights TAB'
+Nov 16,2016 18:05:33 [info]  Clicked on the ''Edit' Button at Media Rights TAB' using JS Executor
+Nov 16,2016 18:05:40 [info]  Clicked on the ''Add' Button at Media Rights Edit window' using JS Executor
+Nov 16,2016 18:05:48 [info]  Clicked on the 'RI_MediaRights_EditMode_Applies To'
+Nov 16,2016 18:05:49 [info]  Clicked on the '*Applies ToDrop Down Image'
+Nov 16,2016 18:05:50 [info]  Clicked on the 'All'
+Nov 16,2016 18:05:51 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 18:05:51 [info]  Verify The data of RI_MediaRights_EditMode_*Applies To
+Nov 16,2016 18:05:51 [info]  Verified that Expected value :[All] is matched with Actual value :[All]
+Nov 16,2016 18:05:52 [info]  Clicked on the 'RI_MediaRights_EditMode_Party'
+Nov 16,2016 18:05:53 [info]  Clicked on the 'PartyDrop Down Image'
+Nov 16,2016 18:05:53 [info]  Clicked on the 'AUT_AMCN_RI_PRIMARY_PARTY'
+Nov 16,2016 18:05:54 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 18:05:54 [info]  Verify The data of RI_MediaRights_EditMode_Party
+Nov 16,2016 18:05:54 [info]  Verified that Expected value :[AUT_AMCN_RI_PRIMARY_PARTY] is matched with Actual value :[AUT_AMCN_RI_PRIMARY_PARTY]
+Nov 16,2016 18:05:56 [info]  Clicked on the 'RI_MediaRights_EditMode_Media Type'
+Nov 16,2016 18:05:56 [info]  Clicked on the '*Media TypeDrop Down Image'
+Nov 16,2016 18:05:57 [info]  Clicked on the 'All Media'
+Nov 16,2016 18:05:58 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 18:05:58 [info]  Verify The data of RI_MediaRights_EditMode_*Media Type
+Nov 16,2016 18:05:58 [info]  Verified that Expected value :[All Media] is matched with Actual value :[All Media]
+Nov 16,2016 18:06:00 [info]  Clicked on the 'RI_MediaRights_EditMode_Venue'
+Nov 16,2016 18:06:00 [info]  Clicked on the '*VenueDrop Down Image'
+Nov 16,2016 18:06:01 [info]  Clicked on the 'All Venues'
+Nov 16,2016 18:06:02 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 18:06:02 [info]  Verify The data of RI_MediaRights_EditMode_*Venue
+Nov 16,2016 18:06:02 [info]  Verified that Expected value :[All Venues] is matched with Actual value :[All Venues]
+Nov 16,2016 18:06:03 [info]  Clicked on the 'RI_MediaRights_EditMode_Platforms'
+Nov 16,2016 18:06:04 [info]  Clicked on the '*PlatformsDrop Down Image'
+Nov 16,2016 18:06:04 [info]  Clicked on the 'All Platforms'
+Nov 16,2016 18:06:05 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 18:06:06 [info]  Verify The data of RI_MediaRights_EditMode_*Platforms
+Nov 16,2016 18:06:06 [info]  Verified that Expected value :[All Platforms] is matched with Actual value :[All Platforms]
+Nov 16,2016 18:06:07 [info]  Clicked on the 'RI_MediaRights_EditMode_Restrictions'
+Nov 16,2016 18:06:08 [info]  Clicked on the '*RestrictionsDrop Down Image'
+Nov 16,2016 18:06:08 [info]  Clicked on the 'Branded'
+Nov 16,2016 18:06:09 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 18:06:10 [info]  Verify The data of RI_MediaRights_EditMode_*Restrictions
+Nov 16,2016 18:06:10 [info]  Verified that Expected value :[Branded] is matched with Actual value :[Branded]
+Nov 16,2016 18:06:11 [info]  Clicked on the 'RI_MediaRights_EditMode_Business Outlets'
+Nov 16,2016 18:06:12 [info]  Clicked on the '*Business OutletsDrop Down Image'
+Nov 16,2016 18:06:12 [info]  Clicked on the 'All Fuse'
+Nov 16,2016 18:06:13 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 18:06:14 [info]  Verify The data of RI_MediaRights_EditMode_*Business Outlets
+Nov 16,2016 18:06:14 [info]  Verified that Expected value :[All Fuse] is matched with Actual value :[All Fuse]
+Nov 16,2016 18:06:15 [info]  Clicked on the 'RI_MediaRights_EditMode_Territory'
+Nov 16,2016 18:06:16 [info]  Clicked on the '*TerritoryDrop Down Image'
+Nov 16,2016 18:06:17 [info]  Clicked on the 'Asia'
+Nov 16,2016 18:06:18 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 18:06:18 [info]  Verify The data of RI_MediaRights_EditMode_*Territory
+Nov 16,2016 18:06:18 [info]  Verified that Expected value :[Asia] is matched with Actual value :[Asia]
+Nov 16,2016 18:06:21 [info]  Clicked on the 'RI_MediaRights_EditMode_Language'
+Nov 16,2016 18:06:21 [info]  Clicked on the '*LanguageDrop Down Image'
+Nov 16,2016 18:06:22 [info]  Clicked on the 'English'
+Nov 16,2016 18:06:23 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 18:06:23 [info]  Verify The data of RI_MediaRights_EditMode_*Language
+Nov 16,2016 18:06:23 [info]  Verified that Expected value :[English] is matched with Actual value :[English]
+Nov 16,2016 18:06:24 [info]  Clicked on the 'Term From Field'
+Nov 16,2016 18:06:25 [info]  Entered "01/01/2007" in field 'Term From'
+Nov 16,2016 18:06:27 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 18:06:27 [info]  Verify The data of Term From Data
+Nov 16,2016 18:06:27 [info]  Verified that Expected value :[01/01/2007] is matched with Actual value :[01/01/2007]
+Nov 16,2016 18:06:28 [info]  Clicked on the 'Term To Field'
+Nov 16,2016 18:06:29 [info]  Entered "12/31/2008" in field 'Term To input Field'
+Nov 16,2016 18:06:31 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 18:06:31 [info]  Verify The data of Term From Data
+Nov 16,2016 18:06:31 [info]  Verified that Expected value :[12/31/2008] is matched with Actual value :[12/31/2008]
+Nov 16,2016 18:06:31 [info]  "PERPETUITY check box gets unchecked on enterintg data in Term 'From'" is Present
+Nov 16,2016 18:06:31 [info]  Clicked on the ''Add' Button at Media Rights Edit window' using JS Executor
+Nov 16,2016 18:06:39 [info]  Clicked on the 'RI_MediaRights_EditMode_Applies To'
+Nov 16,2016 18:06:39 [info]  Clicked on the '*Applies ToDrop Down Image'
+Nov 16,2016 18:06:40 [info]  Clicked on the 'All'
+Nov 16,2016 18:06:41 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 18:06:41 [info]  Verify The data of RI_MediaRights_EditMode_*Applies To
+Nov 16,2016 18:06:41 [info]  Verified that Expected value :[All] is matched with Actual value :[All]
+Nov 16,2016 18:06:42 [info]  Clicked on the 'RI_MediaRights_EditMode_Party'
+Nov 16,2016 18:06:43 [info]  Clicked on the 'PartyDrop Down Image'
+Nov 16,2016 18:06:43 [info]  Clicked on the 'AUT_AMCN_RI_PRIMARY_PARTY'
+Nov 16,2016 18:06:44 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 18:06:45 [info]  Verify The data of RI_MediaRights_EditMode_Party
+Nov 16,2016 18:06:45 [info]  Verified that Expected value :[AUT_AMCN_RI_PRIMARY_PARTY] is matched with Actual value :[AUT_AMCN_RI_PRIMARY_PARTY]
+Nov 16,2016 18:06:46 [info]  Clicked on the 'RI_MediaRights_EditMode_Media Type'
+Nov 16,2016 18:06:47 [info]  Clicked on the '*Media TypeDrop Down Image'
+Nov 16,2016 18:06:47 [info]  Clicked on the 'All Media'
+Nov 16,2016 18:06:48 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 18:06:49 [info]  Verify The data of RI_MediaRights_EditMode_*Media Type
+Nov 16,2016 18:06:49 [info]  Verified that Expected value :[All Media] is matched with Actual value :[All Media]
+Nov 16,2016 18:06:50 [info]  Clicked on the 'RI_MediaRights_EditMode_Venue'
+Nov 16,2016 18:06:51 [info]  Clicked on the '*VenueDrop Down Image'
+Nov 16,2016 18:06:51 [info]  Clicked on the 'All Venues'
+Nov 16,2016 18:06:52 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 18:06:53 [info]  Verify The data of RI_MediaRights_EditMode_*Venue
+Nov 16,2016 18:06:53 [info]  Verified that Expected value :[All Venues] is matched with Actual value :[All Venues]
+Nov 16,2016 18:06:55 [info]  Clicked on the 'RI_MediaRights_EditMode_Platforms'
+Nov 16,2016 18:06:55 [info]  Clicked on the '*PlatformsDrop Down Image'
+Nov 16,2016 18:06:56 [info]  Clicked on the 'All Platforms'
+Nov 16,2016 18:06:57 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 18:06:57 [info]  Verify The data of RI_MediaRights_EditMode_*Platforms
+Nov 16,2016 18:06:57 [info]  Verified that Expected value :[All Platforms] is matched with Actual value :[All Platforms]
+Nov 16,2016 18:06:59 [info]  Clicked on the 'RI_MediaRights_EditMode_Restrictions'
+Nov 16,2016 18:06:59 [info]  Clicked on the '*RestrictionsDrop Down Image'
+Nov 16,2016 18:07:00 [info]  Clicked on the 'Branded'
+Nov 16,2016 18:07:01 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 18:07:01 [info]  Verify The data of RI_MediaRights_EditMode_*Restrictions
+Nov 16,2016 18:07:01 [info]  Verified that Expected value :[Branded] is matched with Actual value :[Branded]
+Nov 16,2016 18:07:03 [info]  Clicked on the 'RI_MediaRights_EditMode_Business Outlets'
+Nov 16,2016 18:07:03 [info]  Clicked on the '*Business OutletsDrop Down Image'
+Nov 16,2016 18:07:04 [info]  Clicked on the 'All Fuse'
+Nov 16,2016 18:07:05 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 18:07:05 [info]  Verify The data of RI_MediaRights_EditMode_*Business Outlets
+Nov 16,2016 18:07:05 [info]  Verified that Expected value :[All Fuse] is matched with Actual value :[All Fuse]
+Nov 16,2016 18:07:07 [info]  Clicked on the 'RI_MediaRights_EditMode_Territory'
+Nov 16,2016 18:07:08 [info]  Clicked on the '*TerritoryDrop Down Image'
+Nov 16,2016 18:07:08 [info]  Clicked on the 'Asia'
+Nov 16,2016 18:07:09 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 18:07:10 [info]  Verify The data of RI_MediaRights_EditMode_*Territory
+Nov 16,2016 18:07:10 [info]  Verified that Expected value :[Asia] is matched with Actual value :[Asia]
+Nov 16,2016 18:07:12 [info]  Clicked on the 'RI_MediaRights_EditMode_Language'
+Nov 16,2016 18:07:12 [info]  Clicked on the '*LanguageDrop Down Image'
+Nov 16,2016 18:07:13 [info]  Clicked on the 'English'
+Nov 16,2016 18:07:14 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 18:07:14 [info]  Verify The data of RI_MediaRights_EditMode_*Language
+Nov 16,2016 18:07:14 [info]  Verified that Expected value :[English] is matched with Actual value :[English]
+Nov 16,2016 18:07:15 [info]  Clicked on the 'Term From Field'
+Nov 16,2016 18:07:16 [info]  Entered "01/01/2007" in field 'Term From'
+Nov 16,2016 18:07:17 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 18:07:18 [info]  Verify The data of Term From Data
+Nov 16,2016 18:07:18 [info]  Verified that Expected value :[01/01/2007] is matched with Actual value :[01/01/2007]
+Nov 16,2016 18:07:19 [info]  Clicked on the 'Term To Field'
+Nov 16,2016 18:07:20 [info]  Entered "12/31/2008" in field 'Term To input Field'
+Nov 16,2016 18:07:21 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 18:07:22 [info]  Verify The data of Term From Data
+Nov 16,2016 18:07:22 [info]  Verified that Expected value :[12/31/2008] is matched with Actual value :[12/31/2008]
+Nov 16,2016 18:07:22 [info]  "PERPETUITY check box gets unchecked on enterintg data in Term 'From'" is Present
+Nov 16,2016 18:07:22 [info]  Clicked on the ''Save' Button at Media Rights Edit window' using JS Executor
+Nov 16,2016 18:07:32 [info]  Verified that Expected value :[Changes Saved Successfully.] is matched with Actual value :[Changes Saved Successfully.]
+Nov 16,2016 18:07:32 [info]  Test 'TC3_MediaRightsMultiple' PASSED
+Nov 16,2016 18:07:34 [info]  Closed the Browser
+Nov 16,2016 18:25:08 [info]  ********************Started Executiong the Test Suite at 18:25:08******************
+Nov 16,2016 18:25:08 [info]  Client: AMCN
+Nov 16,2016 18:25:08 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Nov 16,2016 18:25:08 [info]  *********************Started Executing 'TC3_MediaRightsMultiple' Test Case*********************
+Nov 16,2016 18:25:19 [info]  Client: AMCN
+Nov 16,2016 18:25:19 [info]  URL: http://rlv2wb79/login.aspx
+Nov 16,2016 18:25:19 [info]  UserName: automation
+Nov 16,2016 18:25:19 [info]  Password: automation
+Nov 16,2016 18:25:20 [info]  Entered "automation" in field 'User Name'
+Nov 16,2016 18:25:20 [info]  Clicked on the 'Temporary Check Box'
+Nov 16,2016 18:25:21 [info]  Entered "automation" in field 'Password'
+Nov 16,2016 18:25:28 [info]  Clicked on the 'LoginButton'
+Nov 16,2016 18:25:35 [info]  Clicked on the 'Modules'
+Nov 16,2016 18:25:46 [info]  Clicked on the 'RightsIN'
+Nov 16,2016 18:25:47 [info]  Clicked on the 'Search Icon' using JS Executor
+Nov 16,2016 18:25:47 [info]  Clicked on the 'Agreement Link' using JS Executor
+Nov 16,2016 18:25:56 [info]  Entered "AUT_Deal_1116201685101" in field 'AssetTitle'
+Nov 16,2016 18:25:58 [info]  Clicked on the 'Find Button' using JS Executor
+Nov 16,2016 18:26:06 [info]  Moved Mouse over 'First Asset in the Searched Asset'
+Nov 16,2016 18:26:07 [info]  Clicked on the 'First Asset in the Searched Asset'
+Nov 16,2016 18:26:10 [info]  Clicked on the 'View Asset' using JS Executor
+Nov 16,2016 18:26:22 [info]  Verified that Expected value :[AUT_Deal_1116201685101] is matched with Actual value :[AUT_Deal_1116201685101]
+Nov 16,2016 18:26:25 [info]  Clicked on the 'Media Rights TAB'
+Nov 16,2016 18:26:26 [info]  Clicked on the ''Edit' Button at Media Rights TAB' using JS Executor
+Nov 16,2016 18:26:32 [info]  Clicked on the ''Add' Button at Media Rights Edit window' using JS Executor
+Nov 16,2016 18:26:40 [info]  Clicked on the 'RI_MediaRights_EditMode_Applies To'
+Nov 16,2016 18:26:41 [info]  Clicked on the '*Applies ToDrop Down Image'
+Nov 16,2016 18:26:42 [info]  Clicked on the 'All'
+Nov 16,2016 18:26:42 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 18:26:43 [info]  Verify The data of RI_MediaRights_EditMode_*Applies To
+Nov 16,2016 18:26:43 [info]  Verified that Expected value :[All] is matched with Actual value :[All]
+Nov 16,2016 18:26:45 [info]  Clicked on the 'RI_MediaRights_EditMode_Party'
+Nov 16,2016 18:26:45 [info]  Clicked on the 'PartyDrop Down Image'
+Nov 16,2016 18:26:46 [info]  Clicked on the 'AUT_AMCN_RI_PRIMARY_PARTY'
+Nov 16,2016 18:26:47 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 18:26:47 [info]  Verify The data of RI_MediaRights_EditMode_Party
+Nov 16,2016 18:26:47 [info]  Verified that Expected value :[AUT_AMCN_RI_PRIMARY_PARTY] is matched with Actual value :[AUT_AMCN_RI_PRIMARY_PARTY]
+Nov 16,2016 18:26:49 [info]  Clicked on the 'RI_MediaRights_EditMode_Media Type'
+Nov 16,2016 18:26:50 [info]  Clicked on the '*Media TypeDrop Down Image'
+Nov 16,2016 18:26:50 [info]  Clicked on the 'All Media'
+Nov 16,2016 18:26:51 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 18:26:52 [info]  Verify The data of RI_MediaRights_EditMode_*Media Type
+Nov 16,2016 18:26:52 [info]  Verified that Expected value :[All Media] is matched with Actual value :[All Media]
+Nov 16,2016 18:26:54 [info]  Clicked on the 'RI_MediaRights_EditMode_Venue'
+Nov 16,2016 18:26:55 [info]  Clicked on the '*VenueDrop Down Image'
+Nov 16,2016 18:26:55 [info]  Clicked on the 'All Venues'
+Nov 16,2016 18:26:56 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 18:26:56 [info]  Verify The data of RI_MediaRights_EditMode_*Venue
+Nov 16,2016 18:26:56 [info]  Verified that Expected value :[All Venues] is matched with Actual value :[All Venues]
+Nov 16,2016 18:27:00 [info]  Clicked on the 'RI_MediaRights_EditMode_Platforms'
+Nov 16,2016 18:27:00 [info]  Clicked on the '*PlatformsDrop Down Image'
+Nov 16,2016 18:27:01 [info]  Clicked on the 'All Platforms'
+Nov 16,2016 18:27:02 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 18:27:02 [info]  Verify The data of RI_MediaRights_EditMode_*Platforms
+Nov 16,2016 18:27:02 [info]  Verified that Expected value :[All Platforms] is matched with Actual value :[All Platforms]
+Nov 16,2016 18:27:05 [info]  Clicked on the 'RI_MediaRights_EditMode_Restrictions'
+Nov 16,2016 18:27:05 [info]  Clicked on the '*RestrictionsDrop Down Image'
+Nov 16,2016 18:27:06 [info]  Clicked on the 'Branded'
+Nov 16,2016 18:27:07 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 18:27:07 [info]  Verify The data of RI_MediaRights_EditMode_*Restrictions
+Nov 16,2016 18:27:07 [info]  Verified that Expected value :[Branded] is matched with Actual value :[Branded]
+Nov 16,2016 18:27:10 [info]  Clicked on the 'RI_MediaRights_EditMode_Business Outlets'
+Nov 16,2016 18:27:10 [info]  Clicked on the '*Business OutletsDrop Down Image'
+Nov 16,2016 18:27:11 [info]  Clicked on the 'All Fuse'
+Nov 16,2016 18:27:11 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 18:27:12 [info]  Verify The data of RI_MediaRights_EditMode_*Business Outlets
+Nov 16,2016 18:27:12 [info]  Verified that Expected value :[All Fuse] is matched with Actual value :[All Fuse]
+Nov 16,2016 18:27:15 [info]  Clicked on the 'RI_MediaRights_EditMode_Territory'
+Nov 16,2016 18:27:15 [info]  Clicked on the '*TerritoryDrop Down Image'
+Nov 16,2016 18:27:16 [info]  Clicked on the 'Asia'
+Nov 16,2016 18:27:17 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 18:27:17 [info]  Verify The data of RI_MediaRights_EditMode_*Territory
+Nov 16,2016 18:27:17 [info]  Verified that Expected value :[Asia] is matched with Actual value :[Asia]
+Nov 16,2016 18:27:20 [info]  Clicked on the 'RI_MediaRights_EditMode_Language'
+Nov 16,2016 18:27:20 [info]  Clicked on the '*LanguageDrop Down Image'
+Nov 16,2016 18:27:21 [info]  Clicked on the 'English'
+Nov 16,2016 18:27:22 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 18:27:22 [info]  Verify The data of RI_MediaRights_EditMode_*Language
+Nov 16,2016 18:27:22 [info]  Verified that Expected value :[English] is matched with Actual value :[English]
+Nov 16,2016 18:27:23 [info]  Clicked on the 'Term From Field'
+Nov 16,2016 18:27:24 [info]  Entered "01/01/2007" in field 'Term From'
+Nov 16,2016 18:27:25 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 18:27:25 [info]  Verify The data of Term From Data
+Nov 16,2016 18:27:25 [info]  Verified that Expected value :[01/01/2007] is matched with Actual value :[01/01/2007]
+Nov 16,2016 18:27:27 [info]  Clicked on the 'Term To Field'
+Nov 16,2016 18:27:27 [info]  Entered "12/31/2008" in field 'Term To input Field'
+Nov 16,2016 18:27:28 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 18:27:29 [info]  Verify The data of Term From Data
+Nov 16,2016 18:27:29 [info]  Verified that Expected value :[12/31/2008] is matched with Actual value :[12/31/2008]
+Nov 16,2016 18:27:29 [info]  "PERPETUITY check box gets unchecked on enterintg data in Term 'From'" is Present
+Nov 16,2016 18:27:29 [info]  Clicked on the ''Add' Button at Media Rights Edit window' using JS Executor
+Nov 16,2016 18:27:37 [info]  Clicked on the 'RI_MediaRights_EditMode_Applies To'
+Nov 16,2016 18:27:38 [info]  Clicked on the '*Applies ToDrop Down Image'
+Nov 16,2016 18:27:38 [info]  Clicked on the 'All'
+Nov 16,2016 18:27:39 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 18:27:39 [info]  Verify The data of RI_MediaRights_EditMode_*Applies To
+Nov 16,2016 18:27:39 [info]  Verified that Expected value :[All] is matched with Actual value :[All]
+Nov 16,2016 18:27:42 [info]  Clicked on the 'RI_MediaRights_EditMode_Party'
+Nov 16,2016 18:27:42 [info]  Clicked on the 'PartyDrop Down Image'
+Nov 16,2016 18:27:43 [info]  Clicked on the 'AUT_AMCN_RI_PRIMARY_PARTY'
+Nov 16,2016 18:27:43 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 18:27:44 [info]  Verify The data of RI_MediaRights_EditMode_Party
+Nov 16,2016 18:27:44 [info]  Verified that Expected value :[AUT_AMCN_RI_PRIMARY_PARTY] is matched with Actual value :[AUT_AMCN_RI_PRIMARY_PARTY]
+Nov 16,2016 18:27:47 [info]  Clicked on the 'RI_MediaRights_EditMode_Media Type'
+Nov 16,2016 18:27:47 [info]  Clicked on the '*Media TypeDrop Down Image'
+Nov 16,2016 18:27:48 [info]  Clicked on the 'All Media'
+Nov 16,2016 18:27:48 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 18:27:49 [info]  Verify The data of RI_MediaRights_EditMode_*Media Type
+Nov 16,2016 18:27:49 [info]  Verified that Expected value :[All Media] is matched with Actual value :[All Media]
+Nov 16,2016 18:27:52 [info]  Clicked on the 'RI_MediaRights_EditMode_Venue'
+Nov 16,2016 18:27:52 [info]  Clicked on the '*VenueDrop Down Image'
+Nov 16,2016 18:27:53 [info]  Clicked on the 'All Venues'
+Nov 16,2016 18:27:54 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 18:27:54 [info]  Verify The data of RI_MediaRights_EditMode_*Venue
+Nov 16,2016 18:27:54 [info]  Verified that Expected value :[All Venues] is matched with Actual value :[All Venues]
+Nov 16,2016 18:27:57 [info]  Clicked on the 'RI_MediaRights_EditMode_Platforms'
+Nov 16,2016 18:27:57 [info]  Clicked on the '*PlatformsDrop Down Image'
+Nov 16,2016 18:27:58 [info]  Clicked on the 'All Platforms'
+Nov 16,2016 18:27:59 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 18:27:59 [info]  Verify The data of RI_MediaRights_EditMode_*Platforms
+Nov 16,2016 18:27:59 [info]  Verified that Expected value :[All Platforms] is matched with Actual value :[All Platforms]
+Nov 16,2016 18:28:02 [info]  Clicked on the 'RI_MediaRights_EditMode_Restrictions'
+Nov 16,2016 18:28:03 [info]  Clicked on the '*RestrictionsDrop Down Image'
+Nov 16,2016 18:28:03 [info]  Clicked on the 'Branded'
+Nov 16,2016 18:28:04 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 18:28:04 [info]  Verify The data of RI_MediaRights_EditMode_*Restrictions
+Nov 16,2016 18:28:04 [info]  Verified that Expected value :[Branded] is matched with Actual value :[Branded]
+Nov 16,2016 18:28:08 [info]  Clicked on the 'RI_MediaRights_EditMode_Business Outlets'
+Nov 16,2016 18:28:08 [info]  Clicked on the '*Business OutletsDrop Down Image'
+Nov 16,2016 18:28:09 [info]  Clicked on the 'All Fuse'
+Nov 16,2016 18:28:10 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 18:28:10 [info]  Verify The data of RI_MediaRights_EditMode_*Business Outlets
+Nov 16,2016 18:28:10 [info]  Verified that Expected value :[All Fuse] is matched with Actual value :[All Fuse]
+Nov 16,2016 18:28:13 [info]  Clicked on the 'RI_MediaRights_EditMode_Territory'
+Nov 16,2016 18:28:14 [info]  Clicked on the '*TerritoryDrop Down Image'
+Nov 16,2016 18:28:14 [info]  Clicked on the 'Asia'
+Nov 16,2016 18:28:15 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 18:28:16 [info]  Verify The data of RI_MediaRights_EditMode_*Territory
+Nov 16,2016 18:28:16 [info]  Verified that Expected value :[Asia] is matched with Actual value :[Asia]
+Nov 16,2016 18:28:19 [info]  Clicked on the 'RI_MediaRights_EditMode_Language'
+Nov 16,2016 18:28:19 [info]  Clicked on the '*LanguageDrop Down Image'
+Nov 16,2016 18:28:20 [info]  Clicked on the 'English'
+Nov 16,2016 18:28:21 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 18:28:21 [info]  Verify The data of RI_MediaRights_EditMode_*Language
+Nov 16,2016 18:28:21 [info]  Verified that Expected value :[English] is matched with Actual value :[English]
+Nov 16,2016 18:28:22 [info]  Clicked on the 'Term From Field'
+Nov 16,2016 18:28:23 [info]  Entered "01/01/2007" in field 'Term From'
+Nov 16,2016 18:28:24 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 18:28:24 [info]  Verify The data of Term From Data
+Nov 16,2016 18:28:24 [info]  Verified that Expected value :[01/01/2007] is matched with Actual value :[01/01/2007]
+Nov 16,2016 18:28:26 [info]  Clicked on the 'Term To Field'
+Nov 16,2016 18:28:26 [info]  Entered "12/31/2008" in field 'Term To input Field'
+Nov 16,2016 18:28:27 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 18:28:28 [info]  Verify The data of Term From Data
+Nov 16,2016 18:28:28 [info]  Verified that Expected value :[12/31/2008] is matched with Actual value :[12/31/2008]
+Nov 16,2016 18:28:28 [info]  "PERPETUITY check box gets unchecked on enterintg data in Term 'From'" is Present
+Nov 16,2016 18:28:28 [info]  Clicked on the ''Save' Button at Media Rights Edit window' using JS Executor
+Nov 16,2016 18:28:36 [info]  Verified that Expected value :[Changes Saved Successfully.] is matched with Actual value :[Changes Saved Successfully.]
+Nov 16,2016 18:28:37 [info]  Verify The data of Row Number 1
+Nov 16,2016 18:28:37 [info]  Verified that Expected value :[1] is matched with Actual value :[1]
+Nov 16,2016 18:28:37 [info]  Verify The data of Row Number 2
+Nov 16,2016 18:28:37 [info]  Verified that Expected value :[2] is matched with Actual value :[2]
+Nov 16,2016 18:28:37 [info]  Verify The data of Row Number 3
+Nov 16,2016 18:28:37 [info]  Verified that Expected value :[3] is matched with Actual value :[3]
+Nov 16,2016 18:28:38 [info]  Clicked on the '3rd row of Edit Media Rights TAB'
+Nov 16,2016 18:28:39 [info]  Clicked on the 'Delete Button'
+Nov 16,2016 18:28:39 [info]  Clicked on the 'Ok Button At Confirm Pop-Up' using JS Executor
+Nov 16,2016 18:28:46 [info]  Clicked on the ''Add' Button at Media Rights Edit window' using JS Executor
+Nov 16,2016 18:28:54 [info]  Clicked on the 'RI_MediaRights_EditMode_Applies To'
+Nov 16,2016 18:28:55 [info]  Clicked on the '*Applies ToDrop Down Image'
+Nov 16,2016 18:28:55 [info]  Clicked on the 'All'
+Nov 16,2016 18:28:56 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 18:28:57 [info]  Verify The data of RI_MediaRights_EditMode_*Applies To
+Nov 16,2016 18:28:57 [info]  Verified that Expected value :[All] is matched with Actual value :[All]
+Nov 16,2016 18:28:59 [info]  Clicked on the 'RI_MediaRights_EditMode_Party'
+Nov 16,2016 18:29:00 [info]  Clicked on the 'PartyDrop Down Image'
+Nov 16,2016 18:29:00 [info]  Clicked on the 'AUT_AMCN_RI_PRIMARY_PARTY'
+Nov 16,2016 18:29:01 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 18:29:01 [info]  Verify The data of RI_MediaRights_EditMode_Party
+Nov 16,2016 18:29:01 [info]  Verified that Expected value :[AUT_AMCN_RI_PRIMARY_PARTY] is matched with Actual value :[AUT_AMCN_RI_PRIMARY_PARTY]
+Nov 16,2016 18:29:04 [info]  Clicked on the 'RI_MediaRights_EditMode_Media Type'
+Nov 16,2016 18:29:05 [info]  Clicked on the '*Media TypeDrop Down Image'
+Nov 16,2016 18:29:05 [info]  Clicked on the 'All Media'
+Nov 16,2016 18:29:06 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 18:29:06 [info]  Verify The data of RI_MediaRights_EditMode_*Media Type
+Nov 16,2016 18:29:06 [info]  Verified that Expected value :[All Media] is matched with Actual value :[All Media]
+Nov 16,2016 18:29:09 [info]  Clicked on the 'RI_MediaRights_EditMode_Venue'
+Nov 16,2016 18:29:10 [info]  Clicked on the '*VenueDrop Down Image'
+Nov 16,2016 18:29:10 [info]  Clicked on the 'All Venues'
+Nov 16,2016 18:29:11 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 18:29:11 [info]  Verify The data of RI_MediaRights_EditMode_*Venue
+Nov 16,2016 18:29:11 [info]  Verified that Expected value :[All Venues] is matched with Actual value :[All Venues]
+Nov 16,2016 18:29:14 [info]  Clicked on the 'RI_MediaRights_EditMode_Platforms'
+Nov 16,2016 18:29:15 [info]  Clicked on the '*PlatformsDrop Down Image'
+Nov 16,2016 18:29:15 [info]  Clicked on the 'All Platforms'
+Nov 16,2016 18:29:16 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 18:29:16 [info]  Verify The data of RI_MediaRights_EditMode_*Platforms
+Nov 16,2016 18:29:16 [info]  Verified that Expected value :[All Platforms] is matched with Actual value :[All Platforms]
+Nov 16,2016 18:29:20 [info]  Clicked on the 'RI_MediaRights_EditMode_Restrictions'
+Nov 16,2016 18:29:20 [info]  Clicked on the '*RestrictionsDrop Down Image'
+Nov 16,2016 18:29:21 [info]  Clicked on the 'Branded'
+Nov 16,2016 18:29:22 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 18:29:22 [info]  Verify The data of RI_MediaRights_EditMode_*Restrictions
+Nov 16,2016 18:29:22 [info]  Verified that Expected value :[Branded] is matched with Actual value :[Branded]
+Nov 16,2016 18:29:25 [info]  Clicked on the 'RI_MediaRights_EditMode_Business Outlets'
+Nov 16,2016 18:29:26 [info]  Clicked on the '*Business OutletsDrop Down Image'
+Nov 16,2016 18:29:26 [info]  Clicked on the 'All Fuse'
+Nov 16,2016 18:29:27 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 18:29:27 [info]  Verify The data of RI_MediaRights_EditMode_*Business Outlets
+Nov 16,2016 18:29:27 [info]  Verified that Expected value :[All Fuse] is matched with Actual value :[All Fuse]
+Nov 16,2016 18:29:30 [info]  Clicked on the 'RI_MediaRights_EditMode_Territory'
+Nov 16,2016 18:29:31 [info]  Clicked on the '*TerritoryDrop Down Image'
+Nov 16,2016 18:29:31 [info]  Clicked on the 'Asia'
+Nov 16,2016 18:29:33 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 18:29:33 [info]  Verify The data of RI_MediaRights_EditMode_*Territory
+Nov 16,2016 18:29:33 [info]  Verified that Expected value :[Asia] is matched with Actual value :[Asia]
+Nov 16,2016 18:29:36 [info]  Clicked on the 'RI_MediaRights_EditMode_Language'
+Nov 16,2016 18:29:37 [info]  Clicked on the '*LanguageDrop Down Image'
+Nov 16,2016 18:29:37 [info]  Clicked on the 'English'
+Nov 16,2016 18:29:38 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 18:29:38 [info]  Verify The data of RI_MediaRights_EditMode_*Language
+Nov 16,2016 18:29:38 [info]  Verified that Expected value :[English] is matched with Actual value :[English]
+Nov 16,2016 18:29:39 [info]  Clicked on the 'Term From Field'
+Nov 16,2016 18:29:40 [info]  Entered "01/01/2007" in field 'Term From'
+Nov 16,2016 18:29:41 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 18:29:41 [info]  Verify The data of Term From Data
+Nov 16,2016 18:29:41 [info]  Verified that Expected value :[01/01/2007] is matched with Actual value :[01/01/2007]
+Nov 16,2016 18:29:43 [info]  Clicked on the 'Term To Field'
+Nov 16,2016 18:29:43 [info]  Entered "12/31/2008" in field 'Term To input Field'
+Nov 16,2016 18:29:45 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 18:29:45 [info]  Verify The data of Term From Data
+Nov 16,2016 18:29:45 [info]  Verified that Expected value :[12/31/2008] is matched with Actual value :[12/31/2008]
+Nov 16,2016 18:29:45 [info]  "PERPETUITY check box gets unchecked on enterintg data in Term 'From'" is Present
+Nov 16,2016 18:29:46 [info]  Clicked on the ''Save' Button at Media Rights Edit window' using JS Executor
+Nov 16,2016 18:29:54 [info]  Verified that Expected value :[Changes Saved Successfully.] is matched with Actual value :[Changes Saved Successfully.]
+Nov 16,2016 18:30:04 [info]  Verify The data of Row Number 3
+Nov 16,2016 18:30:04 [info]  ====Failed==== Expected value is:[3] but Actual value is[]. Please check the screenshot with name: Row Number 3for more details
+Nov 16,2016 18:30:05 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Nov2016\\16\Row Number 3_CheckpointFailure_11-16-2016 6-30-04 PM.jpg
+Nov 16,2016 18:30:05 [info]  Test 'TC3_MediaRightsMultiple' PASSED
+Nov 16,2016 18:30:06 [info]  Closed the Browser
+Nov 16,2016 19:24:53 [info]  ********************Started Executiong the Test Suite at 19:24:53******************
+Nov 16,2016 19:24:53 [info]  Client: AMCN
+Nov 16,2016 19:24:53 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Nov 16,2016 19:24:53 [info]  *********************Started Executing 'testscript' Test Case*********************
+Nov 16,2016 19:25:03 [info]  Client: AMCN
+Nov 16,2016 19:25:03 [info]  URL: http://rlv2wb79/login.aspx
+Nov 16,2016 19:25:03 [info]  UserName: automation
+Nov 16,2016 19:25:03 [info]  Password: automation
+Nov 16,2016 19:25:04 [info]  Entered "automation" in field 'User Name'
+Nov 16,2016 19:25:05 [info]  Clicked on the 'Temporary Check Box'
+Nov 16,2016 19:25:05 [info]  Entered "automation" in field 'Password'
+Nov 16,2016 19:25:12 [info]  Clicked on the 'LoginButton'
+Nov 16,2016 19:25:19 [info]  Clicked on the 'Reports' using JS Executor
+Nov 16,2016 19:25:19 [info]  Clicked on the 'Audit Trail' using JS Executor
+Nov 16,2016 19:25:26 [info]  Entered "AUT_Deal_1116201685101" in field 'Deal Name Field'
+Nov 16,2016 19:25:26 [info]  Clicked on the 'Search Button' using JS Executor
+Nov 16,2016 19:25:45 [info]  ====Failed==== "Expand Icon" field is not present'
+Nov 16,2016 19:25:45 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Nov2016\\16\Expand Icon_CheckpointFailure_11-16-2016 7-25-45 PM.jpg
+Nov 16,2016 19:25:55 [info]  ====Failed==== "3rd Row of Media right was deleted"  does not exist.
+Nov 16,2016 19:25:56 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Nov2016\\16\3rd Row of Media right was deleted_CheckpointFailure_11-16-2016 7-25-55 PM.jpg
+Nov 16,2016 19:25:56 [info]  Test 'testscript' PASSED
+Nov 16,2016 19:25:57 [info]  Closed the Browser
+Nov 16,2016 19:26:38 [info]  ********************Started Executiong the Test Suite at 19:26:38******************
+Nov 16,2016 19:26:38 [info]  Client: AMCN
+Nov 16,2016 19:26:38 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Nov 16,2016 19:26:38 [info]  *********************Started Executing 'testscript' Test Case*********************
+Nov 16,2016 19:26:47 [info]  Client: AMCN
+Nov 16,2016 19:26:47 [info]  URL: http://rlv2wb79/login.aspx
+Nov 16,2016 19:26:47 [info]  UserName: automation
+Nov 16,2016 19:26:47 [info]  Password: automation
+Nov 16,2016 19:26:48 [info]  Entered "automation" in field 'User Name'
+Nov 16,2016 19:26:48 [info]  Clicked on the 'Temporary Check Box'
+Nov 16,2016 19:26:49 [info]  Entered "automation" in field 'Password'
+Nov 16,2016 19:26:56 [info]  Clicked on the 'LoginButton'
+Nov 16,2016 19:27:02 [info]  Clicked on the 'Reports' using JS Executor
+Nov 16,2016 19:27:03 [info]  Clicked on the 'Audit Trail' using JS Executor
+Nov 16,2016 19:27:09 [info]  Entered "AUT_Deal_1116201685101" in field 'Deal Name Field'
+Nov 16,2016 19:27:09 [info]  Clicked on the 'Search Button' using JS Executor
+Nov 16,2016 19:27:19 [info]  Clicked on the 'Expand Icon'
+Nov 16,2016 19:27:23 [info]  "3rd Row of Media right was deleted" is Present
+Nov 16,2016 19:27:23 [info]  Test 'testscript' PASSED
+Nov 16,2016 19:27:24 [info]  Closed the Browser
+Nov 16,2016 19:40:19 [info]  ********************Started Executiong the Test Suite at 19:40:19******************
+Nov 16,2016 19:40:19 [info]  Client: AMCN
+Nov 16,2016 19:40:19 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Nov 16,2016 19:40:19 [info]  *********************Started Executing 'testscript' Test Case*********************
+Nov 16,2016 19:40:28 [info]  Client: AMCN
+Nov 16,2016 19:40:28 [info]  URL: http://rlv2wb79/login.aspx
+Nov 16,2016 19:40:28 [info]  UserName: automation
+Nov 16,2016 19:40:28 [info]  Password: automation
+Nov 16,2016 19:40:29 [info]  Entered "automation" in field 'User Name'
+Nov 16,2016 19:40:30 [info]  Clicked on the 'Temporary Check Box'
+Nov 16,2016 19:40:31 [info]  Entered "automation" in field 'Password'
+Nov 16,2016 19:40:37 [info]  Clicked on the 'LoginButton'
+Nov 16,2016 19:41:02 [info]  Clicked on the 'New Button' using JS Executor
+Nov 16,2016 19:41:02 [info]  Clicked on the 'Standalone Agreement' using JS Executor
+Nov 16,2016 19:41:13 [info]  Generated Deal Id is 55456
+Nov 16,2016 19:41:13 [info]  Clicked on the 'DealTitleField' using JS Executor
+Nov 16,2016 19:41:15 [info]  Entered "AUT_Deal_2_1116201674019" in field 'Deal Name Field'
+Nov 16,2016 19:41:17 [info]  Entered "AUT_Deal_2_1116201674019_desc" in field 'Deal Description/ContractID'
+Nov 16,2016 19:41:18 [info]  Selected "Production" in "DealType_DropDownField" drop down
+Nov 16,2016 19:41:18 [info]  Selected "Development" in "Deal/Agreement Sub Type" drop down
+Nov 16,2016 19:41:20 [info]  Entered "In Progress - IDM" in field 'DealCreationCDEStatus'
+Nov 16,2016 19:41:21 [info]  Entered "01/01/2014" in field 'DateExecuted_InputField'
+Nov 16,2016 19:41:22 [info]  Entered "01/01/2015" in field 'DateEffective_InputField'
+Nov 16,2016 19:41:23 [info]  Entered "USD" in field 'DealCreationCurrency'
+Nov 16,2016 19:41:24 [info]  Selected "AMC" in "ProfitCenter_InputField" drop down
+Nov 16,2016 19:41:30 [info]  Selected "Acquired Series - 280-206100-612103" in "BudgetLine_InputField" drop down
+Nov 16,2016 19:41:53 [info]  Moved Mouse over 'Party_AddButton'
+Nov 16,2016 19:41:54 [info]  Clicked on the 'Party_AddButton'
+Nov 16,2016 19:42:01 [info]  Entered "AUT_AMCN_RI_PRIMARY_PARTY" in field 'Search Party InputField'
+Nov 16,2016 19:42:01 [info]  Double clicked on 'RI Search Party Window Find Button'
+Nov 16,2016 19:42:09 [info]  Clicked on the 'AUT_AMCN_RI_PRIMARY_PARTY'
+Nov 16,2016 19:42:10 [info]  Clicked on the 'Select Button'
+Nov 16,2016 19:42:16 [info]  Clicked on the 'Party Type Field' using JS Executor
+Nov 16,2016 19:42:17 [info]  Entered "Primary" in field 'Party Party InputField'
+Nov 16,2016 19:42:17 [info]  Clicked on the 'Support Click '
+Nov 16,2016 19:42:17 [info]  Clicked on the 'Party_AddButton' using JS Executor
+Nov 16,2016 19:42:25 [info]  Entered "AUT_AMCN_RI_LICENSOR_PARTY" in field 'Search Party InputField'
+Nov 16,2016 19:42:26 [info]  Double clicked on 'RI Search Party Window Find Button'
+Nov 16,2016 19:42:38 [info]  Clicked on the 'Select Party'
+Nov 16,2016 19:42:39 [info]  Clicked on the 'Select Button'
+Nov 16,2016 19:42:45 [info]  Clicked on the 'Party Type Field' using JS Executor
+Nov 16,2016 19:42:45 [info]  Entered "Distributor" in field 'Party Party InputField'
+Nov 16,2016 19:42:46 [info]  Clicked on the 'Support Click '
+Nov 16,2016 19:42:50 [info]  Clicked on the 'Skip Workflow CheckBox'
+Nov 16,2016 19:42:50 [info]  Clicked on the 'Save Button' using JS Executor
+Nov 16,2016 19:43:00 [info]  Verify The data of CreatedDeal
+Nov 16,2016 19:43:00 [info]  ====Failed==== Expected value is:[AUT_Deal_2_1116201674019] but Actual value is[]. Please check the screenshot with name: CreatedDealfor more details
+Nov 16,2016 19:43:00 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Nov2016\\16\CreatedDeal_CheckpointFailure_11-16-2016 7-43-00 PM.jpg
+Nov 16,2016 19:43:00 [info]  Clicked on the 'Navigator' using JS Executor
+Nov 16,2016 19:43:50 [info]  Clicked on the 'Deal'
+Nov 16,2016 19:43:50 [info]  Double clicked on 'Associate With Exiting Asset'
+Nov 16,2016 19:43:52 [info]  Clicked on the 'Asset Status'
+Nov 16,2016 19:43:53 [info]  Clicked on the 'Asset tile' using JS Executor
+Nov 16,2016 19:43:54 [info]  Entered "AUT_AssetSeries_11162016121618" in field 'Asset title'
+Nov 16,2016 19:43:54 [info]  =====BUG ID======: 20309
+Nov 16,2016 19:43:54 [info]  Clicked on the 'Display Season checkBox' using JS Executor
+Nov 16,2016 19:43:54 [info]  Clicked on the 'Search Button' using JS Executor
+Nov 16,2016 19:44:06 [info]  Clicked on the 'Toggle'
+Nov 16,2016 19:44:10 [info]  Double clicked on 'Searched Asset'
+Nov 16,2016 19:44:20 [info]  Clicked on the 'Ok Button' using JS Executor
+Nov 16,2016 19:44:31 [info]  Clicked on the 'Modules'
+Nov 16,2016 19:44:43 [info]  Clicked on the 'RightsIN'
+Nov 16,2016 19:44:43 [info]  Clicked on the 'Search Icon' using JS Executor
+Nov 16,2016 19:44:43 [info]  Clicked on the 'Agreement Link' using JS Executor
+Nov 16,2016 19:44:51 [info]  Entered "AUT_Deal_2_1116201674019" in field 'AssetTitle'
+Nov 16,2016 19:44:53 [info]  Clicked on the 'Find Button' using JS Executor
+Nov 16,2016 19:45:02 [info]  Moved Mouse over 'First Asset in the Searched Asset'
+Nov 16,2016 19:45:02 [info]  Clicked on the 'First Asset in the Searched Asset'
+Nov 16,2016 19:45:05 [info]  Clicked on the 'View Asset' using JS Executor
+Nov 16,2016 19:45:17 [info]  Verified that Expected value :[AUT_Deal_2_1116201674019] is matched with Actual value :[AUT_Deal_2_1116201674019]
+Nov 16,2016 19:45:20 [info]  Clicked on the 'Media Rights TAB'
+Nov 16,2016 19:45:20 [info]  Clicked on the ''Edit' Button at Media Rights TAB' using JS Executor
+Nov 16,2016 19:45:26 [info]  Clicked on the ''Add' Button at Media Rights Edit window' using JS Executor
+Nov 16,2016 19:45:53 [info]  ====Failed==== "RI_MediaRights_EditMode_Applies To" field is not present'
+Nov 16,2016 19:45:53 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Nov2016\\16\RI_MediaRights_EditMode_Applies To_CheckpointFailure_11-16-2016 7-45-53 PM.jpg
+Nov 16,2016 19:46:03 [info]  ====Failed==== "*Applies ToDrop Down Image" field is not present'
+Nov 16,2016 19:46:03 [info]  Test 'testscript' FAILED
+Nov 16,2016 19:46:03 [info]  2
+Nov 16,2016 19:46:04 [info]  Test Case :testscript's Screenshot of Failure Page: C:\Screenshots\Nov2016\\16\testscript_11-16-2016 7-46-03 PM.jpg
+Nov 16,2016 19:46:05 [info]  Closed the Browser
+Nov 16,2016 19:48:09 [info]  ********************Started Executiong the Test Suite at 19:48:09******************
+Nov 16,2016 19:48:09 [info]  Client: AMCN
+Nov 16,2016 19:48:09 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Nov 16,2016 19:48:09 [info]  *********************Started Executing 'testscript' Test Case*********************
+Nov 16,2016 19:48:18 [info]  Client: AMCN
+Nov 16,2016 19:48:18 [info]  URL: http://rlv2wb79/login.aspx
+Nov 16,2016 19:48:18 [info]  UserName: automation
+Nov 16,2016 19:48:18 [info]  Password: automation
+Nov 16,2016 19:48:19 [info]  Entered "automation" in field 'User Name'
+Nov 16,2016 19:48:19 [info]  Clicked on the 'Temporary Check Box'
+Nov 16,2016 19:48:20 [info]  Entered "automation" in field 'Password'
+Nov 16,2016 19:48:20 [info]  Clicked on the 'LoginButton'
+Nov 16,2016 19:48:45 [info]  Clicked on the 'New Button' using JS Executor
+Nov 16,2016 19:48:45 [info]  Clicked on the 'Standalone Agreement' using JS Executor
+Nov 16,2016 19:48:56 [info]  Generated Deal Id is 55457
+Nov 16,2016 19:48:56 [info]  Clicked on the 'DealTitleField' using JS Executor
+Nov 16,2016 19:48:59 [info]  Entered "AUT_Deal_2_1116201674019" in field 'Deal Name Field'
+Nov 16,2016 19:49:01 [info]  Entered "AUT_Deal_2_1116201674019_desc" in field 'Deal Description/ContractID'
+Nov 16,2016 19:49:01 [info]  Selected "Production" in "DealType_DropDownField" drop down
+Nov 16,2016 19:49:02 [info]  Selected "Development" in "Deal/Agreement Sub Type" drop down
+Nov 16,2016 19:49:03 [info]  Entered "In Progress - IDM" in field 'DealCreationCDEStatus'
+Nov 16,2016 19:49:04 [info]  Entered "01/01/2014" in field 'DateExecuted_InputField'
+Nov 16,2016 19:49:05 [info]  Entered "01/01/2015" in field 'DateEffective_InputField'
+Nov 16,2016 19:49:07 [info]  Entered "USD" in field 'DealCreationCurrency'
+Nov 16,2016 19:49:07 [info]  Selected "AMC" in "ProfitCenter_InputField" drop down
+Nov 16,2016 19:49:14 [info]  Selected "Acquired Series - 280-206100-612103" in "BudgetLine_InputField" drop down
+Nov 16,2016 19:49:36 [info]  Moved Mouse over 'Party_AddButton'
+Nov 16,2016 19:49:38 [info]  Clicked on the 'Party_AddButton'
+Nov 16,2016 19:49:44 [info]  Entered "AUT_AMCN_RI_PRIMARY_PARTY" in field 'Search Party InputField'
+Nov 16,2016 19:49:45 [info]  Double clicked on 'RI Search Party Window Find Button'
+Nov 16,2016 19:49:53 [info]  Clicked on the 'AUT_AMCN_RI_PRIMARY_PARTY'
+Nov 16,2016 19:49:53 [info]  Clicked on the 'Select Button'
+Nov 16,2016 19:50:00 [info]  Clicked on the 'Party Type Field' using JS Executor
+Nov 16,2016 19:50:00 [info]  Entered "Primary" in field 'Party Party InputField'
+Nov 16,2016 19:50:01 [info]  Clicked on the 'Support Click '
+Nov 16,2016 19:50:01 [info]  Clicked on the 'Party_AddButton' using JS Executor
+Nov 16,2016 19:50:09 [info]  Entered "AUT_AMCN_RI_LICENSOR_PARTY" in field 'Search Party InputField'
+Nov 16,2016 19:50:10 [info]  Double clicked on 'RI Search Party Window Find Button'
+Nov 16,2016 19:50:22 [info]  Clicked on the 'Select Party'
+Nov 16,2016 19:50:22 [info]  Clicked on the 'Select Button'
+Nov 16,2016 19:50:29 [info]  Clicked on the 'Party Type Field' using JS Executor
+Nov 16,2016 19:50:29 [info]  Entered "Distributor" in field 'Party Party InputField'
+Nov 16,2016 19:50:30 [info]  Clicked on the 'Support Click '
+Nov 16,2016 19:50:34 [info]  Clicked on the 'Skip Workflow CheckBox'
+Nov 16,2016 19:50:34 [info]  Clicked on the 'Save Button' using JS Executor
+Nov 16,2016 19:50:43 [info]  Verify The data of CreatedDeal
+Nov 16,2016 19:50:43 [info]  ====Failed==== Expected value is:[AUT_Deal_2_1116201674019] but Actual value is[]. Please check the screenshot with name: CreatedDealfor more details
+Nov 16,2016 19:50:43 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Nov2016\\16\CreatedDeal_CheckpointFailure_11-16-2016 7-50-43 PM.jpg
+Nov 16,2016 19:50:44 [info]  Clicked on the 'Navigator' using JS Executor
+Nov 16,2016 19:51:00 [info]  ====Failed==== " Could not find the Frame: div[id*='WebDialogWindow1'][style*=visible]
+Nov 16,2016 19:51:00 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Nov2016\\16\FrameSwitchingFailed0_CheckpointFailure_11-16-2016 7-51-00 PM.jpg
+Nov 16,2016 19:51:00 [info]  Unable to find element with css selector == div[id*='WebDialogWindow1'][style*=visible] (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.27 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: '9P4G6BS', ip: '10.10.22.71', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=true, ie.forceCreateProcessApi=false, pageLoadStrategy=normal, ie.usePerProcessProxy=false, ignoreZoomSetting=false, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=false, browserName=internet explorer, initialBrowserUrl=http://localhost:34374/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=false, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: ea4f275c-b55b-4de2-8913-72fbccdabde3
+*** Element info: {Using=css selector, value=div[id*='WebDialogWindow1'][style*=visible]}
+Nov 16,2016 19:52:36 [info]  Test 'testscript' FAILED
+Nov 16,2016 19:52:36 [info]  2
+Nov 16,2016 19:52:37 [info]  Test Case :testscript's Screenshot of Failure Page: C:\Screenshots\Nov2016\\16\testscript_11-16-2016 7-52-36 PM.jpg
+Nov 16,2016 19:52:38 [info]  Closed the Browser
+Nov 16,2016 20:10:55 [info]  ********************Started Executiong the Test Suite at 20:10:55******************
+Nov 16,2016 20:10:55 [info]  Client: AMCN
+Nov 16,2016 20:10:55 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Nov 16,2016 20:10:55 [info]  *********************Started Executing 'testscript' Test Case*********************
+Nov 16,2016 20:11:17 [info]  Client: AMCN
+Nov 16,2016 20:11:17 [info]  URL: http://rlv2wb79/login.aspx
+Nov 16,2016 20:11:17 [info]  UserName: automation
+Nov 16,2016 20:11:17 [info]  Password: automation
+Nov 16,2016 20:11:19 [info]  Entered "automation" in field 'User Name'
+Nov 16,2016 20:11:19 [info]  Clicked on the 'Temporary Check Box'
+Nov 16,2016 20:11:20 [info]  Entered "automation" in field 'Password'
+Nov 16,2016 20:11:29 [info]  Clicked on the 'LoginButton'
+Nov 16,2016 20:11:36 [info]  Clicked on the 'Modules'
+Nov 16,2016 20:11:48 [info]  Clicked on the 'RightsIN'
+Nov 16,2016 20:11:49 [info]  Clicked on the 'Search Icon' using JS Executor
+Nov 16,2016 20:11:50 [info]  Clicked on the 'Agreement Link' using JS Executor
+Nov 16,2016 20:11:59 [info]  Entered "AUT_Deal_2_1116201674019" in field 'AssetTitle'
+Nov 16,2016 20:12:01 [info]  Clicked on the 'Find Button' using JS Executor
+Nov 16,2016 20:12:10 [info]  Moved Mouse over 'First Asset in the Searched Asset'
+Nov 16,2016 20:12:10 [info]  Clicked on the 'First Asset in the Searched Asset'
+Nov 16,2016 20:12:13 [info]  Clicked on the 'View Asset' using JS Executor
+Nov 16,2016 20:12:26 [info]  Verified that Expected value :[AUT_Deal_2_1116201674019] is matched with Actual value :[AUT_Deal_2_1116201674019]
+Nov 16,2016 20:12:28 [info]  Clicked on the 'Media Rights TAB'
+Nov 16,2016 20:12:29 [info]  Clicked on the ''Edit' Button at Media Rights TAB' using JS Executor
+Nov 16,2016 20:12:36 [info]  Clicked on the ''Add' Button at Media Rights Edit window' using JS Executor
+Nov 16,2016 20:12:53 [info]  ====Failed==== "RI_MediaRights_EditMode_Applies To" field is not present'
+Nov 16,2016 20:12:53 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Nov2016\\16\RI_MediaRights_EditMode_Applies To_CheckpointFailure_11-16-2016 8-12-53 PM.jpg
+Nov 16,2016 20:13:04 [info]  ====Failed==== "*Applies ToDrop Down Image" field is not present'
+Nov 16,2016 20:13:04 [info]  Test 'testscript' FAILED
+Nov 16,2016 20:13:04 [info]  2
+Nov 16,2016 20:13:04 [info]  Test Case :testscript's Screenshot of Failure Page: C:\Screenshots\Nov2016\\16\testscript_11-16-2016 8-13-04 PM.jpg
+Nov 16,2016 20:13:07 [info]  Closed the Browser
+Nov 16,2016 20:14:14 [info]  ********************Started Executiong the Test Suite at 20:14:14******************
+Nov 16,2016 20:14:14 [info]  Client: AMCN
+Nov 16,2016 20:14:14 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Nov 16,2016 20:14:14 [info]  *********************Started Executing 'testscript' Test Case*********************
+Nov 16,2016 20:14:25 [info]  Client: AMCN
+Nov 16,2016 20:14:25 [info]  URL: http://rlv2wb79/login.aspx
+Nov 16,2016 20:14:25 [info]  UserName: automation
+Nov 16,2016 20:14:25 [info]  Password: automation
+Nov 16,2016 20:14:27 [info]  Entered "automation" in field 'User Name'
+Nov 16,2016 20:14:27 [info]  Clicked on the 'Temporary Check Box'
+Nov 16,2016 20:14:28 [info]  Entered "automation" in field 'Password'
+Nov 16,2016 20:14:28 [info]  Clicked on the 'LoginButton'
+Nov 16,2016 20:14:36 [info]  Clicked on the 'Modules'
+Nov 16,2016 20:14:47 [info]  Clicked on the 'RightsIN'
+Nov 16,2016 20:14:48 [info]  Clicked on the 'Search Icon' using JS Executor
+Nov 16,2016 20:14:48 [info]  Clicked on the 'Agreement Link' using JS Executor
+Nov 16,2016 20:14:57 [info]  Entered "AUT_Deal_2_1116201674019" in field 'AssetTitle'
+Nov 16,2016 20:14:59 [info]  Clicked on the 'Find Button' using JS Executor
+Nov 16,2016 20:15:08 [info]  Moved Mouse over 'First Asset in the Searched Asset'
+Nov 16,2016 20:15:08 [info]  Clicked on the 'First Asset in the Searched Asset'
+Nov 16,2016 20:15:11 [info]  Clicked on the 'View Asset' using JS Executor
+Nov 16,2016 20:15:23 [info]  Verified that Expected value :[AUT_Deal_2_1116201674019] is matched with Actual value :[AUT_Deal_2_1116201674019]
+Nov 16,2016 20:15:25 [info]  Clicked on the 'Media Rights TAB'
+Nov 16,2016 20:15:26 [info]  Clicked on the ''Edit' Button at Media Rights TAB' using JS Executor
+Nov 16,2016 20:15:33 [info]  Clicked on the ''Add' Button at Media Rights Edit window' using JS Executor
+Nov 16,2016 20:15:40 [info]  Clicked on the 'RI_MediaRights_EditMode_Applies To'
+Nov 16,2016 20:15:41 [info]  Clicked on the '*Applies ToDrop Down Image'
+Nov 16,2016 20:15:42 [info]  Clicked on the 'All'
+Nov 16,2016 20:15:42 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 20:15:43 [info]  Verify The data of RI_MediaRights_EditMode_*Applies To
+Nov 16,2016 20:15:43 [info]  Verified that Expected value :[All] is matched with Actual value :[All]
+Nov 16,2016 20:15:44 [info]  Clicked on the 'RI_MediaRights_EditMode_Party'
+Nov 16,2016 20:15:44 [info]  Clicked on the 'PartyDrop Down Image'
+Nov 16,2016 20:15:45 [info]  Clicked on the 'AUT_AMCN_RI_PRIMARY_PARTY'
+Nov 16,2016 20:15:45 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 20:15:46 [info]  Verify The data of RI_MediaRights_EditMode_Party
+Nov 16,2016 20:15:46 [info]  Verified that Expected value :[AUT_AMCN_RI_PRIMARY_PARTY] is matched with Actual value :[AUT_AMCN_RI_PRIMARY_PARTY]
+Nov 16,2016 20:15:47 [info]  Clicked on the 'RI_MediaRights_EditMode_Media Type'
+Nov 16,2016 20:15:47 [info]  Clicked on the '*Media TypeDrop Down Image'
+Nov 16,2016 20:15:48 [info]  Clicked on the 'All Media'
+Nov 16,2016 20:15:48 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 20:15:49 [info]  Verify The data of RI_MediaRights_EditMode_*Media Type
+Nov 16,2016 20:15:49 [info]  Verified that Expected value :[All Media] is matched with Actual value :[All Media]
+Nov 16,2016 20:15:50 [info]  Clicked on the 'RI_MediaRights_EditMode_Venue'
+Nov 16,2016 20:15:50 [info]  Clicked on the '*VenueDrop Down Image'
+Nov 16,2016 20:15:51 [info]  Clicked on the 'All Venues'
+Nov 16,2016 20:15:52 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 20:15:52 [info]  Verify The data of RI_MediaRights_EditMode_*Venue
+Nov 16,2016 20:15:52 [info]  Verified that Expected value :[All Venues] is matched with Actual value :[All Venues]
+Nov 16,2016 20:15:53 [info]  Clicked on the 'RI_MediaRights_EditMode_Platforms'
+Nov 16,2016 20:15:54 [info]  Clicked on the '*PlatformsDrop Down Image'
+Nov 16,2016 20:15:54 [info]  Clicked on the 'All Platforms'
+Nov 16,2016 20:15:55 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 20:15:55 [info]  Verify The data of RI_MediaRights_EditMode_*Platforms
+Nov 16,2016 20:15:55 [info]  Verified that Expected value :[All Platforms] is matched with Actual value :[All Platforms]
+Nov 16,2016 20:15:56 [info]  Clicked on the 'RI_MediaRights_EditMode_Restrictions'
+Nov 16,2016 20:15:57 [info]  Clicked on the '*RestrictionsDrop Down Image'
+Nov 16,2016 20:15:57 [info]  Clicked on the 'Branded'
+Nov 16,2016 20:15:58 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 20:15:58 [info]  Verify The data of RI_MediaRights_EditMode_*Restrictions
+Nov 16,2016 20:15:58 [info]  Verified that Expected value :[Branded] is matched with Actual value :[Branded]
+Nov 16,2016 20:16:00 [info]  Clicked on the 'RI_MediaRights_EditMode_Business Outlets'
+Nov 16,2016 20:16:00 [info]  Clicked on the '*Business OutletsDrop Down Image'
+Nov 16,2016 20:16:01 [info]  Clicked on the 'All Fuse'
+Nov 16,2016 20:16:01 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 20:16:02 [info]  Verify The data of RI_MediaRights_EditMode_*Business Outlets
+Nov 16,2016 20:16:02 [info]  Verified that Expected value :[All Fuse] is matched with Actual value :[All Fuse]
+Nov 16,2016 20:16:03 [info]  Clicked on the 'RI_MediaRights_EditMode_Territory'
+Nov 16,2016 20:16:04 [info]  Clicked on the '*TerritoryDrop Down Image'
+Nov 16,2016 20:16:04 [info]  Clicked on the 'Asia'
+Nov 16,2016 20:16:05 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 20:16:05 [info]  Verify The data of RI_MediaRights_EditMode_*Territory
+Nov 16,2016 20:16:05 [info]  Verified that Expected value :[Asia] is matched with Actual value :[Asia]
+Nov 16,2016 20:16:07 [info]  Clicked on the 'RI_MediaRights_EditMode_Language'
+Nov 16,2016 20:16:07 [info]  Clicked on the '*LanguageDrop Down Image'
+Nov 16,2016 20:16:08 [info]  Clicked on the 'English'
+Nov 16,2016 20:16:08 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 20:16:09 [info]  Verify The data of RI_MediaRights_EditMode_*Language
+Nov 16,2016 20:16:09 [info]  Verified that Expected value :[English] is matched with Actual value :[English]
+Nov 16,2016 20:16:10 [info]  Clicked on the 'Term From Field'
+Nov 16,2016 20:16:10 [info]  Entered "01/01/2007" in field 'Term From'
+Nov 16,2016 20:16:11 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 20:16:12 [info]  Verify The data of Term From Data
+Nov 16,2016 20:16:12 [info]  Verified that Expected value :[01/01/2007] is matched with Actual value :[01/01/2007]
+Nov 16,2016 20:16:13 [info]  Clicked on the 'Term To Field'
+Nov 16,2016 20:16:14 [info]  Entered "12/31/2008" in field 'Term To input Field'
+Nov 16,2016 20:16:15 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 20:16:15 [info]  Verify The data of Term From Data
+Nov 16,2016 20:16:15 [info]  Verified that Expected value :[12/31/2008] is matched with Actual value :[12/31/2008]
+Nov 16,2016 20:16:15 [info]  "PERPETUITY check box gets unchecked on enterintg data in Term 'From'" is Present
+Nov 16,2016 20:16:16 [info]  Clicked on the ''Add' Button at Media Rights Edit window' using JS Executor
+Nov 16,2016 20:16:23 [info]  Clicked on the 'RI_MediaRights_EditMode_Applies To'
+Nov 16,2016 20:16:24 [info]  Clicked on the '*Applies ToDrop Down Image'
+Nov 16,2016 20:16:24 [info]  Clicked on the 'All'
+Nov 16,2016 20:16:25 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 20:16:25 [info]  Verify The data of RI_MediaRights_EditMode_*Applies To
+Nov 16,2016 20:16:25 [info]  Verified that Expected value :[All] is matched with Actual value :[All]
+Nov 16,2016 20:16:26 [info]  Clicked on the 'RI_MediaRights_EditMode_Party'
+Nov 16,2016 20:16:27 [info]  Clicked on the 'PartyDrop Down Image'
+Nov 16,2016 20:16:27 [info]  Clicked on the 'AUT_AMCN_RI_PRIMARY_PARTY'
+Nov 16,2016 20:16:28 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 20:16:28 [info]  Verify The data of RI_MediaRights_EditMode_Party
+Nov 16,2016 20:16:28 [info]  Verified that Expected value :[AUT_AMCN_RI_PRIMARY_PARTY] is matched with Actual value :[AUT_AMCN_RI_PRIMARY_PARTY]
+Nov 16,2016 20:16:29 [info]  Clicked on the 'RI_MediaRights_EditMode_Media Type'
+Nov 16,2016 20:16:30 [info]  Clicked on the '*Media TypeDrop Down Image'
+Nov 16,2016 20:16:30 [info]  Clicked on the 'All Media'
+Nov 16,2016 20:16:31 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 20:16:31 [info]  Verify The data of RI_MediaRights_EditMode_*Media Type
+Nov 16,2016 20:16:31 [info]  Verified that Expected value :[All Media] is matched with Actual value :[All Media]
+Nov 16,2016 20:16:32 [info]  Clicked on the 'RI_MediaRights_EditMode_Venue'
+Nov 16,2016 20:16:33 [info]  Clicked on the '*VenueDrop Down Image'
+Nov 16,2016 20:16:33 [info]  Clicked on the 'All Venues'
+Nov 16,2016 20:16:34 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 20:16:35 [info]  Verify The data of RI_MediaRights_EditMode_*Venue
+Nov 16,2016 20:16:35 [info]  Verified that Expected value :[All Venues] is matched with Actual value :[All Venues]
+Nov 16,2016 20:16:36 [info]  Clicked on the 'RI_MediaRights_EditMode_Platforms'
+Nov 16,2016 20:16:36 [info]  Clicked on the '*PlatformsDrop Down Image'
+Nov 16,2016 20:16:37 [info]  Clicked on the 'All Platforms'
+Nov 16,2016 20:16:38 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 20:16:38 [info]  Verify The data of RI_MediaRights_EditMode_*Platforms
+Nov 16,2016 20:16:38 [info]  Verified that Expected value :[All Platforms] is matched with Actual value :[All Platforms]
+Nov 16,2016 20:16:39 [info]  Clicked on the 'RI_MediaRights_EditMode_Restrictions'
+Nov 16,2016 20:16:40 [info]  Clicked on the '*RestrictionsDrop Down Image'
+Nov 16,2016 20:16:40 [info]  Clicked on the 'Branded'
+Nov 16,2016 20:16:41 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 20:16:41 [info]  Verify The data of RI_MediaRights_EditMode_*Restrictions
+Nov 16,2016 20:16:41 [info]  Verified that Expected value :[Branded] is matched with Actual value :[Branded]
+Nov 16,2016 20:16:43 [info]  Clicked on the 'RI_MediaRights_EditMode_Business Outlets'
+Nov 16,2016 20:16:43 [info]  Clicked on the '*Business OutletsDrop Down Image'
+Nov 16,2016 20:16:44 [info]  Clicked on the 'All Fuse'
+Nov 16,2016 20:16:45 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 20:16:45 [info]  Verify The data of RI_MediaRights_EditMode_*Business Outlets
+Nov 16,2016 20:16:45 [info]  Verified that Expected value :[All Fuse] is matched with Actual value :[All Fuse]
+Nov 16,2016 20:16:46 [info]  Clicked on the 'RI_MediaRights_EditMode_Territory'
+Nov 16,2016 20:16:47 [info]  Clicked on the '*TerritoryDrop Down Image'
+Nov 16,2016 20:16:47 [info]  Clicked on the 'Asia'
+Nov 16,2016 20:16:48 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 20:16:49 [info]  Verify The data of RI_MediaRights_EditMode_*Territory
+Nov 16,2016 20:16:49 [info]  Verified that Expected value :[Asia] is matched with Actual value :[Asia]
+Nov 16,2016 20:16:50 [info]  Clicked on the 'RI_MediaRights_EditMode_Language'
+Nov 16,2016 20:16:51 [info]  Clicked on the '*LanguageDrop Down Image'
+Nov 16,2016 20:16:51 [info]  Clicked on the 'English'
+Nov 16,2016 20:16:52 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 20:16:52 [info]  Verify The data of RI_MediaRights_EditMode_*Language
+Nov 16,2016 20:16:52 [info]  Verified that Expected value :[English] is matched with Actual value :[English]
+Nov 16,2016 20:16:53 [info]  Clicked on the 'Term From Field'
+Nov 16,2016 20:16:54 [info]  Entered "01/01/2007" in field 'Term From'
+Nov 16,2016 20:16:55 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 20:16:55 [info]  Verify The data of Term From Data
+Nov 16,2016 20:16:55 [info]  Verified that Expected value :[01/01/2007] is matched with Actual value :[01/01/2007]
+Nov 16,2016 20:16:57 [info]  Clicked on the 'Term To Field'
+Nov 16,2016 20:16:58 [info]  Entered "12/31/2008" in field 'Term To input Field'
+Nov 16,2016 20:16:59 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 20:16:59 [info]  Verify The data of Term From Data
+Nov 16,2016 20:16:59 [info]  Verified that Expected value :[12/31/2008] is matched with Actual value :[12/31/2008]
+Nov 16,2016 20:16:59 [info]  "PERPETUITY check box gets unchecked on enterintg data in Term 'From'" is Present
+Nov 16,2016 20:17:00 [info]  Clicked on the ''Add' Button at Media Rights Edit window' using JS Executor
+Nov 16,2016 20:17:07 [info]  Clicked on the 'RI_MediaRights_EditMode_Applies To'
+Nov 16,2016 20:17:08 [info]  Clicked on the '*Applies ToDrop Down Image'
+Nov 16,2016 20:17:09 [info]  Clicked on the 'All'
+Nov 16,2016 20:17:09 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 20:17:09 [info]  Verify The data of RI_MediaRights_EditMode_*Applies To
+Nov 16,2016 20:17:09 [info]  Verified that Expected value :[All] is matched with Actual value :[All]
+Nov 16,2016 20:17:10 [info]  Clicked on the 'RI_MediaRights_EditMode_Party'
+Nov 16,2016 20:17:11 [info]  Clicked on the 'PartyDrop Down Image'
+Nov 16,2016 20:17:11 [info]  Clicked on the 'AUT_AMCN_RI_PRIMARY_PARTY'
+Nov 16,2016 20:17:12 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 20:17:12 [info]  Verify The data of RI_MediaRights_EditMode_Party
+Nov 16,2016 20:17:12 [info]  Verified that Expected value :[AUT_AMCN_RI_PRIMARY_PARTY] is matched with Actual value :[AUT_AMCN_RI_PRIMARY_PARTY]
+Nov 16,2016 20:17:14 [info]  Clicked on the 'RI_MediaRights_EditMode_Media Type'
+Nov 16,2016 20:17:14 [info]  Clicked on the '*Media TypeDrop Down Image'
+Nov 16,2016 20:17:15 [info]  Clicked on the 'All Media'
+Nov 16,2016 20:17:15 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 20:17:16 [info]  Verify The data of RI_MediaRights_EditMode_*Media Type
+Nov 16,2016 20:17:16 [info]  Verified that Expected value :[All Media] is matched with Actual value :[All Media]
+Nov 16,2016 20:17:17 [info]  Clicked on the 'RI_MediaRights_EditMode_Venue'
+Nov 16,2016 20:17:17 [info]  Clicked on the '*VenueDrop Down Image'
+Nov 16,2016 20:17:18 [info]  Clicked on the 'All Venues'
+Nov 16,2016 20:17:19 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 20:17:19 [info]  Verify The data of RI_MediaRights_EditMode_*Venue
+Nov 16,2016 20:17:19 [info]  Verified that Expected value :[All Venues] is matched with Actual value :[All Venues]
+Nov 16,2016 20:17:20 [info]  Clicked on the 'RI_MediaRights_EditMode_Platforms'
+Nov 16,2016 20:17:21 [info]  Clicked on the '*PlatformsDrop Down Image'
+Nov 16,2016 20:17:21 [info]  Clicked on the 'All Platforms'
+Nov 16,2016 20:17:22 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 20:17:22 [info]  Verify The data of RI_MediaRights_EditMode_*Platforms
+Nov 16,2016 20:17:22 [info]  Verified that Expected value :[All Platforms] is matched with Actual value :[All Platforms]
+Nov 16,2016 20:17:24 [info]  Clicked on the 'RI_MediaRights_EditMode_Restrictions'
+Nov 16,2016 20:17:24 [info]  Clicked on the '*RestrictionsDrop Down Image'
+Nov 16,2016 20:17:25 [info]  Clicked on the 'Branded'
+Nov 16,2016 20:17:26 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 20:17:26 [info]  Verify The data of RI_MediaRights_EditMode_*Restrictions
+Nov 16,2016 20:17:26 [info]  Verified that Expected value :[Branded] is matched with Actual value :[Branded]
+Nov 16,2016 20:17:28 [info]  Clicked on the 'RI_MediaRights_EditMode_Business Outlets'
+Nov 16,2016 20:17:28 [info]  Clicked on the '*Business OutletsDrop Down Image'
+Nov 16,2016 20:17:29 [info]  Clicked on the 'All Fuse'
+Nov 16,2016 20:17:30 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 20:17:30 [info]  Verify The data of RI_MediaRights_EditMode_*Business Outlets
+Nov 16,2016 20:17:30 [info]  Verified that Expected value :[All Fuse] is matched with Actual value :[All Fuse]
+Nov 16,2016 20:17:31 [info]  Clicked on the 'RI_MediaRights_EditMode_Territory'
+Nov 16,2016 20:17:32 [info]  Clicked on the '*TerritoryDrop Down Image'
+Nov 16,2016 20:17:32 [info]  Clicked on the 'Asia'
+Nov 16,2016 20:17:33 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 20:17:34 [info]  Verify The data of RI_MediaRights_EditMode_*Territory
+Nov 16,2016 20:17:34 [info]  Verified that Expected value :[Asia] is matched with Actual value :[Asia]
+Nov 16,2016 20:17:35 [info]  Clicked on the 'RI_MediaRights_EditMode_Language'
+Nov 16,2016 20:17:36 [info]  Clicked on the '*LanguageDrop Down Image'
+Nov 16,2016 20:17:36 [info]  Clicked on the 'English'
+Nov 16,2016 20:17:37 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 20:17:38 [info]  Verify The data of RI_MediaRights_EditMode_*Language
+Nov 16,2016 20:17:38 [info]  Verified that Expected value :[English] is matched with Actual value :[English]
+Nov 16,2016 20:17:39 [info]  Clicked on the 'Term From Field'
+Nov 16,2016 20:17:39 [info]  Entered "01/01/2007" in field 'Term From'
+Nov 16,2016 20:17:40 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 20:17:41 [info]  Verify The data of Term From Data
+Nov 16,2016 20:17:41 [info]  Verified that Expected value :[01/01/2007] is matched with Actual value :[01/01/2007]
+Nov 16,2016 20:17:42 [info]  Clicked on the 'Term To Field'
+Nov 16,2016 20:17:43 [info]  Entered "12/31/2008" in field 'Term To input Field'
+Nov 16,2016 20:17:44 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 20:17:44 [info]  Verify The data of Term From Data
+Nov 16,2016 20:17:44 [info]  Verified that Expected value :[12/31/2008] is matched with Actual value :[12/31/2008]
+Nov 16,2016 20:17:44 [info]  "PERPETUITY check box gets unchecked on enterintg data in Term 'From'" is Present
+Nov 16,2016 20:17:45 [info]  Clicked on the '3rd row of Edit Media Rights TAB'
+Nov 16,2016 20:17:45 [info]  Clicked on the 'Delete Button'
+Nov 16,2016 20:17:46 [info]  Clicked on the 'Ok Button At Confirm Pop-Up' using JS Executor
+Nov 16,2016 20:17:53 [info]  Clicked on the ''Add' Button at Media Rights Edit window' using JS Executor
+Nov 16,2016 20:18:00 [info]  Clicked on the 'RI_MediaRights_EditMode_Applies To'
+Nov 16,2016 20:18:01 [info]  Clicked on the '*Applies ToDrop Down Image'
+Nov 16,2016 20:18:02 [info]  Clicked on the 'All'
+Nov 16,2016 20:18:02 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 20:18:02 [info]  Verify The data of RI_MediaRights_EditMode_*Applies To
+Nov 16,2016 20:18:02 [info]  Verified that Expected value :[All] is matched with Actual value :[All]
+Nov 16,2016 20:18:04 [info]  Clicked on the 'RI_MediaRights_EditMode_Party'
+Nov 16,2016 20:18:04 [info]  Clicked on the 'PartyDrop Down Image'
+Nov 16,2016 20:18:05 [info]  Clicked on the 'AUT_AMCN_RI_PRIMARY_PARTY'
+Nov 16,2016 20:18:05 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 20:18:05 [info]  Verify The data of RI_MediaRights_EditMode_Party
+Nov 16,2016 20:18:05 [info]  Verified that Expected value :[AUT_AMCN_RI_PRIMARY_PARTY] is matched with Actual value :[AUT_AMCN_RI_PRIMARY_PARTY]
+Nov 16,2016 20:18:07 [info]  Clicked on the 'RI_MediaRights_EditMode_Media Type'
+Nov 16,2016 20:18:07 [info]  Clicked on the '*Media TypeDrop Down Image'
+Nov 16,2016 20:18:08 [info]  Clicked on the 'All Media'
+Nov 16,2016 20:18:08 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 20:18:09 [info]  Verify The data of RI_MediaRights_EditMode_*Media Type
+Nov 16,2016 20:18:09 [info]  Verified that Expected value :[All Media] is matched with Actual value :[All Media]
+Nov 16,2016 20:18:10 [info]  Clicked on the 'RI_MediaRights_EditMode_Venue'
+Nov 16,2016 20:18:10 [info]  Clicked on the '*VenueDrop Down Image'
+Nov 16,2016 20:18:11 [info]  Clicked on the 'All Venues'
+Nov 16,2016 20:18:12 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 20:18:12 [info]  Verify The data of RI_MediaRights_EditMode_*Venue
+Nov 16,2016 20:18:12 [info]  Verified that Expected value :[All Venues] is matched with Actual value :[All Venues]
+Nov 16,2016 20:18:13 [info]  Clicked on the 'RI_MediaRights_EditMode_Platforms'
+Nov 16,2016 20:18:14 [info]  Clicked on the '*PlatformsDrop Down Image'
+Nov 16,2016 20:18:14 [info]  Clicked on the 'All Platforms'
+Nov 16,2016 20:18:15 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 20:18:15 [info]  Verify The data of RI_MediaRights_EditMode_*Platforms
+Nov 16,2016 20:18:15 [info]  Verified that Expected value :[All Platforms] is matched with Actual value :[All Platforms]
+Nov 16,2016 20:18:17 [info]  Clicked on the 'RI_MediaRights_EditMode_Restrictions'
+Nov 16,2016 20:18:17 [info]  Clicked on the '*RestrictionsDrop Down Image'
+Nov 16,2016 20:18:18 [info]  Clicked on the 'Branded'
+Nov 16,2016 20:18:19 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 20:18:19 [info]  Verify The data of RI_MediaRights_EditMode_*Restrictions
+Nov 16,2016 20:18:19 [info]  Verified that Expected value :[Branded] is matched with Actual value :[Branded]
+Nov 16,2016 20:18:20 [info]  Clicked on the 'RI_MediaRights_EditMode_Business Outlets'
+Nov 16,2016 20:18:21 [info]  Clicked on the '*Business OutletsDrop Down Image'
+Nov 16,2016 20:18:21 [info]  Clicked on the 'All Fuse'
+Nov 16,2016 20:18:22 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 20:18:23 [info]  Verify The data of RI_MediaRights_EditMode_*Business Outlets
+Nov 16,2016 20:18:23 [info]  Verified that Expected value :[All Fuse] is matched with Actual value :[All Fuse]
+Nov 16,2016 20:18:24 [info]  Clicked on the 'RI_MediaRights_EditMode_Territory'
+Nov 16,2016 20:18:25 [info]  Clicked on the '*TerritoryDrop Down Image'
+Nov 16,2016 20:18:25 [info]  Clicked on the 'Asia'
+Nov 16,2016 20:18:26 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 20:18:26 [info]  Verify The data of RI_MediaRights_EditMode_*Territory
+Nov 16,2016 20:18:26 [info]  Verified that Expected value :[Asia] is matched with Actual value :[Asia]
+Nov 16,2016 20:18:28 [info]  Clicked on the 'RI_MediaRights_EditMode_Language'
+Nov 16,2016 20:18:29 [info]  Clicked on the '*LanguageDrop Down Image'
+Nov 16,2016 20:18:29 [info]  Clicked on the 'English'
+Nov 16,2016 20:18:30 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 20:18:30 [info]  Verify The data of RI_MediaRights_EditMode_*Language
+Nov 16,2016 20:18:30 [info]  Verified that Expected value :[English] is matched with Actual value :[English]
+Nov 16,2016 20:18:31 [info]  Clicked on the 'Term From Field'
+Nov 16,2016 20:18:32 [info]  Entered "01/01/2007" in field 'Term From'
+Nov 16,2016 20:18:33 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 20:18:33 [info]  Verify The data of Term From Data
+Nov 16,2016 20:18:33 [info]  Verified that Expected value :[01/01/2007] is matched with Actual value :[01/01/2007]
+Nov 16,2016 20:18:35 [info]  Clicked on the 'Term To Field'
+Nov 16,2016 20:18:35 [info]  Entered "12/31/2008" in field 'Term To input Field'
+Nov 16,2016 20:18:37 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 20:18:37 [info]  Verify The data of Term From Data
+Nov 16,2016 20:18:37 [info]  Verified that Expected value :[12/31/2008] is matched with Actual value :[12/31/2008]
+Nov 16,2016 20:18:37 [info]  "PERPETUITY check box gets unchecked on enterintg data in Term 'From'" is Present
+Nov 16,2016 20:18:37 [info]  Verify The data of Row Number 1
+Nov 16,2016 20:18:37 [info]  ====Failed==== Expected value is:[1] but Actual value is[]. Please check the screenshot with name: Row Number 1for more details
+Nov 16,2016 20:18:38 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Nov2016\\16\Row Number 1_CheckpointFailure_11-16-2016 8-18-37 PM.jpg
+Nov 16,2016 20:18:38 [info]  Verify The data of Row Number 2
+Nov 16,2016 20:18:38 [info]  ====Failed==== Expected value is:[2] but Actual value is[]. Please check the screenshot with name: Row Number 2for more details
+Nov 16,2016 20:18:38 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Nov2016\\16\Row Number 2_CheckpointFailure_11-16-2016 8-18-38 PM.jpg
+Nov 16,2016 20:18:38 [info]  Verify The data of Row Number 3
+Nov 16,2016 20:18:38 [info]  ====Failed==== Expected value is:[3] but Actual value is[]. Please check the screenshot with name: Row Number 3for more details
+Nov 16,2016 20:18:38 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Nov2016\\16\Row Number 3_CheckpointFailure_11-16-2016 8-18-38 PM.jpg
+Nov 16,2016 20:18:38 [info]  Test 'testscript' PASSED
+Nov 16,2016 20:18:40 [info]  Closed the Browser
+Nov 16,2016 20:22:00 [info]  ********************Started Executiong the Test Suite at 20:22:00******************
+Nov 16,2016 20:22:00 [info]  Client: AMCN
+Nov 16,2016 20:22:00 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Nov 16,2016 20:22:00 [info]  *********************Started Executing 'TC3_MediaRightsMultiple' Test Case*********************
+Nov 16,2016 20:22:38 [info]  ********************Started Executiong the Test Suite at 20:22:38******************
+Nov 16,2016 20:22:38 [info]  Client: AMCN
+Nov 16,2016 20:22:38 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Nov 16,2016 20:22:38 [info]  *********************Started Executing 'TC3_MediaRightsMultiple' Test Case*********************
+Nov 16,2016 20:22:48 [info]  Client: AMCN
+Nov 16,2016 20:22:48 [info]  URL: http://rlv2wb79/login.aspx
+Nov 16,2016 20:22:48 [info]  UserName: automation
+Nov 16,2016 20:22:48 [info]  Password: automation
+Nov 16,2016 20:22:50 [info]  Entered "automation" in field 'User Name'
+Nov 16,2016 20:22:50 [info]  Clicked on the 'Temporary Check Box'
+Nov 16,2016 20:22:51 [info]  Entered "automation" in field 'Password'
+Nov 16,2016 20:22:58 [info]  Clicked on the 'LoginButton'
+Nov 16,2016 20:23:05 [info]  Clicked on the 'Modules'
+Nov 16,2016 20:23:16 [info]  Clicked on the 'RightsIN'
+Nov 16,2016 20:23:17 [info]  Clicked on the 'Search Icon' using JS Executor
+Nov 16,2016 20:23:17 [info]  Clicked on the 'Agreement Link' using JS Executor
+Nov 16,2016 20:23:26 [info]  Entered "AUT_Deal_2_1116201674019" in field 'AssetTitle'
+Nov 16,2016 20:23:28 [info]  Clicked on the 'Find Button' using JS Executor
+Nov 16,2016 20:23:37 [info]  Moved Mouse over 'First Asset in the Searched Asset'
+Nov 16,2016 20:23:37 [info]  Clicked on the 'First Asset in the Searched Asset'
+Nov 16,2016 20:23:41 [info]  Clicked on the 'View Asset' using JS Executor
+Nov 16,2016 20:23:52 [info]  Verified that Expected value :[AUT_Deal_2_1116201674019] is matched with Actual value :[AUT_Deal_2_1116201674019]
+Nov 16,2016 20:23:55 [info]  Clicked on the 'Media Rights TAB'
+Nov 16,2016 20:23:55 [info]  Clicked on the ''Edit' Button at Media Rights TAB' using JS Executor
+Nov 16,2016 20:24:02 [info]  Clicked on the ''Add' Button at Media Rights Edit window' using JS Executor
+Nov 16,2016 20:24:10 [info]  Clicked on the 'RI_MediaRights_EditMode_Applies To'
+Nov 16,2016 20:24:10 [info]  Clicked on the '*Applies ToDrop Down Image'
+Nov 16,2016 20:24:11 [info]  Clicked on the 'All'
+Nov 16,2016 20:24:11 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 20:24:12 [info]  Verify The data of RI_MediaRights_EditMode_*Applies To
+Nov 16,2016 20:24:12 [info]  Verified that Expected value :[All] is matched with Actual value :[All]
+Nov 16,2016 20:24:13 [info]  Clicked on the 'RI_MediaRights_EditMode_Party'
+Nov 16,2016 20:24:13 [info]  Clicked on the 'PartyDrop Down Image'
+Nov 16,2016 20:24:14 [info]  Clicked on the 'AUT_AMCN_RI_PRIMARY_PARTY'
+Nov 16,2016 20:24:14 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 20:24:14 [info]  Verify The data of RI_MediaRights_EditMode_Party
+Nov 16,2016 20:24:14 [info]  Verified that Expected value :[AUT_AMCN_RI_PRIMARY_PARTY] is matched with Actual value :[AUT_AMCN_RI_PRIMARY_PARTY]
+Nov 16,2016 20:24:16 [info]  Clicked on the 'RI_MediaRights_EditMode_Media Type'
+Nov 16,2016 20:24:16 [info]  Clicked on the '*Media TypeDrop Down Image'
+Nov 16,2016 20:24:17 [info]  Clicked on the 'All Media'
+Nov 16,2016 20:24:17 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 20:24:17 [info]  Verify The data of RI_MediaRights_EditMode_*Media Type
+Nov 16,2016 20:24:17 [info]  Verified that Expected value :[All Media] is matched with Actual value :[All Media]
+Nov 16,2016 20:24:19 [info]  Clicked on the 'RI_MediaRights_EditMode_Venue'
+Nov 16,2016 20:24:19 [info]  Clicked on the '*VenueDrop Down Image'
+Nov 16,2016 20:24:20 [info]  Clicked on the 'All Venues'
+Nov 16,2016 20:24:20 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 20:24:21 [info]  Verify The data of RI_MediaRights_EditMode_*Venue
+Nov 16,2016 20:24:21 [info]  Verified that Expected value :[All Venues] is matched with Actual value :[All Venues]
+Nov 16,2016 20:24:22 [info]  Clicked on the 'RI_MediaRights_EditMode_Platforms'
+Nov 16,2016 20:24:22 [info]  Clicked on the '*PlatformsDrop Down Image'
+Nov 16,2016 20:24:23 [info]  Clicked on the 'All Platforms'
+Nov 16,2016 20:24:24 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 20:24:24 [info]  Verify The data of RI_MediaRights_EditMode_*Platforms
+Nov 16,2016 20:24:24 [info]  Verified that Expected value :[All Platforms] is matched with Actual value :[All Platforms]
+Nov 16,2016 20:24:25 [info]  Clicked on the 'RI_MediaRights_EditMode_Restrictions'
+Nov 16,2016 20:24:26 [info]  Clicked on the '*RestrictionsDrop Down Image'
+Nov 16,2016 20:24:26 [info]  Clicked on the 'Branded'
+Nov 16,2016 20:24:27 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 20:24:27 [info]  Verify The data of RI_MediaRights_EditMode_*Restrictions
+Nov 16,2016 20:24:27 [info]  Verified that Expected value :[Branded] is matched with Actual value :[Branded]
+Nov 16,2016 20:24:29 [info]  Clicked on the 'RI_MediaRights_EditMode_Business Outlets'
+Nov 16,2016 20:24:29 [info]  Clicked on the '*Business OutletsDrop Down Image'
+Nov 16,2016 20:24:29 [info]  Clicked on the 'All Fuse'
+Nov 16,2016 20:24:30 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 20:24:30 [info]  Verify The data of RI_MediaRights_EditMode_*Business Outlets
+Nov 16,2016 20:24:30 [info]  Verified that Expected value :[All Fuse] is matched with Actual value :[All Fuse]
+Nov 16,2016 20:24:32 [info]  Clicked on the 'RI_MediaRights_EditMode_Territory'
+Nov 16,2016 20:24:32 [info]  Clicked on the '*TerritoryDrop Down Image'
+Nov 16,2016 20:24:33 [info]  Clicked on the 'Asia'
+Nov 16,2016 20:24:34 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 20:24:34 [info]  Verify The data of RI_MediaRights_EditMode_*Territory
+Nov 16,2016 20:24:34 [info]  Verified that Expected value :[Asia] is matched with Actual value :[Asia]
+Nov 16,2016 20:24:36 [info]  Clicked on the 'RI_MediaRights_EditMode_Language'
+Nov 16,2016 20:24:36 [info]  Clicked on the '*LanguageDrop Down Image'
+Nov 16,2016 20:24:37 [info]  Clicked on the 'English'
+Nov 16,2016 20:24:37 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 20:24:37 [info]  Verify The data of RI_MediaRights_EditMode_*Language
+Nov 16,2016 20:24:37 [info]  Verified that Expected value :[English] is matched with Actual value :[English]
+Nov 16,2016 20:24:38 [info]  Clicked on the 'Term From Field'
+Nov 16,2016 20:24:39 [info]  Entered "01/01/2007" in field 'Term From'
+Nov 16,2016 20:24:40 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 20:24:41 [info]  Verify The data of Term From Data
+Nov 16,2016 20:24:41 [info]  Verified that Expected value :[01/01/2007] is matched with Actual value :[01/01/2007]
+Nov 16,2016 20:24:42 [info]  Clicked on the 'Term To Field'
+Nov 16,2016 20:24:43 [info]  Entered "12/31/2008" in field 'Term To input Field'
+Nov 16,2016 20:24:44 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 20:24:44 [info]  Verify The data of Term From Data
+Nov 16,2016 20:24:44 [info]  Verified that Expected value :[12/31/2008] is matched with Actual value :[12/31/2008]
+Nov 16,2016 20:24:44 [info]  "PERPETUITY check box gets unchecked on enterintg data in Term 'From'" is Present
+Nov 16,2016 20:24:44 [info]  Clicked on the ''Add' Button at Media Rights Edit window' using JS Executor
+Nov 16,2016 20:24:52 [info]  Clicked on the 'RI_MediaRights_EditMode_Applies To'
+Nov 16,2016 20:24:53 [info]  Clicked on the '*Applies ToDrop Down Image'
+Nov 16,2016 20:24:53 [info]  Clicked on the 'All'
+Nov 16,2016 20:24:54 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 20:24:54 [info]  Verify The data of RI_MediaRights_EditMode_*Applies To
+Nov 16,2016 20:24:54 [info]  Verified that Expected value :[All] is matched with Actual value :[All]
+Nov 16,2016 20:24:55 [info]  Clicked on the 'RI_MediaRights_EditMode_Party'
+Nov 16,2016 20:24:56 [info]  Clicked on the 'PartyDrop Down Image'
+Nov 16,2016 20:24:56 [info]  Clicked on the 'AUT_AMCN_RI_PRIMARY_PARTY'
+Nov 16,2016 20:24:57 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 20:24:57 [info]  Verify The data of RI_MediaRights_EditMode_Party
+Nov 16,2016 20:24:57 [info]  Verified that Expected value :[AUT_AMCN_RI_PRIMARY_PARTY] is matched with Actual value :[AUT_AMCN_RI_PRIMARY_PARTY]
+Nov 16,2016 20:24:58 [info]  Clicked on the 'RI_MediaRights_EditMode_Media Type'
+Nov 16,2016 20:24:59 [info]  Clicked on the '*Media TypeDrop Down Image'
+Nov 16,2016 20:24:59 [info]  Clicked on the 'All Media'
+Nov 16,2016 20:25:00 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 20:25:00 [info]  Verify The data of RI_MediaRights_EditMode_*Media Type
+Nov 16,2016 20:25:00 [info]  Verified that Expected value :[All Media] is matched with Actual value :[All Media]
+Nov 16,2016 20:25:02 [info]  Clicked on the 'RI_MediaRights_EditMode_Venue'
+Nov 16,2016 20:25:02 [info]  Clicked on the '*VenueDrop Down Image'
+Nov 16,2016 20:25:03 [info]  Clicked on the 'All Venues'
+Nov 16,2016 20:25:03 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 20:25:04 [info]  Verify The data of RI_MediaRights_EditMode_*Venue
+Nov 16,2016 20:25:04 [info]  Verified that Expected value :[All Venues] is matched with Actual value :[All Venues]
+Nov 16,2016 20:25:05 [info]  Clicked on the 'RI_MediaRights_EditMode_Platforms'
+Nov 16,2016 20:25:05 [info]  Clicked on the '*PlatformsDrop Down Image'
+Nov 16,2016 20:25:06 [info]  Clicked on the 'All Platforms'
+Nov 16,2016 20:25:07 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 20:25:07 [info]  Verify The data of RI_MediaRights_EditMode_*Platforms
+Nov 16,2016 20:25:07 [info]  Verified that Expected value :[All Platforms] is matched with Actual value :[All Platforms]
+Nov 16,2016 20:25:08 [info]  Clicked on the 'RI_MediaRights_EditMode_Restrictions'
+Nov 16,2016 20:25:09 [info]  Clicked on the '*RestrictionsDrop Down Image'
+Nov 16,2016 20:25:09 [info]  Clicked on the 'Branded'
+Nov 16,2016 20:25:10 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 20:25:10 [info]  Verify The data of RI_MediaRights_EditMode_*Restrictions
+Nov 16,2016 20:25:10 [info]  Verified that Expected value :[Branded] is matched with Actual value :[Branded]
+Nov 16,2016 20:25:12 [info]  Clicked on the 'RI_MediaRights_EditMode_Business Outlets'
+Nov 16,2016 20:25:12 [info]  Clicked on the '*Business OutletsDrop Down Image'
+Nov 16,2016 20:25:13 [info]  Clicked on the 'All Fuse'
+Nov 16,2016 20:25:14 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 20:25:14 [info]  Verify The data of RI_MediaRights_EditMode_*Business Outlets
+Nov 16,2016 20:25:14 [info]  Verified that Expected value :[All Fuse] is matched with Actual value :[All Fuse]
+Nov 16,2016 20:25:15 [info]  Clicked on the 'RI_MediaRights_EditMode_Territory'
+Nov 16,2016 20:25:16 [info]  Clicked on the '*TerritoryDrop Down Image'
+Nov 16,2016 20:25:16 [info]  Clicked on the 'Asia'
+Nov 16,2016 20:25:17 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 20:25:18 [info]  Verify The data of RI_MediaRights_EditMode_*Territory
+Nov 16,2016 20:25:18 [info]  Verified that Expected value :[Asia] is matched with Actual value :[Asia]
+Nov 16,2016 20:25:19 [info]  Clicked on the 'RI_MediaRights_EditMode_Language'
+Nov 16,2016 20:25:20 [info]  Clicked on the '*LanguageDrop Down Image'
+Nov 16,2016 20:25:20 [info]  Clicked on the 'English'
+Nov 16,2016 20:25:21 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 20:25:21 [info]  Verify The data of RI_MediaRights_EditMode_*Language
+Nov 16,2016 20:25:21 [info]  Verified that Expected value :[English] is matched with Actual value :[English]
+Nov 16,2016 20:25:22 [info]  Clicked on the 'Term From Field'
+Nov 16,2016 20:25:23 [info]  Entered "01/01/2007" in field 'Term From'
+Nov 16,2016 20:25:24 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 20:25:24 [info]  Verify The data of Term From Data
+Nov 16,2016 20:25:24 [info]  Verified that Expected value :[01/01/2007] is matched with Actual value :[01/01/2007]
+Nov 16,2016 20:25:26 [info]  Clicked on the 'Term To Field'
+Nov 16,2016 20:25:26 [info]  Entered "12/31/2008" in field 'Term To input Field'
+Nov 16,2016 20:25:28 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 20:25:28 [info]  Verify The data of Term From Data
+Nov 16,2016 20:25:28 [info]  Verified that Expected value :[12/31/2008] is matched with Actual value :[12/31/2008]
+Nov 16,2016 20:25:28 [info]  "PERPETUITY check box gets unchecked on enterintg data in Term 'From'" is Present
+Nov 16,2016 20:25:28 [info]  Clicked on the ''Add' Button at Media Rights Edit window' using JS Executor
+Nov 16,2016 20:25:36 [info]  Clicked on the 'RI_MediaRights_EditMode_Applies To'
+Nov 16,2016 20:25:37 [info]  Clicked on the '*Applies ToDrop Down Image'
+Nov 16,2016 20:25:38 [info]  Clicked on the 'All'
+Nov 16,2016 20:25:38 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 20:25:38 [info]  Verify The data of RI_MediaRights_EditMode_*Applies To
+Nov 16,2016 20:25:38 [info]  Verified that Expected value :[All] is matched with Actual value :[All]
+Nov 16,2016 20:25:39 [info]  Clicked on the 'RI_MediaRights_EditMode_Party'
+Nov 16,2016 20:25:40 [info]  Clicked on the 'PartyDrop Down Image'
+Nov 16,2016 20:25:40 [info]  Clicked on the 'AUT_AMCN_RI_PRIMARY_PARTY'
+Nov 16,2016 20:25:41 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 20:25:41 [info]  Verify The data of RI_MediaRights_EditMode_Party
+Nov 16,2016 20:25:41 [info]  Verified that Expected value :[AUT_AMCN_RI_PRIMARY_PARTY] is matched with Actual value :[AUT_AMCN_RI_PRIMARY_PARTY]
+Nov 16,2016 20:25:43 [info]  Clicked on the 'RI_MediaRights_EditMode_Media Type'
+Nov 16,2016 20:25:43 [info]  Clicked on the '*Media TypeDrop Down Image'
+Nov 16,2016 20:25:44 [info]  Clicked on the 'All Media'
+Nov 16,2016 20:25:44 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 20:25:45 [info]  Verify The data of RI_MediaRights_EditMode_*Media Type
+Nov 16,2016 20:25:45 [info]  Verified that Expected value :[All Media] is matched with Actual value :[All Media]
+Nov 16,2016 20:25:46 [info]  Clicked on the 'RI_MediaRights_EditMode_Venue'
+Nov 16,2016 20:25:47 [info]  Clicked on the '*VenueDrop Down Image'
+Nov 16,2016 20:25:47 [info]  Clicked on the 'All Venues'
+Nov 16,2016 20:25:48 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 20:25:48 [info]  Verify The data of RI_MediaRights_EditMode_*Venue
+Nov 16,2016 20:25:48 [info]  Verified that Expected value :[All Venues] is matched with Actual value :[All Venues]
+Nov 16,2016 20:25:50 [info]  Clicked on the 'RI_MediaRights_EditMode_Platforms'
+Nov 16,2016 20:25:50 [info]  Clicked on the '*PlatformsDrop Down Image'
+Nov 16,2016 20:25:51 [info]  Clicked on the 'All Platforms'
+Nov 16,2016 20:25:52 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 20:25:52 [info]  Verify The data of RI_MediaRights_EditMode_*Platforms
+Nov 16,2016 20:25:52 [info]  Verified that Expected value :[All Platforms] is matched with Actual value :[All Platforms]
+Nov 16,2016 20:25:53 [info]  Clicked on the 'RI_MediaRights_EditMode_Restrictions'
+Nov 16,2016 20:25:54 [info]  Clicked on the '*RestrictionsDrop Down Image'
+Nov 16,2016 20:25:54 [info]  Clicked on the 'Branded'
+Nov 16,2016 20:25:55 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 20:25:55 [info]  Verify The data of RI_MediaRights_EditMode_*Restrictions
+Nov 16,2016 20:25:55 [info]  Verified that Expected value :[Branded] is matched with Actual value :[Branded]
+Nov 16,2016 20:25:57 [info]  Clicked on the 'RI_MediaRights_EditMode_Business Outlets'
+Nov 16,2016 20:25:57 [info]  Clicked on the '*Business OutletsDrop Down Image'
+Nov 16,2016 20:25:58 [info]  Clicked on the 'All Fuse'
+Nov 16,2016 20:25:59 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 20:25:59 [info]  Verify The data of RI_MediaRights_EditMode_*Business Outlets
+Nov 16,2016 20:25:59 [info]  Verified that Expected value :[All Fuse] is matched with Actual value :[All Fuse]
+Nov 16,2016 20:26:01 [info]  Clicked on the 'RI_MediaRights_EditMode_Territory'
+Nov 16,2016 20:26:01 [info]  Clicked on the '*TerritoryDrop Down Image'
+Nov 16,2016 20:26:02 [info]  Clicked on the 'Asia'
+Nov 16,2016 20:26:03 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 20:26:03 [info]  Verify The data of RI_MediaRights_EditMode_*Territory
+Nov 16,2016 20:26:03 [info]  Verified that Expected value :[Asia] is matched with Actual value :[Asia]
+Nov 16,2016 20:26:05 [info]  Clicked on the 'RI_MediaRights_EditMode_Language'
+Nov 16,2016 20:26:05 [info]  Clicked on the '*LanguageDrop Down Image'
+Nov 16,2016 20:26:06 [info]  Clicked on the 'English'
+Nov 16,2016 20:26:07 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 20:26:07 [info]  Verify The data of RI_MediaRights_EditMode_*Language
+Nov 16,2016 20:26:07 [info]  Verified that Expected value :[English] is matched with Actual value :[English]
+Nov 16,2016 20:26:08 [info]  Clicked on the 'Term From Field'
+Nov 16,2016 20:26:09 [info]  Entered "01/01/2007" in field 'Term From'
+Nov 16,2016 20:26:10 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 20:26:10 [info]  Verify The data of Term From Data
+Nov 16,2016 20:26:10 [info]  Verified that Expected value :[01/01/2007] is matched with Actual value :[01/01/2007]
+Nov 16,2016 20:26:11 [info]  Clicked on the 'Term To Field'
+Nov 16,2016 20:26:12 [info]  Entered "12/31/2008" in field 'Term To input Field'
+Nov 16,2016 20:26:13 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 20:26:13 [info]  Verify The data of Term From Data
+Nov 16,2016 20:26:13 [info]  Verified that Expected value :[12/31/2008] is matched with Actual value :[12/31/2008]
+Nov 16,2016 20:26:14 [info]  "PERPETUITY check box gets unchecked on enterintg data in Term 'From'" is Present
+Nov 16,2016 20:26:14 [info]  Clicked on the '3rd row of Edit Media Rights TAB'
+Nov 16,2016 20:26:15 [info]  Clicked on the 'Delete Button'
+Nov 16,2016 20:26:15 [info]  Clicked on the 'Ok Button At Confirm Pop-Up' using JS Executor
+Nov 16,2016 20:26:42 [info]  ====Failed===="Either Expected Value is not given OR 'Row Number 1'" Element is not Present
+Nov 16,2016 20:26:42 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Nov2016\\16\Row Number 1_CheckpointFailure_11-16-2016 8-26-42 PM.jpg
+Nov 16,2016 20:27:03 [info]  ====Failed===="Either Expected Value is not given OR 'Row Number 2'" Element is not Present
+Nov 16,2016 20:27:03 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Nov2016\\16\Row Number 2_CheckpointFailure_11-16-2016 8-27-03 PM.jpg
+Nov 16,2016 20:27:23 [info]  ====Failed===="Either Expected Value is not given OR 'Row Number 3'" Element is not Present
+Nov 16,2016 20:27:23 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Nov2016\\16\Row Number 3_CheckpointFailure_11-16-2016 8-27-23 PM.jpg
+Nov 16,2016 20:27:24 [info]  Clicked on the ''Add' Button at Media Rights Edit window' using JS Executor
+Nov 16,2016 20:27:30 [info]  Clicked on the 'RI_MediaRights_EditMode_Applies To'
+Nov 16,2016 20:27:31 [info]  Clicked on the '*Applies ToDrop Down Image'
+Nov 16,2016 20:27:31 [info]  Clicked on the 'All'
+Nov 16,2016 20:27:32 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 20:27:32 [info]  Verify The data of RI_MediaRights_EditMode_*Applies To
+Nov 16,2016 20:27:32 [info]  Verified that Expected value :[All] is matched with Actual value :[All]
+Nov 16,2016 20:27:33 [info]  Clicked on the 'RI_MediaRights_EditMode_Party'
+Nov 16,2016 20:27:34 [info]  Clicked on the 'PartyDrop Down Image'
+Nov 16,2016 20:27:34 [info]  Clicked on the 'AUT_AMCN_RI_PRIMARY_PARTY'
+Nov 16,2016 20:27:35 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 20:27:35 [info]  Verify The data of RI_MediaRights_EditMode_Party
+Nov 16,2016 20:27:35 [info]  Verified that Expected value :[AUT_AMCN_RI_PRIMARY_PARTY] is matched with Actual value :[AUT_AMCN_RI_PRIMARY_PARTY]
+Nov 16,2016 20:27:36 [info]  Clicked on the 'RI_MediaRights_EditMode_Media Type'
+Nov 16,2016 20:27:37 [info]  Clicked on the '*Media TypeDrop Down Image'
+Nov 16,2016 20:27:37 [info]  Clicked on the 'All Media'
+Nov 16,2016 20:27:38 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 20:27:39 [info]  Verify The data of RI_MediaRights_EditMode_*Media Type
+Nov 16,2016 20:27:39 [info]  Verified that Expected value :[All Media] is matched with Actual value :[All Media]
+Nov 16,2016 20:27:40 [info]  Clicked on the 'RI_MediaRights_EditMode_Venue'
+Nov 16,2016 20:27:40 [info]  Clicked on the '*VenueDrop Down Image'
+Nov 16,2016 20:27:41 [info]  Clicked on the 'All Venues'
+Nov 16,2016 20:27:42 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 20:27:42 [info]  Verify The data of RI_MediaRights_EditMode_*Venue
+Nov 16,2016 20:27:42 [info]  Verified that Expected value :[All Venues] is matched with Actual value :[All Venues]
+Nov 16,2016 20:27:43 [info]  Clicked on the 'RI_MediaRights_EditMode_Platforms'
+Nov 16,2016 20:27:44 [info]  Clicked on the '*PlatformsDrop Down Image'
+Nov 16,2016 20:27:44 [info]  Clicked on the 'All Platforms'
+Nov 16,2016 20:27:45 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 20:27:45 [info]  Verify The data of RI_MediaRights_EditMode_*Platforms
+Nov 16,2016 20:27:45 [info]  Verified that Expected value :[All Platforms] is matched with Actual value :[All Platforms]
+Nov 16,2016 20:27:47 [info]  Clicked on the 'RI_MediaRights_EditMode_Restrictions'
+Nov 16,2016 20:27:47 [info]  Clicked on the '*RestrictionsDrop Down Image'
+Nov 16,2016 20:27:48 [info]  Clicked on the 'Branded'
+Nov 16,2016 20:27:49 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 20:27:49 [info]  Verify The data of RI_MediaRights_EditMode_*Restrictions
+Nov 16,2016 20:27:49 [info]  Verified that Expected value :[Branded] is matched with Actual value :[Branded]
+Nov 16,2016 20:27:51 [info]  Clicked on the 'RI_MediaRights_EditMode_Business Outlets'
+Nov 16,2016 20:27:51 [info]  Clicked on the '*Business OutletsDrop Down Image'
+Nov 16,2016 20:27:52 [info]  Clicked on the 'All Fuse'
+Nov 16,2016 20:27:53 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 20:27:53 [info]  Verify The data of RI_MediaRights_EditMode_*Business Outlets
+Nov 16,2016 20:27:53 [info]  Verified that Expected value :[All Fuse] is matched with Actual value :[All Fuse]
+Nov 16,2016 20:27:55 [info]  Clicked on the 'RI_MediaRights_EditMode_Territory'
+Nov 16,2016 20:27:55 [info]  Clicked on the '*TerritoryDrop Down Image'
+Nov 16,2016 20:27:56 [info]  Clicked on the 'Asia'
+Nov 16,2016 20:27:57 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 20:27:57 [info]  Verify The data of RI_MediaRights_EditMode_*Territory
+Nov 16,2016 20:27:57 [info]  Verified that Expected value :[Asia] is matched with Actual value :[Asia]
+Nov 16,2016 20:27:59 [info]  Clicked on the 'RI_MediaRights_EditMode_Language'
+Nov 16,2016 20:27:59 [info]  Clicked on the '*LanguageDrop Down Image'
+Nov 16,2016 20:28:00 [info]  Clicked on the 'English'
+Nov 16,2016 20:28:01 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 20:28:01 [info]  Verify The data of RI_MediaRights_EditMode_*Language
+Nov 16,2016 20:28:01 [info]  Verified that Expected value :[English] is matched with Actual value :[English]
+Nov 16,2016 20:28:02 [info]  Clicked on the 'Term From Field'
+Nov 16,2016 20:28:03 [info]  Entered "01/01/2007" in field 'Term From'
+Nov 16,2016 20:28:04 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 20:28:04 [info]  Verify The data of Term From Data
+Nov 16,2016 20:28:04 [info]  Verified that Expected value :[01/01/2007] is matched with Actual value :[01/01/2007]
+Nov 16,2016 20:28:05 [info]  Clicked on the 'Term To Field'
+Nov 16,2016 20:28:06 [info]  Entered "12/31/2008" in field 'Term To input Field'
+Nov 16,2016 20:28:07 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 16,2016 20:28:07 [info]  Verify The data of Term From Data
+Nov 16,2016 20:28:07 [info]  Verified that Expected value :[12/31/2008] is matched with Actual value :[12/31/2008]
+Nov 16,2016 20:28:08 [info]  "PERPETUITY check box gets unchecked on enterintg data in Term 'From'" is Present
+Nov 16,2016 20:28:08 [info]  Clicked on the ''Save' Button at Media Rights Edit window' using JS Executor
+Nov 16,2016 20:28:18 [info]  Verify The data of Row Number 1
+Nov 16,2016 20:28:18 [info]  Verified that Expected value :[1] is matched with Actual value :[1]
+Nov 16,2016 20:28:18 [info]  Verify The data of Row Number 2
+Nov 16,2016 20:28:18 [info]  Verified that Expected value :[2] is matched with Actual value :[2]
+Nov 16,2016 20:28:18 [info]  Verify The data of Row Number 3
+Nov 16,2016 20:28:18 [info]  Verified that Expected value :[3] is matched with Actual value :[3]
+Nov 16,2016 20:28:18 [info]  Test 'TC3_MediaRightsMultiple' PASSED
+Nov 16,2016 20:28:21 [info]  Closed the Browser

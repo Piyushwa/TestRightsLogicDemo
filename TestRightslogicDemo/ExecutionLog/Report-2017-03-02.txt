@@ -1,0 +1,889 @@
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 11:27:03******************</span>
+Mar 02,2017 11:27:03 [Info]  Client: SKY
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************</span>
+Mar 02,2017 11:27:14 [Info]  Client: SKY
+Mar 02,2017 11:27:14 [Info]  URL: http://rlv2wb85/Home.aspx
+Mar 02,2017 11:27:14 [Info]  UserName: admin
+Mar 02,2017 11:27:14 [Info]  Password: admin
+Mar 02,2017 11:27:39 [Info]  Entered "admin" in field 'User Name'
+Mar 02,2017 11:27:39 [Info]  Clicked on the 'Temporary Check Box'
+Mar 02,2017 11:27:39 [Info]  Entered "admin" in field 'Password'
+Mar 02,2017 11:27:50 [Info]  Clicked on the 'LoginButton'
+<span style="color:blue;"> [Manual Test Step]  ************************Started Creating Asset of Type: Program - Series************************</span>
+Mar 02,2017 11:28:00 [Info]  Clicked on the 'MODULE'
+Mar 02,2017 11:28:09 [Info]  Clicked on the 'Title Maintenance'
+Mar 02,2017 11:28:13 [Info]  Clicked on the 'New Button' using JS Executor
+Mar 02,2017 11:28:24 [Info]  Clicked on the 'Program' using JS Executor
+Mar 02,2017 11:28:32 [Info]  Clicked on the 'General TAB'
+Mar 02,2017 11:28:35 [Info]  Selected "Program - Series" in "AssetTypeDropDown" drop down
+Mar 02,2017 11:28:35 [Info]  Entered "AUT_AssetSeries_03022017112757" in field 'AssetTitle'
+Mar 02,2017 11:28:37 [Info]  Clicked on the 'SBUImage' using JS Executor
+Mar 02,2017 11:28:43 [Info]  Clicked on the 'First CheckBox At SBU window'
+Mar 02,2017 11:28:45 [Info]  Clicked on the 'Apply Button' using JS Executor
+Mar 02,2017 11:28:45 [Info]  Entered "11:11:11" in field 'Duration'
+Mar 02,2017 11:28:55 [Info]  Selected "Active" in "Asset Status" drop down
+Mar 02,2017 11:28:56 [Info]  Selected "Event" in "Asset Format" drop down
+Mar 02,2017 11:28:56 [Info]  Selected "License Acquired" in "Asset Source" drop down
+Mar 02,2017 11:28:56 [Info]  Entered "AUT_Series" in field 'Short Name'
+Mar 02,2017 11:28:56 [Info]  Clicked on the 'Save Button' using JS Executor
+Mar 02,2017 11:29:09 [Info]  Verify The data of Created AssetAUT_AssetSeries_03022017112757
+<span style="color:green;">Mar 02,2017 11:29:10 [Verification]  Verified that Expected value :[AUT_AssetSeries_03022017112757] is matched with Actual value :[AUT_AssetSeries_03022017112757]</span>
+<span style="color:blue;"> [Manual Test Step]  ************************Created Asset of TypeProgram - Series************************</span>
+Mar 02,2017 11:29:13 [Info]  Clicked on the 'MODULE'
+Mar 02,2017 11:29:19 [Info]  Clicked on the 'Title Maintenance'
+Mar 02,2017 11:29:25 [Info]  Clicked on the 'MODULE'
+Mar 02,2017 11:29:31 [Info]  Clicked on the 'Title Maintenance'
+Mar 02,2017 11:29:37 [Info]  Double clicked on 'AUT_AssetSeries_03022017112757AssetName'
+Mar 02,2017 11:29:37 [Info]  Clicked on the 'Episodes TAB'
+<span style="color:blue;"> [Manual Test Step]  *****************The below are buttons in the window*****************</span>
+Mar 02,2017 11:29:40 [Info]  Verify The data of EditEpisodes Button
+<span style="color:green;">Mar 02,2017 11:29:40 [Verification]  Verified that Expected value :[Edit Episode] is matched with Actual value :[Edit Episode]</span>
+Mar 02,2017 11:29:40 [Info]  Verify The data of Edit button
+<span style="color:green;">Mar 02,2017 11:29:40 [Verification]  Verified that Expected value :[Edit] is matched with Actual value :[Edit...]</span>
+Mar 02,2017 11:29:43 [Info]  Clicked on the ''Edit' Button at Episode window' using JS Executor
+Mar 02,2017 11:29:46 [Info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Mar 02,2017 11:29:46 [Info]  Entered "1-5" in field 'Add Episode input field'
+Mar 02,2017 11:29:48 [Info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Mar 02,2017 11:29:48 [Info]  Clicked on the 'Season Field of Episode001' using JS Executor
+Mar 02,2017 11:29:48 [Info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Mar 02,2017 11:29:48 [Info]  Clicked on the 'Season 1'
+Mar 02,2017 11:29:48 [Info]  Clicked on the 'Support click to select season'
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 11:31:15******************</span>
+Mar 02,2017 11:31:15 [Info]  Client: SKY
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************</span>
+Mar 02,2017 11:31:26 [Info]  Client: SKY
+Mar 02,2017 11:31:26 [Info]  URL: http://rlv2wb85/Home.aspx
+Mar 02,2017 11:31:26 [Info]  UserName: admin
+Mar 02,2017 11:31:26 [Info]  Password: admin
+Mar 02,2017 11:31:27 [Info]  Entered "admin" in field 'User Name'
+Mar 02,2017 11:31:27 [Info]  Clicked on the 'Temporary Check Box'
+Mar 02,2017 11:31:27 [Info]  Entered "admin" in field 'Password'
+Mar 02,2017 11:31:34 [Info]  Clicked on the 'LoginButton'
+<span style="color:blue;"> [Manual Test Step]  ************************Started Creating Asset of Type: Program - Series************************</span>
+Mar 02,2017 11:32:24 [Info]  Clicked on the 'MODULE'
+Mar 02,2017 11:32:30 [Info]  Clicked on the 'Title Maintenance'
+Mar 02,2017 11:32:34 [Info]  Clicked on the 'New Button' using JS Executor
+Mar 02,2017 11:32:37 [Info]  Clicked on the 'Program' using JS Executor
+Mar 02,2017 11:32:45 [Info]  Clicked on the 'General TAB'
+Mar 02,2017 11:32:47 [Info]  Selected "Program - Series" in "AssetTypeDropDown" drop down
+Mar 02,2017 11:32:48 [Info]  Entered "AUT_AssetSeries_03022017113221" in field 'AssetTitle'
+Mar 02,2017 11:32:49 [Info]  Clicked on the 'SBUImage' using JS Executor
+Mar 02,2017 11:32:55 [Info]  Clicked on the 'First CheckBox At SBU window'
+Mar 02,2017 11:32:58 [Info]  Clicked on the 'Apply Button' using JS Executor
+Mar 02,2017 11:32:58 [Info]  Entered "11:11:11" in field 'Duration'
+Mar 02,2017 11:33:08 [Info]  Selected "Active" in "Asset Status" drop down
+Mar 02,2017 11:33:08 [Info]  Selected "Event" in "Asset Format" drop down
+Mar 02,2017 11:33:08 [Info]  Selected "License Acquired" in "Asset Source" drop down
+Mar 02,2017 11:33:08 [Info]  Entered "AUT_Series" in field 'Short Name'
+Mar 02,2017 11:33:09 [Info]  Clicked on the 'Save Button' using JS Executor
+Mar 02,2017 11:33:14 [Info]  Verify The data of Created AssetAUT_AssetSeries_03022017113221
+<span style="color:green;">Mar 02,2017 11:33:14 [Verification]  Verified that Expected value :[AUT_AssetSeries_03022017113221] is matched with Actual value :[AUT_AssetSeries_03022017113221]</span>
+<span style="color:blue;"> [Manual Test Step]  ************************Created Asset of TypeProgram - Series************************</span>
+Mar 02,2017 11:33:17 [Info]  Clicked on the 'MODULE'
+Mar 02,2017 11:33:23 [Info]  Clicked on the 'Title Maintenance'
+Mar 02,2017 11:33:29 [Info]  Double clicked on 'AUT_AssetSeries_03022017113221AssetName'
+Mar 02,2017 11:33:29 [Info]  Clicked on the 'Episodes TAB'
+<span style="color:blue;"> [Manual Test Step]  *****************The below are buttons in the window*****************</span>
+Mar 02,2017 11:33:30 [Info]  Verify The data of EditEpisodes Button
+<span style="color:green;">Mar 02,2017 11:33:30 [Verification]  Verified that Expected value :[Edit Episode] is matched with Actual value :[Edit Episode]</span>
+Mar 02,2017 11:33:30 [Info]  Verify The data of Edit button
+<span style="color:green;">Mar 02,2017 11:33:30 [Verification]  Verified that Expected value :[Edit] is matched with Actual value :[Edit...]</span>
+Mar 02,2017 11:33:32 [Info]  Clicked on the ''Edit' Button at Episode window' using JS Executor
+Mar 02,2017 11:33:35 [Info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Mar 02,2017 11:33:35 [Info]  Entered "1-2" in field 'Add Episode input field'
+Mar 02,2017 11:33:37 [Info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Mar 02,2017 11:36:41 [Info]  Clicked on the 'Season Field of Episode001' using JS Executor
+Mar 02,2017 11:36:42 [Info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Mar 02,2017 11:36:42 [Info]  Clicked on the 'Season 1'
+Mar 02,2017 11:36:42 [Info]  Clicked on the 'Support click to select season'
+Mar 02,2017 11:36:45 [Info]  Clicked on the 'Season Field of Episode002' using JS Executor
+Mar 02,2017 11:36:46 [Info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Mar 02,2017 11:36:46 [Info]  Clicked on the 'Season 2'
+Mar 02,2017 11:36:46 [Info]  Clicked on the 'Support click to select season'
+Mar 02,2017 11:37:14 [Info]  Clicked on the 'Save Button at 'Episode Edit Window'' using JS Executor
+Mar 02,2017 11:37:16 [Info]  Clicked on the ''ClearFilter' at Episode window' using JS Executor
+Mar 02,2017 11:37:16 [Info]  Verify The data of Airing Order
+<span style="color:green;">Mar 02,2017 11:37:16 [Verification]  Verified that Expected value :[2] is matched with Actual value :[2]</span>
+Mar 02,2017 11:37:17 [Info]  Clicked on the ''ClearFilter' at Episode window' using JS Executor
+Mar 02,2017 11:37:18 [Info]  Clicked on the 'Season Field of Episode002' using JS Executor
+Mar 02,2017 11:37:19 [Info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Mar 02,2017 11:37:19 [Info]  Clicked on the 'Season 1'
+Mar 02,2017 11:37:19 [Info]  Clicked on the 'Support click to select season'
+Mar 02,2017 11:37:24 [Info]  Clicked on the 'Save Button at 'Episode Edit Window'' using JS Executor
+Mar 02,2017 11:37:26 [Info]  Clicked on the ''ClearFilter' at Episode window' using JS Executor
+Mar 02,2017 11:37:26 [Info]  Verify The data of Airing Order
+<span style="color:green;">Mar 02,2017 11:37:26 [Verification]  Verified that Expected value :[1] is matched with Actual value :[1]</span>
+Mar 02,2017 11:37:26 [Info]  Verify The data of Airing Order
+<span style="color:green;">Mar 02,2017 11:37:26 [Verification]  Verified that Expected value :[2] is matched with Actual value :[2]</span>
+Mar 02,2017 11:37:26 [Info]  Verify that Airing order can not be duplicate
+Mar 02,2017 11:37:26 [Info]  Clicked on the 'Airing Order'
+Mar 02,2017 11:38:01 [Info]  Entered "1" in field 'Airing Order for Row 2'
+Mar 02,2017 11:38:01 [Info]  Clicked on the 'Support click to select season'
+Mar 02,2017 11:38:01 [Info]  Clicked on the 'Save Button at 'Episode Edit Window'' using JS Executor
+Mar 02,2017 11:38:03 [Info]  Verify The data of Alert Message for duplicate Airing Order
+<span style="color:red;">Mar 02,2017 11:38:03 [Fail]  ====Failed==== Expected value is:[  Please enter different Airing Order, they cannot be same.] but Actual value is[]. Please check the screenshot with name: Alert Message for duplicate Airing Orderfor more details</span>
+Mar 02,2017 11:38:03 [Info]  Clicked on the 'OK Button at Alert duplicate Airing Order' using JS Executor
+Mar 02,2017 11:38:03 [Info]  *****Check the Season User Defined check box and Click on the Season title field.*****
+Mar 02,2017 11:38:03 [Info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Mar 02,2017 11:38:03 [Info]  Entered "7" in field 'Add Episode input field'
+Mar 02,2017 11:38:05 [Info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Mar 02,2017 11:38:05 [Info]  Clicked on the 'user defined check box'
+Mar 02,2017 11:38:05 [Info]  Clicked on the 'Support click to check user-defined check box'
+Mar 02,2017 11:38:05 [Info]  Clicked on the 'Episode 003's season field'
+<span style="color:blue;"> [Manual Test Step]  **********Verifying 'Edit Season pop up' fields ************</span>
+Mar 02,2017 11:38:06 [Info]  Verify The data of Episodes_EditSeason_Series title Label
+<span style="color:green;">Mar 02,2017 11:38:06 [Verification]  Verified that Expected value :[Title] is matched with Actual value :[Title]</span>
+Mar 02,2017 11:38:06 [Info]  Verify The data of Episodes_EditSeason_userDefinedLabel
+<span style="color:green;">Mar 02,2017 11:38:06 [Verification]  Verified that Expected value :[User-defined Season Name] is matched with Actual value :[User-defined Season Name]</span>
+<span style="color:blue;"> [Manual Test Step]  **********Buttons at the 'Edit Season pop up' widnow ************</span>
+Mar 02,2017 11:38:06 [Info]  Verify The data of OK button
+<span style="color:green;">Mar 02,2017 11:38:06 [Verification]  Verified that Expected value :[OK] is matched with Actual value :[OK]</span>
+Mar 02,2017 11:38:06 [Info]  Verify The data of Cancel button
+<span style="color:green;">Mar 02,2017 11:38:06 [Verification]  Verified that Expected value :[Cancel] is matched with Actual value :[Cancel]</span>
+Mar 02,2017 11:38:06 [Info]  Entered "Test Season" in field 'Episodes_EditSeason_userDefined Field'
+Mar 02,2017 11:38:06 [Info]  *****Verify Validation Message "Please Enter Rights Version Type for this Season"*****
+Mar 02,2017 11:38:06 [Info]  Clicked on the 'OKButton at EditSeason pop-up' using JS Executor
+Mar 02,2017 11:38:06 [Info]  Verify The data of Alert Message While for User-defined Season
+<span style="color:red;">Mar 02,2017 11:38:06 [Fail]  ====Failed==== Expected value is:[Please enter Rights Version Type for this Season.] but Actual value is[]. Please check the screenshot with name: Alert Message While for User-defined Seasonfor more details</span>
+Mar 02,2017 11:38:10 [Info]  Clicked on the 'OK Button at Alert While for User-defined Season' using JS Executor
+<span style="color:red;">Mar 02,2017 11:38:20 [Fail]  ====Failed==== " Could not find the Frame: div[id*='WebDialogWindow2'][style*=visible]</span>
+Mar 02,2017 11:38:20 [Info]  no such element: Unable to locate element: {"method":"css selector","selector":"div[id*='WebDialogWindow2'][style*=visible]"}
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.03 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: '9P4G6BS', ip: '10.10.22.71', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed), userDataDir=C:\Users\Rajudd\AppData\Local\Temp\scoped_dir2208_8212}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=56.0.2924.87, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: d9dcd36938eba94241f73cdfbf2f2bb4
+*** Element info: {Using=css selector, value=div[id*='WebDialogWindow2'][style*=visible]}
+<span style="color:red;">Mar 02,2017 11:38:30 [Fail]  ====Failed==== "Original Version" is not present in 'Episodes_EditEpisodes_Userdefined_EditSeasonDrop Down'</span>
+<span style="color:red;">Mar 02,2017 11:38:40 [Fail]  ====Failed==== "OKButton" field is not present'</span>
+Mar 02,2017 11:39:21 [Info]  Clicked on the 'Save Button at 'Episode Edit Window'' using JS Executor
+Mar 02,2017 11:39:21 [Info]  Clicked on the 'Close Button at 'Episode Edit Window'' using JS Executor
+Mar 02,2017 11:39:27 [Info]  Test 'TC3_EpisodeRightVersion' PASSED
+Mar 02,2017 11:39:28 [Info]  Closed the Browser
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 11:44:16******************</span>
+Mar 02,2017 11:44:16 [Info]  Client: SKY
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************</span>
+Mar 02,2017 11:44:27 [Info]  Client: SKY
+Mar 02,2017 11:44:27 [Info]  URL: http://rlv2wb85/Home.aspx
+Mar 02,2017 11:44:27 [Info]  UserName: admin
+Mar 02,2017 11:44:27 [Info]  Password: admin
+Mar 02,2017 11:44:28 [Info]  Entered "admin" in field 'User Name'
+Mar 02,2017 11:44:28 [Info]  Clicked on the 'Temporary Check Box'
+Mar 02,2017 11:44:28 [Info]  Entered "admin" in field 'Password'
+Mar 02,2017 11:44:36 [Info]  Clicked on the 'LoginButton'
+<span style="color:blue;"> [Manual Test Step]  ************************Started Creating Asset of Type: Program - Series************************</span>
+Mar 02,2017 11:44:46 [Info]  Clicked on the 'MODULE'
+Mar 02,2017 11:44:52 [Info]  Clicked on the 'Title Maintenance'
+Mar 02,2017 11:44:55 [Info]  Clicked on the 'New Button' using JS Executor
+Mar 02,2017 11:44:58 [Info]  Clicked on the 'Program' using JS Executor
+Mar 02,2017 11:45:07 [Info]  Clicked on the 'General TAB'
+Mar 02,2017 11:45:09 [Info]  Selected "Program - Series" in "AssetTypeDropDown" drop down
+Mar 02,2017 11:45:09 [Info]  Entered "AUT_AssetSeries_03022017114442" in field 'AssetTitle'
+Mar 02,2017 11:45:10 [Info]  Clicked on the 'SBUImage' using JS Executor
+Mar 02,2017 11:45:17 [Info]  Clicked on the 'First CheckBox At SBU window'
+Mar 02,2017 11:45:19 [Info]  Clicked on the 'Apply Button' using JS Executor
+Mar 02,2017 11:45:19 [Info]  Entered "11:11:11" in field 'Duration'
+Mar 02,2017 11:45:29 [Info]  Selected "Active" in "Asset Status" drop down
+Mar 02,2017 11:45:29 [Info]  Selected "Event" in "Asset Format" drop down
+Mar 02,2017 11:45:29 [Info]  Selected "License Acquired" in "Asset Source" drop down
+Mar 02,2017 11:45:30 [Info]  Entered "AUT_Series" in field 'Short Name'
+Mar 02,2017 11:45:30 [Info]  Clicked on the 'Save Button' using JS Executor
+Mar 02,2017 11:45:35 [Info]  Verify The data of Created AssetAUT_AssetSeries_03022017114442
+<span style="color:green;">Mar 02,2017 11:45:35 [Verification]  Verified that Expected value :[AUT_AssetSeries_03022017114442] is matched with Actual value :[AUT_AssetSeries_03022017114442]</span>
+<span style="color:blue;"> [Manual Test Step]  ************************Created Asset of TypeProgram - Series************************</span>
+Mar 02,2017 11:45:38 [Info]  Clicked on the 'MODULE'
+Mar 02,2017 11:45:44 [Info]  Clicked on the 'Title Maintenance'
+Mar 02,2017 11:45:50 [Info]  Clicked on the 'MODULE'
+Mar 02,2017 11:45:56 [Info]  Clicked on the 'Title Maintenance'
+Mar 02,2017 11:46:02 [Info]  Double clicked on 'AUT_AssetSeries_03022017114442AssetName'
+Mar 02,2017 11:46:03 [Info]  Clicked on the 'Episodes TAB'
+<span style="color:blue;"> [Manual Test Step]  *****************The below are buttons in the window*****************</span>
+Mar 02,2017 11:46:04 [Info]  Verify The data of EditEpisodes Button
+<span style="color:green;">Mar 02,2017 11:46:04 [Verification]  Verified that Expected value :[Edit Episode] is matched with Actual value :[Edit Episode]</span>
+Mar 02,2017 11:46:04 [Info]  Verify The data of Edit button
+<span style="color:green;">Mar 02,2017 11:46:04 [Verification]  Verified that Expected value :[Edit] is matched with Actual value :[Edit...]</span>
+Mar 02,2017 11:46:06 [Info]  Clicked on the ''Edit' Button at Episode window' using JS Executor
+Mar 02,2017 11:46:09 [Info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Mar 02,2017 11:46:09 [Info]  Entered "1-5" in field 'Add Episode input field'
+Mar 02,2017 11:46:11 [Info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Mar 02,2017 11:46:11 [Info]  Clicked on the 'Season Field of Episode001' using JS Executor
+Mar 02,2017 11:46:11 [Info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Mar 02,2017 11:46:11 [Info]  Clicked on the 'Season 1'
+Mar 02,2017 11:48:03 [Info]  Clicked on the 'Support click to select season'
+Mar 02,2017 11:48:12 [Info]  Clicked on the 'Save Button at 'Episode Edit Window'' using JS Executor
+Mar 02,2017 11:48:14 [Info]  Clicked on the ''ClearFilter' at Episode window' using JS Executor
+Mar 02,2017 11:48:14 [Info]  *****Verify the Validation message"Please select at least one Episode before clicking Remove"******
+Mar 02,2017 11:48:14 [Info]  Clicked on the ''Delete Button' at Episode window' using JS Executor
+Mar 02,2017 11:48:14 [Info]  Verify The data of Alert Message While deleting the Episode
+<span style="color:green;">Mar 02,2017 11:48:14 [Verification]  Verified that Expected value :[Please select an episode before clicking on Delete button.] is matched with Actual value :[  RightsLogic Alert  
+    Please select an episode before clicking on Delete button.
+       ]</span>
+Mar 02,2017 11:48:17 [Info]  Clicked on the 'OK Button at Alert While deleting the Episode' using JS Executor
+Mar 02,2017 11:48:17 [Info]  *****Delete the First Episode******
+Mar 02,2017 11:48:17 [Info]  Clicked on the 'Select First Row of Episodes'
+Mar 02,2017 11:48:17 [Info]  Clicked on the ''Delete Button' at Episode window' using JS Executor
+<span style="color:red;">Mar 02,2017 11:48:18 [Fail]  ====Failed==== Expected value is:[] but Actual value is [You have requested to delete the following title:
+Are you sure you want to delete this title?
+
+This action cannot be undone.
+
+If this title is being deleted from a Primary Series and it is contained in more than one Series, it will be deleted from all incidences of the Series.
+
+Click OK to delete this title.]. Please check the screenshot with name: Alert Message While DeleteEpisodesfor more details</span>
+Mar 02,2017 11:48:20 [Info]  Clicked on the 'OKButton' using JS Executor
+Mar 02,2017 11:48:49 [Info]  Clicked on the 'Save Button at 'Episode Edit Window'' using JS Executor
+Mar 02,2017 11:48:51 [Info]  Clicked on the ''ClearFilter' at Episode window' using JS Executor
+Mar 02,2017 11:48:51 [Info]  Verify The data of First Episodes name in first row of Episode after deleting Episodes001
+<span style="color:green;">Mar 02,2017 11:48:51 [Verification]  Verified that Expected value :[Episode002] is matched with Actual value :[Episode002]</span>
+Mar 02,2017 11:48:52 [Info]  Clicked on the 'Close Button at 'Episode Edit Window'' using JS Executor
+Mar 02,2017 11:48:59 [Info]  Verify The data of First Episodes name in first row of Episode after deleting Episodes001 in VIEW MODE
+<span style="color:green;">Mar 02,2017 11:48:59 [Verification]  Verified that Expected value :[Episode002] is matched with Actual value :[Episode002]</span>
+Mar 02,2017 11:48:59 [Info]  Test 'TC4_EpisodeDelete' PASSED
+Mar 02,2017 11:49:00 [Info]  Closed the Browser
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 12:08:02******************</span>
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 12:24:25******************</span>
+Mar 02,2017 12:24:25 [Info]  Client: SKY
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************</span>
+Mar 02,2017 12:24:36 [Info]  Client: SKY
+Mar 02,2017 12:24:36 [Info]  URL: http://rlv2wb85/Home.aspx
+Mar 02,2017 12:24:36 [Info]  UserName: admin
+Mar 02,2017 12:24:36 [Info]  Password: admin
+Mar 02,2017 12:24:37 [Info]  Entered "admin" in field 'User Name'
+Mar 02,2017 12:24:37 [Info]  Clicked on the 'Temporary Check Box'
+Mar 02,2017 12:24:37 [Info]  Entered "admin" in field 'Password'
+Mar 02,2017 12:24:44 [Info]  Clicked on the 'LoginButton'
+<span style="color:blue;"> [Manual Test Step]  ************************Started Creating Asset of Type: Program - Series************************</span>
+Mar 02,2017 12:24:54 [Info]  Clicked on the 'MODULE'
+Mar 02,2017 12:25:01 [Info]  Clicked on the 'Title Maintenance'
+Mar 02,2017 12:25:04 [Info]  Clicked on the 'New Button' using JS Executor
+Mar 02,2017 12:25:11 [Info]  Clicked on the 'Program' using JS Executor
+Mar 02,2017 12:25:19 [Info]  Clicked on the 'General TAB'
+Mar 02,2017 12:25:21 [Info]  Selected "Program - Series" in "AssetTypeDropDown" drop down
+Mar 02,2017 12:25:21 [Info]  Entered "AUT_AssetSeries_03022017122450" in field 'AssetTitle'
+Mar 02,2017 12:25:22 [Info]  Clicked on the 'SBUImage' using JS Executor
+Mar 02,2017 12:25:28 [Info]  Clicked on the 'First CheckBox At SBU window'
+Mar 02,2017 12:25:30 [Info]  Clicked on the 'Apply Button' using JS Executor
+Mar 02,2017 12:25:30 [Info]  Entered "11:11:11" in field 'Duration'
+Mar 02,2017 12:25:41 [Info]  Selected "Active" in "Asset Status" drop down
+Mar 02,2017 12:25:41 [Info]  Selected "Event" in "Asset Format" drop down
+Mar 02,2017 12:25:41 [Info]  Selected "License Acquired" in "Asset Source" drop down
+Mar 02,2017 12:25:41 [Info]  Entered "AUT_Series" in field 'Short Name'
+Mar 02,2017 12:25:41 [Info]  Clicked on the 'Save Button' using JS Executor
+Mar 02,2017 12:25:50 [Info]  Verify The data of Created AssetAUT_AssetSeries_03022017122450
+<span style="color:green;">Mar 02,2017 12:25:50 [Verification]  Verified that Expected value :[AUT_AssetSeries_03022017122450] is matched with Actual value :[AUT_AssetSeries_03022017122450]</span>
+<span style="color:blue;"> [Manual Test Step]  ************************Created Asset of TypeProgram - Series************************</span>
+Mar 02,2017 12:25:53 [Info]  Clicked on the 'MODULE'
+Mar 02,2017 12:25:59 [Info]  Clicked on the 'Title Maintenance'
+Mar 02,2017 12:26:05 [Info]  Double clicked on 'AUT_AssetSeries_03022017122450AssetName'
+Mar 02,2017 12:26:12 [Info]  Clicked on the 'Episodes TAB'
+Mar 02,2017 12:26:17 [Info]  Clicked on the ''Edit' Button at Episode window' using JS Executor
+Mar 02,2017 12:26:20 [Info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Mar 02,2017 12:26:21 [Info]  Entered "101" in field 'Add Episode input field'
+Mar 02,2017 12:26:23 [Info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Mar 02,2017 12:26:28 [Info]  Clicked on the 'Season Field of Episode101' using JS Executor
+Mar 02,2017 12:26:28 [Info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Mar 02,2017 12:26:28 [Info]  Clicked on the 'Season 1'
+Mar 02,2017 12:26:28 [Info]  Clicked on the 'Support click to select season'
+Mar 02,2017 12:26:28 [Info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Mar 02,2017 12:26:28 [Info]  Entered "102" in field 'Add Episode input field'
+Mar 02,2017 12:26:30 [Info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Mar 02,2017 12:26:36 [Info]  Clicked on the 'Season Field of Episode101' using JS Executor
+Mar 02,2017 12:26:36 [Info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Mar 02,2017 12:26:36 [Info]  Clicked on the 'Season 1'
+Mar 02,2017 12:26:36 [Info]  Clicked on the 'Support click to select season'
+Mar 02,2017 12:26:36 [Info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Mar 02,2017 12:26:36 [Info]  Entered "201" in field 'Add Episode input field'
+Mar 02,2017 12:26:37 [Info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Mar 02,2017 12:26:43 [Info]  Clicked on the 'Season Field of Episode101' using JS Executor
+Mar 02,2017 12:26:43 [Info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Mar 02,2017 12:26:43 [Info]  Clicked on the 'Season 1'
+Mar 02,2017 12:26:43 [Info]  Clicked on the 'Support click to select season'
+Mar 02,2017 12:26:43 [Info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Mar 02,2017 12:26:43 [Info]  Entered "202" in field 'Add Episode input field'
+Mar 02,2017 12:26:44 [Info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Mar 02,2017 12:26:50 [Info]  Clicked on the 'Season Field of Episode101' using JS Executor
+Mar 02,2017 12:26:50 [Info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Mar 02,2017 12:26:50 [Info]  Clicked on the 'Season 1'
+Mar 02,2017 12:26:50 [Info]  Clicked on the 'Support click to select season'
+Mar 02,2017 12:26:54 [Info]  Clicked on the 'Save Button at 'Episode Edit Window'' using JS Executor
+Mar 02,2017 12:26:57 [Info]  Clicked on the 'Close Button at 'Episode Edit Window'' using JS Executor
+Mar 02,2017 12:27:04 [Info]  AUT_Deal_03022017122450
+<span style="color:red;">Mar 02,2017 12:27:04 [Fail]  ====Failed==== "Module " field is not present'</span>
+<span style="color:red;">Mar 02,2017 12:27:10 [Fail]  ====Failed==== "Rights IN TAB " field is not present'</span>
+Mar 02,2017 12:27:17 [Info]  Clicked on the 'New Button' using JS Executor
+<span style="color:red;">Mar 02,2017 12:27:27 [Fail]  ====Failed==== "Standalone Agreement" field is not present'</span>
+Mar 02,2017 12:27:40 [Info]  Field Deal Id does not exist.
+<span style="color:red;">Mar 02,2017 12:27:50 [Fail]  ====Failed==== "DealTitleField" field is not present'</span>
+<span style="color:red;">Mar 02,2017 12:28:01 [Fail]  ====Failed==== "Deal Name Field" field is not present'Deal Name Field'</span>
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 12:50:51******************</span>
+Mar 02,2017 12:50:51 [Info]  Client: SKY
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************</span>
+Mar 02,2017 12:51:02 [Info]  Client: SKY
+Mar 02,2017 12:51:02 [Info]  URL: http://rlv2wb85/Home.aspx
+Mar 02,2017 12:51:02 [Info]  UserName: admin
+Mar 02,2017 12:51:02 [Info]  Password: admin
+Mar 02,2017 12:51:03 [Info]  Entered "admin" in field 'User Name'
+Mar 02,2017 12:51:03 [Info]  Clicked on the 'Temporary Check Box'
+Mar 02,2017 12:51:03 [Info]  Entered "admin" in field 'Password'
+Mar 02,2017 12:51:11 [Info]  Clicked on the 'LoginButton'
+<span style="color:blue;"> [Manual Test Step]  ************************Started Creating Asset of Type: Program - Series************************</span>
+Mar 02,2017 12:51:38 [Info]  Clicked on the 'MODULE'
+Mar 02,2017 12:51:44 [Info]  Clicked on the 'Title Maintenance'
+Mar 02,2017 12:51:47 [Info]  Clicked on the 'New Button' using JS Executor
+Mar 02,2017 12:51:50 [Info]  Clicked on the 'Program' using JS Executor
+Mar 02,2017 12:51:59 [Info]  Clicked on the 'General TAB'
+Mar 02,2017 12:52:01 [Info]  Selected "Program - Series" in "AssetTypeDropDown" drop down
+Mar 02,2017 12:52:01 [Info]  Entered "AUT_AssetSeries_03022017125117" in field 'AssetTitle'
+Mar 02,2017 12:52:02 [Info]  Clicked on the 'SBUImage' using JS Executor
+Mar 02,2017 12:52:08 [Info]  Clicked on the 'First CheckBox At SBU window'
+Mar 02,2017 12:52:10 [Info]  Clicked on the 'Apply Button' using JS Executor
+Mar 02,2017 12:52:11 [Info]  Entered "11:11:11" in field 'Duration'
+Mar 02,2017 12:52:21 [Info]  Selected "Active" in "Asset Status" drop down
+Mar 02,2017 12:52:21 [Info]  Selected "Event" in "Asset Format" drop down
+Mar 02,2017 12:52:21 [Info]  Selected "License Acquired" in "Asset Source" drop down
+Mar 02,2017 12:52:21 [Info]  Entered "AUT_Series" in field 'Short Name'
+Mar 02,2017 12:52:21 [Info]  Clicked on the 'Save Button' using JS Executor
+Mar 02,2017 12:52:27 [Info]  Verify The data of Created AssetAUT_AssetSeries_03022017125117
+<span style="color:green;">Mar 02,2017 12:52:27 [Verification]  Verified that Expected value :[AUT_AssetSeries_03022017125117] is matched with Actual value :[AUT_AssetSeries_03022017125117]</span>
+<span style="color:blue;"> [Manual Test Step]  ************************Created Asset of TypeProgram - Series************************</span>
+Mar 02,2017 12:52:30 [Info]  Clicked on the 'MODULE'
+Mar 02,2017 12:52:36 [Info]  Clicked on the 'Title Maintenance'
+Mar 02,2017 12:52:42 [Info]  Double clicked on 'AUT_AssetSeries_03022017125117AssetName'
+Mar 02,2017 12:52:42 [Info]  Clicked on the 'Episodes TAB'
+<span style="color:blue;"> [Manual Test Step]  *****************The below are buttons in the window*****************</span>
+Mar 02,2017 12:52:44 [Info]  Verify The data of EditEpisodes Button
+<span style="color:green;">Mar 02,2017 12:52:44 [Verification]  Verified that Expected value :[Edit Episode] is matched with Actual value :[Edit Episode]</span>
+Mar 02,2017 12:52:44 [Info]  Verify The data of Edit button
+<span style="color:green;">Mar 02,2017 12:52:44 [Verification]  Verified that Expected value :[Edit] is matched with Actual value :[Edit...]</span>
+Mar 02,2017 12:52:46 [Info]  Clicked on the ''Edit' Button at Episode window' using JS Executor
+Mar 02,2017 12:52:49 [Info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+<span style="color:blue;"> [Manual Test Step]  **********Create 1-5 Episodes and Select Season1*********</span>
+Mar 02,2017 12:52:49 [Info]  Entered "1-5" in field 'Add Episode input field'
+Mar 02,2017 12:52:51 [Info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Mar 02,2017 12:52:51 [Info]  Clicked on the 'Season Field of Episode001' using JS Executor
+Mar 02,2017 12:52:51 [Info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Mar 02,2017 12:52:51 [Info]  Clicked on the 'Season 1'
+Mar 02,2017 12:52:51 [Info]  Clicked on the 'Support click to select season'
+Mar 02,2017 12:52:54 [Info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+<span style="color:blue;"> [Manual Test Step]  **********Create 6-10 Episodes and Select Season2*********</span>
+Mar 02,2017 12:52:55 [Info]  Entered "6-10" in field 'Add Episode input field'
+Mar 02,2017 12:52:56 [Info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Mar 02,2017 12:53:00 [Info]  Clicked on the 'Season Field of Episode006' using JS Executor
+Mar 02,2017 12:53:00 [Info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Mar 02,2017 12:53:00 [Info]  Clicked on the 'Season 2'
+Mar 02,2017 12:53:00 [Info]  Clicked on the 'Support click to select season'
+Mar 02,2017 12:53:03 [Info]  Clicked on the 'Select 1st Row'
+<span style="color:blue;"> [Manual Test Step]  **********Copy TBA value for all episodes of Season1*********</span>
+Mar 02,2017 12:53:03 [Info]  Clicked on the 'TBA Check Box'
+Mar 02,2017 12:53:04 [Info]  Clicked on the 'Update Tool' using JS Executor
+Mar 02,2017 12:53:04 [Info]  Verify The data of Episodes_UpdateTool_TBAValueCheckBox
+<span style="color:green;">Mar 02,2017 12:53:04 [Verification]  Verified that Expected value :[Copy TBA value to all episodes displayed below the selected episode] is matched with Actual value :[Copy TBA value to all episodes displayed below the selected episode]</span>
+Mar 02,2017 12:53:04 [Info]  Verify The data of Episodes_UpdateTool_SeasonCheckBox
+<span style="color:green;">Mar 02,2017 12:53:04 [Verification]  Verified that Expected value :[Copy Season value to all episodes displayed below the selected episode] is matched with Actual value :[Copy Season value to all episodes displayed below the selected episode]</span>
+<span style="color:red;">Mar 02,2017 12:53:14 [Fail]  ====Failed==== Expected value is:[] but Actual value is []. Please check the screenshot with name: Episodes_UpdateTool_DurationValueCheckBoxfor more details</span>
+<span style="color:red;">Mar 02,2017 12:53:15 [Fail]  ====Failed==== Expected value is:[] but Actual value is [Update Episode Title]. Please check the screenshot with name: Episodes_UpdateTool_EpisodeHeaderfor more details</span>
+Mar 02,2017 12:53:15 [Info]  Verify The data of Episodes_UpdateTool_UpdateEpisodeTitle
+<span style="color:green;">Mar 02,2017 12:53:15 [Verification]  Verified that Expected value :[Update Episode Title] is matched with Actual value :[Update Episode Title]</span>
+Mar 02,2017 12:53:15 [Info]  Verify The data of Episodes_UpdateTool_TitleLabel
+<span style="color:green;">Mar 02,2017 12:53:15 [Verification]  Verified that Expected value :[Title] is matched with Actual value :[Title]</span>
+<span style="color:blue;"> [Manual Test Step]  **********Verifying the button on Update tool Pop - Up************</span>
+Mar 02,2017 12:53:16 [Info]  Verify The data of OK button
+<span style="color:green;">Mar 02,2017 12:53:16 [Verification]  Verified that Expected value :[OK] is matched with Actual value :[OK]</span>
+Mar 02,2017 12:53:16 [Info]  Verify The data of Cancel button
+<span style="color:green;">Mar 02,2017 12:53:16 [Verification]  Verified that Expected value :[Cancel] is matched with Actual value :[Cancel]</span>
+Mar 02,2017 12:53:16 [Info]  Clicked on the 'Episodes_UpdateTool_TBAValueCheckBox' using JS Executor
+Mar 02,2017 12:53:16 [Info]  Clicked on the 'OKButton' using JS Executor
+<span style="color:blue;"> [Manual Test Step]  **********Verify that TBA check box is check for all episodes Season 1 but not for Season 2*********</span>
+Mar 02,2017 12:53:16 [Info]  Verify The data of TBA Check Box for Episode1 of Seseaon1
+<span style="color:green;">Mar 02,2017 12:53:16 [Verification]  Verified that Expected value :[Checked] is matched with Actual value :[Checked]</span>
+Mar 02,2017 12:53:16 [Info]  Verify The data of TBA Check Box for Episode2 of Seseaon1
+<span style="color:green;">Mar 02,2017 12:53:16 [Verification]  Verified that Expected value :[Checked] is matched with Actual value :[Checked]</span>
+Mar 02,2017 12:53:16 [Info]  Verify The data of TBA Check Box for Episode6 of Seseaon2
+<span style="color:green;">Mar 02,2017 12:53:16 [Verification]  Verified that Expected value :[Checked] is matched with Actual value :[Checked]</span>
+Mar 02,2017 12:53:16 [Info]  Clicked on the 'Select 1st Row of Episode 1'
+Mar 02,2017 12:53:16 [Info]  Clicked on the 'Uncheck TBA of Episode 1'
+Mar 02,2017 12:53:16 [Info]  Uncheck 'Copy TBA' check box for All Episodes of Season 1 at Update Tool and Verify that TBA is unchecked at Edit Episdoe Window
+Mar 02,2017 12:53:17 [Info]  Clicked on the 'Update Tool' using JS Executor
+Mar 02,2017 12:53:18 [Info]  Clicked on the 'Episodes_UpdateTool_TBAValueCheckBox' using JS Executor
+Mar 02,2017 12:53:18 [Info]  Clicked on the 'OKButton at Update tool Window' using JS Executor
+Mar 02,2017 12:53:18 [Info]  Verify The data of TBA Check Box for Episode1 of Seseaon1
+<span style="color:green;">Mar 02,2017 12:53:18 [Verification]  Verified that Expected value :[Unchecked] is matched with Actual value :[Unchecked]</span>
+Mar 02,2017 12:53:18 [Info]  Verify The data of TBA Check Box for Episode2 of Seseaon1
+<span style="color:green;">Mar 02,2017 12:53:18 [Verification]  Verified that Expected value :[Unchecked] is matched with Actual value :[Unchecked]</span>
+Mar 02,2017 12:53:18 [Info]  Verify The data of TBA Check Box for Episode6 of Seseaon2
+<span style="color:green;">Mar 02,2017 12:53:18 [Verification]  Verified that Expected value :[Unchecked] is matched with Actual value :[Unchecked]</span>
+Mar 02,2017 12:53:18 [Info]  Clicked on the 'Select 1st Row'
+Mar 02,2017 12:53:18 [Info]  Clicked on the 'Update Tool' using JS Executor
+Mar 02,2017 12:53:18 [Info]  Clicked on the 'Episodes_UpdateTool_UpdateEpisodeTitle'
+Mar 02,2017 12:53:21 [Info]  Entered "RSG" in field 'Episodes_UpdateTool_TitleField'
+Mar 02,2017 12:53:22 [Info]  Clicked on the 'OKButton at Update tool Window' using JS Executor
+Mar 02,2017 12:53:22 [Info]  ******Change the Episode name of Season 1 from "Episode" to "RSG"******
+Mar 02,2017 12:53:22 [Info]  Verify The data of TBA Check Box for 1st Row
+<span style="color:green;">Mar 02,2017 12:53:22 [Verification]  Verified that Expected value :[RSG 001] is matched with Actual value :[RSG 001]</span>
+Mar 02,2017 12:53:22 [Info]  Verify The data of TBA Check Box for 6th Row
+<span style="color:green;">Mar 02,2017 12:53:22 [Verification]  Verified that Expected value :[RSG 006] is matched with Actual value :[RSG 006]</span>
+Mar 02,2017 12:55:51 [Info]  Clicked on the 'Save Button at 'Episode Edit Window'' using JS Executor
+Mar 02,2017 12:55:59 [Info]  Clicked on the 'Close Button at 'Episode Edit Window'' using JS Executor
+Mar 02,2017 12:55:59 [Info]  Test 'TC8_EpisodeUpdateTool' PASSED
+Mar 02,2017 12:56:00 [Info]  Closed the Browser
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 13:09:48******************</span>
+Mar 02,2017 13:09:48 [Info]  Client: SKY
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************</span>
+Mar 02,2017 13:09:59 [Info]  Client: SKY
+Mar 02,2017 13:09:59 [Info]  URL: http://rlv2wb85/Home.aspx
+Mar 02,2017 13:09:59 [Info]  UserName: admin
+Mar 02,2017 13:09:59 [Info]  Password: admin
+Mar 02,2017 13:10:00 [Info]  Entered "admin" in field 'User Name'
+Mar 02,2017 13:10:00 [Info]  Clicked on the 'Temporary Check Box'
+Mar 02,2017 13:10:01 [Info]  Entered "admin" in field 'Password'
+Mar 02,2017 13:10:07 [Info]  Clicked on the 'LoginButton'
+Mar 02,2017 13:10:13 [Info]  AUT_AssetMiniSeries_0302201711013
+<span style="color:blue;"> [Manual Test Step]  ************************Started Creating Asset of Type: Program - Series************************</span>
+Mar 02,2017 13:10:17 [Info]  Clicked on the 'MODULE'
+Mar 02,2017 13:10:23 [Info]  Clicked on the 'Title Maintenance'
+Mar 02,2017 13:10:26 [Info]  Clicked on the 'New Button' using JS Executor
+Mar 02,2017 13:10:29 [Info]  Clicked on the 'Program' using JS Executor
+Mar 02,2017 13:10:37 [Info]  Clicked on the 'General TAB'
+Mar 02,2017 13:10:39 [Info]  Selected "Program - Series" in "AssetTypeDropDown" drop down
+Mar 02,2017 13:10:40 [Info]  Entered "AUT_AssetMiniSeries_0302201711013" in field 'AssetTitle'
+Mar 02,2017 13:10:41 [Info]  Clicked on the 'SBUImage' using JS Executor
+Mar 02,2017 13:10:47 [Info]  Clicked on the 'First CheckBox At SBU window'
+Mar 02,2017 13:10:49 [Info]  Clicked on the 'Apply Button' using JS Executor
+Mar 02,2017 13:10:50 [Info]  Entered "11:11:11" in field 'Duration'
+Mar 02,2017 13:11:00 [Info]  Selected "Active" in "Asset Status" drop down
+Mar 02,2017 13:11:00 [Info]  Selected "Event" in "Asset Format" drop down
+Mar 02,2017 13:11:00 [Info]  Selected "License Acquired" in "Asset Source" drop down
+Mar 02,2017 13:11:00 [Info]  Entered "AUT_Series" in field 'Short Name'
+Mar 02,2017 13:11:00 [Info]  Clicked on the 'Save Button' using JS Executor
+Mar 02,2017 13:11:06 [Info]  Verify The data of Created AssetAUT_AssetMiniSeries_0302201711013
+<span style="color:green;">Mar 02,2017 13:11:06 [Verification]  Verified that Expected value :[AUT_AssetMiniSeries_0302201711013] is matched with Actual value :[AUT_AssetMiniSeries_0302201711013]</span>
+<span style="color:blue;"> [Manual Test Step]  ************************Created Asset of TypeProgram - Series************************</span>
+Mar 02,2017 13:11:09 [Info]  Clicked on the 'MODULE'
+Mar 02,2017 13:11:15 [Info]  Clicked on the 'Title Maintenance'
+Mar 02,2017 13:11:21 [Info]  Clicked on the 'MODULE'
+Mar 02,2017 13:11:27 [Info]  Clicked on the 'Title Maintenance'
+Mar 02,2017 13:11:33 [Info]  Double clicked on 'AUT_AssetMiniSeries_0302201711013AssetName'
+Mar 02,2017 13:11:33 [Info]  Clicked on the 'Episodes TAB'
+Mar 02,2017 13:11:36 [Info]  Clicked on the ''Edit' Button at Episode window' using JS Executor
+Mar 02,2017 13:11:39 [Info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Mar 02,2017 13:11:40 [Info]  Entered "1-10" in field 'Add Episode input field'
+Mar 02,2017 13:11:41 [Info]  Clicked on the 'Episodes_OKButton_AddEpisodesWindow' using JS Executor
+Mar 02,2017 13:11:42 [Info]  Clicked on the 'Season Field of First Row' using JS Executor
+Mar 02,2017 13:11:43 [Info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Mar 02,2017 13:11:43 [Info]  Clicked on the 'Season 1'
+Mar 02,2017 13:11:43 [Info]  Clicked on the 'Support click to select season'
+Mar 02,2017 13:12:49 [Info]  Clicked on the 'Save Button at 'Episode Edit Window'' using JS Executor
+Mar 02,2017 13:12:52 [Info]  Verify The data of Alert Message While DeleteEpisodes
+<span style="color:green;">Mar 02,2017 13:12:52 [Verification]  Verified that Expected value :[Changes have been saved successfully] is matched with Actual value :[Changes have been saved successfully]</span>
+Mar 02,2017 13:12:54 [Info]  Clicked on the 'Close Button at 'Episode Edit Window'' using JS Executor
+Mar 02,2017 13:13:01 [Info]  Verify The data of Episode Number
+<span style="color:green;">Mar 02,2017 13:13:01 [Verification]  Verified that Expected value :[10] is matched with Actual value :[10]</span>
+Mar 02,2017 13:13:01 [Info]  Test 'TC9_Program_Mini_Series' PASSED
+Mar 02,2017 13:13:02 [Info]  Closed the Browser
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 15:04:30******************</span>
+Mar 02,2017 15:04:30 [Info]  Client: VMN
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************</span>
+Mar 02,2017 15:04:40 [Info]  Client: VMN
+Mar 02,2017 15:04:40 [Info]  URL: http://rlv3wb53/Home.aspx
+Mar 02,2017 15:04:40 [Info]  UserName: admin
+Mar 02,2017 15:04:40 [Info]  Password: admin
+Mar 02,2017 15:04:41 [Info]  Entered "admin" in field 'User Name'
+Mar 02,2017 15:04:42 [Info]  Clicked on the 'Temporary Check Box'
+Mar 02,2017 15:04:42 [Info]  Entered "admin" in field 'Password'
+Mar 02,2017 15:04:52 [Info]  Clicked on the 'LoginButton'
+Mar 02,2017 15:04:58 [Info]  All Assets are:
+Mar 02,2017 15:04:58 [Info]  CreatedSeriesAssetTitleTC1 = "AUT_AssetSeries_TC1_0302201730430";
+Mar 02,2017 15:04:58 [Info]  CreatedSeriesAssetTitleTC3 = "AUT_AssetSeries_TC3_0302201730430";
+Mar 02,2017 15:04:58 [Info]  CreatedSeriesAssetTitleTC4 = "AUT_AssetSeries_TC4_0302201730430";
+Mar 02,2017 15:04:58 [Info]  CreatedSeriesAssetTitleTC6 = "AUT_AssetSeries_TC6_0302201730430";
+Mar 02,2017 15:04:58 [Info]  CreatedSeriesAssetTitleTC10 = "AUT_AssetSeries_TC10_0302201730430";
+Mar 02,2017 15:04:58 [Info]  CreatedMovieAssetTitleTC4 = "AUT_AssetMovie_TC4_0302201730430";
+Mar 02,2017 15:04:58 [Info]  All Deals used are:
+Mar 02,2017 15:04:58 [Info]  CreatedDealTC1 = "AUT_Deal_TC1_0302201730430";
+Mar 02,2017 15:04:58 [Info]  CreatedDealTC2 = "AUT_Deal_TC2_0302201730430";
+Mar 02,2017 15:04:58 [Info]  CreatedDealTC3 = "AUT_Deal_TC3_0302201730430";
+Mar 02,2017 15:04:58 [Info]  CreatedDealTC3_2 = "AUT_Deal_TC3_2_0302201730430";
+Mar 02,2017 15:04:58 [Info]  CreatedDealTC4 = "AUT_Deal_TC4_0302201730430";
+Mar 02,2017 15:04:58 [Info]  CreatedDealTC6 = "AUT_Deal_TC6_0302201730430";
+Mar 02,2017 15:04:58 [Info]  CreatedDealTC7 = "AUT_Deal_TC7_0302201730430";
+Mar 02,2017 15:04:58 [Info]  CreatedDealTC9 = "AUT_Deal_TC9_0302201730430";
+Mar 02,2017 15:04:58 [Info]  CreatedDealTC10 = "AUT_Deal_TC10_0302201730430";
+Mar 02,2017 15:04:59 [Info]  Clicked on the 'Module '
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 15:17:21******************</span>
+Mar 02,2017 15:17:21 [Info]  Client: VMN
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************</span>
+Mar 02,2017 15:17:31 [Info]  Client: VMN
+Mar 02,2017 15:17:31 [Info]  URL: http://rlv3wb53/Home.aspx
+Mar 02,2017 15:17:31 [Info]  UserName: admin
+Mar 02,2017 15:17:31 [Info]  Password: admin
+Mar 02,2017 15:17:32 [Info]  Entered "admin" in field 'User Name'
+Mar 02,2017 15:17:32 [Info]  Clicked on the 'Temporary Check Box'
+Mar 02,2017 15:17:33 [Info]  Entered "admin" in field 'Password'
+Mar 02,2017 15:17:43 [Info]  Clicked on the 'LoginButton'
+Mar 02,2017 15:17:49 [Info]  All Assets are:
+Mar 02,2017 15:17:49 [Info]  CreatedSeriesAssetTitleTC1 = "AUT_AssetSeries_TC1_0302201731721";
+Mar 02,2017 15:17:49 [Info]  CreatedSeriesAssetTitleTC3 = "AUT_AssetSeries_TC3_0302201731721";
+Mar 02,2017 15:17:49 [Info]  CreatedSeriesAssetTitleTC4 = "AUT_AssetSeries_TC4_0302201731721";
+Mar 02,2017 15:17:49 [Info]  CreatedSeriesAssetTitleTC6 = "AUT_AssetSeries_TC6_0302201731721";
+Mar 02,2017 15:17:49 [Info]  CreatedSeriesAssetTitleTC10 = "AUT_AssetSeries_TC10_0302201731721";
+Mar 02,2017 15:17:49 [Info]  CreatedMovieAssetTitleTC4 = "AUT_AssetMovie_TC4_0302201731721";
+Mar 02,2017 15:17:49 [Info]  All Deals used are:
+Mar 02,2017 15:17:49 [Info]  CreatedDealTC1 = "AUT_Deal_TC1_0302201731721";
+Mar 02,2017 15:17:49 [Info]  CreatedDealTC2 = "AUT_Deal_TC2_0302201731721";
+Mar 02,2017 15:17:49 [Info]  CreatedDealTC3 = "AUT_Deal_TC3_0302201731721";
+Mar 02,2017 15:17:49 [Info]  CreatedDealTC3_2 = "AUT_Deal_TC3_2_0302201731721";
+Mar 02,2017 15:17:49 [Info]  CreatedDealTC4 = "AUT_Deal_TC4_0302201731721";
+Mar 02,2017 15:17:49 [Info]  CreatedDealTC6 = "AUT_Deal_TC6_0302201731721";
+Mar 02,2017 15:17:49 [Info]  CreatedDealTC7 = "AUT_Deal_TC7_0302201731721";
+Mar 02,2017 15:17:49 [Info]  CreatedDealTC9 = "AUT_Deal_TC9_0302201731721";
+Mar 02,2017 15:17:49 [Info]  CreatedDealTC10 = "AUT_Deal_TC10_0302201731721";
+Mar 02,2017 15:17:50 [Info]  Clicked on the 'Module '
+Mar 02,2017 15:17:59 [Info]  Clicked on the 'Rights IN TAB '
+Mar 02,2017 15:18:06 [Info]  Clicked on the 'New Button' using JS Executor
+Mar 02,2017 15:18:08 [Info]  Clicked on the 'Standalone Agreement' using JS Executor
+Mar 02,2017 15:18:11 [Info]  Generated Deal Id is 31119
+Mar 02,2017 15:18:11 [Info]  Clicked on the 'DealTitleField' using JS Executor
+Mar 02,2017 15:18:12 [Info]  Entered "AUT_Deal_TC1_0302201731721" in field 'Deal Name Field'
+Mar 02,2017 15:18:12 [Info]  Entered "AUT_Deal_TC1_0302201731721_desc" in field 'Deal Description/ContractID'
+Mar 02,2017 15:18:12 [Info]  Selected "Program Acquisition/Licensed Original" in "DealType_DropDownField" drop down
+Mar 02,2017 15:18:12 [Info]  Entered "Fully Executed" in field 'Deal Creation Contract Status'
+Mar 02,2017 15:18:12 [Info]  Entered "Finalized / Approved" in field 'DealCreationCDEStatus'
+Mar 02,2017 15:18:13 [Info]  Entered "01/01/2014" in field 'DateExecuted_InputField'
+Mar 02,2017 15:18:19 [Info]  Clicked on the 'SBU look up Icon' using JS Executor
+Mar 02,2017 15:18:26 [Info]  Clicked on the 'Select All Button at SBU'
+Mar 02,2017 15:18:26 [Info]  Clicked on the 'FirstCheckBoxAtSBU'
+Mar 02,2017 15:18:26 [Info]  Clicked on the 'NinthCheckBoxAtSBU'
+Mar 02,2017 15:18:26 [Info]  Clicked on the 'Apply Button'
+Mar 02,2017 15:18:26 [Info]  Clicked on the 'Doc Type look up Icon' using JS Executor
+Mar 02,2017 15:18:33 [Info]  Clicked on the 'Select All Button at SBU'
+Mar 02,2017 15:18:33 [Info]  Clicked on the 'FirstCheckBoxAtSBU'
+Mar 02,2017 15:18:33 [Info]  Clicked on the 'NinthCheckBoxAtSBU'
+Mar 02,2017 15:18:34 [Info]  Clicked on the 'Apply Button'
+Mar 02,2017 15:18:34 [Info]  Test 'create_PreRequisites_AllDeal_Assets' FAILED
+Mar 02,2017 15:18:34 [Info]  2
+Mar 02,2017 15:18:34 [Info]  Test Case :create_PreRequisites_AllDeal_Assets's Screenshot of Failure Page: 
+C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\02\create_PreRequisites_AllDeal_Assets_03-02-2017 3-18-34 PM.jpg
+Mar 02,2017 15:18:35 [Info]  Closed the Browser
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 15:29:31******************</span>
+Mar 02,2017 15:29:31 [Info]  Client: VMN
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************</span>
+Mar 02,2017 15:29:42 [Info]  Client: VMN
+Mar 02,2017 15:29:42 [Info]  URL: http://rlv3wb53/Home.aspx
+Mar 02,2017 15:29:42 [Info]  UserName: admin
+Mar 02,2017 15:29:42 [Info]  Password: admin
+Mar 02,2017 15:29:43 [Info]  Entered "admin" in field 'User Name'
+Mar 02,2017 15:29:43 [Info]  Clicked on the 'Temporary Check Box'
+Mar 02,2017 15:29:43 [Info]  Entered "admin" in field 'Password'
+Mar 02,2017 15:29:52 [Info]  Clicked on the 'LoginButton'
+Mar 02,2017 15:29:58 [Info]  All Assets are:
+Mar 02,2017 15:29:58 [Info]  CreatedSeriesAssetTitleTC1 = "AUT_AssetSeries_TC1_0302201732931";
+Mar 02,2017 15:29:58 [Info]  CreatedSeriesAssetTitleTC3 = "AUT_AssetSeries_TC3_0302201732931";
+Mar 02,2017 15:29:58 [Info]  CreatedSeriesAssetTitleTC4 = "AUT_AssetSeries_TC4_0302201732931";
+Mar 02,2017 15:29:58 [Info]  CreatedSeriesAssetTitleTC6 = "AUT_AssetSeries_TC6_0302201732931";
+Mar 02,2017 15:29:58 [Info]  CreatedSeriesAssetTitleTC10 = "AUT_AssetSeries_TC10_0302201732931";
+Mar 02,2017 15:29:58 [Info]  CreatedMovieAssetTitleTC4 = "AUT_AssetMovie_TC4_0302201732931";
+Mar 02,2017 15:29:58 [Info]  All Deals used are:
+Mar 02,2017 15:29:58 [Info]  CreatedDealTC1 = "AUT_Deal_TC1_0302201732931";
+Mar 02,2017 15:29:58 [Info]  CreatedDealTC2 = "AUT_Deal_TC2_0302201732931";
+Mar 02,2017 15:29:58 [Info]  CreatedDealTC3 = "AUT_Deal_TC3_0302201732931";
+Mar 02,2017 15:29:58 [Info]  CreatedDealTC3_2 = "AUT_Deal_TC3_2_0302201732931";
+Mar 02,2017 15:29:58 [Info]  CreatedDealTC4 = "AUT_Deal_TC4_0302201732931";
+Mar 02,2017 15:29:58 [Info]  CreatedDealTC6 = "AUT_Deal_TC6_0302201732931";
+Mar 02,2017 15:29:58 [Info]  CreatedDealTC7 = "AUT_Deal_TC7_0302201732931";
+Mar 02,2017 15:29:58 [Info]  CreatedDealTC9 = "AUT_Deal_TC9_0302201732931";
+Mar 02,2017 15:29:58 [Info]  CreatedDealTC10 = "AUT_Deal_TC10_0302201732931";
+Mar 02,2017 15:29:58 [Info]  Clicked on the 'Module '
+Mar 02,2017 15:30:05 [Info]  Clicked on the 'Rights IN TAB '
+<span style="color:red;">Mar 02,2017 15:30:21 [Fail]  ====Failed==== "New Button" field is not present'</span>
+<span style="color:red;">Mar 02,2017 15:30:31 [Fail]  ====Failed==== "Standalone Agreement" field is not present'</span>
+Mar 02,2017 15:30:45 [Info]  Field Deal Id does not exist.
+<span style="color:red;">Mar 02,2017 15:30:55 [Fail]  ====Failed==== "DealTitleField" field is not present'</span>
+<span style="color:red;">Mar 02,2017 15:31:02 [Fail]  ====Failed==== "Deal Name Field" field is not present'Deal Name Field'</span>
+Mar 02,2017 15:31:02 [Info]  Test 'create_PreRequisites_AllDeal_Assets' FAILED
+Mar 02,2017 15:31:02 [Info]  2
+Mar 02,2017 15:31:02 [Info]  Test 'create_PreRequisites_AllDeal_Assets' FAILED
+Mar 02,2017 15:31:02 [Info]  2
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 15:31:09******************</span>
+Mar 02,2017 15:31:09 [Info]  Client: VMN
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************</span>
+Mar 02,2017 15:31:20 [Info]  Client: VMN
+Mar 02,2017 15:31:20 [Info]  URL: http://rlv3wb53/Home.aspx
+Mar 02,2017 15:31:20 [Info]  UserName: admin
+Mar 02,2017 15:31:20 [Info]  Password: admin
+Mar 02,2017 15:31:21 [Info]  Entered "admin" in field 'User Name'
+Mar 02,2017 15:31:21 [Info]  Clicked on the 'Temporary Check Box'
+Mar 02,2017 15:31:21 [Info]  Entered "admin" in field 'Password'
+Mar 02,2017 15:31:31 [Info]  Clicked on the 'LoginButton'
+Mar 02,2017 15:31:37 [Info]  All Assets are:
+Mar 02,2017 15:31:37 [Info]  CreatedSeriesAssetTitleTC1 = "AUT_AssetSeries_TC1_0302201733109";
+Mar 02,2017 15:31:37 [Info]  CreatedSeriesAssetTitleTC3 = "AUT_AssetSeries_TC3_0302201733109";
+Mar 02,2017 15:31:37 [Info]  CreatedSeriesAssetTitleTC4 = "AUT_AssetSeries_TC4_0302201733109";
+Mar 02,2017 15:31:37 [Info]  CreatedSeriesAssetTitleTC6 = "AUT_AssetSeries_TC6_0302201733109";
+Mar 02,2017 15:31:37 [Info]  CreatedSeriesAssetTitleTC10 = "AUT_AssetSeries_TC10_0302201733109";
+Mar 02,2017 15:31:37 [Info]  CreatedMovieAssetTitleTC4 = "AUT_AssetMovie_TC4_0302201733109";
+Mar 02,2017 15:31:37 [Info]  All Deals used are:
+Mar 02,2017 15:31:37 [Info]  CreatedDealTC1 = "AUT_Deal_TC1_0302201733109";
+Mar 02,2017 15:31:37 [Info]  CreatedDealTC2 = "AUT_Deal_TC2_0302201733109";
+Mar 02,2017 15:31:37 [Info]  CreatedDealTC3 = "AUT_Deal_TC3_0302201733109";
+Mar 02,2017 15:31:37 [Info]  CreatedDealTC3_2 = "AUT_Deal_TC3_2_0302201733109";
+Mar 02,2017 15:31:37 [Info]  CreatedDealTC4 = "AUT_Deal_TC4_0302201733109";
+Mar 02,2017 15:31:37 [Info]  CreatedDealTC6 = "AUT_Deal_TC6_0302201733109";
+Mar 02,2017 15:31:37 [Info]  CreatedDealTC7 = "AUT_Deal_TC7_0302201733109";
+Mar 02,2017 15:31:37 [Info]  CreatedDealTC9 = "AUT_Deal_TC9_0302201733109";
+Mar 02,2017 15:31:37 [Info]  CreatedDealTC10 = "AUT_Deal_TC10_0302201733109";
+Mar 02,2017 15:31:37 [Info]  Clicked on the 'Module '
+Mar 02,2017 15:31:47 [Info]  Clicked on the 'Rights IN TAB '
+Mar 02,2017 15:31:53 [Info]  Clicked on the 'New Button' using JS Executor
+Mar 02,2017 15:31:56 [Info]  Clicked on the 'Standalone Agreement' using JS Executor
+Mar 02,2017 15:32:00 [Info]  Generated Deal Id is 31122
+Mar 02,2017 15:32:00 [Info]  Clicked on the 'DealTitleField' using JS Executor
+Mar 02,2017 15:32:00 [Info]  Entered "AUT_Deal_TC1_0302201733109" in field 'Deal Name Field'
+Mar 02,2017 15:32:01 [Info]  Entered "AUT_Deal_TC1_0302201733109_desc" in field 'Deal Description/ContractID'
+Mar 02,2017 15:32:01 [Info]  Selected "Program Acquisition/Licensed Original" in "DealType_DropDownField" drop down
+Mar 02,2017 15:32:01 [Info]  Entered "Fully Executed" in field 'Deal Creation Contract Status'
+Mar 02,2017 15:32:01 [Info]  Entered "Finalized / Approved" in field 'DealCreationCDEStatus'
+Mar 02,2017 15:32:01 [Info]  Entered "01/01/2014" in field 'DateExecuted_InputField'
+Mar 02,2017 15:32:08 [Info]  Clicked on the 'SBU look up Icon' using JS Executor
+Mar 02,2017 15:32:15 [Info]  Clicked on the 'Select All Button at SBU'
+Mar 02,2017 15:32:15 [Info]  Clicked on the 'FirstCheckBoxAtSBU'
+Mar 02,2017 15:32:15 [Info]  Clicked on the 'NinthCheckBoxAtSBU'
+Mar 02,2017 15:32:15 [Info]  Clicked on the 'Apply Button'
+Mar 02,2017 15:32:16 [Info]  Clicked on the 'Doc Type look up Icon' using JS Executor
+Mar 02,2017 15:32:22 [Info]  Clicked on the 'Select All Button at SBU'
+Mar 02,2017 15:32:22 [Info]  Clicked on the 'FirstCheckBoxAtSBU'
+Mar 02,2017 15:32:22 [Info]  Clicked on the 'NinthCheckBoxAtSBU'
+Mar 02,2017 15:32:23 [Info]  Clicked on the 'Apply Button'
+Mar 02,2017 15:32:26 [Info]  Moved Mouse over 'Party_AddButton'
+Mar 02,2017 15:32:26 [Info]  Clicked on the 'Party_AddButton'
+Mar 02,2017 15:32:28 [Info]  Clicked on the 'PartyPopUp Icon' using JS Executor
+Mar 02,2017 15:32:31 [Info]  Entered "AUT_VMN_RI_PRIMARY_PARTY" in field 'Search Party InputField'
+Mar 02,2017 15:32:37 [Info]  Double clicked on 'RI Search Party Window Find Button'
+Mar 02,2017 15:32:39 [Info]  Clicked on the 'AUT_VMN_RI_PRIMARY_PARTY'
+Mar 02,2017 15:32:39 [Info]  Clicked on the 'Select Button'
+Mar 02,2017 15:32:45 [Info]  Clicked on the 'Party Type Field' using JS Executor
+Mar 02,2017 15:32:45 [Info]  Entered "Primary" in field 'Party Party InputField'
+Mar 02,2017 15:32:45 [Info]  Clicked on the 'Support Click '
+Mar 02,2017 15:32:45 [Info]  Clicked on the 'Party_AddButton' using JS Executor
+Mar 02,2017 15:32:46 [Info]  Clicked on the 'PartyPopUp Icon' using JS Executor
+Mar 02,2017 15:32:51 [Info]  Entered "AUT_VMN_RI_LICENSOR_PARTY" in field 'Search Party InputField'
+Mar 02,2017 15:32:58 [Info]  Double clicked on 'RI Search Party Window Find Button'
+Mar 02,2017 15:33:03 [Info]  Clicked on the 'Select Party'
+Mar 02,2017 15:33:03 [Info]  Clicked on the 'Select Button'
+Mar 02,2017 15:33:09 [Info]  Clicked on the 'Party Type Field' using JS Executor
+Mar 02,2017 15:33:09 [Info]  Entered "Licensor" in field 'Party Party InputField'
+Mar 02,2017 15:33:09 [Info]  Clicked on the 'Support Click '
+Mar 02,2017 15:33:18 [Info]  Clicked on the 'Save Button' using JS Executor
+Mar 02,2017 15:33:18 [Info]  Clicked on the 'OK Buttom' using JS Executor
+Mar 02,2017 15:33:21 [Info]  Verify The data of CreatedDeal
+<span style="color:green;">Mar 02,2017 15:33:21 [Verification]  Verified that Expected value :[AUT_Deal_TC1_0302201733109] is matched with Actual value :[AUT_Deal_TC1_0302201733109]</span>
+Mar 02,2017 15:33:23 [Info]  Clicked on the 'Modules'
+Mar 02,2017 15:33:23 [Info]  Clicked on the 'Modules'
+Mar 02,2017 15:33:34 [Info]  Clicked on the 'RightsIN'
+Mar 02,2017 15:33:34 [Info]  Clicked on the 'Search Icon' using JS Executor
+Mar 02,2017 15:33:40 [Info]  Clicked on the 'Agreement Link' using JS Executor
+Mar 02,2017 15:33:40 [Info]  Entered "AUT_Deal_TC1_0302201733109" in field 'Deal Name'
+Mar 02,2017 15:33:49 [Info]  Clicked on the 'Find Button' using JS Executor
+Mar 02,2017 15:33:49 [Info]  Moved Mouse over 'First Deal in the Searched Deal'
+Mar 02,2017 15:33:50 [Info]  Clicked on the 'First Deal in the Searched Deal'
+Mar 02,2017 15:33:53 [Info]  Clicked on the 'View Deal' using JS Executor
+Mar 02,2017 15:33:57 [Info]  Verify The data of Deal Name
+<span style="color:green;">Mar 02,2017 15:33:57 [Verification]  Verified that Expected value :[AUT_Deal_TC1_0302201733109] is matched with Actual value :[AUT_Deal_TC1_0302201733109]</span>
+Mar 02,2017 15:33:57 [Info]  Test 'create_PreRequisites_AllDeal_Assets' PASSED
+Mar 02,2017 15:33:58 [Info]  Closed the Browser
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 19:32:46******************</span>
+Mar 02,2017 19:32:46 [Info]  Client: AMCN
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************</span>
+Mar 02,2017 19:32:57 [Info]  Client: AMCN
+Mar 02,2017 19:32:57 [Info]  URL: http://rlv2wb79/login.aspx
+Mar 02,2017 19:32:57 [Info]  UserName: admin
+Mar 02,2017 19:32:57 [Info]  Password: admin
+Mar 02,2017 19:32:59 [Info]  Entered "admin" in field 'User Name'
+Mar 02,2017 19:32:59 [Info]  Clicked on the 'Temporary Check Box'
+Mar 02,2017 19:32:59 [Info]  Entered "admin" in field 'Password'
+Mar 02,2017 19:33:05 [Info]  Clicked on the 'LoginButton'
+Mar 02,2017 19:33:12 [Info]  Test 'TC1_CreateStandaloneDeal' PASSED
+Mar 02,2017 19:33:13 [Info]  Closed the Browser
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 19:34:25******************</span>
+Mar 02,2017 19:34:25 [Info]  Client: AMCN
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************</span>
+Mar 02,2017 19:34:37 [Info]  Client: AMCN
+Mar 02,2017 19:34:37 [Info]  URL: http://rlv2wb79/login.aspx
+Mar 02,2017 19:34:37 [Info]  UserName: admin
+Mar 02,2017 19:34:37 [Info]  Password: admin
+Mar 02,2017 19:34:38 [Info]  Entered "admin" in field 'User Name'
+Mar 02,2017 19:34:38 [Info]  Clicked on the 'Temporary Check Box'
+Mar 02,2017 19:34:38 [Info]  Entered "admin" in field 'Password'
+Mar 02,2017 19:34:44 [Info]  Clicked on the 'LoginButton'
+Mar 02,2017 19:34:50 [Info]  Test 'TC1_CreateStandaloneDeal' PASSED
+Mar 02,2017 19:34:51 [Info]  Closed the Browser
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 19:36:00******************</span>
+Mar 02,2017 19:36:00 [Info]  Client: AMCN
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************</span>
+Mar 02,2017 19:36:11 [Info]  Client: AMCN
+Mar 02,2017 19:36:11 [Info]  URL: http://rlv2wb79/login.aspx
+Mar 02,2017 19:36:11 [Info]  UserName: admin
+Mar 02,2017 19:36:11 [Info]  Password: admin
+Mar 02,2017 19:36:12 [Info]  Entered "admin" in field 'User Name'
+Mar 02,2017 19:36:12 [Info]  Clicked on the 'Temporary Check Box'
+Mar 02,2017 19:36:12 [Info]  Entered "admin" in field 'Password'
+Mar 02,2017 19:36:18 [Info]  Clicked on the 'LoginButton'
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 19:37:42******************</span>
+Mar 02,2017 19:37:42 [Info]  Client: AMCN
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************</span>
+Mar 02,2017 19:37:54 [Info]  Client: AMCN
+Mar 02,2017 19:37:54 [Info]  URL: http://rlv2wb79/login.aspx
+Mar 02,2017 19:37:54 [Info]  UserName: admin
+Mar 02,2017 19:37:54 [Info]  Password: admin
+Mar 02,2017 19:37:56 [Info]  Entered "admin" in field 'User Name'
+Mar 02,2017 19:37:56 [Info]  Clicked on the 'Temporary Check Box'
+Mar 02,2017 19:37:56 [Info]  Entered "admin" in field 'Password'
+Mar 02,2017 19:38:01 [Info]  Clicked on the 'LoginButton'
+Mar 02,2017 19:38:45 [Info]  Clicked on the 'Module '
+Mar 02,2017 19:38:55 [Info]  Clicked on the 'Rights IN TAB '
+Mar 02,2017 19:39:01 [Info]  Clicked on the 'New Button' using JS Executor
+<span style="color:blue;"> [Manual Test Step]  Manual Test Step : TC_RI_GT_002</span>
+Mar 02,2017 19:39:01 [Info]  ****** Verify the "Sub Menu Icon" under the "New Menu" *******
+<span style="color:red;">Mar 02,2017 19:39:11 [Fail]  ====Failed==== "Master Deal"  does not exist.</span>
+<span style="color:red;">Mar 02,2017 19:39:25 [Fail]  ====Failed==== "MasterAttach Deal"  does not exist.</span>
+<span style="color:red;">Mar 02,2017 19:39:37 [Fail]  ====Failed==== "Standalone Deal"  does not exist.</span>
+<span style="color:red;">Mar 02,2017 19:39:48 [Fail]  ====Failed==== "RI_AttachMentfromMaster"  does not exist.</span>
+<span style="color:blue;"> [Manual Test Step]  Manual Test Step : TC_RI_GT_002</span>
+Mar 02,2017 19:44:42 [Info]  ****** Verify the "Sub Menu Icon" under the "New Menu" *******
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 19:52:31******************</span>
+Mar 02,2017 19:52:31 [Info]  Client: AMCN
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************</span>
+Mar 02,2017 19:52:43 [Info]  Client: AMCN
+Mar 02,2017 19:52:43 [Info]  URL: http://rlv2wb79/login.aspx
+Mar 02,2017 19:52:43 [Info]  UserName: admin
+Mar 02,2017 19:52:43 [Info]  Password: admin
+Mar 02,2017 19:52:45 [Info]  Entered "admin" in field 'User Name'
+Mar 02,2017 19:52:45 [Info]  Clicked on the 'Temporary Check Box'
+Mar 02,2017 19:52:45 [Info]  Entered "admin" in field 'Password'
+Mar 02,2017 19:52:52 [Info]  Clicked on the 'LoginButton'
+Mar 02,2017 19:53:30 [Info]  Clicked on the 'Module '
+Mar 02,2017 19:53:40 [Info]  Clicked on the 'Rights IN TAB '
+Mar 02,2017 19:53:46 [Info]  Clicked on the 'New Button' using JS Executor
+<span style="color:blue;"> [Manual Test Step]  Manual Test Step : TC_RI_GT_002</span>
+Mar 02,2017 19:53:46 [Info]  ****** Verify the "Sub Menu Icon" under the "New Menu" *******
+<span style="color:red;">Mar 02,2017 19:53:56 [Fail]  ====Failed==== "Master Deal"  does not exist.</span>
+<span style="color:red;">Mar 02,2017 19:54:08 [Fail]  ====Failed==== "MasterAttach Deal"  does not exist.</span>
+<span style="color:red;">Mar 02,2017 19:54:19 [Fail]  ====Failed==== "Standalone Deal"  does not exist.</span>
+<span style="color:red;">Mar 02,2017 19:54:31 [Fail]  ====Failed==== "RI_AttachMentfromMaster"  does not exist.</span>
+Mar 02,2017 19:55:17 [Info]  Clicked on the 'Module '
+Mar 02,2017 19:55:27 [Info]  Clicked on the 'Rights IN TAB '
+Mar 02,2017 19:55:33 [Info]  Clicked on the 'New Button' using JS Executor
+<span style="color:blue;"> [Manual Test Step]  Manual Test Step : TC_RI_GT_002</span>
+Mar 02,2017 19:55:33 [Info]  ****** Verify the "Sub Menu Icon" under the "New Menu" *******
+<span style="color:red;">Mar 02,2017 19:55:43 [Fail]  ====Failed==== "Master Deal"  does not exist.</span>
+<span style="color:blue;"> [Manual Test Step]  Manual Test Step : TC_RI_GT_002</span>
+Mar 02,2017 19:55:46 [Info]  ****** Verify the "Sub Menu Icon" under the "New Menu" *******
+<span style="color:red;">Mar 02,2017 19:55:56 [Fail]  ====Failed==== "Master Deal"  does not exist.</span>
+<span style="color:blue;"> [Manual Test Step]  Manual Test Step : TC_RI_GT_002</span>
+Mar 02,2017 19:56:35 [Info]  ****** Verify the "Sub Menu Icon" under the "New Menu" *******
+Mar 02,2017 19:56:35 [Info]  "Master Deal" is Present
+Mar 02,2017 19:57:06 [Info]  "MasterAttach Deal" is Present
+Mar 02,2017 19:57:06 [Info]  "Standalone Deal" is Present
+Mar 02,2017 19:57:06 [Info]  "RI_AttachMentfromMaster" is Present
+Mar 02,2017 19:57:24 [Info]  "CopyAgreement Deal" is Present
+<span style="color:blue;"> [Manual Test Step]  Manual Test Step : TC_RI_GT_003</span>
+<span style="color:blue;"> [Manual Test Step]  ****** Verify the Labels/fields available on Deal Creation Form page **********</span>
+<span style="color:blue;"> [Manual Test Step]  Manual Test Step : TC_RI_GT_002</span>
+Mar 02,2017 19:58:07 [Info]  ****** Verify the "Sub Menu Icon" under the "New Menu" *******
+Mar 02,2017 19:58:08 [Info]  "Master Deal" is Present
+Mar 02,2017 19:58:33 [Info]  "MasterAttach Deal" is Present
+Mar 02,2017 19:58:33 [Info]  "Standalone Deal" is Present
+Mar 02,2017 19:58:33 [Info]  "RI_AttachMentfromMaster" is Present
+Mar 02,2017 19:58:48 [Info]  "CopyAgreement Deal" is Present
+<span style="color:blue;"> [Manual Test Step]  Manual Test Step : TC_RI_GT_003</span>
+<span style="color:blue;"> [Manual Test Step]  ****** Verify the Labels/fields available on Deal Creation Form page **********</span>
+Mar 02,2017 19:58:50 [Info]  Clicked on the 'Standalone Agreement' using JS Executor
+Mar 02,2017 19:59:20 [Info]  Verify The data of Deal ID
+<span style="color:red;">Mar 02,2017 19:59:20 [Fail]  ====Failed==== Expected value is:[*Deal ID] but Actual value is[57891]. Please check the screenshot with name: Deal IDfor more details</span>
+Mar 02,2017 19:59:21 [Info]  Verify The data of DealDescription
+<span style="color:green;">Mar 02,2017 19:59:21 [Verification]  Verified that Expected value :[Deal Description] is matched with Actual value :[Deal Description]</span>
+Mar 02,2017 19:59:21 [Info]  Verify The data of DealName
+<span style="color:green;">Mar 02,2017 19:59:21 [Verification]  Verified that Expected value :[*Deal Name] is matched with Actual value :[*Deal Name]</span>
+Mar 02,2017 19:59:21 [Info]  Verify The data of DealType
+<span style="color:green;">Mar 02,2017 19:59:21 [Verification]  Verified that Expected value :[*Deal Type] is matched with Actual value :[*Deal Type]</span>
+Mar 02,2017 19:59:21 [Info]  Verify The data of DealSubType
+<span style="color:green;">Mar 02,2017 19:59:21 [Verification]  Verified that Expected value :[Deal Sub-Type] is matched with Actual value :[Deal Sub-Type]</span>
+Mar 02,2017 19:59:21 [Info]  Verify The data of DataEntryContractStatus
+<span style="color:green;">Mar 02,2017 19:59:21 [Verification]  Verified that Expected value :[*Contract Data Entry Status] is matched with Actual value :[*Contract Data Entry Status]</span>
+Mar 02,2017 19:59:21 [Info]  Verify The data of DateExecutedStatus
+<span style="color:green;">Mar 02,2017 19:59:21 [Verification]  Verified that Expected value :[Date Executed] is matched with Actual value :[Date Executed]</span>
+Mar 02,2017 19:59:21 [Info]  Verify The data of DateEffectiveStatus
+<span style="color:green;">Mar 02,2017 19:59:21 [Verification]  Verified that Expected value :[*Date Effective] is matched with Actual value :[*Date Effective]</span>
+Mar 02,2017 19:59:22 [Info]  Verify The data of CurrentCurrency
+<span style="color:green;">Mar 02,2017 19:59:22 [Verification]  Verified that Expected value :[*Contract Currency] is matched with Actual value :[*Contract Currency]</span>
+Mar 02,2017 19:59:22 [Info]  Verify The data of ProfitCenter
+<span style="color:green;">Mar 02,2017 19:59:22 [Verification]  Verified that Expected value :[*Profit Center] is matched with Actual value :[*Profit Center]</span>
+Mar 02,2017 19:59:22 [Info]  Verify The data of BudgetLine
+<span style="color:green;">Mar 02,2017 19:59:22 [Verification]  Verified that Expected value :[*Budget Line] is matched with Actual value :[*Budget Line]</span>
+Mar 02,2017 19:59:30 [Info]  Verify The data of SkipWorkflow
+<span style="color:green;">Mar 02,2017 19:59:30 [Verification]  Verified that Expected value :[Skip Workflow] is matched with Actual value :[Skip Workflow]</span>
+Mar 02,2017 19:59:35 [Info]  *******Verify that Deal ID field is auto populated****
+Mar 02,2017 19:59:37 [Info]  Generated Deal Id is:  57891
+Mar 02,2017 19:59:38 [Info]  Drop Down values of 'Deal Type' Drop Down are: 
+Mar 02,2017 19:59:38 [Info]  Actual Drop Down Values are: 
+[(Select one), Acquisition-Licensing, Clip License, Commission, Co-Production, Development, Event, Independent Contractor, Internal Elemental, Intercompany, Internal Production, Library Music License, Location Release, Materials Release, Music Composer, Music Master Use & Synchronization License, Music Master Use License, Music Synchronization License, Option, Production, Talent, Other]
+Mar 02,2017 19:59:38 [Info]  Expected Drop Down Values are: 
+[Acquisition-Licensing, Clip License, Commission, Co-Production, Development, Event, Independent Contractor, Internal Elemental, Intercompany, Internal Production, Library Music License, Location Release, Materials Release, Music Composer, Music Master Use & Synchronization License, Music Synchronization License, Option, Production, Talent, Other]
+Mar 02,2017 19:59:38 [Info]  Total Number of Dropdown Valus in 'Deal Type' Drop Down:22
+<span style="color:red;">Mar 02,2017 19:59:38 [Fail]  =========Failed=======Actual Dropdown values of 'Deal Type' Drop DownDoes not match Expected [Acquisition-Licensing]But Actual is [(Select one)]</span>
+<span style="color:green;">Mar 02,2017 19:59:38 [Verification]  Verified that [Acquisition-Licensing] is present in the dropdown 'Deal Type' Drop Down</span>
+<span style="color:green;">Mar 02,2017 19:59:38 [Verification]  Verified that [Clip License] is present in the dropdown 'Deal Type' Drop Down</span>
+<span style="color:green;">Mar 02,2017 19:59:38 [Verification]  Verified that [Commission] is present in the dropdown 'Deal Type' Drop Down</span>
+<span style="color:green;">Mar 02,2017 19:59:38 [Verification]  Verified that [Co-Production] is present in the dropdown 'Deal Type' Drop Down</span>
+<span style="color:green;">Mar 02,2017 19:59:38 [Verification]  Verified that [Development] is present in the dropdown 'Deal Type' Drop Down</span>
+<span style="color:green;">Mar 02,2017 19:59:38 [Verification]  Verified that [Event] is present in the dropdown 'Deal Type' Drop Down</span>
+<span style="color:green;">Mar 02,2017 19:59:38 [Verification]  Verified that [Independent Contractor] is present in the dropdown 'Deal Type' Drop Down</span>
+<span style="color:green;">Mar 02,2017 19:59:38 [Verification]  Verified that [Internal Elemental] is present in the dropdown 'Deal Type' Drop Down</span>
+<span style="color:green;">Mar 02,2017 19:59:38 [Verification]  Verified that [Intercompany] is present in the dropdown 'Deal Type' Drop Down</span>
+<span style="color:green;">Mar 02,2017 19:59:38 [Verification]  Verified that [Internal Production] is present in the dropdown 'Deal Type' Drop Down</span>
+<span style="color:green;">Mar 02,2017 19:59:38 [Verification]  Verified that [Library Music License] is present in the dropdown 'Deal Type' Drop Down</span>
+<span style="color:green;">Mar 02,2017 19:59:38 [Verification]  Verified that [Location Release] is present in the dropdown 'Deal Type' Drop Down</span>
+<span style="color:green;">Mar 02,2017 19:59:38 [Verification]  Verified that [Materials Release] is present in the dropdown 'Deal Type' Drop Down</span>
+<span style="color:green;">Mar 02,2017 19:59:38 [Verification]  Verified that [Music Composer] is present in the dropdown 'Deal Type' Drop Down</span>
+<span style="color:green;">Mar 02,2017 19:59:38 [Verification]  Verified that [Music Master Use & Synchronization License] is present in the dropdown 'Deal Type' Drop Down</span>
+<span style="color:red;">Mar 02,2017 19:59:38 [Fail]  =========Failed=======Actual Dropdown values of 'Deal Type' Drop DownDoes not match Expected [Option]But Actual is [Music Master Use License]</span>
+<span style="color:green;">Mar 02,2017 19:59:39 [Verification]  Verified that [Music Synchronization License] is present in the dropdown 'Deal Type' Drop Down</span>
+<span style="color:green;">Mar 02,2017 19:59:39 [Verification]  Verified that [Option] is present in the dropdown 'Deal Type' Drop Down</span>
+<span style="color:green;">Mar 02,2017 19:59:39 [Verification]  Verified that [Production] is present in the dropdown 'Deal Type' Drop Down</span>
+<span style="color:green;">Mar 02,2017 19:59:39 [Verification]  Verified that [Talent] is present in the dropdown 'Deal Type' Drop Down</span>
+<span style="color:green;">Mar 02,2017 19:59:39 [Verification]  Verified that [Other] is present in the dropdown 'Deal Type' Drop Down</span>
+Mar 02,2017 19:59:39 [Info]  Drop Down values of 'Deal sub Type' Drop Down are: 
+Mar 02,2017 19:59:39 [Info]  Actual Drop Down Values are: 
+[(Select one), Output, Re-purposing, Acquisition, Commissioned, Co-Production, Co-Financed, Development, Program, WholeSale, Brand Destination, Licensing, Standard, Payment in Advance]
+Mar 02,2017 19:59:39 [Info]  Expected Drop Down Values are: 
+[Output, Re-purposing, Acquisition, Commissioned, Co-Production, Co-Financed, Development, Program, WholeSale, Brand Destination, Licensing, Standard, Payment in Advance]
+Mar 02,2017 19:59:40 [Info]  Total Number of Dropdown Valus in 'Deal sub Type' Drop Down:14
+<span style="color:red;">Mar 02,2017 19:59:40 [Fail]  =========Failed=======Actual Dropdown values of 'Deal sub Type' Drop DownDoes not match Expected [Output]But Actual is [(Select one)]</span>
+<span style="color:green;">Mar 02,2017 19:59:40 [Verification]  Verified that [Output] is present in the dropdown 'Deal sub Type' Drop Down</span>
+<span style="color:green;">Mar 02,2017 19:59:40 [Verification]  Verified that [Re-purposing] is present in the dropdown 'Deal sub Type' Drop Down</span>
+<span style="color:green;">Mar 02,2017 19:59:40 [Verification]  Verified that [Acquisition] is present in the dropdown 'Deal sub Type' Drop Down</span>
+<span style="color:green;">Mar 02,2017 19:59:40 [Verification]  Verified that [Commissioned] is present in the dropdown 'Deal sub Type' Drop Down</span>
+<span style="color:green;">Mar 02,2017 19:59:40 [Verification]  Verified that [Co-Production] is present in the dropdown 'Deal sub Type' Drop Down</span>
+<span style="color:green;">Mar 02,2017 19:59:40 [Verification]  Verified that [Co-Financed] is present in the dropdown 'Deal sub Type' Drop Down</span>
+<span style="color:green;">Mar 02,2017 19:59:40 [Verification]  Verified that [Development] is present in the dropdown 'Deal sub Type' Drop Down</span>
+<span style="color:green;">Mar 02,2017 19:59:40 [Verification]  Verified that [Program] is present in the dropdown 'Deal sub Type' Drop Down</span>
+<span style="color:green;">Mar 02,2017 19:59:40 [Verification]  Verified that [WholeSale] is present in the dropdown 'Deal sub Type' Drop Down</span>
+<span style="color:green;">Mar 02,2017 19:59:40 [Verification]  Verified that [Brand Destination] is present in the dropdown 'Deal sub Type' Drop Down</span>
+<span style="color:green;">Mar 02,2017 19:59:40 [Verification]  Verified that [Licensing] is present in the dropdown 'Deal sub Type' Drop Down</span>
+<span style="color:green;">Mar 02,2017 19:59:40 [Verification]  Verified that [Standard] is present in the dropdown 'Deal sub Type' Drop Down</span>
+<span style="color:green;">Mar 02,2017 19:59:40 [Verification]  Verified that [Payment in Advance] is present in the dropdown 'Deal sub Type' Drop Down</span>
+Mar 02,2017 19:59:40 [Info]  Selected "Acquisition-Licensing" in "DealType_DropDownField" drop down
+Mar 02,2017 19:59:40 [Info]  Selected "Development" in "Deal/Agreement Sub Type" drop down
+Mar 02,2017 19:59:40 [Info]  Entered "AUT" in field 'Deal Code'
+Mar 02,2017 19:59:41 [Info]  Entered "AUT_Deal_TC1_0302201775231" in field 'Deal Name Field'
+Mar 02,2017 19:59:49 [Info]  Entered "01/01/2014" in field 'DateExecuted_InputField'
+Mar 02,2017 19:59:49 [Info]  Entered "01/01/2015" in field 'DateEffective_InputField'
+Mar 02,2017 19:59:50 [Info]  Selected "AMC" in "ProfitCenter_InputField" drop down
+Mar 02,2017 19:59:56 [Info]  Selected "Acquired Series - 280-206100-612103" in "BudgetLine_InputField" drop down
+Mar 02,2017 19:59:56 [Info]  Entered "USD" in field 'DealCreationCurrency'
+Mar 02,2017 20:00:04 [Info]  Clicked on the 'Save Button' using JS Executor
+Mar 02,2017 20:01:43 [Info]  Test 'TC1_CreateStandaloneDeal' PASSED
+Mar 02,2017 20:01:44 [Info]  Closed the Browser

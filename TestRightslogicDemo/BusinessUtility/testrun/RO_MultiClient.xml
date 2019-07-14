@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="RO_Module" parallel="false" thread-count="1" verbose="2">
+	<test name="MultiClient_RO_ieBrowser">
+	<parameter name="browser" value="ie" />
+		<classes>
+			<class name="multiClient.MultiClient_RO_AgreementSearch" />
+			<class name="multiClient.MultiClient_RO_Attributes" />
+			<class name="multiClient.MultiClient_RO_BusinessTerms" />
+			<class name="multiClient.MultiClient_RO_CollisionReport" />
+			<class name="multiClient.MultiClient_RO_Dealsummary" />
+			<class name="multiClient.MultiClient_RO_Delivery" />
+			<class name="multiClient.MultiClient_RO_Document" />
+			<class name="multiClient.MultiClient_RO_Editing_Rights" />
+			<class name="multiClient.MultiClient_RO_ExhibitionRights" />
+			<class name="multiClient.MultiClient_RO_General" />
+			<class name="multiClient.MultiClient_RO_Guarantees" />
+			<class name="multiClient.MultiClient_RO_MediaRights" />
+			<class name="multiClient.MultiClient_RO_MediaRightsDetailsReport" />
+			<class name="multiClient.MultiClient_RO_ObligationReport" />
+			<class name="multiClient.MultiClient_RO_Obligations" />
+			<class name="multiClient.MultiClient_RO_OptionExpirationReport" />
+			<class name="multiClient.MultiClient_RO_Options" />
+			<class name="multiClient.MultiClient_RO_Payments" />
+			<class name="multiClient.MultiClient_RO_PaymentSchedule" />
+			<class name="multiClient.MultiClient_RO_ProjectTeam" />
+			<class name="multiClient.MultiClient_RO_PromoRights" />
+			<class name="multiClient.MultiClient_RO_RevenueParticipation" />
+			<class name="multiClient.MultiClient_RO_Services" />
+			<class name="multiClient.MultiClient_RO_TrackingEvents" />
+			<class name="multiClient.MultiClient_RO_Version" />
+			<class name="multiClient.MultiClient_RO_Workflow" />
+		</classes>
+	</test>
+
+</suite>

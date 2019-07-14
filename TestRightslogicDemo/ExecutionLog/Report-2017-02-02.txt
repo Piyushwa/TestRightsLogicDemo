@@ -1,0 +1,954 @@
+Feb 02,2017 13:57:55 [info]  ********************Started Executiong the Test Suite at 13:57:55******************
+Feb 02,2017 13:57:55 [info]  Client: VMN
+Feb 02,2017 13:57:55 [info]  *********************Started Executing the Test Area(Modules/TAB): 'RI_TermEvent'*********************
+Feb 02,2017 13:57:55 [info]  *********************Started Executing 'preRequisites' Test Case*********************
+Feb 02,2017 13:58:06 [info]  Client: VMN
+Feb 02,2017 13:58:06 [info]  URL: http://cgptwb01/Home.aspx
+Feb 02,2017 13:58:06 [info]  UserName: automation
+Feb 02,2017 13:58:06 [info]  Password: automation
+Feb 02,2017 13:58:09 [info]  Entered "automation" in field 'User Name'
+Feb 02,2017 13:58:09 [info]  Clicked on the 'Temporary Check Box'
+Feb 02,2017 13:58:09 [info]  Entered "automation" in field 'Password'
+Feb 02,2017 13:58:19 [info]  Clicked on the 'LoginButton'
+Feb 02,2017 13:58:26 [info]  ************************Started Creating Asset of Type: Program - Series************************
+Feb 02,2017 13:58:29 [info]  Clicked on the 'MODULE'
+Feb 02,2017 13:58:36 [info]  Clicked on the 'Property Entry & Maintenance'
+Feb 02,2017 13:58:42 [info]  Clicked on the 'SearchLink' using JS Executor
+Feb 02,2017 13:58:44 [info]  Clicked on the 'Property Search' using JS Executor
+Feb 02,2017 13:58:50 [info]  Clicked on the 'TR_Asset_Search_Params' using JS Executor
+Feb 02,2017 13:58:51 [info]  Entered "AUT_AssetSeries_TC1_0202201715754" in field 'Asset Title'
+Feb 02,2017 13:58:55 [info]  Clicked on the 'Find Button' using JS Executor
+Feb 02,2017 13:59:02 [info]  Verify The data of Alert Message
+<span style="color:green;">Feb 02,2017 13:59:02 [Verification]  Verified that Expected value :[No search results were found for this query. Please try again using different criteria.] is matched with Actual value :[No search results were found for this query. Please try again using different criteria.]</span>
+Feb 02,2017 13:59:02 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Feb 02,2017 13:59:02 [info]  Clicked on the 'Ok button At Alert' using JS Executor
+Feb 02,2017 13:59:08 [info]  Clicked on the 'Add Asset Button' using JS Executor
+Feb 02,2017 13:59:11 [info]  Selected "Program" in "AssetTypeDropDown Pop upn VMN" drop down
+Feb 02,2017 13:59:21 [info]  Double clicked on 'OK Button'
+Feb 02,2017 13:59:27 [info]  Asset id is 193664
+Feb 02,2017 13:59:37 [info]  Selected "Program - Series" in "AssetTypeDropDown" drop down
+Feb 02,2017 13:59:40 [info]  Entered "AUT_AssetSeries_TC1_0202201715754" in field 'AssetTitle'
+Feb 02,2017 13:59:41 [info]  Clicked on the 'IPImageIcon' using JS Executor
+Feb 02,2017 13:59:42 [info]  Clicked on the 'Find Button' using JS Executor
+Feb 02,2017 13:59:45 [info]  Clicked on the 'loc_IPName_AT_IPWindow'
+Feb 02,2017 13:59:45 [info]  Clicked on the 'IP Select Button' using JS Executor
+Feb 02,2017 13:59:46 [info]  Clicked on the 'Vendor Img Icon' using JS Executor
+Feb 02,2017 13:59:47 [info]  Entered "AUT_VMN_Vendor1" in field 'SearchvalueVendor'
+Feb 02,2017 13:59:58 [info]  Clicked on the 'VendorWindowButtonfind' using JS Executor
+Feb 02,2017 14:00:04 [info]  Clicked on the 'VendorName At VendorWindow'
+Feb 02,2017 14:00:04 [info]  Clicked on the 'Vendor Select Button' using JS Executor
+Feb 02,2017 14:00:07 [info]  Verify The data of Vendor1
+<span style="color:green;">Feb 02,2017 14:00:07 [Verification]  Verified that Expected value :[AUT_VMN_Vendor1] is matched with Actual value :[AUT_VMN_Vendor1]</span>
+Feb 02,2017 14:00:08 [info]  Clicked on the 'StudioImageIcon' using JS Executor
+Feb 02,2017 14:00:08 [info]  Verify The data of Studio Window Header
+<span style="color:green;">Feb 02,2017 14:00:08 [Verification]  Verified that Expected value :[Select Copyright Owner] is matched with Actual value :[Select Copyright Owner]</span>
+Feb 02,2017 14:00:08 [info]  Entered "AUT_VMN_Studio" in field 'Studio Name'
+Feb 02,2017 14:00:18 [info]  Clicked on the 'Find Button' using JS Executor
+Feb 02,2017 14:00:26 [info]  Clicked on the 'VendorName At VendorWindow'
+Feb 02,2017 14:00:26 [info]  Clicked on the 'Vendor Select Button' using JS Executor
+Feb 02,2017 14:00:30 [info]  Verify The data of Studio/Vendor2
+<span style="color:green;">Feb 02,2017 14:00:30 [Verification]  Verified that Expected value :[AUT_VMN_Studio] is matched with Actual value :[AUT_VMN_Studio]</span>
+Feb 02,2017 14:00:31 [info]  Clicked on the 'SBUImage' using JS Executor
+Feb 02,2017 14:00:31 [info]  Verify The data of SBU Window/Owner Channel Header
+<span style="color:green;">Feb 02,2017 14:00:31 [Verification]  Verified that Expected value :[Channel / Entity Template] is matched with Actual value :[Channel / Entity Template]</span>
+Feb 02,2017 14:00:37 [info]  Clicked on the 'First CheckBox At SBU window'
+Feb 02,2017 14:00:39 [info]  Clicked on the 'Apply Button' using JS Executor
+Feb 02,2017 14:00:40 [info]  Entered "11:11:11" in field 'Duration'
+Feb 02,2017 14:00:50 [info]  Selected "Active Production" in "Asset Status" drop down
+Feb 02,2017 14:00:50 [info]  Selected "Animated" in "Asset Format" drop down
+Feb 02,2017 14:00:50 [info]  Selected "Co-Production" in "Asset Source" drop down
+Feb 02,2017 14:00:50 [info]  Selected "Television" in "Asset Category/Group" drop down
+Feb 02,2017 14:00:50 [info]  Entered "" in field 'ProjectID'
+Feb 02,2017 14:00:50 [info]  Selected "TBD" in "Client Group" drop down
+Feb 02,2017 14:00:51 [info]  Selected "In Progress" in "PROD Contract Entry/AssetData Status" drop down
+Feb 02,2017 14:00:51 [info]  Clicked on the 'Save Button' using JS Executor
+Feb 02,2017 14:01:12 [info]  Verify The data of Created AssetAUT_AssetSeries_TC1_0202201715754
+<span style="color:green;">Feb 02,2017 14:01:12 [Verification]  Verified that Expected value :[AUT_AssetSeries_TC1_0202201715754] is matched with Actual value :[AUT_AssetSeries_TC1_0202201715754]</span>
+Feb 02,2017 14:01:12 [info]  ************************Created Asset of TypeProgram - Series************************
+Feb 02,2017 14:01:15 [info]  Clicked on the 'MODULE'
+Feb 02,2017 14:01:22 [info]  Clicked on the 'Property Entry & Maintenance'
+Feb 02,2017 14:01:25 [info]  Clicked on the 'Search Icon' using JS Executor
+Feb 02,2017 14:01:27 [info]  Clicked on the 'Property Search' using JS Executor
+Feb 02,2017 14:01:35 [info]  Entered "AUT_AssetSeries_TC1_0202201715754" in field 'AssetTitle'
+Feb 02,2017 14:01:40 [info]  Clicked on the 'Find Button' using JS Executor
+Feb 02,2017 14:02:04 [info]  Moved Mouse over 'First Asset in the Searched Asset'
+Feb 02,2017 14:02:04 [info]  Clicked on the 'First Asset in the Searched Asset'
+Feb 02,2017 14:02:04 [info]  Clicked on the 'First Asset in the Searched Asset'
+Feb 02,2017 14:02:07 [info]  Clicked on the 'View Asset' using JS Executor
+Feb 02,2017 14:02:20 [info]  Verify The data of Created Asset At Home
+<span style="color:green;">Feb 02,2017 14:02:20 [Verification]  Verified that Expected value :[AUT_AssetSeries_TC1_0202201715754] is matched with Actual value :[AUT_AssetSeries_TC1_0202201715754]</span>
+Feb 02,2017 14:02:26 [info]  Clicked on the 'Episodes TAB'
+Feb 02,2017 14:02:34 [info]  Clicked on the ''Edit' Button at Episode window' using JS Executor
+Feb 02,2017 14:02:40 [info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Feb 02,2017 14:02:43 [info]  Entered "101" in field 'Add Episode input field'
+Feb 02,2017 14:02:50 [info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Feb 02,2017 14:02:58 [info]  Clicked on the 'Season Field of Episode101' using JS Executor
+Feb 02,2017 14:02:58 [info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Feb 02,2017 14:02:58 [info]  Clicked on the 'Season 1.Original Version'
+Feb 02,2017 14:02:59 [info]  Clicked on the 'Support click to select season'
+Feb 02,2017 14:02:59 [info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Feb 02,2017 14:03:02 [info]  Entered "102" in field 'Add Episode input field'
+Feb 02,2017 14:03:04 [info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Feb 02,2017 14:03:13 [info]  Clicked on the 'Season Field of Episode101' using JS Executor
+Feb 02,2017 14:03:13 [info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Feb 02,2017 14:03:13 [info]  Clicked on the 'Season 1.Original Version'
+Feb 02,2017 14:03:13 [info]  Clicked on the 'Support click to select season'
+Feb 02,2017 14:03:13 [info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Feb 02,2017 14:03:16 [info]  Entered "103" in field 'Add Episode input field'
+Feb 02,2017 14:03:20 [info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Feb 02,2017 14:03:28 [info]  Clicked on the 'Season Field of Episode101' using JS Executor
+Feb 02,2017 14:03:28 [info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Feb 02,2017 14:03:29 [info]  Clicked on the 'Season 1.Original Version'
+Feb 02,2017 14:03:29 [info]  Clicked on the 'Support click to select season'
+Feb 02,2017 14:03:29 [info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Feb 02,2017 14:03:32 [info]  Entered "201" in field 'Add Episode input field'
+Feb 02,2017 14:03:34 [info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Feb 02,2017 14:03:42 [info]  Clicked on the 'Season Field of Episode101' using JS Executor
+Feb 02,2017 14:03:42 [info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Feb 02,2017 14:03:42 [info]  Clicked on the 'Season 1.Original Version'
+Feb 02,2017 14:03:42 [info]  Clicked on the 'Support click to select season'
+Feb 02,2017 14:03:42 [info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Feb 02,2017 14:03:45 [info]  Entered "202" in field 'Add Episode input field'
+Feb 02,2017 14:03:47 [info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Feb 02,2017 14:03:55 [info]  Clicked on the 'Season Field of Episode101' using JS Executor
+Feb 02,2017 14:03:55 [info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Feb 02,2017 14:03:56 [info]  Clicked on the 'Season 1.Original Version'
+Feb 02,2017 14:03:56 [info]  Clicked on the 'Support click to select season'
+Feb 02,2017 14:03:56 [info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Feb 02,2017 14:03:59 [info]  Entered "203" in field 'Add Episode input field'
+Feb 02,2017 14:04:01 [info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Feb 02,2017 14:04:09 [info]  Clicked on the 'Season Field of Episode101' using JS Executor
+Feb 02,2017 14:04:09 [info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Feb 02,2017 14:04:09 [info]  Clicked on the 'Season 1.Original Version'
+Feb 02,2017 14:04:09 [info]  Clicked on the 'Support click to select season'
+Feb 02,2017 14:04:17 [info]  Clicked on the 'Save Button at 'Episode Edit Window'' using JS Executor
+Feb 02,2017 14:04:24 [info]  Clicked on the 'Close Button at 'Episode Edit Window'' using JS Executor
+Feb 02,2017 14:04:47 [info]  Clicked on the 'New Button' using JS Executor
+Feb 02,2017 14:04:50 [info]  Clicked on the 'Standalone Agreement' using JS Executor
+Feb 02,2017 14:04:56 [info]  Generated Deal Id is 30632
+Feb 02,2017 14:04:56 [info]  Clicked on the 'DealTitleField' using JS Executor
+Feb 02,2017 14:04:57 [info]  Entered "AUT_Deal_TC1_0202201715754" in field 'Deal Name Field'
+Feb 02,2017 14:04:57 [info]  Entered "AUT_Deal_TC1_0202201715754_desc" in field 'Deal Description/ContractID'
+Feb 02,2017 14:04:57 [info]  Selected "Program Acquisition/Licensed Original" in "DealType_DropDownField" drop down
+Feb 02,2017 14:04:57 [info]  Entered "Fully Executed" in field 'Deal Creation Contract Status'
+Feb 02,2017 14:04:57 [info]  Entered "Finalized / Approved" in field 'DealCreationCDEStatus'
+Feb 02,2017 14:04:58 [info]  Entered "01/01/2014" in field 'DateExecuted_InputField'
+Feb 02,2017 14:05:04 [info]  Clicked on the 'SBU look up Icon' using JS Executor
+Feb 02,2017 14:05:11 [info]  Clicked on the 'Select All Button at SBU'
+Feb 02,2017 14:05:11 [info]  Clicked on the 'FirstCheckBoxAtSBU'
+Feb 02,2017 14:05:11 [info]  Clicked on the 'NinthCheckBoxAtSBU'
+Feb 02,2017 14:05:11 [info]  Clicked on the 'Apply Button'
+Feb 02,2017 14:05:12 [info]  Clicked on the 'Doc Type look up Icon' using JS Executor
+Feb 02,2017 14:05:18 [info]  Clicked on the 'Select All Button at SBU'
+Feb 02,2017 14:05:18 [info]  Clicked on the 'FirstCheckBoxAtSBU'
+Feb 02,2017 14:05:18 [info]  Clicked on the 'NinthCheckBoxAtSBU'
+Feb 02,2017 14:05:18 [info]  Clicked on the 'Apply Button'
+Feb 02,2017 14:05:22 [info]  Moved Mouse over 'Party_AddButton'
+Feb 02,2017 14:05:22 [info]  Clicked on the 'Party_AddButton'
+Feb 02,2017 14:05:22 [info]  Clicked on the 'PartyPopUp Icon' using JS Executor
+Feb 02,2017 14:05:26 [info]  Entered "AUT_VMN_RI_PRIMARY_PARTY" in field 'Search Party InputField'
+Feb 02,2017 14:05:36 [info]  Double clicked on 'RI Search Party Window Find Button'
+Feb 02,2017 14:05:40 [info]  Clicked on the 'AUT_VMN_RI_PRIMARY_PARTY'
+Feb 02,2017 14:05:40 [info]  Clicked on the 'Select Button'
+Feb 02,2017 14:05:47 [info]  Clicked on the 'Party Type Field' using JS Executor
+Feb 02,2017 14:05:47 [info]  Entered "Primary" in field 'Party Party InputField'
+Feb 02,2017 14:05:47 [info]  Clicked on the 'Support Click '
+Feb 02,2017 14:05:47 [info]  Clicked on the 'Party_AddButton' using JS Executor
+Feb 02,2017 14:05:48 [info]  Clicked on the 'PartyPopUp Icon' using JS Executor
+Feb 02,2017 14:05:53 [info]  Entered "AUT_VMN_RI_LICENSOR_PARTY" in field 'Search Party InputField'
+Feb 02,2017 14:06:02 [info]  Double clicked on 'RI Search Party Window Find Button'
+Feb 02,2017 14:06:10 [info]  Clicked on the 'Select Party'
+Feb 02,2017 14:06:11 [info]  Clicked on the 'Select Button'
+Feb 02,2017 14:06:17 [info]  Clicked on the 'Party Type Field' using JS Executor
+Feb 02,2017 14:06:17 [info]  Entered "Licensor" in field 'Party Party InputField'
+Feb 02,2017 14:06:17 [info]  Clicked on the 'Support Click '
+Feb 02,2017 14:06:27 [info]  Clicked on the 'Save Button' using JS Executor
+Feb 02,2017 14:06:33 [info]  Verify The data of CreatedDeal
+<span style="color:green;">Feb 02,2017 14:06:33 [Verification]  Verified that Expected value :[AUT_Deal_TC1_0202201715754] is matched with Actual value :[AUT_Deal_TC1_0202201715754]</span>
+Feb 02,2017 14:06:35 [info]  Clicked on the 'Navigator' using JS Executor
+Feb 02,2017 14:06:42 [info]  Clicked on the 'Associate With Exiting Asset' using JS Executor
+Feb 02,2017 14:06:42 [info]  Clicked on the 'Asset Status'
+Feb 02,2017 14:06:42 [info]  Clicked on the 'Asset tile' using JS Executor
+Feb 02,2017 14:06:43 [info]  Entered "AUT_AssetSeries_TC1_0202201715754" in field 'Asset title'
+<span style="color:red;">Feb 02,2017 14:06:43 [Fail]  <span style="color:red;">=====BUG ID======: 20309</span></span>
+Feb 02,2017 14:06:43 [info]  Clicked on the 'Display Season checkBox' using JS Executor
+Feb 02,2017 14:06:46 [info]  Clicked on the 'Search Button' using JS Executor
+Feb 02,2017 14:06:53 [info]  Clicked on the 'Toggle'
+Feb 02,2017 14:06:56 [info]  Double clicked on 'Searched Asset'
+Feb 02,2017 14:07:12 [info]  Clicked on the 'Ok Button'
+Feb 02,2017 14:07:18 [info]  Test 'preRequisites' PASSED
+Feb 02,2017 14:07:20 [info]  Closed the Browser
+Feb 02,2017 14:19:36 [info]  ********************Started Executiong the Test Suite at 14:19:36******************
+Feb 02,2017 14:19:36 [info]  Client: VMN
+Feb 02,2017 14:19:36 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Feb 02,2017 14:19:36 [info]  *********************Started Executing 'preRequisites' Test Case*********************
+Feb 02,2017 14:19:46 [info]  Client: VMN
+Feb 02,2017 14:19:46 [info]  URL: http://cgptwb01/Home.aspx
+Feb 02,2017 14:19:46 [info]  UserName: automation
+Feb 02,2017 14:19:46 [info]  Password: automation
+Feb 02,2017 14:19:49 [info]  Entered "automation" in field 'User Name'
+Feb 02,2017 14:19:49 [info]  Clicked on the 'Temporary Check Box'
+Feb 02,2017 14:19:49 [info]  Entered "automation" in field 'Password'
+Feb 02,2017 14:19:58 [info]  Clicked on the 'LoginButton'
+Feb 02,2017 14:20:13 [info]  Double clicked on 'AUT_Deal_TC1_0202201715754Deal'
+<span style="color:red;">Feb 02,2017 14:20:26 [Fail]  ====Failed==== "Media Rights TAB" field is not present'</span>
+<span style="color:red;">Feb 02,2017 14:20:37 [Fail]  ====Failed==== " Could not find the Frame: div[class*='igtab_Office2007BlueTHContent'][style*=visible]</span>
+Feb 02,2017 14:20:37 [info]  no such element: Unable to locate element: {"method":"tag name","selector":"iframe"}
+  (Session info: chrome=55.0.2883.87)
+  (Driver info: chromedriver=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.08 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: '9P4G6BS', ip: '10.10.22.71', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed), userDataDir=C:\Users\Rajudd\AppData\Local\Temp\scoped_dir4164_12722}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=55.0.2883.87, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: b6ea15daef4b0de1a26904e46c5f003e
+*** Element info: {Using=tag name, value=iframe}
+<span style="color:red;">Feb 02,2017 14:22:11 [Fail]  ===Failed=== Could not find the locator: name=btnTitlesEdit</span>
+<span style="color:red;">Feb 02,2017 14:22:22 [Fail]  ====Failed==== "Edit Button" field is not present'</span>
+<span style="color:red;">Feb 02,2017 14:22:32 [Fail]  ====Failed==== " Could not find the Frame: div[id*='WebDialogWindow1'][style*=visible]</span>
+Feb 02,2017 14:22:32 [info]  no such element: Unable to locate element: {"method":"css selector","selector":"div[id*='WebDialogWindow1'][style*=visible]"}
+  (Session info: chrome=55.0.2883.87)
+  (Driver info: chromedriver=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.00 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: '9P4G6BS', ip: '10.10.22.71', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed), userDataDir=C:\Users\Rajudd\AppData\Local\Temp\scoped_dir4164_12722}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=55.0.2883.87, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: b6ea15daef4b0de1a26904e46c5f003e
+*** Element info: {Using=css selector, value=div[id*='WebDialogWindow1'][style*=visible]}
+<span style="color:red;">Feb 02,2017 14:22:43 [Fail]  ====Failed==== "'Add' Button at Media Rights Edit window" field is not present'</span>
+Feb 02,2017 14:22:46 [info]  
+Feb 02,2017 14:22:46 [info]  ----------Enter the data in all Fields of Media Rights in Row:1
+Feb 02,2017 14:22:46 [info]  ----------Enter the data in "*Property" Field of Media Rights 
+<span style="color:red;">Feb 02,2017 14:22:56 [Fail]  ====Failed==== " Could not find the Frame: div[id*='WebDialogWindow1'][style*=visible]</span>
+Feb 02,2017 14:23:19 [info]  Could not find the locator: RI_MediaRights_EditMode_Property'
+<span style="color:red;">Feb 02,2017 14:23:31 [Fail]  ====Failed==== "*PropertyDrop Down Image" field is not present'</span>
+<span style="color:red;">Feb 02,2017 14:23:41 [Fail]  ====Failed==== "All" field is not present'</span>
+<span style="color:red;">Feb 02,2017 14:23:55 [Fail]  ====Failed==== " Could not find the Frame: div[id*='WebDialogWindow1'][style*=visible]</span>
+<span style="color:red;">Feb 02,2017 14:24:15 [Fail]  ====Failed==== " Support Click on ROW_NO_HeaderName" field is not present'</span>
+Feb 02,2017 14:24:35 [info]  Verify The data of RI_MediaRights_EditMode_*Property
+<span style="color:red;">Feb 02,2017 14:24:35 [Fail]  ====Failed==== Expected value is:[All] but Actual value is[]. Please check the screenshot with name: RI_MediaRights_EditMode_*Propertyfor more details</span>
+Feb 02,2017 14:24:36 [info]  ----------Enter the data in "*Property" Field of Media Rights 
+<span style="color:red;">Feb 02,2017 14:24:46 [Fail]  ====Failed==== " Could not find the Frame: div[id*='WebDialogWindow1'][style*=visible]</span>
+Feb 02,2017 14:25:08 [info]  Could not find the locator: RI_MediaRights_EditMode_Property'
+<span style="color:red;">Feb 02,2017 14:25:20 [Fail]  ====Failed==== "*PropertyDrop Down Image" field is not present'</span>
+<span style="color:red;">Feb 02,2017 14:25:31 [Fail]  ====Failed==== "All" field is not present'</span>
+<span style="color:red;">Feb 02,2017 14:25:44 [Fail]  ====Failed==== " Could not find the Frame: div[id*='WebDialogWindow1'][style*=visible]</span>
+Feb 02,2017 14:29:55 [info]  ********************Started Executiong the Test Suite at 14:29:55******************
+Feb 02,2017 14:29:55 [info]  Client: VMN
+Feb 02,2017 14:29:55 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Feb 02,2017 14:29:55 [info]  *********************Started Executing 'preRequisites' Test Case*********************
+Feb 02,2017 14:30:05 [info]  Client: VMN
+Feb 02,2017 14:30:05 [info]  URL: http://cgptwb01/Home.aspx
+Feb 02,2017 14:30:05 [info]  UserName: automation
+Feb 02,2017 14:30:05 [info]  Password: automation
+Feb 02,2017 14:30:08 [info]  Entered "automation" in field 'User Name'
+Feb 02,2017 14:30:08 [info]  Clicked on the 'Temporary Check Box'
+Feb 02,2017 14:30:08 [info]  Entered "automation" in field 'Password'
+Feb 02,2017 14:30:18 [info]  Clicked on the 'LoginButton'
+Feb 02,2017 14:30:33 [info]  Double clicked on 'AUT_Deal_TC1_0202201715754Deal'
+<span style="color:red;">Feb 02,2017 14:30:46 [Fail]  ====Failed==== "Media Rights TAB" field is not present'</span>
+<span style="color:red;">Feb 02,2017 14:30:56 [Fail]  ====Failed==== " Could not find the Frame: div[class*='igtab_Office2007BlueTHContent'][style*=visible]</span>
+Feb 02,2017 14:30:57 [info]  no such element: Unable to locate element: {"method":"tag name","selector":"iframe"}
+  (Session info: chrome=55.0.2883.87)
+  (Driver info: chromedriver=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.06 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: '9P4G6BS', ip: '10.10.22.71', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed), userDataDir=C:\Users\Rajudd\AppData\Local\Temp\scoped_dir9544_13425}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=55.0.2883.87, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 42af4ef64870b57f41e7dd0516deac86
+*** Element info: {Using=tag name, value=iframe}
+Feb 02,2017 14:31:33 [info]  ********************Started Executiong the Test Suite at 14:31:33******************
+Feb 02,2017 14:31:33 [info]  Client: VMN
+Feb 02,2017 14:31:33 [info]  *********************Started Executing the Test Area(Modules/TAB): 'RI_TermEvent'*********************
+Feb 02,2017 14:31:33 [info]  *********************Started Executing 'preRequisites' Test Case*********************
+Feb 02,2017 14:31:43 [info]  Client: VMN
+Feb 02,2017 14:31:43 [info]  URL: http://cgptwb01/Home.aspx
+Feb 02,2017 14:31:43 [info]  UserName: automation
+Feb 02,2017 14:31:43 [info]  Password: automation
+Feb 02,2017 14:31:46 [info]  Entered "automation" in field 'User Name'
+Feb 02,2017 14:31:46 [info]  Clicked on the 'Temporary Check Box'
+Feb 02,2017 14:31:46 [info]  Entered "automation" in field 'Password'
+Feb 02,2017 14:31:55 [info]  Clicked on the 'LoginButton'
+Feb 02,2017 14:32:09 [info]  Double clicked on 'AUT_Deal_TC1_0202201715754Deal'
+Feb 02,2017 14:32:13 [info]  Clicked on the 'Media Rights TAB'
+Feb 02,2017 14:32:18 [info]  Clicked on the 'Edit Button'
+Feb 02,2017 14:32:22 [info]  Clicked on the ''Add' Button at Media Rights Edit window' using JS Executor
+Feb 02,2017 14:32:25 [info]  
+Feb 02,2017 14:32:25 [info]  ----------Enter the data in all Fields of Media Rights in Row:1
+Feb 02,2017 14:32:25 [info]  ----------Enter the data in "*Property" Field of Media Rights 
+Feb 02,2017 14:32:28 [info]  Double clicked on 'RI_MediaRights_EditMode_Property'
+Feb 02,2017 14:32:30 [info]  Clicked on the '*PropertyDrop Down Image'
+Feb 02,2017 14:32:30 [info]  Clicked on the 'All'
+Feb 02,2017 14:32:33 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Feb 02,2017 14:32:33 [info]  Verify The data of RI_MediaRights_EditMode_*Property
+<span style="color:green;">Feb 02,2017 14:32:33 [Verification]  Verified that Expected value :[All] is matched with Actual value :[All]</span>
+Feb 02,2017 14:32:33 [info]  ----------Enter the data in "*Property" Field of Media Rights 
+Feb 02,2017 14:32:35 [info]  Double clicked on 'RI_MediaRights_EditMode_Property'
+<span style="color:red;">Feb 02,2017 14:32:47 [Fail]  ====Failed==== "*PropertyDrop Down Image" field is not present'</span>
+<span style="color:red;">Feb 02,2017 14:32:58 [Fail]  ====Failed==== "All" field is not present'</span>
+Feb 02,2017 14:33:01 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Feb 02,2017 14:33:01 [info]  Verify The data of RI_MediaRights_EditMode_*Property
+<span style="color:red;">Feb 02,2017 14:33:01 [Fail]  ====Failed==== Expected value is:[All] but Actual value is[]. Please check the screenshot with name: RI_MediaRights_EditMode_*Propertyfor more details</span>
+Feb 02,2017 14:33:02 [info]  ----------Enter the data in "*Rights (incl. Media)" Field of Media Rights 
+Feb 02,2017 14:33:04 [info]  Double clicked on 'RI_MediaRights_EditMode_Rights (incl. Media)'
+Feb 02,2017 14:33:06 [info]  Clicked on the '*Rights (incl. Media)Drop Down Image'
+Feb 02,2017 14:33:06 [info]  Clicked on the 'All Media'
+Feb 02,2017 14:33:09 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Feb 02,2017 14:33:09 [info]  Verify The data of RI_MediaRights_EditMode_*Rights (incl. Media)
+<span style="color:green;">Feb 02,2017 14:33:09 [Verification]  Verified that Expected value :[All Media] is matched with Actual value :[All Media]</span>
+Feb 02,2017 14:33:09 [info]  ----------Enter the data in "*Usage Rights" Field of Media Rights 
+Feb 02,2017 14:33:12 [info]  Double clicked on 'RI_MediaRights_EditMode_Usage Rights'
+Feb 02,2017 14:33:14 [info]  Clicked on the '*Usage RightsDrop Down Image'
+Feb 02,2017 14:33:14 [info]  Clicked on the 'Full Length'
+Feb 02,2017 14:33:17 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Feb 02,2017 14:33:17 [info]  Verify The data of RI_MediaRights_EditMode_*Usage Rights
+<span style="color:green;">Feb 02,2017 14:33:17 [Verification]  Verified that Expected value :[Full Length] is matched with Actual value :[Full Length]</span>
+Feb 02,2017 14:33:17 [info]  ----------Enter the data in "*Outlets" Field of Media Rights 
+Feb 02,2017 14:33:19 [info]  Double clicked on 'RI_MediaRights_EditMode_Outlets'
+Feb 02,2017 14:33:21 [info]  Clicked on the '*OutletsDrop Down Image'
+Feb 02,2017 14:33:22 [info]  Clicked on the 'All Outlets'
+Feb 02,2017 14:33:25 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Feb 02,2017 14:33:25 [info]  Verify The data of RI_MediaRights_EditMode_*Outlets
+<span style="color:green;">Feb 02,2017 14:33:25 [Verification]  Verified that Expected value :[All Outlets] is matched with Actual value :[All Outlets]</span>
+Feb 02,2017 14:33:25 [info]  ----------Enter the data in "*Territory" Field of Media Rights 
+Feb 02,2017 14:33:27 [info]  Double clicked on 'RI_MediaRights_EditMode_Territory'
+Feb 02,2017 14:33:29 [info]  Clicked on the '*TerritoryDrop Down Image'
+Feb 02,2017 14:33:29 [info]  Clicked on the 'All Worldwide'
+Feb 02,2017 14:33:32 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Feb 02,2017 14:33:33 [info]  Verify The data of RI_MediaRights_EditMode_*Territory
+<span style="color:green;">Feb 02,2017 14:33:33 [Verification]  Verified that Expected value :[All Worldwide] is matched with Actual value :[All Worldwide]</span>
+Feb 02,2017 14:33:33 [info]  ----------Enter the data in "*Language" Field of Media Rights 
+Feb 02,2017 14:33:35 [info]  Double clicked on 'RI_MediaRights_EditMode_Language'
+Feb 02,2017 14:33:37 [info]  Clicked on the '*LanguageDrop Down Image'
+Feb 02,2017 14:33:37 [info]  Clicked on the 'All Languages'
+Feb 02,2017 14:33:40 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Feb 02,2017 14:33:40 [info]  Verify The data of RI_MediaRights_EditMode_*Language
+<span style="color:green;">Feb 02,2017 14:33:40 [Verification]  Verified that Expected value :[All Languages] is matched with Actual value :[All Languages]</span>
+Feb 02,2017 14:33:40 [info]  Clicked on the 'Term From Field'
+Feb 02,2017 14:33:40 [info]  Entered "01/01/2017" in field 'Term From'
+Feb 02,2017 14:33:41 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Feb 02,2017 14:33:41 [info]  Verify The data of Term From Data
+<span style="color:green;">Feb 02,2017 14:33:41 [Verification]  Verified that Expected value :[01/01/2017] is matched with Actual value :[01/01/2017]</span>
+Feb 02,2017 14:33:41 [info]  Clicked on the 'Term To Field'
+Feb 02,2017 14:33:41 [info]  Entered "12/31/2019" in field 'Term To input Field'
+Feb 02,2017 14:33:41 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Feb 02,2017 14:33:41 [info]  Verify The data of Term From Data
+<span style="color:green;">Feb 02,2017 14:33:41 [Verification]  Verified that Expected value :[12/31/2019] is matched with Actual value :[12/31/2019]</span>
+Feb 02,2017 14:33:50 [info]  Clicked on the ''Save' Button at Media Rights Edit window' using JS Executor
+Feb 02,2017 14:33:54 [info]  Verify The data of Validation message
+<span style="color:green;">Feb 02,2017 14:33:54 [Verification]  Verified that Expected value :[Changes Saved Successfully.] is matched with Actual value :[Changes Saved Successfully. The Filter has been updated to reflect your changes.]</span>
+Feb 02,2017 14:33:55 [info]  Clicked on the ''Close' Button at Media Rights Edit window' using JS Executor
+Feb 02,2017 14:33:58 [info]  Test 'preRequisites' PASSED
+Feb 02,2017 14:33:59 [info]  Closed the Browser
+Feb 02,2017 18:12:40 [info]  ********************Started Executiong the Test Suite at 18:12:40******************
+Feb 02,2017 18:12:40 [info]  Client: VMN
+Feb 02,2017 18:12:40 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Feb 02,2017 18:12:40 [info]  *********************Started Executing 'MediaRightsTermEventUI' Test Case*********************
+Feb 02,2017 18:12:51 [info]  Client: VMN
+Feb 02,2017 18:12:51 [info]  URL: http://cgptwb01/Home.aspx
+Feb 02,2017 18:12:51 [info]  UserName: automation
+Feb 02,2017 18:12:51 [info]  Password: automation
+Feb 02,2017 18:12:57 [info]  Entered "automation" in field 'User Name'
+Feb 02,2017 18:12:57 [info]  Clicked on the 'Temporary Check Box'
+Feb 02,2017 18:12:57 [info]  Entered "automation" in field 'Password'
+Feb 02,2017 18:13:10 [info]  Clicked on the 'LoginButton'
+<span style="color:blue;"> [Manual Test Step]  Manual Test Step : DTC_RI_Term Events_4.5_S1_1</span>
+Feb 02,2017 18:13:28 [info]  Double clicked on 'AUT_Deal_TC1_0202201715754Deal'
+Feb 02,2017 18:13:31 [info]  Clicked on the 'Media Rights TAB'
+Feb 02,2017 18:13:34 [info]  Clicked on the 'Edit Button'
+Feb 02,2017 18:13:43 [info]  Clicked on the ''Add' Button at Media Rights Edit window' using JS Executor
+Feb 02,2017 18:13:46 [info]  
+Feb 02,2017 18:13:46 [info]  ----------Enter the data in all Fields of Media Rights in Row:1
+Feb 02,2017 18:13:46 [info]  ----------Enter the data in "*Property" Field of Media Rights 
+Feb 02,2017 18:13:48 [info]  Double clicked on 'RI_MediaRights_EditMode_Property'
+Feb 02,2017 18:13:50 [info]  Clicked on the '*PropertyDrop Down Image'
+Feb 02,2017 18:13:50 [info]  Clicked on the 'All'
+Feb 02,2017 18:13:54 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Feb 02,2017 18:13:54 [info]  Verify The data of RI_MediaRights_EditMode_*Property
+<span style="color:green;">Feb 02,2017 18:13:54 [Verification]  Verified that Expected value :[All] is matched with Actual value :[All]</span>
+Feb 02,2017 18:13:54 [info]  ----------Enter the data in "*Rights (incl. Media)" Field of Media Rights 
+Feb 02,2017 18:13:56 [info]  Double clicked on 'RI_MediaRights_EditMode_Rights (incl. Media)'
+Feb 02,2017 18:13:58 [info]  Clicked on the '*Rights (incl. Media)Drop Down Image'
+Feb 02,2017 18:13:58 [info]  Clicked on the 'All Media'
+Feb 02,2017 18:14:01 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Feb 02,2017 18:14:02 [info]  Verify The data of RI_MediaRights_EditMode_*Rights (incl. Media)
+<span style="color:green;">Feb 02,2017 18:14:02 [Verification]  Verified that Expected value :[All Media] is matched with Actual value :[All Media]</span>
+Feb 02,2017 18:14:02 [info]  ----------Enter the data in "*Usage Rights" Field of Media Rights 
+Feb 02,2017 18:14:04 [info]  Double clicked on 'RI_MediaRights_EditMode_Usage Rights'
+Feb 02,2017 18:14:06 [info]  Clicked on the '*Usage RightsDrop Down Image'
+Feb 02,2017 18:14:06 [info]  Clicked on the 'Full Length'
+Feb 02,2017 18:14:09 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Feb 02,2017 18:14:09 [info]  Verify The data of RI_MediaRights_EditMode_*Usage Rights
+<span style="color:green;">Feb 02,2017 18:14:09 [Verification]  Verified that Expected value :[Full Length] is matched with Actual value :[Full Length]</span>
+Feb 02,2017 18:14:09 [info]  ----------Enter the data in "*Outlets" Field of Media Rights 
+Feb 02,2017 18:14:11 [info]  Double clicked on 'RI_MediaRights_EditMode_Outlets'
+Feb 02,2017 18:14:14 [info]  Clicked on the '*OutletsDrop Down Image'
+Feb 02,2017 18:14:14 [info]  Clicked on the 'All Outlets'
+Feb 02,2017 18:14:17 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Feb 02,2017 18:14:17 [info]  Verify The data of RI_MediaRights_EditMode_*Outlets
+<span style="color:green;">Feb 02,2017 18:14:17 [Verification]  Verified that Expected value :[All Outlets] is matched with Actual value :[All Outlets]</span>
+Feb 02,2017 18:14:17 [info]  ----------Enter the data in "*Territory" Field of Media Rights 
+Feb 02,2017 18:14:19 [info]  Double clicked on 'RI_MediaRights_EditMode_Territory'
+Feb 02,2017 18:14:21 [info]  Clicked on the '*TerritoryDrop Down Image'
+Feb 02,2017 18:14:22 [info]  Clicked on the 'All Worldwide'
+Feb 02,2017 18:14:25 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Feb 02,2017 18:14:25 [info]  Verify The data of RI_MediaRights_EditMode_*Territory
+<span style="color:green;">Feb 02,2017 18:14:25 [Verification]  Verified that Expected value :[All Worldwide] is matched with Actual value :[All Worldwide]</span>
+Feb 02,2017 18:14:25 [info]  ----------Enter the data in "*Language" Field of Media Rights 
+Feb 02,2017 18:14:27 [info]  Double clicked on 'RI_MediaRights_EditMode_Language'
+Feb 02,2017 18:14:29 [info]  Clicked on the '*LanguageDrop Down Image'
+Feb 02,2017 18:14:29 [info]  Clicked on the 'All Languages'
+Feb 02,2017 18:14:32 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Feb 02,2017 18:14:32 [info]  Verify The data of RI_MediaRights_EditMode_*Language
+<span style="color:green;">Feb 02,2017 18:14:32 [Verification]  Verified that Expected value :[All Languages] is matched with Actual value :[All Languages]</span>
+Feb 02,2017 18:14:33 [info]  Clicked on the 'Term From Field'
+Feb 02,2017 18:14:33 [info]  Entered "01/01/2017" in field 'Term From'
+Feb 02,2017 18:14:33 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Feb 02,2017 18:14:33 [info]  Verify The data of Term From Data
+<span style="color:green;">Feb 02,2017 18:14:33 [Verification]  Verified that Expected value :[01/01/2017] is matched with Actual value :[01/01/2017]</span>
+Feb 02,2017 18:14:33 [info]  Clicked on the 'Term To Field'
+Feb 02,2017 18:14:33 [info]  Entered "12/31/2019" in field 'Term To input Field'
+Feb 02,2017 18:14:34 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Feb 02,2017 18:14:34 [info]  Verify The data of Term From Data
+<span style="color:green;">Feb 02,2017 18:14:34 [Verification]  Verified that Expected value :[12/31/2019] is matched with Actual value :[12/31/2019]</span>
+Feb 02,2017 18:14:39 [info]  Clicked on the ''Save' Button at Media Rights Edit window' using JS Executor
+Feb 02,2017 18:14:42 [info]  Verify The data of Validation message
+<span style="color:red;">Feb 02,2017 18:14:42 [Fail]  ====Failed==== Expected value is:[Changes Saved Successfully.] but Actual value is[Please enter values for required(*) fields.]. Please check the screenshot with name: Validation messagefor more details</span>
+Feb 02,2017 18:14:47 [info]  Double clicked on 'Term Event Icon'
+Feb 02,2017 18:15:03 [info]  Verify The data of Duration Label
+<span style="color:green;">Feb 02,2017 18:15:03 [Verification]  Verified that Expected value :[Duration] is matched with Actual value :[Duration]</span>
+Feb 02,2017 18:15:03 [info]  Verify The data of Perpetuity Label
+<span style="color:green;">Feb 02,2017 18:15:03 [Verification]  Verified that Expected value :[Perpetuity] is matched with Actual value :[Perpetuity]</span>
+Feb 02,2017 18:15:03 [info]  Verify The data of CommencingOn Label
+<span style="color:red;">Feb 02,2017 18:15:03 [Fail]  ====Failed==== Expected value is:[Commencing on] but Actual value is[Commencing on]. Please check the screenshot with name: CommencingOn Labelfor more details</span>
+Feb 02,2017 18:15:03 [info]  Verify The data of EndingOn Label
+<span style="color:green;">Feb 02,2017 18:15:03 [Verification]  Verified that Expected value :[Ending on] is matched with Actual value :[Ending on]</span>
+Feb 02,2017 18:15:03 [info]  Verify The data of RI_TERMEvent_OK
+<span style="color:red;">Feb 02,2017 18:15:03 [Fail]  ====Failed==== Expected value is:[OK] but Actual value is[]. Please check the screenshot with name: RI_TERMEvent_OKfor more details</span>
+Feb 02,2017 18:15:04 [info]  Verify The data of RI_TERMEvent_Cancel
+<span style="color:red;">Feb 02,2017 18:15:04 [Fail]  ====Failed==== Expected value is:[Cancel] but Actual value is[]. Please check the screenshot with name: RI_TERMEvent_Cancelfor more details</span>
+Feb 02,2017 18:15:04 [info]  ************Check the available fields in duration frame******
+Feb 02,2017 18:15:04 [info]  Clicked on the ''Close' Button at Media Rights Edit window' using JS Executor
+Feb 02,2017 18:15:07 [info]  Test 'MediaRightsTermEventUI' PASSED
+Feb 02,2017 18:15:08 [info]  Closed the Browser
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 18:27:04******************</span>
+Feb 02,2017 18:27:04 [info]  Client: VMN
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************</span>
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing 'preRequisites' Test Case*********************</span>
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 20:15:38******************</span>
+Feb 02,2017 20:15:38 [info]  Client: VMN
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************</span>
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing 'MediaRightsTermEventUI' Test Case*********************</span>
+Feb 02,2017 20:15:50 [info]  Client: VMN
+Feb 02,2017 20:15:50 [info]  URL: http://cgptwb01/Home.aspx
+Feb 02,2017 20:15:50 [info]  UserName: automation
+Feb 02,2017 20:15:50 [info]  Password: automation
+Feb 02,2017 20:15:52 [info]  Entered "automation" in field 'User Name'
+Feb 02,2017 20:15:52 [info]  Clicked on the 'Temporary Check Box'
+Feb 02,2017 20:15:53 [info]  Entered "automation" in field 'Password'
+Feb 02,2017 20:16:02 [info]  Clicked on the 'LoginButton'
+<span style="color:blue;"> [Manual Test Step]  Manual Test Step : DTC_RI_Term Events_4.5_S1_1</span>
+Feb 02,2017 20:16:16 [info]  Double clicked on 'AUT_Deal_TC1_0202201715754Deal'
+Feb 02,2017 20:16:20 [info]  Clicked on the 'Media Rights TAB'
+Feb 02,2017 20:16:25 [info]  Clicked on the 'Edit Button'
+Feb 02,2017 20:17:12 [info]  Double clicked on 'Term Event Icon'
+Feb 02,2017 20:17:36 [info]  Verify The data of Duration Label
+<span style="color:red;">Feb 02,2017 20:17:36 [Fail]  ====Failed==== Expected value is:[Duration] but Actual value is[]. Please check the screenshot with name: Duration Labelfor more details</span>
+Feb 02,2017 20:19:14 [info]  Verify The data of Duration Label
+<span style="color:green;">Feb 02,2017 20:19:14 [Verification]  Verified that Expected value :[Duration] is matched with Actual value :[Duration]</span>
+Feb 02,2017 20:19:14 [info]  Verify The data of Perpetuity Label
+<span style="color:green;">Feb 02,2017 20:19:14 [Verification]  Verified that Expected value :[Perpetuity] is matched with Actual value :[Perpetuity]</span>
+Feb 02,2017 20:19:30 [info]  Verify The data of CommencingOn Label
+<span style="color:red;">Feb 02,2017 20:19:30 [Fail]  ====Failed==== Expected value is:[Commencing on] but Actual value is[]. Please check the screenshot with name: CommencingOn Labelfor more details</span>
+Feb 02,2017 20:19:30 [info]  Verify The data of EndingOn Label
+<span style="color:green;">Feb 02,2017 20:19:30 [Verification]  Verified that Expected value :[Ending on] is matched with Actual value :[Ending on]</span>
+Feb 02,2017 20:19:30 [info]  Verify The data of RI_TERMEvent_OK
+<span style="color:green;">Feb 02,2017 20:19:30 [Verification]  Verified that Expected value :[OK] is matched with Actual value :[OK]</span>
+Feb 02,2017 20:19:30 [info]  Verify The data of RI_TERMEvent_Cancel
+<span style="color:green;">Feb 02,2017 20:19:30 [Verification]  Verified that Expected value :[Cancel] is matched with Actual value :[Cancel]</span>
+Feb 02,2017 20:19:45 [info]  Verify The data of Duration Label
+<span style="color:green;">Feb 02,2017 20:19:45 [Verification]  Verified that Expected value :[Duration] is matched with Actual value :[Duration]</span>
+Feb 02,2017 20:19:45 [info]  Verify The data of Perpetuity Label
+<span style="color:green;">Feb 02,2017 20:19:45 [Verification]  Verified that Expected value :[Perpetuity] is matched with Actual value :[Perpetuity]</span>
+Feb 02,2017 20:19:45 [info]  Verify The data of CommencingOn Label
+<span style="color:green;">Feb 02,2017 20:19:45 [Verification]  Verified that Expected value :[Commencing on] is matched with Actual value :[Commencing on]</span>
+Feb 02,2017 20:19:45 [info]  Verify The data of EndingOn Label
+<span style="color:green;">Feb 02,2017 20:19:45 [Verification]  Verified that Expected value :[Ending on] is matched with Actual value :[Ending on]</span>
+Feb 02,2017 20:19:45 [info]  Verify The data of RI_TERMEvent_OK
+<span style="color:green;">Feb 02,2017 20:19:45 [Verification]  Verified that Expected value :[OK] is matched with Actual value :[OK]</span>
+Feb 02,2017 20:19:45 [info]  Verify The data of RI_TERMEvent_Cancel
+<span style="color:green;">Feb 02,2017 20:19:45 [Verification]  Verified that Expected value :[Cancel] is matched with Actual value :[Cancel]</span>
+<span style="color:blue;"> [Manual Test Step]  ************Check the available fields in Duration frame******</span>
+Feb 02,2017 20:19:51 [info]  "DurationInputField" is Present
+Feb 02,2017 20:19:51 [info]  "DurationDropDownField" is Present
+Feb 02,2017 20:19:51 [info]  "DurationOperatorField" is Present
+Feb 02,2017 20:19:51 [info]  "AddlDurationField" is Present
+Feb 02,2017 20:19:51 [info]  "AddlDurationPeriodDropDown" is Present
+Feb 02,2017 20:19:51 [info]  "PerpetuityCheckBox" is Present
+<span style="color:blue;"> [Manual Test Step]  ************Check the available fields in Commencing on frame******</span>
+Feb 02,2017 20:20:00 [info]  "StartDateLabel" is Present
+Feb 02,2017 20:20:00 [info]  "StartDateDurationOperatorDropDown" is Present
+Feb 02,2017 20:20:00 [info]  "StartDateAddlDurationField" is Present
+Feb 02,2017 20:20:00 [info]  "AddlDurationPeriod" is Present
+<span style="color:blue;"> [Manual Test Step]  ************Check the available Headers in Start Event frame******</span>
+Feb 02,2017 20:20:12 [info]  Verify The data of Event
+<span style="color:green;">Feb 02,2017 20:20:12 [Verification]  Verified that Expected value :[Event] is matched with Actual value :[Event]</span>
+Feb 02,2017 20:20:13 [info]  Verify The data of Operator
+<span style="color:green;">Feb 02,2017 20:20:13 [Verification]  Verified that Expected value :[Operator] is matched with Actual value :[Operator]</span>
+Feb 02,2017 20:20:13 [info]  Verify The data of Number
+<span style="color:green;">Feb 02,2017 20:20:13 [Verification]  Verified that Expected value :[Number] is matched with Actual value :[Number]</span>
+Feb 02,2017 20:20:13 [info]  Verify The data of Period
+<span style="color:green;">Feb 02,2017 20:20:13 [Verification]  Verified that Expected value :[Period] is matched with Actual value :[Period]</span>
+<span style="color:blue;"> [Manual Test Step]  ************Check the available Headers in Start Deal frame******</span>
+Feb 02,2017 20:20:21 [info]  Verify The data of DateHeader
+<span style="color:green;">Feb 02,2017 20:20:21 [Verification]  Verified that Expected value :[Date] is matched with Actual value :[Date]</span>
+Feb 02,2017 20:20:21 [info]  Verify The data of DealNameHeader
+<span style="color:green;">Feb 02,2017 20:20:21 [Verification]  Verified that Expected value :[Deal Name] is matched with Actual value :[Deal Name]</span>
+Feb 02,2017 20:20:21 [info]  Verify The data of MRRowHeader
+<span style="color:green;">Feb 02,2017 20:20:21 [Verification]  Verified that Expected value :[MR Row] is matched with Actual value :[MR Row]</span>
+Feb 02,2017 20:20:21 [info]  Verify The data of Operator Header
+<span style="color:green;">Feb 02,2017 20:20:21 [Verification]  Verified that Expected value :[Operator] is matched with Actual value :[Operator]</span>
+Feb 02,2017 20:20:26 [info]  "WhichEverComesLabel" is Present
+Feb 02,2017 20:20:26 [info]  "ButNoLaterLabel" is Present
+Feb 02,2017 20:20:26 [info]  "EstimatedDateLabel" is Present
+Feb 02,2017 20:20:26 [info]  "StartDateUnKnownLabel" is Present
+<span style="color:blue;"> [Manual Test Step]  ************Verify the Default values of Start Deal Fields******</span>
+Feb 02,2017 20:20:38 [info]  Verify The data of Deal Name at 'Start Deal'
+<span style="color:green;">Feb 02,2017 20:20:38 [Verification]  Verified that Expected value :[AUT_Deal_TC1_0202201715754] is matched with Actual value :[AUT_Deal_TC1_0202201715754]</span>
+Feb 02,2017 20:20:39 [info]  Verify The data of Deal Date at 'Start Deal'
+<span style="color:green;">Feb 02,2017 20:20:39 [Verification]  Verified that Expected value :[Start Date] is matched with Actual value :[Start Date]</span>
+<span style="color:blue;"> [Manual Test Step]  ************Check the available fields in Ending on frame******</span>
+Feb 02,2017 20:20:44 [info]  "EnddateLabel" is Present
+Feb 02,2017 20:20:44 [info]  "EndDateDurationOperatorDropDown" is Present
+Feb 02,2017 20:20:44 [info]  "EndDateAddlDurationField" is Present
+Feb 02,2017 20:20:44 [info]  "AddlDurationPeriod" is Present
+<span style="color:blue;"> [Manual Test Step]  ************Check the available Headers in End Event frame******</span>
+Feb 02,2017 20:20:48 [info]  Verify The data of Event
+<span style="color:green;">Feb 02,2017 20:20:48 [Verification]  Verified that Expected value :[Event] is matched with Actual value :[Event]</span>
+Feb 02,2017 20:20:48 [info]  Verify The data of Operator
+<span style="color:green;">Feb 02,2017 20:20:48 [Verification]  Verified that Expected value :[Operator] is matched with Actual value :[Operator]</span>
+Feb 02,2017 20:20:48 [info]  Verify The data of Number
+<span style="color:green;">Feb 02,2017 20:20:48 [Verification]  Verified that Expected value :[Number] is matched with Actual value :[Number]</span>
+Feb 02,2017 20:20:48 [info]  Verify The data of Period
+<span style="color:green;">Feb 02,2017 20:20:48 [Verification]  Verified that Expected value :[Period] is matched with Actual value :[Period]</span>
+<span style="color:blue;"> [Manual Test Step]  ************Check the available Headers in End Deal frame******</span>
+Feb 02,2017 20:20:52 [info]  Verify The data of DateHeader
+<span style="color:green;">Feb 02,2017 20:20:52 [Verification]  Verified that Expected value :[Date] is matched with Actual value :[Date]</span>
+Feb 02,2017 20:20:52 [info]  Verify The data of DealNameHeader
+<span style="color:green;">Feb 02,2017 20:20:52 [Verification]  Verified that Expected value :[Deal Name] is matched with Actual value :[Deal Name]</span>
+Feb 02,2017 20:20:53 [info]  Verify The data of MRRowHeader
+<span style="color:green;">Feb 02,2017 20:20:53 [Verification]  Verified that Expected value :[MR Row] is matched with Actual value :[MR Row]</span>
+Feb 02,2017 20:20:53 [info]  Verify The data of Operator Header
+<span style="color:green;">Feb 02,2017 20:20:53 [Verification]  Verified that Expected value :[Operator] is matched with Actual value :[Operator]</span>
+Feb 02,2017 20:20:57 [info]  "WhichEverComesLabel" is Present
+Feb 02,2017 20:20:57 [info]  "ButNoLaterLabel" is Present
+Feb 02,2017 20:20:57 [info]  "EstimatedDateLabel" is Present
+Feb 02,2017 20:20:57 [info]  "StartDateUnKnownLabel" is Present
+<span style="color:blue;"> [Manual Test Step]  ************Verify the Default values of End Deal Fields******</span>
+Feb 02,2017 20:21:07 [info]  Verify The data of Deal Name at 'End Deal'
+<span style="color:green;">Feb 02,2017 20:21:07 [Verification]  Verified that Expected value :[AUT_Deal_TC1_0202201715754] is matched with Actual value :[AUT_Deal_TC1_0202201715754]</span>
+Feb 02,2017 20:21:07 [info]  Verify The data of Deal Date at 'End Deal'
+<span style="color:red;">Feb 02,2017 20:21:07 [Fail]  ====Failed==== Expected value is:[End Date] but Actual value is[Start Date]. Please check the screenshot with name: Deal Date at 'End Deal'for more details</span>
+Feb 02,2017 20:21:08 [info]  Clicked on the 'Operator Field of Start Event'
+Feb 02,2017 20:21:15 [info]  Verify The data of Operator Plus
+<span style="color:green;">Feb 02,2017 20:21:15 [Verification]  Verified that Expected value :[Plus] is matched with Actual value :[Plus]</span>
+Feb 02,2017 20:21:15 [info]  Verify The data of Operator Minus
+<span style="color:green;">Feb 02,2017 20:21:15 [Verification]  Verified that Expected value :[Minus] is matched with Actual value :[Minus]</span>
+Feb 02,2017 20:23:42 [info]  Clicked on the 'Operator Field of Start Event'
+Feb 02,2017 20:23:42 [info]  Clicked on the 'Operator Field of Start Event'
+Feb 02,2017 20:23:42 [info]  Verify The data of Operator Plus
+<span style="color:green;">Feb 02,2017 20:23:42 [Verification]  Verified that Expected value :[Plus] is matched with Actual value :[Plus]</span>
+Feb 02,2017 20:23:42 [info]  Verify The data of Operator Minus
+<span style="color:green;">Feb 02,2017 20:23:42 [Verification]  Verified that Expected value :[Minus] is matched with Actual value :[Minus]</span>
+Feb 02,2017 20:23:48 [info]  Clicked on the 'Period Field of Start Event'
+Feb 02,2017 20:23:48 [info]  Clicked on the 'Operator Field of Start Event'
+Feb 02,2017 20:23:48 [info]  Clicked on the 'Period Field of Start Event'
+Feb 02,2017 20:23:58 [info]  Verify The data of Day
+<span style="color:red;">Feb 02,2017 20:23:58 [Fail]  ====Failed==== Expected value is:[Day(s)] but Actual value is[]. Please check the screenshot with name: Dayfor more details</span>
+Feb 02,2017 20:24:08 [info]  Verify The data of Day
+<span style="color:red;">Feb 02,2017 20:24:08 [Fail]  ====Failed==== Expected value is:[Week(s)] but Actual value is[]. Please check the screenshot with name: Dayfor more details</span>
+Feb 02,2017 20:24:18 [info]  Verify The data of Day
+<span style="color:red;">Feb 02,2017 20:24:18 [Fail]  ====Failed==== Expected value is:[Month(s)] but Actual value is[]. Please check the screenshot with name: Dayfor more details</span>
+Feb 02,2017 20:24:19 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:24:19 [Verification]  Verified that Expected value :[Year(s)] is matched with Actual value :[Year(s)]</span>
+Feb 02,2017 20:25:19 [info]  Clicked on the 'Period Field of Start Event'
+Feb 02,2017 20:25:19 [info]  Clicked on the 'Period Field of Start Event'
+Feb 02,2017 20:25:19 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:25:19 [Verification]  Verified that Expected value :[Day(s)] is matched with Actual value :[Day(s)]</span>
+Feb 02,2017 20:25:19 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:25:19 [Verification]  Verified that Expected value :[Week(s)] is matched with Actual value :[Week(s)]</span>
+Feb 02,2017 20:25:19 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:25:19 [Verification]  Verified that Expected value :[Month(s)] is matched with Actual value :[Month(s)]</span>
+Feb 02,2017 20:25:19 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:25:19 [Verification]  Verified that Expected value :[Year(s)] is matched with Actual value :[Year(s)]</span>
+Feb 02,2017 20:25:52 [info]  Clicked on the 'Number Field of Start Event'
+<span style="color:red;">Feb 02,2017 20:31:11 [Fail]  ====Failed==== "Number Field of Start Event" field is not present'</span>
+Feb 02,2017 20:31:12 [info]  Clicked on the 'Number Field of Start Event'
+Feb 02,2017 20:31:17 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:17 [Verification]  Verified that Expected value :[1] is matched with Actual value :[1]</span>
+Feb 02,2017 20:31:23 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:23 [Verification]  Verified that Expected value :[2] is matched with Actual value :[2]</span>
+Feb 02,2017 20:31:23 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:23 [Verification]  Verified that Expected value :[3] is matched with Actual value :[3]</span>
+Feb 02,2017 20:31:23 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:23 [Verification]  Verified that Expected value :[4] is matched with Actual value :[4]</span>
+Feb 02,2017 20:31:23 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:23 [Verification]  Verified that Expected value :[5] is matched with Actual value :[5]</span>
+Feb 02,2017 20:31:23 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:23 [Verification]  Verified that Expected value :[6] is matched with Actual value :[6]</span>
+Feb 02,2017 20:31:23 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:23 [Verification]  Verified that Expected value :[7] is matched with Actual value :[7]</span>
+Feb 02,2017 20:31:23 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:23 [Verification]  Verified that Expected value :[8] is matched with Actual value :[8]</span>
+Feb 02,2017 20:31:23 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:23 [Verification]  Verified that Expected value :[9] is matched with Actual value :[9]</span>
+Feb 02,2017 20:31:23 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:23 [Verification]  Verified that Expected value :[10] is matched with Actual value :[10]</span>
+Feb 02,2017 20:31:24 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:24 [Verification]  Verified that Expected value :[11] is matched with Actual value :[11]</span>
+Feb 02,2017 20:31:24 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:24 [Verification]  Verified that Expected value :[12] is matched with Actual value :[12]</span>
+Feb 02,2017 20:31:24 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:24 [Verification]  Verified that Expected value :[13] is matched with Actual value :[13]</span>
+Feb 02,2017 20:31:24 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:24 [Verification]  Verified that Expected value :[14] is matched with Actual value :[14]</span>
+Feb 02,2017 20:31:24 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:24 [Verification]  Verified that Expected value :[15] is matched with Actual value :[15]</span>
+Feb 02,2017 20:31:24 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:24 [Verification]  Verified that Expected value :[16] is matched with Actual value :[16]</span>
+Feb 02,2017 20:31:24 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:24 [Verification]  Verified that Expected value :[17] is matched with Actual value :[17]</span>
+Feb 02,2017 20:31:24 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:24 [Verification]  Verified that Expected value :[18] is matched with Actual value :[18]</span>
+Feb 02,2017 20:31:24 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:24 [Verification]  Verified that Expected value :[19] is matched with Actual value :[19]</span>
+Feb 02,2017 20:31:24 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:24 [Verification]  Verified that Expected value :[20] is matched with Actual value :[20]</span>
+Feb 02,2017 20:31:24 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:24 [Verification]  Verified that Expected value :[21] is matched with Actual value :[21]</span>
+Feb 02,2017 20:31:25 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:25 [Verification]  Verified that Expected value :[22] is matched with Actual value :[22]</span>
+Feb 02,2017 20:31:25 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:25 [Verification]  Verified that Expected value :[23] is matched with Actual value :[23]</span>
+Feb 02,2017 20:31:25 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:25 [Verification]  Verified that Expected value :[24] is matched with Actual value :[24]</span>
+Feb 02,2017 20:31:25 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:25 [Verification]  Verified that Expected value :[25] is matched with Actual value :[25]</span>
+Feb 02,2017 20:31:25 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:25 [Verification]  Verified that Expected value :[26] is matched with Actual value :[26]</span>
+Feb 02,2017 20:31:25 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:25 [Verification]  Verified that Expected value :[27] is matched with Actual value :[27]</span>
+Feb 02,2017 20:31:25 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:25 [Verification]  Verified that Expected value :[28] is matched with Actual value :[28]</span>
+Feb 02,2017 20:31:25 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:25 [Verification]  Verified that Expected value :[29] is matched with Actual value :[29]</span>
+Feb 02,2017 20:31:25 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:25 [Verification]  Verified that Expected value :[30] is matched with Actual value :[30]</span>
+Feb 02,2017 20:31:25 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:25 [Verification]  Verified that Expected value :[31] is matched with Actual value :[31]</span>
+Feb 02,2017 20:31:25 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:25 [Verification]  Verified that Expected value :[32] is matched with Actual value :[32]</span>
+Feb 02,2017 20:31:26 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:26 [Verification]  Verified that Expected value :[33] is matched with Actual value :[33]</span>
+Feb 02,2017 20:31:26 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:26 [Verification]  Verified that Expected value :[34] is matched with Actual value :[34]</span>
+Feb 02,2017 20:31:26 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:26 [Verification]  Verified that Expected value :[35] is matched with Actual value :[35]</span>
+Feb 02,2017 20:31:26 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:26 [Verification]  Verified that Expected value :[36] is matched with Actual value :[36]</span>
+Feb 02,2017 20:31:26 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:26 [Verification]  Verified that Expected value :[37] is matched with Actual value :[37]</span>
+Feb 02,2017 20:31:26 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:26 [Verification]  Verified that Expected value :[38] is matched with Actual value :[38]</span>
+Feb 02,2017 20:31:26 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:26 [Verification]  Verified that Expected value :[39] is matched with Actual value :[39]</span>
+Feb 02,2017 20:31:26 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:26 [Verification]  Verified that Expected value :[40] is matched with Actual value :[40]</span>
+Feb 02,2017 20:31:26 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:26 [Verification]  Verified that Expected value :[41] is matched with Actual value :[41]</span>
+Feb 02,2017 20:31:26 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:26 [Verification]  Verified that Expected value :[42] is matched with Actual value :[42]</span>
+Feb 02,2017 20:31:26 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:26 [Verification]  Verified that Expected value :[43] is matched with Actual value :[43]</span>
+Feb 02,2017 20:31:27 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:27 [Verification]  Verified that Expected value :[44] is matched with Actual value :[44]</span>
+Feb 02,2017 20:31:27 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:27 [Verification]  Verified that Expected value :[45] is matched with Actual value :[45]</span>
+Feb 02,2017 20:31:27 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:27 [Verification]  Verified that Expected value :[46] is matched with Actual value :[46]</span>
+Feb 02,2017 20:31:27 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:27 [Verification]  Verified that Expected value :[47] is matched with Actual value :[47]</span>
+Feb 02,2017 20:31:27 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:27 [Verification]  Verified that Expected value :[48] is matched with Actual value :[48]</span>
+Feb 02,2017 20:31:27 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:27 [Verification]  Verified that Expected value :[49] is matched with Actual value :[49]</span>
+Feb 02,2017 20:31:27 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:27 [Verification]  Verified that Expected value :[50] is matched with Actual value :[50]</span>
+Feb 02,2017 20:31:27 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:27 [Verification]  Verified that Expected value :[51] is matched with Actual value :[51]</span>
+Feb 02,2017 20:31:27 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:27 [Verification]  Verified that Expected value :[52] is matched with Actual value :[52]</span>
+Feb 02,2017 20:31:27 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:27 [Verification]  Verified that Expected value :[53] is matched with Actual value :[53]</span>
+Feb 02,2017 20:31:27 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:27 [Verification]  Verified that Expected value :[54] is matched with Actual value :[54]</span>
+Feb 02,2017 20:31:27 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:27 [Verification]  Verified that Expected value :[55] is matched with Actual value :[55]</span>
+Feb 02,2017 20:31:28 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:28 [Verification]  Verified that Expected value :[56] is matched with Actual value :[56]</span>
+Feb 02,2017 20:31:28 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:28 [Verification]  Verified that Expected value :[57] is matched with Actual value :[57]</span>
+Feb 02,2017 20:31:28 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:28 [Verification]  Verified that Expected value :[58] is matched with Actual value :[58]</span>
+Feb 02,2017 20:31:28 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:28 [Verification]  Verified that Expected value :[59] is matched with Actual value :[59]</span>
+Feb 02,2017 20:31:28 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:28 [Verification]  Verified that Expected value :[60] is matched with Actual value :[60]</span>
+Feb 02,2017 20:31:28 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:28 [Verification]  Verified that Expected value :[61] is matched with Actual value :[61]</span>
+Feb 02,2017 20:31:28 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:28 [Verification]  Verified that Expected value :[62] is matched with Actual value :[62]</span>
+Feb 02,2017 20:31:28 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:28 [Verification]  Verified that Expected value :[63] is matched with Actual value :[63]</span>
+Feb 02,2017 20:31:28 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:28 [Verification]  Verified that Expected value :[64] is matched with Actual value :[64]</span>
+Feb 02,2017 20:31:28 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:28 [Verification]  Verified that Expected value :[65] is matched with Actual value :[65]</span>
+Feb 02,2017 20:31:28 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:28 [Verification]  Verified that Expected value :[66] is matched with Actual value :[66]</span>
+Feb 02,2017 20:31:29 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:29 [Verification]  Verified that Expected value :[67] is matched with Actual value :[67]</span>
+Feb 02,2017 20:31:29 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:29 [Verification]  Verified that Expected value :[68] is matched with Actual value :[68]</span>
+Feb 02,2017 20:31:29 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:29 [Verification]  Verified that Expected value :[69] is matched with Actual value :[69]</span>
+Feb 02,2017 20:31:29 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:29 [Verification]  Verified that Expected value :[70] is matched with Actual value :[70]</span>
+Feb 02,2017 20:31:29 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:29 [Verification]  Verified that Expected value :[71] is matched with Actual value :[71]</span>
+Feb 02,2017 20:31:29 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:29 [Verification]  Verified that Expected value :[72] is matched with Actual value :[72]</span>
+Feb 02,2017 20:31:29 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:29 [Verification]  Verified that Expected value :[73] is matched with Actual value :[73]</span>
+Feb 02,2017 20:31:29 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:29 [Verification]  Verified that Expected value :[74] is matched with Actual value :[74]</span>
+Feb 02,2017 20:31:29 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:29 [Verification]  Verified that Expected value :[75] is matched with Actual value :[75]</span>
+Feb 02,2017 20:31:29 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:29 [Verification]  Verified that Expected value :[76] is matched with Actual value :[76]</span>
+Feb 02,2017 20:31:29 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:29 [Verification]  Verified that Expected value :[77] is matched with Actual value :[77]</span>
+Feb 02,2017 20:31:30 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:30 [Verification]  Verified that Expected value :[78] is matched with Actual value :[78]</span>
+Feb 02,2017 20:31:30 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:30 [Verification]  Verified that Expected value :[79] is matched with Actual value :[79]</span>
+Feb 02,2017 20:31:30 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:30 [Verification]  Verified that Expected value :[80] is matched with Actual value :[80]</span>
+Feb 02,2017 20:31:30 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:30 [Verification]  Verified that Expected value :[81] is matched with Actual value :[81]</span>
+Feb 02,2017 20:31:30 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:30 [Verification]  Verified that Expected value :[82] is matched with Actual value :[82]</span>
+Feb 02,2017 20:31:30 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:30 [Verification]  Verified that Expected value :[83] is matched with Actual value :[83]</span>
+Feb 02,2017 20:31:30 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:30 [Verification]  Verified that Expected value :[84] is matched with Actual value :[84]</span>
+Feb 02,2017 20:31:30 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:30 [Verification]  Verified that Expected value :[85] is matched with Actual value :[85]</span>
+Feb 02,2017 20:31:30 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:30 [Verification]  Verified that Expected value :[86] is matched with Actual value :[86]</span>
+Feb 02,2017 20:31:30 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:30 [Verification]  Verified that Expected value :[87] is matched with Actual value :[87]</span>
+Feb 02,2017 20:31:30 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:30 [Verification]  Verified that Expected value :[88] is matched with Actual value :[88]</span>
+Feb 02,2017 20:31:31 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:31 [Verification]  Verified that Expected value :[89] is matched with Actual value :[89]</span>
+Feb 02,2017 20:31:31 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:31 [Verification]  Verified that Expected value :[90] is matched with Actual value :[90]</span>
+Feb 02,2017 20:31:31 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:31 [Verification]  Verified that Expected value :[91] is matched with Actual value :[91]</span>
+Feb 02,2017 20:31:31 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:31 [Verification]  Verified that Expected value :[92] is matched with Actual value :[92]</span>
+Feb 02,2017 20:31:31 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:31 [Verification]  Verified that Expected value :[93] is matched with Actual value :[93]</span>
+Feb 02,2017 20:31:31 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:31 [Verification]  Verified that Expected value :[94] is matched with Actual value :[94]</span>
+Feb 02,2017 20:31:31 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:31 [Verification]  Verified that Expected value :[95] is matched with Actual value :[95]</span>
+Feb 02,2017 20:31:31 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:31 [Verification]  Verified that Expected value :[96] is matched with Actual value :[96]</span>
+Feb 02,2017 20:31:31 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:31 [Verification]  Verified that Expected value :[97] is matched with Actual value :[97]</span>
+Feb 02,2017 20:31:31 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:31 [Verification]  Verified that Expected value :[98] is matched with Actual value :[98]</span>
+Feb 02,2017 20:31:31 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:31 [Verification]  Verified that Expected value :[99] is matched with Actual value :[99]</span>
+Feb 02,2017 20:31:32 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:32 [Verification]  Verified that Expected value :[100] is matched with Actual value :[100]</span>
+Feb 02,2017 20:31:32 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:32 [Verification]  Verified that Expected value :[101] is matched with Actual value :[101]</span>
+Feb 02,2017 20:31:32 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:32 [Verification]  Verified that Expected value :[102] is matched with Actual value :[102]</span>
+Feb 02,2017 20:31:32 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:32 [Verification]  Verified that Expected value :[103] is matched with Actual value :[103]</span>
+Feb 02,2017 20:31:32 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:32 [Verification]  Verified that Expected value :[104] is matched with Actual value :[104]</span>
+Feb 02,2017 20:31:32 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:32 [Verification]  Verified that Expected value :[105] is matched with Actual value :[105]</span>
+Feb 02,2017 20:31:32 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:32 [Verification]  Verified that Expected value :[106] is matched with Actual value :[106]</span>
+Feb 02,2017 20:31:32 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:32 [Verification]  Verified that Expected value :[107] is matched with Actual value :[107]</span>
+Feb 02,2017 20:31:32 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:32 [Verification]  Verified that Expected value :[108] is matched with Actual value :[108]</span>
+Feb 02,2017 20:31:32 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:32 [Verification]  Verified that Expected value :[109] is matched with Actual value :[109]</span>
+Feb 02,2017 20:31:32 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:32 [Verification]  Verified that Expected value :[110] is matched with Actual value :[110]</span>
+Feb 02,2017 20:31:32 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:32 [Verification]  Verified that Expected value :[111] is matched with Actual value :[111]</span>
+Feb 02,2017 20:31:33 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:33 [Verification]  Verified that Expected value :[112] is matched with Actual value :[112]</span>
+Feb 02,2017 20:31:33 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:33 [Verification]  Verified that Expected value :[113] is matched with Actual value :[113]</span>
+Feb 02,2017 20:31:33 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:33 [Verification]  Verified that Expected value :[114] is matched with Actual value :[114]</span>
+Feb 02,2017 20:31:33 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:33 [Verification]  Verified that Expected value :[115] is matched with Actual value :[115]</span>
+Feb 02,2017 20:31:33 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:33 [Verification]  Verified that Expected value :[116] is matched with Actual value :[116]</span>
+Feb 02,2017 20:31:33 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:33 [Verification]  Verified that Expected value :[117] is matched with Actual value :[117]</span>
+Feb 02,2017 20:31:33 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:33 [Verification]  Verified that Expected value :[118] is matched with Actual value :[118]</span>
+Feb 02,2017 20:31:33 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:33 [Verification]  Verified that Expected value :[119] is matched with Actual value :[119]</span>
+Feb 02,2017 20:31:33 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:33 [Verification]  Verified that Expected value :[120] is matched with Actual value :[120]</span>
+Feb 02,2017 20:31:33 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:33 [Verification]  Verified that Expected value :[121] is matched with Actual value :[121]</span>
+Feb 02,2017 20:31:34 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:34 [Verification]  Verified that Expected value :[122] is matched with Actual value :[122]</span>
+Feb 02,2017 20:31:34 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:34 [Verification]  Verified that Expected value :[123] is matched with Actual value :[123]</span>
+Feb 02,2017 20:31:34 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:34 [Verification]  Verified that Expected value :[124] is matched with Actual value :[124]</span>
+Feb 02,2017 20:31:34 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:34 [Verification]  Verified that Expected value :[125] is matched with Actual value :[125]</span>
+Feb 02,2017 20:31:34 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:34 [Verification]  Verified that Expected value :[126] is matched with Actual value :[126]</span>
+Feb 02,2017 20:31:34 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:34 [Verification]  Verified that Expected value :[127] is matched with Actual value :[127]</span>
+Feb 02,2017 20:31:34 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:34 [Verification]  Verified that Expected value :[128] is matched with Actual value :[128]</span>
+Feb 02,2017 20:31:34 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:34 [Verification]  Verified that Expected value :[129] is matched with Actual value :[129]</span>
+Feb 02,2017 20:31:34 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:34 [Verification]  Verified that Expected value :[130] is matched with Actual value :[130]</span>
+Feb 02,2017 20:31:34 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:34 [Verification]  Verified that Expected value :[131] is matched with Actual value :[131]</span>
+Feb 02,2017 20:31:34 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:34 [Verification]  Verified that Expected value :[132] is matched with Actual value :[132]</span>
+Feb 02,2017 20:31:34 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:34 [Verification]  Verified that Expected value :[133] is matched with Actual value :[133]</span>
+Feb 02,2017 20:31:35 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:35 [Verification]  Verified that Expected value :[134] is matched with Actual value :[134]</span>
+Feb 02,2017 20:31:35 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:35 [Verification]  Verified that Expected value :[135] is matched with Actual value :[135]</span>
+Feb 02,2017 20:31:35 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:35 [Verification]  Verified that Expected value :[136] is matched with Actual value :[136]</span>
+Feb 02,2017 20:31:35 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:35 [Verification]  Verified that Expected value :[137] is matched with Actual value :[137]</span>
+Feb 02,2017 20:31:35 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:35 [Verification]  Verified that Expected value :[138] is matched with Actual value :[138]</span>
+Feb 02,2017 20:31:35 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:35 [Verification]  Verified that Expected value :[139] is matched with Actual value :[139]</span>
+Feb 02,2017 20:31:35 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:35 [Verification]  Verified that Expected value :[140] is matched with Actual value :[140]</span>
+Feb 02,2017 20:31:35 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:35 [Verification]  Verified that Expected value :[141] is matched with Actual value :[141]</span>
+Feb 02,2017 20:31:35 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:35 [Verification]  Verified that Expected value :[142] is matched with Actual value :[142]</span>
+Feb 02,2017 20:31:35 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:35 [Verification]  Verified that Expected value :[143] is matched with Actual value :[143]</span>
+Feb 02,2017 20:31:35 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:35 [Verification]  Verified that Expected value :[144] is matched with Actual value :[144]</span>
+Feb 02,2017 20:31:35 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:35 [Verification]  Verified that Expected value :[145] is matched with Actual value :[145]</span>
+Feb 02,2017 20:31:36 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:36 [Verification]  Verified that Expected value :[146] is matched with Actual value :[146]</span>
+Feb 02,2017 20:31:36 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:36 [Verification]  Verified that Expected value :[147] is matched with Actual value :[147]</span>
+Feb 02,2017 20:31:36 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:36 [Verification]  Verified that Expected value :[148] is matched with Actual value :[148]</span>
+Feb 02,2017 20:31:36 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:36 [Verification]  Verified that Expected value :[149] is matched with Actual value :[149]</span>
+Feb 02,2017 20:31:36 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:36 [Verification]  Verified that Expected value :[150] is matched with Actual value :[150]</span>
+Feb 02,2017 20:31:36 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:36 [Verification]  Verified that Expected value :[151] is matched with Actual value :[151]</span>
+Feb 02,2017 20:31:36 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:36 [Verification]  Verified that Expected value :[152] is matched with Actual value :[152]</span>
+Feb 02,2017 20:31:36 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:36 [Verification]  Verified that Expected value :[153] is matched with Actual value :[153]</span>
+Feb 02,2017 20:31:36 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:36 [Verification]  Verified that Expected value :[154] is matched with Actual value :[154]</span>
+Feb 02,2017 20:31:36 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:36 [Verification]  Verified that Expected value :[155] is matched with Actual value :[155]</span>
+Feb 02,2017 20:31:36 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:36 [Verification]  Verified that Expected value :[156] is matched with Actual value :[156]</span>
+Feb 02,2017 20:31:37 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:37 [Verification]  Verified that Expected value :[157] is matched with Actual value :[157]</span>
+Feb 02,2017 20:31:37 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:37 [Verification]  Verified that Expected value :[158] is matched with Actual value :[158]</span>
+Feb 02,2017 20:31:37 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:37 [Verification]  Verified that Expected value :[159] is matched with Actual value :[159]</span>
+Feb 02,2017 20:31:37 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:37 [Verification]  Verified that Expected value :[160] is matched with Actual value :[160]</span>
+Feb 02,2017 20:31:37 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:37 [Verification]  Verified that Expected value :[161] is matched with Actual value :[161]</span>
+Feb 02,2017 20:31:37 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:37 [Verification]  Verified that Expected value :[162] is matched with Actual value :[162]</span>
+Feb 02,2017 20:31:37 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:37 [Verification]  Verified that Expected value :[163] is matched with Actual value :[163]</span>
+Feb 02,2017 20:31:37 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:37 [Verification]  Verified that Expected value :[164] is matched with Actual value :[164]</span>
+Feb 02,2017 20:31:37 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:37 [Verification]  Verified that Expected value :[165] is matched with Actual value :[165]</span>
+Feb 02,2017 20:31:37 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:37 [Verification]  Verified that Expected value :[166] is matched with Actual value :[166]</span>
+Feb 02,2017 20:31:37 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:37 [Verification]  Verified that Expected value :[167] is matched with Actual value :[167]</span>
+Feb 02,2017 20:31:37 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:37 [Verification]  Verified that Expected value :[168] is matched with Actual value :[168]</span>
+Feb 02,2017 20:31:38 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:38 [Verification]  Verified that Expected value :[169] is matched with Actual value :[169]</span>
+Feb 02,2017 20:31:38 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:38 [Verification]  Verified that Expected value :[170] is matched with Actual value :[170]</span>
+Feb 02,2017 20:31:38 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:38 [Verification]  Verified that Expected value :[171] is matched with Actual value :[171]</span>
+Feb 02,2017 20:31:38 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:38 [Verification]  Verified that Expected value :[172] is matched with Actual value :[172]</span>
+Feb 02,2017 20:31:38 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:38 [Verification]  Verified that Expected value :[173] is matched with Actual value :[173]</span>
+Feb 02,2017 20:31:38 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:38 [Verification]  Verified that Expected value :[174] is matched with Actual value :[174]</span>
+Feb 02,2017 20:31:38 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:38 [Verification]  Verified that Expected value :[175] is matched with Actual value :[175]</span>
+Feb 02,2017 20:31:38 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:38 [Verification]  Verified that Expected value :[176] is matched with Actual value :[176]</span>
+Feb 02,2017 20:31:38 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:38 [Verification]  Verified that Expected value :[177] is matched with Actual value :[177]</span>
+Feb 02,2017 20:31:38 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:38 [Verification]  Verified that Expected value :[178] is matched with Actual value :[178]</span>
+Feb 02,2017 20:31:38 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:38 [Verification]  Verified that Expected value :[179] is matched with Actual value :[179]</span>
+Feb 02,2017 20:31:39 [info]  Verify The data of Day
+<span style="color:green;">Feb 02,2017 20:31:39 [Verification]  Verified that Expected value :[180] is matched with Actual value :[180]</span>
+Feb 02,2017 20:31:39 [info]  Clicked on the ''Close' Button at Media Rights Edit window' using JS Executor
+Feb 02,2017 20:31:42 [info]  Test 'MediaRightsTermEventUI' PASSED
+Feb 02,2017 20:31:43 [info]  Closed the Browser

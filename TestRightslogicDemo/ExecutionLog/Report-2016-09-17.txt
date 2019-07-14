@@ -1,0 +1,676 @@
+Sep 17,2016 00:28:11 [info]  ********************Started Executiong the Test Suite at 00:28:11******************
+Sep 17,2016 00:29:34 [info]  ********************Started Executiong the Test Suite at 00:29:34******************
+Sep 17,2016 00:29:34 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Sep 17,2016 00:29:34 [info]  *********************Started Executing 'TC1_DocumentUI' Test Case*********************
+Sep 17,2016 00:29:44 [info]  Client: AMCN
+Sep 17,2016 00:29:44 [info]  URL: http://rlv2wb79/login.aspx
+Sep 17,2016 00:29:44 [info]  UserName: automation
+Sep 17,2016 00:29:44 [info]  Password: automation
+Sep 17,2016 00:29:46 [info]  Entered "automation" in field 'User Name'
+Sep 17,2016 00:29:46 [info]  Clicked on the 'Temporary Check Box'
+Sep 17,2016 00:29:47 [info]  Entered "automation" in field 'Password'
+Sep 17,2016 00:29:56 [info]  Clicked on the 'LoginButton'
+Sep 17,2016 00:30:03 [info]  Clicked on the 'MODULE'
+Sep 17,2016 00:30:15 [info]  Clicked on the 'Asset Maintenance'
+Sep 17,2016 00:30:20 [info]  Clicked on the 'New Button' using JS Executor
+Sep 17,2016 00:30:20 [info]  Clicked on the 'Program' using JS Executor
+Sep 17,2016 00:30:30 [info]  Clicked on the 'General TAB'
+Sep 17,2016 00:30:33 [info]  Selected "Program - Series" in "AssetTypeDropDown" drop down
+Sep 17,2016 00:30:45 [info]  Entered "AUT_AssetSeries_09172016123002" in field 'AssetTitle'
+Sep 17,2016 00:30:54 [info]  Clicked on the 'Vendor Img Icon' using JS Executor
+Sep 17,2016 00:30:57 [info]  Entered "AMCN_Vendor1" in field 'SearchvalueVendor'
+Sep 17,2016 00:30:59 [info]  Clicked on the 'VendorWindowButtonfind' using JS Executor
+Sep 17,2016 00:31:02 [info]  Clicked on the 'VendorName At VendorWindow'
+Sep 17,2016 00:31:02 [info]  Clicked on the 'Vendor Select Button' using JS Executor
+Sep 17,2016 00:31:06 [info]  Clicked on the 'StudioImageIcon' using JS Executor
+Sep 17,2016 00:31:08 [info]  Verified that Expected value :[Studio] is matched with Actual value :[Studio]
+Sep 17,2016 00:31:10 [info]  Entered "AMCN_Studio" in field 'Studio Name'
+Sep 17,2016 00:31:10 [info]  Clicked on the 'Find Button' using JS Executor
+Sep 17,2016 00:31:12 [info]  Clicked on the 'Searched Studio: 'AMCN_Studio''
+Sep 17,2016 00:31:12 [info]  Clicked on the 'Select Button at Studio Window' using JS Executor
+Sep 17,2016 00:31:18 [info]  Clicked on the 'SBUImage' using JS Executor
+Sep 17,2016 00:31:20 [info]  Verified that Expected value :[Source Business Unit Template] is matched with Actual value :[Source Business Unit Template]
+Sep 17,2016 00:31:21 [info]  Clicked on the 'First CheckBox At SBU window'
+Sep 17,2016 00:31:21 [info]  Clicked on the 'Ninth CheckBox At SBU winodw'
+Sep 17,2016 00:31:23 [info]  Clicked on the 'Apply Button' using JS Executor
+Sep 17,2016 00:31:25 [info]  Entered "11:11:11" in field 'Duration'
+Sep 17,2016 00:31:26 [info]  Entered "Test" in field 'Short Name'
+Sep 17,2016 00:31:26 [info]  Selected "In Review" in "Asset Status" drop down
+Sep 17,2016 00:31:26 [info]  Selected "Licensed Acquired" in "Asset Source" drop down
+Sep 17,2016 00:31:37 [info]  Field Actual Run time does not exist.
+Sep 17,2016 00:31:37 [info]  Selected "TBD" in "Asset Category/Group" drop down
+Sep 17,2016 00:31:37 [info]  Clicked on the 'Genre Add Button' using JS Executor
+Sep 17,2016 00:31:38 [info]  Clicked on the 'Genre Type Row Field' using JS Executor
+Sep 17,2016 00:31:38 [info]  Clicked on the 'Genere Type Dropdown Image'
+Sep 17,2016 00:31:38 [info]  Clicked on the 'First Genere Type DropDown Value in the list'
+Sep 17,2016 00:31:39 [info]  Clicked on the 'Genre Row Field' using JS Executor
+Sep 17,2016 00:31:39 [info]  Clicked on the 'Genere Dropdown Image'
+Sep 17,2016 00:31:39 [info]  Clicked on the 'Genere Dropdown value'
+Sep 17,2016 00:31:40 [info]  Clicked on the 'Add Button of Note' using JS Executor
+Sep 17,2016 00:31:43 [info]  Entered "Medium" in field 'Asset Priority'
+Sep 17,2016 00:31:43 [info]  Entered "Subject For the Deal" in field 'Asset Subject'
+Sep 17,2016 00:31:44 [info]  Entered "New Asset" in field 'AssetNotes TextField'
+Sep 17,2016 00:31:45 [info]  Clicked on the 'OK button'
+Sep 17,2016 00:31:47 [info]  Clicked on the 'Save Button' using JS Executor
+Sep 17,2016 00:32:04 [info]  Verified that Expected value :[AUT_AssetSeries_09172016123002] is matched with Actual value :[AUT_AssetSeries_09172016123002]
+Sep 17,2016 00:32:05 [info]  Clicked on the 'MODULE'
+Sep 17,2016 00:32:16 [info]  Clicked on the 'Asset Maintenance'
+Sep 17,2016 00:32:21 [info]  Clicked on the 'Search Menu Icon' using JS Executor
+Sep 17,2016 00:32:21 [info]  Clicked on the 'AssetSearchUnderAsset' using JS Executor
+Sep 17,2016 00:32:38 [info]  Entered "AUT_AssetSeries_09172016123002" in field 'AssetTitle'
+Sep 17,2016 00:32:38 [info]  Clicked on the 'All Check Box' using JS Executor
+Sep 17,2016 00:32:39 [info]  Clicked on the 'Find Button' using JS Executor
+Sep 17,2016 00:33:04 [info]  Moved Mouse over 'First Asset in the Searched Asset'
+Sep 17,2016 00:33:04 [info]  Clicked on the 'First Asset in the Searched Asset'
+Sep 17,2016 00:33:07 [info]  Clicked on the 'View Asset' using JS Executor
+Sep 17,2016 00:33:25 [info]  Verified that Expected value :[AUT_AssetSeries_09172016123002] is matched with Actual value :[AUT_AssetSeries_09172016123002]
+Sep 17,2016 00:33:34 [info]  Clicked on the 'Episodes TAB'
+Sep 17,2016 00:33:37 [info]  Clicked on the ''Edit' Button at Episode window' using JS Executor
+Sep 17,2016 00:33:41 [info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Sep 17,2016 00:33:42 [info]  Entered "101" in field 'Add Episode input field'
+Sep 17,2016 00:33:42 [info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Sep 17,2016 00:33:45 [info]  Clicked on the 'Season Field of Episode101' using JS Executor
+Sep 17,2016 00:33:46 [info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Sep 17,2016 00:33:46 [info]  Clicked on the 'Season 1'
+Sep 17,2016 00:33:47 [info]  Clicked on the 'Support click to select season'
+Sep 17,2016 00:33:50 [info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Sep 17,2016 00:33:51 [info]  Entered "102" in field 'Add Episode input field'
+Sep 17,2016 00:33:51 [info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Sep 17,2016 00:33:54 [info]  Clicked on the 'Season Field of Episode102' using JS Executor
+Sep 17,2016 00:33:55 [info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Sep 17,2016 00:33:55 [info]  Clicked on the 'Season 1'
+Sep 17,2016 00:33:56 [info]  Clicked on the 'Support click to select season'
+Sep 17,2016 00:33:56 [info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Sep 17,2016 00:33:57 [info]  Entered "201" in field 'Add Episode input field'
+Sep 17,2016 00:33:57 [info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Sep 17,2016 00:34:01 [info]  Clicked on the 'Season Field of Episode201' using JS Executor
+Sep 17,2016 00:34:01 [info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Sep 17,2016 00:34:02 [info]  Clicked on the 'Season 2'
+Sep 17,2016 00:34:02 [info]  Clicked on the 'Support click to select season'
+Sep 17,2016 00:34:05 [info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Sep 17,2016 00:34:06 [info]  Entered "202" in field 'Add Episode input field'
+Sep 17,2016 00:34:06 [info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Sep 17,2016 00:34:12 [info]  Clicked on the 'Support click to select season'
+Sep 17,2016 00:34:12 [info]  Clicked on the 'Season Field of Episode201' using JS Executor
+Sep 17,2016 00:34:13 [info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Sep 17,2016 00:34:13 [info]  Clicked on the 'Season 2'
+Sep 17,2016 00:34:14 [info]  Clicked on the 'Support click to select season'
+Sep 17,2016 00:34:17 [info]  Clicked on the 'Save Button at 'Episode Edit Window'' using JS Executor
+Sep 17,2016 00:34:32 [info]  Clicked on the 'Close Button at 'Episode Edit Window'' using JS Executor
+Sep 17,2016 00:36:19 [info]  ====Failed==== Expected value is:[  Please enter Document Name.  ] but Actual value is[  Please enter Document.  ]. Please check the screenshot with name:   Please enter Document Name.  for more details
+Sep 17,2016 00:36:19 [info]  [Ljava.lang.StackTraceElement;@53331ebf
+Sep 17,2016 00:36:19 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Sep2016\\17\TC1_DocumentUI_CheckpointFailure_09-17-2016 12-36-19 AM.jpg
+Sep 17,2016 00:36:33 [info]  Alert message is Pass
+Sep 17,2016 00:36:33 [info]    RightsLogic Alert  
+    Please select at least one item from the tree before clicking on the Apply button.
+       
+Sep 17,2016 00:37:23 [info]  Test 'TC1_DocumentUI' FAILED
+Sep 17,2016 00:37:23 [info]  2
+Sep 17,2016 00:37:23 [info]  Test Case :TC1_DocumentUI's Screenshot of Failure Page: C:\SeleniumProject\Screenshots\Sep2016\\17\TC1_DocumentUI_09-17-2016 12-37-23 AM.jpg
+Sep 17,2016 00:37:25 [info]  Closed the Browser
+Sep 17,2016 00:37:25 [info]  *********************Started Executing 'TC2_DocumentOtherFileformat' Test Case*********************
+Sep 17,2016 00:37:34 [info]  Client: AMCN
+Sep 17,2016 00:37:34 [info]  URL: http://rlv2wb79/login.aspx
+Sep 17,2016 00:37:34 [info]  UserName: automation
+Sep 17,2016 00:37:34 [info]  Password: automation
+Sep 17,2016 00:37:35 [info]  Entered "automation" in field 'User Name'
+Sep 17,2016 00:37:35 [info]  Clicked on the 'Temporary Check Box'
+Sep 17,2016 00:37:36 [info]  Entered "automation" in field 'Password'
+Sep 17,2016 00:37:44 [info]  Clicked on the 'LoginButton'
+Sep 17,2016 00:37:51 [info]  Clicked on the 'MODULE'
+Sep 17,2016 00:38:04 [info]  Clicked on the 'Asset Maintenance'
+Sep 17,2016 00:38:07 [info]  Clicked on the 'New Button' using JS Executor
+Sep 17,2016 00:38:07 [info]  Clicked on the 'Program' using JS Executor
+Sep 17,2016 00:38:16 [info]  Clicked on the 'General TAB'
+Sep 17,2016 00:38:20 [info]  Selected "Program - Series" in "AssetTypeDropDown" drop down
+Sep 17,2016 00:38:31 [info]  Entered "AUT_AssetSeries_09172016123750" in field 'AssetTitle'
+Sep 17,2016 00:38:39 [info]  Clicked on the 'Vendor Img Icon' using JS Executor
+Sep 17,2016 00:38:41 [info]  Entered "AMCN_Vendor1" in field 'SearchvalueVendor'
+Sep 17,2016 00:38:43 [info]  Clicked on the 'VendorWindowButtonfind' using JS Executor
+Sep 17,2016 00:38:46 [info]  Clicked on the 'VendorName At VendorWindow'
+Sep 17,2016 00:38:46 [info]  Clicked on the 'Vendor Select Button' using JS Executor
+Sep 17,2016 00:38:50 [info]  Clicked on the 'StudioImageIcon' using JS Executor
+Sep 17,2016 00:38:51 [info]  Verified that Expected value :[Studio] is matched with Actual value :[Studio]
+Sep 17,2016 00:38:53 [info]  Entered "AMCN_Studio" in field 'Studio Name'
+Sep 17,2016 00:38:53 [info]  Clicked on the 'Find Button' using JS Executor
+Sep 17,2016 00:38:54 [info]  Clicked on the 'Searched Studio: 'AMCN_Studio''
+Sep 17,2016 00:38:55 [info]  Clicked on the 'Select Button at Studio Window' using JS Executor
+Sep 17,2016 00:39:01 [info]  Clicked on the 'SBUImage' using JS Executor
+Sep 17,2016 00:39:03 [info]  Verified that Expected value :[Source Business Unit Template] is matched with Actual value :[Source Business Unit Template]
+Sep 17,2016 00:39:03 [info]  Clicked on the 'First CheckBox At SBU window'
+Sep 17,2016 00:39:04 [info]  Clicked on the 'Ninth CheckBox At SBU winodw'
+Sep 17,2016 00:39:06 [info]  Clicked on the 'Apply Button' using JS Executor
+Sep 17,2016 00:39:07 [info]  Entered "11:11:11" in field 'Duration'
+Sep 17,2016 00:39:07 [info]  Entered "Test" in field 'Short Name'
+Sep 17,2016 00:39:07 [info]  Selected "In Review" in "Asset Status" drop down
+Sep 17,2016 00:39:08 [info]  Selected "Licensed Acquired" in "Asset Source" drop down
+Sep 17,2016 00:39:18 [info]  Field Actual Run time does not exist.
+Sep 17,2016 00:39:18 [info]  Selected "TBD" in "Asset Category/Group" drop down
+Sep 17,2016 00:39:18 [info]  Clicked on the 'Genre Add Button' using JS Executor
+Sep 17,2016 00:39:19 [info]  Clicked on the 'Genre Type Row Field' using JS Executor
+Sep 17,2016 00:39:19 [info]  Clicked on the 'Genere Type Dropdown Image'
+Sep 17,2016 00:39:19 [info]  Clicked on the 'First Genere Type DropDown Value in the list'
+Sep 17,2016 00:39:20 [info]  Clicked on the 'Genre Row Field' using JS Executor
+Sep 17,2016 00:39:20 [info]  Clicked on the 'Genere Dropdown Image'
+Sep 17,2016 00:39:20 [info]  Clicked on the 'Genere Dropdown value'
+Sep 17,2016 00:39:21 [info]  Clicked on the 'Add Button of Note' using JS Executor
+Sep 17,2016 00:39:23 [info]  Entered "Medium" in field 'Asset Priority'
+Sep 17,2016 00:39:24 [info]  Entered "Subject For the Deal" in field 'Asset Subject'
+Sep 17,2016 00:39:25 [info]  Entered "New Asset" in field 'AssetNotes TextField'
+Sep 17,2016 00:39:26 [info]  Clicked on the 'OK button'
+Sep 17,2016 00:39:28 [info]  Clicked on the 'Save Button' using JS Executor
+Sep 17,2016 00:39:42 [info]  Verified that Expected value :[AUT_AssetSeries_09172016123750] is matched with Actual value :[AUT_AssetSeries_09172016123750]
+Sep 17,2016 00:39:42 [info]  Clicked on the 'MODULE'
+Sep 17,2016 00:39:54 [info]  Clicked on the 'Asset Maintenance'
+Sep 17,2016 00:39:57 [info]  Clicked on the 'Search Menu Icon' using JS Executor
+Sep 17,2016 00:39:57 [info]  Clicked on the 'AssetSearchUnderAsset' using JS Executor
+Sep 17,2016 00:40:10 [info]  Entered "AUT_AssetSeries_09172016123750" in field 'AssetTitle'
+Sep 17,2016 00:40:10 [info]  Clicked on the 'All Check Box' using JS Executor
+Sep 17,2016 00:40:10 [info]  Clicked on the 'Find Button' using JS Executor
+Sep 17,2016 00:40:26 [info]  Moved Mouse over 'First Asset in the Searched Asset'
+Sep 17,2016 00:40:27 [info]  Clicked on the 'First Asset in the Searched Asset'
+Sep 17,2016 00:40:30 [info]  Clicked on the 'View Asset' using JS Executor
+Sep 17,2016 00:40:48 [info]  Verified that Expected value :[AUT_AssetSeries_09172016123750] is matched with Actual value :[AUT_AssetSeries_09172016123750]
+Sep 17,2016 00:40:56 [info]  Clicked on the 'Episodes TAB'
+Sep 17,2016 00:40:59 [info]  Clicked on the ''Edit' Button at Episode window' using JS Executor
+Sep 17,2016 00:41:02 [info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Sep 17,2016 00:41:03 [info]  Entered "101" in field 'Add Episode input field'
+Sep 17,2016 00:41:04 [info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Sep 17,2016 00:41:07 [info]  Clicked on the 'Season Field of Episode101' using JS Executor
+Sep 17,2016 00:41:08 [info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Sep 17,2016 00:41:08 [info]  Clicked on the 'Season 1'
+Sep 17,2016 00:41:09 [info]  Clicked on the 'Support click to select season'
+Sep 17,2016 00:41:12 [info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Sep 17,2016 00:41:13 [info]  Entered "102" in field 'Add Episode input field'
+Sep 17,2016 00:41:13 [info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Sep 17,2016 00:41:16 [info]  Clicked on the 'Season Field of Episode102' using JS Executor
+Sep 17,2016 00:41:17 [info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Sep 17,2016 00:41:17 [info]  Clicked on the 'Season 1'
+Sep 17,2016 00:41:18 [info]  Clicked on the 'Support click to select season'
+Sep 17,2016 00:41:18 [info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Sep 17,2016 00:41:19 [info]  Entered "201" in field 'Add Episode input field'
+Sep 17,2016 00:41:19 [info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Sep 17,2016 00:41:22 [info]  Clicked on the 'Season Field of Episode201' using JS Executor
+Sep 17,2016 00:41:23 [info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Sep 17,2016 00:41:24 [info]  Clicked on the 'Season 2'
+Sep 17,2016 00:41:24 [info]  Clicked on the 'Support click to select season'
+Sep 17,2016 00:41:27 [info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Sep 17,2016 00:41:28 [info]  Entered "202" in field 'Add Episode input field'
+Sep 17,2016 00:41:28 [info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Sep 17,2016 00:41:34 [info]  Clicked on the 'Support click to select season'
+Sep 17,2016 00:41:34 [info]  Clicked on the 'Season Field of Episode201' using JS Executor
+Sep 17,2016 00:41:35 [info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Sep 17,2016 00:41:35 [info]  Clicked on the 'Season 2'
+Sep 17,2016 00:41:36 [info]  Clicked on the 'Support click to select season'
+Sep 17,2016 00:41:39 [info]  Clicked on the 'Save Button at 'Episode Edit Window'' using JS Executor
+Sep 17,2016 00:41:52 [info]  Clicked on the 'Close Button at 'Episode Edit Window'' using JS Executor
+Sep 17,2016 03:43:08 [info]  Test 'TC2_DocumentOtherFileformat' FAILED
+Sep 17,2016 03:43:08 [info]  2
+Sep 17,2016 06:43:08 [info]  Test 'TC2_DocumentOtherFileformat' FAILED
+Sep 17,2016 06:43:08 [info]  2
+Sep 17,2016 12:36:35 [info]  ********************Started Executiong the Test Suite at 12:36:35******************
+Sep 17,2016 12:36:35 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Sep 17,2016 12:36:35 [info]  *********************Started Executing 'TC1_DocumentUI' Test Case*********************
+Sep 17,2016 12:36:45 [info]  Client: AMCN
+Sep 17,2016 12:36:45 [info]  URL: http://rlv2wb79/login.aspx
+Sep 17,2016 12:36:45 [info]  UserName: automation
+Sep 17,2016 12:36:45 [info]  Password: automation
+Sep 17,2016 12:36:46 [info]  Entered "automation" in field 'User Name'
+Sep 17,2016 12:36:46 [info]  Clicked on the 'Temporary Check Box'
+Sep 17,2016 12:36:47 [info]  Entered "automation" in field 'Password'
+Sep 17,2016 12:36:57 [info]  Clicked on the 'LoginButton'
+Sep 17,2016 12:37:03 [info]  *********************Start Testcase - TC1_DocumentUI *********************
+Sep 17,2016 12:37:03 [info]  AUT_AssetSeries_09172016123703
+Sep 17,2016 12:37:04 [info]  ************************Started Creating Asset of Type: Program - Series************************
+Sep 17,2016 12:37:05 [info]  Clicked on the 'MODULE'
+Sep 17,2016 12:37:18 [info]  Clicked on the 'Asset Maintenance'
+Sep 17,2016 12:37:26 [info]  Clicked on the 'New Button' using JS Executor
+Sep 17,2016 12:37:27 [info]  Clicked on the 'Program' using JS Executor
+Sep 17,2016 12:37:36 [info]  Clicked on the 'General TAB'
+Sep 17,2016 12:37:40 [info]  Selected "Program - Series" in "AssetTypeDropDown" drop down
+Sep 17,2016 12:37:51 [info]  Entered "AUT_AssetSeries_09172016123703" in field 'AssetTitle'
+Sep 17,2016 12:38:01 [info]  Clicked on the 'Vendor Img Icon' using JS Executor
+Sep 17,2016 12:38:03 [info]  Entered "AMCN_Vendor1" in field 'SearchvalueVendor'
+Sep 17,2016 12:38:05 [info]  Clicked on the 'VendorWindowButtonfind' using JS Executor
+Sep 17,2016 12:38:09 [info]  Clicked on the 'VendorName At VendorWindow'
+Sep 17,2016 12:38:09 [info]  Clicked on the 'Vendor Select Button' using JS Executor
+Sep 17,2016 12:38:13 [info]  Clicked on the 'StudioImageIcon' using JS Executor
+Sep 17,2016 12:38:15 [info]  Verified that Expected value :[Studio] is matched with Actual value :[Studio]
+Sep 17,2016 12:38:16 [info]  Entered "AMCN_Studio" in field 'Studio Name'
+Sep 17,2016 12:38:16 [info]  Clicked on the 'Find Button' using JS Executor
+Sep 17,2016 12:38:18 [info]  Clicked on the 'Searched Studio: 'AMCN_Studio''
+Sep 17,2016 12:38:18 [info]  Clicked on the 'Select Button at Studio Window' using JS Executor
+Sep 17,2016 12:38:25 [info]  Clicked on the 'SBUImage' using JS Executor
+Sep 17,2016 12:38:28 [info]  Verified that Expected value :[Source Business Unit Template] is matched with Actual value :[Source Business Unit Template]
+Sep 17,2016 12:38:28 [info]  Clicked on the ''Select All' CheckBox at SBU' using JS Executor
+Sep 17,2016 12:38:34 [info]  Clicked on the 'First CheckBox At SBU window'
+Sep 17,2016 12:38:35 [info]  Clicked on the 'Ninth CheckBox At SBU winodw'
+Sep 17,2016 12:38:37 [info]  Clicked on the 'Apply Button' using JS Executor
+Sep 17,2016 12:38:38 [info]  Entered "11:11:11" in field 'Duration'
+Sep 17,2016 12:38:49 [info]  Selected "Production" in "Asset Status" drop down
+Sep 17,2016 12:38:49 [info]  Selected "Licensed Acquired" in "Asset Source" drop down
+Sep 17,2016 12:38:50 [info]  Selected "TBD" in "Asset Category/Group" drop down
+Sep 17,2016 12:38:50 [info]  Entered "AUT_Series" in field 'Short Name'
+Sep 17,2016 12:38:51 [info]  Entered "Test" in field 'ProjectID'
+Sep 17,2016 12:38:51 [info]  Clicked on the 'Genre Add Button' using JS Executor
+Sep 17,2016 12:38:52 [info]  Clicked on the 'Genre Type Row Field' using JS Executor
+Sep 17,2016 12:38:52 [info]  Clicked on the 'Genere Type Dropdown Image'
+Sep 17,2016 12:38:52 [info]  Clicked on the 'First Genere Type DropDown Value in the list'
+Sep 17,2016 12:38:52 [info]  Clicked on the 'Genre Row Field' using JS Executor
+Sep 17,2016 12:38:53 [info]  Clicked on the 'Genere Dropdown Image'
+Sep 17,2016 12:38:53 [info]  Clicked on the 'Genere Dropdown value'
+Sep 17,2016 12:38:54 [info]  Clicked on the 'Add Button of Note' using JS Executor
+Sep 17,2016 12:38:56 [info]  Entered "Medium" in field 'Asset Priority'
+Sep 17,2016 12:38:57 [info]  Entered "Subject For the Deal" in field 'Asset Subject'
+Sep 17,2016 12:38:58 [info]  Entered "New Asset" in field 'AssetNotes TextField'
+Sep 17,2016 12:38:59 [info]  Clicked on the 'OK button'
+Sep 17,2016 12:39:01 [info]  Clicked on the 'Save Button' using JS Executor
+Sep 17,2016 12:39:17 [info]  Verified that Expected value :[AUT_AssetSeries_09172016123703] is matched with Actual value :[AUT_AssetSeries_09172016123703]
+Sep 17,2016 12:39:17 [info]  ************************Created Asset of TypeProgram - Series************************
+Sep 17,2016 12:39:19 [info]  Clicked on the 'MODULE'
+Sep 17,2016 12:39:30 [info]  Clicked on the 'Asset Maintenance'
+Sep 17,2016 12:39:34 [info]  Clicked on the 'Search Menu Icon' using JS Executor
+Sep 17,2016 12:39:35 [info]  Clicked on the 'AssetSearchUnderAsset' using JS Executor
+Sep 17,2016 12:39:54 [info]  Entered "AUT_AssetSeries_09172016123703" in field 'AssetTitle'
+Sep 17,2016 12:39:54 [info]  Clicked on the 'All Check Box' using JS Executor
+Sep 17,2016 12:39:55 [info]  Clicked on the 'Find Button' using JS Executor
+Sep 17,2016 12:40:20 [info]  Moved Mouse over 'First Asset in the Searched Asset'
+Sep 17,2016 12:40:20 [info]  Clicked on the 'First Asset in the Searched Asset'
+Sep 17,2016 12:40:23 [info]  Clicked on the 'View Asset' using JS Executor
+Sep 17,2016 12:40:41 [info]  Verified that Expected value :[AUT_AssetSeries_09172016123703] is matched with Actual value :[AUT_AssetSeries_09172016123703]
+Sep 17,2016 12:40:49 [info]  Clicked on the 'Episodes TAB'
+Sep 17,2016 12:40:53 [info]  Clicked on the ''Edit' Button at Episode window' using JS Executor
+Sep 17,2016 12:40:56 [info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Sep 17,2016 12:40:57 [info]  Entered "101" in field 'Add Episode input field'
+Sep 17,2016 12:40:58 [info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Sep 17,2016 12:41:01 [info]  Clicked on the 'Season Field of Episode101' using JS Executor
+Sep 17,2016 12:41:01 [info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Sep 17,2016 12:41:02 [info]  Clicked on the 'Season 1'
+Sep 17,2016 12:41:02 [info]  Clicked on the 'Support click to select season'
+Sep 17,2016 12:41:06 [info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Sep 17,2016 12:41:06 [info]  Entered "102" in field 'Add Episode input field'
+Sep 17,2016 12:41:07 [info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Sep 17,2016 12:41:10 [info]  Clicked on the 'Season Field of Episode102' using JS Executor
+Sep 17,2016 12:41:11 [info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Sep 17,2016 12:41:11 [info]  Clicked on the 'Season 1'
+Sep 17,2016 12:41:12 [info]  Clicked on the 'Support click to select season'
+Sep 17,2016 12:41:12 [info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Sep 17,2016 12:41:13 [info]  Entered "201" in field 'Add Episode input field'
+Sep 17,2016 12:41:13 [info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Sep 17,2016 12:41:16 [info]  Clicked on the 'Season Field of Episode201' using JS Executor
+Sep 17,2016 12:41:17 [info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Sep 17,2016 12:41:17 [info]  Clicked on the 'Season 2'
+Sep 17,2016 12:41:18 [info]  Clicked on the 'Support click to select season'
+Sep 17,2016 12:41:21 [info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Sep 17,2016 12:41:22 [info]  Entered "202" in field 'Add Episode input field'
+Sep 17,2016 12:41:22 [info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Sep 17,2016 12:41:28 [info]  Clicked on the 'Support click to select season'
+Sep 17,2016 12:41:28 [info]  Clicked on the 'Season Field of Episode201' using JS Executor
+Sep 17,2016 12:41:29 [info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Sep 17,2016 12:41:29 [info]  Clicked on the 'Season 2'
+Sep 17,2016 12:41:29 [info]  Clicked on the 'Support click to select season'
+Sep 17,2016 12:41:32 [info]  Clicked on the 'Save Button at 'Episode Edit Window'' using JS Executor
+Sep 17,2016 12:41:48 [info]  Clicked on the 'Close Button at 'Episode Edit Window'' using JS Executor
+Sep 17,2016 12:41:55 [info]  Clicked on the 'MODULE'
+Sep 17,2016 12:42:07 [info]  Clicked on the 'Asset Maintenance'
+Sep 17,2016 12:42:12 [info]  Clicked on the 'Search Menu Icon' using JS Executor
+Sep 17,2016 12:42:12 [info]  Clicked on the 'AssetSearchUnderAsset' using JS Executor
+Sep 17,2016 12:42:29 [info]  Entered "AUT_AssetSeries_09172016123703" in field 'AssetTitle'
+Sep 17,2016 12:42:30 [info]  Clicked on the 'All Check Box' using JS Executor
+Sep 17,2016 12:42:30 [info]  Clicked on the 'Find Button' using JS Executor
+Sep 17,2016 12:42:49 [info]  Moved Mouse over 'First Asset in the Searched Asset'
+Sep 17,2016 12:42:49 [info]  Clicked on the 'First Asset in the Searched Asset'
+Sep 17,2016 12:42:52 [info]  Clicked on the 'View Asset' using JS Executor
+Sep 17,2016 12:43:11 [info]  Verified that Expected value :[AUT_AssetSeries_09172016123703] is matched with Actual value :[AUT_AssetSeries_09172016123703]
+Sep 17,2016 12:43:14 [info]  Clicked on the 'Documents TAB'
+Sep 17,2016 12:44:49 [info]  Test 'TC1_DocumentUI' FAILED
+Sep 17,2016 12:44:49 [info]  2
+Sep 17,2016 12:44:49 [info]  Test Case :TC1_DocumentUI's Screenshot of Failure Page: C:\SeleniumProject\Screenshots\Sep2016\\17\TC1_DocumentUI_09-17-2016 12-44-49 PM.jpg
+Sep 17,2016 12:44:51 [info]  Closed the Browser
+Sep 17,2016 12:47:21 [info]  ********************Started Executiong the Test Suite at 12:47:21******************
+Sep 17,2016 12:47:21 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Sep 17,2016 12:47:21 [info]  *********************Started Executing 'TC1_DocumentUI' Test Case*********************
+Sep 17,2016 12:47:30 [info]  Client: AMCN
+Sep 17,2016 12:47:30 [info]  URL: http://rlv2wb79/login.aspx
+Sep 17,2016 12:47:30 [info]  UserName: automation
+Sep 17,2016 12:47:30 [info]  Password: automation
+Sep 17,2016 12:47:31 [info]  Entered "automation" in field 'User Name'
+Sep 17,2016 12:47:31 [info]  Clicked on the 'Temporary Check Box'
+Sep 17,2016 12:47:32 [info]  Entered "automation" in field 'Password'
+Sep 17,2016 12:47:40 [info]  Clicked on the 'LoginButton'
+Sep 17,2016 12:47:46 [info]  *********************Start Testcase - TC1_DocumentUI *********************
+Sep 17,2016 12:47:46 [info]  AUT_AssetSeries_09172016123703
+Sep 17,2016 12:47:47 [info]  ************************Started Creating Asset of Type: Program - Series************************
+Sep 17,2016 12:47:48 [info]  Clicked on the 'MODULE'
+Sep 17,2016 12:48:00 [info]  Clicked on the 'Asset Maintenance'
+Sep 17,2016 12:48:09 [info]  Clicked on the 'New Button' using JS Executor
+Sep 17,2016 12:48:10 [info]  Clicked on the 'Program' using JS Executor
+Sep 17,2016 12:48:20 [info]  Clicked on the 'General TAB'
+Sep 17,2016 12:48:23 [info]  Selected "Program - Series" in "AssetTypeDropDown" drop down
+Sep 17,2016 12:48:34 [info]  Entered "AUT_AssetSeries_09172016123703" in field 'AssetTitle'
+Sep 17,2016 12:48:44 [info]  Clicked on the 'Vendor Img Icon' using JS Executor
+Sep 17,2016 12:48:46 [info]  Entered "AMCN_Vendor1" in field 'SearchvalueVendor'
+Sep 17,2016 12:48:48 [info]  Clicked on the 'VendorWindowButtonfind' using JS Executor
+Sep 17,2016 12:48:50 [info]  Clicked on the 'VendorName At VendorWindow'
+Sep 17,2016 12:48:50 [info]  Clicked on the 'Vendor Select Button' using JS Executor
+Sep 17,2016 12:48:55 [info]  Clicked on the 'StudioImageIcon' using JS Executor
+Sep 17,2016 12:48:56 [info]  Verified that Expected value :[Studio] is matched with Actual value :[Studio]
+Sep 17,2016 12:48:58 [info]  Entered "AMCN_Studio" in field 'Studio Name'
+Sep 17,2016 12:48:58 [info]  Clicked on the 'Find Button' using JS Executor
+Sep 17,2016 12:48:59 [info]  Clicked on the 'Searched Studio: 'AMCN_Studio''
+Sep 17,2016 12:48:59 [info]  Clicked on the 'Select Button at Studio Window' using JS Executor
+Sep 17,2016 12:49:07 [info]  Clicked on the 'SBUImage' using JS Executor
+Sep 17,2016 12:49:08 [info]  Verified that Expected value :[Source Business Unit Template] is matched with Actual value :[Source Business Unit Template]
+Sep 17,2016 12:49:08 [info]  Clicked on the ''Select All' CheckBox at SBU' using JS Executor
+Sep 17,2016 12:49:15 [info]  Clicked on the 'First CheckBox At SBU window'
+Sep 17,2016 12:49:15 [info]  Clicked on the 'Ninth CheckBox At SBU winodw'
+Sep 17,2016 12:49:17 [info]  Clicked on the 'Apply Button' using JS Executor
+Sep 17,2016 12:49:18 [info]  Entered "11:11:11" in field 'Duration'
+Sep 17,2016 12:49:29 [info]  Selected "Production" in "Asset Status" drop down
+Sep 17,2016 12:49:29 [info]  Selected "Licensed Acquired" in "Asset Source" drop down
+Sep 17,2016 12:49:30 [info]  Selected "TBD" in "Asset Category/Group" drop down
+Sep 17,2016 12:49:31 [info]  Entered "AUT_Series" in field 'Short Name'
+Sep 17,2016 12:49:31 [info]  Entered "Test" in field 'ProjectID'
+Sep 17,2016 12:49:32 [info]  Clicked on the 'Genre Add Button' using JS Executor
+Sep 17,2016 12:49:32 [info]  Clicked on the 'Genre Type Row Field' using JS Executor
+Sep 17,2016 12:49:32 [info]  Clicked on the 'Genere Type Dropdown Image'
+Sep 17,2016 12:49:33 [info]  Clicked on the 'First Genere Type DropDown Value in the list'
+Sep 17,2016 12:49:33 [info]  Clicked on the 'Genre Row Field' using JS Executor
+Sep 17,2016 12:49:33 [info]  Clicked on the 'Genere Dropdown Image'
+Sep 17,2016 12:49:34 [info]  Clicked on the 'Genere Dropdown value'
+Sep 17,2016 12:49:34 [info]  Clicked on the 'Add Button of Note' using JS Executor
+Sep 17,2016 12:49:37 [info]  Entered "Medium" in field 'Asset Priority'
+Sep 17,2016 12:49:38 [info]  Entered "Subject For the Deal" in field 'Asset Subject'
+Sep 17,2016 12:49:38 [info]  Entered "New Asset" in field 'AssetNotes TextField'
+Sep 17,2016 12:49:39 [info]  Clicked on the 'OK button'
+Sep 17,2016 12:49:41 [info]  Clicked on the 'Save Button' using JS Executor
+Sep 17,2016 12:51:43 [info]  Test 'TC1_DocumentUI' FAILED
+Sep 17,2016 12:51:43 [info]  2
+Sep 17,2016 12:51:43 [info]  Test Case :TC1_DocumentUI's Screenshot of Failure Page: C:\SeleniumProject\Screenshots\Sep2016\\17\TC1_DocumentUI_09-17-2016 12-51-43 PM.jpg
+Sep 17,2016 12:51:44 [info]  Closed the Browser
+Sep 17,2016 12:53:25 [info]  ********************Started Executiong the Test Suite at 12:53:25******************
+Sep 17,2016 12:53:25 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Sep 17,2016 12:53:25 [info]  *********************Started Executing 'TC1_DocumentUI' Test Case*********************
+Sep 17,2016 12:53:35 [info]  Client: AMCN
+Sep 17,2016 12:53:35 [info]  URL: http://rlv2wb79/login.aspx
+Sep 17,2016 12:53:35 [info]  UserName: automation
+Sep 17,2016 12:53:35 [info]  Password: automation
+Sep 17,2016 12:53:36 [info]  Entered "automation" in field 'User Name'
+Sep 17,2016 12:53:36 [info]  Clicked on the 'Temporary Check Box'
+Sep 17,2016 12:53:37 [info]  Entered "automation" in field 'Password'
+Sep 17,2016 12:53:45 [info]  Clicked on the 'LoginButton'
+Sep 17,2016 12:53:51 [info]  AUT_AssetSeries_09172016123703
+Sep 17,2016 12:53:52 [info]  Clicked on the 'MODULE'
+Sep 17,2016 12:54:04 [info]  Clicked on the 'Asset Maintenance'
+Sep 17,2016 12:54:08 [info]  Clicked on the 'Search Menu Icon' using JS Executor
+Sep 17,2016 12:54:08 [info]  Clicked on the 'AssetSearchUnderAsset' using JS Executor
+Sep 17,2016 12:54:24 [info]  Entered "AUT_AssetSeries_09172016123703" in field 'AssetTitle'
+Sep 17,2016 12:54:24 [info]  Clicked on the 'All Check Box' using JS Executor
+Sep 17,2016 12:54:25 [info]  Clicked on the 'Find Button' using JS Executor
+Sep 17,2016 12:54:44 [info]  Moved Mouse over 'First Asset in the Searched Asset'
+Sep 17,2016 12:54:45 [info]  Clicked on the 'First Asset in the Searched Asset'
+Sep 17,2016 12:54:48 [info]  Clicked on the 'View Asset' using JS Executor
+Sep 17,2016 12:55:06 [info]  Verified that Expected value :[AUT_AssetSeries_09172016123703] is matched with Actual value :[AUT_AssetSeries_09172016123703]
+Sep 17,2016 12:55:09 [info]  Clicked on the 'Documents TAB'
+Sep 17,2016 12:55:13 [info]  ***********Verifying AllButtons Present on the Document TAB in view Mode***********
+Sep 17,2016 12:55:14 [info]  Verified that Expected value :[View Document] is matched with Actual value :[View Document]
+Sep 17,2016 12:55:14 [info]  Verified that Expected value :[Add...] is matched with Actual value :[Add...]
+Sep 17,2016 12:55:14 [info]  Verified that Expected value :[Edit Profile] is matched with Actual value :[Edit Profile]
+Sep 17,2016 12:55:14 [info]  Verified that Expected value :[Delete] is matched with Actual value :[Delete]
+Sep 17,2016 12:55:14 [info]  Verified that Expected value :[Edit Documents] is matched with Actual value :[Edit Documents]
+Sep 17,2016 12:55:24 [info]  ====Failed===="Applies TO" is not Present
+Sep 17,2016 12:55:24 [info]  ******Verifying the Fields and Buttons on the Add Document Window******
+Sep 17,2016 12:55:24 [info]  Clicked on the 'Document_AddDocumentButton' using JS Executor
+Sep 17,2016 12:55:28 [info]  Verified that Expected value :[*Applies To] is matched with Actual value :[*Applies To]
+Sep 17,2016 12:55:28 [info]  Verified that Expected value :[*Document Name] is matched with Actual value :[*Document Name]
+Sep 17,2016 12:55:28 [info]  Verified that Expected value :[*Document Type] is matched with Actual value :[*Document Type]
+Sep 17,2016 12:55:28 [info]  Verified that Expected value :[Document Date] is matched with Actual value :[Document Date]
+Sep 17,2016 12:55:29 [info]  Verified that Expected value :[Description] is matched with Actual value :[Description]
+Sep 17,2016 12:55:29 [info]  Buttons
+Sep 17,2016 12:55:29 [info]  =======
+Sep 17,2016 12:55:29 [info]  Save
+Sep 17,2016 12:55:29 [info]  Cancel
+Sep 17,2016 12:55:29 [info]  *****Verifying all Associated Assets
+Sep 17,2016 12:55:29 [info]  ====Failed==== Expected value is:[AUT_AssetSeries_09172016123703] but Actual value is[no element on the web Page]. Please check the screenshot with name: AUT_AssetSeries_09172016123703for more details
+Sep 17,2016 12:55:29 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Sep2016\\17\AUT_AssetSeries_09172016123703_CheckpointFailure_09-17-2016 12-55-29 PM.jpg
+Sep 17,2016 12:55:29 [info]  Test 'TC1_DocumentUI' FAILED
+Sep 17,2016 12:55:29 [info]  2
+Sep 17,2016 12:55:29 [info]  Test Case :TC1_DocumentUI's Screenshot of Failure Page: C:\SeleniumProject\Screenshots\Sep2016\\17\TC1_DocumentUI_09-17-2016 12-55-29 PM.jpg
+Sep 17,2016 12:55:30 [info]  Closed the Browser
+Sep 17,2016 12:59:35 [info]  ********************Started Executiong the Test Suite at 12:59:35******************
+Sep 17,2016 12:59:35 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Sep 17,2016 12:59:35 [info]  *********************Started Executing 'TC1_DocumentUI' Test Case*********************
+Sep 17,2016 12:59:44 [info]  Client: AMCN
+Sep 17,2016 12:59:44 [info]  URL: http://rlv2wb79/login.aspx
+Sep 17,2016 12:59:44 [info]  UserName: automation
+Sep 17,2016 12:59:44 [info]  Password: automation
+Sep 17,2016 12:59:45 [info]  Entered "automation" in field 'User Name'
+Sep 17,2016 12:59:46 [info]  Clicked on the 'Temporary Check Box'
+Sep 17,2016 12:59:46 [info]  Entered "automation" in field 'Password'
+Sep 17,2016 12:59:47 [info]  Clicked on the 'LoginButton'
+Sep 17,2016 12:59:53 [info]  AUT_AssetSeries_09172016123703
+Sep 17,2016 12:59:56 [info]  Clicked on the 'MODULE'
+Sep 17,2016 13:00:07 [info]  Clicked on the 'Asset Maintenance'
+Sep 17,2016 13:00:13 [info]  Clicked on the 'Search Menu Icon' using JS Executor
+Sep 17,2016 13:00:14 [info]  Clicked on the 'AssetSearchUnderAsset' using JS Executor
+Sep 17,2016 13:00:29 [info]  Entered "AUT_AssetSeries_09172016123703" in field 'AssetTitle'
+Sep 17,2016 13:00:30 [info]  Clicked on the 'All Check Box' using JS Executor
+Sep 17,2016 13:00:30 [info]  Clicked on the 'Find Button' using JS Executor
+Sep 17,2016 13:00:49 [info]  Moved Mouse over 'First Asset in the Searched Asset'
+Sep 17,2016 13:00:50 [info]  Clicked on the 'First Asset in the Searched Asset'
+Sep 17,2016 13:00:53 [info]  Clicked on the 'View Asset' using JS Executor
+Sep 17,2016 13:01:11 [info]  Verified that Expected value :[AUT_AssetSeries_09172016123703] is matched with Actual value :[AUT_AssetSeries_09172016123703]
+Sep 17,2016 13:01:13 [info]  Clicked on the 'Documents TAB'
+Sep 17,2016 13:01:17 [info]  ***********Verifying AllButtons Present on the Document TAB in view Mode***********
+Sep 17,2016 13:01:18 [info]  Verified that Expected value :[View Document] is matched with Actual value :[View Document]
+Sep 17,2016 13:01:18 [info]  Verified that Expected value :[Add...] is matched with Actual value :[Add...]
+Sep 17,2016 13:01:18 [info]  Verified that Expected value :[Edit Profile] is matched with Actual value :[Edit Profile]
+Sep 17,2016 13:01:18 [info]  Verified that Expected value :[Delete] is matched with Actual value :[Delete]
+Sep 17,2016 13:01:18 [info]  Verified that Expected value :[Edit Documents] is matched with Actual value :[Edit Documents]
+Sep 17,2016 13:01:28 [info]  ====Failed===="Applies TO" is not Present
+Sep 17,2016 13:01:28 [info]  ******Verifying the Fields and Buttons on the Add Document Window******
+Sep 17,2016 13:01:28 [info]  Clicked on the 'Document_AddDocumentButton' using JS Executor
+Sep 17,2016 13:01:32 [info]  Verified that Expected value :[*Applies To] is matched with Actual value :[*Applies To]
+Sep 17,2016 13:01:32 [info]  Verified that Expected value :[*Document Name] is matched with Actual value :[*Document Name]
+Sep 17,2016 13:01:32 [info]  Verified that Expected value :[*Document Type] is matched with Actual value :[*Document Type]
+Sep 17,2016 13:01:32 [info]  Verified that Expected value :[Document Date] is matched with Actual value :[Document Date]
+Sep 17,2016 13:01:33 [info]  Verified that Expected value :[Description] is matched with Actual value :[Description]
+Sep 17,2016 13:01:33 [info]  Buttons
+Sep 17,2016 13:01:33 [info]  =======
+Sep 17,2016 13:01:33 [info]  Save
+Sep 17,2016 13:01:33 [info]  Cancel
+Sep 17,2016 13:01:33 [info]  *****Verifying all Associated Assets
+Sep 17,2016 13:01:33 [info]  Verified that Expected value :[AUT_AssetSeries_09172016123703] is matched with Actual value :[AUT_AssetSeries_09172016123703]
+Sep 17,2016 13:01:33 [info]  Drop Down values of Applies TO DropDown Values
+Sep 17,2016 13:01:33 [info]  Actual Drop Down Values are: 
+[AUT_AssetSeries_09172016123703, Season 1, Ep.101: Episode101, Ep.102: Episode102, Season 2, Ep.201: Episode201, Ep.202: Episode202]
+Sep 17,2016 13:01:33 [info]  Expected Drop Down Values are: 
+[AUT_AssetSeries,    Season 1,       Ep.101: Episode101,       Ep.102: Episode102,    Season 2,       Ep.201: Episode201,       Ep.202: Episode202]
+Sep 17,2016 13:01:33 [info]  Total Number of Dropdown Valus in Applies TO DropDown Values:7
+Sep 17,2016 13:01:33 [info]  Test 'TC1_DocumentUI' FAILED
+Sep 17,2016 13:01:33 [info]  2
+Sep 17,2016 13:01:34 [info]  Test Case :TC1_DocumentUI's Screenshot of Failure Page: C:\SeleniumProject\Screenshots\Sep2016\\17\TC1_DocumentUI_09-17-2016 1-01-33 PM.jpg
+Sep 17,2016 13:01:35 [info]  Closed the Browser
+Sep 17,2016 13:11:48 [info]  ********************Started Executiong the Test Suite at 13:11:48******************
+Sep 17,2016 13:11:48 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Sep 17,2016 13:11:48 [info]  *********************Started Executing 'TC1_DocumentUI' Test Case*********************
+Sep 17,2016 13:11:58 [info]  Client: AMCN
+Sep 17,2016 13:11:58 [info]  URL: http://rlv2wb79/login.aspx
+Sep 17,2016 13:11:58 [info]  UserName: automation
+Sep 17,2016 13:11:58 [info]  Password: automation
+Sep 17,2016 13:11:59 [info]  Entered "automation" in field 'User Name'
+Sep 17,2016 13:11:59 [info]  Clicked on the 'Temporary Check Box'
+Sep 17,2016 13:12:00 [info]  Entered "automation" in field 'Password'
+Sep 17,2016 13:12:10 [info]  Clicked on the 'LoginButton'
+Sep 17,2016 13:12:16 [info]  AUT_AssetSeries_09172016123703
+Sep 17,2016 13:12:17 [info]  Clicked on the 'MODULE'
+Sep 17,2016 13:12:31 [info]  Clicked on the 'Asset Maintenance'
+Sep 17,2016 13:12:35 [info]  Clicked on the 'Search Menu Icon' using JS Executor
+Sep 17,2016 13:12:35 [info]  Clicked on the 'AssetSearchUnderAsset' using JS Executor
+Sep 17,2016 13:12:51 [info]  Entered "AUT_AssetSeries_09172016123703" in field 'AssetTitle'
+Sep 17,2016 13:12:51 [info]  Clicked on the 'All Check Box' using JS Executor
+Sep 17,2016 13:12:52 [info]  Clicked on the 'Find Button' using JS Executor
+Sep 17,2016 13:13:13 [info]  Moved Mouse over 'First Asset in the Searched Asset'
+Sep 17,2016 13:13:14 [info]  Clicked on the 'First Asset in the Searched Asset'
+Sep 17,2016 13:13:17 [info]  Clicked on the 'View Asset' using JS Executor
+Sep 17,2016 13:13:37 [info]  Verified that Expected value :[AUT_AssetSeries_09172016123703] is matched with Actual value :[AUT_AssetSeries_09172016123703]
+Sep 17,2016 13:13:39 [info]  Clicked on the 'Documents TAB'
+Sep 17,2016 13:13:43 [info]  ***********Verifying AllButtons Present on the Document TAB in view Mode***********
+Sep 17,2016 13:13:44 [info]  Verified that Expected value :[View Document] is matched with Actual value :[View Document]
+Sep 17,2016 13:13:45 [info]  Verified that Expected value :[Add...] is matched with Actual value :[Add...]
+Sep 17,2016 13:13:45 [info]  Verified that Expected value :[Edit Profile] is matched with Actual value :[Edit Profile]
+Sep 17,2016 13:13:45 [info]  Verified that Expected value :[Delete] is matched with Actual value :[Delete]
+Sep 17,2016 13:13:45 [info]  Verified that Expected value :[Edit Documents] is matched with Actual value :[Edit Documents]
+Sep 17,2016 13:13:55 [info]  ====Failed===="Applies TO" is not Present
+Sep 17,2016 13:13:55 [info]  ******Verifying the Fields and Buttons on the Add Document Window******
+Sep 17,2016 13:13:55 [info]  Clicked on the 'Document_AddDocumentButton' using JS Executor
+Sep 17,2016 13:13:59 [info]  Verified that Expected value :[*Applies To] is matched with Actual value :[*Applies To]
+Sep 17,2016 13:13:59 [info]  Verified that Expected value :[*Document Name] is matched with Actual value :[*Document Name]
+Sep 17,2016 13:13:59 [info]  Verified that Expected value :[*Document Type] is matched with Actual value :[*Document Type]
+Sep 17,2016 13:13:59 [info]  Verified that Expected value :[Document Date] is matched with Actual value :[Document Date]
+Sep 17,2016 13:13:59 [info]  Verified that Expected value :[Description] is matched with Actual value :[Description]
+Sep 17,2016 13:13:59 [info]  Buttons
+Sep 17,2016 13:13:59 [info]  =======
+Sep 17,2016 13:13:59 [info]  Save
+Sep 17,2016 13:13:59 [info]  Cancel
+Sep 17,2016 13:13:59 [info]  *****Verifying all Associated Assets
+Sep 17,2016 13:14:00 [info]  Verified that Expected value :[AUT_AssetSeries_09172016123703] is matched with Actual value :[AUT_AssetSeries_09172016123703]
+Sep 17,2016 13:14:00 [info]  Drop Down values of Applies TO DropDown Values
+Sep 17,2016 13:14:00 [info]  Actual Drop Down Values are: 
+[AUT_AssetSeries_09172016123703, Season 1, Ep.101: Episode101, Ep.102: Episode102, Season 2, Ep.201: Episode201, Ep.202: Episode202]
+Sep 17,2016 13:14:00 [info]  Expected Drop Down Values are: 
+[AUT_AssetSeries, Season 1, Ep.101: Episode101, Ep.102: Episode102, Season 2, Ep.201: Episode201, Ep.202: Episode202]
+Sep 17,2016 13:14:00 [info]  Total Number of Dropdown Valus in Applies TO DropDown Values:7
+Sep 17,2016 13:14:00 [info]  Test 'TC1_DocumentUI' FAILED
+Sep 17,2016 13:14:00 [info]  2
+Sep 17,2016 13:14:00 [info]  Test Case :TC1_DocumentUI's Screenshot of Failure Page: C:\SeleniumProject\Screenshots\Sep2016\\17\TC1_DocumentUI_09-17-2016 1-14-00 PM.jpg
+Sep 17,2016 13:14:01 [info]  Closed the Browser
+Sep 17,2016 13:16:48 [info]  ********************Started Executiong the Test Suite at 13:16:48******************
+Sep 17,2016 13:16:48 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Sep 17,2016 13:16:48 [info]  *********************Started Executing 'TC1_DocumentUI' Test Case*********************
+Sep 17,2016 13:16:57 [info]  Client: AMCN
+Sep 17,2016 13:16:57 [info]  URL: http://rlv2wb79/login.aspx
+Sep 17,2016 13:16:57 [info]  UserName: automation
+Sep 17,2016 13:16:57 [info]  Password: automation
+Sep 17,2016 13:16:58 [info]  Entered "automation" in field 'User Name'
+Sep 17,2016 13:16:58 [info]  Clicked on the 'Temporary Check Box'
+Sep 17,2016 13:16:59 [info]  Entered "automation" in field 'Password'
+Sep 17,2016 13:17:07 [info]  Clicked on the 'LoginButton'
+Sep 17,2016 13:17:13 [info]  AUT_AssetSeries_09172016123703
+Sep 17,2016 13:17:14 [info]  Clicked on the 'MODULE'
+Sep 17,2016 13:17:26 [info]  Clicked on the 'Asset Maintenance'
+Sep 17,2016 13:17:30 [info]  Clicked on the 'Search Menu Icon' using JS Executor
+Sep 17,2016 13:17:30 [info]  Clicked on the 'AssetSearchUnderAsset' using JS Executor
+Sep 17,2016 13:17:46 [info]  Entered "AUT_AssetSeries_09172016123703" in field 'AssetTitle'
+Sep 17,2016 13:17:46 [info]  Clicked on the 'All Check Box' using JS Executor
+Sep 17,2016 13:17:47 [info]  Clicked on the 'Find Button' using JS Executor
+Sep 17,2016 13:18:05 [info]  Moved Mouse over 'First Asset in the Searched Asset'
+Sep 17,2016 13:18:06 [info]  Clicked on the 'First Asset in the Searched Asset'
+Sep 17,2016 13:18:09 [info]  Clicked on the 'View Asset' using JS Executor
+Sep 17,2016 13:18:27 [info]  Verified that Expected value :[AUT_AssetSeries_09172016123703] is matched with Actual value :[AUT_AssetSeries_09172016123703]
+Sep 17,2016 13:18:29 [info]  Clicked on the 'Documents TAB'
+Sep 17,2016 13:18:33 [info]  ***********Verifying AllButtons Present on the Document TAB in view Mode***********
+Sep 17,2016 13:18:34 [info]  Verified that Expected value :[View Document] is matched with Actual value :[View Document]
+Sep 17,2016 13:18:34 [info]  Verified that Expected value :[Add...] is matched with Actual value :[Add...]
+Sep 17,2016 13:18:34 [info]  Verified that Expected value :[Edit Profile] is matched with Actual value :[Edit Profile]
+Sep 17,2016 13:18:34 [info]  Verified that Expected value :[Delete] is matched with Actual value :[Delete]
+Sep 17,2016 13:18:34 [info]  Verified that Expected value :[Edit Documents] is matched with Actual value :[Edit Documents]
+Sep 17,2016 13:18:45 [info]  ====Failed===="Applies TO" is not Present
+Sep 17,2016 13:18:45 [info]  ******Verifying the Fields and Buttons on the Add Document Window******
+Sep 17,2016 13:18:45 [info]  Clicked on the 'Document_AddDocumentButton' using JS Executor
+Sep 17,2016 13:18:48 [info]  Verified that Expected value :[*Applies To] is matched with Actual value :[*Applies To]
+Sep 17,2016 13:18:48 [info]  Verified that Expected value :[*Document Name] is matched with Actual value :[*Document Name]
+Sep 17,2016 13:18:48 [info]  Verified that Expected value :[*Document Type] is matched with Actual value :[*Document Type]
+Sep 17,2016 13:18:49 [info]  Verified that Expected value :[Document Date] is matched with Actual value :[Document Date]
+Sep 17,2016 13:18:49 [info]  Verified that Expected value :[Description] is matched with Actual value :[Description]
+Sep 17,2016 13:18:49 [info]  Buttons
+Sep 17,2016 13:18:49 [info]  =======
+Sep 17,2016 13:18:49 [info]  Save
+Sep 17,2016 13:18:49 [info]  Cancel
+Sep 17,2016 13:18:49 [info]  *****Verifying all Associated Assets
+Sep 17,2016 13:18:49 [info]  Verified that Expected value :[AUT_AssetSeries_09172016123703] is matched with Actual value :[AUT_AssetSeries_09172016123703]
+Sep 17,2016 13:18:50 [info]  Drop Down values of Applies TO DropDown Values
+Sep 17,2016 13:18:50 [info]  Actual Drop Down Values are: 
+[AUT_AssetSeries_09172016123703, Season 1, Ep.101: Episode101, Ep.102: Episode102, Season 2, Ep.201: Episode201, Ep.202: Episode202]
+Sep 17,2016 13:18:50 [info]  Expected Drop Down Values are: 
+[ AUT_AssetSeries_09172016123703, Season 1, Ep.101: Episode101, Ep.102: Episode102, Season 2, Ep.201: Episode201, Ep.202: Episode202]
+Sep 17,2016 13:18:50 [info]  Total Number of Dropdown Valus in Applies TO DropDown Values:7
+Sep 17,2016 13:18:50 [info]  Test 'TC1_DocumentUI' FAILED
+Sep 17,2016 13:18:50 [info]  2
+Sep 17,2016 13:18:50 [info]  Test Case :TC1_DocumentUI's Screenshot of Failure Page: C:\SeleniumProject\Screenshots\Sep2016\\17\TC1_DocumentUI_09-17-2016 1-18-50 PM.jpg
+Sep 17,2016 13:18:51 [info]  Closed the Browser
+Sep 17,2016 13:21:09 [info]  ********************Started Executiong the Test Suite at 13:21:09******************
+Sep 17,2016 13:21:09 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Sep 17,2016 13:21:09 [info]  *********************Started Executing 'TC1_DocumentUI' Test Case*********************
+Sep 17,2016 13:21:18 [info]  Client: AMCN
+Sep 17,2016 13:21:18 [info]  URL: http://rlv2wb79/login.aspx
+Sep 17,2016 13:21:18 [info]  UserName: automation
+Sep 17,2016 13:21:18 [info]  Password: automation
+Sep 17,2016 13:21:19 [info]  Entered "automation" in field 'User Name'
+Sep 17,2016 13:21:19 [info]  Clicked on the 'Temporary Check Box'
+Sep 17,2016 13:21:20 [info]  Entered "automation" in field 'Password'
+Sep 17,2016 13:21:28 [info]  Clicked on the 'LoginButton'
+Sep 17,2016 13:21:34 [info]  AUT_AssetSeries_09172016123703
+Sep 17,2016 13:21:35 [info]  Clicked on the 'MODULE'
+Sep 17,2016 13:21:46 [info]  Clicked on the 'Asset Maintenance'
+Sep 17,2016 13:21:50 [info]  Clicked on the 'Search Menu Icon' using JS Executor
+Sep 17,2016 13:21:51 [info]  Clicked on the 'AssetSearchUnderAsset' using JS Executor
+Sep 17,2016 13:22:06 [info]  Entered "AUT_AssetSeries_09172016123703" in field 'AssetTitle'
+Sep 17,2016 13:22:07 [info]  Clicked on the 'All Check Box' using JS Executor
+Sep 17,2016 13:22:07 [info]  Clicked on the 'Find Button' using JS Executor
+Sep 17,2016 13:22:25 [info]  Moved Mouse over 'First Asset in the Searched Asset'
+Sep 17,2016 13:22:26 [info]  Clicked on the 'First Asset in the Searched Asset'
+Sep 17,2016 13:22:29 [info]  Clicked on the 'View Asset' using JS Executor
+Sep 17,2016 13:22:47 [info]  Verified that Expected value :[AUT_AssetSeries_09172016123703] is matched with Actual value :[AUT_AssetSeries_09172016123703]
+Sep 17,2016 13:22:49 [info]  Clicked on the 'Documents TAB'
+Sep 17,2016 13:22:53 [info]  ***********Verifying AllButtons Present on the Document TAB in view Mode***********
+Sep 17,2016 13:22:54 [info]  Verified that Expected value :[View Document] is matched with Actual value :[View Document]
+Sep 17,2016 13:22:54 [info]  Verified that Expected value :[Add...] is matched with Actual value :[Add...]
+Sep 17,2016 13:22:54 [info]  Verified that Expected value :[Edit Profile] is matched with Actual value :[Edit Profile]
+Sep 17,2016 13:22:54 [info]  Verified that Expected value :[Delete] is matched with Actual value :[Delete]
+Sep 17,2016 13:22:54 [info]  Verified that Expected value :[Edit Documents] is matched with Actual value :[Edit Documents]
+Sep 17,2016 13:23:05 [info]  ====Failed===="Applies TO" is not Present
+Sep 17,2016 13:23:05 [info]  ******Verifying the Fields and Buttons on the Add Document Window******
+Sep 17,2016 13:23:05 [info]  Clicked on the 'Document_AddDocumentButton' using JS Executor
+Sep 17,2016 13:23:08 [info]  Verified that Expected value :[*Applies To] is matched with Actual value :[*Applies To]
+Sep 17,2016 13:23:08 [info]  Verified that Expected value :[*Document Name] is matched with Actual value :[*Document Name]
+Sep 17,2016 13:23:08 [info]  Verified that Expected value :[*Document Type] is matched with Actual value :[*Document Type]
+Sep 17,2016 13:23:08 [info]  Verified that Expected value :[Document Date] is matched with Actual value :[Document Date]
+Sep 17,2016 13:23:09 [info]  Verified that Expected value :[Description] is matched with Actual value :[Description]
+Sep 17,2016 13:23:09 [info]  Buttons
+Sep 17,2016 13:23:09 [info]  =======
+Sep 17,2016 13:23:09 [info]  Save
+Sep 17,2016 13:23:09 [info]  Cancel
+Sep 17,2016 13:23:09 [info]  *****Verifying all Associated Assets
+Sep 17,2016 13:23:09 [info]  Verified that Expected value :[AUT_AssetSeries_09172016123703] is matched with Actual value :[AUT_AssetSeries_09172016123703]
+Sep 17,2016 13:23:09 [info]  Drop Down values of Applies TO DropDown Values
+Sep 17,2016 13:23:09 [info]  Actual Drop Down Values are: 
+[AUT_AssetSeries_09172016123703, Season 1, Ep.101: Episode101, Ep.102: Episode102, Season 2, Ep.201: Episode201, Ep.202: Episode202]
+Sep 17,2016 13:23:09 [info]  Expected Drop Down Values are: 
+[AUT_AssetSeries_09172016123703, Season 1, Ep.101: Episode101, Ep.102: Episode102, Season 2, Ep.201: Episode201, Ep.202: Episode202]
+Sep 17,2016 13:23:09 [info]  Total Number of Dropdown Valus in Applies TO DropDown Values:7
+Sep 17,2016 13:23:10 [info]  Selected "Amendment" in "Document_AddDoc_DocTypeDropDown" drop down
+Sep 17,2016 13:23:10 [info]  Verified that Expected value :[Amendment] is matched with Actual value :[Amendment]
+Sep 17,2016 13:23:12 [info]  Entered "Declaration from the Legal HeirDeclaration 1234567890 @#$% @&*" in field 'Document_AddDoc_DocNameField'
+Sep 17,2016 13:23:12 [info]  Clicked on the 'Outside the Document Name Field'
+Sep 17,2016 13:23:13 [info]  Verified that Expected value :[Please enter a valid file name!] is matched with Actual value :[  RightsLogic Alert  
+    Please enter a valid file name!
+       ]
+Sep 17,2016 13:23:13 [info]  Clicked on the 'OK Button at Alert on Entering the invalid Names' using JS Executor
+Sep 17,2016 13:23:13 [info]  *****************************************************
+Sep 17,2016 13:23:16 [info]  ====Failed==== Expected value is:[  Please enter Document Name.  ] but Actual value is[  Please enter Document.  ]. Please check the screenshot with name:   Please enter Document Name.  for more details
+Sep 17,2016 13:23:16 [info]  [Ljava.lang.StackTraceElement;@7072996e
+Sep 17,2016 13:23:17 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Sep2016\\17\TC1_DocumentUI_CheckpointFailure_09-17-2016 1-23-16 PM.jpg
+Sep 17,2016 13:23:32 [info]  Alert message is Pass
+Sep 17,2016 13:23:32 [info]    RightsLogic Alert  
+    Please select at least one item from the tree before clicking on the Apply button.
+       
+Sep 17,2016 13:23:36 [info]  Passed :Selected All Checkboxes
+Sep 17,2016 13:23:38 [info]  Passed :UnSelected All Checkboxes
+Sep 17,2016 13:23:49 [info]  Failed :All Episode were selected under Season 1 and Season 1 is not checked
+Sep 17,2016 13:23:59 [info]  Failed :All the Seasons and Episode were selected under Series Asset and Series is not checked
+Sep 17,2016 13:24:12 [info]  Failed :Entire Series were selected and All check box is not checked
+Sep 17,2016 13:24:26 [info]  Test 'TC1_DocumentUI' FAILED
+Sep 17,2016 13:24:26 [info]  2
+Sep 17,2016 13:24:26 [info]  Test Case :TC1_DocumentUI's Screenshot of Failure Page: C:\SeleniumProject\Screenshots\Sep2016\\17\TC1_DocumentUI_09-17-2016 1-24-26 PM.jpg
+Sep 17,2016 13:24:27 [info]  Closed the Browser

@@ -1,0 +1,682 @@
+Jan 13,2017 12:56:39 [info]  ********************Started Executiong the Test Suite at 12:56:39******************
+Jan 13,2017 12:56:39 [info]  Client: VMN
+Jan 13,2017 12:56:39 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Jan 13,2017 12:56:39 [info]  *********************Started Executing 'TC6_EpisodeCopySeason' Test Case*********************
+Jan 13,2017 12:56:49 [info]  Client: VMN
+Jan 13,2017 12:56:49 [info]  URL: http://cgptwb01/Home.aspx
+Jan 13,2017 12:56:49 [info]  UserName: admin
+Jan 13,2017 12:56:49 [info]  Password: admin1
+Jan 13,2017 12:56:52 [info]  Entered "admin" in field 'User Name'
+Jan 13,2017 12:56:52 [info]  Clicked on the 'Temporary Check Box'
+Jan 13,2017 12:56:52 [info]  Entered "admin1" in field 'Password'
+Jan 13,2017 12:57:04 [info]  Clicked on the 'LoginButton'
+Jan 13,2017 12:57:10 [info]  *******Select the Episode and Copy Season**********
+Jan 13,2017 12:59:00 [info]  Clicked on the ''ClearFilter' at Episode window' using JS Executor
+Jan 13,2017 12:59:03 [info]  Clicked on the 'first Row'
+Jan 13,2017 12:59:04 [info]  Double clicked on 'first Row'
+Jan 13,2017 12:59:04 [info]  Clicked on the 'Episodes_CopySeason' using JS Executor
+Jan 13,2017 12:59:05 [info]  **********Verify the Radio Buttons of "Copy Season pop up fields" ************
+<span style="color:red;">Jan 13,2017 12:59:05 [info]  ====Failed==== Expected value is:[Copy Property (This will create a new Property without related deals)] but Actual value is[Copy Property (This will create a new property without related deals)]. Please check the screenshot with name: CreateNewAsset_RadioButtonfor more details</span>
+Jan 13,2017 12:59:05 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Jan2017\\13\CreateNewAsset_RadioButton_CheckpointFailure_01-13-2017 12-59-05 PM.jpg
+<span style="color:red;">Jan 13,2017 12:59:05 [info]  ====Failed==== Expected value is:[Copy Property as Version (This will create a version of the Property and link related deals)] but Actual value is[Copy Property as Version (This will create a version of the property and link related deals)
+Assign the following Rights Version Type:]. Please check the screenshot with name: LinkAssettoDeal_RadioButtonfor more details</span>
+Jan 13,2017 12:59:05 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Jan2017\\13\LinkAssettoDeal_RadioButton_CheckpointFailure_01-13-2017 12-59-05 PM.jpg
+Jan 13,2017 12:59:05 [info]  Verifying the data of CopyEpisodeWindow
+<span style="color:green;">Jan 13,2017 12:59:05 [info]  Verified that Expected value :[Original Version] is matched with Actual value :[Original Version]</span>
+Jan 13,2017 12:59:05 [info]  **********The below are Copy Episodes window Buttons************
+<span style="color:green;">Jan 13,2017 12:59:06 [info]  Verified that Expected value :[OK] is matched with Actual value :[OK]</span>
+<span style="color:green;">Jan 13,2017 12:59:06 [info]  Verified that Expected value :[Cancel] is matched with Actual value :[Cancel]</span>
+Jan 13,2017 12:59:06 [info]  ******************************************************
+Jan 13,2017 12:59:06 [info]  Clicked on the 'Episodes_CopyEpisodes_CopyAssetWindow_CreateNewAsset_RadioButton'
+Jan 13,2017 12:59:11 [info]  Clicked on the 'OKButton' using JS Executor
+Jan 13,2017 13:00:24 [info]  ********************Started Executiong the Test Suite at 13:00:24******************
+Jan 13,2017 13:00:24 [info]  Client: VMN
+Jan 13,2017 13:00:24 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Jan 13,2017 13:00:24 [info]  *********************Started Executing 'TC6_EpisodeCopySeason' Test Case*********************
+Jan 13,2017 13:00:33 [info]  Client: VMN
+Jan 13,2017 13:00:33 [info]  URL: http://cgptwb01/Home.aspx
+Jan 13,2017 13:00:33 [info]  UserName: admin
+Jan 13,2017 13:00:33 [info]  Password: admin1
+Jan 13,2017 13:00:35 [info]  Entered "admin" in field 'User Name'
+Jan 13,2017 13:00:36 [info]  Clicked on the 'Temporary Check Box'
+Jan 13,2017 13:00:36 [info]  Entered "admin1" in field 'Password'
+Jan 13,2017 13:00:46 [info]  Clicked on the 'LoginButton'
+Jan 13,2017 13:00:52 [info]  *******Select the Episode and Copy Season**********
+Jan 13,2017 13:02:11 [info]  ********************Started Executiong the Test Suite at 13:02:11******************
+Jan 13,2017 13:02:11 [info]  Client: VMN
+Jan 13,2017 13:02:11 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Jan 13,2017 13:02:11 [info]  *********************Started Executing 'TC6_EpisodeCopySeason' Test Case*********************
+Jan 13,2017 13:02:20 [info]  Client: VMN
+Jan 13,2017 13:02:20 [info]  URL: http://cgptwb01/Home.aspx
+Jan 13,2017 13:02:20 [info]  UserName: admin
+Jan 13,2017 13:02:20 [info]  Password: admin1
+Jan 13,2017 13:02:22 [info]  Entered "admin" in field 'User Name'
+Jan 13,2017 13:02:22 [info]  Clicked on the 'Temporary Check Box'
+Jan 13,2017 13:02:23 [info]  Entered "admin1" in field 'Password'
+Jan 13,2017 13:02:33 [info]  Clicked on the 'LoginButton'
+Jan 13,2017 13:02:39 [info]  *******Select the Episode and Copy Season**********
+<span style="color:red;">Jan 13,2017 13:03:10 [info]  ====Failed==== " Could not find the Frame: div[id*='WebDialogWindow1'][style*=visible]</span>
+<span style="color:red;">Jan 13,2017 13:03:10 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Jan2017\\13\FrameSwitchingFailed0_CheckpointFailure_01-13-2017 1-03-10 PM.jpg</span>
+Jan 13,2017 13:03:10 [info]  Unable to find element with css selector == div[id*='WebDialogWindow1'][style*=visible] (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 30.12 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: '9P4G6BS', ip: '10.10.22.71', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=true, ie.forceCreateProcessApi=false, pageLoadStrategy=normal, ie.usePerProcessProxy=false, ignoreZoomSetting=false, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=false, browserName=internet explorer, initialBrowserUrl=http://localhost:10821/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=false, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: a52e1477-d15d-42ee-932a-e6ae380582fb
+*** Element info: {Using=css selector, value=div[id*='WebDialogWindow1'][style*=visible]}
+<span style="color:red;">Jan 13,2017 13:03:40 [info]  ====Failed==== "'ClearFilter' at Episode window" field is not present'</span>
+Jan 13,2017 13:03:40 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Jan2017\\13\'ClearFilter' at Episode window_CheckpointFailure_01-13-2017 1-03-40 PM.jpg
+<span style="color:red;">Jan 13,2017 13:03:50 [info]  ====Failed==== "first Row" field is not present'</span>
+Jan 13,2017 13:03:51 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Jan2017\\13\first Row_CheckpointFailure_01-13-2017 1-03-50 PM.jpg
+Jan 13,2017 13:03:52 [info]  Double clicked on 'first Row'
+Jan 13,2017 13:03:52 [info]  Clicked on the 'Episodes_CopySeason' using JS Executor
+Jan 13,2017 13:03:53 [info]  **********Verify the Radio Buttons of "Copy Season pop up fields" ************
+<span style="color:red;">Jan 13,2017 13:03:53 [info]  ====Failed==== Expected value is:[Copy Property (This will create a new Property without related deals)] but Actual value is[Copy Property (This will create a new property without related deals)]. Please check the screenshot with name: CreateNewAsset_RadioButtonfor more details</span>
+Jan 13,2017 13:03:53 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Jan2017\\13\CreateNewAsset_RadioButton_CheckpointFailure_01-13-2017 1-03-53 PM.jpg
+<span style="color:red;">Jan 13,2017 13:03:53 [info]  ====Failed==== Expected value is:[Copy Property as Version (This will create a version of the Property and link related deals)] but Actual value is[Copy Property as Version (This will create a version of the property and link related deals)
+Assign the following Rights Version Type:]. Please check the screenshot with name: LinkAssettoDeal_RadioButtonfor more details</span>
+Jan 13,2017 13:03:53 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Jan2017\\13\LinkAssettoDeal_RadioButton_CheckpointFailure_01-13-2017 1-03-53 PM.jpg
+Jan 13,2017 13:03:54 [info]  Verifying the data of CopyEpisodeWindow
+<span style="color:green;">Jan 13,2017 13:03:54 [info]  Verified that Expected value :[Original Version] is matched with Actual value :[Original Version]</span>
+Jan 13,2017 13:03:54 [info]  **********The below are Copy Episodes window Buttons************
+Jan 13,2017 13:04:00 [info]  ********************Started Executiong the Test Suite at 13:04:00******************
+Jan 13,2017 13:04:00 [info]  Client: VMN
+Jan 13,2017 13:04:00 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Jan 13,2017 13:04:00 [info]  *********************Started Executing 'TC6_EpisodeCopySeason' Test Case*********************
+Jan 13,2017 13:04:10 [info]  Client: VMN
+Jan 13,2017 13:04:10 [info]  URL: http://cgptwb01/Home.aspx
+Jan 13,2017 13:04:10 [info]  UserName: admin
+Jan 13,2017 13:04:10 [info]  Password: admin1
+Jan 13,2017 13:04:12 [info]  Entered "admin" in field 'User Name'
+Jan 13,2017 13:04:12 [info]  Clicked on the 'Temporary Check Box'
+Jan 13,2017 13:04:13 [info]  Entered "admin1" in field 'Password'
+Jan 13,2017 13:04:23 [info]  Clicked on the 'LoginButton'
+Jan 13,2017 13:04:29 [info]  *******Select the Episode and Copy Season**********
+Jan 13,2017 13:04:52 [info]  Clicked on the ''ClearFilter' at Episode window' using JS Executor
+<span style="color:red;">Jan 13,2017 13:04:54 [info]  ====Failed==== "first Row" field is not present'</span>
+Jan 13,2017 13:04:55 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Jan2017\\13\first Row_CheckpointFailure_01-13-2017 1-04-54 PM.jpg
+Jan 13,2017 13:04:57 [info]  Double clicked on 'first Row'
+Jan 13,2017 13:04:58 [info]  Clicked on the 'Episodes_CopySeason' using JS Executor
+Jan 13,2017 13:04:58 [info]  **********Verify the Radio Buttons of "Copy Season pop up fields" ************
+<span style="color:red;">Jan 13,2017 13:04:58 [info]  ====Failed==== Expected value is:[Copy Property (This will create a new Property without related deals)] but Actual value is[Copy Property (This will create a new property without related deals)]. Please check the screenshot with name: CreateNewAsset_RadioButtonfor more details</span>
+Jan 13,2017 13:04:59 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Jan2017\\13\CreateNewAsset_RadioButton_CheckpointFailure_01-13-2017 1-04-58 PM.jpg
+<span style="color:red;">Jan 13,2017 13:04:59 [info]  ====Failed==== Expected value is:[Copy Property as Version (This will create a version of the Property and link related deals)] but Actual value is[Copy Property as Version (This will create a version of the property and link related deals)
+Assign the following Rights Version Type:]. Please check the screenshot with name: LinkAssettoDeal_RadioButtonfor more details</span>
+Jan 13,2017 13:04:59 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Jan2017\\13\LinkAssettoDeal_RadioButton_CheckpointFailure_01-13-2017 1-04-59 PM.jpg
+Jan 13,2017 13:04:59 [info]  Verifying the data of CopyEpisodeWindow
+<span style="color:green;">Jan 13,2017 13:04:59 [info]  Verified that Expected value :[Original Version] is matched with Actual value :[Original Version]</span>
+Jan 13,2017 13:04:59 [info]  **********The below are Copy Episodes window Buttons************
+<span style="color:green;">Jan 13,2017 13:04:59 [info]  Verified that Expected value :[OK] is matched with Actual value :[OK]</span>
+<span style="color:green;">Jan 13,2017 13:04:59 [info]  Verified that Expected value :[Cancel] is matched with Actual value :[Cancel]</span>
+Jan 13,2017 13:04:59 [info]  ******************************************************
+Jan 13,2017 13:05:00 [info]  Double clicked on 'Episodes_CopyEpisodes_CopyAssetWindow_CreateNewAsset_RadioButton'
+Jan 13,2017 13:07:01 [info]  ********************Started Executiong the Test Suite at 13:07:01******************
+Jan 13,2017 13:07:01 [info]  Client: VMN
+Jan 13,2017 13:07:01 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Jan 13,2017 13:07:01 [info]  *********************Started Executing 'TC6_EpisodeCopySeason' Test Case*********************
+Jan 13,2017 13:07:11 [info]  Client: VMN
+Jan 13,2017 13:07:11 [info]  URL: http://cgptwb01/Home.aspx
+Jan 13,2017 13:07:11 [info]  UserName: admin
+Jan 13,2017 13:07:11 [info]  Password: admin1
+Jan 13,2017 13:07:13 [info]  Entered "admin" in field 'User Name'
+Jan 13,2017 13:07:13 [info]  Clicked on the 'Temporary Check Box'
+Jan 13,2017 13:07:13 [info]  Entered "admin1" in field 'Password'
+Jan 13,2017 13:07:24 [info]  Clicked on the 'LoginButton'
+Jan 13,2017 13:10:36 [info]  Double clicked on 'Episodes_CopyEpisodes_CopyAssetWindow_CreateNewAsset_RadioButton'
+Jan 13,2017 13:15:31 [info]  Clicked on the 'Episodes_CopyEpisodes_CopyAssetWindow_CreateNewAsset_RadioButton' using JS Executor
+Jan 13,2017 13:27:44 [info]  ********************Started Executiong the Test Suite at 13:27:44******************
+Jan 13,2017 13:27:44 [info]  Client: VMN
+Jan 13,2017 13:27:44 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Jan 13,2017 13:27:44 [info]  *********************Started Executing 'TC6_EpisodeCopySeason' Test Case*********************
+Jan 13,2017 13:27:53 [info]  Client: VMN
+Jan 13,2017 13:27:53 [info]  URL: http://cgptwb01/Home.aspx
+Jan 13,2017 13:27:53 [info]  UserName: admin
+Jan 13,2017 13:27:53 [info]  Password: admin1
+Jan 13,2017 13:27:55 [info]  Entered "admin" in field 'User Name'
+Jan 13,2017 13:27:55 [info]  Clicked on the 'Temporary Check Box'
+Jan 13,2017 13:27:56 [info]  Entered "admin1" in field 'Password'
+Jan 13,2017 13:28:07 [info]  Clicked on the 'LoginButton'
+Jan 13,2017 13:28:13 [info]  ************************Started Creating Asset of Type: Program - Series************************
+Jan 13,2017 13:28:17 [info]  Clicked on the 'MODULE'
+Jan 13,2017 13:28:29 [info]  Clicked on the 'Property Entry & Maintenance'
+Jan 13,2017 13:28:37 [info]  Clicked on the 'SearchLink' using JS Executor
+Jan 13,2017 13:28:37 [info]  Clicked on the 'Property Search' using JS Executor
+Jan 13,2017 13:28:49 [info]  Clicked on the 'TR_Asset_Search_Params' using JS Executor
+Jan 13,2017 13:28:51 [info]  Entered "AUT_AssetSeries_0113201712813" in field 'Asset Title'
+Jan 13,2017 13:28:53 [info]  Clicked on the 'Find Button' using JS Executor
+Jan 13,2017 13:29:04 [info]  Verify The data of Alert Message
+<span style="color:green;">Jan 13,2017 13:29:04 [info]  Verified that Expected value :[No search results were found for this query. Please try again using different criteria.] is matched with Actual value :[No search results were found for this query. Please try again using different criteria.]</span>
+Jan 13,2017 13:29:04 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Jan 13,2017 13:29:05 [info]  Clicked on the 'Ok button At Alert' using JS Executor
+Jan 13,2017 13:29:11 [info]  Clicked on the 'Add Asset Button' using JS Executor
+Jan 13,2017 13:29:16 [info]  Selected "Program" in "AssetTypeDropDown Pop upn VMN" drop down
+Jan 13,2017 13:29:26 [info]  Clicked on the 'OK Button'
+Jan 13,2017 13:29:33 [info]  Asset id is 185537
+Jan 13,2017 13:29:36 [info]  Selected "Program - Series" in "AssetTypeDropDown" drop down
+Jan 13,2017 13:29:51 [info]  Entered "AUT_AssetSeries_0113201712813" in field 'AssetTitle'
+Jan 13,2017 13:29:51 [info]  Clicked on the 'IPImageIcon' using JS Executor
+Jan 13,2017 13:29:53 [info]  Clicked on the 'Find Button' using JS Executor
+Jan 13,2017 13:29:57 [info]  Clicked on the 'loc_IPName_AT_IPWindow'
+Jan 13,2017 13:29:57 [info]  Clicked on the 'IP Select Button' using JS Executor
+Jan 13,2017 13:29:57 [info]  Clicked on the 'Vendor Img Icon' using JS Executor
+Jan 13,2017 13:30:01 [info]  Entered "AUT_VMN_Vendor1" in field 'SearchvalueVendor'
+Jan 13,2017 13:30:03 [info]  Clicked on the 'VendorWindowButtonfind' using JS Executor
+Jan 13,2017 13:30:19 [info]  Clicked on the 'VendorName At VendorWindow'
+Jan 13,2017 13:30:19 [info]  Clicked on the 'Vendor Select Button' using JS Executor
+Jan 13,2017 13:30:23 [info]  Verify The data of Vendor1
+<span style="color:green;">Jan 13,2017 13:30:23 [info]  Verified that Expected value :[AUT_VMN_Vendor1] is matched with Actual value :[AUT_VMN_Vendor1]</span>
+Jan 13,2017 13:30:24 [info]  Clicked on the 'StudioImageIcon' using JS Executor
+<span style="color:green;">Jan 13,2017 13:30:25 [info]  Verified that Expected value :[Select Copyright Owner] is matched with Actual value :[Select Copyright Owner]</span>
+Jan 13,2017 13:30:27 [info]  Entered "AUT_VMN_Studio" in field 'Studio Name'
+Jan 13,2017 13:30:27 [info]  Clicked on the 'Find Button' using JS Executor
+Jan 13,2017 13:30:44 [info]  Clicked on the 'VendorName At VendorWindow'
+Jan 13,2017 13:30:44 [info]  Clicked on the 'Vendor Select Button' using JS Executor
+Jan 13,2017 13:30:48 [info]  Verify The data of Studio/Vendor2
+<span style="color:green;">Jan 13,2017 13:30:48 [info]  Verified that Expected value :[AUT_VMN_Studio] is matched with Actual value :[AUT_VMN_Studio]</span>
+Jan 13,2017 13:30:48 [info]  Clicked on the 'SBUImage' using JS Executor
+<span style="color:green;">Jan 13,2017 13:30:50 [info]  Verified that Expected value :[Channel / Entity Template] is matched with Actual value :[Channel / Entity Template]</span>
+Jan 13,2017 13:30:56 [info]  Clicked on the 'First CheckBox At SBU window'
+Jan 13,2017 13:30:59 [info]  Clicked on the 'Apply Button' using JS Executor
+Jan 13,2017 13:30:59 [info]  Entered "11:11:11" in field 'Duration'
+Jan 13,2017 13:31:30 [info]  Selected "Active Production" in "Asset Status" drop down
+Jan 13,2017 13:31:30 [info]  Selected "Animated" in "Asset Format" drop down
+Jan 13,2017 13:31:31 [info]  Selected "Co-Production" in "Asset Source" drop down
+Jan 13,2017 13:31:31 [info]  Selected "Television" in "Asset Category/Group" drop down
+Jan 13,2017 13:31:31 [info]  Entered "" in field 'ProjectID'
+Jan 13,2017 13:31:32 [info]  Selected "TBD" in "Client Group" drop down
+Jan 13,2017 13:31:32 [info]  Selected "In Progress" in "PROD Contract Entry/AssetData Status" drop down
+Jan 13,2017 13:31:32 [info]  Clicked on the 'Save Button' using JS Executor
+<span style="color:green;">Jan 13,2017 13:31:52 [info]  Verified that Expected value :[AUT_AssetSeries_0113201712813] is matched with Actual value :[AUT_AssetSeries_0113201712813]</span>
+Jan 13,2017 13:31:52 [info]  ************************Created Asset of TypeProgram - Series************************
+Jan 13,2017 13:31:56 [info]  Clicked on the 'MODULE'
+Jan 13,2017 13:32:05 [info]  Clicked on the 'Property Entry & Maintenance'
+Jan 13,2017 13:32:08 [info]  Clicked on the 'Search Icon' using JS Executor
+Jan 13,2017 13:32:08 [info]  Clicked on the 'Property Search' using JS Executor
+Jan 13,2017 13:32:22 [info]  Entered "AUT_AssetSeries_0113201712813" in field 'AssetTitle'
+Jan 13,2017 13:32:22 [info]  Clicked on the 'Find Button' using JS Executor
+Jan 13,2017 13:32:48 [info]  Moved Mouse over 'First Asset in the Searched Asset'
+Jan 13,2017 13:32:49 [info]  Clicked on the 'First Asset in the Searched Asset'
+Jan 13,2017 13:32:49 [info]  Clicked on the 'First Asset in the Searched Asset'
+Jan 13,2017 13:32:52 [info]  Clicked on the 'View Asset' using JS Executor
+<span style="color:green;">Jan 13,2017 13:33:05 [info]  Verified that Expected value :[AUT_AssetSeries_0113201712813] is matched with Actual value :[AUT_AssetSeries_0113201712813]</span>
+Jan 13,2017 13:33:13 [info]  Clicked on the 'Episodes TAB'
+Jan 13,2017 13:33:16 [info]  Clicked on the ''Edit' Button at Episode window' using JS Executor
+Jan 13,2017 13:33:23 [info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Jan 13,2017 13:33:28 [info]  Entered "101" in field 'Add Episode input field'
+Jan 13,2017 13:33:28 [info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Jan 13,2017 13:33:41 [info]  Clicked on the 'Season Field of Episode101' using JS Executor
+Jan 13,2017 13:33:42 [info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Jan 13,2017 13:33:42 [info]  Clicked on the 'Season 1.Original Version'
+Jan 13,2017 13:33:43 [info]  Clicked on the 'Support click to select season'
+Jan 13,2017 13:33:46 [info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Jan 13,2017 13:33:47 [info]  Entered "102" in field 'Add Episode input field'
+Jan 13,2017 13:33:47 [info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Jan 13,2017 13:34:02 [info]  Clicked on the 'Season Field of Episode102' using JS Executor
+Jan 13,2017 13:34:03 [info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Jan 13,2017 13:34:03 [info]  Clicked on the 'Season 1.Original Version'
+Jan 13,2017 13:34:04 [info]  Clicked on the 'Support click to select season'
+Jan 13,2017 13:34:04 [info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Jan 13,2017 13:34:04 [info]  Entered "201" in field 'Add Episode input field'
+Jan 13,2017 13:34:05 [info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Jan 13,2017 13:34:20 [info]  Clicked on the 'Season Field of Episode201' using JS Executor
+Jan 13,2017 13:34:20 [info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Jan 13,2017 13:34:21 [info]  Clicked on the 'Season 2.Original Version'
+Jan 13,2017 13:34:21 [info]  Clicked on the 'Support click to select season'
+Jan 13,2017 13:34:24 [info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Jan 13,2017 13:34:25 [info]  Entered "202" in field 'Add Episode input field'
+Jan 13,2017 13:34:25 [info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Jan 13,2017 13:34:38 [info]  Clicked on the 'Support click to select season'
+Jan 13,2017 13:34:41 [info]  Clicked on the 'Season Field of Episode201' using JS Executor
+Jan 13,2017 13:34:42 [info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Jan 13,2017 13:34:42 [info]  Clicked on the 'Season 2.Original Version'
+Jan 13,2017 13:34:42 [info]  Clicked on the 'Support click to select season'
+Jan 13,2017 13:34:46 [info]  Clicked on the 'Save Button at 'Episode Edit Window'' using JS Executor
+Jan 13,2017 13:34:59 [info]  Clicked on the 'Close Button at 'Episode Edit Window'' using JS Executor
+Jan 13,2017 13:35:24 [info]  Clicked on the 'New Button' using JS Executor
+Jan 13,2017 13:35:24 [info]  Clicked on the 'Standalone Agreement' using JS Executor
+Jan 13,2017 13:35:34 [info]  Generated Deal Id is 30509
+Jan 13,2017 13:35:34 [info]  Clicked on the 'DealTitleField' using JS Executor
+Jan 13,2017 13:35:36 [info]  Entered "AUT_Deal_0113201712813" in field 'Deal Name Field'
+Jan 13,2017 13:35:38 [info]  Entered "AUT_Deal_0113201712813_desc" in field 'Deal Description/ContractID'
+Jan 13,2017 13:35:39 [info]  Selected "Program Acquisition/Licensed Original" in "DealType_DropDownField" drop down
+Jan 13,2017 13:35:39 [info]  Entered "Fully Executed" in field 'Deal Creation Contract Status'
+Jan 13,2017 13:35:40 [info]  Entered "Finalized / Approved" in field 'DealCreationCDEStatus'
+Jan 13,2017 13:35:41 [info]  Entered "01/01/2014" in field 'DateExecuted_InputField'
+Jan 13,2017 13:35:48 [info]  Clicked on the 'SBU look up Icon' using JS Executor
+Jan 13,2017 13:35:55 [info]  Clicked on the 'Select All Button at SBU'
+Jan 13,2017 13:35:56 [info]  Clicked on the 'FirstCheckBoxAtSBU'
+Jan 13,2017 13:35:56 [info]  Clicked on the 'NinthCheckBoxAtSBU'
+Jan 13,2017 13:35:57 [info]  Clicked on the 'Apply Button'
+Jan 13,2017 13:35:57 [info]  Clicked on the 'Doc Type look up Icon' using JS Executor
+Jan 13,2017 13:36:05 [info]  Clicked on the 'Select All Button at SBU'
+Jan 13,2017 13:36:05 [info]  Clicked on the 'FirstCheckBoxAtSBU'
+Jan 13,2017 13:36:06 [info]  Clicked on the 'NinthCheckBoxAtSBU'
+Jan 13,2017 13:36:06 [info]  Clicked on the 'Apply Button'
+Jan 13,2017 13:36:10 [info]  Moved Mouse over 'Party_AddButton'
+Jan 13,2017 13:36:10 [info]  Clicked on the 'Party_AddButton'
+Jan 13,2017 13:36:11 [info]  Clicked on the 'PartyPopUp Icon' using JS Executor
+Jan 13,2017 13:36:17 [info]  Entered "AUT_VMN_RI_PRIMARY_PARTY" in field 'Search Party InputField'
+Jan 13,2017 13:36:17 [info]  Double clicked on 'RI Search Party Window Find Button'
+Jan 13,2017 13:36:32 [info]  Clicked on the 'AUT_VMN_RI_PRIMARY_PARTY'
+Jan 13,2017 13:36:33 [info]  Clicked on the 'Select Button'
+Jan 13,2017 13:36:40 [info]  Clicked on the 'Party Type Field' using JS Executor
+Jan 13,2017 13:36:40 [info]  Entered "Primary" in field 'Party Party InputField'
+Jan 13,2017 13:36:41 [info]  Clicked on the 'Support Click '
+Jan 13,2017 13:36:41 [info]  Clicked on the 'Party_AddButton' using JS Executor
+Jan 13,2017 13:36:41 [info]  Clicked on the 'PartyPopUp Icon' using JS Executor
+Jan 13,2017 13:36:49 [info]  Entered "AUT_VMN_RI_LICENSOR_PARTY" in field 'Search Party InputField'
+Jan 13,2017 13:36:50 [info]  Double clicked on 'RI Search Party Window Find Button'
+Jan 13,2017 13:37:10 [info]  Clicked on the 'Select Party'
+Jan 13,2017 13:37:10 [info]  Clicked on the 'Select Button'
+Jan 13,2017 13:37:17 [info]  Clicked on the 'Party Type Field' using JS Executor
+Jan 13,2017 13:37:17 [info]  Entered "Licensor" in field 'Party Party InputField'
+Jan 13,2017 13:37:18 [info]  Clicked on the 'Support Click '
+Jan 13,2017 13:37:22 [info]  Clicked on the 'Save Button' using JS Executor
+Jan 13,2017 13:37:35 [info]  Verify The data of CreatedDeal
+<span style="color:green;">Jan 13,2017 13:37:35 [info]  Verified that Expected value :[AUT_Deal_0113201712813] is matched with Actual value :[AUT_Deal_0113201712813]</span>
+Jan 13,2017 13:37:36 [info]  Clicked on the 'Navigator' using JS Executor
+Jan 13,2017 13:37:42 [info]  Clicked on the 'Deal'
+Jan 13,2017 13:37:43 [info]  Double clicked on 'Associate With Exiting Asset'
+Jan 13,2017 13:37:46 [info]  Clicked on the 'Asset Status'
+Jan 13,2017 13:37:46 [info]  Clicked on the 'Asset tile' using JS Executor
+Jan 13,2017 13:37:47 [info]  Entered "AUT_AssetSeries_0113201712813" in field 'Asset title'
+<span style="color:red;">Jan 13,2017 13:37:47 [info]  =====BUG ID======: 20309</span>
+Jan 13,2017 13:37:47 [info]  Clicked on the 'Display Season checkBox' using JS Executor
+Jan 13,2017 13:37:47 [info]  Clicked on the 'Search Button' using JS Executor
+Jan 13,2017 13:37:59 [info]  Clicked on the 'Toggle'
+Jan 13,2017 13:38:02 [info]  Double clicked on 'Searched Asset'
+Jan 13,2017 13:38:20 [info]  Clicked on the 'Ok Button'
+Jan 13,2017 13:38:31 [info]  Clicked on the 'MODULE'
+Jan 13,2017 13:38:42 [info]  Clicked on the 'Property Entry & Maintenance'
+Jan 13,2017 13:38:49 [info]  Clicked on the 'MODULE'
+Jan 13,2017 13:38:58 [info]  Clicked on the 'Property Entry & Maintenance'
+Jan 13,2017 13:39:02 [info]  Clicked on the 'Search Icon' using JS Executor
+Jan 13,2017 13:39:02 [info]  Clicked on the 'Property Search' using JS Executor
+Jan 13,2017 13:39:14 [info]  Entered "AUT_AssetSeries_0113201712813" in field 'AssetTitle'
+Jan 13,2017 13:39:15 [info]  Clicked on the 'Find Button' using JS Executor
+Jan 13,2017 13:39:39 [info]  Moved Mouse over 'First Asset in the Searched Asset'
+Jan 13,2017 13:39:40 [info]  Clicked on the 'First Asset in the Searched Asset'
+Jan 13,2017 13:39:40 [info]  Clicked on the 'First Asset in the Searched Asset'
+Jan 13,2017 13:39:44 [info]  Clicked on the 'View Asset' using JS Executor
+<span style="color:green;">Jan 13,2017 13:39:56 [info]  Verified that Expected value :[AUT_AssetSeries_0113201712813] is matched with Actual value :[AUT_AssetSeries_0113201712813]</span>
+Jan 13,2017 13:39:58 [info]  Clicked on the 'Episodes TAB'
+Jan 13,2017 13:39:59 [info]  *****************The below are buttons in the window*****************
+<span style="color:green;">Jan 13,2017 13:39:59 [info]  Verified that Expected value :[Edit Episode] is matched with Actual value :[Edit Episode]</span>
+<span style="color:green;">Jan 13,2017 13:39:59 [info]  Verified that Expected value :[Edit...] is matched with Actual value :[Edit...]</span>
+Jan 13,2017 13:39:59 [info]  Clicked on the ''Edit' Button at Episode window' using JS Executor
+Jan 13,2017 13:40:04 [info]  Clicked on the ''ClearFilter' at Episode window' using JS Executor
+Jan 13,2017 13:40:11 [info]  *****Copy Episode : Multiple select using Ctrl Key******
+Jan 13,2017 13:40:14 [info]  Clicked on the 'first Row'
+Jan 13,2017 13:40:14 [info]  Double clicked on 'first Row'
+Jan 13,2017 13:40:17 [info]  Clicked on the 'Second Row'
+Jan 13,2017 13:40:18 [info]  Clicked on the 'Episodes_CopySeason' using JS Executor
+Jan 13,2017 13:40:18 [info]  ********Validation mesage*************
+<span style="color:green;">Jan 13,2017 13:40:18 [info]  Verified that Expected value :[Please select a single Season before attempting to click on the Copy Season button.] is matched with Actual value :[  RightsLogic Alert  
+    Please select a single Season before attempting to click on the Copy Season button.
+       ]</span>
+Jan 13,2017 13:40:19 [info]  Clicked on the 'OK Button at Alert While deleting the Episode' using JS Executor
+Jan 13,2017 13:40:20 [info]  Clicked on the 'Save Button at 'Episode Edit Window'' using JS Executor
+Jan 13,2017 13:40:28 [info]  *******Select the Episode and Copy Season**********
+Jan 13,2017 13:40:28 [info]  Clicked on the ''ClearFilter' at Episode window' using JS Executor
+Jan 13,2017 13:40:31 [info]  Clicked on the 'first Row'
+Jan 13,2017 13:40:31 [info]  Double clicked on 'first Row'
+Jan 13,2017 13:40:32 [info]  Clicked on the 'Episodes_CopySeason' using JS Executor
+Jan 13,2017 13:40:32 [info]  **********Verify the Radio Buttons of "Copy Season pop up fields" ************
+<span style="color:red;">Jan 13,2017 13:40:32 [info]  ====Failed==== Expected value is:[Copy Property (This will create a new Property without related deals)] but Actual value is[Copy Property (This will create a new property without related deals)]. Please check the screenshot with name: CreateNewAsset_RadioButtonfor more details</span>
+Jan 13,2017 13:40:32 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Jan2017\\13\CreateNewAsset_RadioButton_CheckpointFailure_01-13-2017 1-40-32 PM.jpg
+<span style="color:red;">Jan 13,2017 13:40:32 [info]  ====Failed==== Expected value is:[Copy Property as Version (This will create a version of the Property and link related deals)] but Actual value is[Copy Property as Version (This will create a version of the property and link related deals)
+Assign the following Rights Version Type:]. Please check the screenshot with name: LinkAssettoDeal_RadioButtonfor more details</span>
+Jan 13,2017 13:40:33 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Jan2017\\13\LinkAssettoDeal_RadioButton_CheckpointFailure_01-13-2017 1-40-32 PM.jpg
+Jan 13,2017 13:40:33 [info]  Verifying the data of CopyEpisodeWindow
+<span style="color:green;">Jan 13,2017 13:40:33 [info]  Verified that Expected value :[Original Version] is matched with Actual value :[Original Version]</span>
+Jan 13,2017 13:40:33 [info]  **********The below are Copy Episodes window Buttons************
+<span style="color:green;">Jan 13,2017 13:40:33 [info]  Verified that Expected value :[OK] is matched with Actual value :[OK]</span>
+<span style="color:green;">Jan 13,2017 13:40:33 [info]  Verified that Expected value :[Cancel] is matched with Actual value :[Cancel]</span>
+Jan 13,2017 13:40:33 [info]  ******************************************************
+Jan 13,2017 13:40:33 [info]  Clicked on the 'Episodes_CopyEpisodes_CopyAssetWindow_CreateNewAsset_RadioButton' using JS Executor
+Jan 13,2017 13:40:33 [info]  Clicked on the 'OKButton' using JS Executor
+Jan 13,2017 13:40:40 [info]  **********Verify the Episode Name and Season name of copied Season************
+<span style="color:red;">Jan 13,2017 13:41:10 [info]  ====Failed==== Expected value is:[Copy of Episode102] but Actual value is[]. Please check the screenshot with name: Copy of Episode102for more details</span>
+Jan 13,2017 13:41:10 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Jan2017\\13\Copy of Episode102_CheckpointFailure_01-13-2017 1-41-10 PM.jpg
+<span style="color:red;">Jan 13,2017 13:41:40 [info]  ====Failed==== Expected value is:[Copy of 'Season 1.Original Version' OR 'Copy of Season 1'] but Actual value is[]. Please check the screenshot with name: Copy of Season 1.Original Versionfor more details</span>
+Jan 13,2017 13:41:40 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Jan2017\\13\Copy of Season 1.Original Version_CheckpointFailure_01-13-2017 1-41-40 PM.jpg
+<span style="color:green;">Jan 13,2017 13:41:41 [info]  Verified that Expected value :[101] is matched with Actual value :[101]</span>
+<span style="color:green;">Jan 13,2017 13:41:41 [info]  Verified that Expected value :[102] is matched with Actual value :[102]</span>
+Jan 13,2017 13:41:41 [info]  Clicked on the 'Save Button at 'Episode Edit Window'' using JS Executor
+Jan 13,2017 13:41:55 [info]  Clicked on the ''ClearFilter' at Episode window' using JS Executor
+Jan 13,2017 13:42:04 [info]  Clicked on the 'Support click to select season'
+Jan 13,2017 13:42:05 [info]  Clicked on the 'TBA Check Box 5th Row'
+Jan 13,2017 13:42:05 [info]  Clicked on the 'Support click to select season'
+Jan 13,2017 13:42:05 [info]  Clicked on the 'TBA Check Box 6th Row'
+Jan 13,2017 13:42:06 [info]  Clicked on the 'Save Button at 'Episode Edit Window'' using JS Executor
+Jan 13,2017 13:42:16 [info]  Clicked on the 'Close Button at 'Episode Edit Window'' using JS Executor
+Jan 13,2017 13:42:22 [info]  Clicked on the 'Home Icon' using JS Executor
+Jan 13,2017 13:42:38 [info]  Clicked on the 'Modules'
+Jan 13,2017 13:42:50 [info]  Clicked on the 'RightsIN'
+Jan 13,2017 13:42:53 [info]  Clicked on the 'Modules'
+Jan 13,2017 13:43:05 [info]  Clicked on the 'RightsIN'
+Jan 13,2017 13:43:05 [info]  Clicked on the 'Search Icon' using JS Executor
+Jan 13,2017 13:43:05 [info]  Clicked on the 'Agreement Link' using JS Executor
+Jan 13,2017 13:43:14 [info]  Entered "AUT_Deal_0113201712813" in field 'AssetTitle'
+Jan 13,2017 13:43:16 [info]  Clicked on the 'Find Button' using JS Executor
+Jan 13,2017 13:43:27 [info]  Moved Mouse over 'First Asset in the Searched Asset'
+Jan 13,2017 13:43:28 [info]  Clicked on the 'First Asset in the Searched Asset'
+Jan 13,2017 13:43:31 [info]  Clicked on the 'View Asset' using JS Executor
+<span style="color:green;">Jan 13,2017 13:43:48 [info]  Verified that Expected value :[AUT_Deal_0113201712813] is matched with Actual value :[AUT_Deal_0113201712813]</span>
+Jan 13,2017 13:43:54 [info]  Clicked on the 'Deal Navigator' using JS Executor
+Jan 13,2017 13:44:01 [info]  Clicked on the 'DealNavigatorWindow_AssetSeriesExpandIcon'
+Jan 13,2017 13:44:01 [info]  Clicked on the 'DealNavigatorWindow_1stSeason_ExpandIcon'
+Jan 13,2017 13:44:02 [info]  Clicked on the 'DealNavigatorWindow_2ndSeason_ExpandIcon'
+<span style="color:red;">Jan 13,2017 13:44:32 [info]  ====Failed==== "DealNavigatorWindow_3rdSeason_ExpandIcon" field is not present'</span>
+Jan 13,2017 13:44:32 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Jan2017\\13\DealNavigatorWindow_3rdSeason_ExpandIcon_CheckpointFailure_01-13-2017 1-44-32 PM.jpg
+Jan 13,2017 13:44:32 [info]  *****Verify the Episodes which were created while Copying the Season are not shown at the Deal Navigator*****
+Jan 13,2017 13:45:02 [info]  "Season of Copied Season" is disable or not Present
+Jan 13,2017 13:45:02 [info]  "Copy of Season 1.Original Version" is not shown at the Deal Navigator
+Jan 13,2017 13:45:33 [info]  "Episode of Copied Season" is disable or not Present
+Jan 13,2017 13:45:33 [info]  "Ep.101: Copy of Episode101" is not shown at the Deal Navigator
+Jan 13,2017 13:45:33 [info]  Clicked on the 'OKButton' using JS Executor
+Jan 13,2017 13:45:45 [info]  Clicked on the 'Home Icon' using JS Executor
+Jan 13,2017 13:45:57 [info]  Clicked on the 'MODULE'
+Jan 13,2017 13:46:08 [info]  Clicked on the 'Property Entry & Maintenance'
+Jan 13,2017 13:46:15 [info]  Clicked on the 'MODULE'
+Jan 13,2017 13:46:26 [info]  Clicked on the 'Property Entry & Maintenance'
+Jan 13,2017 13:46:29 [info]  Clicked on the 'Search Icon' using JS Executor
+Jan 13,2017 13:46:29 [info]  Clicked on the 'Property Search' using JS Executor
+Jan 13,2017 13:46:42 [info]  Entered "AUT_AssetSeries_0113201712813" in field 'AssetTitle'
+Jan 13,2017 13:46:43 [info]  Clicked on the 'Find Button' using JS Executor
+Jan 13,2017 13:47:08 [info]  Moved Mouse over 'First Asset in the Searched Asset'
+Jan 13,2017 13:47:08 [info]  Clicked on the 'First Asset in the Searched Asset'
+Jan 13,2017 13:47:08 [info]  Clicked on the 'First Asset in the Searched Asset'
+Jan 13,2017 13:47:11 [info]  Clicked on the 'View Asset' using JS Executor
+<span style="color:green;">Jan 13,2017 13:47:25 [info]  Verified that Expected value :[AUT_AssetSeries_0113201712813] is matched with Actual value :[AUT_AssetSeries_0113201712813]</span>
+Jan 13,2017 13:47:27 [info]  Clicked on the 'Episodes TAB'
+Jan 13,2017 13:47:27 [info]  Clicked on the ''Edit' Button at Episode window' using JS Executor
+Jan 13,2017 13:47:31 [info]  Clicked on the ''ClearFilter' at Episode window' using JS Executor
+Jan 13,2017 13:47:39 [info]  Test 'TC6_EpisodeCopySeason' PASSED
+Jan 13,2017 13:47:41 [info]  Closed the Browser
+Jan 13,2017 18:38:30 [info]  ********************Started Executiong the Test Suite at 18:38:30******************
+Jan 13,2017 18:38:30 [info]  Client: VMN
+Jan 13,2017 18:38:30 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Jan 13,2017 18:38:30 [info]  *****Test 'TC1_PreRequisites'*****: SKIPPED
+Jan 13,2017 18:38:52 [info]  ********************Started Executiong the Test Suite at 18:38:52******************
+Jan 13,2017 18:38:52 [info]  Client: VMN
+Jan 13,2017 18:38:52 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Jan 13,2017 18:38:52 [info]  *********************Started Executing 'TC1_PreRequisites' Test Case*********************
+Jan 13,2017 18:39:02 [info]  Client: VMN
+Jan 13,2017 18:39:02 [info]  URL: http://cgptwb01/Home.aspx
+Jan 13,2017 18:39:02 [info]  UserName: admin
+Jan 13,2017 18:39:02 [info]  Password: admin1
+Jan 13,2017 18:39:04 [info]  Entered "admin" in field 'User Name'
+Jan 13,2017 18:39:04 [info]  Clicked on the 'Temporary Check Box'
+Jan 13,2017 18:39:04 [info]  Entered "admin1" in field 'Password'
+Jan 13,2017 18:39:15 [info]  Clicked on the 'LoginButton'
+Jan 13,2017 18:39:26 [info]  Clicked on the 'Templates ' using JS Executor
+Jan 13,2017 18:39:27 [info]  Clicked on the 'TemplateName Networks' using JS Executor
+<span style="color:red;">Jan 13,2017 18:39:57 [info]  ====Failed==== " Could not find the Frame: div[id*='WebDialogWindow1'][style*=visible]</span>
+<span style="color:red;">Jan 13,2017 18:39:57 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Jan2017\\13\FrameSwitchingFailed0_CheckpointFailure_01-13-2017 6-39-57 PM.jpg</span>
+Jan 13,2017 18:39:57 [info]  Unable to find element with css selector == div[id*='WebDialogWindow1'][style*=visible] (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 30.33 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: '9P4G6BS', ip: '10.10.22.71', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=true, ie.forceCreateProcessApi=false, pageLoadStrategy=normal, ie.usePerProcessProxy=false, ignoreZoomSetting=false, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=false, browserName=internet explorer, initialBrowserUrl=http://localhost:19254/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=false, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: b2fdda5c-dcec-4972-8674-b527d7544b6b
+*** Element info: {Using=css selector, value=div[id*='WebDialogWindow1'][style*=visible]}
+Jan 13,2017 18:40:27 [info]  Test 'TC1_PreRequisites' FAILED
+Jan 13,2017 18:40:27 [info]  2
+Jan 13,2017 18:40:28 [info]  Test Case :TC1_PreRequisites's Screenshot of Failure Page: C:\Screenshots\Jan2017\\13\TC1_PreRequisites_01-13-2017 6-40-27 PM.jpg
+Jan 13,2017 18:40:29 [info]  Closed the Browser
+Jan 13,2017 18:48:14 [info]  ********************Started Executiong the Test Suite at 18:48:14******************
+Jan 13,2017 18:48:14 [info]  Client: VMN
+Jan 13,2017 18:48:14 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Jan 13,2017 18:48:14 [info]  *********************Started Executing 'TC1_PreRequisites' Test Case*********************
+Jan 13,2017 18:48:24 [info]  Client: VMN
+Jan 13,2017 18:48:24 [info]  URL: http://rlv3wb53/Home.aspx
+Jan 13,2017 18:48:24 [info]  UserName: admin
+Jan 13,2017 18:48:24 [info]  Password: admin
+Jan 13,2017 18:48:25 [info]  Entered "admin" in field 'User Name'
+Jan 13,2017 18:48:25 [info]  Clicked on the 'Temporary Check Box'
+Jan 13,2017 18:48:26 [info]  Entered "admin" in field 'Password'
+Jan 13,2017 18:48:37 [info]  Clicked on the 'LoginButton'
+Jan 13,2017 18:48:48 [info]  Clicked on the 'Templates ' using JS Executor
+Jan 13,2017 18:48:49 [info]  Clicked on the 'TemplateName Networks' using JS Executor
+Jan 13,2017 18:48:52 [info]  Clicked on the 'Add Button'
+Jan 13,2017 18:48:56 [info]  Entered "All Networks" in field 'All Networks'
+Jan 13,2017 18:48:56 [info]  Clicked on the 'Select All Tempalte'
+Jan 13,2017 18:48:58 [info]  Clicked on the 'Save Button'
+Jan 13,2017 18:49:04 [info]  Clicked on the 'Templates ' using JS Executor
+Jan 13,2017 18:49:04 [info]  Clicked on the 'TemplateName Territories' using JS Executor
+Jan 13,2017 18:49:07 [info]  Clicked on the 'Add Button'
+Jan 13,2017 18:49:10 [info]  Entered "All Worldwide" in field 'All Worldwide'
+Jan 13,2017 18:49:11 [info]  Clicked on the 'Select All Tempalte'
+Jan 13,2017 18:49:12 [info]  Clicked on the 'Save Button'
+Jan 13,2017 18:49:18 [info]  Clicked on the 'Templates ' using JS Executor
+Jan 13,2017 18:49:18 [info]  Clicked on the 'TemplateName Languages' using JS Executor
+Jan 13,2017 18:49:21 [info]  Clicked on the 'Add Button'
+Jan 13,2017 18:49:24 [info]  Entered "All Languages" in field 'All Languages'
+Jan 13,2017 18:49:25 [info]  Clicked on the 'Select All Tempalte'
+Jan 13,2017 18:49:26 [info]  Clicked on the 'Save Button'
+Jan 13,2017 18:50:22 [info]  ********************Started Executiong the Test Suite at 18:50:22******************
+Jan 13,2017 18:50:22 [info]  Client: VMN
+Jan 13,2017 18:50:22 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Jan 13,2017 18:50:22 [info]  *********************Started Executing 'TC1_PreRequisites' Test Case*********************
+Jan 13,2017 18:50:32 [info]  Client: VMN
+Jan 13,2017 18:50:32 [info]  URL: http://rlv3wb53/Home.aspx
+Jan 13,2017 18:50:32 [info]  UserName: admin
+Jan 13,2017 18:50:32 [info]  Password: admin
+Jan 13,2017 18:50:33 [info]  Entered "admin" in field 'User Name'
+Jan 13,2017 18:50:33 [info]  Clicked on the 'Temporary Check Box'
+Jan 13,2017 18:50:33 [info]  Entered "admin" in field 'Password'
+Jan 13,2017 18:50:34 [info]  Clicked on the 'LoginButton'
+<span style="color:red;">Jan 13,2017 18:50:55 [info]  ====Failed==== " Could not find the Frame: //div[@clientid='RL_SplitterPane_Content']</span>
+<span style="color:red;">Jan 13,2017 18:50:55 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Jan2017\\13\FrameSwitchingFailed0_CheckpointFailure_01-13-2017 6-50-55 PM.jpg</span>
+Jan 13,2017 18:50:55 [info]  The xpath expression '//div[@clientid='RL_SplitterPane_Content']' cannot be evaluated or does notresult in a WebElement (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 9.89 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: '9P4G6BS', ip: '10.10.22.71', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=true, ie.forceCreateProcessApi=false, pageLoadStrategy=normal, ie.usePerProcessProxy=false, ignoreZoomSetting=false, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=false, browserName=internet explorer, initialBrowserUrl=http://localhost:42415/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=false, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: a7e12d9f-5bfa-4914-a9eb-ce6e26dd249c
+*** Element info: {Using=xpath, value=//div[@clientid='RL_SplitterPane_Content']}
+Jan 13,2017 18:51:22 [info]  ********************Started Executiong the Test Suite at 18:51:22******************
+Jan 13,2017 18:51:22 [info]  Client: VMN
+Jan 13,2017 18:51:22 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Jan 13,2017 18:51:22 [info]  *********************Started Executing 'TC1_PreRequisites' Test Case*********************
+Jan 13,2017 18:51:30 [info]  Client: VMN
+Jan 13,2017 18:51:30 [info]  URL: http://rlv3wb53/Home.aspx
+Jan 13,2017 18:51:30 [info]  UserName: admin
+Jan 13,2017 18:51:30 [info]  Password: admin
+Jan 13,2017 18:51:32 [info]  Entered "admin" in field 'User Name'
+Jan 13,2017 18:51:32 [info]  Clicked on the 'Temporary Check Box'
+Jan 13,2017 18:51:32 [info]  Entered "admin" in field 'Password'
+Jan 13,2017 18:51:42 [info]  Clicked on the 'LoginButton'
+Jan 13,2017 18:51:53 [info]  Clicked on the 'Templates ' using JS Executor
+Jan 13,2017 18:51:54 [info]  Clicked on the 'TemplateName Networks' using JS Executor
+Jan 13,2017 18:51:56 [info]  Clicked on the 'Cancel Button'
+Jan 13,2017 18:52:02 [info]  Clicked on the 'Templates ' using JS Executor
+Jan 13,2017 18:52:02 [info]  Clicked on the 'TemplateName Territories' using JS Executor
+Jan 13,2017 18:52:06 [info]  Clicked on the 'Cancel Button'
+Jan 13,2017 18:52:11 [info]  Clicked on the 'Templates ' using JS Executor
+Jan 13,2017 18:52:12 [info]  Clicked on the 'TemplateName Languages' using JS Executor
+Jan 13,2017 18:52:15 [info]  Clicked on the 'Cancel Button'
+Jan 13,2017 18:52:20 [info]  Clicked on the 'Templates ' using JS Executor
+Jan 13,2017 18:52:21 [info]  Clicked on the 'TemplateName Promo Rights' using JS Executor
+Jan 13,2017 18:52:23 [info]  Clicked on the 'Cancel Button'
+Jan 13,2017 18:52:28 [info]  Clicked on the 'Templates ' using JS Executor
+Jan 13,2017 18:52:28 [info]  Clicked on the 'TemplateName Rights (incl. Media)' using JS Executor
+Jan 13,2017 18:52:35 [info]  Clicked on the 'Cancel Button'
+Jan 13,2017 18:52:40 [info]  Clicked on the 'Templates ' using JS Executor
+Jan 13,2017 18:53:15 [info]  Clicked on the 'Templates ' using JS Executor
+Jan 13,2017 18:54:41 [info]  ********************Started Executiong the Test Suite at 18:54:41******************
+Jan 13,2017 18:54:41 [info]  Client: VMN
+Jan 13,2017 18:54:41 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Jan 13,2017 18:54:41 [info]  *********************Started Executing 'TC1_PreRequisites' Test Case*********************
+Jan 13,2017 18:54:51 [info]  Client: VMN
+Jan 13,2017 18:54:51 [info]  URL: http://rlv3wb53/Home.aspx
+Jan 13,2017 18:54:51 [info]  UserName: admin
+Jan 13,2017 18:54:51 [info]  Password: admin
+Jan 13,2017 18:54:52 [info]  Entered "admin" in field 'User Name'
+Jan 13,2017 18:54:53 [info]  Clicked on the 'Temporary Check Box'
+Jan 13,2017 18:54:53 [info]  Entered "admin" in field 'Password'
+Jan 13,2017 18:55:03 [info]  Clicked on the 'LoginButton'
+Jan 13,2017 18:55:14 [info]  Clicked on the 'Templates ' using JS Executor
+Jan 13,2017 18:55:14 [info]  
+Jan 13,2017 18:55:14 [info]  ------------Networks------------
+Jan 13,2017 18:55:15 [info]  Clicked on the 'TemplateName Networks' using JS Executor
+Jan 13,2017 18:55:17 [info]  Clicked on the 'Cancel Button'
+Jan 13,2017 18:55:22 [info]  Clicked on the 'Templates ' using JS Executor
+Jan 13,2017 18:55:23 [info]  
+Jan 13,2017 18:55:23 [info]  ------------Territories------------
+Jan 13,2017 18:55:23 [info]  Clicked on the 'TemplateName Territories' using JS Executor
+Jan 13,2017 18:55:27 [info]  Clicked on the 'Cancel Button'
+Jan 13,2017 18:55:32 [info]  Clicked on the 'Templates ' using JS Executor
+Jan 13,2017 18:55:32 [info]  
+Jan 13,2017 18:55:32 [info]  ------------Languages------------
+Jan 13,2017 18:55:33 [info]  Clicked on the 'TemplateName Languages' using JS Executor
+Jan 13,2017 18:55:36 [info]  Clicked on the 'Cancel Button'
+Jan 13,2017 18:55:42 [info]  Clicked on the 'Templates ' using JS Executor
+Jan 13,2017 18:55:42 [info]  
+Jan 13,2017 18:55:42 [info]  ------------Promo Rights------------
+Jan 13,2017 18:55:42 [info]  Clicked on the 'TemplateName Promo Rights' using JS Executor
+Jan 13,2017 18:55:44 [info]  Clicked on the 'Cancel Button'
+Jan 13,2017 18:55:50 [info]  Clicked on the 'Templates ' using JS Executor
+Jan 13,2017 18:55:50 [info]  
+Jan 13,2017 18:55:50 [info]  ------------Rights (incl. Media)------------
+Jan 13,2017 18:55:50 [info]  Clicked on the 'TemplateName Rights (incl. Media)' using JS Executor
+Jan 13,2017 18:55:56 [info]  Clicked on the 'Cancel Button'
+Jan 13,2017 18:56:02 [info]  Clicked on the 'Templates ' using JS Executor
+Jan 13,2017 18:56:37 [info]  Clicked on the 'Templates ' using JS Executor
+Jan 13,2017 18:57:13 [info]  Clicked on the 'Templates ' using JS Executor
+Jan 13,2017 18:57:49 [info]  Clicked on the 'Templates ' using JS Executor
+Jan 13,2017 18:58:24 [info]  Clicked on the 'Templates ' using JS Executor
+Jan 13,2017 18:58:58 [info]  ********************Started Executiong the Test Suite at 18:58:58******************
+Jan 13,2017 18:58:58 [info]  Client: VMN
+Jan 13,2017 18:58:58 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Jan 13,2017 18:58:58 [info]  *********************Started Executing 'TC1_PreRequisites' Test Case*********************
+Jan 13,2017 18:59:07 [info]  Client: VMN
+Jan 13,2017 18:59:07 [info]  URL: http://rlv3wb53/Home.aspx
+Jan 13,2017 18:59:07 [info]  UserName: admin
+Jan 13,2017 18:59:07 [info]  Password: admin
+Jan 13,2017 18:59:08 [info]  Entered "admin" in field 'User Name'
+Jan 13,2017 18:59:09 [info]  Clicked on the 'Temporary Check Box'
+Jan 13,2017 18:59:09 [info]  Entered "admin" in field 'Password'
+Jan 13,2017 18:59:10 [info]  Clicked on the 'LoginButton'
+Jan 13,2017 18:59:23 [info]  Clicked on the 'Templates ' using JS Executor
+Jan 13,2017 18:59:23 [info]  
+Jan 13,2017 18:59:23 [info]  ------------Rights (incl. Media)------------
+Jan 13,2017 18:59:23 [info]  Clicked on the 'TemplateName Rights (incl. Media)' using JS Executor
+Jan 13,2017 18:59:35 [info]  Clicked on the 'Cancel Button'
+Jan 13,2017 18:59:41 [info]  Clicked on the 'Templates ' using JS Executor
+Jan 13,2017 19:00:16 [info]  Clicked on the 'Templates ' using JS Executor
+Jan 13,2017 19:00:35 [info]  ********************Started Executiong the Test Suite at 19:00:35******************
+Jan 13,2017 19:00:35 [info]  Client: VMN
+Jan 13,2017 19:00:35 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Jan 13,2017 19:00:35 [info]  *********************Started Executing 'TC1_PreRequisites' Test Case*********************
+Jan 13,2017 19:00:45 [info]  Client: VMN
+Jan 13,2017 19:00:45 [info]  URL: http://rlv3wb53/Home.aspx
+Jan 13,2017 19:00:45 [info]  UserName: admin
+Jan 13,2017 19:00:45 [info]  Password: admin
+Jan 13,2017 19:00:46 [info]  Entered "admin" in field 'User Name'
+Jan 13,2017 19:00:46 [info]  Clicked on the 'Temporary Check Box'
+Jan 13,2017 19:00:47 [info]  Entered "admin" in field 'Password'
+Jan 13,2017 19:00:55 [info]  Clicked on the 'LoginButton'
+Jan 13,2017 19:01:07 [info]  Clicked on the 'Templates ' using JS Executor
+Jan 13,2017 19:01:07 [info]  
+Jan 13,2017 19:01:07 [info]  ------------Rights (incl. Media)------------
+Jan 13,2017 19:01:07 [info]  Clicked on the 'TemplateName Rights (incl. Media)' using JS Executor
+Jan 13,2017 19:01:15 [info]  Clicked on the 'Cancel Button'
+Jan 13,2017 19:01:21 [info]  Clicked on the 'Templates ' using JS Executor
+Jan 13,2017 19:02:26 [info]  ********************Started Executiong the Test Suite at 19:02:26******************
+Jan 13,2017 19:02:26 [info]  Client: VMN
+Jan 13,2017 19:02:26 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Jan 13,2017 19:02:26 [info]  *********************Started Executing 'TC1_PreRequisites' Test Case*********************
+Jan 13,2017 19:02:36 [info]  Client: VMN
+Jan 13,2017 19:02:36 [info]  URL: http://rlv3wb53/Home.aspx
+Jan 13,2017 19:02:36 [info]  UserName: admin
+Jan 13,2017 19:02:36 [info]  Password: admin
+Jan 13,2017 19:02:37 [info]  Entered "admin" in field 'User Name'
+Jan 13,2017 19:02:37 [info]  Clicked on the 'Temporary Check Box'
+Jan 13,2017 19:02:38 [info]  Entered "admin" in field 'Password'
+Jan 13,2017 19:02:50 [info]  Clicked on the 'LoginButton'
+Jan 13,2017 19:03:02 [info]  Clicked on the 'Templates ' using JS Executor
+Jan 13,2017 19:03:02 [info]  
+Jan 13,2017 19:03:02 [info]  ------------Rights (incl. Media)------------
+Jan 13,2017 19:03:02 [info]  Clicked on the 'TemplateName Rights (incl. Media)' using JS Executor
+Jan 13,2017 19:03:13 [info]  Clicked on the 'Cancel Button'
+Jan 13,2017 19:03:18 [info]  Clicked on the 'Templates ' using JS Executor
+Jan 13,2017 19:03:53 [info]  Clicked on the 'Templates ' using JS Executor
+Jan 13,2017 19:03:59 [info]  Clicked on the 'Templates ' using JS Executor
+Jan 13,2017 19:04:04 [info]  Clicked on the 'Templates ' using JS Executor
+Jan 13,2017 19:04:09 [info]  Clicked on the 'Templates ' using JS Executor
+Jan 13,2017 19:04:23 [info]  ********************Started Executiong the Test Suite at 19:04:22******************
+Jan 13,2017 19:04:23 [info]  Client: VMN
+Jan 13,2017 19:04:23 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Jan 13,2017 19:04:23 [info]  *********************Started Executing 'TC1_PreRequisites' Test Case*********************
+Jan 13,2017 19:04:32 [info]  Client: VMN
+Jan 13,2017 19:04:32 [info]  URL: http://rlv3wb53/Home.aspx
+Jan 13,2017 19:04:32 [info]  UserName: admin
+Jan 13,2017 19:04:32 [info]  Password: admin
+Jan 13,2017 19:04:33 [info]  Entered "admin" in field 'User Name'
+Jan 13,2017 19:04:34 [info]  Clicked on the 'Temporary Check Box'
+Jan 13,2017 19:04:34 [info]  Entered "admin" in field 'Password'
+Jan 13,2017 19:04:43 [info]  Clicked on the 'LoginButton'
+Jan 13,2017 19:04:54 [info]  Clicked on the 'Templates ' using JS Executor
+Jan 13,2017 19:04:54 [info]  
+Jan 13,2017 19:04:54 [info]  ------------Rights (incl. Media)------------
+Jan 13,2017 19:04:55 [info]  Clicked on the 'TemplateName Rights (incl. Media)' using JS Executor
+Jan 13,2017 19:05:03 [info]  Clicked on the 'Cancel Button'
+Jan 13,2017 19:05:09 [info]  Clicked on the 'Templates ' using JS Executor
+Jan 13,2017 19:05:09 [info]  
+Jan 13,2017 19:05:09 [info]  ------------All Users Rights------------
+<span style="color:red;">Jan 13,2017 19:05:39 [info]  ====Failed==== "TemplateName All Users Rights" field is not present'</span>
+Jan 13,2017 19:05:39 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Jan2017\\13\TemplateName All Users Rights_CheckpointFailure_01-13-2017 7-05-39 PM.jpg
+Jan 13,2017 19:07:17 [info]  ********************Started Executiong the Test Suite at 19:07:17******************
+Jan 13,2017 19:07:17 [info]  Client: VMN
+Jan 13,2017 19:07:17 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Jan 13,2017 19:07:17 [info]  *********************Started Executing 'TC1_PreRequisites' Test Case*********************
+Jan 13,2017 19:07:26 [info]  Client: VMN
+Jan 13,2017 19:07:26 [info]  URL: http://rlv3wb53/Home.aspx
+Jan 13,2017 19:07:26 [info]  UserName: admin
+Jan 13,2017 19:07:26 [info]  Password: admin
+Jan 13,2017 19:07:27 [info]  Entered "admin" in field 'User Name'
+Jan 13,2017 19:07:28 [info]  Clicked on the 'Temporary Check Box'
+Jan 13,2017 19:07:28 [info]  Entered "admin" in field 'Password'
+Jan 13,2017 19:07:39 [info]  Clicked on the 'LoginButton'
+Jan 13,2017 19:07:50 [info]  Clicked on the 'Templates ' using JS Executor
+Jan 13,2017 19:07:50 [info]  
+Jan 13,2017 19:07:50 [info]  ------------Rights (incl. Media)------------
+Jan 13,2017 19:07:50 [info]  Clicked on the 'TemplateName Rights (incl. Media)' using JS Executor
+Jan 13,2017 19:07:59 [info]  Clicked on the 'Cancel Button'
+Jan 13,2017 19:08:04 [info]  Clicked on the 'Templates ' using JS Executor
+Jan 13,2017 19:08:04 [info]  
+Jan 13,2017 19:08:04 [info]  ------------All Users Rights------------
+Jan 13,2017 19:08:36 [info]  ********************Started Executiong the Test Suite at 19:08:36******************
+Jan 13,2017 19:08:36 [info]  Client: VMN
+Jan 13,2017 19:08:36 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Jan 13,2017 19:08:36 [info]  *********************Started Executing 'TC1_PreRequisites' Test Case*********************
+Jan 13,2017 19:08:46 [info]  Client: VMN
+Jan 13,2017 19:08:46 [info]  URL: http://rlv3wb53/Home.aspx
+Jan 13,2017 19:08:46 [info]  UserName: admin
+Jan 13,2017 19:08:46 [info]  Password: admin
+Jan 13,2017 19:08:47 [info]  Entered "admin" in field 'User Name'
+Jan 13,2017 19:08:47 [info]  Clicked on the 'Temporary Check Box'
+Jan 13,2017 19:08:47 [info]  Entered "admin" in field 'Password'
+Jan 13,2017 19:08:58 [info]  Clicked on the 'LoginButton'
+Jan 13,2017 19:09:09 [info]  Clicked on the 'Templates ' using JS Executor
+Jan 13,2017 19:09:15 [info]  Clicked on the 'Templates ' using JS Executor
+Jan 13,2017 19:09:20 [info]  Clicked on the 'Templates ' using JS Executor
+Jan 13,2017 19:09:25 [info]  Clicked on the 'Templates ' using JS Executor
+Jan 13,2017 19:09:31 [info]  Clicked on the 'Templates ' using JS Executor
+Jan 13,2017 19:09:36 [info]  Clicked on the 'Templates ' using JS Executor
+Jan 13,2017 19:09:41 [info]  Clicked on the 'Templates ' using JS Executor
+Jan 13,2017 19:09:46 [info]  Clicked on the 'Templates ' using JS Executor
+Jan 13,2017 19:09:52 [info]  Clicked on the 'Templates ' using JS Executor
+Jan 13,2017 19:09:57 [info]  Clicked on the 'Templates ' using JS Executor
+Jan 13,2017 19:10:02 [info]  Clicked on the 'Templates ' using JS Executor
+Jan 13,2017 19:10:08 [info]  Clicked on the 'Templates ' using JS Executor
+Jan 13,2017 19:10:13 [info]  Clicked on the 'Templates ' using JS Executor
+Jan 13,2017 19:10:18 [info]  Clicked on the 'Templates ' using JS Executor

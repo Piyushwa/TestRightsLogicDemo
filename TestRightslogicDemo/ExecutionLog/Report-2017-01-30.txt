@@ -1,0 +1,892 @@
+Jan 30,2017 12:35:47 [info]  ********************Started Executiong the Test Suite at 12:35:47******************
+Jan 30,2017 12:35:47 [info]  Client: VMN
+Jan 30,2017 12:35:47 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Jan 30,2017 12:35:47 [info]  *********************Started Executing 'TC1_MediaRightsRow' Test Case*********************
+Jan 30,2017 12:35:58 [info]  Client: VMN
+Jan 30,2017 12:35:58 [info]  URL: http://cgptwb01/Home.aspx
+Jan 30,2017 12:35:58 [info]  UserName: automation
+Jan 30,2017 12:35:58 [info]  Password: automation
+Jan 30,2017 12:36:03 [info]  Entered "automation" in field 'User Name'
+Jan 30,2017 12:36:03 [info]  Clicked on the 'Temporary Check Box'
+Jan 30,2017 12:36:03 [info]  Entered "automation" in field 'Password'
+Jan 30,2017 12:36:16 [info]  Clicked on the 'LoginButton'
+Jan 30,2017 12:36:23 [info]  ************************Started Creating Asset of Type: Program - Series************************
+Jan 30,2017 12:36:26 [info]  Clicked on the 'MODULE'
+Jan 30,2017 12:36:34 [info]  Clicked on the 'Property Entry & Maintenance'
+Jan 30,2017 12:36:41 [info]  Clicked on the 'SearchLink' using JS Executor
+Jan 30,2017 12:36:45 [info]  Clicked on the 'Property Search' using JS Executor
+Jan 30,2017 12:36:51 [info]  Clicked on the 'TR_Asset_Search_Params' using JS Executor
+Jan 30,2017 12:36:51 [info]  Entered "AUT_AssetSeries_TC1_01302017123547" in field 'Asset Title'
+Jan 30,2017 12:37:01 [info]  Clicked on the 'Find Button' using JS Executor
+Jan 30,2017 12:37:07 [info]  Verify The data of Alert Message
+<span style="color:green;">Jan 30,2017 12:37:07 [info]  Verified that Expected value :[No search results were found for this query. Please try again using different criteria.] is matched with Actual value :[No search results were found for this query. Please try again using different criteria.]</span>
+Jan 30,2017 12:37:07 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Jan 30,2017 12:37:07 [info]  Clicked on the 'Ok button At Alert' using JS Executor
+Jan 30,2017 12:37:14 [info]  Clicked on the 'Add Asset Button' using JS Executor
+Jan 30,2017 12:37:17 [info]  Selected "Program" in "AssetTypeDropDown Pop upn VMN" drop down
+Jan 30,2017 12:37:30 [info]  Double clicked on 'OK Button'
+Jan 30,2017 12:37:36 [info]  Asset id is 192723
+Jan 30,2017 12:37:45 [info]  Selected "Program - Series" in "AssetTypeDropDown" drop down
+Jan 30,2017 12:37:48 [info]  Entered "AUT_AssetSeries_TC1_01302017123547" in field 'AssetTitle'
+Jan 30,2017 12:37:49 [info]  Clicked on the 'IPImageIcon' using JS Executor
+Jan 30,2017 12:37:50 [info]  Clicked on the 'Find Button' using JS Executor
+Jan 30,2017 12:37:53 [info]  Clicked on the 'loc_IPName_AT_IPWindow'
+Jan 30,2017 12:37:53 [info]  Clicked on the 'IP Select Button' using JS Executor
+Jan 30,2017 12:37:55 [info]  Clicked on the 'Vendor Img Icon' using JS Executor
+Jan 30,2017 12:37:55 [info]  Entered "AUT_VMN_Vendor1" in field 'SearchvalueVendor'
+Jan 30,2017 12:38:07 [info]  Clicked on the 'VendorWindowButtonfind' using JS Executor
+Jan 30,2017 12:38:13 [info]  Clicked on the 'VendorName At VendorWindow'
+Jan 30,2017 12:38:13 [info]  Clicked on the 'Vendor Select Button' using JS Executor
+Jan 30,2017 12:38:16 [info]  Verify The data of Vendor1
+<span style="color:green;">Jan 30,2017 12:38:16 [info]  Verified that Expected value :[AUT_VMN_Vendor1] is matched with Actual value :[AUT_VMN_Vendor1]</span>
+Jan 30,2017 12:38:17 [info]  Clicked on the 'StudioImageIcon' using JS Executor
+<span style="color:green;">Jan 30,2017 12:38:17 [info]  Verified that Expected value :[Select Copyright Owner] is matched with Actual value :[Select Copyright Owner]</span>
+Jan 30,2017 12:38:17 [info]  Entered "AUT_VMN_Studio" in field 'Studio Name'
+Jan 30,2017 12:38:27 [info]  Clicked on the 'Find Button' using JS Executor
+Jan 30,2017 12:38:35 [info]  Clicked on the 'VendorName At VendorWindow'
+Jan 30,2017 12:38:35 [info]  Clicked on the 'Vendor Select Button' using JS Executor
+Jan 30,2017 12:38:38 [info]  Verify The data of Studio/Vendor2
+<span style="color:green;">Jan 30,2017 12:38:38 [info]  Verified that Expected value :[AUT_VMN_Studio] is matched with Actual value :[AUT_VMN_Studio]</span>
+Jan 30,2017 12:38:40 [info]  Clicked on the 'SBUImage' using JS Executor
+<span style="color:green;">Jan 30,2017 12:38:40 [info]  Verified that Expected value :[Channel / Entity Template] is matched with Actual value :[Channel / Entity Template]</span>
+Jan 30,2017 12:38:46 [info]  Clicked on the 'First CheckBox At SBU window'
+Jan 30,2017 12:38:48 [info]  Clicked on the 'Apply Button' using JS Executor
+Jan 30,2017 12:38:49 [info]  Entered "11:11:11" in field 'Duration'
+Jan 30,2017 12:38:59 [info]  Selected "Active Production" in "Asset Status" drop down
+Jan 30,2017 12:38:59 [info]  Selected "Animated" in "Asset Format" drop down
+Jan 30,2017 12:38:59 [info]  Selected "Co-Production" in "Asset Source" drop down
+Jan 30,2017 12:38:59 [info]  Selected "Television" in "Asset Category/Group" drop down
+Jan 30,2017 12:39:00 [info]  Entered "" in field 'ProjectID'
+Jan 30,2017 12:39:00 [info]  Selected "TBD" in "Client Group" drop down
+Jan 30,2017 12:39:00 [info]  Selected "In Progress" in "PROD Contract Entry/AssetData Status" drop down
+Jan 30,2017 12:39:00 [info]  Clicked on the 'Save Button' using JS Executor
+<span style="color:green;">Jan 30,2017 12:39:21 [info]  Verified that Expected value :[AUT_AssetSeries_TC1_01302017123547] is matched with Actual value :[AUT_AssetSeries_TC1_01302017123547]</span>
+Jan 30,2017 12:39:21 [info]  ************************Created Asset of TypeProgram - Series************************
+Jan 30,2017 12:39:24 [info]  Clicked on the 'MODULE'
+Jan 30,2017 12:39:31 [info]  Clicked on the 'Property Entry & Maintenance'
+Jan 30,2017 12:39:34 [info]  Clicked on the 'Search Icon' using JS Executor
+Jan 30,2017 12:39:35 [info]  Clicked on the 'Property Search' using JS Executor
+Jan 30,2017 12:39:44 [info]  Entered "AUT_AssetSeries_TC1_01302017123547" in field 'AssetTitle'
+Jan 30,2017 12:39:51 [info]  Clicked on the 'Find Button' using JS Executor
+Jan 30,2017 12:40:16 [info]  Moved Mouse over 'First Asset in the Searched Asset'
+Jan 30,2017 12:40:16 [info]  Clicked on the 'First Asset in the Searched Asset'
+Jan 30,2017 12:40:16 [info]  Clicked on the 'First Asset in the Searched Asset'
+Jan 30,2017 12:40:19 [info]  Clicked on the 'View Asset' using JS Executor
+<span style="color:green;">Jan 30,2017 12:40:31 [info]  Verified that Expected value :[AUT_AssetSeries_TC1_01302017123547] is matched with Actual value :[AUT_AssetSeries_TC1_01302017123547]</span>
+Jan 30,2017 12:40:37 [info]  Clicked on the 'Episodes TAB'
+Jan 30,2017 12:40:43 [info]  Clicked on the ''Edit' Button at Episode window' using JS Executor
+Jan 30,2017 12:40:49 [info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Jan 30,2017 12:40:52 [info]  Entered "101" in field 'Add Episode input field'
+Jan 30,2017 12:40:55 [info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Jan 30,2017 12:41:03 [info]  Clicked on the 'Season Field of Episode101' using JS Executor
+Jan 30,2017 12:41:03 [info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Jan 30,2017 12:41:04 [info]  Clicked on the 'Season 1.Original Version'
+Jan 30,2017 12:41:04 [info]  Clicked on the 'Support click to select season'
+Jan 30,2017 12:41:04 [info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Jan 30,2017 12:41:07 [info]  Entered "102" in field 'Add Episode input field'
+Jan 30,2017 12:41:12 [info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Jan 30,2017 12:41:20 [info]  Clicked on the 'Season Field of Episode101' using JS Executor
+Jan 30,2017 12:41:20 [info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Jan 30,2017 12:41:20 [info]  Clicked on the 'Season 1.Original Version'
+Jan 30,2017 12:41:20 [info]  Clicked on the 'Support click to select season'
+Jan 30,2017 12:41:20 [info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Jan 30,2017 12:41:23 [info]  Entered "201" in field 'Add Episode input field'
+Jan 30,2017 12:41:25 [info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Jan 30,2017 12:41:34 [info]  Clicked on the 'Season Field of Episode101' using JS Executor
+Jan 30,2017 12:41:34 [info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Jan 30,2017 12:41:34 [info]  Clicked on the 'Season 1.Original Version'
+Jan 30,2017 12:41:34 [info]  Clicked on the 'Support click to select season'
+Jan 30,2017 12:41:34 [info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Jan 30,2017 12:41:37 [info]  Entered "202" in field 'Add Episode input field'
+Jan 30,2017 12:41:39 [info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Jan 30,2017 12:41:48 [info]  Clicked on the 'Season Field of Episode101' using JS Executor
+Jan 30,2017 12:41:48 [info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Jan 30,2017 12:41:48 [info]  Clicked on the 'Season 1.Original Version'
+Jan 30,2017 12:41:48 [info]  Clicked on the 'Support click to select season'
+Jan 30,2017 12:41:56 [info]  Clicked on the 'Save Button at 'Episode Edit Window'' using JS Executor
+Jan 30,2017 12:42:04 [info]  Clicked on the 'Close Button at 'Episode Edit Window'' using JS Executor
+Jan 30,2017 12:42:28 [info]  Clicked on the 'New Button' using JS Executor
+Jan 30,2017 12:42:33 [info]  Clicked on the 'Standalone Agreement' using JS Executor
+Jan 30,2017 12:42:39 [info]  Generated Deal Id is 30622
+Jan 30,2017 12:42:39 [info]  Clicked on the 'DealTitleField' using JS Executor
+Jan 30,2017 12:42:40 [info]  Entered "AUT_Deal_TC1_01302017123547" in field 'Deal Name Field'
+Jan 30,2017 12:42:41 [info]  Entered "AUT_Deal_TC1_01302017123547_desc" in field 'Deal Description/ContractID'
+Jan 30,2017 12:42:41 [info]  Selected "Program Acquisition/Licensed Original" in "DealType_DropDownField" drop down
+Jan 30,2017 12:42:41 [info]  Entered "Fully Executed" in field 'Deal Creation Contract Status'
+Jan 30,2017 12:42:42 [info]  Entered "Finalized / Approved" in field 'DealCreationCDEStatus'
+Jan 30,2017 12:42:42 [info]  Entered "01/01/2014" in field 'DateExecuted_InputField'
+Jan 30,2017 12:42:48 [info]  Clicked on the 'SBU look up Icon' using JS Executor
+Jan 30,2017 12:42:55 [info]  Clicked on the 'Select All Button at SBU'
+Jan 30,2017 12:42:55 [info]  Clicked on the 'FirstCheckBoxAtSBU'
+Jan 30,2017 12:42:55 [info]  Clicked on the 'NinthCheckBoxAtSBU'
+Jan 30,2017 12:42:56 [info]  Clicked on the 'Apply Button'
+Jan 30,2017 12:42:56 [info]  Clicked on the 'Doc Type look up Icon' using JS Executor
+Jan 30,2017 12:43:02 [info]  Clicked on the 'Select All Button at SBU'
+Jan 30,2017 12:43:03 [info]  Clicked on the 'FirstCheckBoxAtSBU'
+Jan 30,2017 12:43:03 [info]  Clicked on the 'NinthCheckBoxAtSBU'
+Jan 30,2017 12:43:03 [info]  Clicked on the 'Apply Button'
+Jan 30,2017 12:43:06 [info]  Moved Mouse over 'Party_AddButton'
+Jan 30,2017 12:43:06 [info]  Clicked on the 'Party_AddButton'
+Jan 30,2017 12:43:07 [info]  Clicked on the 'PartyPopUp Icon' using JS Executor
+Jan 30,2017 12:43:10 [info]  Entered "AUT_VMN_RI_PRIMARY_PARTY" in field 'Search Party InputField'
+Jan 30,2017 12:43:20 [info]  Double clicked on 'RI Search Party Window Find Button'
+Jan 30,2017 12:43:24 [info]  Clicked on the 'AUT_VMN_RI_PRIMARY_PARTY'
+Jan 30,2017 12:43:24 [info]  Clicked on the 'Select Button'
+Jan 30,2017 12:43:30 [info]  Clicked on the 'Party Type Field' using JS Executor
+Jan 30,2017 12:43:31 [info]  Entered "Primary" in field 'Party Party InputField'
+Jan 30,2017 12:43:31 [info]  Clicked on the 'Support Click '
+Jan 30,2017 12:43:31 [info]  Clicked on the 'Party_AddButton' using JS Executor
+Jan 30,2017 12:43:32 [info]  Clicked on the 'PartyPopUp Icon' using JS Executor
+Jan 30,2017 12:43:37 [info]  Entered "AUT_VMN_RI_LICENSOR_PARTY" in field 'Search Party InputField'
+Jan 30,2017 12:43:46 [info]  Double clicked on 'RI Search Party Window Find Button'
+Jan 30,2017 12:43:55 [info]  Clicked on the 'Select Party'
+Jan 30,2017 12:43:55 [info]  Clicked on the 'Select Button'
+Jan 30,2017 12:44:01 [info]  Clicked on the 'Party Type Field' using JS Executor
+Jan 30,2017 12:44:01 [info]  Entered "Licensor" in field 'Party Party InputField'
+Jan 30,2017 12:44:01 [info]  Clicked on the 'Support Click '
+Jan 30,2017 12:44:13 [info]  Clicked on the 'Save Button' using JS Executor
+Jan 30,2017 12:44:19 [info]  Verify The data of CreatedDeal
+<span style="color:green;">Jan 30,2017 12:44:19 [info]  Verified that Expected value :[AUT_Deal_TC1_01302017123547] is matched with Actual value :[AUT_Deal_TC1_01302017123547]</span>
+Jan 30,2017 12:44:21 [info]  Clicked on the 'Modules'
+Jan 30,2017 12:44:21 [info]  Clicked on the 'Modules'
+Jan 30,2017 12:44:32 [info]  Clicked on the 'RightsIN'
+Jan 30,2017 12:44:32 [info]  Clicked on the 'Search Icon' using JS Executor
+Jan 30,2017 12:44:35 [info]  Clicked on the 'Agreement Link' using JS Executor
+Jan 30,2017 12:44:39 [info]  Entered "AUT_Deal_TC1_01302017123547" in field 'AssetTitle'
+Jan 30,2017 12:44:47 [info]  Clicked on the 'Find Button' using JS Executor
+Jan 30,2017 12:44:50 [info]  Moved Mouse over 'First Asset in the Searched Asset'
+Jan 30,2017 12:44:50 [info]  Clicked on the 'First Asset in the Searched Asset'
+Jan 30,2017 12:44:53 [info]  Clicked on the 'View Asset' using JS Executor
+<span style="color:green;">Jan 30,2017 12:44:59 [info]  Verified that Expected value :[AUT_Deal_TC1_01302017123547] is matched with Actual value :[AUT_Deal_TC1_01302017123547]</span>
+Jan 30,2017 12:45:04 [info]  Clicked on the 'Navigator' using JS Executor
+Jan 30,2017 12:45:11 [info]  Clicked on the 'Associate With Exiting Asset' using JS Executor
+Jan 30,2017 12:45:11 [info]  Clicked on the 'Asset Status'
+Jan 30,2017 12:45:11 [info]  Clicked on the 'Asset tile' using JS Executor
+Jan 30,2017 12:45:11 [info]  Entered "AUT_AssetSeries_TC1_01302017123547" in field 'Asset title'
+<span style="color:red;">Jan 30,2017 12:45:11 [info]  =====BUG ID======: 20309</span>
+Jan 30,2017 12:45:12 [info]  Clicked on the 'Display Season checkBox' using JS Executor
+Jan 30,2017 12:45:15 [info]  Clicked on the 'Search Button' using JS Executor
+Jan 30,2017 12:45:22 [info]  Clicked on the 'Toggle'
+Jan 30,2017 12:45:25 [info]  Double clicked on 'Searched Asset'
+Jan 30,2017 12:45:43 [info]  Clicked on the 'Ok Button'
+Jan 30,2017 12:45:50 [info]  Double clicked on 'AUT_Deal_TC1_01302017123547Deal'
+Jan 30,2017 12:45:53 [info]  Clicked on the 'Media Rights TAB'
+Jan 30,2017 12:45:58 [info]  Clicked on the ''Edit' Button at Media Rights TAB' using JS Executor
+Jan 30,2017 12:46:05 [info]  Clicked on the ''Add' Button at Media Rights Edit window' using JS Executor
+Jan 30,2017 12:46:08 [info]  
+Jan 30,2017 12:46:08 [info]  ----------Enter the data in all Fields of Media Rights in Row:1
+Jan 30,2017 12:46:08 [info]  ----------Enter the data in "*Property" Field of Media Rights 
+Jan 30,2017 12:46:09 [info]  Double clicked on 'RI_MediaRights_EditMode_Property'
+Jan 30,2017 12:46:09 [info]  Clicked on the '*PropertyDrop Down Image'
+Jan 30,2017 12:46:09 [info]  Clicked on the 'All'
+Jan 30,2017 12:46:13 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Jan 30,2017 12:46:13 [info]  Verify The data of RI_MediaRights_EditMode_*Property
+<span style="color:green;">Jan 30,2017 12:46:13 [info]  Verified that Expected value :[All] is matched with Actual value :[All]</span>
+Jan 30,2017 12:46:13 [info]  ----------Enter the data in "*Rights (incl. Media)" Field of Media Rights 
+Jan 30,2017 12:46:14 [info]  Double clicked on 'RI_MediaRights_EditMode_Rights (incl. Media)'
+Jan 30,2017 12:46:14 [info]  Clicked on the '*Rights (incl. Media)Drop Down Image'
+Jan 30,2017 12:46:14 [info]  Clicked on the 'All Media'
+Jan 30,2017 12:46:17 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Jan 30,2017 12:46:17 [info]  Verify The data of RI_MediaRights_EditMode_*Rights (incl. Media)
+<span style="color:green;">Jan 30,2017 12:46:17 [info]  Verified that Expected value :[All Media] is matched with Actual value :[All Media]</span>
+Jan 30,2017 12:46:17 [info]  ----------Enter the data in "*Usage Rights" Field of Media Rights 
+Jan 30,2017 12:46:19 [info]  Double clicked on 'RI_MediaRights_EditMode_Usage Rights'
+Jan 30,2017 12:46:19 [info]  Clicked on the '*Usage RightsDrop Down Image'
+Jan 30,2017 12:46:19 [info]  Clicked on the 'Full Length'
+Jan 30,2017 12:46:22 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Jan 30,2017 12:46:22 [info]  Verify The data of RI_MediaRights_EditMode_*Usage Rights
+<span style="color:green;">Jan 30,2017 12:46:22 [info]  Verified that Expected value :[Full Length] is matched with Actual value :[Full Length]</span>
+Jan 30,2017 12:46:22 [info]  ----------Enter the data in "*Outlets" Field of Media Rights 
+Jan 30,2017 12:46:23 [info]  Double clicked on 'RI_MediaRights_EditMode_Outlets'
+Jan 30,2017 12:46:23 [info]  Clicked on the '*OutletsDrop Down Image'
+Jan 30,2017 12:46:24 [info]  Clicked on the 'All Outlets'
+Jan 30,2017 12:46:27 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Jan 30,2017 12:46:27 [info]  Verify The data of RI_MediaRights_EditMode_*Outlets
+<span style="color:green;">Jan 30,2017 12:46:27 [info]  Verified that Expected value :[All Outlets] is matched with Actual value :[All Outlets]</span>
+Jan 30,2017 12:46:27 [info]  ----------Enter the data in "*Territory" Field of Media Rights 
+Jan 30,2017 12:46:28 [info]  Double clicked on 'RI_MediaRights_EditMode_Territory'
+Jan 30,2017 12:46:28 [info]  Clicked on the '*TerritoryDrop Down Image'
+Jan 30,2017 12:46:29 [info]  Clicked on the 'All Worldwide'
+Jan 30,2017 12:46:32 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Jan 30,2017 12:46:32 [info]  Verify The data of RI_MediaRights_EditMode_*Territory
+<span style="color:green;">Jan 30,2017 12:46:32 [info]  Verified that Expected value :[All Worldwide] is matched with Actual value :[All Worldwide]</span>
+Jan 30,2017 12:46:32 [info]  ----------Enter the data in "*Language" Field of Media Rights 
+Jan 30,2017 12:46:33 [info]  Double clicked on 'RI_MediaRights_EditMode_Language'
+Jan 30,2017 12:46:33 [info]  Clicked on the '*LanguageDrop Down Image'
+Jan 30,2017 12:46:33 [info]  Clicked on the 'All Languages'
+Jan 30,2017 12:46:36 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Jan 30,2017 12:46:36 [info]  Verify The data of RI_MediaRights_EditMode_*Language
+<span style="color:green;">Jan 30,2017 12:46:36 [info]  Verified that Expected value :[All Languages] is matched with Actual value :[All Languages]</span>
+Jan 30,2017 12:46:37 [info]  Clicked on the 'Term From Field'
+Jan 30,2017 12:46:37 [info]  Entered "01/01/2017" in field 'Term From'
+Jan 30,2017 12:46:37 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Jan 30,2017 12:46:37 [info]  Verify The data of Term From Data
+<span style="color:green;">Jan 30,2017 12:46:37 [info]  Verified that Expected value :[01/01/2017] is matched with Actual value :[01/01/2017]</span>
+Jan 30,2017 12:46:37 [info]  Clicked on the 'Term To Field'
+Jan 30,2017 12:46:37 [info]  Entered "12/31/2019" in field 'Term To input Field'
+Jan 30,2017 12:46:38 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Jan 30,2017 12:46:38 [info]  Verify The data of Term From Data
+<span style="color:green;">Jan 30,2017 12:46:38 [info]  Verified that Expected value :[12/31/2019] is matched with Actual value :[12/31/2019]</span>
+Jan 30,2017 12:46:39 [info]  Clicked on the ''Add' Button at Media Rights Edit window' using JS Executor
+Jan 30,2017 12:46:42 [info]  
+Jan 30,2017 12:46:42 [info]  ----------Enter the data in all Fields of Media Rights in Row:2
+Jan 30,2017 12:46:42 [info]  ----------Enter the data in "*Property" Field of Media Rights 
+Jan 30,2017 12:46:44 [info]  Double clicked on 'RI_MediaRights_EditMode_Property'
+Jan 30,2017 12:46:44 [info]  Clicked on the '*PropertyDrop Down Image'
+Jan 30,2017 12:46:44 [info]  Clicked on the 'AUT_AssetSeries_TC1_01302017123547'
+Jan 30,2017 12:46:47 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Jan 30,2017 12:46:47 [info]  Verify The data of RI_MediaRights_EditMode_*Property
+<span style="color:green;">Jan 30,2017 12:46:47 [info]  Verified that Expected value :[AUT_AssetSeries_TC1_01302017123547] is matched with Actual value :[AUT_AssetSeries_TC1_01302017123547]</span>
+Jan 30,2017 12:46:47 [info]  ----------Enter the data in "*Rights (incl. Media)" Field of Media Rights 
+Jan 30,2017 12:46:48 [info]  Double clicked on 'RI_MediaRights_EditMode_Rights (incl. Media)'
+Jan 30,2017 12:46:49 [info]  Clicked on the '*Rights (incl. Media)Drop Down Image'
+Jan 30,2017 12:46:49 [info]  Clicked on the 'All Media'
+Jan 30,2017 12:46:52 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Jan 30,2017 12:46:52 [info]  Verify The data of RI_MediaRights_EditMode_*Rights (incl. Media)
+<span style="color:green;">Jan 30,2017 12:46:52 [info]  Verified that Expected value :[All Media] is matched with Actual value :[All Media]</span>
+Jan 30,2017 12:46:52 [info]  ----------Enter the data in "*Usage Rights" Field of Media Rights 
+Jan 30,2017 12:46:53 [info]  Double clicked on 'RI_MediaRights_EditMode_Usage Rights'
+Jan 30,2017 12:46:54 [info]  Clicked on the '*Usage RightsDrop Down Image'
+Jan 30,2017 12:46:54 [info]  Clicked on the 'Full Length'
+Jan 30,2017 12:46:57 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Jan 30,2017 12:46:57 [info]  Verify The data of RI_MediaRights_EditMode_*Usage Rights
+<span style="color:green;">Jan 30,2017 12:46:57 [info]  Verified that Expected value :[Full Length] is matched with Actual value :[Full Length]</span>
+Jan 30,2017 12:46:57 [info]  ----------Enter the data in "*Outlets" Field of Media Rights 
+Jan 30,2017 12:46:58 [info]  Double clicked on 'RI_MediaRights_EditMode_Outlets'
+Jan 30,2017 12:46:58 [info]  Clicked on the '*OutletsDrop Down Image'
+Jan 30,2017 12:46:58 [info]  Clicked on the 'All Outlets'
+Jan 30,2017 12:47:01 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Jan 30,2017 12:47:01 [info]  Verify The data of RI_MediaRights_EditMode_*Outlets
+<span style="color:green;">Jan 30,2017 12:47:01 [info]  Verified that Expected value :[All Outlets] is matched with Actual value :[All Outlets]</span>
+Jan 30,2017 12:47:01 [info]  ----------Enter the data in "*Territory" Field of Media Rights 
+Jan 30,2017 12:47:03 [info]  Double clicked on 'RI_MediaRights_EditMode_Territory'
+Jan 30,2017 12:47:03 [info]  Clicked on the '*TerritoryDrop Down Image'
+Jan 30,2017 12:47:03 [info]  Clicked on the 'All Worldwide'
+Jan 30,2017 12:47:06 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Jan 30,2017 12:47:06 [info]  Verify The data of RI_MediaRights_EditMode_*Territory
+<span style="color:green;">Jan 30,2017 12:47:06 [info]  Verified that Expected value :[All Worldwide] is matched with Actual value :[All Worldwide]</span>
+Jan 30,2017 12:47:06 [info]  ----------Enter the data in "*Language" Field of Media Rights 
+Jan 30,2017 12:47:07 [info]  Double clicked on 'RI_MediaRights_EditMode_Language'
+Jan 30,2017 12:47:08 [info]  Clicked on the '*LanguageDrop Down Image'
+Jan 30,2017 12:47:08 [info]  Clicked on the 'All Languages'
+Jan 30,2017 12:47:11 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Jan 30,2017 12:47:11 [info]  Verify The data of RI_MediaRights_EditMode_*Language
+<span style="color:green;">Jan 30,2017 12:47:11 [info]  Verified that Expected value :[All Languages] is matched with Actual value :[All Languages]</span>
+Jan 30,2017 12:47:11 [info]  Clicked on the 'Term From Field'
+Jan 30,2017 12:47:11 [info]  Entered "01/01/2017" in field 'Term From'
+Jan 30,2017 12:47:11 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Jan 30,2017 12:47:11 [info]  Verify The data of Term From Data
+<span style="color:green;">Jan 30,2017 12:47:11 [info]  Verified that Expected value :[01/01/2017] is matched with Actual value :[01/01/2017]</span>
+Jan 30,2017 12:47:12 [info]  Clicked on the 'Term To Field'
+Jan 30,2017 12:47:12 [info]  Entered "12/31/2019" in field 'Term To input Field'
+Jan 30,2017 12:47:12 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Jan 30,2017 12:47:12 [info]  Verify The data of Term From Data
+<span style="color:green;">Jan 30,2017 12:47:12 [info]  Verified that Expected value :[12/31/2019] is matched with Actual value :[12/31/2019]</span>
+Jan 30,2017 12:47:13 [info]  Clicked on the ''Add' Button at Media Rights Edit window' using JS Executor
+Jan 30,2017 12:47:17 [info]  
+Jan 30,2017 12:47:17 [info]  ----------Enter the data in all Fields of Media Rights in Row:3
+Jan 30,2017 12:47:17 [info]  ----------Enter the data in "*Property" Field of Media Rights 
+Jan 30,2017 12:47:18 [info]  Double clicked on 'RI_MediaRights_EditMode_Property'
+Jan 30,2017 12:47:18 [info]  Clicked on the '*PropertyDrop Down Image'
+Jan 30,2017 12:47:18 [info]  Clicked on the 'Season 1.Original Version'
+Jan 30,2017 12:47:21 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Jan 30,2017 12:47:21 [info]  Verify The data of RI_MediaRights_EditMode_*Property
+<span style="color:green;">Jan 30,2017 12:47:21 [info]  Verified that Expected value :[Season 1.Original Version] is matched with Actual value :[   Season 1.Original Version]</span>
+Jan 30,2017 12:47:21 [info]  ----------Enter the data in "*Rights (incl. Media)" Field of Media Rights 
+Jan 30,2017 12:47:23 [info]  Double clicked on 'RI_MediaRights_EditMode_Rights (incl. Media)'
+Jan 30,2017 12:47:23 [info]  Clicked on the '*Rights (incl. Media)Drop Down Image'
+Jan 30,2017 12:47:23 [info]  Clicked on the 'All Media'
+Jan 30,2017 12:47:26 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Jan 30,2017 12:47:26 [info]  Verify The data of RI_MediaRights_EditMode_*Rights (incl. Media)
+<span style="color:green;">Jan 30,2017 12:47:26 [info]  Verified that Expected value :[All Media] is matched with Actual value :[All Media]</span>
+Jan 30,2017 12:47:26 [info]  ----------Enter the data in "*Usage Rights" Field of Media Rights 
+Jan 30,2017 12:47:27 [info]  Double clicked on 'RI_MediaRights_EditMode_Usage Rights'
+Jan 30,2017 12:47:27 [info]  Clicked on the '*Usage RightsDrop Down Image'
+Jan 30,2017 12:47:27 [info]  Clicked on the 'Full Length'
+Jan 30,2017 12:47:31 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Jan 30,2017 12:47:31 [info]  Verify The data of RI_MediaRights_EditMode_*Usage Rights
+<span style="color:green;">Jan 30,2017 12:47:31 [info]  Verified that Expected value :[Full Length] is matched with Actual value :[Full Length]</span>
+Jan 30,2017 12:47:31 [info]  ----------Enter the data in "*Outlets" Field of Media Rights 
+Jan 30,2017 12:47:32 [info]  Double clicked on 'RI_MediaRights_EditMode_Outlets'
+Jan 30,2017 12:47:32 [info]  Clicked on the '*OutletsDrop Down Image'
+Jan 30,2017 12:47:32 [info]  Clicked on the 'All Outlets'
+Jan 30,2017 12:47:35 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Jan 30,2017 12:47:36 [info]  Verify The data of RI_MediaRights_EditMode_*Outlets
+<span style="color:green;">Jan 30,2017 12:47:36 [info]  Verified that Expected value :[All Outlets] is matched with Actual value :[All Outlets]</span>
+Jan 30,2017 12:47:36 [info]  ----------Enter the data in "*Territory" Field of Media Rights 
+Jan 30,2017 12:47:37 [info]  Double clicked on 'RI_MediaRights_EditMode_Territory'
+Jan 30,2017 12:47:37 [info]  Clicked on the '*TerritoryDrop Down Image'
+Jan 30,2017 12:47:37 [info]  Clicked on the 'All Worldwide'
+Jan 30,2017 12:47:40 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Jan 30,2017 12:47:40 [info]  Verify The data of RI_MediaRights_EditMode_*Territory
+<span style="color:green;">Jan 30,2017 12:47:40 [info]  Verified that Expected value :[All Worldwide] is matched with Actual value :[All Worldwide]</span>
+Jan 30,2017 12:47:40 [info]  ----------Enter the data in "*Language" Field of Media Rights 
+Jan 30,2017 12:47:41 [info]  Double clicked on 'RI_MediaRights_EditMode_Language'
+Jan 30,2017 12:47:41 [info]  Clicked on the '*LanguageDrop Down Image'
+Jan 30,2017 12:47:42 [info]  Clicked on the 'All Languages'
+Jan 30,2017 12:47:45 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Jan 30,2017 12:47:45 [info]  Verify The data of RI_MediaRights_EditMode_*Language
+<span style="color:green;">Jan 30,2017 12:47:45 [info]  Verified that Expected value :[All Languages] is matched with Actual value :[All Languages]</span>
+Jan 30,2017 12:47:45 [info]  Clicked on the 'Term From Field'
+Jan 30,2017 12:47:45 [info]  Entered "01/01/2017" in field 'Term From'
+Jan 30,2017 12:47:45 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Jan 30,2017 12:47:45 [info]  Verify The data of Term From Data
+<span style="color:green;">Jan 30,2017 12:47:45 [info]  Verified that Expected value :[01/01/2017] is matched with Actual value :[01/01/2017]</span>
+Jan 30,2017 12:47:46 [info]  Clicked on the 'Term To Field'
+Jan 30,2017 12:47:46 [info]  Entered "12/31/2019" in field 'Term To input Field'
+Jan 30,2017 12:47:46 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Jan 30,2017 12:47:46 [info]  Verify The data of Term From Data
+<span style="color:green;">Jan 30,2017 12:47:46 [info]  Verified that Expected value :[12/31/2019] is matched with Actual value :[12/31/2019]</span>
+Jan 30,2017 12:47:48 [info]  Clicked on the ''Add' Button at Media Rights Edit window' using JS Executor
+Jan 30,2017 12:47:51 [info]  
+Jan 30,2017 12:47:51 [info]  ----------Enter the data in all Fields of Media Rights in Row:4
+Jan 30,2017 12:47:51 [info]  ----------Enter the data in "*Property" Field of Media Rights 
+Jan 30,2017 12:47:52 [info]  Double clicked on 'RI_MediaRights_EditMode_Property'
+Jan 30,2017 12:47:52 [info]  Clicked on the '*PropertyDrop Down Image'
+Jan 30,2017 12:47:52 [info]  Clicked on the 'Ep.101: Episode101'
+Jan 30,2017 12:47:56 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Jan 30,2017 12:47:56 [info]  Verify The data of RI_MediaRights_EditMode_*Property
+<span style="color:green;">Jan 30,2017 12:47:56 [info]  Verified that Expected value :[Ep.101: Episode101] is matched with Actual value :[      Ep.101: Episode101]</span>
+Jan 30,2017 12:47:56 [info]  ----------Enter the data in "*Rights (incl. Media)" Field of Media Rights 
+Jan 30,2017 12:47:57 [info]  Double clicked on 'RI_MediaRights_EditMode_Rights (incl. Media)'
+Jan 30,2017 12:47:57 [info]  Clicked on the '*Rights (incl. Media)Drop Down Image'
+Jan 30,2017 12:47:57 [info]  Clicked on the 'All Media'
+Jan 30,2017 12:48:00 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Jan 30,2017 12:48:00 [info]  Verify The data of RI_MediaRights_EditMode_*Rights (incl. Media)
+<span style="color:green;">Jan 30,2017 12:48:00 [info]  Verified that Expected value :[All Media] is matched with Actual value :[All Media]</span>
+Jan 30,2017 12:48:00 [info]  ----------Enter the data in "*Usage Rights" Field of Media Rights 
+Jan 30,2017 12:48:02 [info]  Double clicked on 'RI_MediaRights_EditMode_Usage Rights'
+Jan 30,2017 12:48:02 [info]  Clicked on the '*Usage RightsDrop Down Image'
+Jan 30,2017 12:48:02 [info]  Clicked on the 'Full Length'
+Jan 30,2017 12:48:05 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Jan 30,2017 12:48:05 [info]  Verify The data of RI_MediaRights_EditMode_*Usage Rights
+<span style="color:green;">Jan 30,2017 12:48:05 [info]  Verified that Expected value :[Full Length] is matched with Actual value :[Full Length]</span>
+Jan 30,2017 12:48:05 [info]  ----------Enter the data in "*Outlets" Field of Media Rights 
+Jan 30,2017 12:48:06 [info]  Double clicked on 'RI_MediaRights_EditMode_Outlets'
+Jan 30,2017 12:48:06 [info]  Clicked on the '*OutletsDrop Down Image'
+Jan 30,2017 12:48:06 [info]  Clicked on the 'All Outlets'
+Jan 30,2017 12:48:10 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Jan 30,2017 12:48:10 [info]  Verify The data of RI_MediaRights_EditMode_*Outlets
+<span style="color:green;">Jan 30,2017 12:48:10 [info]  Verified that Expected value :[All Outlets] is matched with Actual value :[All Outlets]</span>
+Jan 30,2017 12:48:10 [info]  ----------Enter the data in "*Territory" Field of Media Rights 
+Jan 30,2017 12:48:11 [info]  Double clicked on 'RI_MediaRights_EditMode_Territory'
+Jan 30,2017 12:48:11 [info]  Clicked on the '*TerritoryDrop Down Image'
+Jan 30,2017 12:48:11 [info]  Clicked on the 'All Worldwide'
+Jan 30,2017 12:48:14 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Jan 30,2017 12:48:14 [info]  Verify The data of RI_MediaRights_EditMode_*Territory
+<span style="color:green;">Jan 30,2017 12:48:14 [info]  Verified that Expected value :[All Worldwide] is matched with Actual value :[All Worldwide]</span>
+Jan 30,2017 12:48:14 [info]  ----------Enter the data in "*Language" Field of Media Rights 
+Jan 30,2017 12:48:16 [info]  Double clicked on 'RI_MediaRights_EditMode_Language'
+Jan 30,2017 12:48:16 [info]  Clicked on the '*LanguageDrop Down Image'
+Jan 30,2017 12:48:16 [info]  Clicked on the 'All Languages'
+Jan 30,2017 12:48:19 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Jan 30,2017 12:48:19 [info]  Verify The data of RI_MediaRights_EditMode_*Language
+<span style="color:green;">Jan 30,2017 12:48:19 [info]  Verified that Expected value :[All Languages] is matched with Actual value :[All Languages]</span>
+Jan 30,2017 12:48:19 [info]  Clicked on the 'Term From Field'
+Jan 30,2017 12:48:19 [info]  Entered "01/01/2017" in field 'Term From'
+Jan 30,2017 12:48:19 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Jan 30,2017 12:48:20 [info]  Verify The data of Term From Data
+<span style="color:green;">Jan 30,2017 12:48:20 [info]  Verified that Expected value :[01/01/2017] is matched with Actual value :[01/01/2017]</span>
+Jan 30,2017 12:48:20 [info]  Clicked on the 'Term To Field'
+Jan 30,2017 12:48:20 [info]  Entered "12/31/2019" in field 'Term To input Field'
+Jan 30,2017 12:48:20 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Jan 30,2017 12:48:20 [info]  Verify The data of Term From Data
+<span style="color:green;">Jan 30,2017 12:48:20 [info]  Verified that Expected value :[12/31/2019] is matched with Actual value :[12/31/2019]</span>
+Jan 30,2017 12:48:28 [info]  Clicked on the ''Save' Button at Media Rights Edit window' using JS Executor
+<span style="color:green;">Jan 30,2017 12:48:32 [info]  Verified that Expected value :[Changes Saved Successfully.] is matched with Actual value :[Changes Saved Successfully. The Filter has been updated to reflect your changes.]</span>
+Jan 30,2017 12:48:32 [info]  
+Jan 30,2017 12:48:32 [info]  Started Verifying the data for row:1
+Jan 30,2017 12:48:32 [info]  Verify The data of RI_MediaRights_EditMode_*Property
+<span style="color:green;">Jan 30,2017 12:48:32 [info]  Verified that Expected value :[All] is matched with Actual value :[All]</span>
+Jan 30,2017 12:48:32 [info]  Verify The data of RI_MediaRights_EditMode_*Rights (incl. Media)
+<span style="color:green;">Jan 30,2017 12:48:32 [info]  Verified that Expected value :[All Media] is matched with Actual value :[All Media]</span>
+Jan 30,2017 12:48:32 [info]  Verify The data of RI_MediaRights_EditMode_*Outlets
+<span style="color:green;">Jan 30,2017 12:48:32 [info]  Verified that Expected value :[All Outlets] is matched with Actual value :[All Outlets]</span>
+Jan 30,2017 12:48:32 [info]  Verify The data of RI_MediaRights_EditMode_*Territory
+<span style="color:green;">Jan 30,2017 12:48:32 [info]  Verified that Expected value :[All Worldwide] is matched with Actual value :[All Worldwide]</span>
+Jan 30,2017 12:48:32 [info]  Verify The data of RI_MediaRights_EditMode_*Language
+<span style="color:green;">Jan 30,2017 12:48:32 [info]  Verified that Expected value :[All Languages] is matched with Actual value :[All Languages]</span>
+Jan 30,2017 12:48:32 [info]  
+Jan 30,2017 12:48:32 [info]  Started Verifying the data for row:2
+Jan 30,2017 12:48:32 [info]  Verify The data of RI_MediaRights_EditMode_*Property
+<span style="color:green;">Jan 30,2017 12:48:32 [info]  Verified that Expected value :[AUT_AssetSeries_TC1_01302017123547] is matched with Actual value :[AUT_AssetSeries_TC1_01302017123547]</span>
+Jan 30,2017 12:48:32 [info]  Verify The data of RI_MediaRights_EditMode_*Rights (incl. Media)
+<span style="color:green;">Jan 30,2017 12:48:32 [info]  Verified that Expected value :[All Media] is matched with Actual value :[All Media]</span>
+Jan 30,2017 12:48:32 [info]  Verify The data of RI_MediaRights_EditMode_*Outlets
+<span style="color:green;">Jan 30,2017 12:48:32 [info]  Verified that Expected value :[All Outlets] is matched with Actual value :[All Outlets]</span>
+Jan 30,2017 12:48:33 [info]  Verify The data of RI_MediaRights_EditMode_*Territory
+<span style="color:green;">Jan 30,2017 12:48:33 [info]  Verified that Expected value :[All Worldwide] is matched with Actual value :[All Worldwide]</span>
+Jan 30,2017 12:48:33 [info]  Verify The data of RI_MediaRights_EditMode_*Language
+<span style="color:green;">Jan 30,2017 12:48:33 [info]  Verified that Expected value :[All Languages] is matched with Actual value :[All Languages]</span>
+Jan 30,2017 12:48:33 [info]  
+Jan 30,2017 12:48:33 [info]  Started Verifying the data for row:3
+Jan 30,2017 12:48:33 [info]  Verify The data of RI_MediaRights_EditMode_*Property
+<span style="color:green;">Jan 30,2017 12:48:33 [info]  Verified that Expected value :[Season 1.Original Version] is matched with Actual value :[Season 1.Original Version]</span>
+Jan 30,2017 12:48:33 [info]  Verify The data of RI_MediaRights_EditMode_*Rights (incl. Media)
+<span style="color:green;">Jan 30,2017 12:48:33 [info]  Verified that Expected value :[All Media] is matched with Actual value :[All Media]</span>
+Jan 30,2017 12:48:33 [info]  Verify The data of RI_MediaRights_EditMode_*Outlets
+<span style="color:green;">Jan 30,2017 12:48:33 [info]  Verified that Expected value :[All Outlets] is matched with Actual value :[All Outlets]</span>
+Jan 30,2017 12:48:33 [info]  Verify The data of RI_MediaRights_EditMode_*Territory
+<span style="color:green;">Jan 30,2017 12:48:33 [info]  Verified that Expected value :[All Worldwide] is matched with Actual value :[All Worldwide]</span>
+Jan 30,2017 12:48:33 [info]  Verify The data of RI_MediaRights_EditMode_*Language
+<span style="color:green;">Jan 30,2017 12:48:33 [info]  Verified that Expected value :[All Languages] is matched with Actual value :[All Languages]</span>
+Jan 30,2017 12:48:33 [info]  
+Jan 30,2017 12:48:33 [info]  Started Verifying the data for row:4
+Jan 30,2017 12:48:34 [info]  Verify The data of RI_MediaRights_EditMode_*Property
+<span style="color:green;">Jan 30,2017 12:48:34 [info]  Verified that Expected value :[Ep.101: Episode101] is matched with Actual value :[Ep.101: Episode101]</span>
+Jan 30,2017 12:48:34 [info]  Verify The data of RI_MediaRights_EditMode_*Rights (incl. Media)
+<span style="color:green;">Jan 30,2017 12:48:34 [info]  Verified that Expected value :[All Media] is matched with Actual value :[All Media]</span>
+Jan 30,2017 12:48:34 [info]  Verify The data of RI_MediaRights_EditMode_*Outlets
+<span style="color:green;">Jan 30,2017 12:48:34 [info]  Verified that Expected value :[All Outlets] is matched with Actual value :[All Outlets]</span>
+Jan 30,2017 12:48:34 [info]  Verify The data of RI_MediaRights_EditMode_*Territory
+<span style="color:green;">Jan 30,2017 12:48:34 [info]  Verified that Expected value :[All Worldwide] is matched with Actual value :[All Worldwide]</span>
+Jan 30,2017 12:48:34 [info]  Verify The data of RI_MediaRights_EditMode_*Language
+<span style="color:green;">Jan 30,2017 12:48:34 [info]  Verified that Expected value :[All Languages] is matched with Actual value :[All Languages]</span>
+Jan 30,2017 12:48:34 [info]  Test 'TC1_MediaRightsRow' PASSED
+Jan 30,2017 12:48:35 [info]  Closed the Browser
+Jan 30,2017 13:56:41 [info]  ********************Started Executiong the Test Suite at 13:56:41******************
+Jan 30,2017 13:56:41 [info]  Client: VMN
+Jan 30,2017 13:56:41 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Jan 30,2017 13:56:41 [info]  *********************Started Executing 'TC1_MediaRightsRow' Test Case*********************
+Jan 30,2017 13:56:51 [info]  Client: VMN
+Jan 30,2017 13:56:51 [info]  URL: http://cgptwb01/Home.aspx
+Jan 30,2017 13:56:51 [info]  UserName: automation
+Jan 30,2017 13:56:51 [info]  Password: automation
+Jan 30,2017 13:56:54 [info]  Entered "automation" in field 'User Name'
+Jan 30,2017 13:56:54 [info]  Clicked on the 'Temporary Check Box'
+Jan 30,2017 13:56:54 [info]  Entered "automation" in field 'Password'
+Jan 30,2017 13:57:03 [info]  Clicked on the 'LoginButton'
+Jan 30,2017 13:57:10 [info]  ************************Started Creating Asset of Type: Program - Series************************
+Jan 30,2017 13:57:13 [info]  Clicked on the 'MODULE'
+Jan 30,2017 13:57:20 [info]  Clicked on the 'Property Entry & Maintenance'
+Jan 30,2017 13:57:26 [info]  Clicked on the 'SearchLink' using JS Executor
+Jan 30,2017 13:57:29 [info]  Clicked on the 'Property Search' using JS Executor
+Jan 30,2017 13:57:35 [info]  Clicked on the 'TR_Asset_Search_Params' using JS Executor
+Jan 30,2017 13:57:35 [info]  Entered "AUT_AssetSeries_TC1_0130201715640" in field 'Asset Title'
+Jan 30,2017 13:57:39 [info]  Clicked on the 'Find Button' using JS Executor
+Jan 30,2017 13:57:46 [info]  Verify The data of Alert Message
+<span style="color:green;">Jan 30,2017 13:57:46 [info]  Verified that Expected value :[No search results were found for this query. Please try again using different criteria.] is matched with Actual value :[No search results were found for this query. Please try again using different criteria.]</span>
+Jan 30,2017 13:57:46 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Jan 30,2017 13:57:46 [info]  Clicked on the 'Ok button At Alert' using JS Executor
+Jan 30,2017 13:57:52 [info]  Clicked on the 'Add Asset Button' using JS Executor
+Jan 30,2017 13:57:56 [info]  Selected "Program" in "AssetTypeDropDown Pop upn VMN" drop down
+Jan 30,2017 13:58:07 [info]  Double clicked on 'OK Button'
+Jan 30,2017 13:58:13 [info]  Asset id is 192730
+Jan 30,2017 13:58:22 [info]  Selected "Program - Series" in "AssetTypeDropDown" drop down
+Jan 30,2017 13:58:25 [info]  Entered "AUT_AssetSeries_TC1_0130201715640" in field 'AssetTitle'
+Jan 30,2017 13:58:26 [info]  Clicked on the 'IPImageIcon' using JS Executor
+Jan 30,2017 13:58:27 [info]  Clicked on the 'Find Button' using JS Executor
+Jan 30,2017 13:58:30 [info]  Clicked on the 'loc_IPName_AT_IPWindow'
+Jan 30,2017 13:58:30 [info]  Clicked on the 'IP Select Button' using JS Executor
+Jan 30,2017 13:58:31 [info]  Clicked on the 'Vendor Img Icon' using JS Executor
+Jan 30,2017 13:58:31 [info]  Entered "AUT_VMN_Vendor1" in field 'SearchvalueVendor'
+Jan 30,2017 13:58:43 [info]  Clicked on the 'VendorWindowButtonfind' using JS Executor
+Jan 30,2017 13:58:50 [info]  Clicked on the 'VendorName At VendorWindow'
+Jan 30,2017 13:58:50 [info]  Clicked on the 'Vendor Select Button' using JS Executor
+Jan 30,2017 13:58:53 [info]  Verify The data of Vendor1
+<span style="color:green;">Jan 30,2017 13:58:53 [info]  Verified that Expected value :[AUT_VMN_Vendor1] is matched with Actual value :[AUT_VMN_Vendor1]</span>
+Jan 30,2017 13:58:53 [info]  Clicked on the 'StudioImageIcon' using JS Executor
+<span style="color:green;">Jan 30,2017 13:58:54 [info]  Verified that Expected value :[Select Copyright Owner] is matched with Actual value :[Select Copyright Owner]</span>
+Jan 30,2017 13:58:54 [info]  Entered "AUT_VMN_Studio" in field 'Studio Name'
+Jan 30,2017 13:59:03 [info]  Clicked on the 'Find Button' using JS Executor
+Jan 30,2017 13:59:12 [info]  Clicked on the 'VendorName At VendorWindow'
+Jan 30,2017 13:59:12 [info]  Clicked on the 'Vendor Select Button' using JS Executor
+Jan 30,2017 13:59:15 [info]  Verify The data of Studio/Vendor2
+<span style="color:green;">Jan 30,2017 13:59:15 [info]  Verified that Expected value :[AUT_VMN_Studio] is matched with Actual value :[AUT_VMN_Studio]</span>
+Jan 30,2017 13:59:16 [info]  Clicked on the 'SBUImage' using JS Executor
+<span style="color:green;">Jan 30,2017 13:59:16 [info]  Verified that Expected value :[Channel / Entity Template] is matched with Actual value :[Channel / Entity Template]</span>
+Jan 30,2017 13:59:23 [info]  Clicked on the 'First CheckBox At SBU window'
+Jan 30,2017 13:59:25 [info]  Clicked on the 'Apply Button' using JS Executor
+Jan 30,2017 13:59:25 [info]  Entered "11:11:11" in field 'Duration'
+Jan 30,2017 13:59:35 [info]  Selected "Active Production" in "Asset Status" drop down
+Jan 30,2017 13:59:35 [info]  Selected "Animated" in "Asset Format" drop down
+Jan 30,2017 13:59:35 [info]  Selected "Co-Production" in "Asset Source" drop down
+Jan 30,2017 13:59:36 [info]  Selected "Television" in "Asset Category/Group" drop down
+Jan 30,2017 13:59:36 [info]  Entered "" in field 'ProjectID'
+Jan 30,2017 13:59:36 [info]  Selected "TBD" in "Client Group" drop down
+Jan 30,2017 13:59:36 [info]  Selected "In Progress" in "PROD Contract Entry/AssetData Status" drop down
+Jan 30,2017 13:59:36 [info]  Clicked on the 'Save Button' using JS Executor
+<span style="color:green;">Jan 30,2017 13:59:53 [info]  Verified that Expected value :[AUT_AssetSeries_TC1_0130201715640] is matched with Actual value :[AUT_AssetSeries_TC1_0130201715640]</span>
+Jan 30,2017 13:59:53 [info]  ************************Created Asset of TypeProgram - Series************************
+Jan 30,2017 13:59:57 [info]  Clicked on the 'MODULE'
+Jan 30,2017 14:00:03 [info]  Clicked on the 'Property Entry & Maintenance'
+Jan 30,2017 14:00:06 [info]  Clicked on the 'Search Icon' using JS Executor
+Jan 30,2017 14:00:09 [info]  Clicked on the 'Property Search' using JS Executor
+Jan 30,2017 14:00:17 [info]  Entered "AUT_AssetSeries_TC1_0130201715640" in field 'AssetTitle'
+Jan 30,2017 14:00:22 [info]  Clicked on the 'Find Button' using JS Executor
+Jan 30,2017 14:00:46 [info]  Moved Mouse over 'First Asset in the Searched Asset'
+Jan 30,2017 14:00:46 [info]  Clicked on the 'First Asset in the Searched Asset'
+Jan 30,2017 14:00:46 [info]  Clicked on the 'First Asset in the Searched Asset'
+Jan 30,2017 14:00:49 [info]  Clicked on the 'View Asset' using JS Executor
+<span style="color:green;">Jan 30,2017 14:01:02 [info]  Verified that Expected value :[AUT_AssetSeries_TC1_0130201715640] is matched with Actual value :[AUT_AssetSeries_TC1_0130201715640]</span>
+Jan 30,2017 14:01:08 [info]  Clicked on the 'Episodes TAB'
+Jan 30,2017 14:01:13 [info]  Clicked on the ''Edit' Button at Episode window' using JS Executor
+Jan 30,2017 14:01:19 [info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Jan 30,2017 14:01:22 [info]  Entered "101" in field 'Add Episode input field'
+Jan 30,2017 14:01:25 [info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Jan 30,2017 14:01:33 [info]  Clicked on the 'Season Field of Episode101' using JS Executor
+Jan 30,2017 14:01:33 [info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Jan 30,2017 14:01:34 [info]  Clicked on the 'Season 1.Original Version'
+Jan 30,2017 14:01:34 [info]  Clicked on the 'Support click to select season'
+Jan 30,2017 14:01:34 [info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Jan 30,2017 14:01:37 [info]  Entered "102" in field 'Add Episode input field'
+Jan 30,2017 14:01:41 [info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Jan 30,2017 14:01:50 [info]  Clicked on the 'Season Field of Episode101' using JS Executor
+Jan 30,2017 14:01:50 [info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Jan 30,2017 14:01:50 [info]  Clicked on the 'Season 1.Original Version'
+Jan 30,2017 14:01:50 [info]  Clicked on the 'Support click to select season'
+Jan 30,2017 14:01:50 [info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Jan 30,2017 14:01:53 [info]  Entered "201" in field 'Add Episode input field'
+Jan 30,2017 14:01:55 [info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Jan 30,2017 14:02:03 [info]  Clicked on the 'Season Field of Episode101' using JS Executor
+Jan 30,2017 14:02:04 [info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Jan 30,2017 14:02:04 [info]  Clicked on the 'Season 1.Original Version'
+Jan 30,2017 14:02:04 [info]  Clicked on the 'Support click to select season'
+Jan 30,2017 14:02:04 [info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Jan 30,2017 14:02:07 [info]  Entered "202" in field 'Add Episode input field'
+Jan 30,2017 14:02:10 [info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Jan 30,2017 14:02:18 [info]  Clicked on the 'Season Field of Episode101' using JS Executor
+Jan 30,2017 14:02:18 [info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Jan 30,2017 14:02:18 [info]  Clicked on the 'Season 1.Original Version'
+Jan 30,2017 14:02:18 [info]  Clicked on the 'Support click to select season'
+Jan 30,2017 14:02:24 [info]  Clicked on the 'Save Button at 'Episode Edit Window'' using JS Executor
+Jan 30,2017 14:02:31 [info]  Clicked on the 'Close Button at 'Episode Edit Window'' using JS Executor
+Jan 30,2017 14:02:53 [info]  Clicked on the 'New Button' using JS Executor
+Jan 30,2017 14:02:55 [info]  Clicked on the 'Standalone Agreement' using JS Executor
+Jan 30,2017 14:03:01 [info]  Generated Deal Id is 30624
+Jan 30,2017 14:03:01 [info]  Clicked on the 'DealTitleField' using JS Executor
+Jan 30,2017 14:03:02 [info]  Entered "AUT_Deal_TC1_0130201715640" in field 'Deal Name Field'
+Jan 30,2017 14:03:02 [info]  Entered "AUT_Deal_TC1_0130201715640_desc" in field 'Deal Description/ContractID'
+Jan 30,2017 14:03:02 [info]  Selected "Program Acquisition/Licensed Original" in "DealType_DropDownField" drop down
+Jan 30,2017 14:03:02 [info]  Entered "Fully Executed" in field 'Deal Creation Contract Status'
+Jan 30,2017 14:03:03 [info]  Entered "Finalized / Approved" in field 'DealCreationCDEStatus'
+Jan 30,2017 14:03:03 [info]  Entered "01/01/2014" in field 'DateExecuted_InputField'
+Jan 30,2017 14:03:09 [info]  Clicked on the 'SBU look up Icon' using JS Executor
+Jan 30,2017 14:03:16 [info]  Clicked on the 'Select All Button at SBU'
+Jan 30,2017 14:03:16 [info]  Clicked on the 'FirstCheckBoxAtSBU'
+Jan 30,2017 14:03:16 [info]  Clicked on the 'NinthCheckBoxAtSBU'
+Jan 30,2017 14:03:16 [info]  Clicked on the 'Apply Button'
+Jan 30,2017 14:03:17 [info]  Clicked on the 'Doc Type look up Icon' using JS Executor
+Jan 30,2017 14:03:23 [info]  Clicked on the 'Select All Button at SBU'
+Jan 30,2017 14:03:23 [info]  Clicked on the 'FirstCheckBoxAtSBU'
+Jan 30,2017 14:03:24 [info]  Clicked on the 'NinthCheckBoxAtSBU'
+Jan 30,2017 14:03:24 [info]  Clicked on the 'Apply Button'
+Jan 30,2017 14:03:27 [info]  Moved Mouse over 'Party_AddButton'
+Jan 30,2017 14:03:27 [info]  Clicked on the 'Party_AddButton'
+Jan 30,2017 14:03:28 [info]  Clicked on the 'PartyPopUp Icon' using JS Executor
+Jan 30,2017 14:03:31 [info]  Entered "AUT_VMN_RI_PRIMARY_PARTY" in field 'Search Party InputField'
+Jan 30,2017 14:03:39 [info]  Double clicked on 'RI Search Party Window Find Button'
+Jan 30,2017 14:03:43 [info]  Clicked on the 'AUT_VMN_RI_PRIMARY_PARTY'
+Jan 30,2017 14:03:43 [info]  Clicked on the 'Select Button'
+Jan 30,2017 14:03:50 [info]  Clicked on the 'Party Type Field' using JS Executor
+Jan 30,2017 14:03:50 [info]  Entered "Primary" in field 'Party Party InputField'
+Jan 30,2017 14:03:50 [info]  Clicked on the 'Support Click '
+Jan 30,2017 14:03:50 [info]  Clicked on the 'Party_AddButton' using JS Executor
+Jan 30,2017 14:03:51 [info]  Clicked on the 'PartyPopUp Icon' using JS Executor
+Jan 30,2017 14:03:56 [info]  Entered "AUT_VMN_RI_LICENSOR_PARTY" in field 'Search Party InputField'
+Jan 30,2017 14:04:04 [info]  Double clicked on 'RI Search Party Window Find Button'
+Jan 30,2017 14:04:13 [info]  Clicked on the 'Select Party'
+Jan 30,2017 14:04:13 [info]  Clicked on the 'Select Button'
+Jan 30,2017 14:04:19 [info]  Clicked on the 'Party Type Field' using JS Executor
+Jan 30,2017 14:04:19 [info]  Entered "Licensor" in field 'Party Party InputField'
+Jan 30,2017 14:04:19 [info]  Clicked on the 'Support Click '
+Jan 30,2017 14:04:27 [info]  Clicked on the 'Save Button' using JS Executor
+Jan 30,2017 14:04:33 [info]  Verify The data of CreatedDeal
+<span style="color:green;">Jan 30,2017 14:04:33 [info]  Verified that Expected value :[AUT_Deal_TC1_0130201715640] is matched with Actual value :[AUT_Deal_TC1_0130201715640]</span>
+Jan 30,2017 14:04:35 [info]  Clicked on the 'Modules'
+Jan 30,2017 14:04:35 [info]  Clicked on the 'Modules'
+Jan 30,2017 14:04:47 [info]  Clicked on the 'RightsIN'
+Jan 30,2017 14:04:47 [info]  Clicked on the 'Search Icon' using JS Executor
+Jan 30,2017 14:04:49 [info]  Clicked on the 'Agreement Link' using JS Executor
+Jan 30,2017 14:04:52 [info]  Entered "AUT_Deal_TC1_0130201715640" in field 'AssetTitle'
+Jan 30,2017 14:04:58 [info]  Clicked on the 'Find Button' using JS Executor
+Jan 30,2017 14:05:01 [info]  Moved Mouse over 'First Asset in the Searched Asset'
+Jan 30,2017 14:05:01 [info]  Clicked on the 'First Asset in the Searched Asset'
+Jan 30,2017 14:05:05 [info]  Clicked on the 'View Asset' using JS Executor
+<span style="color:green;">Jan 30,2017 14:05:11 [info]  Verified that Expected value :[AUT_Deal_TC1_0130201715640] is matched with Actual value :[AUT_Deal_TC1_0130201715640]</span>
+Jan 30,2017 14:05:12 [info]  Clicked on the 'Navigator' using JS Executor
+Jan 30,2017 14:05:19 [info]  Clicked on the 'Associate With Exiting Asset' using JS Executor
+Jan 30,2017 14:05:19 [info]  Clicked on the 'Asset Status'
+Jan 30,2017 14:05:19 [info]  Clicked on the 'Asset tile' using JS Executor
+Jan 30,2017 14:05:20 [info]  Entered "AUT_AssetSeries_TC1_0130201715640" in field 'Asset title'
+<span style="color:red;">Jan 30,2017 14:05:20 [info]  <span style="color:red;">=====BUG ID======: 20309</span></span>
+Jan 30,2017 14:05:20 [info]  Clicked on the 'Display Season checkBox' using JS Executor
+Jan 30,2017 14:05:22 [info]  Clicked on the 'Search Button' using JS Executor
+Jan 30,2017 14:05:28 [info]  Clicked on the 'Toggle'
+Jan 30,2017 14:05:31 [info]  Double clicked on 'Searched Asset'
+Jan 30,2017 14:05:48 [info]  Clicked on the 'Ok Button'
+Jan 30,2017 14:05:54 [info]  Double clicked on 'AUT_Deal_TC1_0130201715640Deal'
+Jan 30,2017 14:05:57 [info]  Clicked on the 'Media Rights TAB'
+Jan 30,2017 14:06:04 [info]  Clicked on the ''Edit' Button at Media Rights TAB' using JS Executor
+Jan 30,2017 14:06:11 [info]  Clicked on the ''Add' Button at Media Rights Edit window' using JS Executor
+Jan 30,2017 14:06:14 [info]  
+Jan 30,2017 14:06:14 [info]  ----------Enter the data in all Fields of Media Rights in Row:1
+Jan 30,2017 14:06:14 [info]  ----------Enter the data in "*Property" Field of Media Rights 
+Jan 30,2017 14:06:15 [info]  Double clicked on 'RI_MediaRights_EditMode_Property'
+Jan 30,2017 14:06:16 [info]  Clicked on the '*PropertyDrop Down Image'
+Jan 30,2017 14:06:16 [info]  Clicked on the 'All'
+Jan 30,2017 14:06:19 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Jan 30,2017 14:06:19 [info]  Verify The data of RI_MediaRights_EditMode_*Property
+<span style="color:green;">Jan 30,2017 14:06:19 [info]  Verified that Expected value :[All] is matched with Actual value :[All]</span>
+Jan 30,2017 14:06:19 [info]  ----------Enter the data in "*Rights (incl. Media)" Field of Media Rights 
+Jan 30,2017 14:06:20 [info]  Double clicked on 'RI_MediaRights_EditMode_Rights (incl. Media)'
+Jan 30,2017 14:06:20 [info]  Clicked on the '*Rights (incl. Media)Drop Down Image'
+Jan 30,2017 14:06:20 [info]  Clicked on the 'All Media'
+Jan 30,2017 14:06:24 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Jan 30,2017 14:06:24 [info]  Verify The data of RI_MediaRights_EditMode_*Rights (incl. Media)
+<span style="color:green;">Jan 30,2017 14:06:24 [info]  Verified that Expected value :[All Media] is matched with Actual value :[All Media]</span>
+Jan 30,2017 14:06:24 [info]  ----------Enter the data in "*Usage Rights" Field of Media Rights 
+Jan 30,2017 14:06:25 [info]  Double clicked on 'RI_MediaRights_EditMode_Usage Rights'
+Jan 30,2017 14:06:25 [info]  Clicked on the '*Usage RightsDrop Down Image'
+Jan 30,2017 14:06:25 [info]  Clicked on the 'Full Length'
+Jan 30,2017 14:06:28 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Jan 30,2017 14:06:28 [info]  Verify The data of RI_MediaRights_EditMode_*Usage Rights
+<span style="color:green;">Jan 30,2017 14:06:28 [info]  Verified that Expected value :[Full Length] is matched with Actual value :[Full Length]</span>
+Jan 30,2017 14:06:28 [info]  ----------Enter the data in "*Outlets" Field of Media Rights 
+Jan 30,2017 14:06:30 [info]  Double clicked on 'RI_MediaRights_EditMode_Outlets'
+Jan 30,2017 14:06:30 [info]  Clicked on the '*OutletsDrop Down Image'
+Jan 30,2017 14:06:30 [info]  Clicked on the 'All Outlets'
+Jan 30,2017 14:06:33 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Jan 30,2017 14:06:33 [info]  Verify The data of RI_MediaRights_EditMode_*Outlets
+<span style="color:green;">Jan 30,2017 14:06:33 [info]  Verified that Expected value :[All Outlets] is matched with Actual value :[All Outlets]</span>
+Jan 30,2017 14:06:33 [info]  ----------Enter the data in "*Territory" Field of Media Rights 
+Jan 30,2017 14:06:34 [info]  Double clicked on 'RI_MediaRights_EditMode_Territory'
+Jan 30,2017 14:06:34 [info]  Clicked on the '*TerritoryDrop Down Image'
+Jan 30,2017 14:06:35 [info]  Clicked on the 'All Worldwide'
+Jan 30,2017 14:06:38 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Jan 30,2017 14:06:38 [info]  Verify The data of RI_MediaRights_EditMode_*Territory
+<span style="color:green;">Jan 30,2017 14:06:38 [info]  Verified that Expected value :[All Worldwide] is matched with Actual value :[All Worldwide]</span>
+Jan 30,2017 14:06:38 [info]  ----------Enter the data in "*Language" Field of Media Rights 
+Jan 30,2017 14:06:39 [info]  Double clicked on 'RI_MediaRights_EditMode_Language'
+Jan 30,2017 14:06:39 [info]  Clicked on the '*LanguageDrop Down Image'
+Jan 30,2017 14:06:39 [info]  Clicked on the 'All Languages'
+Jan 30,2017 14:06:42 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Jan 30,2017 14:06:42 [info]  Verify The data of RI_MediaRights_EditMode_*Language
+<span style="color:green;">Jan 30,2017 14:06:42 [info]  Verified that Expected value :[All Languages] is matched with Actual value :[All Languages]</span>
+Jan 30,2017 14:06:43 [info]  Clicked on the 'Term From Field'
+Jan 30,2017 14:06:43 [info]  Entered "01/01/2017" in field 'Term From'
+Jan 30,2017 14:06:43 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Jan 30,2017 14:06:43 [info]  Verify The data of Term From Data
+<span style="color:green;">Jan 30,2017 14:06:43 [info]  Verified that Expected value :[01/01/2017] is matched with Actual value :[01/01/2017]</span>
+Jan 30,2017 14:06:43 [info]  Clicked on the 'Term To Field'
+Jan 30,2017 14:06:43 [info]  Entered "12/31/2019" in field 'Term To input Field'
+Jan 30,2017 14:06:44 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Jan 30,2017 14:06:44 [info]  Verify The data of Term From Data
+<span style="color:green;">Jan 30,2017 14:06:44 [info]  Verified that Expected value :[12/31/2019] is matched with Actual value :[12/31/2019]</span>
+Jan 30,2017 14:06:47 [info]  Clicked on the ''Add' Button at Media Rights Edit window' using JS Executor
+Jan 30,2017 14:06:50 [info]  
+Jan 30,2017 14:06:50 [info]  ----------Enter the data in all Fields of Media Rights in Row:2
+Jan 30,2017 14:06:50 [info]  ----------Enter the data in "*Property" Field of Media Rights 
+Jan 30,2017 14:06:51 [info]  Double clicked on 'RI_MediaRights_EditMode_Property'
+Jan 30,2017 14:06:51 [info]  Clicked on the '*PropertyDrop Down Image'
+Jan 30,2017 14:06:51 [info]  Clicked on the 'AUT_AssetSeries_TC1_0130201715640'
+Jan 30,2017 14:06:54 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Jan 30,2017 14:06:55 [info]  Verify The data of RI_MediaRights_EditMode_*Property
+<span style="color:green;">Jan 30,2017 14:06:55 [info]  Verified that Expected value :[AUT_AssetSeries_TC1_0130201715640] is matched with Actual value :[AUT_AssetSeries_TC1_0130201715640]</span>
+Jan 30,2017 14:06:55 [info]  ----------Enter the data in "*Rights (incl. Media)" Field of Media Rights 
+Jan 30,2017 14:06:56 [info]  Double clicked on 'RI_MediaRights_EditMode_Rights (incl. Media)'
+Jan 30,2017 14:06:56 [info]  Clicked on the '*Rights (incl. Media)Drop Down Image'
+Jan 30,2017 14:06:56 [info]  Clicked on the 'All Media'
+Jan 30,2017 14:06:59 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Jan 30,2017 14:06:59 [info]  Verify The data of RI_MediaRights_EditMode_*Rights (incl. Media)
+<span style="color:green;">Jan 30,2017 14:06:59 [info]  Verified that Expected value :[All Media] is matched with Actual value :[All Media]</span>
+Jan 30,2017 14:06:59 [info]  ----------Enter the data in "*Usage Rights" Field of Media Rights 
+Jan 30,2017 14:07:00 [info]  Double clicked on 'RI_MediaRights_EditMode_Usage Rights'
+Jan 30,2017 14:07:00 [info]  Clicked on the '*Usage RightsDrop Down Image'
+Jan 30,2017 14:07:01 [info]  Clicked on the 'Full Length'
+Jan 30,2017 14:07:04 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Jan 30,2017 14:07:04 [info]  Verify The data of RI_MediaRights_EditMode_*Usage Rights
+<span style="color:green;">Jan 30,2017 14:07:04 [info]  Verified that Expected value :[Full Length] is matched with Actual value :[Full Length]</span>
+Jan 30,2017 14:07:04 [info]  ----------Enter the data in "*Outlets" Field of Media Rights 
+Jan 30,2017 14:07:05 [info]  Double clicked on 'RI_MediaRights_EditMode_Outlets'
+Jan 30,2017 14:07:05 [info]  Clicked on the '*OutletsDrop Down Image'
+Jan 30,2017 14:07:05 [info]  Clicked on the 'All Outlets'
+Jan 30,2017 14:07:08 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Jan 30,2017 14:07:08 [info]  Verify The data of RI_MediaRights_EditMode_*Outlets
+<span style="color:green;">Jan 30,2017 14:07:08 [info]  Verified that Expected value :[All Outlets] is matched with Actual value :[All Outlets]</span>
+Jan 30,2017 14:07:08 [info]  ----------Enter the data in "*Territory" Field of Media Rights 
+Jan 30,2017 14:07:10 [info]  Double clicked on 'RI_MediaRights_EditMode_Territory'
+Jan 30,2017 14:07:10 [info]  Clicked on the '*TerritoryDrop Down Image'
+Jan 30,2017 14:07:10 [info]  Clicked on the 'All Worldwide'
+Jan 30,2017 14:07:13 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Jan 30,2017 14:07:13 [info]  Verify The data of RI_MediaRights_EditMode_*Territory
+<span style="color:green;">Jan 30,2017 14:07:13 [info]  Verified that Expected value :[All Worldwide] is matched with Actual value :[All Worldwide]</span>
+Jan 30,2017 14:07:13 [info]  ----------Enter the data in "*Language" Field of Media Rights 
+Jan 30,2017 14:07:14 [info]  Double clicked on 'RI_MediaRights_EditMode_Language'
+Jan 30,2017 14:07:14 [info]  Clicked on the '*LanguageDrop Down Image'
+Jan 30,2017 14:07:14 [info]  Clicked on the 'All Languages'
+Jan 30,2017 14:07:18 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Jan 30,2017 14:07:18 [info]  Verify The data of RI_MediaRights_EditMode_*Language
+<span style="color:green;">Jan 30,2017 14:07:18 [info]  Verified that Expected value :[All Languages] is matched with Actual value :[All Languages]</span>
+Jan 30,2017 14:07:18 [info]  Clicked on the 'Term From Field'
+Jan 30,2017 14:07:18 [info]  Entered "01/01/2017" in field 'Term From'
+Jan 30,2017 14:07:18 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Jan 30,2017 14:07:18 [info]  Verify The data of Term From Data
+<span style="color:green;">Jan 30,2017 14:07:18 [info]  Verified that Expected value :[01/01/2017] is matched with Actual value :[01/01/2017]</span>
+Jan 30,2017 14:07:18 [info]  Clicked on the 'Term To Field'
+Jan 30,2017 14:07:19 [info]  Entered "12/31/2019" in field 'Term To input Field'
+Jan 30,2017 14:07:19 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Jan 30,2017 14:07:19 [info]  Verify The data of Term From Data
+<span style="color:green;">Jan 30,2017 14:07:19 [info]  Verified that Expected value :[12/31/2019] is matched with Actual value :[12/31/2019]</span>
+Jan 30,2017 14:07:22 [info]  Clicked on the ''Add' Button at Media Rights Edit window' using JS Executor
+Jan 30,2017 14:07:25 [info]  
+Jan 30,2017 14:07:25 [info]  ----------Enter the data in all Fields of Media Rights in Row:3
+Jan 30,2017 14:07:25 [info]  ----------Enter the data in "*Property" Field of Media Rights 
+Jan 30,2017 14:07:26 [info]  Double clicked on 'RI_MediaRights_EditMode_Property'
+Jan 30,2017 14:07:26 [info]  Clicked on the '*PropertyDrop Down Image'
+Jan 30,2017 14:07:26 [info]  Clicked on the 'Season 1.Original Version'
+Jan 30,2017 14:07:30 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Jan 30,2017 14:07:30 [info]  Verify The data of RI_MediaRights_EditMode_*Property
+<span style="color:green;">Jan 30,2017 14:07:30 [info]  Verified that Expected value :[Season 1.Original Version] is matched with Actual value :[   Season 1.Original Version]</span>
+Jan 30,2017 14:07:30 [info]  ----------Enter the data in "*Rights (incl. Media)" Field of Media Rights 
+Jan 30,2017 14:07:31 [info]  Double clicked on 'RI_MediaRights_EditMode_Rights (incl. Media)'
+Jan 30,2017 14:07:31 [info]  Clicked on the '*Rights (incl. Media)Drop Down Image'
+Jan 30,2017 14:07:31 [info]  Clicked on the 'All Media'
+Jan 30,2017 14:07:34 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Jan 30,2017 14:07:34 [info]  Verify The data of RI_MediaRights_EditMode_*Rights (incl. Media)
+<span style="color:green;">Jan 30,2017 14:07:34 [info]  Verified that Expected value :[All Media] is matched with Actual value :[All Media]</span>
+Jan 30,2017 14:07:34 [info]  ----------Enter the data in "*Usage Rights" Field of Media Rights 
+Jan 30,2017 14:07:36 [info]  Double clicked on 'RI_MediaRights_EditMode_Usage Rights'
+Jan 30,2017 14:07:36 [info]  Clicked on the '*Usage RightsDrop Down Image'
+Jan 30,2017 14:07:36 [info]  Clicked on the 'Full Length'
+Jan 30,2017 14:07:39 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Jan 30,2017 14:07:39 [info]  Verify The data of RI_MediaRights_EditMode_*Usage Rights
+<span style="color:green;">Jan 30,2017 14:07:39 [info]  Verified that Expected value :[Full Length] is matched with Actual value :[Full Length]</span>
+Jan 30,2017 14:07:39 [info]  ----------Enter the data in "*Outlets" Field of Media Rights 
+Jan 30,2017 14:07:40 [info]  Double clicked on 'RI_MediaRights_EditMode_Outlets'
+Jan 30,2017 14:07:40 [info]  Clicked on the '*OutletsDrop Down Image'
+Jan 30,2017 14:07:40 [info]  Clicked on the 'All Outlets'
+Jan 30,2017 14:07:44 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Jan 30,2017 14:07:44 [info]  Verify The data of RI_MediaRights_EditMode_*Outlets
+<span style="color:green;">Jan 30,2017 14:07:44 [info]  Verified that Expected value :[All Outlets] is matched with Actual value :[All Outlets]</span>
+Jan 30,2017 14:07:44 [info]  ----------Enter the data in "*Territory" Field of Media Rights 
+Jan 30,2017 14:07:45 [info]  Double clicked on 'RI_MediaRights_EditMode_Territory'
+Jan 30,2017 14:07:45 [info]  Clicked on the '*TerritoryDrop Down Image'
+Jan 30,2017 14:07:45 [info]  Clicked on the 'All Worldwide'
+Jan 30,2017 14:07:48 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Jan 30,2017 14:07:48 [info]  Verify The data of RI_MediaRights_EditMode_*Territory
+<span style="color:green;">Jan 30,2017 14:07:48 [info]  Verified that Expected value :[All Worldwide] is matched with Actual value :[All Worldwide]</span>
+Jan 30,2017 14:07:48 [info]  ----------Enter the data in "*Language" Field of Media Rights 
+Jan 30,2017 14:07:49 [info]  Double clicked on 'RI_MediaRights_EditMode_Language'
+Jan 30,2017 14:07:50 [info]  Clicked on the '*LanguageDrop Down Image'
+Jan 30,2017 14:07:50 [info]  Clicked on the 'All Languages'
+Jan 30,2017 14:07:53 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Jan 30,2017 14:07:53 [info]  Verify The data of RI_MediaRights_EditMode_*Language
+<span style="color:green;">Jan 30,2017 14:07:53 [info]  Verified that Expected value :[All Languages] is matched with Actual value :[All Languages]</span>
+Jan 30,2017 14:07:53 [info]  Clicked on the 'Term From Field'
+Jan 30,2017 14:07:53 [info]  Entered "01/01/2017" in field 'Term From'
+Jan 30,2017 14:07:53 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Jan 30,2017 14:07:53 [info]  Verify The data of Term From Data
+<span style="color:green;">Jan 30,2017 14:07:53 [info]  Verified that Expected value :[01/01/2017] is matched with Actual value :[01/01/2017]</span>
+Jan 30,2017 14:07:54 [info]  Clicked on the 'Term To Field'
+Jan 30,2017 14:07:54 [info]  Entered "12/31/2019" in field 'Term To input Field'
+Jan 30,2017 14:07:54 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Jan 30,2017 14:07:54 [info]  Verify The data of Term From Data
+<span style="color:green;">Jan 30,2017 14:07:54 [info]  Verified that Expected value :[12/31/2019] is matched with Actual value :[12/31/2019]</span>
+Jan 30,2017 14:07:57 [info]  Clicked on the ''Add' Button at Media Rights Edit window' using JS Executor
+Jan 30,2017 14:08:00 [info]  
+Jan 30,2017 14:08:00 [info]  ----------Enter the data in all Fields of Media Rights in Row:4
+Jan 30,2017 14:08:00 [info]  ----------Enter the data in "*Property" Field of Media Rights 
+Jan 30,2017 14:08:01 [info]  Double clicked on 'RI_MediaRights_EditMode_Property'
+Jan 30,2017 14:08:01 [info]  Clicked on the '*PropertyDrop Down Image'
+Jan 30,2017 14:08:01 [info]  Clicked on the 'Ep.101: Episode101'
+Jan 30,2017 14:08:04 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Jan 30,2017 14:08:04 [info]  Verify The data of RI_MediaRights_EditMode_*Property
+<span style="color:green;">Jan 30,2017 14:08:04 [info]  Verified that Expected value :[Ep.101: Episode101] is matched with Actual value :[      Ep.101: Episode101]</span>
+Jan 30,2017 14:08:04 [info]  ----------Enter the data in "*Rights (incl. Media)" Field of Media Rights 
+Jan 30,2017 14:08:06 [info]  Double clicked on 'RI_MediaRights_EditMode_Rights (incl. Media)'
+Jan 30,2017 14:08:06 [info]  Clicked on the '*Rights (incl. Media)Drop Down Image'
+Jan 30,2017 14:08:06 [info]  Clicked on the 'All Media'
+Jan 30,2017 14:08:09 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Jan 30,2017 14:08:09 [info]  Verify The data of RI_MediaRights_EditMode_*Rights (incl. Media)
+<span style="color:green;">Jan 30,2017 14:08:09 [info]  Verified that Expected value :[All Media] is matched with Actual value :[All Media]</span>
+Jan 30,2017 14:08:09 [info]  ----------Enter the data in "*Usage Rights" Field of Media Rights 
+Jan 30,2017 14:08:10 [info]  Double clicked on 'RI_MediaRights_EditMode_Usage Rights'
+Jan 30,2017 14:08:11 [info]  Clicked on the '*Usage RightsDrop Down Image'
+Jan 30,2017 14:08:11 [info]  Clicked on the 'Full Length'
+Jan 30,2017 14:08:14 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Jan 30,2017 14:08:14 [info]  Verify The data of RI_MediaRights_EditMode_*Usage Rights
+<span style="color:green;">Jan 30,2017 14:08:14 [info]  Verified that Expected value :[Full Length] is matched with Actual value :[Full Length]</span>
+Jan 30,2017 14:08:14 [info]  ----------Enter the data in "*Outlets" Field of Media Rights 
+Jan 30,2017 14:08:15 [info]  Double clicked on 'RI_MediaRights_EditMode_Outlets'
+Jan 30,2017 14:08:15 [info]  Clicked on the '*OutletsDrop Down Image'
+Jan 30,2017 14:08:15 [info]  Clicked on the 'All Outlets'
+Jan 30,2017 14:08:18 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Jan 30,2017 14:08:19 [info]  Verify The data of RI_MediaRights_EditMode_*Outlets
+<span style="color:green;">Jan 30,2017 14:08:19 [info]  Verified that Expected value :[All Outlets] is matched with Actual value :[All Outlets]</span>
+Jan 30,2017 14:08:19 [info]  ----------Enter the data in "*Territory" Field of Media Rights 
+Jan 30,2017 14:08:20 [info]  Double clicked on 'RI_MediaRights_EditMode_Territory'
+Jan 30,2017 14:08:20 [info]  Clicked on the '*TerritoryDrop Down Image'
+Jan 30,2017 14:08:20 [info]  Clicked on the 'All Worldwide'
+Jan 30,2017 14:08:23 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Jan 30,2017 14:08:23 [info]  Verify The data of RI_MediaRights_EditMode_*Territory
+<span style="color:green;">Jan 30,2017 14:08:23 [info]  Verified that Expected value :[All Worldwide] is matched with Actual value :[All Worldwide]</span>
+Jan 30,2017 14:08:23 [info]  ----------Enter the data in "*Language" Field of Media Rights 
+Jan 30,2017 14:08:25 [info]  Double clicked on 'RI_MediaRights_EditMode_Language'
+Jan 30,2017 14:08:25 [info]  Clicked on the '*LanguageDrop Down Image'
+Jan 30,2017 14:08:25 [info]  Clicked on the 'All Languages'
+Jan 30,2017 14:08:28 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Jan 30,2017 14:08:28 [info]  Verify The data of RI_MediaRights_EditMode_*Language
+<span style="color:green;">Jan 30,2017 14:08:28 [info]  Verified that Expected value :[All Languages] is matched with Actual value :[All Languages]</span>
+Jan 30,2017 14:08:28 [info]  Clicked on the 'Term From Field'
+Jan 30,2017 14:08:28 [info]  Entered "01/01/2017" in field 'Term From'
+Jan 30,2017 14:08:28 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Jan 30,2017 14:08:28 [info]  Verify The data of Term From Data
+<span style="color:green;">Jan 30,2017 14:08:28 [info]  Verified that Expected value :[01/01/2017] is matched with Actual value :[01/01/2017]</span>
+Jan 30,2017 14:08:29 [info]  Clicked on the 'Term To Field'
+Jan 30,2017 14:08:29 [info]  Entered "12/31/2019" in field 'Term To input Field'
+Jan 30,2017 14:08:29 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Jan 30,2017 14:08:29 [info]  Verify The data of Term From Data
+<span style="color:green;">Jan 30,2017 14:08:29 [info]  Verified that Expected value :[12/31/2019] is matched with Actual value :[12/31/2019]</span>
+Jan 30,2017 14:08:34 [info]  Clicked on the ''Save' Button at Media Rights Edit window' using JS Executor
+<span style="color:green;">Jan 30,2017 14:08:37 [info]  Verified that Expected value :[Changes Saved Successfully.] is matched with Actual value :[Changes Saved Successfully. The Filter has been updated to reflect your changes.]</span>
+Jan 30,2017 14:08:37 [info]  
+Jan 30,2017 14:08:37 [info]  Started Verifying the data for row:1
+Jan 30,2017 14:08:37 [info]  Verify The data of RI_MediaRights_EditMode_*Property
+<span style="color:green;">Jan 30,2017 14:08:37 [info]  Verified that Expected value :[All] is matched with Actual value :[All]</span>
+Jan 30,2017 14:08:37 [info]  Verify The data of RI_MediaRights_EditMode_*Rights (incl. Media)
+<span style="color:green;">Jan 30,2017 14:08:37 [info]  Verified that Expected value :[All Media] is matched with Actual value :[All Media]</span>
+Jan 30,2017 14:08:38 [info]  Verify The data of RI_MediaRights_EditMode_*Outlets
+<span style="color:green;">Jan 30,2017 14:08:38 [info]  Verified that Expected value :[All Outlets] is matched with Actual value :[All Outlets]</span>
+Jan 30,2017 14:08:38 [info]  Verify The data of RI_MediaRights_EditMode_*Territory
+<span style="color:green;">Jan 30,2017 14:08:38 [info]  Verified that Expected value :[All Worldwide] is matched with Actual value :[All Worldwide]</span>
+Jan 30,2017 14:08:38 [info]  Verify The data of RI_MediaRights_EditMode_*Language
+<span style="color:green;">Jan 30,2017 14:08:38 [info]  Verified that Expected value :[All Languages] is matched with Actual value :[All Languages]</span>
+Jan 30,2017 14:08:38 [info]  
+Jan 30,2017 14:08:38 [info]  Started Verifying the data for row:2
+Jan 30,2017 14:08:38 [info]  Verify The data of RI_MediaRights_EditMode_*Property
+<span style="color:green;">Jan 30,2017 14:08:38 [info]  Verified that Expected value :[AUT_AssetSeries_TC1_0130201715640] is matched with Actual value :[AUT_AssetSeries_TC1_0130201715640]</span>
+Jan 30,2017 14:08:38 [info]  Verify The data of RI_MediaRights_EditMode_*Rights (incl. Media)
+<span style="color:green;">Jan 30,2017 14:08:38 [info]  Verified that Expected value :[All Media] is matched with Actual value :[All Media]</span>
+Jan 30,2017 14:08:38 [info]  Verify The data of RI_MediaRights_EditMode_*Outlets
+<span style="color:green;">Jan 30,2017 14:08:38 [info]  Verified that Expected value :[All Outlets] is matched with Actual value :[All Outlets]</span>
+Jan 30,2017 14:08:39 [info]  Verify The data of RI_MediaRights_EditMode_*Territory
+<span style="color:green;">Jan 30,2017 14:08:39 [info]  Verified that Expected value :[All Worldwide] is matched with Actual value :[All Worldwide]</span>
+Jan 30,2017 14:08:39 [info]  Verify The data of RI_MediaRights_EditMode_*Language
+<span style="color:green;">Jan 30,2017 14:08:39 [info]  Verified that Expected value :[All Languages] is matched with Actual value :[All Languages]</span>
+Jan 30,2017 14:08:39 [info]  
+Jan 30,2017 14:08:39 [info]  Started Verifying the data for row:3
+Jan 30,2017 14:08:39 [info]  Verify The data of RI_MediaRights_EditMode_*Property
+<span style="color:green;">Jan 30,2017 14:08:39 [info]  Verified that Expected value :[Season 1.Original Version] is matched with Actual value :[Season 1.Original Version]</span>
+Jan 30,2017 14:08:39 [info]  Verify The data of RI_MediaRights_EditMode_*Rights (incl. Media)
+<span style="color:green;">Jan 30,2017 14:08:39 [info]  Verified that Expected value :[All Media] is matched with Actual value :[All Media]</span>
+Jan 30,2017 14:08:39 [info]  Verify The data of RI_MediaRights_EditMode_*Outlets
+<span style="color:green;">Jan 30,2017 14:08:39 [info]  Verified that Expected value :[All Outlets] is matched with Actual value :[All Outlets]</span>
+Jan 30,2017 14:08:39 [info]  Verify The data of RI_MediaRights_EditMode_*Territory
+<span style="color:green;">Jan 30,2017 14:08:39 [info]  Verified that Expected value :[All Worldwide] is matched with Actual value :[All Worldwide]</span>
+Jan 30,2017 14:08:39 [info]  Verify The data of RI_MediaRights_EditMode_*Language
+<span style="color:green;">Jan 30,2017 14:08:39 [info]  Verified that Expected value :[All Languages] is matched with Actual value :[All Languages]</span>
+Jan 30,2017 14:08:39 [info]  
+Jan 30,2017 14:08:39 [info]  Started Verifying the data for row:4
+Jan 30,2017 14:08:39 [info]  Verify The data of RI_MediaRights_EditMode_*Property
+<span style="color:green;">Jan 30,2017 14:08:39 [info]  Verified that Expected value :[Ep.101: Episode101] is matched with Actual value :[Ep.101: Episode101]</span>
+Jan 30,2017 14:08:39 [info]  Verify The data of RI_MediaRights_EditMode_*Rights (incl. Media)
+<span style="color:green;">Jan 30,2017 14:08:39 [info]  Verified that Expected value :[All Media] is matched with Actual value :[All Media]</span>
+Jan 30,2017 14:08:40 [info]  Verify The data of RI_MediaRights_EditMode_*Outlets
+<span style="color:green;">Jan 30,2017 14:08:40 [info]  Verified that Expected value :[All Outlets] is matched with Actual value :[All Outlets]</span>
+Jan 30,2017 14:08:40 [info]  Verify The data of RI_MediaRights_EditMode_*Territory
+<span style="color:green;">Jan 30,2017 14:08:40 [info]  Verified that Expected value :[All Worldwide] is matched with Actual value :[All Worldwide]</span>
+Jan 30,2017 14:08:40 [info]  Verify The data of RI_MediaRights_EditMode_*Language
+<span style="color:green;">Jan 30,2017 14:08:40 [info]  Verified that Expected value :[All Languages] is matched with Actual value :[All Languages]</span>
+Jan 30,2017 14:08:40 [info]  Test 'TC1_MediaRightsRow' PASSED
+Jan 30,2017 14:08:41 [info]  Closed the Browser

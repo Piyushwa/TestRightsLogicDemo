@@ -1,0 +1,1291 @@
+Oct 06,2016 09:42:21 [info]  ********************Started Executiong the Test Suite at 09:42:21******************
+Oct 06,2016 09:42:22 [info]  Client: AMCN
+Oct 06,2016 09:42:22 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Oct 06,2016 09:42:22 [info]  *********************Started Executing 'TC8_ValueEnter_Range1Attribute' Test Case*********************
+Oct 06,2016 09:42:33 [info]  Client: AMCN
+Oct 06,2016 09:42:33 [info]  URL: http://rlv2wb79/login.aspx
+Oct 06,2016 09:42:33 [info]  UserName: automation
+Oct 06,2016 09:42:33 [info]  Password: automation
+Oct 06,2016 09:42:34 [info]  Entered "automation" in field 'User Name'
+Oct 06,2016 09:42:34 [info]  Clicked on the 'Temporary Check Box'
+Oct 06,2016 09:42:35 [info]  Entered "automation" in field 'Password'
+Oct 06,2016 09:42:40 [info]  Clicked on the 'LoginButton'
+Oct 06,2016 09:42:51 [info]  Clicked on the 'MODULE'
+Oct 06,2016 09:43:00 [info]  Clicked on the 'Asset Maintenance'
+Oct 06,2016 09:43:03 [info]  Clicked on the 'Search Menu Icon' using JS Executor
+Oct 06,2016 09:43:04 [info]  Clicked on the 'AssetSearchUnderAsset' using JS Executor
+Oct 06,2016 09:43:23 [info]  Entered "AUT_AssetSeries_1005201650504" in field 'AssetTitle'
+Oct 06,2016 09:43:23 [info]  Clicked on the 'All Check Box' using JS Executor
+Oct 06,2016 09:43:23 [info]  Clicked on the 'Find Button' using JS Executor
+Oct 06,2016 09:43:52 [info]  Moved Mouse over 'First Asset in the Searched Asset'
+Oct 06,2016 09:43:53 [info]  Clicked on the 'First Asset in the Searched Asset'
+Oct 06,2016 09:43:53 [info]  Clicked on the 'First Asset in the Searched Asset'
+Oct 06,2016 09:43:56 [info]  Clicked on the 'View Asset' using JS Executor
+Oct 06,2016 09:44:15 [info]  Verified that Expected value :[AUT_AssetSeries_1005201650504] is matched with Actual value :[AUT_AssetSeries_1005201650504]
+Oct 06,2016 09:44:16 [info]  Clicked on the 'Attributes TAB'
+Oct 06,2016 09:44:20 [info]  Clicked on the 'Edit Button' using JS Executor
+Oct 06,2016 09:44:43 [info]  Clicked on the 'Value2 of AUT_Attributes_RANGE 1_1005201650504'
+Oct 06,2016 09:44:54 [info]  Entered "12RSGab#$%^*%#$" in field 'AM_AttributeValue2_InputField'
+Oct 06,2016 09:45:00 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Oct 06,2016 09:45:06 [info]  
+Oct 06,2016 09:45:07 [info]  Verify The data of Alert Message on Entering the Data for Attribute's Value2
+Oct 06,2016 09:45:07 [info]  Verified that Expected value :[Please enter range values for the attribute.] is matched with Actual value :[Please enter range values for the attribute.]
+Oct 06,2016 09:45:07 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Oct 06,2016 09:45:12 [info]  Clicked on the 'Value1 of AUT_Attributes_RANGE 1_1005201650504'
+Oct 06,2016 09:45:14 [info]  Entered "12RSGab#$%^*%#$" in field 'AM_AttributeValue1_InputField'
+Oct 06,2016 09:45:15 [info]  Clicked on the 'Select Attribute AUT_Attributes_RANGE 1_1005201650504'
+Oct 06,2016 09:45:15 [info]  
+Oct 06,2016 09:45:16 [info]  Verify The data of  Value1 Field of Attribute AUT_Attributes_RANGE 1_1005201650504 in Edit Mode
+Oct 06,2016 09:45:16 [info]  Verified that Expected value :[12RSGab#$%^*%#$] is matched with Actual value :[12RSGab#$%^*%#$]
+Oct 06,2016 09:45:20 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Oct 06,2016 09:45:26 [info]  
+Oct 06,2016 09:45:27 [info]  Verify The data of Value1 Field of Attribute AUT_Attributes_RANGE 1_1005201650504 in View Mode
+Oct 06,2016 09:45:27 [info]  Verified that Expected value :[12RSGab#$%^*%#$] is matched with Actual value :[12RSGab#$%^*%#$]
+Oct 06,2016 09:45:29 [info]  Clicked on the 'Edit Button' using JS Executor
+Oct 06,2016 09:45:34 [info]  Clicked on the 'Value2 of AUT_Attributes_RANGE 1_1005201650504'
+Oct 06,2016 09:45:36 [info]  Entered "12RSGab#$%^*%#$" in field 'AM_AttributeValue2_InputField'
+Oct 06,2016 09:45:37 [info]  Clicked on the 'Select Attribute AUT_Attributes_RANGE 1_1005201650504'
+Oct 06,2016 09:45:38 [info]  
+Oct 06,2016 09:45:39 [info]  Verify The data of  Value2 Field of Attribute AUT_Attributes_RANGE 1_1005201650504 in Edit Mode
+Oct 06,2016 09:45:39 [info]  Verified that Expected value :[12RSGab#$%^*%#$] is matched with Actual value :[12RSGab#$%^*%#$]
+Oct 06,2016 09:45:42 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Oct 06,2016 09:45:55 [info]  
+Oct 06,2016 09:45:58 [info]  Verify The data of Value2 Field of Attribute AUT_Attributes_RANGE 1_1005201650504 in View Mode
+Oct 06,2016 09:45:58 [info]  Verified that Expected value :[12RSGab#$%^*%#$] is matched with Actual value :[12RSGab#$%^*%#$]
+Oct 06,2016 09:46:02 [info]  Clicked on the 'Edit Button' using JS Executor
+Oct 06,2016 09:46:07 [info]  Test 'TC8_ValueEnter_Range1Attribute' PASSED
+Oct 06,2016 09:46:09 [info]  Closed the Browser
+Oct 06,2016 09:49:12 [info]  ********************Started Executiong the Test Suite at 09:49:12******************
+Oct 06,2016 09:49:12 [info]  Client: AMCN
+Oct 06,2016 09:49:12 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Oct 06,2016 09:49:13 [info]  *********************Started Executing 'TC8_ValueEnter_Range1Attribute' Test Case*********************
+Oct 06,2016 09:49:22 [info]  Client: AMCN
+Oct 06,2016 09:49:22 [info]  URL: http://rlv2wb79/login.aspx
+Oct 06,2016 09:49:22 [info]  UserName: automation
+Oct 06,2016 09:49:22 [info]  Password: automation
+Oct 06,2016 09:49:23 [info]  Entered "automation" in field 'User Name'
+Oct 06,2016 09:49:23 [info]  Clicked on the 'Temporary Check Box'
+Oct 06,2016 09:49:23 [info]  Entered "automation" in field 'Password'
+Oct 06,2016 09:49:29 [info]  Clicked on the 'LoginButton'
+Oct 06,2016 09:49:40 [info]  Clicked on the 'MODULE'
+Oct 06,2016 09:49:49 [info]  Clicked on the 'Asset Maintenance'
+Oct 06,2016 09:49:53 [info]  Clicked on the 'Search Menu Icon' using JS Executor
+Oct 06,2016 09:49:53 [info]  Clicked on the 'AssetSearchUnderAsset' using JS Executor
+Oct 06,2016 09:50:07 [info]  Entered "AUT_AssetSeries_1005201650504" in field 'AssetTitle'
+Oct 06,2016 09:50:07 [info]  Clicked on the 'All Check Box' using JS Executor
+Oct 06,2016 09:50:07 [info]  Clicked on the 'Find Button' using JS Executor
+Oct 06,2016 09:50:26 [info]  Moved Mouse over 'First Asset in the Searched Asset'
+Oct 06,2016 09:50:27 [info]  Clicked on the 'First Asset in the Searched Asset'
+Oct 06,2016 09:50:28 [info]  Clicked on the 'First Asset in the Searched Asset'
+Oct 06,2016 09:50:31 [info]  Clicked on the 'View Asset' using JS Executor
+Oct 06,2016 09:50:48 [info]  Verified that Expected value :[AUT_AssetSeries_1005201650504] is matched with Actual value :[AUT_AssetSeries_1005201650504]
+Oct 06,2016 09:50:50 [info]  Clicked on the 'Attributes TAB'
+Oct 06,2016 09:50:54 [info]  Clicked on the 'Edit Button' using JS Executor
+Oct 06,2016 09:50:56 [info]  Clicked on the 'Value2 of AUT_Attributes_RANGE 1_1005201650504'
+Oct 06,2016 09:50:57 [info]  Entered "12RSGab#$%^*%#$" in field 'AM_AttributeValue2_InputField'
+Oct 06,2016 09:51:03 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Oct 06,2016 09:51:06 [info]  
+Oct 06,2016 09:51:07 [info]  Verify The data of Alert Message on Entering the Data for Attribute's Value2
+Oct 06,2016 09:51:07 [info]  ====Failed==== Expected value is:[Please enter range values for the attribute.] but Actual value is[]. Please check the screenshot with name: Alert Message on Entering the Data for Attribute's Value2for more details
+Oct 06,2016 09:51:07 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\06\Alert Message on Entering the Data for Attribute's Value2_CheckpointFailure_10-06-2016 9-51-07 AM.jpg
+Oct 06,2016 09:51:07 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Oct 06,2016 09:56:47 [info]  ********************Started Executiong the Test Suite at 09:56:47******************
+Oct 06,2016 09:56:47 [info]  Client: AMCN
+Oct 06,2016 09:56:47 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Oct 06,2016 09:56:47 [info]  *********************Started Executing 'TC8_ValueEnter_Range1Attribute' Test Case*********************
+Oct 06,2016 09:56:56 [info]  Client: AMCN
+Oct 06,2016 09:56:56 [info]  URL: http://rlv2wb79/login.aspx
+Oct 06,2016 09:56:56 [info]  UserName: automation
+Oct 06,2016 09:56:56 [info]  Password: automation
+Oct 06,2016 09:56:57 [info]  Entered "automation" in field 'User Name'
+Oct 06,2016 09:56:57 [info]  Clicked on the 'Temporary Check Box'
+Oct 06,2016 09:56:58 [info]  Entered "automation" in field 'Password'
+Oct 06,2016 09:57:04 [info]  Clicked on the 'LoginButton'
+Oct 06,2016 09:57:15 [info]  Clicked on the 'MODULE'
+Oct 06,2016 09:57:23 [info]  Clicked on the 'Asset Maintenance'
+Oct 06,2016 09:57:27 [info]  Clicked on the 'Search Menu Icon' using JS Executor
+Oct 06,2016 09:57:27 [info]  Clicked on the 'AssetSearchUnderAsset' using JS Executor
+Oct 06,2016 09:57:40 [info]  Entered "AUT_AssetSeries_1005201650504" in field 'AssetTitle'
+Oct 06,2016 09:57:41 [info]  Clicked on the 'All Check Box' using JS Executor
+Oct 06,2016 09:57:41 [info]  Clicked on the 'Find Button' using JS Executor
+Oct 06,2016 09:58:00 [info]  Moved Mouse over 'First Asset in the Searched Asset'
+Oct 06,2016 09:58:01 [info]  Clicked on the 'First Asset in the Searched Asset'
+Oct 06,2016 09:58:01 [info]  Clicked on the 'First Asset in the Searched Asset'
+Oct 06,2016 09:58:04 [info]  Clicked on the 'View Asset' using JS Executor
+Oct 06,2016 09:58:22 [info]  Verified that Expected value :[AUT_AssetSeries_1005201650504] is matched with Actual value :[AUT_AssetSeries_1005201650504]
+Oct 06,2016 09:58:24 [info]  Clicked on the 'Attributes TAB'
+Oct 06,2016 09:58:28 [info]  Clicked on the 'Edit Button' using JS Executor
+Oct 06,2016 09:58:30 [info]  Clicked on the 'Value2 of AUT_Attributes_RANGE 1_1005201650504'
+Oct 06,2016 09:58:31 [info]  Entered "12RSGab#$%^*%#$" in field 'AM_AttributeValue2_InputField'
+Oct 06,2016 09:58:35 [info]  Clicked on the 'AUT_Attributes_RANGE 1_1005201650504'
+Oct 06,2016 09:58:35 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Oct 06,2016 09:58:39 [info]  
+Oct 06,2016 09:58:39 [info]  Verify The data of Alert Message on Entering the Data for Attribute's Value2
+Oct 06,2016 09:58:39 [info]  Verified that Expected value :[Please enter range values for the attribute.] is matched with Actual value :[Please enter range values for the attribute.]
+Oct 06,2016 09:58:39 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Oct 06,2016 09:58:40 [info]  Clicked on the 'Value1 of AUT_Attributes_RANGE 1_1005201650504'
+Oct 06,2016 09:58:42 [info]  Entered "12RSGab#$%^*%#$" in field 'AM_AttributeValue1_InputField'
+Oct 06,2016 09:58:42 [info]  Clicked on the 'Select Attribute AUT_Attributes_RANGE 1_1005201650504'
+Oct 06,2016 09:58:42 [info]  
+Oct 06,2016 09:58:42 [info]  Verify The data of  Value1 Field of Attribute AUT_Attributes_RANGE 1_1005201650504 in Edit Mode
+Oct 06,2016 09:58:42 [info]  Verified that Expected value :[12RSGab#$%^*%#$] is matched with Actual value :[12RSGab#$%^*%#$]
+Oct 06,2016 09:58:45 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Oct 06,2016 09:58:49 [info]  
+Oct 06,2016 09:58:49 [info]  Verify The data of Value1 Field of Attribute AUT_Attributes_RANGE 1_1005201650504 in View Mode
+Oct 06,2016 09:58:49 [info]  Verified that Expected value :[12RSGab#$%^*%#$] is matched with Actual value :[12RSGab#$%^*%#$]
+Oct 06,2016 09:58:49 [info]  Clicked on the 'Edit Button' using JS Executor
+Oct 06,2016 09:58:52 [info]  Clicked on the 'Value2 of AUT_Attributes_RANGE 1_1005201650504'
+Oct 06,2016 09:58:53 [info]  Entered "12RSGab#$%^*%#$" in field 'AM_AttributeValue2_InputField'
+Oct 06,2016 09:58:54 [info]  Clicked on the 'Select Attribute AUT_Attributes_RANGE 1_1005201650504'
+Oct 06,2016 09:58:54 [info]  
+Oct 06,2016 09:58:54 [info]  Verify The data of  Value2 Field of Attribute AUT_Attributes_RANGE 1_1005201650504 in Edit Mode
+Oct 06,2016 09:58:54 [info]  Verified that Expected value :[12RSGab#$%^*%#$] is matched with Actual value :[12RSGab#$%^*%#$]
+Oct 06,2016 09:58:56 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Oct 06,2016 09:59:00 [info]  
+Oct 06,2016 09:59:00 [info]  Verify The data of Value2 Field of Attribute AUT_Attributes_RANGE 1_1005201650504 in View Mode
+Oct 06,2016 09:59:00 [info]  Verified that Expected value :[12RSGab#$%^*%#$] is matched with Actual value :[12RSGab#$%^*%#$]
+Oct 06,2016 09:59:01 [info]  Clicked on the 'Edit Button' using JS Executor
+Oct 06,2016 09:59:02 [info]  Test 'TC8_ValueEnter_Range1Attribute' PASSED
+Oct 06,2016 09:59:03 [info]  Closed the Browser
+Oct 06,2016 10:01:17 [info]  ********************Started Executiong the Test Suite at 10:01:17******************
+Oct 06,2016 10:01:17 [info]  Client: AMCN
+Oct 06,2016 10:01:17 [info]  *********************Started Executing the Test Area(Modules/TAB): 'AttributeTAB_IE_Browser'*********************
+Oct 06,2016 10:01:17 [info]  *********************Started Executing 'TC8_ValueEnter_Range1Attribute' Test Case*********************
+Oct 06,2016 10:01:27 [info]  Client: AMCN
+Oct 06,2016 10:01:27 [info]  URL: http://rlv2wb79/login.aspx
+Oct 06,2016 10:01:27 [info]  UserName: automation
+Oct 06,2016 10:01:27 [info]  Password: automation
+Oct 06,2016 10:01:29 [info]  Entered "automation" in field 'User Name'
+Oct 06,2016 10:01:30 [info]  Clicked on the 'Temporary Check Box'
+Oct 06,2016 10:01:30 [info]  Entered "automation" in field 'Password'
+Oct 06,2016 10:01:38 [info]  Clicked on the 'LoginButton'
+Oct 06,2016 10:01:49 [info]  Clicked on the 'MODULE'
+Oct 06,2016 10:01:58 [info]  Clicked on the 'Asset Maintenance'
+Oct 06,2016 10:02:01 [info]  Clicked on the 'Search Menu Icon' using JS Executor
+Oct 06,2016 10:02:02 [info]  Clicked on the 'AssetSearchUnderAsset' using JS Executor
+Oct 06,2016 10:02:18 [info]  Entered "AUT_AssetSeries_Attributor_1005201650504" in field 'AssetTitle'
+Oct 06,2016 10:02:18 [info]  Clicked on the 'All Check Box' using JS Executor
+Oct 06,2016 10:02:19 [info]  Clicked on the 'Find Button' using JS Executor
+Oct 06,2016 10:03:00 [info]  ********************Started Executiong the Test Suite at 10:03:00******************
+Oct 06,2016 10:03:00 [info]  Client: AMCN
+Oct 06,2016 10:03:00 [info]  *********************Started Executing the Test Area(Modules/TAB): 'AttributeTAB_IE_Browser'*********************
+Oct 06,2016 10:03:00 [info]  *********************Started Executing 'TC8_ValueEnter_Range1Attribute' Test Case*********************
+Oct 06,2016 10:03:09 [info]  Client: AMCN
+Oct 06,2016 10:03:09 [info]  URL: http://rlv2wb79/login.aspx
+Oct 06,2016 10:03:09 [info]  UserName: automation
+Oct 06,2016 10:03:09 [info]  Password: automation
+Oct 06,2016 10:03:11 [info]  Entered "automation" in field 'User Name'
+Oct 06,2016 10:03:11 [info]  Clicked on the 'Temporary Check Box'
+Oct 06,2016 10:03:12 [info]  Entered "automation" in field 'Password'
+Oct 06,2016 10:03:18 [info]  Clicked on the 'LoginButton'
+Oct 06,2016 10:03:29 [info]  Clicked on the 'MODULE'
+Oct 06,2016 10:03:39 [info]  Clicked on the 'Asset Maintenance'
+Oct 06,2016 10:03:43 [info]  Clicked on the 'Search Menu Icon' using JS Executor
+Oct 06,2016 10:03:43 [info]  Clicked on the 'AssetSearchUnderAsset' using JS Executor
+Oct 06,2016 10:03:57 [info]  Entered "AUT_AssetSeries_1005201650504" in field 'AssetTitle'
+Oct 06,2016 10:03:57 [info]  Clicked on the 'All Check Box' using JS Executor
+Oct 06,2016 10:03:57 [info]  Clicked on the 'Find Button' using JS Executor
+Oct 06,2016 10:04:17 [info]  Moved Mouse over 'First Asset in the Searched Asset'
+Oct 06,2016 10:04:18 [info]  Clicked on the 'First Asset in the Searched Asset'
+Oct 06,2016 10:04:18 [info]  Clicked on the 'First Asset in the Searched Asset'
+Oct 06,2016 10:04:21 [info]  Clicked on the 'View Asset' using JS Executor
+Oct 06,2016 10:04:41 [info]  Verified that Expected value :[AUT_AssetSeries_1005201650504] is matched with Actual value :[AUT_AssetSeries_1005201650504]
+Oct 06,2016 10:04:44 [info]  Clicked on the 'Attributes TAB'
+Oct 06,2016 10:04:47 [info]  Clicked on the 'Edit Button' using JS Executor
+Oct 06,2016 10:04:50 [info]  Clicked on the 'Value2 of AUT_Attributes_RANGE 1_1005201650504'
+Oct 06,2016 10:04:52 [info]  Entered "12RSGab#$%^*%#$" in field 'AM_AttributeValue2_InputField'
+Oct 06,2016 10:04:55 [info]  Clicked on the 'AUT_Attributes_RANGE 1_1005201650504'
+Oct 06,2016 10:04:56 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Oct 06,2016 10:04:59 [info]  
+Oct 06,2016 10:04:59 [info]  Verify The data of Alert Message on Entering the Data for Attribute's Value2
+Oct 06,2016 10:04:59 [info]  Verified that Expected value :[Please enter range values for the attribute.] is matched with Actual value :[Please enter range values for the attribute.]
+Oct 06,2016 10:05:00 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Oct 06,2016 10:05:01 [info]  Clicked on the 'Value1 of AUT_Attributes_RANGE 1_1005201650504'
+Oct 06,2016 10:05:03 [info]  Entered "12RSGab#$%^*%#$" in field 'AM_AttributeValue1_InputField'
+Oct 06,2016 10:05:03 [info]  Clicked on the 'Select Attribute AUT_Attributes_RANGE 1_1005201650504'
+Oct 06,2016 10:05:03 [info]  
+Oct 06,2016 10:05:03 [info]  Verify The data of  Value1 Field of Attribute AUT_Attributes_RANGE 1_1005201650504 in Edit Mode
+Oct 06,2016 10:05:03 [info]  Verified that Expected value :[12RSGab#$%^*%#$] is matched with Actual value :[12RSGab#$%^*%#$]
+Oct 06,2016 10:05:06 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Oct 06,2016 10:05:10 [info]  
+Oct 06,2016 10:05:10 [info]  Verify The data of Value1 Field of Attribute AUT_Attributes_RANGE 1_1005201650504 in View Mode
+Oct 06,2016 10:05:10 [info]  Verified that Expected value :[12RSGab#$%^*%#$] is matched with Actual value :[12RSGab#$%^*%#$]
+Oct 06,2016 10:05:10 [info]  Clicked on the 'Edit Button' using JS Executor
+Oct 06,2016 10:05:13 [info]  Clicked on the 'Value2 of AUT_Attributes_RANGE 1_1005201650504'
+Oct 06,2016 10:05:14 [info]  Entered "12RSGab#$%^*%#$" in field 'AM_AttributeValue2_InputField'
+Oct 06,2016 10:05:15 [info]  Clicked on the 'Select Attribute AUT_Attributes_RANGE 1_1005201650504'
+Oct 06,2016 10:05:15 [info]  
+Oct 06,2016 10:05:15 [info]  Verify The data of  Value2 Field of Attribute AUT_Attributes_RANGE 1_1005201650504 in Edit Mode
+Oct 06,2016 10:05:15 [info]  Verified that Expected value :[12RSGab#$%^*%#$] is matched with Actual value :[12RSGab#$%^*%#$]
+Oct 06,2016 10:05:17 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Oct 06,2016 10:05:21 [info]  
+Oct 06,2016 10:05:21 [info]  Verify The data of Value2 Field of Attribute AUT_Attributes_RANGE 1_1005201650504 in View Mode
+Oct 06,2016 10:05:21 [info]  Verified that Expected value :[12RSGab#$%^*%#$] is matched with Actual value :[12RSGab#$%^*%#$]
+Oct 06,2016 10:05:22 [info]  Clicked on the 'Edit Button' using JS Executor
+Oct 06,2016 10:05:23 [info]  Test 'TC8_ValueEnter_Range1Attribute' PASSED
+Oct 06,2016 10:05:26 [info]  Closed the Browser
+Oct 06,2016 10:05:26 [info]  *********************Started Executing 'TC9_ValueEnter_Range2Attribute' Test Case*********************
+Oct 06,2016 10:05:41 [info]  Client: AMCN
+Oct 06,2016 10:05:41 [info]  URL: http://rlv2wb79/login.aspx
+Oct 06,2016 10:05:41 [info]  UserName: automation
+Oct 06,2016 10:05:41 [info]  Password: automation
+Oct 06,2016 10:05:42 [info]  Entered "automation" in field 'User Name'
+Oct 06,2016 10:05:42 [info]  Clicked on the 'Temporary Check Box'
+Oct 06,2016 10:05:43 [info]  Entered "automation" in field 'Password'
+Oct 06,2016 10:05:50 [info]  Clicked on the 'LoginButton'
+Oct 06,2016 10:06:00 [info]  Clicked on the 'MODULE'
+Oct 06,2016 10:06:10 [info]  Clicked on the 'Asset Maintenance'
+Oct 06,2016 10:06:14 [info]  Clicked on the 'Search Menu Icon' using JS Executor
+Oct 06,2016 10:06:14 [info]  Clicked on the 'AssetSearchUnderAsset' using JS Executor
+Oct 06,2016 10:06:28 [info]  Entered "AUT_AssetSeries_1005201650504" in field 'AssetTitle'
+Oct 06,2016 10:06:28 [info]  Clicked on the 'All Check Box' using JS Executor
+Oct 06,2016 10:06:29 [info]  Clicked on the 'Find Button' using JS Executor
+Oct 06,2016 10:06:47 [info]  Moved Mouse over 'First Asset in the Searched Asset'
+Oct 06,2016 10:06:48 [info]  Clicked on the 'First Asset in the Searched Asset'
+Oct 06,2016 10:06:49 [info]  Clicked on the 'First Asset in the Searched Asset'
+Oct 06,2016 10:06:52 [info]  Clicked on the 'View Asset' using JS Executor
+Oct 06,2016 10:07:10 [info]  Verified that Expected value :[AUT_AssetSeries_1005201650504] is matched with Actual value :[AUT_AssetSeries_1005201650504]
+Oct 06,2016 10:07:12 [info]  Clicked on the 'Attributes TAB'
+Oct 06,2016 10:07:16 [info]  Clicked on the 'Edit Button' using JS Executor
+Oct 06,2016 10:07:18 [info]  Clicked on the 'Value2 of AUT_Attributes_RANGE 2_1005201650504'
+Oct 06,2016 10:07:20 [info]  Entered "12RSGab#$%^*%#$" in field 'AM_AttributeValue2_InputField'
+Oct 06,2016 10:07:23 [info]  Clicked on the 'AUT_Attributes_RANGE 2_1005201650504'
+Oct 06,2016 10:07:24 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Oct 06,2016 10:07:27 [info]  
+Oct 06,2016 10:07:27 [info]  Verify The data of Alert Message on Entering the Data for Attribute's Value2
+Oct 06,2016 10:07:27 [info]  Verified that Expected value :[Please enter range values for the attribute.] is matched with Actual value :[Please enter range values for the attribute.]
+Oct 06,2016 10:07:28 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Oct 06,2016 10:07:29 [info]  Clicked on the 'Value1 of AUT_Attributes_RANGE 2_1005201650504'
+Oct 06,2016 10:07:31 [info]  Entered "12RSGab#$%^*%#$" in field 'AM_AttributeValue1_InputField'
+Oct 06,2016 10:07:34 [info]  Clicked on the 'AUT_Attributes_RANGE 2_1005201650504'
+Oct 06,2016 10:07:34 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Oct 06,2016 10:07:38 [info]  
+Oct 06,2016 10:07:38 [info]  Verify The data of Alert Message on Entering Invalid Data for Attribute Value
+Oct 06,2016 10:07:38 [info]  Verified that Expected value :[Please enter only Number for the attribute.] is matched with Actual value :[Please enter only Number for the attribute.]
+Oct 06,2016 10:07:38 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Oct 06,2016 10:07:40 [info]  Clicked on the 'Value1 of AUT_Attributes_RANGE 2_1005201650504'
+Oct 06,2016 10:07:40 [info]  Entered "RSG" in field 'AM_AttributeValue1_InputField'
+Oct 06,2016 10:07:44 [info]  Clicked on the 'AUT_Attributes_RANGE 2_1005201650504'
+Oct 06,2016 10:07:44 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Oct 06,2016 10:07:47 [info]  
+Oct 06,2016 10:07:48 [info]  Verify The data of Alert Message on Entering Invalid Data for Attribute Value
+Oct 06,2016 10:07:48 [info]  Verified that Expected value :[Please enter only Number for the attribute.] is matched with Actual value :[Please enter only Number for the attribute.]
+Oct 06,2016 10:07:48 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Oct 06,2016 10:07:49 [info]  Clicked on the 'Value1 of AUT_Attributes_RANGE 2_1005201650504'
+Oct 06,2016 10:07:50 [info]  Entered "1024" in field 'AM_AttributeValue1_InputField'
+Oct 06,2016 10:07:53 [info]  Clicked on the 'AUT_Attributes_RANGE 2_1005201650504'
+Oct 06,2016 10:07:54 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Oct 06,2016 10:07:57 [info]  
+Oct 06,2016 10:07:57 [info]  Verify The data of Alert Message on Entering Invalid Data for Attribute Value
+Oct 06,2016 10:07:57 [info]  Verified that Expected value :[Please enter valid numeric values for the attribute.] is matched with Actual value :[Please enter valid numeric values for the attribute.]
+Oct 06,2016 10:07:58 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Oct 06,2016 10:07:59 [info]  Clicked on the 'Value2 of AUT_Attributes_RANGE 2_1005201650504'
+Oct 06,2016 10:07:59 [info]  Entered "" in field 'AM_AttributeValue2_InputField'
+Oct 06,2016 10:08:03 [info]  Clicked on the 'AUT_Attributes_RANGE 2_1005201650504'
+Oct 06,2016 10:08:03 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Oct 06,2016 10:08:06 [info]  
+Oct 06,2016 10:08:07 [info]  Verify The data of Alert Message on Entering the Data for Attribute's Value2
+Oct 06,2016 10:08:07 [info]  Verified that Expected value :[Please enter range values for the attribute.] is matched with Actual value :[Please enter range values for the attribute.]
+Oct 06,2016 10:08:07 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Oct 06,2016 10:08:08 [info]  Clicked on the 'Value1 of AUT_Attributes_RANGE 2_1005201650504'
+Oct 06,2016 10:08:09 [info]  Entered "1024.33" in field 'AM_AttributeValue1_InputField'
+Oct 06,2016 10:08:12 [info]  Clicked on the 'AUT_Attributes_RANGE 2_1005201650504'
+Oct 06,2016 10:08:13 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Oct 06,2016 10:08:16 [info]  
+Oct 06,2016 10:08:16 [info]  Verify The data of Alert Message on Entering Invalid Data for Attribute Value
+Oct 06,2016 10:08:16 [info]  Verified that Expected value :[Please enter only Number for the attribute.] is matched with Actual value :[Please enter only Number for the attribute.]
+Oct 06,2016 10:08:16 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Oct 06,2016 10:08:18 [info]  Clicked on the 'Value1 of AUT_Attributes_RANGE 2_1005201650504'
+Oct 06,2016 10:08:18 [info]  Entered "1024" in field 'AM_AttributeValue1_InputField'
+Oct 06,2016 10:08:19 [info]  Clicked on the 'Select Attribute AUT_Attributes_RANGE 2_1005201650504'
+Oct 06,2016 10:08:19 [info]  
+Oct 06,2016 10:08:19 [info]  Verify The data of  Value1 Field of Attribute AUT_Attributes_RANGE 2_1005201650504 in Edit Mode
+Oct 06,2016 10:08:19 [info]  Verified that Expected value :[1024] is matched with Actual value :[1024]
+Oct 06,2016 10:08:20 [info]  Clicked on the 'Value2 of AUT_Attributes_RANGE 2_1005201650504'
+Oct 06,2016 10:08:20 [info]  Entered "1024" in field 'AM_AttributeValue2_InputField'
+Oct 06,2016 10:08:20 [info]  Clicked on the 'Select Attribute AUT_Attributes_RANGE 2_1005201650504'
+Oct 06,2016 10:08:20 [info]  
+Oct 06,2016 10:08:21 [info]  Verify The data of  Value2 Field of Attribute AUT_Attributes_RANGE 2_1005201650504 in Edit Mode
+Oct 06,2016 10:08:21 [info]  Verified that Expected value :[1024] is matched with Actual value :[1024]
+Oct 06,2016 10:08:23 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Oct 06,2016 10:08:27 [info]  
+Oct 06,2016 10:08:27 [info]  Verify The data of Value2 Field of Attribute AUT_Attributes_RANGE 2_1005201650504 in View Mode
+Oct 06,2016 10:08:27 [info]  Verified that Expected value :[1024] is matched with Actual value :[1024]
+Oct 06,2016 10:08:27 [info]  Clicked on the 'Edit Button' using JS Executor
+Oct 06,2016 10:08:29 [info]  Verify The data of Value1 Field of Attribute AUT_Attributes_RANGE 2_1005201650504 in View Mode
+Oct 06,2016 10:08:29 [info]  Verified that Expected value :[1024] is matched with Actual value :[1024]
+Oct 06,2016 10:08:29 [info]  Test 'TC9_ValueEnter_Range2Attribute' PASSED
+Oct 06,2016 10:08:31 [info]  Closed the Browser
+Oct 06,2016 10:08:31 [info]  *********************Started Executing 'TC10_ValueEnter_Range3Attribute' Test Case*********************
+Oct 06,2016 10:08:40 [info]  Client: AMCN
+Oct 06,2016 10:08:40 [info]  URL: http://rlv2wb79/login.aspx
+Oct 06,2016 10:08:40 [info]  UserName: automation
+Oct 06,2016 10:08:40 [info]  Password: automation
+Oct 06,2016 10:08:42 [info]  Entered "automation" in field 'User Name'
+Oct 06,2016 10:08:42 [info]  Clicked on the 'Temporary Check Box'
+Oct 06,2016 10:08:43 [info]  Entered "automation" in field 'Password'
+Oct 06,2016 10:08:49 [info]  Clicked on the 'LoginButton'
+Oct 06,2016 10:08:59 [info]  Clicked on the 'MODULE'
+Oct 06,2016 10:09:07 [info]  Clicked on the 'Asset Maintenance'
+Oct 06,2016 10:09:11 [info]  Clicked on the 'Search Menu Icon' using JS Executor
+Oct 06,2016 10:09:11 [info]  Clicked on the 'AssetSearchUnderAsset' using JS Executor
+Oct 06,2016 10:09:25 [info]  Entered "AUT_AssetSeries_1005201650504" in field 'AssetTitle'
+Oct 06,2016 10:09:25 [info]  Clicked on the 'All Check Box' using JS Executor
+Oct 06,2016 10:09:25 [info]  Clicked on the 'Find Button' using JS Executor
+Oct 06,2016 10:09:44 [info]  Moved Mouse over 'First Asset in the Searched Asset'
+Oct 06,2016 10:09:45 [info]  Clicked on the 'First Asset in the Searched Asset'
+Oct 06,2016 10:09:46 [info]  Clicked on the 'First Asset in the Searched Asset'
+Oct 06,2016 10:09:49 [info]  Clicked on the 'View Asset' using JS Executor
+Oct 06,2016 10:10:07 [info]  Verified that Expected value :[AUT_AssetSeries_1005201650504] is matched with Actual value :[AUT_AssetSeries_1005201650504]
+Oct 06,2016 10:10:09 [info]  Clicked on the 'Attributes TAB'
+Oct 06,2016 10:10:13 [info]  Clicked on the 'Edit Button' using JS Executor
+Oct 06,2016 10:10:16 [info]  Clicked on the 'Value2 of AUT_Attributes_RANGE 3_1005201650504'
+Oct 06,2016 10:10:17 [info]  Entered "12RSGab#$%^*%#$" in field 'AM_AttributeValue2_InputField'
+Oct 06,2016 10:10:21 [info]  Clicked on the 'AUT_Attributes_RANGE 3_1005201650504'
+Oct 06,2016 10:10:21 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Oct 06,2016 10:10:24 [info]  
+Oct 06,2016 10:10:25 [info]  Verify The data of Alert Message on Entering the Data for Attribute's Value2
+Oct 06,2016 10:10:25 [info]  Verified that Expected value :[Please enter range values for the attribute.] is matched with Actual value :[Please enter range values for the attribute.]
+Oct 06,2016 10:10:25 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Oct 06,2016 10:10:26 [info]  Clicked on the 'Value1 of AUT_Attributes_RANGE 3_1005201650504'
+Oct 06,2016 10:10:28 [info]  Entered "12RSGab#$%^*%#$" in field 'AM_AttributeValue1_InputField'
+Oct 06,2016 10:10:32 [info]  Clicked on the 'AUT_Attributes_RANGE 3_1005201650504'
+Oct 06,2016 10:10:32 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Oct 06,2016 10:10:35 [info]  
+Oct 06,2016 10:10:36 [info]  Verify The data of Alert Message on Entering Invalid Data for Attribute Value
+Oct 06,2016 10:10:36 [info]  Verified that Expected value :[Please enter valid numeric values for the attribute.] is matched with Actual value :[Please enter valid numeric values for the attribute.]
+Oct 06,2016 10:10:36 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Oct 06,2016 10:10:37 [info]  Clicked on the 'Value1 of AUT_Attributes_RANGE 3_1005201650504'
+Oct 06,2016 10:10:38 [info]  Entered "RSG" in field 'AM_AttributeValue1_InputField'
+Oct 06,2016 10:10:41 [info]  Clicked on the 'AUT_Attributes_RANGE 3_1005201650504'
+Oct 06,2016 10:10:42 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Oct 06,2016 10:10:45 [info]  
+Oct 06,2016 10:10:45 [info]  Verify The data of Alert Message on Entering Invalid Data for Attribute Value
+Oct 06,2016 10:10:45 [info]  Verified that Expected value :[Please enter valid numeric values for the attribute.] is matched with Actual value :[Please enter valid numeric values for the attribute.]
+Oct 06,2016 10:10:46 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Oct 06,2016 10:10:47 [info]  Clicked on the 'Value1 of AUT_Attributes_RANGE 3_1005201650504'
+Oct 06,2016 10:10:47 [info]  Entered "1024.33" in field 'AM_AttributeValue1_InputField'
+Oct 06,2016 10:10:51 [info]  Clicked on the 'AUT_Attributes_RANGE 3_1005201650504'
+Oct 06,2016 10:10:51 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Oct 06,2016 10:10:55 [info]  
+Oct 06,2016 10:10:55 [info]  Verify The data of Alert Message on Entering Invalid Data for Attribute Value
+Oct 06,2016 10:10:55 [info]  Verified that Expected value :[Please enter valid numeric values for the attribute.] is matched with Actual value :[Please enter valid numeric values for the attribute.]
+Oct 06,2016 10:10:55 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Oct 06,2016 10:10:57 [info]  Clicked on the 'Value2 of AUT_Attributes_RANGE 3_1005201650504'
+Oct 06,2016 10:10:57 [info]  Entered "" in field 'AM_AttributeValue2_InputField'
+Oct 06,2016 10:11:00 [info]  Clicked on the 'AUT_Attributes_RANGE 3_1005201650504'
+Oct 06,2016 10:11:01 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Oct 06,2016 10:11:04 [info]  
+Oct 06,2016 10:11:04 [info]  Verify The data of Alert Message on Entering the Data for Attribute's Value2
+Oct 06,2016 10:11:04 [info]  Verified that Expected value :[Please enter range values for the attribute.] is matched with Actual value :[Please enter range values for the attribute.]
+Oct 06,2016 10:11:05 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Oct 06,2016 10:11:06 [info]  Clicked on the 'Value2 of AUT_Attributes_RANGE 3_1005201650504'
+Oct 06,2016 10:11:06 [info]  Entered "1024" in field 'AM_AttributeValue2_InputField'
+Oct 06,2016 10:11:10 [info]  Clicked on the 'AUT_Attributes_RANGE 3_1005201650504'
+Oct 06,2016 10:11:10 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Oct 06,2016 10:11:14 [info]  
+Oct 06,2016 10:11:14 [info]  Verify The data of Alert Message on Entering the Data for Attribute's Value2
+Oct 06,2016 10:11:14 [info]  Verified that Expected value :[Please enter decimal values for the attribute.] is matched with Actual value :[Please enter decimal values for the attribute.]
+Oct 06,2016 10:11:14 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Oct 06,2016 10:11:15 [info]  Clicked on the 'Value1 of AUT_Attributes_RANGE 3_1005201650504'
+Oct 06,2016 10:11:16 [info]  Entered "1024.33" in field 'AM_AttributeValue1_InputField'
+Oct 06,2016 10:11:16 [info]  Clicked on the 'Select Attribute AUT_Attributes_RANGE 3_1005201650504'
+Oct 06,2016 10:11:16 [info]  
+Oct 06,2016 10:11:16 [info]  Verify The data of  Value1 Field of Attribute AUT_Attributes_RANGE 3_1005201650504 in Edit Mode
+Oct 06,2016 10:11:16 [info]  Verified that Expected value :[1024] is matched with Actual value :[1024.33]
+Oct 06,2016 10:11:17 [info]  Clicked on the 'Value2 of AUT_Attributes_RANGE 3_1005201650504'
+Oct 06,2016 10:11:18 [info]  Entered "1024.33" in field 'AM_AttributeValue2_InputField'
+Oct 06,2016 10:11:18 [info]  Clicked on the 'Select Attribute AUT_Attributes_RANGE 3_1005201650504'
+Oct 06,2016 10:11:18 [info]  
+Oct 06,2016 10:11:18 [info]  Verify The data of  Value2 Field of Attribute AUT_Attributes_RANGE 3_1005201650504 in Edit Mode
+Oct 06,2016 10:11:18 [info]  Verified that Expected value :[1024.33] is matched with Actual value :[1024.33]
+Oct 06,2016 10:11:20 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Oct 06,2016 10:11:24 [info]  
+Oct 06,2016 10:11:25 [info]  Verify The data of Value2 Field of Attribute AUT_Attributes_RANGE 3_1005201650504 in View Mode
+Oct 06,2016 10:11:25 [info]  Verified that Expected value :[1024.33] is matched with Actual value :[1024.33]
+Oct 06,2016 10:11:25 [info]  Clicked on the 'Edit Button' using JS Executor
+Oct 06,2016 10:11:27 [info]  Verify The data of Value1 Field of Attribute AUT_Attributes_RANGE 3_1005201650504 in View Mode
+Oct 06,2016 10:11:27 [info]  Verified that Expected value :[1024] is matched with Actual value :[1024.33]
+Oct 06,2016 10:11:27 [info]  Test 'TC10_ValueEnter_Range3Attribute' PASSED
+Oct 06,2016 10:11:28 [info]  Closed the Browser
+Oct 06,2016 10:11:28 [info]  *********************Started Executing 'TC11_ValueEnter_Range4Attribute' Test Case*********************
+Oct 06,2016 10:11:37 [info]  Client: AMCN
+Oct 06,2016 10:11:37 [info]  URL: http://rlv2wb79/login.aspx
+Oct 06,2016 10:11:37 [info]  UserName: automation
+Oct 06,2016 10:11:37 [info]  Password: automation
+Oct 06,2016 10:11:38 [info]  Entered "automation" in field 'User Name'
+Oct 06,2016 10:11:39 [info]  Clicked on the 'Temporary Check Box'
+Oct 06,2016 10:11:39 [info]  Entered "automation" in field 'Password'
+Oct 06,2016 10:11:49 [info]  Clicked on the 'LoginButton'
+Oct 06,2016 10:11:59 [info]  Clicked on the 'MODULE'
+Oct 06,2016 10:12:08 [info]  Clicked on the 'Asset Maintenance'
+Oct 06,2016 10:12:11 [info]  Clicked on the 'Search Menu Icon' using JS Executor
+Oct 06,2016 10:12:11 [info]  Clicked on the 'AssetSearchUnderAsset' using JS Executor
+Oct 06,2016 10:12:25 [info]  Entered "AUT_AssetSeries_1005201650504" in field 'AssetTitle'
+Oct 06,2016 10:12:25 [info]  Clicked on the 'All Check Box' using JS Executor
+Oct 06,2016 10:12:25 [info]  Clicked on the 'Find Button' using JS Executor
+Oct 06,2016 10:12:44 [info]  Moved Mouse over 'First Asset in the Searched Asset'
+Oct 06,2016 10:12:46 [info]  Clicked on the 'First Asset in the Searched Asset'
+Oct 06,2016 10:12:46 [info]  Clicked on the 'First Asset in the Searched Asset'
+Oct 06,2016 10:12:49 [info]  Clicked on the 'View Asset' using JS Executor
+Oct 06,2016 10:13:07 [info]  Verified that Expected value :[AUT_AssetSeries_1005201650504] is matched with Actual value :[AUT_AssetSeries_1005201650504]
+Oct 06,2016 10:13:09 [info]  Clicked on the 'Attributes TAB'
+Oct 06,2016 10:13:13 [info]  Clicked on the 'Edit Button' using JS Executor
+Oct 06,2016 10:13:15 [info]  Clicked on the 'Value2 of AUT_Attributes_RANGE 4_1005201650504'
+Oct 06,2016 10:13:17 [info]  Entered "12RSGab#$%^*%#$" in field 'AM_AttributeValue2_InputField'
+Oct 06,2016 10:13:20 [info]  Clicked on the 'AUT_Attributes_RANGE 4_1005201650504'
+Oct 06,2016 10:13:21 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Oct 06,2016 10:13:24 [info]  
+Oct 06,2016 10:13:25 [info]  Verify The data of Alert Message on Entering the Data for Attribute's Value2
+Oct 06,2016 10:13:25 [info]  Verified that Expected value :[Please enter range values for the attribute.] is matched with Actual value :[Please enter range values for the attribute.]
+Oct 06,2016 10:13:25 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Oct 06,2016 10:13:26 [info]  Clicked on the 'Value1 of AUT_Attributes_RANGE 4_1005201650504'
+Oct 06,2016 10:13:28 [info]  Entered "12RSGab#$%^*%#$" in field 'AM_AttributeValue1_InputField'
+Oct 06,2016 10:13:31 [info]  Clicked on the 'AUT_Attributes_RANGE 4_1005201650504'
+Oct 06,2016 10:13:32 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Oct 06,2016 10:13:35 [info]  
+Oct 06,2016 10:13:35 [info]  Verify The data of Alert Message on Entering Invalid Data for Attribute Value
+Oct 06,2016 10:13:35 [info]  Verified that Expected value :[Please enter valid numeric values for the attribute.] is matched with Actual value :[Please enter valid numeric values for the attribute.]
+Oct 06,2016 10:13:35 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Oct 06,2016 10:13:37 [info]  Clicked on the 'Value1 of AUT_Attributes_RANGE 4_1005201650504'
+Oct 06,2016 10:13:37 [info]  Entered "RSG" in field 'AM_AttributeValue1_InputField'
+Oct 06,2016 10:13:41 [info]  Clicked on the 'AUT_Attributes_RANGE 4_1005201650504'
+Oct 06,2016 10:13:41 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Oct 06,2016 10:13:45 [info]  
+Oct 06,2016 10:13:45 [info]  Verify The data of Alert Message on Entering Invalid Data for Attribute Value
+Oct 06,2016 10:13:45 [info]  Verified that Expected value :[Please enter valid numeric values for the attribute.] is matched with Actual value :[Please enter valid numeric values for the attribute.]
+Oct 06,2016 10:13:45 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Oct 06,2016 10:13:47 [info]  Clicked on the 'Value1 of AUT_Attributes_RANGE 4_1005201650504'
+Oct 06,2016 10:13:47 [info]  Entered "1024" in field 'AM_AttributeValue1_InputField'
+Oct 06,2016 10:13:51 [info]  Clicked on the 'AUT_Attributes_RANGE 4_1005201650504'
+Oct 06,2016 10:13:51 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Oct 06,2016 10:13:54 [info]  
+Oct 06,2016 10:13:55 [info]  Verify The data of Alert Message on Entering Invalid Data for Attribute Value
+Oct 06,2016 10:13:55 [info]  Verified that Expected value :[Please enter valid numeric values for the attribute.] is matched with Actual value :[Please enter valid numeric values for the attribute.]
+Oct 06,2016 10:13:55 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Oct 06,2016 10:13:56 [info]  Clicked on the 'Value2 of AUT_Attributes_RANGE 4_1005201650504'
+Oct 06,2016 10:13:57 [info]  Entered "" in field 'AM_AttributeValue2_InputField'
+Oct 06,2016 10:14:00 [info]  Clicked on the 'AUT_Attributes_RANGE 4_1005201650504'
+Oct 06,2016 10:14:00 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Oct 06,2016 10:14:04 [info]  
+Oct 06,2016 10:14:04 [info]  Verify The data of Alert Message on Entering the Data for Attribute's Value2
+Oct 06,2016 10:14:04 [info]  Verified that Expected value :[Please enter range values for the attribute.] is matched with Actual value :[Please enter range values for the attribute.]
+Oct 06,2016 10:14:04 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Oct 06,2016 10:14:06 [info]  Clicked on the 'Value2 of AUT_Attributes_RANGE 4_1005201650504'
+Oct 06,2016 10:14:06 [info]  Entered "1024.33" in field 'AM_AttributeValue2_InputField'
+Oct 06,2016 10:14:09 [info]  Clicked on the 'AUT_Attributes_RANGE 4_1005201650504'
+Oct 06,2016 10:14:10 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Oct 06,2016 10:14:13 [info]  
+Oct 06,2016 10:14:14 [info]  Verify The data of Alert Message on Entering the Data for Attribute's Value2
+Oct 06,2016 10:14:14 [info]  Verified that Expected value :[Please enter valid numeric values for the attribute.] is matched with Actual value :[Please enter valid numeric values for the attribute.]
+Oct 06,2016 10:14:14 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Oct 06,2016 10:14:15 [info]  Clicked on the 'Value1 of AUT_Attributes_RANGE 2_1005201650504'
+Oct 06,2016 10:14:15 [info]  Entered "1024" in field 'AM_AttributeValue1_InputField'
+Oct 06,2016 10:14:16 [info]  Clicked on the 'Select Attribute AUT_Attributes_RANGE 4_1005201650504'
+Oct 06,2016 10:14:16 [info]  
+Oct 06,2016 10:14:16 [info]  Verify The data of  Value1 Field of Attribute AUT_Attributes_RANGE 4_1005201650504 in Edit Mode
+Oct 06,2016 10:14:16 [info]  Verified that Expected value :[1024] is matched with Actual value :[1024]
+Oct 06,2016 10:14:17 [info]  Clicked on the 'Value2 of AUT_Attributes_RANGE 4_1005201650504'
+Oct 06,2016 10:14:17 [info]  Entered "1024" in field 'AM_AttributeValue2_InputField'
+Oct 06,2016 10:14:17 [info]  Clicked on the 'Select Attribute AUT_Attributes_RANGE 4_1005201650504'
+Oct 06,2016 10:14:17 [info]  
+Oct 06,2016 10:14:18 [info]  Verify The data of  Value2 Field of Attribute AUT_Attributes_RANGE 4_1005201650504 in Edit Mode
+Oct 06,2016 10:14:18 [info]  Verified that Expected value :[1024] is matched with Actual value :[1024]
+Oct 06,2016 10:14:21 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Oct 06,2016 10:14:25 [info]  
+Oct 06,2016 10:14:25 [info]  Verify The data of Value2 Field of Attribute AUT_Attributes_RANGE 4_1005201650504 in View Mode
+Oct 06,2016 10:14:25 [info]  Verified that Expected value :[1024] is matched with Actual value :[1024]
+Oct 06,2016 10:14:25 [info]  Clicked on the 'Edit Button' using JS Executor
+Oct 06,2016 10:14:27 [info]  Verify The data of Value1 Field of Attribute AUT_Attributes_RANGE 4_1005201650504 in View Mode
+Oct 06,2016 10:14:27 [info]  Verified that Expected value :[1024] is matched with Actual value :[1024]
+Oct 06,2016 10:14:27 [info]  Test 'TC11_ValueEnter_Range4Attribute' PASSED
+Oct 06,2016 10:14:29 [info]  Closed the Browser
+Oct 06,2016 10:14:29 [info]  *********************Started Executing 'TC12_ValueEnter_Range5Attribute' Test Case*********************
+Oct 06,2016 10:14:38 [info]  Client: AMCN
+Oct 06,2016 10:14:38 [info]  URL: http://rlv2wb79/login.aspx
+Oct 06,2016 10:14:38 [info]  UserName: automation
+Oct 06,2016 10:14:38 [info]  Password: automation
+Oct 06,2016 10:14:39 [info]  Entered "automation" in field 'User Name'
+Oct 06,2016 10:14:39 [info]  Clicked on the 'Temporary Check Box'
+Oct 06,2016 10:14:40 [info]  Entered "automation" in field 'Password'
+Oct 06,2016 10:14:46 [info]  Clicked on the 'LoginButton'
+Oct 06,2016 10:14:56 [info]  Clicked on the 'MODULE'
+Oct 06,2016 10:15:05 [info]  Clicked on the 'Asset Maintenance'
+Oct 06,2016 10:15:09 [info]  Clicked on the 'Search Menu Icon' using JS Executor
+Oct 06,2016 10:15:09 [info]  Clicked on the 'AssetSearchUnderAsset' using JS Executor
+Oct 06,2016 10:15:21 [info]  Entered "AUT_AssetSeries_1005201650504" in field 'AssetTitle'
+Oct 06,2016 10:15:21 [info]  Clicked on the 'All Check Box' using JS Executor
+Oct 06,2016 10:15:21 [info]  Clicked on the 'Find Button' using JS Executor
+Oct 06,2016 10:15:40 [info]  Moved Mouse over 'First Asset in the Searched Asset'
+Oct 06,2016 10:15:41 [info]  Clicked on the 'First Asset in the Searched Asset'
+Oct 06,2016 10:15:41 [info]  Clicked on the 'First Asset in the Searched Asset'
+Oct 06,2016 10:15:44 [info]  Clicked on the 'View Asset' using JS Executor
+Oct 06,2016 10:16:02 [info]  Verified that Expected value :[AUT_AssetSeries_1005201650504] is matched with Actual value :[AUT_AssetSeries_1005201650504]
+Oct 06,2016 10:16:04 [info]  Clicked on the 'Attributes TAB'
+Oct 06,2016 10:16:08 [info]  Clicked on the 'Edit Button' using JS Executor
+Oct 06,2016 10:16:10 [info]  Clicked on the 'Value2 of AUT_Attributes_RANGE 5_1005201650504'
+Oct 06,2016 10:16:12 [info]  Entered "12RSGab#$%^*%#$" in field 'AM_AttributeValue2_InputField'
+Oct 06,2016 10:16:15 [info]  Clicked on the 'AUT_Attributes_RANGE 5_1005201650504'
+Oct 06,2016 10:16:16 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Oct 06,2016 10:16:19 [info]  
+Oct 06,2016 10:16:20 [info]  Verify The data of Alert Message on Entering the Data for Attribute's Value2
+Oct 06,2016 10:16:20 [info]  Verified that Expected value :[Please enter range values for the attribute.] is matched with Actual value :[Please enter range values for the attribute.]
+Oct 06,2016 10:16:20 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Oct 06,2016 10:16:21 [info]  Clicked on the 'Value1 of AUT_Attributes_RANGE 5_1005201650504'
+Oct 06,2016 10:16:22 [info]  Entered "12RSGab#$%^*%#$" in field 'AM_AttributeValue1_InputField'
+Oct 06,2016 10:16:26 [info]  Clicked on the 'AUT_Attributes_RANGE 5_1005201650504'
+Oct 06,2016 10:16:26 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Oct 06,2016 10:16:30 [info]  
+Oct 06,2016 10:16:30 [info]  Verify The data of Alert Message on Entering Invalid Data for Attribute Value
+Oct 06,2016 10:16:30 [info]  Verified that Expected value :[Please enter valid numeric values for the attribute.] is matched with Actual value :[Please enter valid numeric values for the attribute.]
+Oct 06,2016 10:16:30 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Oct 06,2016 10:16:31 [info]  Clicked on the 'Value1 of AUT_Attributes_RANGE 5_1005201650504'
+Oct 06,2016 10:16:32 [info]  Entered "RSG" in field 'AM_AttributeValue1_InputField'
+Oct 06,2016 10:16:35 [info]  Clicked on the 'AUT_Attributes_RANGE 5_1005201650504'
+Oct 06,2016 10:16:35 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Oct 06,2016 10:16:39 [info]  
+Oct 06,2016 10:16:39 [info]  Verify The data of Alert Message on Entering Invalid Data for Attribute Value
+Oct 06,2016 10:16:39 [info]  Verified that Expected value :[Please enter valid numeric values for the attribute.] is matched with Actual value :[Please enter valid numeric values for the attribute.]
+Oct 06,2016 10:16:39 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Oct 06,2016 10:16:40 [info]  Clicked on the 'Value1 of AUT_Attributes_RANGE 5_1005201650504'
+Oct 06,2016 10:16:41 [info]  Entered "1024.33" in field 'AM_AttributeValue1_InputField'
+Oct 06,2016 10:16:44 [info]  Clicked on the 'AUT_Attributes_RANGE 5_1005201650504'
+Oct 06,2016 10:16:44 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Oct 06,2016 10:16:48 [info]  
+Oct 06,2016 10:16:48 [info]  Verify The data of Alert Message on Entering Invalid Data for Attribute Value
+Oct 06,2016 10:16:48 [info]  Verified that Expected value :[Please enter valid numeric values for the attribute.] is matched with Actual value :[Please enter valid numeric values for the attribute.]
+Oct 06,2016 10:16:48 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Oct 06,2016 10:16:49 [info]  Clicked on the 'Value2 of AUT_Attributes_RANGE 5_1005201650504'
+Oct 06,2016 10:16:49 [info]  Entered "" in field 'AM_AttributeValue2_InputField'
+Oct 06,2016 10:16:53 [info]  Clicked on the 'AUT_Attributes_RANGE 5_1005201650504'
+Oct 06,2016 10:16:53 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Oct 06,2016 10:16:57 [info]  
+Oct 06,2016 10:16:57 [info]  Verify The data of Alert Message on Entering the Data for Attribute's Value2
+Oct 06,2016 10:16:57 [info]  Verified that Expected value :[Please enter range values for the attribute.] is matched with Actual value :[Please enter range values for the attribute.]
+Oct 06,2016 10:16:57 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Oct 06,2016 10:16:58 [info]  Clicked on the 'Value2 of AUT_Attributes_RANGE 5_1005201650504'
+Oct 06,2016 10:16:58 [info]  Entered "1024" in field 'AM_AttributeValue2_InputField'
+Oct 06,2016 10:17:02 [info]  Clicked on the 'AUT_Attributes_RANGE 5_1005201650504'
+Oct 06,2016 10:17:02 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Oct 06,2016 10:17:06 [info]  
+Oct 06,2016 10:17:06 [info]  Verify The data of Alert Message on Entering the Data for Attribute's Value2
+Oct 06,2016 10:17:06 [info]  Verified that Expected value :[Please enter decimal values for the attribute.] is matched with Actual value :[Please enter decimal values for the attribute.]
+Oct 06,2016 10:17:06 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Oct 06,2016 10:17:07 [info]  Clicked on the 'Value1 of AUT_Attributes_RANGE 2_1005201650504'
+Oct 06,2016 10:17:07 [info]  Entered "1024.33" in field 'AM_AttributeValue1_InputField'
+Oct 06,2016 10:17:08 [info]  Clicked on the 'Select Attribute AUT_Attributes_RANGE 5_1005201650504'
+Oct 06,2016 10:17:08 [info]  
+Oct 06,2016 10:17:08 [info]  Verify The data of  Value1 Field of Attribute AUT_Attributes_RANGE 5_1005201650504 in Edit Mode
+Oct 06,2016 10:17:08 [info]  Verified that Expected value :[1024.33] is matched with Actual value :[1024.33]
+Oct 06,2016 10:17:09 [info]  Clicked on the 'Value2 of AUT_Attributes_RANGE 5_1005201650504'
+Oct 06,2016 10:17:09 [info]  Entered "1024.33" in field 'AM_AttributeValue2_InputField'
+Oct 06,2016 10:17:09 [info]  Clicked on the 'Select Attribute AUT_Attributes_RANGE 5_1005201650504'
+Oct 06,2016 10:17:09 [info]  
+Oct 06,2016 10:17:09 [info]  Verify The data of  Value2 Field of Attribute AUT_Attributes_RANGE 5_1005201650504 in Edit Mode
+Oct 06,2016 10:17:09 [info]  Verified that Expected value :[1024.33] is matched with Actual value :[1024.33]
+Oct 06,2016 10:17:12 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Oct 06,2016 10:17:15 [info]  
+Oct 06,2016 10:17:16 [info]  Verify The data of Value2 Field of Attribute AUT_Attributes_RANGE 5_1005201650504 in View Mode
+Oct 06,2016 10:17:16 [info]  Verified that Expected value :[1024.33] is matched with Actual value :[1024.33]
+Oct 06,2016 10:17:16 [info]  Clicked on the 'Edit Button' using JS Executor
+Oct 06,2016 10:17:18 [info]  Verify The data of Value1 Field of Attribute AUT_Attributes_RANGE 5_1005201650504 in View Mode
+Oct 06,2016 10:17:18 [info]  Verified that Expected value :[1024.33] is matched with Actual value :[1024.33]
+Oct 06,2016 10:17:18 [info]  Test 'TC12_ValueEnter_Range5Attribute' PASSED
+Oct 06,2016 10:17:19 [info]  Closed the Browser
+Oct 06,2016 10:17:19 [info]  *********************Started Executing 'TC14_ValueEnter_ESTAttribute' Test Case*********************
+Oct 06,2016 10:17:28 [info]  Client: AMCN
+Oct 06,2016 10:17:28 [info]  URL: http://rlv2wb79/login.aspx
+Oct 06,2016 10:17:28 [info]  UserName: automation
+Oct 06,2016 10:17:28 [info]  Password: automation
+Oct 06,2016 10:17:29 [info]  Entered "automation" in field 'User Name'
+Oct 06,2016 10:17:30 [info]  Clicked on the 'Temporary Check Box'
+Oct 06,2016 10:17:30 [info]  Entered "automation" in field 'Password'
+Oct 06,2016 10:17:36 [info]  Clicked on the 'LoginButton'
+Oct 06,2016 10:17:46 [info]  Clicked on the 'MODULE'
+Oct 06,2016 10:17:55 [info]  Clicked on the 'Asset Maintenance'
+Oct 06,2016 10:17:59 [info]  Clicked on the 'Search Menu Icon' using JS Executor
+Oct 06,2016 10:17:59 [info]  Clicked on the 'AssetSearchUnderAsset' using JS Executor
+Oct 06,2016 10:18:11 [info]  Entered "AUT_AssetSeries_1005201650504" in field 'AssetTitle'
+Oct 06,2016 10:18:12 [info]  Clicked on the 'All Check Box' using JS Executor
+Oct 06,2016 10:18:12 [info]  Clicked on the 'Find Button' using JS Executor
+Oct 06,2016 10:18:30 [info]  Moved Mouse over 'First Asset in the Searched Asset'
+Oct 06,2016 10:18:31 [info]  Clicked on the 'First Asset in the Searched Asset'
+Oct 06,2016 10:18:32 [info]  Clicked on the 'First Asset in the Searched Asset'
+Oct 06,2016 10:18:35 [info]  Clicked on the 'View Asset' using JS Executor
+Oct 06,2016 10:18:53 [info]  Verified that Expected value :[AUT_AssetSeries_1005201650504] is matched with Actual value :[AUT_AssetSeries_1005201650504]
+Oct 06,2016 10:18:55 [info]  Clicked on the 'Attributes TAB'
+Oct 06,2016 10:18:59 [info]  Clicked on the 'Edit Button' using JS Executor
+Oct 06,2016 10:19:01 [info]  Clicked on the 'Value1 of AUT_Attributes_List_1005201650504'
+Oct 06,2016 10:19:01 [info]  Entered "Volume 1" in field 'AM_AttributeValue1_InputField'
+Oct 06,2016 10:19:02 [info]  Clicked on the 'Select Attribute AUT_Attributes_List_1005201650504'
+Oct 06,2016 10:19:02 [info]  
+Oct 06,2016 10:19:02 [info]  Verify The data of  Value1 Field of Attribute AUT_Attributes_List_1005201650504 in Edit Mode
+Oct 06,2016 10:19:02 [info]  Verified that Expected value :[Volume 1] is matched with Actual value :[Volume 1]
+Oct 06,2016 10:19:05 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Oct 06,2016 10:19:08 [info]  
+Oct 06,2016 10:19:09 [info]  Verify The data of Value1 Field of Attribute AUT_Attributes_List_1005201650504 in View Mode
+Oct 06,2016 10:19:09 [info]  Verified that Expected value :[Volume 1] is matched with Actual value :[Volume 1]
+Oct 06,2016 10:19:09 [info]  Clicked on the 'Edit Button' using JS Executor
+Oct 06,2016 10:19:11 [info]  Clicked on the 'Value1 of AUT_Attributes_List_1005201650504'
+Oct 06,2016 10:19:12 [info]  Entered "Volume 2" in field 'AM_AttributeValue1_InputField'
+Oct 06,2016 10:19:12 [info]  Clicked on the 'Select Attribute AUT_Attributes_List_1005201650504'
+Oct 06,2016 10:19:12 [info]  
+Oct 06,2016 10:19:12 [info]  Verify The data of  Value1 Field of Attribute AUT_Attributes_List_1005201650504 in Edit Mode
+Oct 06,2016 10:19:12 [info]  Verified that Expected value :[Volume 2] is matched with Actual value :[Volume 2]
+Oct 06,2016 10:19:15 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Oct 06,2016 10:19:18 [info]  
+Oct 06,2016 10:19:19 [info]  Verify The data of Value1 Field of Attribute AUT_Attributes_List_1005201650504 in View Mode
+Oct 06,2016 10:19:19 [info]  Verified that Expected value :[Volume 2] is matched with Actual value :[Volume 2]
+Oct 06,2016 10:19:19 [info]  Clicked on the 'Edit Button' using JS Executor
+Oct 06,2016 10:19:21 [info]  Test 'TC14_ValueEnter_ESTAttribute' PASSED
+Oct 06,2016 10:19:22 [info]  Closed the Browser
+Oct 06,2016 10:23:43 [info]  ********************Started Executiong the Test Suite at 10:23:43******************
+Oct 06,2016 10:23:43 [info]  Client: AMCN
+Oct 06,2016 10:23:43 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Oct 06,2016 10:23:43 [info]  *********************Started Executing 'TC16_DeleteAttributes' Test Case*********************
+Oct 06,2016 10:24:04 [info]  Client: AMCN
+Oct 06,2016 10:24:04 [info]  URL: http://rlv2wb79/login.aspx
+Oct 06,2016 10:24:04 [info]  UserName: automation
+Oct 06,2016 10:24:04 [info]  Password: automation
+Oct 06,2016 10:24:06 [info]  Entered "automation" in field 'User Name'
+Oct 06,2016 10:24:06 [info]  Clicked on the 'Temporary Check Box'
+Oct 06,2016 10:24:07 [info]  Entered "automation" in field 'Password'
+Oct 06,2016 10:24:07 [info]  Clicked on the 'LoginButton'
+Oct 06,2016 10:24:18 [info]  Clicked on the 'MODULE'
+Oct 06,2016 10:24:29 [info]  Clicked on the 'Asset Maintenance'
+Oct 06,2016 10:24:33 [info]  Clicked on the 'Search Menu Icon' using JS Executor
+Oct 06,2016 10:24:34 [info]  Clicked on the 'AssetSearchUnderAsset' using JS Executor
+Oct 06,2016 10:24:50 [info]  Entered "AUT_AssetSeries_1005201650504" in field 'AssetTitle'
+Oct 06,2016 10:24:50 [info]  Clicked on the 'All Check Box' using JS Executor
+Oct 06,2016 10:24:50 [info]  Clicked on the 'Find Button' using JS Executor
+Oct 06,2016 10:25:09 [info]  Moved Mouse over 'First Asset in the Searched Asset'
+Oct 06,2016 10:25:10 [info]  Clicked on the 'First Asset in the Searched Asset'
+Oct 06,2016 10:25:11 [info]  Clicked on the 'First Asset in the Searched Asset'
+Oct 06,2016 10:25:14 [info]  Clicked on the 'View Asset' using JS Executor
+Oct 06,2016 10:25:32 [info]  Verified that Expected value :[AUT_AssetSeries_1005201650504] is matched with Actual value :[AUT_AssetSeries_1005201650504]
+Oct 06,2016 10:25:34 [info]  Clicked on the 'Attributes TAB'
+Oct 06,2016 10:25:38 [info]  Clicked on the 'Edit Button' using JS Executor
+Oct 06,2016 10:25:41 [info]  Clicked on the 'Edit Button' using JS Executor
+Oct 06,2016 10:25:42 [info]  Clicked on the 'Value1 of AUT_Attributes_Film location1005201650504'
+Oct 06,2016 10:25:42 [info]  Entered " " in field 'AM_AttributeValue1_InputField'
+Oct 06,2016 10:25:43 [info]  Clicked on the 'Select Attribute AUT_Attributes_Film location1005201650504'
+Oct 06,2016 10:25:46 [info]  
+Oct 06,2016 10:25:46 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Oct 06,2016 10:25:47 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Oct 06,2016 10:25:53 [info]  Clicked on the 'Edit Button' using JS Executor
+Oct 06,2016 10:25:56 [info]  Clicked on the 'Value1 of AUT_Attributes_Media_1005201650504'
+Oct 06,2016 10:25:56 [info]  Entered " " in field 'AM_AttributeValue1_InputField'
+Oct 06,2016 10:25:57 [info]  Clicked on the 'Select Attribute AUT_Attributes_Media_1005201650504'
+Oct 06,2016 10:26:00 [info]  
+Oct 06,2016 10:26:00 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Oct 06,2016 10:26:03 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Oct 06,2016 10:26:07 [info]  Clicked on the 'Edit Button' using JS Executor
+Oct 06,2016 10:26:09 [info]  Clicked on the 'Value1 of AUT_Attributes_ NUMERIC 1_1005201650504'
+Oct 06,2016 10:26:10 [info]  Entered " " in field 'AM_AttributeValue1_InputField'
+Oct 06,2016 10:26:11 [info]  Clicked on the 'Select Attribute AUT_Attributes_ NUMERIC 1_1005201650504'
+Oct 06,2016 10:26:14 [info]  
+Oct 06,2016 10:26:14 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Oct 06,2016 10:26:17 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Oct 06,2016 10:26:21 [info]  Clicked on the 'Edit Button' using JS Executor
+Oct 06,2016 10:26:23 [info]  Clicked on the 'Value1 of AUT_Attributes_NUMERIC 2_1005201650504'
+Oct 06,2016 10:26:24 [info]  Entered " " in field 'AM_AttributeValue1_InputField'
+Oct 06,2016 10:26:24 [info]  Clicked on the 'Select Attribute AUT_Attributes_NUMERIC 2_1005201650504'
+Oct 06,2016 10:26:28 [info]  
+Oct 06,2016 10:26:28 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Oct 06,2016 10:26:31 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Oct 06,2016 10:26:35 [info]  Clicked on the 'Edit Button' using JS Executor
+Oct 06,2016 10:26:37 [info]  Clicked on the 'Value1 of AUT_Attributes_CURRENCY 1_1005201650504'
+Oct 06,2016 10:26:38 [info]  Entered " " in field 'AM_AttributeValue1_InputField'
+Oct 06,2016 10:26:38 [info]  Clicked on the 'Select Attribute AUT_Attributes_CURRENCY 1_1005201650504'
+Oct 06,2016 10:26:42 [info]  
+Oct 06,2016 10:26:42 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Oct 06,2016 10:26:45 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Oct 06,2016 10:26:49 [info]  Clicked on the 'Edit Button' using JS Executor
+Oct 06,2016 10:26:51 [info]  Clicked on the 'Value1 of AUT_Attributes_CURRENCY 2_1005201650504'
+Oct 06,2016 10:26:52 [info]  Entered " " in field 'AM_AttributeValue1_InputField'
+Oct 06,2016 10:26:53 [info]  Clicked on the 'Select Attribute AUT_Attributes_CURRENCY 2_1005201650504'
+Oct 06,2016 10:26:56 [info]  
+Oct 06,2016 10:26:56 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Oct 06,2016 10:26:59 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Oct 06,2016 10:27:03 [info]  Clicked on the 'Edit Button' using JS Executor
+Oct 06,2016 10:27:05 [info]  Clicked on the 'Value1 of AUT_Attributes_RANGE 1_1005201650504'
+Oct 06,2016 10:27:05 [info]  Entered " " in field 'AM_AttributeValue1_InputField'
+Oct 06,2016 10:27:06 [info]  Clicked on the 'Select Attribute AUT_Attributes_RANGE 1_1005201650504'
+Oct 06,2016 10:27:09 [info]  
+Oct 06,2016 10:27:10 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Oct 06,2016 10:27:10 [info]  Clicked on the 'Value2 of AUT_Attributes_RANGE 1_1005201650504'
+Oct 06,2016 10:27:11 [info]  Entered "" in field 'AM_AttributeValue2_InputField'
+Oct 06,2016 10:27:14 [info]  
+Oct 06,2016 10:27:14 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Oct 06,2016 10:27:15 [info]  Clicked on the 'Select Attribute AUT_Attributes_RANGE 1_1005201650504'
+Oct 06,2016 10:27:15 [info]  
+Oct 06,2016 10:27:16 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Oct 06,2016 10:27:19 [info]  Clicked on the 'Edit Button' using JS Executor
+Oct 06,2016 10:27:20 [info]  Clicked on the 'Value1 of AUT_Attributes_RANGE 2_1005201650504'
+Oct 06,2016 10:27:20 [info]  ====Failed==== "AM_AttributeValue1_InputField" field is not present'AM_AttributeValue1_InputField'
+Oct 06,2016 10:27:21 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\06\AM_AttributeValue1_InputField_CheckpointFailure_10-06-2016 10-27-20 AM.jpg
+Oct 06,2016 10:27:21 [info]  Clicked on the 'Select Attribute AUT_Attributes_RANGE 2_1005201650504'
+Oct 06,2016 10:27:25 [info]  
+Oct 06,2016 10:27:25 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Oct 06,2016 10:27:26 [info]  Clicked on the 'Value2 of AUT_Attributes_RANGE 2_1005201650504'
+Oct 06,2016 10:27:26 [info]  Entered "" in field 'AM_AttributeValue2_InputField'
+Oct 06,2016 10:27:29 [info]  
+Oct 06,2016 10:27:30 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Oct 06,2016 10:27:30 [info]  Clicked on the 'Select Attribute AUT_Attributes_RANGE 2_1005201650504'
+Oct 06,2016 10:27:30 [info]  
+Oct 06,2016 10:27:31 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Oct 06,2016 10:27:35 [info]  Clicked on the 'Edit Button' using JS Executor
+Oct 06,2016 10:27:35 [info]  Clicked on the 'Value1 of AUT_Attributes_RANGE 3_1005201650504'
+Oct 06,2016 10:27:36 [info]  ====Failed==== "AM_AttributeValue1_InputField" field is not present'AM_AttributeValue1_InputField'
+Oct 06,2016 10:27:36 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\06\AM_AttributeValue1_InputField_CheckpointFailure_10-06-2016 10-27-36 AM.jpg
+Oct 06,2016 10:27:36 [info]  Clicked on the 'Select Attribute AUT_Attributes_RANGE 3_1005201650504'
+Oct 06,2016 10:27:39 [info]  
+Oct 06,2016 10:27:40 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Oct 06,2016 10:27:40 [info]  Clicked on the 'Value2 of AUT_Attributes_RANGE 3_1005201650504'
+Oct 06,2016 10:27:41 [info]  Entered "" in field 'AM_AttributeValue2_InputField'
+Oct 06,2016 10:27:44 [info]  
+Oct 06,2016 10:27:44 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Oct 06,2016 10:27:45 [info]  Clicked on the 'Select Attribute AUT_Attributes_RANGE 3_1005201650504'
+Oct 06,2016 10:27:45 [info]  
+Oct 06,2016 10:27:46 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Oct 06,2016 10:27:49 [info]  Clicked on the 'Edit Button' using JS Executor
+Oct 06,2016 10:27:50 [info]  Clicked on the 'Value1 of AUT_Attributes_RANGE 4_1005201650504'
+Oct 06,2016 10:27:50 [info]  ====Failed==== "AM_AttributeValue1_InputField" field is not present'AM_AttributeValue1_InputField'
+Oct 06,2016 10:27:50 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\06\AM_AttributeValue1_InputField_CheckpointFailure_10-06-2016 10-27-50 AM.jpg
+Oct 06,2016 10:27:51 [info]  Clicked on the 'Select Attribute AUT_Attributes_RANGE 4_1005201650504'
+Oct 06,2016 10:27:54 [info]  
+Oct 06,2016 10:27:54 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Oct 06,2016 10:27:55 [info]  Clicked on the 'Value2 of AUT_Attributes_RANGE 4_1005201650504'
+Oct 06,2016 10:27:55 [info]  Entered "" in field 'AM_AttributeValue2_InputField'
+Oct 06,2016 10:27:59 [info]  
+Oct 06,2016 10:27:59 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Oct 06,2016 10:28:00 [info]  Clicked on the 'Select Attribute AUT_Attributes_RANGE 4_1005201650504'
+Oct 06,2016 10:28:00 [info]  
+Oct 06,2016 10:28:00 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Oct 06,2016 10:28:04 [info]  Clicked on the 'Edit Button' using JS Executor
+Oct 06,2016 10:28:05 [info]  Clicked on the 'Value1 of AUT_Attributes_RANGE 5_1005201650504'
+Oct 06,2016 10:28:05 [info]  ====Failed==== "AM_AttributeValue1_InputField" field is not present'AM_AttributeValue1_InputField'
+Oct 06,2016 10:28:05 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\06\AM_AttributeValue1_InputField_CheckpointFailure_10-06-2016 10-28-05 AM.jpg
+Oct 06,2016 10:28:05 [info]  Clicked on the 'Select Attribute AUT_Attributes_RANGE 5_1005201650504'
+Oct 06,2016 10:28:09 [info]  
+Oct 06,2016 10:28:09 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Oct 06,2016 10:28:10 [info]  Clicked on the 'Value2 of AUT_Attributes_RANGE 5_1005201650504'
+Oct 06,2016 10:28:10 [info]  Entered "" in field 'AM_AttributeValue2_InputField'
+Oct 06,2016 10:28:13 [info]  
+Oct 06,2016 10:28:13 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Oct 06,2016 10:28:14 [info]  Clicked on the 'Select Attribute AUT_Attributes_RANGE 5_1005201650504'
+Oct 06,2016 10:28:14 [info]  
+Oct 06,2016 10:28:15 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Oct 06,2016 10:28:19 [info]  Clicked on the 'Edit Button' using JS Executor
+Oct 06,2016 10:28:19 [info]  Clicked on the 'Value1 of AUT_Attributes_RANGE 6_1005201650504'
+Oct 06,2016 10:28:20 [info]  ====Failed==== "AM_AttributeValue1_InputField" field is not present'AM_AttributeValue1_InputField'
+Oct 06,2016 10:28:20 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\06\AM_AttributeValue1_InputField_CheckpointFailure_10-06-2016 10-28-20 AM.jpg
+Oct 06,2016 10:28:20 [info]  Clicked on the 'Select Attribute AUT_Attributes_RANGE 6_1005201650504'
+Oct 06,2016 10:28:23 [info]  
+Oct 06,2016 10:28:24 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Oct 06,2016 10:28:24 [info]  Clicked on the 'Value2 of AUT_Attributes_RANGE 6_1005201650504'
+Oct 06,2016 10:28:25 [info]  Entered "" in field 'AM_AttributeValue2_InputField'
+Oct 06,2016 10:28:28 [info]  
+Oct 06,2016 10:28:28 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Oct 06,2016 10:28:29 [info]  Clicked on the 'Select Attribute AUT_Attributes_RANGE 6_1005201650504'
+Oct 06,2016 10:28:29 [info]  
+Oct 06,2016 10:28:30 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Oct 06,2016 10:28:33 [info]  Clicked on the 'Edit Button' using JS Executor
+Oct 06,2016 10:28:34 [info]  Clicked on the 'Value1 of AUT_Attributes_RANGE 7_1005201650504'
+Oct 06,2016 10:28:34 [info]  ====Failed==== "AM_AttributeValue1_InputField" field is not present'AM_AttributeValue1_InputField'
+Oct 06,2016 10:28:34 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\06\AM_AttributeValue1_InputField_CheckpointFailure_10-06-2016 10-28-34 AM.jpg
+Oct 06,2016 10:28:35 [info]  Clicked on the 'Select Attribute AUT_Attributes_RANGE 7_1005201650504'
+Oct 06,2016 10:28:38 [info]  
+Oct 06,2016 10:28:38 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Oct 06,2016 10:28:39 [info]  Clicked on the 'Value2 of AUT_Attributes_RANGE 7_1005201650504'
+Oct 06,2016 10:28:39 [info]  Entered "" in field 'AM_AttributeValue2_InputField'
+Oct 06,2016 10:28:43 [info]  
+Oct 06,2016 10:28:43 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Oct 06,2016 10:28:44 [info]  Clicked on the 'Select Attribute AUT_Attributes_RANGE 7_1005201650504'
+Oct 06,2016 10:28:44 [info]  
+Oct 06,2016 10:28:44 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Oct 06,2016 10:28:48 [info]  Clicked on the 'Edit Button' using JS Executor
+Oct 06,2016 10:28:49 [info]  Clicked on the 'Value1 of AUT_Attributes_List_1005201650504'
+Oct 06,2016 10:28:49 [info]  ====Failed==== "AM_AttributeValue1_InputField" field is not present'AM_AttributeValue1_InputField'
+Oct 06,2016 10:28:49 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\06\AM_AttributeValue1_InputField_CheckpointFailure_10-06-2016 10-28-49 AM.jpg
+Oct 06,2016 10:28:49 [info]  Clicked on the 'Select Attribute AUT_Attributes_List_1005201650504'
+Oct 06,2016 10:28:53 [info]  
+Oct 06,2016 10:28:53 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Oct 06,2016 10:28:53 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Oct 06,2016 10:28:57 [info]  Clicked on the 'Edit Button' using JS Executor
+Oct 06,2016 10:28:58 [info]  Clicked on the 'Value1 of AUT_Attributes_Date1_1005201650504'
+Oct 06,2016 10:28:58 [info]  ====Failed==== "AM_AttributeValue1_InputField" field is not present'AM_AttributeValue1_InputField'
+Oct 06,2016 10:28:58 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\06\AM_AttributeValue1_InputField_CheckpointFailure_10-06-2016 10-28-58 AM.jpg
+Oct 06,2016 10:28:58 [info]  Clicked on the 'Select Attribute AUT_Attributes_Date1_1005201650504'
+Oct 06,2016 10:29:02 [info]  
+Oct 06,2016 10:29:02 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Oct 06,2016 10:29:03 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Oct 06,2016 10:29:07 [info]  Clicked on the 'Administration'
+Oct 06,2016 10:30:43 [info]  Test 'TC16_DeleteAttributes' FAILED
+Oct 06,2016 10:30:43 [info]  2
+Oct 06,2016 10:30:43 [info]  Test Case :TC16_DeleteAttributes's Screenshot of Failure Page: C:\SeleniumProject\Screenshots\Oct2016\\06\TC16_DeleteAttributes_10-06-2016 10-30-43 AM.jpg
+Oct 06,2016 10:30:46 [info]  Closed the Browser
+Oct 06,2016 10:33:43 [info]  ********************Started Executiong the Test Suite at 10:33:43******************
+Oct 06,2016 10:33:43 [info]  Client: AMCN
+Oct 06,2016 10:33:43 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Oct 06,2016 10:33:43 [info]  *********************Started Executing 'TC16_DeleteAttributes' Test Case*********************
+Oct 06,2016 10:34:06 [info]  Client: AMCN
+Oct 06,2016 10:34:06 [info]  URL: http://rlv2wb79/login.aspx
+Oct 06,2016 10:34:06 [info]  UserName: automation
+Oct 06,2016 10:34:06 [info]  Password: automation
+Oct 06,2016 10:34:08 [info]  Entered "automation" in field 'User Name'
+Oct 06,2016 10:34:08 [info]  Clicked on the 'Temporary Check Box'
+Oct 06,2016 10:34:09 [info]  Entered "automation" in field 'Password'
+Oct 06,2016 10:34:16 [info]  Clicked on the 'LoginButton'
+Oct 06,2016 10:34:26 [info]  Clicked on the 'MODULE'
+Oct 06,2016 10:34:36 [info]  Clicked on the 'Asset Maintenance'
+Oct 06,2016 10:34:39 [info]  Clicked on the 'Search Menu Icon' using JS Executor
+Oct 06,2016 10:34:40 [info]  Clicked on the 'AssetSearchUnderAsset' using JS Executor
+Oct 06,2016 10:34:54 [info]  Entered "AUT_AssetSeries_1005201650504" in field 'AssetTitle'
+Oct 06,2016 10:34:54 [info]  Clicked on the 'All Check Box' using JS Executor
+Oct 06,2016 10:34:54 [info]  Clicked on the 'Find Button' using JS Executor
+Oct 06,2016 10:35:16 [info]  Moved Mouse over 'First Asset in the Searched Asset'
+Oct 06,2016 10:35:17 [info]  Clicked on the 'First Asset in the Searched Asset'
+Oct 06,2016 10:35:17 [info]  Clicked on the 'First Asset in the Searched Asset'
+Oct 06,2016 10:35:20 [info]  Clicked on the 'View Asset' using JS Executor
+Oct 06,2016 10:35:39 [info]  Verified that Expected value :[AUT_AssetSeries_1005201650504] is matched with Actual value :[AUT_AssetSeries_1005201650504]
+Oct 06,2016 10:35:41 [info]  Clicked on the 'Attributes TAB'
+Oct 06,2016 10:35:45 [info]  Clicked on the 'Edit Button' using JS Executor
+Oct 06,2016 10:35:54 [info]  Clicked on the 'Edit Button' using JS Executor
+Oct 06,2016 10:36:08 [info]  Clicked on the 'Value1 of AUT_Attributes_RANGE 1_1005201650504'
+Oct 06,2016 10:36:13 [info]  Entered " " in field 'AM_AttributeValue1_InputField'
+Oct 06,2016 10:36:18 [info]  Clicked on the 'Select Attribute AUT_Attributes_RANGE 1_1005201650504'
+Oct 06,2016 10:36:23 [info]  
+Oct 06,2016 10:36:24 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Oct 06,2016 10:36:33 [info]  Clicked on the 'Value2 of AUT_Attributes_RANGE 1_1005201650504'
+Oct 06,2016 10:36:34 [info]  Entered "" in field 'AM_AttributeValue2_InputField'
+Oct 06,2016 10:36:39 [info]  
+Oct 06,2016 10:36:40 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Oct 06,2016 10:36:45 [info]  Clicked on the 'Select Attribute AUT_Attributes_RANGE 1_1005201650504'
+Oct 06,2016 10:36:46 [info]  
+Oct 06,2016 10:36:48 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Oct 06,2016 10:38:43 [info]  ********************Started Executiong the Test Suite at 10:38:43******************
+Oct 06,2016 10:38:43 [info]  Client: AMCN
+Oct 06,2016 10:38:43 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Oct 06,2016 10:38:43 [info]  *********************Started Executing 'TC16_DeleteAttributes' Test Case*********************
+Oct 06,2016 10:38:53 [info]  Client: AMCN
+Oct 06,2016 10:38:53 [info]  URL: http://rlv2wb79/login.aspx
+Oct 06,2016 10:38:53 [info]  UserName: automation
+Oct 06,2016 10:38:53 [info]  Password: automation
+Oct 06,2016 10:38:54 [info]  Entered "automation" in field 'User Name'
+Oct 06,2016 10:38:55 [info]  Clicked on the 'Temporary Check Box'
+Oct 06,2016 10:38:55 [info]  Entered "automation" in field 'Password'
+Oct 06,2016 10:39:02 [info]  Clicked on the 'LoginButton'
+Oct 06,2016 10:39:56 [info]  Clicked on the 'Edit Button' using JS Executor
+Oct 06,2016 10:40:17 [info]  Clicked on the 'Value1 of AUT_Attributes_RANGE 1_1005201650504'
+Oct 06,2016 10:40:18 [info]  Entered "" in field 'AM_AttributeValue1_InputField'
+Oct 06,2016 10:40:18 [info]  Clicked on the 'Select Attribute AUT_Attributes_RANGE 1_1005201650504'
+Oct 06,2016 10:40:22 [info]  
+Oct 06,2016 10:40:22 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Oct 06,2016 10:40:22 [info]  Clicked on the 'Value2 of AUT_Attributes_RANGE 1_1005201650504'
+Oct 06,2016 10:40:23 [info]  Entered "" in field 'AM_AttributeValue2_InputField'
+Oct 06,2016 10:40:26 [info]  
+Oct 06,2016 10:40:26 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Oct 06,2016 10:40:27 [info]  Clicked on the 'Select Attribute AUT_Attributes_RANGE 1_1005201650504'
+Oct 06,2016 10:40:27 [info]  
+Oct 06,2016 10:40:28 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Oct 06,2016 10:40:31 [info]  
+Oct 06,2016 10:41:39 [info]  ********************Started Executiong the Test Suite at 10:41:39******************
+Oct 06,2016 10:41:39 [info]  Client: AMCN
+Oct 06,2016 10:41:39 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Oct 06,2016 10:41:39 [info]  *********************Started Executing 'TC16_DeleteAttributes' Test Case*********************
+Oct 06,2016 10:41:49 [info]  Client: AMCN
+Oct 06,2016 10:41:49 [info]  URL: http://rlv2wb79/login.aspx
+Oct 06,2016 10:41:49 [info]  UserName: automation
+Oct 06,2016 10:41:49 [info]  Password: automation
+Oct 06,2016 10:41:51 [info]  Entered "automation" in field 'User Name'
+Oct 06,2016 10:41:51 [info]  Clicked on the 'Temporary Check Box'
+Oct 06,2016 10:41:52 [info]  Entered "automation" in field 'Password'
+Oct 06,2016 10:42:00 [info]  Clicked on the 'LoginButton'
+Oct 06,2016 10:42:48 [info]  Clicked on the 'Edit Button' using JS Executor
+Oct 06,2016 10:42:53 [info]  Clicked on the 'Value1 of AUT_Attributes_RANGE 1_1005201650504'
+Oct 06,2016 10:42:54 [info]  Entered " " in field 'AM_AttributeValue1_InputField'
+Oct 06,2016 10:42:55 [info]  Clicked on the 'Select Attribute AUT_Attributes_RANGE 1_1005201650504'
+Oct 06,2016 10:42:55 [info]  Clicked on the 'Value1 of AUT_Attributes_RANGE 1_1005201650504'
+Oct 06,2016 10:42:56 [info]  Entered " " in field 'AM_AttributeValue1_InputField'
+Oct 06,2016 10:43:01 [info]  
+Oct 06,2016 10:43:01 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Oct 06,2016 10:43:02 [info]  Clicked on the 'Value2 of AUT_Attributes_RANGE 1_1005201650504'
+Oct 06,2016 10:43:02 [info]  Entered "" in field 'AM_AttributeValue2_InputField'
+Oct 06,2016 10:43:06 [info]  
+Oct 06,2016 10:43:06 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Oct 06,2016 10:43:07 [info]  Clicked on the 'Select Attribute AUT_Attributes_RANGE 1_1005201650504'
+Oct 06,2016 10:43:07 [info]  
+Oct 06,2016 10:43:07 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Oct 06,2016 10:43:11 [info]  
+Oct 06,2016 10:44:43 [info]  ********************Started Executiong the Test Suite at 10:44:43******************
+Oct 06,2016 10:44:43 [info]  Client: AMCN
+Oct 06,2016 10:44:43 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Oct 06,2016 10:44:43 [info]  *********************Started Executing 'TC16_DeleteAttributes' Test Case*********************
+Oct 06,2016 10:44:53 [info]  Client: AMCN
+Oct 06,2016 10:44:53 [info]  URL: http://rlv2wb79/login.aspx
+Oct 06,2016 10:44:53 [info]  UserName: automation
+Oct 06,2016 10:44:53 [info]  Password: automation
+Oct 06,2016 10:44:54 [info]  Entered "automation" in field 'User Name'
+Oct 06,2016 10:44:55 [info]  Clicked on the 'Temporary Check Box'
+Oct 06,2016 10:44:55 [info]  Entered "automation" in field 'Password'
+Oct 06,2016 10:45:02 [info]  Clicked on the 'LoginButton'
+Oct 06,2016 10:45:35 [info]  Clicked on the 'Edit Button' using JS Executor
+Oct 06,2016 10:45:37 [info]  Clicked on the 'Value1 of AUT_Attributes_RANGE 1_1005201650504'
+Oct 06,2016 10:45:37 [info]  Entered "?" in field 'AM_AttributeValue1_InputField'
+Oct 06,2016 10:45:38 [info]  Clicked on the 'Select Attribute AUT_Attributes_RANGE 1_1005201650504'
+Oct 06,2016 10:45:41 [info]  
+Oct 06,2016 10:45:41 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Oct 06,2016 10:45:42 [info]  Clicked on the 'Value2 of AUT_Attributes_RANGE 1_1005201650504'
+Oct 06,2016 10:45:42 [info]  Entered "" in field 'AM_AttributeValue2_InputField'
+Oct 06,2016 10:45:46 [info]  
+Oct 06,2016 10:45:46 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Oct 06,2016 10:45:47 [info]  Clicked on the 'Select Attribute AUT_Attributes_RANGE 1_1005201650504'
+Oct 06,2016 10:45:47 [info]  
+Oct 06,2016 10:45:50 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Oct 06,2016 10:45:53 [info]  
+Oct 06,2016 10:46:02 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Oct 06,2016 10:46:02 [info]  Clicked on the 'Edit Button' using JS Executor
+Oct 06,2016 10:46:05 [info]  Clicked on the 'Value1 of AUT_Attributes_RANGE 2_1005201650504'
+Oct 06,2016 10:46:06 [info]  Entered "?" in field 'AM_AttributeValue1_InputField'
+Oct 06,2016 10:46:06 [info]  Clicked on the 'Select Attribute AUT_Attributes_RANGE 2_1005201650504'
+Oct 06,2016 10:46:10 [info]  
+Oct 06,2016 10:46:10 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Oct 06,2016 10:46:11 [info]  Clicked on the 'Value2 of AUT_Attributes_RANGE 2_1005201650504'
+Oct 06,2016 10:46:11 [info]  Entered "" in field 'AM_AttributeValue2_InputField'
+Oct 06,2016 10:46:14 [info]  
+Oct 06,2016 10:46:15 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Oct 06,2016 10:46:15 [info]  Clicked on the 'Select Attribute AUT_Attributes_RANGE 2_1005201650504'
+Oct 06,2016 10:46:15 [info]  
+Oct 06,2016 10:46:19 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Oct 06,2016 10:46:22 [info]  
+Oct 06,2016 10:46:22 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Oct 06,2016 10:46:22 [info]  Clicked on the 'Edit Button' using JS Executor
+Oct 06,2016 10:46:25 [info]  Clicked on the 'Value1 of AUT_Attributes_RANGE 3_1005201650504'
+Oct 06,2016 10:46:25 [info]  Entered "?" in field 'AM_AttributeValue1_InputField'
+Oct 06,2016 10:46:26 [info]  Clicked on the 'Select Attribute AUT_Attributes_RANGE 3_1005201650504'
+Oct 06,2016 10:46:29 [info]  
+Oct 06,2016 10:46:29 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Oct 06,2016 10:46:30 [info]  Clicked on the 'Value2 of AUT_Attributes_RANGE 3_1005201650504'
+Oct 06,2016 10:46:30 [info]  Entered "" in field 'AM_AttributeValue2_InputField'
+Oct 06,2016 10:46:33 [info]  
+Oct 06,2016 10:46:34 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Oct 06,2016 10:46:34 [info]  Clicked on the 'Select Attribute AUT_Attributes_RANGE 3_1005201650504'
+Oct 06,2016 10:46:34 [info]  
+Oct 06,2016 10:46:37 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Oct 06,2016 10:46:41 [info]  
+Oct 06,2016 10:46:41 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Oct 06,2016 10:46:41 [info]  Clicked on the 'Edit Button' using JS Executor
+Oct 06,2016 10:46:44 [info]  Clicked on the 'Value1 of AUT_Attributes_RANGE 4_1005201650504'
+Oct 06,2016 10:46:44 [info]  Entered "?" in field 'AM_AttributeValue1_InputField'
+Oct 06,2016 10:46:45 [info]  Clicked on the 'Select Attribute AUT_Attributes_RANGE 4_1005201650504'
+Oct 06,2016 10:46:48 [info]  
+Oct 06,2016 10:46:48 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Oct 06,2016 10:46:49 [info]  Clicked on the 'Value2 of AUT_Attributes_RANGE 4_1005201650504'
+Oct 06,2016 10:46:49 [info]  Entered "" in field 'AM_AttributeValue2_InputField'
+Oct 06,2016 10:46:53 [info]  
+Oct 06,2016 10:46:53 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Oct 06,2016 10:46:53 [info]  Clicked on the 'Select Attribute AUT_Attributes_RANGE 4_1005201650504'
+Oct 06,2016 10:46:53 [info]  
+Oct 06,2016 10:46:56 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Oct 06,2016 10:47:00 [info]  
+Oct 06,2016 10:47:00 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Oct 06,2016 10:47:00 [info]  Clicked on the 'Edit Button' using JS Executor
+Oct 06,2016 10:47:02 [info]  Clicked on the 'Value1 of AUT_Attributes_RANGE 5_1005201650504'
+Oct 06,2016 10:47:03 [info]  Entered "?" in field 'AM_AttributeValue1_InputField'
+Oct 06,2016 10:47:03 [info]  Clicked on the 'Select Attribute AUT_Attributes_RANGE 5_1005201650504'
+Oct 06,2016 10:47:07 [info]  
+Oct 06,2016 10:47:07 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Oct 06,2016 10:47:08 [info]  Clicked on the 'Value2 of AUT_Attributes_RANGE 5_1005201650504'
+Oct 06,2016 10:47:08 [info]  Entered "" in field 'AM_AttributeValue2_InputField'
+Oct 06,2016 10:47:11 [info]  
+Oct 06,2016 10:47:11 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Oct 06,2016 10:47:12 [info]  Clicked on the 'Select Attribute AUT_Attributes_RANGE 5_1005201650504'
+Oct 06,2016 10:47:12 [info]  
+Oct 06,2016 10:47:15 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Oct 06,2016 10:47:18 [info]  
+Oct 06,2016 10:47:18 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Oct 06,2016 10:47:19 [info]  Clicked on the 'Edit Button' using JS Executor
+Oct 06,2016 10:47:22 [info]  Clicked on the 'Value1 of AUT_Attributes_RANGE 6_1005201650504'
+Oct 06,2016 10:47:22 [info]  Entered "?" in field 'AM_AttributeValue1_InputField'
+Oct 06,2016 10:47:22 [info]  Clicked on the 'Select Attribute AUT_Attributes_RANGE 6_1005201650504'
+Oct 06,2016 10:47:26 [info]  
+Oct 06,2016 10:47:26 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Oct 06,2016 10:47:27 [info]  Clicked on the 'Value2 of AUT_Attributes_RANGE 6_1005201650504'
+Oct 06,2016 10:47:27 [info]  Entered "" in field 'AM_AttributeValue2_InputField'
+Oct 06,2016 10:47:30 [info]  
+Oct 06,2016 10:47:31 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Oct 06,2016 10:47:31 [info]  Clicked on the 'Select Attribute AUT_Attributes_RANGE 6_1005201650504'
+Oct 06,2016 10:47:31 [info]  
+Oct 06,2016 10:47:34 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Oct 06,2016 10:47:37 [info]  
+Oct 06,2016 10:47:38 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Oct 06,2016 10:47:38 [info]  Clicked on the 'Edit Button' using JS Executor
+Oct 06,2016 10:47:40 [info]  Clicked on the 'Value1 of AUT_Attributes_RANGE 7_1005201650504'
+Oct 06,2016 10:47:41 [info]  Entered "?" in field 'AM_AttributeValue1_InputField'
+Oct 06,2016 10:47:41 [info]  Clicked on the 'Select Attribute AUT_Attributes_RANGE 7_1005201650504'
+Oct 06,2016 10:47:44 [info]  
+Oct 06,2016 10:47:45 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Oct 06,2016 10:47:45 [info]  Clicked on the 'Value2 of AUT_Attributes_RANGE 7_1005201650504'
+Oct 06,2016 10:47:46 [info]  Entered "" in field 'AM_AttributeValue2_InputField'
+Oct 06,2016 10:47:49 [info]  
+Oct 06,2016 10:47:49 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Oct 06,2016 10:47:50 [info]  Clicked on the 'Select Attribute AUT_Attributes_RANGE 7_1005201650504'
+Oct 06,2016 10:47:50 [info]  
+Oct 06,2016 10:47:53 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Oct 06,2016 10:47:56 [info]  
+Oct 06,2016 10:47:56 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Oct 06,2016 10:47:57 [info]  Clicked on the 'Edit Button' using JS Executor
+Oct 06,2016 10:47:59 [info]  Clicked on the 'Value1 of AUT_Attributes_List_1005201650504'
+Oct 06,2016 10:47:59 [info]  Entered "?" in field 'AM_AttributeValue1_InputField'
+Oct 06,2016 10:48:00 [info]  Clicked on the 'Select Attribute AUT_Attributes_List_1005201650504'
+Oct 06,2016 10:48:03 [info]  
+Oct 06,2016 10:48:04 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Oct 06,2016 10:48:07 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Oct 06,2016 10:48:10 [info]  
+Oct 06,2016 10:48:10 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Oct 06,2016 10:48:10 [info]  Clicked on the 'Edit Button' using JS Executor
+Oct 06,2016 10:48:13 [info]  Clicked on the 'Value1 of AUT_Attributes_Date1_1005201650504'
+Oct 06,2016 10:48:13 [info]  Entered "?" in field 'AM_AttributeValue1_InputField'
+Oct 06,2016 10:48:14 [info]  Clicked on the 'Select Attribute AUT_Attributes_Date1_1005201650504'
+Oct 06,2016 10:48:17 [info]  
+Oct 06,2016 10:48:17 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Oct 06,2016 10:48:20 [info]  Clicked on the 'Save Button at 'Attribute Edit Window''
+Oct 06,2016 10:48:24 [info]  
+Oct 06,2016 10:48:24 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Oct 06,2016 10:48:25 [info]  Clicked on the 'Administration'
+Oct 06,2016 10:48:36 [info]  Clicked on the 'ListMaintenance'
+Oct 06,2016 10:48:43 [info]  Clicked on the 'Link at Menu' using JS Executor
+Oct 06,2016 10:48:43 [info]  Clicked on the ''Custom Attributes' Link under Maintain Menu Link' using JS Executor
+Oct 06,2016 10:48:50 [info]  Clicked on the 'Select Attribute AUT_Attributes_RANGE 1_1005201650504'
+Oct 06,2016 10:48:51 [info]  Clicked on the 'click on Delete Button'
+Oct 06,2016 10:48:54 [info]  Clicked on the 'OK Button at Confirm Alert' using JS Executor
+Oct 06,2016 10:48:59 [info]  Clicked on the 'Select Attribute AUT_Attributes_RANGE 2_1005201650504'
+Oct 06,2016 10:48:59 [info]  Clicked on the 'click on Delete Button'
+Oct 06,2016 10:49:03 [info]  Clicked on the 'OK Button at Confirm Alert' using JS Executor
+Oct 06,2016 10:49:07 [info]  Clicked on the 'Select Attribute AUT_Attributes_RANGE 3_1005201650504'
+Oct 06,2016 10:49:08 [info]  Clicked on the 'click on Delete Button'
+Oct 06,2016 10:49:11 [info]  Clicked on the 'OK Button at Confirm Alert' using JS Executor
+Oct 06,2016 10:49:16 [info]  Clicked on the 'Select Attribute AUT_Attributes_RANGE 4_1005201650504'
+Oct 06,2016 10:49:16 [info]  Clicked on the 'click on Delete Button'
+Oct 06,2016 10:49:20 [info]  Clicked on the 'OK Button at Confirm Alert' using JS Executor
+Oct 06,2016 10:49:24 [info]  Clicked on the 'Select Attribute AUT_Attributes_RANGE 5_1005201650504'
+Oct 06,2016 10:49:25 [info]  Clicked on the 'click on Delete Button'
+Oct 06,2016 10:49:28 [info]  Clicked on the 'OK Button at Confirm Alert' using JS Executor
+Oct 06,2016 10:49:33 [info]  Clicked on the 'Select Attribute AUT_Attributes_RANGE 6_1005201650504'
+Oct 06,2016 10:49:34 [info]  Clicked on the 'click on Delete Button'
+Oct 06,2016 10:49:37 [info]  Clicked on the 'OK Button at Confirm Alert' using JS Executor
+Oct 06,2016 10:49:41 [info]  Clicked on the 'Select Attribute AUT_Attributes_RANGE 7_1005201650504'
+Oct 06,2016 10:49:42 [info]  Clicked on the 'click on Delete Button'
+Oct 06,2016 10:49:46 [info]  Clicked on the 'OK Button at Confirm Alert' using JS Executor
+Oct 06,2016 10:49:50 [info]  Clicked on the 'Select Attribute AUT_Attributes_List_1005201650504'
+Oct 06,2016 10:49:51 [info]  Clicked on the 'click on Delete Button'
+Oct 06,2016 10:49:54 [info]  Clicked on the 'OK Button at Confirm Alert' using JS Executor
+Oct 06,2016 10:49:58 [info]  Clicked on the 'Select Attribute AUT_Attributes_Date1_1005201650504'
+Oct 06,2016 10:49:59 [info]  Clicked on the 'click on Delete Button'
+Oct 06,2016 10:50:02 [info]  Clicked on the 'OK Button at Confirm Alert' using JS Executor
+Oct 06,2016 10:50:06 [info]  Clicked on the 'Save Button to Delete Attribute' using JS Executor
+Oct 06,2016 10:50:15 [info]  Test 'TC16_DeleteAttributes' PASSED
+Oct 06,2016 10:50:17 [info]  Closed the Browser
+Oct 06,2016 11:11:20 [info]  ********************Started Executiong the Test Suite at 11:11:20******************
+Oct 06,2016 11:11:20 [info]  Client: AMCN
+Oct 06,2016 11:11:20 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Oct 06,2016 11:11:20 [info]  *********************Started Executing 'TC1_DocumentUI' Test Case*********************
+Oct 06,2016 11:11:30 [info]  Client: AMCN
+Oct 06,2016 11:11:30 [info]  URL: http://rlv2wb79/login.aspx
+Oct 06,2016 11:11:30 [info]  UserName: automation
+Oct 06,2016 11:11:30 [info]  Password: automation
+Oct 06,2016 11:11:31 [info]  Entered "automation" in field 'User Name'
+Oct 06,2016 11:11:31 [info]  Clicked on the 'Temporary Check Box'
+Oct 06,2016 11:11:32 [info]  Entered "automation" in field 'Password'
+Oct 06,2016 11:11:38 [info]  Clicked on the 'LoginButton'
+Oct 06,2016 11:11:48 [info]  Clicked on the 'MODULE'
+Oct 06,2016 11:11:57 [info]  Clicked on the 'Asset Maintenance'
+Oct 06,2016 11:12:00 [info]  Clicked on the 'Search Menu Icon' using JS Executor
+Oct 06,2016 11:12:00 [info]  Clicked on the 'AssetSearchUnderAsset' using JS Executor
+Oct 06,2016 11:12:14 [info]  Entered "AUT_AssetSeries_1005201665053" in field 'AssetTitle'
+Oct 06,2016 11:12:15 [info]  Clicked on the 'All Check Box' using JS Executor
+Oct 06,2016 11:12:15 [info]  Clicked on the 'Find Button' using JS Executor
+Oct 06,2016 11:12:33 [info]  Moved Mouse over 'First Asset in the Searched Asset'
+Oct 06,2016 11:12:35 [info]  Clicked on the 'First Asset in the Searched Asset'
+Oct 06,2016 11:12:35 [info]  Clicked on the 'First Asset in the Searched Asset'
+Oct 06,2016 11:12:38 [info]  Clicked on the 'View Asset' using JS Executor
+Oct 06,2016 11:12:56 [info]  Verified that Expected value :[AUT_AssetSeries_1005201665053] is matched with Actual value :[AUT_AssetSeries_1005201665053]
+Oct 06,2016 11:12:59 [info]  Clicked on the 'Documents TAB'
+Oct 06,2016 11:13:03 [info]  ***********Verifying AllButtons Present on the Document TAB in view Mode***********
+Oct 06,2016 11:13:04 [info]  Verified that Expected value :[View Document] is matched with Actual value :[View Document]
+Oct 06,2016 11:13:04 [info]  Verified that Expected value :[Add...] is matched with Actual value :[Add...]
+Oct 06,2016 11:13:04 [info]  Verified that Expected value :[Edit Profile] is matched with Actual value :[Edit Profile]
+Oct 06,2016 11:13:04 [info]  Verified that Expected value :[Delete] is matched with Actual value :[Delete]
+Oct 06,2016 11:13:04 [info]  Verified that Expected value :[Edit Documents] is matched with Actual value :[Edit Documents]
+Oct 06,2016 11:13:05 [info]  Verified that Expected value :[Applies To] is matched with Actual value :[Applies To]
+Oct 06,2016 11:13:05 [info]  ******Verifying the Fields and Buttons on the Add Document Window******
+Oct 06,2016 11:13:05 [info]  Clicked on the 'Document_AddDocumentButton' using JS Executor
+Oct 06,2016 11:13:08 [info]  Verified that Expected value :[*Applies To] is matched with Actual value :[*Applies To]
+Oct 06,2016 11:13:08 [info]  Verified that Expected value :[*Document Name] is matched with Actual value :[*Document Name]
+Oct 06,2016 11:13:08 [info]  Verified that Expected value :[*Document Type] is matched with Actual value :[*Document Type]
+Oct 06,2016 11:13:09 [info]  Verified that Expected value :[Document Date] is matched with Actual value :[Document Date]
+Oct 06,2016 11:13:09 [info]  Verified that Expected value :[Description] is matched with Actual value :[Description]
+Oct 06,2016 11:13:09 [info]  Verified that Expected value :[*Select File to Upload] is matched with Actual value :[*Select File to Upload]
+Oct 06,2016 11:13:09 [info]  Verified that Expected value :[Save] is matched with Actual value :[Save]
+Oct 06,2016 11:13:09 [info]  Verified that Expected value :[Cancel] is matched with Actual value :[Cancel]
+Oct 06,2016 11:13:09 [info]  *****Verifying all Associated Assets and Episodes are prefixed with 'Ep.'*****
+Oct 06,2016 11:13:09 [info]  Verified that Expected value :[AUT_AssetSeries_1005201665053] is matched with Actual value :[AUT_AssetSeries_1005201665053]
+Oct 06,2016 11:13:10 [info]  Verified that Expected value :[Season 1] is present in the Applies TO DropDown Values drop down
+Oct 06,2016 11:13:10 [info]  Verified that Expected value :[Ep.101: Episode101] is present in the Applies TO DropDown Values S1_Episode1 drop down
+Oct 06,2016 11:13:11 [info]  Verified that Expected value :[Ep.102: Episode102] is present in the Applies TO DropDown Values S1_Episode2 drop down
+Oct 06,2016 11:13:11 [info]  Verified that Expected value :[Season 2] is present in the Applies TO DropDown Values Season 2 drop down
+Oct 06,2016 11:13:11 [info]  Verified that Expected value :[Ep.201: Episode201] is present in the Applies TO DropDown Values S2_Episode1 drop down
+Oct 06,2016 11:13:12 [info]  Verified that Expected value :[Ep.202: Episode202] is present in the Applies TO DropDown Values S2_Episode2 drop down
+Oct 06,2016 11:13:12 [info]  Selected "Amendment" in "Document_AddDoc_DocTypeDropDown" drop down
+Oct 06,2016 11:13:12 [info]  Verified that Expected value :[Amendment] is matched with Actual value :[Amendment]
+Oct 06,2016 11:13:14 [info]  Entered "Declaration from the Legal HeirDeclaration 1234567890 @#$% @&*" in field 'Document_AddDoc_DocNameField'
+Oct 06,2016 11:13:14 [info]  Clicked on the 'Outside the Document Name Field'
+Oct 06,2016 11:13:15 [info]  Verify The data of Alert Message on Entering the invalid Names
+Oct 06,2016 11:13:15 [info]  Verified that Expected value :[Please enter a valid file name!] is matched with Actual value :[Please enter a valid file name!]
+Oct 06,2016 11:13:15 [info]  Clicked on the 'OK Button at Alert on Entering the invalid Names' using JS Executor
+Oct 06,2016 11:13:16 [info]  Entered "AT_Document_Name_001" in field 'Document_AddDoc_DocNameField'
+Oct 06,2016 11:13:17 [info]  Clicked on the 'Save Button at 'Add Document Window'' using JS Executor
+Oct 06,2016 11:13:20 [info]  Verified that Expected value :[Please select a document to upload.] is matched with Actual value :[  Please select a document to upload.  ]
+Oct 06,2016 11:16:04 [info]  Entered "C:\SeleniumProject\Workspace\RightsLogic\TestUploadFiles\AUTTestFile100KB.bmp" in field 'Upload File 'AUTTestFile100KB.bmp''
+Oct 06,2016 11:16:08 [info]  Entered "12/31/2010" in field 'Document Date'
+Oct 06,2016 11:16:12 [info]  Entered "Amendment" in field 'Document Discription'
+Oct 06,2016 11:16:12 [info]  Clicked on the 'Save Button at 'Add Document Window'' using JS Executor
+Oct 06,2016 11:16:15 [info]  ****Verifying all the Headers Name shown in View Mode After adding the Document****
+Oct 06,2016 11:16:28 [info]  ====Failed==== Expected value is:[Document Type] but Actual value is[]. Please check the screenshot with name: AMDocumentTypeKeyfor more details
+Oct 06,2016 11:16:28 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\06\AMDocumentTypeKey_CheckpointFailure_10-06-2016 11-16-28 AM.jpg
+Oct 06,2016 11:16:38 [info]  ====Failed==== Expected value is:[Document Name] but Actual value is[]. Please check the screenshot with name: AMDocumentNamefor more details
+Oct 06,2016 11:16:39 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Oct2016\\06\AMDocumentName_CheckpointFailure_10-06-2016 11-16-38 AM.jpg
+Oct 06,2016 11:16:41 [info]  Verified that Expected value :[Document Date] is matched with Actual value :[Document Date]
+Oct 06,2016 11:16:41 [info]  Verified that Expected value :[Description] is matched with Actual value :[Description]
+Oct 06,2016 11:16:42 [info]  Verified that Expected value :[Description] is matched with Actual value :[Description]
+Oct 06,2016 11:16:42 [info]  Verified that Expected value :[Description] is matched with Actual value :[Description]
+Oct 06,2016 11:16:42 [info]  ****Verifying all the Header's Values are shown orrectly in View Mode After adding the Document****
+Oct 06,2016 11:19:25 [info]  ********************Started Executiong the Test Suite at 11:19:25******************
+Oct 06,2016 11:19:25 [info]  Client: AMCN
+Oct 06,2016 11:19:25 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Oct 06,2016 11:19:25 [info]  *********************Started Executing 'TC1_DocumentUI' Test Case*********************
+Oct 06,2016 11:19:35 [info]  Client: AMCN
+Oct 06,2016 11:19:35 [info]  URL: http://rlv2wb79/login.aspx
+Oct 06,2016 11:19:35 [info]  UserName: automation
+Oct 06,2016 11:19:35 [info]  Password: automation
+Oct 06,2016 11:19:36 [info]  Entered "automation" in field 'User Name'
+Oct 06,2016 11:19:36 [info]  Clicked on the 'Temporary Check Box'
+Oct 06,2016 11:19:37 [info]  Entered "automation" in field 'Password'
+Oct 06,2016 11:19:43 [info]  Clicked on the 'LoginButton'
+Oct 06,2016 11:19:53 [info]  Clicked on the 'MODULE'
+Oct 06,2016 11:20:01 [info]  Clicked on the 'Asset Maintenance'
+Oct 06,2016 11:20:05 [info]  Clicked on the 'Search Menu Icon' using JS Executor
+Oct 06,2016 11:20:05 [info]  Clicked on the 'AssetSearchUnderAsset' using JS Executor
+Oct 06,2016 11:20:17 [info]  Entered "AUT_AssetSeries_1005201665053" in field 'AssetTitle'
+Oct 06,2016 11:20:17 [info]  Clicked on the 'All Check Box' using JS Executor
+Oct 06,2016 11:20:17 [info]  Clicked on the 'Find Button' using JS Executor
+Oct 06,2016 11:20:36 [info]  Moved Mouse over 'First Asset in the Searched Asset'
+Oct 06,2016 11:20:36 [info]  Clicked on the 'First Asset in the Searched Asset'
+Oct 06,2016 11:20:37 [info]  Clicked on the 'First Asset in the Searched Asset'
+Oct 06,2016 11:20:41 [info]  Clicked on the 'View Asset' using JS Executor
+Oct 06,2016 11:20:58 [info]  Verified that Expected value :[AUT_AssetSeries_1005201665053] is matched with Actual value :[AUT_AssetSeries_1005201665053]
+Oct 06,2016 11:21:00 [info]  Clicked on the 'Documents TAB'
+Oct 06,2016 11:21:04 [info]  ***********Verifying AllButtons Present on the Document TAB in view Mode***********
+Oct 06,2016 11:21:05 [info]  Verified that Expected value :[View Document] is matched with Actual value :[View Document]
+Oct 06,2016 11:21:05 [info]  Verified that Expected value :[Add...] is matched with Actual value :[Add...]
+Oct 06,2016 11:21:05 [info]  Verified that Expected value :[Edit Profile] is matched with Actual value :[Edit Profile]
+Oct 06,2016 11:21:05 [info]  Verified that Expected value :[Delete] is matched with Actual value :[Delete]
+Oct 06,2016 11:21:05 [info]  Verified that Expected value :[Edit Documents] is matched with Actual value :[Edit Documents]
+Oct 06,2016 11:21:06 [info]  Verified that Expected value :[Applies To] is matched with Actual value :[Applies To]
+Oct 06,2016 11:21:06 [info]  ******Verifying the Fields and Buttons on the Add Document Window******
+Oct 06,2016 11:21:06 [info]  Clicked on the 'Document_AddDocumentButton' using JS Executor
+Oct 06,2016 11:21:09 [info]  Verified that Expected value :[*Applies To] is matched with Actual value :[*Applies To]
+Oct 06,2016 11:21:09 [info]  Verified that Expected value :[*Document Name] is matched with Actual value :[*Document Name]
+Oct 06,2016 11:21:09 [info]  Verified that Expected value :[*Document Type] is matched with Actual value :[*Document Type]
+Oct 06,2016 11:21:10 [info]  Verified that Expected value :[Document Date] is matched with Actual value :[Document Date]
+Oct 06,2016 11:21:10 [info]  Verified that Expected value :[Description] is matched with Actual value :[Description]
+Oct 06,2016 11:21:10 [info]  Verified that Expected value :[*Select File to Upload] is matched with Actual value :[*Select File to Upload]
+Oct 06,2016 11:21:10 [info]  Verified that Expected value :[Save] is matched with Actual value :[Save]
+Oct 06,2016 11:21:10 [info]  Verified that Expected value :[Cancel] is matched with Actual value :[Cancel]
+Oct 06,2016 11:21:10 [info]  *****Verifying all Associated Assets and Episodes are prefixed with 'Ep.'*****
+Oct 06,2016 11:21:10 [info]  Verified that Expected value :[AUT_AssetSeries_1005201665053] is matched with Actual value :[AUT_AssetSeries_1005201665053]
+Oct 06,2016 11:21:11 [info]  Verified that Expected value :[Season 1] is present in the Applies TO DropDown Values drop down
+Oct 06,2016 11:21:11 [info]  Verified that Expected value :[Ep.101: Episode101] is present in the Applies TO DropDown Values S1_Episode1 drop down
+Oct 06,2016 11:21:11 [info]  Verified that Expected value :[Ep.102: Episode102] is present in the Applies TO DropDown Values S1_Episode2 drop down
+Oct 06,2016 11:21:12 [info]  Verified that Expected value :[Season 2] is present in the Applies TO DropDown Values Season 2 drop down
+Oct 06,2016 11:21:12 [info]  Verified that Expected value :[Ep.201: Episode201] is present in the Applies TO DropDown Values S2_Episode1 drop down
+Oct 06,2016 11:21:12 [info]  Verified that Expected value :[Ep.202: Episode202] is present in the Applies TO DropDown Values S2_Episode2 drop down
+Oct 06,2016 11:21:13 [info]  Selected "Amendment" in "Document_AddDoc_DocTypeDropDown" drop down
+Oct 06,2016 11:21:13 [info]  Verified that Expected value :[Amendment] is matched with Actual value :[Amendment]
+Oct 06,2016 11:21:15 [info]  Entered "Declaration from the Legal HeirDeclaration 1234567890 @#$% @&*" in field 'Document_AddDoc_DocNameField'
+Oct 06,2016 11:21:15 [info]  Clicked on the 'Outside the Document Name Field'
+Oct 06,2016 11:21:16 [info]  Verify The data of Alert Message on Entering the invalid Names
+Oct 06,2016 11:21:16 [info]  Verified that Expected value :[Please enter a valid file name!] is matched with Actual value :[Please enter a valid file name!]
+Oct 06,2016 11:21:16 [info]  Clicked on the 'OK Button at Alert on Entering the invalid Names' using JS Executor
+Oct 06,2016 11:21:17 [info]  Entered "AT_Document_Name_001" in field 'Document_AddDoc_DocNameField'
+Oct 06,2016 11:21:17 [info]  Clicked on the 'Save Button at 'Add Document Window'' using JS Executor
+Oct 06,2016 11:21:21 [info]  Verified that Expected value :[Please select a document to upload.] is matched with Actual value :[  Please select a document to upload.  ]
+Oct 06,2016 11:21:26 [info]  Entered "C:\SeleniumProject\Workspace\RightsLogic\TestUploadFiles\AUTTestFile100KB.bmp" in field 'Upload File 'AUTTestFile100KB.bmp''
+Oct 06,2016 11:21:30 [info]  Entered "12/31/2010" in field 'Document Date'
+Oct 06,2016 11:21:33 [info]  Entered "Amendment" in field 'Document Discription'
+Oct 06,2016 11:21:33 [info]  Clicked on the 'Save Button at 'Add Document Window'' using JS Executor
+Oct 06,2016 11:21:36 [info]  ****Verifying all the Headers Name shown in View Mode After adding the Document****
+Oct 06,2016 11:21:40 [info]  Verified that Expected value :[Document Type] is matched with Actual value :[Document Type]
+Oct 06,2016 11:21:40 [info]  Verified that Expected value :[Document Name] is matched with Actual value :[Document Name]
+Oct 06,2016 11:21:40 [info]  Verified that Expected value :[Document Date] is matched with Actual value :[Document Date]
+Oct 06,2016 11:21:40 [info]  Verified that Expected value :[Description] is matched with Actual value :[Description]
+Oct 06,2016 11:21:40 [info]  Verified that Expected value :[Description] is matched with Actual value :[Description]
+Oct 06,2016 11:21:41 [info]  Verified that Expected value :[Description] is matched with Actual value :[Description]
+Oct 06,2016 11:21:41 [info]  ****Verifying all the Header's Values are shown orrectly in View Mode After adding the Document****
+Oct 06,2016 11:21:41 [info]  Verify The data of AMDocumentTypeValue
+Oct 06,2016 11:21:41 [info]  Verified that Expected value :[Amendment] is matched with Actual value :[Amendment]
+Oct 06,2016 11:21:41 [info]  Verify The data of AMDocumentNameData
+Oct 06,2016 11:21:41 [info]  Verified that Expected value :[AT_Document_Name_001] is matched with Actual value :[AT_Document_Name_001.bmp]
+Oct 06,2016 11:21:41 [info]  Verify The data of AMDocumentDate
+Oct 06,2016 11:21:41 [info]  Verified that Expected value :[12/31/2010] is matched with Actual value :[12/31/2010]
+Oct 06,2016 11:21:41 [info]  ******Click on View Button without selecting the row******
+Oct 06,2016 11:21:41 [info]  Clicked on the 'View Button' using JS Executor
+Oct 06,2016 11:21:45 [info]  Verify The data of Alert Message on clicking 'View Button'
+Oct 06,2016 11:21:45 [info]  Verified that Expected value :[Please select a row which contains document before clicking View Document.] is matched with Actual value :[Please select a row which contains document before clicking View Document.]
+Oct 06,2016 11:21:45 [info]  Clicked on the 'OK Button at Alert on clicking 'View Button'' using JS Executor
+Oct 06,2016 11:21:45 [info]  ******Click on Edit Button without selecting the row******
+Oct 06,2016 11:21:46 [info]  Clicked on the 'Edit Button' using JS Executor
+Oct 06,2016 11:21:46 [info]  Verify The data of Alert Message on clicking 'View Button'
+Oct 06,2016 11:21:46 [info]  Verified that Expected value :[Please select a row which contains document before clicking Edit Profile] is matched with Actual value :[Please select a row which contains document before clicking Edit Profile.]
+Oct 06,2016 11:21:46 [info]  Clicked on the 'OK Button at Alert on clicking 'View Button'' using JS Executor
+Oct 06,2016 11:21:46 [info]  ******Click on Edit Document Button and change the data and verify in view mode******
+Oct 06,2016 11:21:50 [info]  Clicked on the 'Select the Row in View Mode' using JS Executor
+Oct 06,2016 11:21:53 [info]  Clicked on the 'Edit Button' using JS Executor
+Oct 06,2016 11:21:58 [info]  Selected "Cue Sheet" in "Document_AddDoc_DocTypeDropDown" drop down
+Oct 06,2016 11:21:58 [info]  Verified that Expected value :[Cue Sheet] is matched with Actual value :[Cue Sheet]
+Oct 06,2016 11:22:00 [info]  Entered "AT_Document_Name_001_Changed" in field 'Document_AddDoc_DocNameField'
+Oct 06,2016 11:22:03 [info]  Entered "Amendment" in field 'Document Discription'
+Oct 06,2016 11:22:03 [info]  Clicked on the 'Save Button at 'Add Document Window'' using JS Executor
+Oct 06,2016 11:22:07 [info]  Verify The data of AMDocumentTypeValue
+Oct 06,2016 11:22:07 [info]  Verified that Expected value :[Cue Sheet] is matched with Actual value :[Cue Sheet]
+Oct 06,2016 11:22:07 [info]  Verify The data of AMDocumentNameData
+Oct 06,2016 11:22:07 [info]  Verified that Expected value :[AT_Document_Name_001_Changed] is matched with Actual value :[AT_Document_Name_001_Changed.bmp]
+Oct 06,2016 11:22:07 [info]  ******Click on Remove Button without selecting the row******
+Oct 06,2016 11:22:07 [info]  Clicked on the 'Delete Document Button' using JS Executor
+Oct 06,2016 11:22:08 [info]  Verify The data of Alert Message on clicking 'Delete Button'
+Oct 06,2016 11:22:08 [info]  Verified that Expected value :[Please select a row before clicking Delete.] is matched with Actual value :[Please select a row before clicking Delete.]
+Oct 06,2016 11:22:08 [info]  Clicked on the 'OK Button at Alert on clicking 'View Button'' using JS Executor
+Oct 06,2016 11:22:08 [info]  ******Remove/Delete the Document row******
+Oct 06,2016 11:22:09 [info]  Clicked on the 'Select the Row in View Mode'
+Oct 06,2016 11:22:09 [info]  Clicked on the 'Delete Document Button' using JS Executor
+Oct 06,2016 11:22:13 [info]  Verify The data of Alert Message on clicking 'Remove Button'
+Oct 06,2016 11:22:13 [info]  Verified that Expected value :[Are you sure you want to delete the document?] is matched with Actual value :[Are you sure you want to delete the document?]
+Oct 06,2016 11:22:13 [info]  Clicked on the 'OK Button at Alert on clicking 'View Button'' using JS Executor
+Oct 06,2016 11:22:28 [info]  "Document Row" is disable or not Present
+Oct 06,2016 11:22:28 [info]  ******Verify the validation message on uploading 20480 KB file****
+Oct 06,2016 11:22:28 [info]  Clicked on the 'Document_AddDocumentButton' using JS Executor
+Oct 06,2016 11:22:31 [info]  Selected "Amendment" in "Document_AddDoc_DocTypeDropDown" drop down
+Oct 06,2016 11:22:32 [info]  Verified that Expected value :[Amendment] is matched with Actual value :[Amendment]
+Oct 06,2016 11:22:33 [info]  Entered "AT_Document_Name_001" in field 'Document_AddDoc_DocNameField'
+Oct 06,2016 11:22:36 [info]  Entered "12/31/2010" in field 'Document Date'
+Oct 06,2016 11:22:40 [info]  Entered "Amendment" in field 'Document Discription'
+Oct 06,2016 11:22:43 [info]  Entered "C:\SeleniumProject\Workspace\RightsLogic\TestUploadFiles\AUTTestFile21MB.bmp" in field 'Upload File 'AUTTestFile21MB.bmp''
+Oct 06,2016 11:22:46 [info]  Clicked on the 'Save Button at 'Add Document Window'' using JS Executor
+Oct 06,2016 11:22:49 [info]  Verified that Expected value :[The size of the file you are trying to upload exceeds the threshold limit(20480KB).] is matched with Actual value :[  The size of the file you are trying to upload exceeds the threshold limit(20480KB).]
+Oct 06,2016 11:22:49 [info]  *****Verify the message while uploadiing WinRAR file*****
+Oct 06,2016 11:22:52 [info]  Entered "C:\SeleniumProject\Workspace\RightsLogic\TestUploadFiles\AUTTestFile900KB.rar" in field 'Upload File 'AUTTestFile21MB.bmp''
+Oct 06,2016 11:22:55 [info]  Clicked on the 'Save Button at 'Add Document Window'' using JS Executor
+Oct 06,2016 11:22:58 [info]  Verified that Expected value :[Cannot Upload Document of this Type. The Valid Types are .DOC, .DOCX, .JPEG, .MPEG, .PPT, .PPTX, .TXT, .WMV, .XLS, .XLSX, .PDF, .JPG, .GIF, .RTF, .MSG, .TIF, .VSD, .EML, .BMP only.] is matched with Actual value :[Cannot Upload Document of this Type. The Valid Types are .DOC, .DOCX, .JPEG, .MPEG, .PPT, .PPTX, .TXT, .WMV, .XLS, .XLSX, .PDF, .JPG, .GIF, .RTF, .MSG, .TIF, .VSD, .EML, .BMP only.]
+Oct 06,2016 11:22:58 [info]  Test 'TC1_DocumentUI' PASSED
+Oct 06,2016 11:23:00 [info]  Closed the Browser

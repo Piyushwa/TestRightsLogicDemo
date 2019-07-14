@@ -1,0 +1,899 @@
+Dec 27,2016 10:32:51 [info]  ********************Started Executiong the Test Suite at 10:32:51******************
+Dec 27,2016 10:32:51 [info]  Client: AMCN
+Dec 27,2016 10:32:51 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Dec 27,2016 10:32:51 [info]  *********************Started Executing 'TC12_UniqueListOfTerritories' Test Case*********************
+Dec 27,2016 10:33:02 [info]  Client: AMCN
+Dec 27,2016 10:33:02 [info]  URL: http://rlv2wb79/login.aspx
+Dec 27,2016 10:33:02 [info]  UserName: automation
+Dec 27,2016 10:33:02 [info]  Password: automation
+Dec 27,2016 10:33:22 [info]  Entered "automation" in field 'User Name'
+Dec 27,2016 10:33:23 [info]  Clicked on the 'Temporary Check Box'
+Dec 27,2016 10:33:23 [info]  Entered "automation" in field 'Password'
+Dec 27,2016 10:33:47 [info]  Clicked on the 'LoginButton'
+Dec 27,2016 10:34:05 [info]  Double clicked on 'AUT_Deal_TC6_1226201642805Deal'
+Dec 27,2016 10:34:08 [info]  Clicked on the 'Media Rights TAB'
+Dec 27,2016 10:34:13 [info]  Clicked on the ''Edit' Button at Media Rights TAB' using JS Executor
+Dec 27,2016 10:34:28 [info]  Could not find the locator: RI_MediaRights_EditMode_Applies To'
+Dec 27,2016 10:34:28 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\27\RI_MediaRights_EditMode_Applies To_CheckpointFailure_12-27-2016 10-34-28 AM.jpg
+Dec 27,2016 10:34:38 [info]  ====Failed==== "*Applies ToDrop Down Image" field is not present'
+Dec 27,2016 10:34:38 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\27\Applies ToDrop Down Image_CheckpointFailure_12-27-2016 10-34-38 AM.jpg
+Dec 27,2016 10:34:48 [info]  ====Failed==== "Season 1" field is not present'
+Dec 27,2016 10:34:49 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\27\Season 1_CheckpointFailure_12-27-2016 10-34-48 AM.jpg
+Dec 27,2016 10:35:02 [info]  ====Failed==== " Support Click on ROW_NO_HeaderName" field is not present'
+Dec 27,2016 10:35:02 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\27\ Support Click on ROW_NO_HeaderName_CheckpointFailure_12-27-2016 10-35-02 AM.jpg
+Dec 27,2016 10:35:12 [info]  Verify The data of RI_MediaRights_EditMode_*Applies To
+Dec 27,2016 10:35:12 [info]  ====Failed==== Expected value is:[Season 1] but Actual value is[]. Please check the screenshot with name: RI_MediaRights_EditMode_*Applies Tofor more details
+Dec 27,2016 10:35:13 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\27\RI_MediaRights_EditMode_Applies To_CheckpointFailure_12-27-2016 10-35-12 AM.jpg
+Dec 27,2016 10:35:24 [info]  Could not find the locator: RI_MediaRights_EditMode_Applies To'
+Dec 27,2016 10:35:24 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\27\RI_MediaRights_EditMode_Applies To_CheckpointFailure_12-27-2016 10-35-24 AM.jpg
+Dec 27,2016 10:35:34 [info]  ====Failed==== "*Applies ToDrop Down Image" field is not present'
+Dec 27,2016 10:35:34 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\27\Applies ToDrop Down Image_CheckpointFailure_12-27-2016 10-35-34 AM.jpg
+Dec 27,2016 10:35:44 [info]  ====Failed==== "Season 1" field is not present'
+Dec 27,2016 10:35:45 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\27\Season 1_CheckpointFailure_12-27-2016 10-35-44 AM.jpg
+Dec 27,2016 10:35:58 [info]  ====Failed==== " Support Click on ROW_NO_HeaderName" field is not present'
+Dec 27,2016 10:35:58 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\27\ Support Click on ROW_NO_HeaderName_CheckpointFailure_12-27-2016 10-35-58 AM.jpg
+Dec 27,2016 10:36:08 [info]  Verify The data of RI_MediaRights_EditMode_*Applies To
+Dec 27,2016 10:36:08 [info]  ====Failed==== Expected value is:[Season 1] but Actual value is[]. Please check the screenshot with name: RI_MediaRights_EditMode_*Applies Tofor more details
+Dec 27,2016 10:36:09 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\27\RI_MediaRights_EditMode_Applies To_CheckpointFailure_12-27-2016 10-36-08 AM.jpg
+Dec 27,2016 10:36:19 [info]  ====Failed==== "RI_MediaRights_EditMode_MEDIA_TEMPLATE List" field is not present'
+Dec 27,2016 10:36:19 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\27\RI_MediaRights_EditMode_MEDIA_TEMPLATE List_CheckpointFailure_12-27-2016 10-36-19 AM.jpg
+Dec 27,2016 10:36:29 [info]  ====Failed==== " Could not find the Frame: div[id*='WebDialogWindow2'][style*=visible]
+Dec 27,2016 10:36:29 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\27\FrameSwitchingFailed0_CheckpointFailure_12-27-2016 10-36-29 AM.jpg
+Dec 27,2016 10:36:39 [info]  ====Failed==== "'DeSelect All' RI_MediaRights_EditMode_*Territory" field is not present'
+Dec 27,2016 10:36:40 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\27\'DeSelect All' RI_MediaRights_EditMode_Territory_CheckpointFailure_12-27-2016 10-36-39 AM.jpg
+Dec 27,2016 10:36:50 [info]  ====Failed==== "RI_MediaRights_*Territory_Search" field is not present'RI_MediaRights_*Territory_Search'
+Dec 27,2016 10:36:50 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\27\RI_MediaRights_Territory_Search_CheckpointFailure_12-27-2016 10-36-50 AM.jpg
+Dec 27,2016 10:37:00 [info]  ====Failed==== "Searched Data 'North America'" field is not present'
+Dec 27,2016 10:37:00 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\27\Searched Data 'North America'_CheckpointFailure_12-27-2016 10-37-00 AM.jpg
+Dec 27,2016 10:37:10 [info]  ====Failed==== "PickListValue North America" field is not present'
+Dec 27,2016 10:37:11 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\27\PickListValue North America_CheckpointFailure_12-27-2016 10-37-10 AM.jpg
+Dec 27,2016 10:37:24 [info]  ====Failed==== "CheckedNorth America"  does not exist.
+Dec 27,2016 10:37:24 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\27\CheckedNorth America_CheckpointFailure_12-27-2016 10-37-24 AM.jpg
+Dec 27,2016 10:37:34 [info]  ====Failed==== "Appply button" field is not present'
+Dec 27,2016 10:37:34 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\27\Appply button_CheckpointFailure_12-27-2016 10-37-34 AM.jpg
+Dec 27,2016 10:37:48 [info]  Verify The data of *TerritoryData
+Dec 27,2016 10:37:48 [info]  ====Failed==== Expected value is:[North America] but Actual value is[]. Please check the screenshot with name: *TerritoryDatafor more details
+Dec 27,2016 10:37:48 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\27\TerritoryData_CheckpointFailure_12-27-2016 10-37-48 AM.jpg
+Dec 27,2016 10:37:58 [info]  ====Failed==== "RI_MediaRights_EditMode_MEDIA_TEMPLATE List" field is not present'
+Dec 27,2016 10:37:58 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\27\RI_MediaRights_EditMode_MEDIA_TEMPLATE List_CheckpointFailure_12-27-2016 10-37-58 AM.jpg
+Dec 27,2016 10:38:08 [info]  ====Failed==== " Could not find the Frame: div[id*='WebDialogWindow2'][style*=visible]
+Dec 27,2016 10:38:09 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\27\FrameSwitchingFailed1_CheckpointFailure_12-27-2016 10-38-08 AM.jpg
+Dec 27,2016 10:38:19 [info]  ====Failed==== "'DeSelect All' RI_MediaRights_EditMode_*Territory" field is not present'
+Dec 27,2016 10:38:19 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\27\'DeSelect All' RI_MediaRights_EditMode_Territory_CheckpointFailure_12-27-2016 10-38-19 AM.jpg
+Dec 27,2016 10:38:29 [info]  ====Failed==== "RI_MediaRights_*Territory_Search" field is not present'RI_MediaRights_*Territory_Search'
+Dec 27,2016 10:38:30 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\27\RI_MediaRights_Territory_Search_CheckpointFailure_12-27-2016 10-38-29 AM.jpg
+Dec 27,2016 10:38:40 [info]  ====Failed==== "Searched Data 'Africa'" field is not present'
+Dec 27,2016 10:38:40 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\27\Searched Data 'Africa'_CheckpointFailure_12-27-2016 10-38-40 AM.jpg
+Dec 27,2016 10:38:50 [info]  ====Failed==== "PickListValue Africa" field is not present'
+Dec 27,2016 10:38:50 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\27\PickListValue Africa_CheckpointFailure_12-27-2016 10-38-50 AM.jpg
+Dec 27,2016 10:39:03 [info]  ====Failed==== "CheckedAfrica"  does not exist.
+Dec 27,2016 10:39:03 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\27\CheckedAfrica_CheckpointFailure_12-27-2016 10-39-03 AM.jpg
+Dec 27,2016 10:39:14 [info]  ====Failed==== "Appply button" field is not present'
+Dec 27,2016 10:39:14 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\27\Appply button_CheckpointFailure_12-27-2016 10-39-14 AM.jpg
+Dec 27,2016 10:39:27 [info]  Verify The data of *TerritoryData
+Dec 27,2016 10:39:27 [info]  ====Failed==== Expected value is:[Africa] but Actual value is[]. Please check the screenshot with name: *TerritoryDatafor more details
+Dec 27,2016 10:39:27 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\27\TerritoryData_CheckpointFailure_12-27-2016 10-39-27 AM.jpg
+Dec 27,2016 10:39:37 [info]  ====Failed==== "Appply button" field is not present'
+Dec 27,2016 10:39:38 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\27\Appply button_CheckpointFailure_12-27-2016 10-39-37 AM.jpg
+Dec 27,2016 10:39:42 [info]  Clicked on the ''Save' Button at Exhibition Rights Edit window' using JS Executor
+Dec 27,2016 10:39:46 [info]  Verified that Expected value :[Changes Saved Successfully.] is matched with Actual value :[Changes Saved Successfully.]
+Dec 27,2016 10:39:46 [info]  Test 'TC12_UniqueListOfTerritories' PASSED
+Dec 27,2016 10:39:47 [info]  Closed the Browser
+Dec 27,2016 11:44:42 [info]  ********************Started Executiong the Test Suite at 11:44:42******************
+Dec 27,2016 11:44:42 [info]  Client: AMCN
+Dec 27,2016 11:44:42 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Dec 27,2016 11:44:42 [info]  *********************Started Executing 'TC12_UniqueListOfTerritories' Test Case*********************
+Dec 27,2016 11:44:52 [info]  Client: AMCN
+Dec 27,2016 11:44:52 [info]  URL: http://rlv2wb79/login.aspx
+Dec 27,2016 11:44:52 [info]  UserName: automation
+Dec 27,2016 11:44:52 [info]  Password: automation
+Dec 27,2016 11:44:53 [info]  Entered "automation" in field 'User Name'
+Dec 27,2016 11:44:53 [info]  Clicked on the 'Temporary Check Box'
+Dec 27,2016 11:44:53 [info]  Entered "automation" in field 'Password'
+Dec 27,2016 11:44:58 [info]  Clicked on the 'LoginButton'
+Dec 27,2016 11:45:15 [info]  Could not find the locator: AUT_Deal_TC6_12272016114441Deal'
+Dec 27,2016 11:45:15 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\27\AUT_Deal_TC6_12272016114441Deal_CheckpointFailure_12-27-2016 11-45-15 AM.jpg
+Dec 27,2016 11:45:53 [info]  ********************Started Executiong the Test Suite at 11:45:53******************
+Dec 27,2016 11:45:53 [info]  Client: AMCN
+Dec 27,2016 11:45:53 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Dec 27,2016 11:45:53 [info]  *********************Started Executing 'TC12_UniqueListOfTerritories' Test Case*********************
+Dec 27,2016 11:46:04 [info]  Client: AMCN
+Dec 27,2016 11:46:04 [info]  URL: http://rlv2wb79/login.aspx
+Dec 27,2016 11:46:04 [info]  UserName: automation
+Dec 27,2016 11:46:04 [info]  Password: automation
+Dec 27,2016 11:46:05 [info]  Entered "automation" in field 'User Name'
+Dec 27,2016 11:46:05 [info]  Clicked on the 'Temporary Check Box'
+Dec 27,2016 11:46:05 [info]  Entered "automation" in field 'Password'
+Dec 27,2016 11:46:09 [info]  Clicked on the 'LoginButton'
+Dec 27,2016 11:46:18 [info]  Double clicked on 'AUT_Deal_TC6_1226201642805Deal'
+Dec 27,2016 11:46:21 [info]  Clicked on the 'Media Rights TAB'
+Dec 27,2016 11:46:24 [info]  Clicked on the ''Edit' Button at Media Rights TAB' using JS Executor
+Dec 27,2016 11:46:29 [info]  Double clicked on 'RI_MediaRights_EditMode_Applies To'
+Dec 27,2016 11:46:29 [info]  Clicked on the '*Applies ToDrop Down Image'
+Dec 27,2016 11:46:29 [info]  Clicked on the 'Season 1'
+Dec 27,2016 11:46:32 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Dec 27,2016 11:46:32 [info]  Verify The data of RI_MediaRights_EditMode_*Applies To
+Dec 27,2016 11:46:32 [info]  Verified that Expected value :[Season 1] is matched with Actual value :[   Season 1]
+Dec 27,2016 11:46:34 [info]  Double clicked on 'RI_MediaRights_EditMode_Applies To'
+Dec 27,2016 11:46:34 [info]  Clicked on the '*Applies ToDrop Down Image'
+Dec 27,2016 11:46:34 [info]  Clicked on the 'Season 1'
+Dec 27,2016 11:46:37 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Dec 27,2016 11:46:37 [info]  Verify The data of RI_MediaRights_EditMode_*Applies To
+Dec 27,2016 11:46:37 [info]  Verified that Expected value :[Season 1] is matched with Actual value :[   Season 1]
+Dec 27,2016 11:46:37 [info]  Clicked on the 'RI_MediaRights_EditMode_MEDIA_TEMPLATE List'
+Dec 27,2016 11:46:47 [info]  ====Failed==== " Could not find the Frame: div[id*='WebDialogWindow2'][style*=visible]
+Dec 27,2016 11:46:48 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\27\FrameSwitchingFailed0_CheckpointFailure_12-27-2016 11-46-47 AM.jpg
+Dec 27,2016 11:46:58 [info]  ====Failed==== "'DeSelect All' RI_MediaRights_EditMode_*Territory" field is not present'
+Dec 27,2016 11:46:58 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\27\'DeSelect All' RI_MediaRights_EditMode_Territory_CheckpointFailure_12-27-2016 11-46-58 AM.jpg
+Dec 27,2016 11:48:24 [info]  ********************Started Executiong the Test Suite at 11:48:24******************
+Dec 27,2016 11:48:24 [info]  Client: AMCN
+Dec 27,2016 11:48:24 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Dec 27,2016 11:48:24 [info]  *********************Started Executing 'TC12_UniqueListOfTerritories' Test Case*********************
+Dec 27,2016 11:48:34 [info]  Client: AMCN
+Dec 27,2016 11:48:34 [info]  URL: http://rlv2wb79/login.aspx
+Dec 27,2016 11:48:34 [info]  UserName: automation
+Dec 27,2016 11:48:34 [info]  Password: automation
+Dec 27,2016 11:48:35 [info]  Entered "automation" in field 'User Name'
+Dec 27,2016 11:48:35 [info]  Clicked on the 'Temporary Check Box'
+Dec 27,2016 11:48:35 [info]  Entered "automation" in field 'Password'
+Dec 27,2016 11:48:40 [info]  Clicked on the 'LoginButton'
+Dec 27,2016 11:48:48 [info]  Double clicked on 'AUT_Deal_TC6_1226201642805Deal'
+Dec 27,2016 11:48:52 [info]  Clicked on the 'Media Rights TAB'
+Dec 27,2016 11:48:55 [info]  Clicked on the ''Edit' Button at Media Rights TAB' using JS Executor
+Dec 27,2016 11:49:00 [info]  Double clicked on 'RI_MediaRights_EditMode_Applies To'
+Dec 27,2016 11:49:00 [info]  Clicked on the '*Applies ToDrop Down Image'
+Dec 27,2016 11:49:00 [info]  Clicked on the 'Season 1'
+Dec 27,2016 11:49:03 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Dec 27,2016 11:49:03 [info]  Verify The data of RI_MediaRights_EditMode_*Applies To
+Dec 27,2016 11:49:03 [info]  Verified that Expected value :[Season 1] is matched with Actual value :[   Season 1]
+Dec 27,2016 11:49:04 [info]  Double clicked on 'RI_MediaRights_EditMode_Applies To'
+Dec 27,2016 11:49:04 [info]  Clicked on the '*Applies ToDrop Down Image'
+Dec 27,2016 11:49:05 [info]  Clicked on the 'Season 1'
+Dec 27,2016 11:49:08 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Dec 27,2016 11:49:08 [info]  Verify The data of RI_MediaRights_EditMode_*Applies To
+Dec 27,2016 11:49:08 [info]  Verified that Expected value :[Season 1] is matched with Actual value :[   Season 1]
+Dec 27,2016 11:49:08 [info]  Clicked on the 'RI_MediaRights_EditMode_MEDIA_TEMPLATE List'
+Dec 27,2016 11:49:18 [info]  ====Failed==== " Could not find the Frame: div[id*='WebDialogWindow2'][style*=visible]
+Dec 27,2016 11:49:19 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\27\FrameSwitchingFailed0_CheckpointFailure_12-27-2016 11-49-18 AM.jpg
+Dec 27,2016 11:49:29 [info]  ====Failed==== "'DeSelect All' RI_MediaRights_EditMode_*Territory" field is not present'
+Dec 27,2016 11:49:29 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\27\'DeSelect All' RI_MediaRights_EditMode_Territory_CheckpointFailure_12-27-2016 11-49-29 AM.jpg
+Dec 27,2016 11:51:48 [info]  ********************Started Executiong the Test Suite at 11:51:48******************
+Dec 27,2016 11:51:48 [info]  Client: AMCN
+Dec 27,2016 11:51:48 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Dec 27,2016 11:51:48 [info]  *********************Started Executing 'TC12_UniqueListOfTerritories' Test Case*********************
+Dec 27,2016 11:51:58 [info]  Client: AMCN
+Dec 27,2016 11:51:58 [info]  URL: http://rlv2wb79/login.aspx
+Dec 27,2016 11:51:58 [info]  UserName: automation
+Dec 27,2016 11:51:58 [info]  Password: automation
+Dec 27,2016 11:52:00 [info]  Entered "automation" in field 'User Name'
+Dec 27,2016 11:52:00 [info]  Clicked on the 'Temporary Check Box'
+Dec 27,2016 11:52:00 [info]  Entered "automation" in field 'Password'
+Dec 27,2016 11:52:04 [info]  Clicked on the 'LoginButton'
+Dec 27,2016 11:52:13 [info]  Double clicked on 'AUT_Deal_TC6_1226201642805Deal'
+Dec 27,2016 11:52:16 [info]  Clicked on the 'Media Rights TAB'
+Dec 27,2016 11:52:19 [info]  Clicked on the ''Edit' Button at Media Rights TAB' using JS Executor
+Dec 27,2016 11:52:23 [info]  Double clicked on 'RI_MediaRights_EditMode_Applies To'
+Dec 27,2016 11:52:23 [info]  Clicked on the '*Applies ToDrop Down Image'
+Dec 27,2016 11:52:24 [info]  Clicked on the 'Season 1'
+Dec 27,2016 11:52:27 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Dec 27,2016 11:52:27 [info]  Verify The data of RI_MediaRights_EditMode_*Applies To
+Dec 27,2016 11:52:27 [info]  Verified that Expected value :[Season 1] is matched with Actual value :[   Season 1]
+Dec 27,2016 11:52:28 [info]  Double clicked on 'RI_MediaRights_EditMode_Applies To'
+Dec 27,2016 11:52:28 [info]  Clicked on the '*Applies ToDrop Down Image'
+Dec 27,2016 11:52:28 [info]  Clicked on the 'Season 1'
+Dec 27,2016 11:52:32 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Dec 27,2016 11:52:32 [info]  Verify The data of RI_MediaRights_EditMode_*Applies To
+Dec 27,2016 11:52:32 [info]  Verified that Expected value :[Season 1] is matched with Actual value :[   Season 1]
+Dec 27,2016 11:52:32 [info]  Clicked on the 'RI_MediaRights_EditMode_'
+Dec 27,2016 11:52:42 [info]  ====Failed==== " Could not find the Frame: div[id*='WebDialogWindow2'][style*=visible]
+Dec 27,2016 11:52:42 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\27\FrameSwitchingFailed0_CheckpointFailure_12-27-2016 11-52-42 AM.jpg
+Dec 27,2016 11:52:52 [info]  ====Failed==== "'DeSelect All' RI_MediaRights_EditMode_*Territory" field is not present'
+Dec 27,2016 11:52:53 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\27\'DeSelect All' RI_MediaRights_EditMode_Territory_CheckpointFailure_12-27-2016 11-52-52 AM.jpg
+Dec 27,2016 11:53:03 [info]  ====Failed==== "RI_MediaRights_*Territory_Search" field is not present'RI_MediaRights_*Territory_Search'
+Dec 27,2016 11:53:03 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\27\RI_MediaRights_Territory_Search_CheckpointFailure_12-27-2016 11-53-03 AM.jpg
+Dec 27,2016 11:53:13 [info]  ====Failed==== "Searched Data 'North America'" field is not present'
+Dec 27,2016 11:53:13 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\27\Searched Data 'North America'_CheckpointFailure_12-27-2016 11-53-13 AM.jpg
+Dec 27,2016 11:53:23 [info]  ====Failed==== "PickListValue North America" field is not present'
+Dec 27,2016 11:53:24 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\27\PickListValue North America_CheckpointFailure_12-27-2016 11-53-23 AM.jpg
+Dec 27,2016 11:53:37 [info]  ====Failed==== "CheckedNorth America"  does not exist.
+Dec 27,2016 11:53:37 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\27\CheckedNorth America_CheckpointFailure_12-27-2016 11-53-37 AM.jpg
+Dec 27,2016 11:53:47 [info]  ====Failed==== "Appply button" field is not present'
+Dec 27,2016 11:53:47 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\27\Appply button_CheckpointFailure_12-27-2016 11-53-47 AM.jpg
+Dec 27,2016 11:53:51 [info]  Verify The data of *TerritoryData
+Dec 27,2016 11:53:51 [info]  ====Failed==== Expected value is:[North America] but Actual value is[All Worldwide]. Please check the screenshot with name: *TerritoryDatafor more details
+Dec 27,2016 11:53:51 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\27\TerritoryData_CheckpointFailure_12-27-2016 11-53-51 AM.jpg
+Dec 27,2016 11:53:51 [info]  Clicked on the 'RI_MediaRights_EditMode_'
+Dec 27,2016 11:54:01 [info]  ====Failed==== " Could not find the Frame: div[id*='WebDialogWindow2'][style*=visible]
+Dec 27,2016 11:54:01 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\27\FrameSwitchingFailed1_CheckpointFailure_12-27-2016 11-54-01 AM.jpg
+Dec 27,2016 11:54:11 [info]  ====Failed==== "'DeSelect All' RI_MediaRights_EditMode_*Territory" field is not present'
+Dec 27,2016 11:54:12 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\27\'DeSelect All' RI_MediaRights_EditMode_Territory_CheckpointFailure_12-27-2016 11-54-11 AM.jpg
+Dec 27,2016 11:54:22 [info]  ====Failed==== "RI_MediaRights_*Territory_Search" field is not present'RI_MediaRights_*Territory_Search'
+Dec 27,2016 11:54:22 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\27\RI_MediaRights_Territory_Search_CheckpointFailure_12-27-2016 11-54-22 AM.jpg
+Dec 27,2016 11:54:32 [info]  ====Failed==== "Searched Data 'Africa'" field is not present'
+Dec 27,2016 11:54:32 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\27\Searched Data 'Africa'_CheckpointFailure_12-27-2016 11-54-32 AM.jpg
+Dec 27,2016 11:54:42 [info]  ====Failed==== "PickListValue Africa" field is not present'
+Dec 27,2016 11:54:43 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\27\PickListValue Africa_CheckpointFailure_12-27-2016 11-54-42 AM.jpg
+Dec 27,2016 11:59:09 [info]  ********************Started Executiong the Test Suite at 11:59:09******************
+Dec 27,2016 11:59:09 [info]  Client: AMCN
+Dec 27,2016 11:59:09 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Dec 27,2016 11:59:09 [info]  *********************Started Executing 'TC12_UniqueListOfTerritories' Test Case*********************
+Dec 27,2016 11:59:20 [info]  Client: AMCN
+Dec 27,2016 11:59:20 [info]  URL: http://rlv2wb79/login.aspx
+Dec 27,2016 11:59:20 [info]  UserName: automation
+Dec 27,2016 11:59:20 [info]  Password: automation
+Dec 27,2016 11:59:21 [info]  Entered "automation" in field 'User Name'
+Dec 27,2016 11:59:21 [info]  Clicked on the 'Temporary Check Box'
+Dec 27,2016 11:59:21 [info]  Entered "automation" in field 'Password'
+Dec 27,2016 11:59:26 [info]  Clicked on the 'LoginButton'
+Dec 27,2016 11:59:35 [info]  Double clicked on 'AUT_Deal_TC6_1226201642805Deal'
+Dec 27,2016 11:59:38 [info]  Clicked on the 'Media Rights TAB'
+Dec 27,2016 11:59:41 [info]  Clicked on the ''Edit' Button at Media Rights TAB' using JS Executor
+Dec 27,2016 12:01:21 [info]  Double clicked on 'RI_MediaRights_EditMode_Applies To'
+Dec 27,2016 12:01:21 [info]  Clicked on the '*Applies ToDrop Down Image'
+Dec 27,2016 12:01:21 [info]  Clicked on the 'Season 1'
+Dec 27,2016 12:01:25 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Dec 27,2016 12:01:25 [info]  Verify The data of RI_MediaRights_EditMode_*Applies To
+Dec 27,2016 12:01:25 [info]  Verified that Expected value :[Season 1] is matched with Actual value :[   Season 1]
+Dec 27,2016 12:01:30 [info]  Double clicked on 'RI_MediaRights_EditMode_Applies To'
+Dec 27,2016 12:01:30 [info]  Clicked on the '*Applies ToDrop Down Image'
+Dec 27,2016 12:01:30 [info]  Clicked on the 'Season 1'
+Dec 27,2016 12:01:34 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Dec 27,2016 12:01:34 [info]  Verify The data of RI_MediaRights_EditMode_*Applies To
+Dec 27,2016 12:01:34 [info]  Verified that Expected value :[Season 1] is matched with Actual value :[   Season 1]
+Dec 27,2016 12:01:51 [info]  Clicked on the 'RI_MediaRights_EditMode_*Territory'
+Dec 27,2016 12:02:02 [info]  ====Failed==== " Could not find the Frame: div[id*='WebDialogWindow2'][style*=visible]
+Dec 27,2016 12:02:03 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\27\FrameSwitchingFailed0_CheckpointFailure_12-27-2016 12-02-02 PM.jpg
+Dec 27,2016 12:02:38 [info]  Double clicked on 'RI_MediaRights_EditMode_*Territory'
+Dec 27,2016 12:02:54 [info]  Clicked on the ''DeSelect All' RI_MediaRights_EditMode_*Territory'
+Dec 27,2016 12:02:55 [info]  Entered "North America" in field 'RI_MediaRights_*Territory_Search'
+Dec 27,2016 12:02:56 [info]  Clicked on the 'Searched Data 'North America''
+Dec 27,2016 12:02:57 [info]  Clicked on the 'PickListValue North America'
+Dec 27,2016 12:03:41 [info]  "CheckedNorth America" is Present
+Dec 27,2016 12:03:43 [info]  Clicked on the 'Appply button'
+Dec 27,2016 12:03:54 [info]  Verify The data of *TerritoryData
+Dec 27,2016 12:03:54 [info]  Verified that Expected value :[North America] is matched with Actual value :[North America]
+Dec 27,2016 12:03:59 [info]  Double clicked on 'RI_MediaRights_EditMode_*Territory'
+Dec 27,2016 12:04:19 [info]  Double clicked on 'RI_MediaRights_EditMode_*Territory'
+Dec 27,2016 12:06:23 [info]  Double clicked on 'RI_MediaRights_EditMode_*Territory'
+Dec 27,2016 12:07:02 [info]  Clicked on the 'RI_MediaRights_EditMode_*Territory' using JS Executor
+Dec 27,2016 12:07:03 [info]  Double clicked on 'RI_MediaRights_EditMode_*Territory'
+Dec 27,2016 12:08:34 [info]  Clicked on the 'RI_MediaRights_EditMode_*Territory' using JS Executor
+Dec 27,2016 12:11:28 [info]  Clicked on the 'RI_MediaRights_EditMode_*Territory' using JS Executor
+Dec 27,2016 12:11:29 [info]  Double clicked on 'RI_MediaRights_EditMode_*Territory'
+Dec 27,2016 12:12:51 [info]  ********************Started Executiong the Test Suite at 12:12:51******************
+Dec 27,2016 12:12:51 [info]  Client: AMCN
+Dec 27,2016 12:12:51 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Dec 27,2016 12:12:51 [info]  *********************Started Executing 'TC12_UniqueListOfTerritories' Test Case*********************
+Dec 27,2016 12:13:01 [info]  Client: AMCN
+Dec 27,2016 12:13:01 [info]  URL: http://rlv2wb79/login.aspx
+Dec 27,2016 12:13:01 [info]  UserName: automation
+Dec 27,2016 12:13:01 [info]  Password: automation
+Dec 27,2016 12:13:02 [info]  Entered "automation" in field 'User Name'
+Dec 27,2016 12:13:02 [info]  Clicked on the 'Temporary Check Box'
+Dec 27,2016 12:13:03 [info]  Entered "automation" in field 'Password'
+Dec 27,2016 12:13:10 [info]  Clicked on the 'LoginButton'
+Dec 27,2016 12:13:17 [info]  Double clicked on 'AUT_Deal_TC6_1226201642805Deal'
+Dec 27,2016 12:13:26 [info]  Clicked on the 'Media Rights TAB'
+Dec 27,2016 12:13:26 [info]  Clicked on the ''Edit' Button at Media Rights TAB' using JS Executor
+Dec 27,2016 12:19:55 [info]  Double clicked on 'RI_MediaRights_EditMode_Applies To'
+Dec 27,2016 12:19:56 [info]  Clicked on the '*Applies ToDrop Down Image'
+Dec 27,2016 12:19:56 [info]  Clicked on the 'Season 1'
+Dec 27,2016 12:20:01 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Dec 27,2016 12:20:01 [info]  Verify The data of RI_MediaRights_EditMode_*Applies To
+Dec 27,2016 12:20:01 [info]  Verified that Expected value :[Season 1] is matched with Actual value :[   Season 1]
+Dec 27,2016 12:20:03 [info]  Double clicked on 'RI_MediaRights_EditMode_Applies To'
+Dec 27,2016 12:20:03 [info]  Clicked on the '*Applies ToDrop Down Image'
+Dec 27,2016 12:20:03 [info]  Clicked on the 'Season 1'
+Dec 27,2016 12:20:08 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Dec 27,2016 12:20:08 [info]  Verify The data of RI_MediaRights_EditMode_*Applies To
+Dec 27,2016 12:20:08 [info]  Verified that Expected value :[Season 1] is matched with Actual value :[   Season 1]
+Dec 27,2016 12:26:40 [info]  Double clicked on 'RI_MediaRights_EditMode_*Territory'
+Dec 27,2016 12:26:49 [info]  Clicked on the ''DeSelect All' RI_MediaRights_EditMode_*Territory'
+Dec 27,2016 12:26:51 [info]  Entered "North America" in field 'RI_MediaRights_*Territory_Search'
+Dec 27,2016 12:26:52 [info]  Clicked on the 'Searched Data 'North America''
+Dec 27,2016 12:26:53 [info]  Clicked on the 'PickListValue North America'
+Dec 27,2016 12:26:57 [info]  "CheckedNorth America" is Present
+Dec 27,2016 12:26:59 [info]  Clicked on the 'Appply button'
+Dec 27,2016 12:27:05 [info]  Verify The data of *TerritoryData
+Dec 27,2016 12:27:05 [info]  Verified that Expected value :[North America] is matched with Actual value :[North America]
+Dec 27,2016 12:27:12 [info]  Double clicked on 'RI_MediaRights_EditMode_*Territory'
+Dec 27,2016 12:27:17 [info]  Clicked on the ''DeSelect All' RI_MediaRights_EditMode_*Territory'
+Dec 27,2016 12:27:18 [info]  Entered "Africa" in field 'RI_MediaRights_*Territory_Search'
+Dec 27,2016 12:27:21 [info]  Clicked on the 'Searched Data 'Africa''
+Dec 27,2016 12:27:23 [info]  Clicked on the 'PickListValue Africa'
+Dec 27,2016 12:27:29 [info]  "CheckedAfrica" is Present
+Dec 27,2016 12:27:31 [info]  Clicked on the 'Appply button'
+Dec 27,2016 12:27:36 [info]  Verify The data of *TerritoryData
+Dec 27,2016 12:27:36 [info]  Verified that Expected value :[Africa] is matched with Actual value :[Africa]
+Dec 27,2016 12:27:49 [info]  ====Failed==== "Appply button" field is not present'
+Dec 27,2016 12:27:49 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\27\Appply button_CheckpointFailure_12-27-2016 12-27-49 PM.jpg
+Dec 27,2016 12:27:54 [info]  Clicked on the ''Save' Button at Exhibition Rights Edit window' using JS Executor
+Dec 27,2016 12:28:02 [info]  Verified that Expected value :[Changes Saved Successfully.] is matched with Actual value :[Changes Saved Successfully.]
+Dec 27,2016 12:28:02 [info]  Test 'TC12_UniqueListOfTerritories' PASSED
+Dec 27,2016 12:28:03 [info]  Closed the Browser
+Dec 27,2016 12:49:02 [info]  ********************Started Executiong the Test Suite at 12:49:02******************
+Dec 27,2016 12:49:02 [info]  Client: AMCN
+Dec 27,2016 12:49:02 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Dec 27,2016 12:49:02 [info]  *********************Started Executing 'TC12_UniqueListOfTerritories' Test Case*********************
+Dec 27,2016 12:49:12 [info]  Client: AMCN
+Dec 27,2016 12:49:12 [info]  URL: http://rlv2wb79/login.aspx
+Dec 27,2016 12:49:12 [info]  UserName: automation
+Dec 27,2016 12:49:12 [info]  Password: automation
+Dec 27,2016 12:49:13 [info]  Entered "automation" in field 'User Name'
+Dec 27,2016 12:49:13 [info]  Clicked on the 'Temporary Check Box'
+Dec 27,2016 12:49:14 [info]  Entered "automation" in field 'Password'
+Dec 27,2016 12:49:20 [info]  Clicked on the 'LoginButton'
+Dec 27,2016 12:49:26 [info]  Double clicked on 'AUT_Deal_TC6_1226201642805Deal'
+Dec 27,2016 12:49:53 [info]  Clicked on the 'Exhibition Rights TAB'
+Dec 27,2016 12:49:53 [info]  Clicked on the ''Edit' Button at Exhibition Rights TAB' using JS Executor
+Dec 27,2016 12:50:14 [info]  Clicked on the 'ClearFiltersButton'
+Dec 27,2016 12:50:18 [info]  ====Failed==== Expected value is:[(Select All)] but Actual value is[Season 1]. Please check the screenshot with name: (Select All)for more details
+Dec 27,2016 12:50:19 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\27\Default value of Asset Filter _CheckpointFailure_12-27-2016 12-50-18 PM.jpg
+Dec 27,2016 12:50:19 [info]  Clicked on the 'Add Button'
+Dec 27,2016 12:50:33 [info]  ====Failed==== " Could not find the Frame: div[id*='WebDialogWindow2'][style*=visible]
+Dec 27,2016 12:50:33 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\27\FrameSwitchingFailed0_CheckpointFailure_12-27-2016 12-50-33 PM.jpg
+Dec 27,2016 12:50:54 [info]  ====Failed==== "Select Check Box of Row 1" field is not present'
+Dec 27,2016 12:50:54 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\27\Select Check Box of Row 1_CheckpointFailure_12-27-2016 12-50-54 PM.jpg
+Dec 27,2016 12:51:14 [info]  ====Failed==== "Select Check Box of Row 2" field is not present'
+Dec 27,2016 12:51:14 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\27\Select Check Box of Row 2_CheckpointFailure_12-27-2016 12-51-14 PM.jpg
+Dec 27,2016 12:51:25 [info]  ====Failed==== "Add Button at Media rights Pop up Window" field is not present'
+Dec 27,2016 12:51:25 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\27\Add Button at Media rights Pop up Window_CheckpointFailure_12-27-2016 12-51-25 PM.jpg
+Dec 27,2016 12:52:04 [info]  Clicked on the 'Exhibition Rights TAB'
+Dec 27,2016 12:52:04 [info]  Clicked on the ''Edit' Button at Exhibition Rights TAB' using JS Executor
+Dec 27,2016 12:52:17 [info]  Clicked on the 'ClearFiltersButton'
+Dec 27,2016 12:52:21 [info]  Verified that Expected value :[(Select All)] is matched with Actual value :[(Select All)]
+Dec 27,2016 12:52:23 [info]  Clicked on the 'Add Button'
+Dec 27,2016 12:52:34 [info]  Clicked on the 'Select Check Box of Row 1'
+Dec 27,2016 12:52:35 [info]  Clicked on the 'Select Check Box of Row 2'
+Dec 27,2016 12:52:37 [info]  Clicked on the 'Add Button at Media rights Pop up Window'
+Dec 27,2016 12:54:25 [info]  Clicked on the 'Exhibition Day Scope Field'
+Dec 27,2016 12:54:25 [info]  Clicked on the 'Exhibition Day Scope Drop Down'
+Dec 27,2016 12:54:26 [info]  Clicked on the ''Season' in Exhi Scope field'
+Dec 27,2016 12:54:27 [info]  Clicked on the 'Support Click'
+Dec 27,2016 12:54:27 [info]  Verify The data of Season in ExhiScope
+Dec 27,2016 12:54:27 [info]  Verified that Expected value :[Season] is matched with Actual value :[Season]
+Dec 27,2016 12:54:28 [info]  Clicked on the 'Window Name Field'
+Dec 27,2016 12:54:29 [info]  Entered "RSG Window" in field 'Win Name'
+Dec 27,2016 12:54:29 [info]  Clicked on the 'Support Click'
+Dec 27,2016 12:54:30 [info]  Verify The data of Window Name
+Dec 27,2016 12:54:30 [info]  Verified that Expected value :[RSG Window] is matched with Actual value :[RSG Window]
+Dec 27,2016 12:54:31 [info]  Double clicked on 'Window Name Field'
+Dec 27,2016 12:54:35 [info]  Clicked on the 'Check box Linear'
+Dec 27,2016 12:54:35 [info]  "Linear Check box is checked" is Present
+Dec 27,2016 12:54:38 [info]  Clicked on the 'Apply Button at RIGHTSTYPE_POPUP' using JS Executor
+Dec 27,2016 12:54:42 [info]  Clicked on the 'Network pop up icon' using JS Executor
+Dec 27,2016 12:54:42 [info]  Double clicked on 'Network pop up icon'
+Dec 27,2016 12:54:46 [info]  Clicked on the 'Selected Channel AMC Linear'
+Dec 27,2016 12:54:49 [info]  Clicked on the 'Ok button at Exhibtion Network Window'
+Dec 27,2016 12:55:24 [info]  Clicked on the ''Save' Button at Exhibition Rights Edit window' using JS Executor
+Dec 27,2016 13:43:54 [info]  ********************Started Executiong the Test Suite at 13:43:54******************
+Dec 27,2016 13:43:54 [info]  Client: AMCN
+Dec 27,2016 13:43:54 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Dec 27,2016 13:43:54 [info]  *********************Started Executing 'TC12_UniqueListOfTerritories' Test Case*********************
+Dec 27,2016 13:44:04 [info]  Client: AMCN
+Dec 27,2016 13:44:04 [info]  URL: http://rlv2wb79/login.aspx
+Dec 27,2016 13:44:04 [info]  UserName: automation
+Dec 27,2016 13:44:04 [info]  Password: automation
+Dec 27,2016 13:44:05 [info]  Entered "automation" in field 'User Name'
+Dec 27,2016 13:44:05 [info]  Clicked on the 'Temporary Check Box'
+Dec 27,2016 13:44:06 [info]  Entered "automation" in field 'Password'
+Dec 27,2016 13:44:12 [info]  Clicked on the 'LoginButton'
+Dec 27,2016 13:44:19 [info]  Double clicked on 'AUT_Deal_TC6_1226201642805Deal'
+Dec 27,2016 13:44:28 [info]  Clicked on the 'Exhibition Rights TAB'
+Dec 27,2016 13:44:28 [info]  Clicked on the ''Edit' Button at Exhibition Rights TAB' using JS Executor
+Dec 27,2016 13:44:37 [info]  Clicked on the 'ClearFiltersButton'
+Dec 27,2016 13:44:42 [info]  Verified that Expected value :[(Select All)] is matched with Actual value :[(Select All)]
+Dec 27,2016 13:45:03 [info]  Clicked on the 'Territory pop up icon' using JS Executor
+Dec 27,2016 13:45:03 [info]  Double clicked on 'Territory pop up icon'
+Dec 27,2016 14:02:46 [info]  ********************Started Executiong the Test Suite at 14:02:46******************
+Dec 27,2016 14:02:46 [info]  Client: AMCN
+Dec 27,2016 14:02:46 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Dec 27,2016 14:02:46 [info]  *********************Started Executing 'TC12_UniqueListOfTerritories' Test Case*********************
+Dec 27,2016 14:02:55 [info]  Client: AMCN
+Dec 27,2016 14:02:55 [info]  URL: http://rlv2wb79/login.aspx
+Dec 27,2016 14:02:55 [info]  UserName: automation
+Dec 27,2016 14:02:55 [info]  Password: automation
+Dec 27,2016 14:02:56 [info]  Entered "automation" in field 'User Name'
+Dec 27,2016 14:02:57 [info]  Clicked on the 'Temporary Check Box'
+Dec 27,2016 14:02:57 [info]  Entered "automation" in field 'Password'
+Dec 27,2016 14:03:04 [info]  Clicked on the 'LoginButton'
+Dec 27,2016 14:03:10 [info]  Double clicked on 'AUT_Deal_TC6_1226201642805Deal'
+Dec 27,2016 14:03:20 [info]  Clicked on the 'Media Rights TAB'
+Dec 27,2016 14:03:20 [info]  Clicked on the ''Edit' Button at Media Rights TAB' using JS Executor
+Dec 27,2016 14:03:29 [info]  Double clicked on 'RI_MediaRights_EditMode_Applies To'
+Dec 27,2016 14:03:30 [info]  Clicked on the '*Applies ToDrop Down Image'
+Dec 27,2016 14:03:30 [info]  Clicked on the 'Season 1'
+Dec 27,2016 14:03:35 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Dec 27,2016 14:03:35 [info]  Verify The data of RI_MediaRights_EditMode_*Applies To
+Dec 27,2016 14:03:35 [info]  Verified that Expected value :[Season 1] is matched with Actual value :[   Season 1]
+Dec 27,2016 14:03:38 [info]  Double clicked on 'RI_MediaRights_EditMode_Applies To'
+Dec 27,2016 14:03:39 [info]  Clicked on the '*Applies ToDrop Down Image'
+Dec 27,2016 14:03:39 [info]  Clicked on the 'Season 1'
+Dec 27,2016 14:03:44 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Dec 27,2016 14:03:44 [info]  Verify The data of RI_MediaRights_EditMode_*Applies To
+Dec 27,2016 14:03:44 [info]  Verified that Expected value :[Season 1] is matched with Actual value :[   Season 1]
+Dec 27,2016 14:03:47 [info]  Double clicked on 'RI_MediaRights_EditMode_*Territory'
+Dec 27,2016 14:03:49 [info]  Clicked on the ''DeSelect All' RI_MediaRights_EditMode_*Territory'
+Dec 27,2016 14:03:51 [info]  Entered "North America" in field 'RI_MediaRights_*Territory_Search'
+Dec 27,2016 14:03:52 [info]  Clicked on the 'Searched Data 'North America''
+Dec 27,2016 14:03:53 [info]  Clicked on the 'PickListValue North America'
+Dec 27,2016 14:03:56 [info]  "CheckedNorth America" is Present
+Dec 27,2016 14:03:58 [info]  Clicked on the 'Appply button'
+Dec 27,2016 14:04:02 [info]  Verify The data of *TerritoryData
+Dec 27,2016 14:04:02 [info]  Verified that Expected value :[North America] is matched with Actual value :[North America]
+Dec 27,2016 14:04:03 [info]  Double clicked on 'RI_MediaRights_EditMode_*Territory'
+Dec 27,2016 14:04:05 [info]  Clicked on the ''DeSelect All' RI_MediaRights_EditMode_*Territory'
+Dec 27,2016 14:04:06 [info]  Entered "Africa" in field 'RI_MediaRights_*Territory_Search'
+Dec 27,2016 14:04:08 [info]  Clicked on the 'Searched Data 'Africa''
+Dec 27,2016 14:04:08 [info]  Clicked on the 'PickListValue Africa'
+Dec 27,2016 14:04:11 [info]  "CheckedAfrica" is Present
+Dec 27,2016 14:04:13 [info]  Clicked on the 'Appply button'
+Dec 27,2016 14:04:17 [info]  Verify The data of *TerritoryData
+Dec 27,2016 14:04:17 [info]  Verified that Expected value :[Africa] is matched with Actual value :[Africa]
+Dec 27,2016 14:04:17 [info]  Clicked on the ''Save' Button at Exhibition Rights Edit window' using JS Executor
+Dec 27,2016 14:04:25 [info]  Verified that Expected value :[Changes Saved Successfully.] is matched with Actual value :[Changes Saved Successfully.]
+Dec 27,2016 14:04:27 [info]  Clicked on the 'Close Button at Media rights Pop up Window'
+Dec 27,2016 14:04:29 [info]  Clicked on the 'Exhibition Rights TAB'
+Dec 27,2016 14:04:30 [info]  Clicked on the ''Edit' Button at Exhibition Rights TAB' using JS Executor
+Dec 27,2016 14:04:37 [info]  Clicked on the 'ClearFiltersButton'
+Dec 27,2016 14:04:41 [info]  Verified that Expected value :[(Select All)] is matched with Actual value :[(Select All)]
+Dec 27,2016 14:04:44 [info]  Clicked on the 'Add Button'
+Dec 27,2016 14:04:48 [info]  Clicked on the 'Select Check Box of Row 1'
+Dec 27,2016 14:04:48 [info]  Clicked on the 'Select Check Box of Row 2'
+Dec 27,2016 14:04:49 [info]  Double clicked on 'Add Button at Media rights Pop up Window'
+Dec 27,2016 14:04:56 [info]  Clicked on the 'Exhibition Day Scope Field'
+Dec 27,2016 14:04:56 [info]  Clicked on the 'Exhibition Day Scope Drop Down'
+Dec 27,2016 14:04:57 [info]  Clicked on the ''Season' in Exhi Scope field'
+Dec 27,2016 14:04:58 [info]  Clicked on the 'Support Click'
+Dec 27,2016 14:04:58 [info]  Verify The data of Season in ExhiScope
+Dec 27,2016 14:04:58 [info]  Verified that Expected value :[Season] is matched with Actual value :[Season]
+Dec 27,2016 14:04:59 [info]  Clicked on the 'Window Name Field'
+Dec 27,2016 14:05:00 [info]  Entered "RSG Window" in field 'Win Name'
+Dec 27,2016 14:05:01 [info]  Clicked on the 'Support Click'
+Dec 27,2016 14:05:01 [info]  Verify The data of Window Name
+Dec 27,2016 14:05:01 [info]  Verified that Expected value :[RSG Window] is matched with Actual value :[RSG Window]
+Dec 27,2016 14:05:02 [info]  Double clicked on 'Window Name Field'
+Dec 27,2016 14:05:06 [info]  Clicked on the 'Check box Linear'
+Dec 27,2016 14:05:06 [info]  "Linear Check box is checked" is Present
+Dec 27,2016 14:05:09 [info]  Clicked on the 'Apply Button at RIGHTSTYPE_POPUP' using JS Executor
+Dec 27,2016 14:05:13 [info]  Clicked on the 'Network pop up icon' using JS Executor
+Dec 27,2016 14:05:14 [info]  Double clicked on 'Network pop up icon'
+Dec 27,2016 14:05:18 [info]  Clicked on the 'Selected Channel AMC Linear'
+Dec 27,2016 14:05:21 [info]  Clicked on the 'Ok button at Exhibtion Network Window'
+Dec 27,2016 14:05:25 [info]  Clicked on the ''Save' Button at Exhibition Rights Edit window' using JS Executor
+Dec 27,2016 14:05:31 [info]  Verified that Expected value :[Changes Saved Successfully.] is matched with Actual value :[Changes Saved Successfully. The Filter has been updated to reflect your changes.]
+Dec 27,2016 14:05:35 [info]  Clicked on the 'Territory pop up icon' using JS Executor
+Dec 27,2016 14:05:35 [info]  Double clicked on 'Territory pop up icon'
+Dec 27,2016 14:05:40 [info]  Verified that "North America" is Enabled
+Dec 27,2016 14:05:40 [info]  Verified that "Africa" is Enabled
+Dec 27,2016 14:05:42 [info]  Clicked on the ''Select All' RI_MediaRights_EditMode_Territory '
+Dec 27,2016 14:05:44 [info]  ====Failed==== "Unchecked Nodes of Assets at Territory "  should not be shown
+Dec 27,2016 14:05:45 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\27\Unchecked Nodes of Assets at Territory _CheckpointFailure_12-27-2016 2-05-44 PM.jpg
+Dec 27,2016 14:05:46 [info]  "Checked Nodes of Assets at Territory" is Present
+Dec 27,2016 14:05:48 [info]  Clicked on the 'Appply button'
+Dec 27,2016 14:06:08 [info]  Verify The data of 
+Dec 27,2016 14:06:08 [info]  ====Failed==== Expected value is:[North America,Africa] but Actual value is[]. Please check the screenshot with name: for more details
+Dec 27,2016 14:06:08 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\27\_CheckpointFailure_12-27-2016 2-06-08 PM.jpg
+Dec 27,2016 14:06:09 [info]  Clicked on the ''Save' Button at Exhibition Rights Edit window' using JS Executor
+Dec 27,2016 14:06:16 [info]  Verified that Expected value :[Changes Saved Successfully.] is matched with Actual value :[Changes Saved Successfully.]
+Dec 27,2016 14:06:36 [info]  Verify The data of 
+Dec 27,2016 14:06:36 [info]  ====Failed==== Expected value is:[North America,Africa] but Actual value is[]. Please check the screenshot with name: for more details
+Dec 27,2016 14:06:37 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\27\_CheckpointFailure_12-27-2016 2-06-36 PM.jpg
+Dec 27,2016 14:06:37 [info]  Test 'TC12_UniqueListOfTerritories' PASSED
+Dec 27,2016 14:06:38 [info]  Closed the Browser
+Dec 27,2016 14:37:11 [info]  ********************Started Executiong the Test Suite at 14:37:11******************
+Dec 27,2016 14:37:11 [info]  Client: AMCN
+Dec 27,2016 14:37:11 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Dec 27,2016 14:37:11 [info]  *********************Started Executing 'TC12_UniqueListOfTerritories' Test Case*********************
+Dec 27,2016 14:37:21 [info]  Client: AMCN
+Dec 27,2016 14:37:21 [info]  URL: http://rlv2wb79/login.aspx
+Dec 27,2016 14:37:21 [info]  UserName: automation
+Dec 27,2016 14:37:21 [info]  Password: automation
+Dec 27,2016 14:37:21 [info]  Entered "automation" in field 'User Name'
+Dec 27,2016 14:37:22 [info]  Clicked on the 'Temporary Check Box'
+Dec 27,2016 14:37:22 [info]  Entered "automation" in field 'Password'
+Dec 27,2016 14:37:28 [info]  Clicked on the 'LoginButton'
+Dec 27,2016 14:37:35 [info]  Double clicked on 'AUT_Deal_TC6_1226201642805Deal'
+Dec 27,2016 14:37:44 [info]  Clicked on the 'Exhibition Rights TAB'
+Dec 27,2016 14:37:45 [info]  Clicked on the ''Edit' Button at Exhibition Rights TAB' using JS Executor
+Dec 27,2016 14:37:54 [info]  Clicked on the 'ClearFiltersButton'
+Dec 27,2016 14:37:58 [info]  Verified that Expected value :[(Select All)] is matched with Actual value :[(Select All)]
+Dec 27,2016 14:42:05 [info]  Clicked on the 'Territory pop up icon' using JS Executor
+Dec 27,2016 14:42:06 [info]  Double clicked on 'Territory pop up icon'
+Dec 27,2016 14:42:22 [info]  Verified that "North America" is Enabled
+Dec 27,2016 14:42:25 [info]  Verified that "Africa" is Enabled
+Dec 27,2016 14:42:27 [info]  Clicked on the ''Select All' RI_MediaRights_EditMode_Territory '
+Dec 27,2016 14:42:37 [info]  "Checked Nodes of Assets at Territory" is Present
+Dec 27,2016 14:42:39 [info]  Clicked on the 'Appply button'
+Dec 27,2016 14:43:02 [info]  Verify The data of 
+Dec 27,2016 14:43:02 [info]  ====Failed==== Expected value is:[North America,Africa] but Actual value is[]. Please check the screenshot with name: for more details
+Dec 27,2016 14:43:02 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\27\_CheckpointFailure_12-27-2016 2-43-02 PM.jpg
+Dec 27,2016 14:44:44 [info]  Verify The data of 
+Dec 27,2016 14:44:44 [info]  ====Failed==== Expected value is:[North America,Africa] but Actual value is[North America, Africa]. Please check the screenshot with name: for more details
+Dec 27,2016 14:44:45 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\27\_CheckpointFailure_12-27-2016 2-44-44 PM.jpg
+Dec 27,2016 14:47:08 [info]  Verify The data of 
+Dec 27,2016 14:47:08 [info]  Verified that Expected value :[North America, Africa] is matched with Actual value :[North America, Africa]
+Dec 27,2016 14:47:09 [info]  Clicked on the ''Save' Button at Exhibition Rights Edit window' using JS Executor
+Dec 27,2016 14:47:17 [info]  Verified that Expected value :[Changes Saved Successfully.] is matched with Actual value :[Changes Saved Successfully. The Filter has been updated to reflect your changes.]
+Dec 27,2016 14:47:20 [info]  Clicked on the 'Close Button at Media rights Pop up Window'
+Dec 27,2016 14:48:01 [info]  Verify The data of 
+Dec 27,2016 14:48:01 [info]  ====Failed==== Expected value is:[North America, Africa] but Actual value is[]. Please check the screenshot with name: for more details
+Dec 27,2016 14:48:01 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\27\_CheckpointFailure_12-27-2016 2-48-01 PM.jpg
+Dec 27,2016 15:04:50 [info]  ********************Started Executiong the Test Suite at 15:04:50******************
+Dec 27,2016 15:04:50 [info]  Client: AMCN
+Dec 27,2016 15:04:50 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Dec 27,2016 15:04:50 [info]  *********************Started Executing 'TC12_UniqueListOfTerritories' Test Case*********************
+Dec 27,2016 15:04:59 [info]  Client: AMCN
+Dec 27,2016 15:04:59 [info]  URL: http://rlv2wb79/login.aspx
+Dec 27,2016 15:04:59 [info]  UserName: automation
+Dec 27,2016 15:04:59 [info]  Password: automation
+Dec 27,2016 15:05:00 [info]  Entered "automation" in field 'User Name'
+Dec 27,2016 15:05:00 [info]  Clicked on the 'Temporary Check Box'
+Dec 27,2016 15:05:01 [info]  Entered "automation" in field 'Password'
+Dec 27,2016 15:05:01 [info]  Clicked on the 'LoginButton'
+Dec 27,2016 15:05:08 [info]  Double clicked on 'AUT_Deal_TC6_1226201642805Deal'
+Dec 27,2016 15:11:58 [info]  ********************Started Executiong the Test Suite at 15:11:58******************
+Dec 27,2016 15:11:58 [info]  Client: AMCN
+Dec 27,2016 15:11:58 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Dec 27,2016 15:11:59 [info]  *********************Started Executing 'TC12_UniqueListOfTerritories' Test Case*********************
+Dec 27,2016 15:12:08 [info]  Client: AMCN
+Dec 27,2016 15:12:08 [info]  URL: http://rlv2wb79/login.aspx
+Dec 27,2016 15:12:08 [info]  UserName: automation
+Dec 27,2016 15:12:08 [info]  Password: automation
+Dec 27,2016 15:12:09 [info]  Entered "automation" in field 'User Name'
+Dec 27,2016 15:12:09 [info]  Clicked on the 'Temporary Check Box'
+Dec 27,2016 15:12:10 [info]  Entered "automation" in field 'Password'
+Dec 27,2016 15:12:16 [info]  Clicked on the 'LoginButton'
+Dec 27,2016 15:12:23 [info]  Double clicked on 'AUT_Deal_TC6_1226201642805Deal'
+Dec 27,2016 15:13:11 [info]  Verify The data of 
+Dec 27,2016 15:13:11 [info]  ====Failed==== Expected value is:[North America, Africa] but Actual value is[]. Please check the screenshot with name: for more details
+Dec 27,2016 15:13:11 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\27\_CheckpointFailure_12-27-2016 3-13-11 PM.jpg
+Dec 27,2016 15:13:11 [info]  Test 'TC12_UniqueListOfTerritories' PASSED
+Dec 27,2016 15:13:12 [info]  Closed the Browser
+Dec 27,2016 15:18:24 [info]  ********************Started Executiong the Test Suite at 15:18:24******************
+Dec 27,2016 15:18:24 [info]  Client: AMCN
+Dec 27,2016 15:18:24 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Dec 27,2016 15:18:24 [info]  *********************Started Executing 'TC12_UniqueListOfTerritories' Test Case*********************
+Dec 27,2016 15:18:33 [info]  Client: AMCN
+Dec 27,2016 15:18:33 [info]  URL: http://rlv2wb79/login.aspx
+Dec 27,2016 15:18:33 [info]  UserName: automation
+Dec 27,2016 15:18:33 [info]  Password: automation
+Dec 27,2016 15:18:34 [info]  Entered "automation" in field 'User Name'
+Dec 27,2016 15:18:35 [info]  Clicked on the 'Temporary Check Box'
+Dec 27,2016 15:18:35 [info]  Entered "automation" in field 'Password'
+Dec 27,2016 15:18:41 [info]  Clicked on the 'LoginButton'
+Dec 27,2016 15:18:47 [info]  Double clicked on 'AUT_Deal_TC6_1226201642805Deal'
+Dec 27,2016 15:21:11 [info]  Verify The data of 
+Dec 27,2016 15:21:11 [info]  Verified that Expected value :[North America, Africa] is matched with Actual value :[North America, Africa]
+Dec 27,2016 15:21:15 [info]  Test 'TC12_UniqueListOfTerritories' PASSED
+Dec 27,2016 15:21:16 [info]  Closed the Browser
+Dec 27,2016 16:23:47 [info]  ********************Started Executiong the Test Suite at 16:23:47******************
+Dec 27,2016 16:23:47 [info]  Client: TURNER
+Dec 27,2016 16:23:47 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Dec 27,2016 16:23:47 [info]  *********************Started Executing 'createData' Test Case*********************
+Dec 27,2016 16:23:57 [info]  Client: TURNER
+Dec 27,2016 16:23:57 [info]  URL: http://rlv2wb58:81/login.aspx
+Dec 27,2016 16:23:57 [info]  UserName: admin
+Dec 27,2016 16:23:57 [info]  Password: admin
+Dec 27,2016 16:23:58 [info]  Entered "admin" in field 'User Name'
+Dec 27,2016 16:23:58 [info]  Clicked on the 'Temporary Check Box'
+Dec 27,2016 16:23:59 [info]  Entered "admin" in field 'Password'
+Dec 27,2016 16:24:06 [info]  Clicked on the 'LoginButton'
+Dec 27,2016 16:24:12 [info]  AUT_AssetSeries_TC1_1227201642347
+Dec 27,2016 16:24:12 [info]  AUT_AssetSeries_TC6_1227201642347
+Dec 27,2016 16:24:13 [info]  ************************Started Creating Asset of Type: Program TV/Digital - Series************************
+Dec 27,2016 16:24:16 [info]  Clicked on the 'MODULE'
+Dec 27,2016 16:24:28 [info]  Clicked on the 'Asset Maintenance'
+Dec 27,2016 16:24:35 [info]  Clicked on the 'New Button' using JS Executor
+Dec 27,2016 16:24:36 [info]  Clicked on the 'Program' using JS Executor
+Dec 27,2016 16:24:45 [info]  Clicked on the 'General TAB'
+Dec 27,2016 16:24:48 [info]  Selected "Program TV/Digital - Series" in "AssetTypeDropDown" drop down
+Dec 27,2016 16:24:56 [info]  Entered "AUT_AssetSeries_TC6_1227201642347" in field 'AssetTitle'
+Dec 27,2016 16:24:57 [info]  Clicked on the 'Vendor Img Icon' using JS Executor
+Dec 27,2016 16:24:59 [info]  Entered "AUT_TURNER_Vendor1" in field 'SearchvalueVendor'
+Dec 27,2016 16:25:02 [info]  Clicked on the 'VendorWindowButtonfind' using JS Executor
+Dec 27,2016 16:25:20 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Dec 27,2016 16:25:23 [info]  Clicked on the 'Add Button at Vendor Add Window'
+Dec 27,2016 16:25:24 [info]  All Drop Down values of PartyList are:
+
+Dec 27,2016 16:25:24 [info]  (Select One)
+
+Dec 27,2016 16:25:25 [info]  Selected "Vendor" in "Party Type" drop down
+Dec 27,2016 16:25:26 [info]  Entered "AUT_TURNER_Vendor1" in field 'Company Name'
+Dec 27,2016 16:25:27 [info]  Verified that Expected value :[Primary] is matched with Actual value :[Primary]
+Dec 27,2016 16:25:27 [info]  Clicked on the 'Contributor_ContributorSearch_Add_AddressLine1InputField' using JS Executor
+Dec 27,2016 16:25:27 [info]  Entered "AddressLine1" in field 'ConrtibutorsEdit_ConrtibutorsSearch_AddWindow_AddressLine1 Field'
+Dec 27,2016 16:25:27 [info]  Clicked on the 'Contributor_ContributorSearch_Add_AddressLine2InputField' using JS Executor
+Dec 27,2016 16:25:28 [info]  Entered "AddressLine2" in field 'ConrtibutorsEdit_ConrtibutorsSearch_AddWindow_AddressLine2 Field'
+Dec 27,2016 16:25:28 [info]  Clicked on the 'ConrtibutorsEdit_ConrtibutorsSearch_AddWindow_City' using JS Executor
+Dec 27,2016 16:25:28 [info]  Entered "City" in field 'ConrtibutorsEdit_ConrtibutorsSearch_AddWindow_City Field'
+Dec 27,2016 16:25:29 [info]  Selected "Canada" in "Country Input Field" drop down
+Dec 27,2016 16:25:29 [info]  Selected "Alberta" in "Contributor_ContributorSearch_Add_StateInputField" drop down
+Dec 27,2016 16:25:29 [info]  Clicked on the 'Contributor_ContributorSearch_Add_ZipCodeField' using JS Executor
+Dec 27,2016 16:25:30 [info]  Entered "12345" in field 'ConrtibutorsEdit_ConrtibutorsSearch_AddWindow_ZipCode Field'
+Dec 27,2016 16:25:30 [info]  Clicked on the ''Save Button' Contributor_ContributorSearch_Add_SaveGeneralInfoButton' using JS Executor
+Dec 27,2016 16:25:39 [info]  Verified that Expected value :[Changes have been saved successfully.] is matched with Actual value :[Changes have been saved successfully.]
+Dec 27,2016 16:25:41 [info]  Clicked on the 'close Add Reference Window'
+Dec 27,2016 16:25:43 [info]  Entered "AUT_TURNER_Vendor1" in field 'SearchvalueVendor'
+Dec 27,2016 16:25:45 [info]  Clicked on the 'VendorWindowButtonfind' using JS Executor
+Dec 27,2016 16:25:47 [info]  Clicked on the 'VendorName At VendorWindow'
+Dec 27,2016 16:25:47 [info]  Clicked on the 'Vendor Select Button' using JS Executor
+Dec 27,2016 16:25:51 [info]  Verify The data of Vendor1
+Dec 27,2016 16:25:51 [info]  Verified that Expected value :[AUT_TURNER_Vendor1] is matched with Actual value :[AUT_TURNER_Vendor1]
+Dec 27,2016 16:25:52 [info]  Clicked on the 'StudioImageIcon' using JS Executor
+Dec 27,2016 16:25:53 [info]  Verified that Expected value :[Select Studio] is matched with Actual value :[Select Studio]
+Dec 27,2016 16:25:55 [info]  Entered "AUT_TURNER_Studio" in field 'Studio Name'
+Dec 27,2016 16:25:55 [info]  Clicked on the 'Find Button' using JS Executor
+Dec 27,2016 16:26:15 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Dec 27,2016 16:26:17 [info]  Clicked on the 'Add Button at Vendor Add Window'
+Dec 27,2016 16:26:19 [info]  All Drop Down values of PartyList are:
+
+Dec 27,2016 16:26:19 [info]  (Select One)
+
+Dec 27,2016 16:26:19 [info]  Selected "Vendor" in "Party Type" drop down
+Dec 27,2016 16:26:21 [info]  Entered "AUT_TURNER_Studio" in field 'Company Name'
+Dec 27,2016 16:26:21 [info]  Verified that Expected value :[Primary] is matched with Actual value :[Primary]
+Dec 27,2016 16:26:21 [info]  Clicked on the 'Contributor_ContributorSearch_Add_AddressLine1InputField' using JS Executor
+Dec 27,2016 16:26:22 [info]  Entered "AddressLine1" in field 'ConrtibutorsEdit_ConrtibutorsSearch_AddWindow_AddressLine1 Field'
+Dec 27,2016 16:26:22 [info]  Clicked on the 'Contributor_ContributorSearch_Add_AddressLine2InputField' using JS Executor
+Dec 27,2016 16:26:22 [info]  Entered "AddressLine2" in field 'ConrtibutorsEdit_ConrtibutorsSearch_AddWindow_AddressLine2 Field'
+Dec 27,2016 16:26:22 [info]  Clicked on the 'ConrtibutorsEdit_ConrtibutorsSearch_AddWindow_City' using JS Executor
+Dec 27,2016 16:26:23 [info]  Entered "City" in field 'ConrtibutorsEdit_ConrtibutorsSearch_AddWindow_City Field'
+Dec 27,2016 16:26:23 [info]  Selected "Canada" in "Country Input Field" drop down
+Dec 27,2016 16:26:23 [info]  Selected "Alberta" in "Contributor_ContributorSearch_Add_StateInputField" drop down
+Dec 27,2016 16:26:23 [info]  Clicked on the 'Contributor_ContributorSearch_Add_ZipCodeField' using JS Executor
+Dec 27,2016 16:26:24 [info]  Entered "12345" in field 'ConrtibutorsEdit_ConrtibutorsSearch_AddWindow_ZipCode Field'
+Dec 27,2016 16:26:24 [info]  Clicked on the ''Save Button' Contributor_ContributorSearch_Add_SaveGeneralInfoButton' using JS Executor
+Dec 27,2016 16:26:33 [info]  Verified that Expected value :[Changes have been saved successfully.] is matched with Actual value :[Changes have been saved successfully.]
+Dec 27,2016 16:26:34 [info]  Clicked on the 'close Add Reference Window'
+Dec 27,2016 16:26:36 [info]  Entered "AUT_TURNER_Studio" in field 'Studio Name'
+Dec 27,2016 16:26:36 [info]  Clicked on the 'Find Button' using JS Executor
+Dec 27,2016 16:26:38 [info]  Clicked on the 'VendorName At VendorWindow'
+Dec 27,2016 16:26:38 [info]  Clicked on the 'Vendor Select Button' using JS Executor
+Dec 27,2016 16:26:41 [info]  Verify The data of Studio/Vendor2
+Dec 27,2016 16:26:41 [info]  Verified that Expected value :[AUT_TURNER_Studio] is matched with Actual value :[AUT_TURNER_Studio]
+Dec 27,2016 16:26:42 [info]  Clicked on the 'SBUImage' using JS Executor
+Dec 27,2016 16:26:44 [info]  Verified that Expected value :[Source Business Unit Template] is matched with Actual value :[Source Business Unit Template]
+Dec 27,2016 16:26:51 [info]  Clicked on the 'First CheckBox At SBU window'
+Dec 27,2016 16:26:53 [info]  Clicked on the 'Apply Button' using JS Executor
+Dec 27,2016 16:26:54 [info]  Entered "11:11:11" in field 'Duration'
+Dec 27,2016 16:27:24 [info]  ====Failed==== "In Negotiation" is not present in 'Asset StatusDrop Down'
+Dec 27,2016 16:27:25 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\27\Asset Status_CheckpointFailure_12-27-2016 4-27-24 PM.jpg
+Dec 27,2016 16:27:25 [info]  Selected "Co-Production" in "Asset Format" drop down
+Dec 27,2016 16:27:25 [info]  Selected "Group 1" in "Asset Category/Group" drop down
+Dec 27,2016 16:27:26 [info]  Entered "AUT_Series" in field 'Short Name'
+Dec 27,2016 16:27:27 [info]  Entered "Test" in field 'ProjectID'
+Dec 27,2016 16:27:27 [info]  Clicked on the 'Save Button' using JS Executor
+Dec 27,2016 16:27:44 [info]  Verified that Expected value :[AUT_AssetSeries_TC6_1227201642347] is matched with Actual value :[AUT_AssetSeries_TC6_1227201642347]
+Dec 27,2016 16:27:44 [info]  ************************Created Asset of TypeProgram TV/Digital - Series************************
+Dec 27,2016 16:27:48 [info]  Clicked on the 'MODULE'
+Dec 27,2016 16:28:00 [info]  Clicked on the 'Asset Maintenance'
+Dec 27,2016 16:28:03 [info]  Clicked on the 'Search Menu Icon' using JS Executor
+Dec 27,2016 16:28:03 [info]  Clicked on the 'AssetSearchUnderAsset' using JS Executor
+Dec 27,2016 16:28:17 [info]  Entered "AUT_AssetSeries_TC6_1227201642347" in field 'AssetTitle'
+Dec 27,2016 16:28:17 [info]  =====BUG ID======: 20309 >> AssetMaintenance.searchCreatedAsset()
+Dec 27,2016 16:28:17 [info]  Clicked on the 'DisplaySeasoncheckBox' using JS Executor
+Dec 27,2016 16:28:17 [info]  Clicked on the 'Find Button' using JS Executor
+Dec 27,2016 16:31:09 [info]  Moved Mouse over 'First Asset in the Searched Asset'
+Dec 27,2016 16:31:09 [info]  Clicked on the 'First Asset in the Searched Asset'
+Dec 27,2016 16:31:10 [info]  Clicked on the 'First Asset in the Searched Asset'
+Dec 27,2016 16:31:13 [info]  Clicked on the 'View Asset' using JS Executor
+Dec 27,2016 16:31:30 [info]  Verified that Expected value :[AUT_AssetSeries_TC6_1227201642347] is matched with Actual value :[AUT_AssetSeries_TC6_1227201642347]
+Dec 27,2016 16:31:38 [info]  Clicked on the 'Episodes TAB'
+Dec 27,2016 16:31:42 [info]  Clicked on the ''Edit' Button at Episode window' using JS Executor
+Dec 27,2016 16:31:48 [info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Dec 27,2016 16:31:53 [info]  Entered "101" in field 'Add Episode input field'
+Dec 27,2016 16:31:53 [info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Dec 27,2016 16:32:05 [info]  Clicked on the 'Season Field of Episode101' using JS Executor
+Dec 27,2016 16:32:05 [info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Dec 27,2016 16:32:06 [info]  Clicked on the 'Season 1'
+Dec 27,2016 16:32:06 [info]  Clicked on the 'Support click to select season'
+Dec 27,2016 16:32:10 [info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Dec 27,2016 16:32:10 [info]  Entered "102" in field 'Add Episode input field'
+Dec 27,2016 16:32:11 [info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Dec 27,2016 16:32:24 [info]  Clicked on the 'Season Field of Episode102' using JS Executor
+Dec 27,2016 16:32:25 [info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Dec 27,2016 16:32:25 [info]  Clicked on the 'Season 1'
+Dec 27,2016 16:32:26 [info]  Clicked on the 'Support click to select season'
+Dec 27,2016 16:32:26 [info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Dec 27,2016 16:32:27 [info]  Entered "201" in field 'Add Episode input field'
+Dec 27,2016 16:32:27 [info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Dec 27,2016 16:32:40 [info]  Clicked on the 'Season Field of Episode201' using JS Executor
+Dec 27,2016 16:32:40 [info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Dec 27,2016 16:32:41 [info]  Clicked on the 'Season 2'
+Dec 27,2016 16:32:41 [info]  Clicked on the 'Support click to select season'
+Dec 27,2016 16:32:45 [info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Dec 27,2016 16:32:45 [info]  Entered "202" in field 'Add Episode input field'
+Dec 27,2016 16:32:46 [info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Dec 27,2016 16:32:56 [info]  Clicked on the 'Support click to select season'
+Dec 27,2016 16:32:59 [info]  Clicked on the 'Season Field of Episode201' using JS Executor
+Dec 27,2016 16:33:00 [info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Dec 27,2016 16:33:00 [info]  Clicked on the 'Season 2'
+Dec 27,2016 16:33:01 [info]  Clicked on the 'Support click to select season'
+Dec 27,2016 16:33:04 [info]  Clicked on the 'Save Button at 'Episode Edit Window'' using JS Executor
+Dec 27,2016 16:33:26 [info]  Clicked on the 'Close Button at 'Episode Edit Window'' using JS Executor
+Dec 27,2016 16:33:49 [info]  Clicked on the 'New Button' using JS Executor
+Dec 27,2016 16:33:49 [info]  Clicked on the 'Standalone Agreement' using JS Executor
+Dec 27,2016 16:34:09 [info]  Field Deal Id does not exist.
+Dec 27,2016 16:34:09 [info]  Clicked on the 'DealTitleField' using JS Executor
+Dec 27,2016 16:34:11 [info]  Entered "AUT_Deal_TC6_1227201642347" in field 'Deal Name Field'
+Dec 27,2016 16:34:13 [info]  Entered "AUT_Deal_TC6_1227201642347_desc" in field 'Deal Description/ContractID'
+Dec 27,2016 16:34:13 [info]  Selected "Co-Production" in "DealType_DropDownField" drop down
+Dec 27,2016 16:34:13 [info]  Entered "Fully Executed" in field 'Deal Creation Contract Status'
+Dec 27,2016 16:34:14 [info]  Entered "In Progress" in field 'DealCreationCDEStatus'
+Dec 27,2016 16:34:14 [info]  Entered "01/01/2014" in field 'DateExecuted_InputField'
+Dec 27,2016 16:34:15 [info]  Entered "01/01/2015" in field 'DateEffective_InputField'
+Dec 27,2016 16:34:16 [info]  Entered "USD" in field 'DealCreationCurrency'
+Dec 27,2016 16:34:16 [info]  Entered "" in field 'ProjectID_InputField'
+Dec 27,2016 16:34:44 [info]  Moved Mouse over 'Party_AddButton'
+Dec 27,2016 16:34:45 [info]  Clicked on the 'Party_AddButton'
+Dec 27,2016 16:34:45 [info]  Clicked on the 'PartyPopUp Icon' using JS Executor
+Dec 27,2016 16:34:49 [info]  Entered "Astro Awani" in field 'Search Party InputField'
+Dec 27,2016 16:34:49 [info]  Double clicked on 'RI Search Party Window Find Button'
+Dec 27,2016 16:35:07 [info]  Verify The data of Alert Message
+Dec 27,2016 16:35:07 [info]  Verified that Expected value :[No search results were found for this query. Please try again using different criteria.] is matched with Actual value :[No search results were found for this query. Please try again using different criteria.]
+Dec 27,2016 16:35:08 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Dec 27,2016 16:35:10 [info]  Clicked on the 'Add Party Button'
+Dec 27,2016 16:35:10 [info]  Selected "Outlet" in "Party Type Drop Down" drop down
+Dec 27,2016 16:35:11 [info]  Entered "Astro Awani" in field 'Party Name'
+Dec 27,2016 16:35:11 [info]  Verified that Expected value :[Primary] is matched with Actual value :[Primary]
+Dec 27,2016 16:35:11 [info]  Clicked on the 'Contributor_ContributorSearch_Add_AddressLine1InputField' using JS Executor
+Dec 27,2016 16:35:12 [info]  Entered "AddressLine1" in field 'ConrtibutorsEdit_ConrtibutorsSearch_AddWindow_AddressLine1 Field'
+Dec 27,2016 16:35:12 [info]  Clicked on the 'Contributor_ContributorSearch_Add_AddressLine2InputField' using JS Executor
+Dec 27,2016 16:35:13 [info]  Entered "AddressLine2" in field 'ConrtibutorsEdit_ConrtibutorsSearch_AddWindow_AddressLine2 Field'
+Dec 27,2016 16:35:13 [info]  Clicked on the 'ConrtibutorsEdit_ConrtibutorsSearch_AddWindow_City' using JS Executor
+Dec 27,2016 16:35:13 [info]  Entered "City" in field 'ConrtibutorsEdit_ConrtibutorsSearch_AddWindow_City Field'
+Dec 27,2016 16:35:13 [info]  Selected "Canada" in "Country Input Field" drop down
+Dec 27,2016 16:35:14 [info]  Selected "Alberta" in "Contributor_ContributorSearch_Add_StateInputField" drop down
+Dec 27,2016 16:35:14 [info]  Clicked on the 'Contributor_ContributorSearch_Add_ZipCodeField' using JS Executor
+Dec 27,2016 16:35:14 [info]  Entered "12345" in field 'ConrtibutorsEdit_ConrtibutorsSearch_AddWindow_ZipCode Field'
+Dec 27,2016 16:35:14 [info]  Clicked on the ''Save Button' Contributor_ContributorSearch_Add_SaveGeneralInfoButton' using JS Executor
+Dec 27,2016 16:35:23 [info]  Verified that Expected value :[Changes have been saved successfully.] is matched with Actual value :[Changes have been saved successfully.]
+Dec 27,2016 16:35:24 [info]  Clicked on the 'close Add Party Window'
+Dec 27,2016 16:35:25 [info]  Entered "Astro Awani" in field 'Search Party InputField'
+Dec 27,2016 16:35:25 [info]  Double clicked on 'RI Search Party Window Find Button'
+Dec 27,2016 16:35:30 [info]  Clicked on the 'Astro Awani'
+Dec 27,2016 16:35:31 [info]  Clicked on the 'Select Button'
+Dec 27,2016 16:35:34 [info]  Clicked on the 'Party Type Field' using JS Executor
+Dec 27,2016 16:35:35 [info]  Entered "Primary" in field 'Party Party InputField'
+Dec 27,2016 16:35:35 [info]  Clicked on the 'Support Click '
+Dec 27,2016 16:35:35 [info]  Clicked on the 'Party_AddButton' using JS Executor
+Dec 27,2016 16:35:36 [info]  Clicked on the 'PartyPopUp Icon' using JS Executor
+Dec 27,2016 16:35:42 [info]  Entered "A&B Film Enterprises Limited" in field 'Search Party InputField'
+Dec 27,2016 16:35:42 [info]  Double clicked on 'RI Search Party Window Find Button'
+Dec 27,2016 16:36:02 [info]  Verify The data of Alert Message
+Dec 27,2016 16:36:02 [info]  Verified that Expected value :[No search results were found for this query. Please try again using different criteria.] is matched with Actual value :[No search results were found for this query. Please try again using different criteria.]
+Dec 27,2016 16:36:03 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Dec 27,2016 16:36:05 [info]  Clicked on the 'Add Party Button'
+Dec 27,2016 16:36:06 [info]  Selected "Outlet" in "Party Type Drop Down" drop down
+Dec 27,2016 16:36:07 [info]  Entered "A&B Film Enterprises Limited" in field 'Party Name'
+Dec 27,2016 16:36:07 [info]  Verified that Expected value :[Primary] is matched with Actual value :[Primary]
+Dec 27,2016 16:36:07 [info]  Clicked on the 'Contributor_ContributorSearch_Add_AddressLine1InputField' using JS Executor
+Dec 27,2016 16:36:08 [info]  Entered "AddressLine1" in field 'ConrtibutorsEdit_ConrtibutorsSearch_AddWindow_AddressLine1 Field'
+Dec 27,2016 16:36:08 [info]  Clicked on the 'Contributor_ContributorSearch_Add_AddressLine2InputField' using JS Executor
+Dec 27,2016 16:36:09 [info]  Entered "AddressLine2" in field 'ConrtibutorsEdit_ConrtibutorsSearch_AddWindow_AddressLine2 Field'
+Dec 27,2016 16:36:09 [info]  Clicked on the 'ConrtibutorsEdit_ConrtibutorsSearch_AddWindow_City' using JS Executor
+Dec 27,2016 16:36:09 [info]  Entered "City" in field 'ConrtibutorsEdit_ConrtibutorsSearch_AddWindow_City Field'
+Dec 27,2016 16:36:10 [info]  Selected "Canada" in "Country Input Field" drop down
+Dec 27,2016 16:36:10 [info]  Selected "Alberta" in "Contributor_ContributorSearch_Add_StateInputField" drop down
+Dec 27,2016 16:36:10 [info]  Clicked on the 'Contributor_ContributorSearch_Add_ZipCodeField' using JS Executor
+Dec 27,2016 16:36:10 [info]  Entered "12345" in field 'ConrtibutorsEdit_ConrtibutorsSearch_AddWindow_ZipCode Field'
+Dec 27,2016 16:36:10 [info]  Clicked on the ''Save Button' Contributor_ContributorSearch_Add_SaveGeneralInfoButton' using JS Executor
+Dec 27,2016 16:36:19 [info]  Verified that Expected value :[Changes have been saved successfully.] is matched with Actual value :[Changes have been saved successfully.]
+Dec 27,2016 16:36:20 [info]  Clicked on the 'close Add Party Window'
+Dec 27,2016 16:36:27 [info]  Entered "A&B Film Enterprises Limited" in field 'Search Party InputField'
+Dec 27,2016 16:36:27 [info]  Double clicked on 'RI Search Party Window Find Button'
+Dec 27,2016 16:36:37 [info]  Clicked on the 'Select Party'
+Dec 27,2016 16:36:38 [info]  Clicked on the 'Select Button'
+Dec 27,2016 16:36:41 [info]  Clicked on the 'Party Type Field' using JS Executor
+Dec 27,2016 16:36:42 [info]  Entered "Distributor" in field 'Party Party InputField'
+Dec 27,2016 16:36:42 [info]  Clicked on the 'Support Click '
+Dec 27,2016 16:36:46 [info]  Clicked on the 'Save Button' using JS Executor
+Dec 27,2016 16:37:00 [info]  Verify The data of CreatedDeal
+Dec 27,2016 16:37:00 [info]  Verified that Expected value :[AUT_Deal_TC6_1227201642347] is matched with Actual value :[AUT_Deal_TC6_1227201642347]
+Dec 27,2016 16:37:01 [info]  Clicked on the 'Modules'
+Dec 27,2016 16:37:12 [info]  Clicked on the 'RightsIN'
+Dec 27,2016 16:37:12 [info]  Clicked on the 'Search Icon' using JS Executor
+Dec 27,2016 16:37:12 [info]  Clicked on the 'Agreement Link' using JS Executor
+Dec 27,2016 16:37:20 [info]  Entered "AUT_Deal_TC6_1227201642347" in field 'AssetTitle'
+Dec 27,2016 16:37:22 [info]  Clicked on the 'Find Button' using JS Executor
+Dec 27,2016 16:37:30 [info]  Moved Mouse over 'First Asset in the Searched Asset'
+Dec 27,2016 16:37:30 [info]  Clicked on the 'First Asset in the Searched Asset'
+Dec 27,2016 16:37:33 [info]  Clicked on the 'View Asset' using JS Executor
+Dec 27,2016 16:37:44 [info]  Verified that Expected value :[AUT_Deal_TC6_1227201642347] is matched with Actual value :[AUT_Deal_TC6_1227201642347]
+Dec 27,2016 16:37:44 [info]  Clicked on the 'Navigator' using JS Executor
+Dec 27,2016 16:37:59 [info]  Clicked on the 'Deal'
+Dec 27,2016 16:38:00 [info]  Double clicked on 'Associate With Exiting Asset'
+Dec 27,2016 16:38:02 [info]  Clicked on the 'Asset Status'
+Dec 27,2016 16:38:02 [info]  Clicked on the 'Asset tile' using JS Executor
+Dec 27,2016 16:38:04 [info]  Entered "AUT_AssetSeries_TC6_1227201642347" in field 'Asset title'
+Dec 27,2016 16:38:04 [info]  =====BUG ID======: 20309
+Dec 27,2016 16:38:04 [info]  Clicked on the 'Display Season checkBox' using JS Executor
+Dec 27,2016 16:38:04 [info]  Clicked on the 'Search Button' using JS Executor
+Dec 27,2016 16:39:56 [info]  Clicked on the 'Toggle'
+Dec 27,2016 16:40:00 [info]  Double clicked on 'Searched Asset'
+Dec 27,2016 16:40:16 [info]  Clicked on the 'Ok Button'
+Dec 27,2016 16:40:22 [info]  Test 'createData' PASSED
+Dec 27,2016 16:40:24 [info]  Closed the Browser
+Dec 27,2016 16:48:44 [info]  ********************Started Executiong the Test Suite at 16:48:44******************
+Dec 27,2016 16:48:44 [info]  Client: ASTRO
+Dec 27,2016 16:48:44 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Dec 27,2016 16:48:44 [info]  *********************Started Executing 'createData' Test Case*********************
+Dec 27,2016 16:48:54 [info]  Client: ASTRO
+Dec 27,2016 16:48:54 [info]  URL: http://rlv2wb59:81/login.aspx
+Dec 27,2016 16:48:54 [info]  UserName: admin
+Dec 27,2016 16:48:54 [info]  Password: admin
+Dec 27,2016 16:49:02 [info]  Entered "admin" in field 'User Name'
+Dec 27,2016 16:49:02 [info]  Clicked on the 'Temporary Check Box'
+Dec 27,2016 16:49:03 [info]  Entered "admin" in field 'Password'
+Dec 27,2016 16:49:03 [info]  Clicked on the 'LoginButton'
+Dec 27,2016 16:49:09 [info]  AUT_AssetSeries_TC1_1227201644844
+Dec 27,2016 16:49:09 [info]  AUT_AssetSeries_TC6_1227201644844
+Dec 27,2016 16:49:10 [info]  ************************Started Creating Asset of Type: Program - Series************************
+Dec 27,2016 16:49:20 [info]  ====Failed==== " Could not find the Frame: //div[@clientid='RL_SplitterPane_Navigation']
+Dec 27,2016 16:49:22 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\27\FrameSwitchingFailed0_CheckpointFailure_12-27-2016 4-49-20 PM.jpg
+Dec 27,2016 16:49:22 [info]  Unable to find element with xpath == //div[@clientid='RL_SplitterPane_Navigation'] (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.08 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: '9P4G6BS', ip: '10.10.22.71', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=true, ie.forceCreateProcessApi=false, pageLoadStrategy=normal, ie.usePerProcessProxy=false, ignoreZoomSetting=false, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=false, browserName=internet explorer, initialBrowserUrl=http://localhost:23759/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=false, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: f03bc96e-6855-4c72-821e-47c4a0ead2ed
+*** Element info: {Using=xpath, value=//div[@clientid='RL_SplitterPane_Navigation']}
+Dec 27,2016 16:49:33 [info]  ====Failed==== " Could not find the Frame: //div[@clientid='RL_SplitterPane_Navigation']
+Dec 27,2016 16:49:35 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\27\FrameSwitchingFailed1_CheckpointFailure_12-27-2016 4-49-33 PM.jpg
+Dec 27,2016 16:49:35 [info]  Unable to find element with xpath == //div[@clientid='RL_SplitterPane_Navigation'] (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.03 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: '9P4G6BS', ip: '10.10.22.71', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=true, ie.forceCreateProcessApi=false, pageLoadStrategy=normal, ie.usePerProcessProxy=false, ignoreZoomSetting=false, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=false, browserName=internet explorer, initialBrowserUrl=http://localhost:23759/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=false, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: f03bc96e-6855-4c72-821e-47c4a0ead2ed
+*** Element info: {Using=xpath, value=//div[@clientid='RL_SplitterPane_Navigation']}
+Dec 27,2016 16:49:48 [info]  ====Failed==== "MODULE" field is not present'
+Dec 27,2016 16:49:51 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\27\MODULE_CheckpointFailure_12-27-2016 4-49-48 PM.jpg
+Dec 27,2016 16:50:04 [info]  ====Failed==== "Asset Maintenance" field is not present'
+Dec 27,2016 16:50:07 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\27\Asset Maintenance_CheckpointFailure_12-27-2016 4-50-04 PM.jpg
+Dec 27,2016 16:50:33 [info]  ====Failed==== " Could not find the Frame: //div[@clientid='RL_SplitterPane_Content']
+Dec 27,2016 16:50:35 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\27\FrameSwitchingFailed2_CheckpointFailure_12-27-2016 4-50-33 PM.jpg
+Dec 27,2016 16:50:35 [info]  Unable to find element with xpath == //div[@clientid='RL_SplitterPane_Content'] (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.06 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: '9P4G6BS', ip: '10.10.22.71', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=true, ie.forceCreateProcessApi=false, pageLoadStrategy=normal, ie.usePerProcessProxy=false, ignoreZoomSetting=false, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=false, browserName=internet explorer, initialBrowserUrl=http://localhost:23759/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=false, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: f03bc96e-6855-4c72-821e-47c4a0ead2ed
+*** Element info: {Using=xpath, value=//div[@clientid='RL_SplitterPane_Content']}
+Dec 27,2016 16:50:46 [info]  ====Failed==== " Could not find the Frame: //div[@clientid='RL_SplitterPane_Content']
+Dec 27,2016 16:50:48 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\27\FrameSwitchingFailed3_CheckpointFailure_12-27-2016 4-50-46 PM.jpg
+Dec 27,2016 16:50:48 [info]  Unable to find element with xpath == //div[@clientid='RL_SplitterPane_Content'] (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.11 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: '9P4G6BS', ip: '10.10.22.71', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=true, ie.forceCreateProcessApi=false, pageLoadStrategy=normal, ie.usePerProcessProxy=false, ignoreZoomSetting=false, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=false, browserName=internet explorer, initialBrowserUrl=http://localhost:23759/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=false, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: f03bc96e-6855-4c72-821e-47c4a0ead2ed
+*** Element info: {Using=xpath, value=//div[@clientid='RL_SplitterPane_Content']}
+Dec 27,2016 16:50:58 [info]  ====Failed==== "New Button" field is not present'
+Dec 27,2016 16:51:01 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\27\New Button_CheckpointFailure_12-27-2016 4-50-58 PM.jpg
+Dec 27,2016 16:51:11 [info]  ====Failed==== "Program" field is not present'
+Dec 27,2016 16:51:13 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\27\Program_CheckpointFailure_12-27-2016 4-51-11 PM.jpg
+Dec 27,2016 16:51:31 [info]  ====Failed==== " Could not find the Frame: //div[@clientid='RL_SplitterPane_Content']
+Dec 27,2016 16:51:34 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\27\FrameSwitchingFailed4_CheckpointFailure_12-27-2016 4-51-31 PM.jpg
+Dec 27,2016 16:51:34 [info]  Unable to find element with xpath == //div[@clientid='RL_SplitterPane_Content'] (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.02 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: '9P4G6BS', ip: '10.10.22.71', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=true, ie.forceCreateProcessApi=false, pageLoadStrategy=normal, ie.usePerProcessProxy=false, ignoreZoomSetting=false, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=false, browserName=internet explorer, initialBrowserUrl=http://localhost:23759/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=false, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: f03bc96e-6855-4c72-821e-47c4a0ead2ed
+*** Element info: {Using=xpath, value=//div[@clientid='RL_SplitterPane_Content']}
+Dec 27,2016 16:52:05 [info]  Test 'createData' FAILED
+Dec 27,2016 16:52:05 [info]  2
+Dec 27,2016 16:52:08 [info]  Test Case :createData's Screenshot of Failure Page: C:\Screenshots\Dec2016\\27\createData_12-27-2016 4-52-05 PM.jpg
+Dec 27,2016 16:52:09 [info]  Closed the Browser

@@ -1,0 +1,1109 @@
+Dec 09,2016 11:09:10 [info]  ********************Started Executiong the Test Suite at 11:09:10******************
+Dec 09,2016 11:09:10 [info]  Client: AMCN
+Dec 09,2016 11:09:10 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Dec 09,2016 11:09:10 [info]  *********************Started Executing 'TC4_SelectMediaRow_WhileDefiningExhRights' Test Case*********************
+Dec 09,2016 11:09:28 [info]  Client: AMCN
+Dec 09,2016 11:09:28 [info]  URL: http://rlv2wb79/login.aspx
+Dec 09,2016 11:09:28 [info]  UserName: automation
+Dec 09,2016 11:09:28 [info]  Password: automation
+Dec 09,2016 11:09:29 [info]  Entered "automation" in field 'User Name'
+Dec 09,2016 11:09:29 [info]  Clicked on the 'Temporary Check Box'
+Dec 09,2016 11:09:30 [info]  Entered "automation" in field 'Password'
+Dec 09,2016 11:09:41 [info]  Clicked on the 'LoginButton'
+Dec 09,2016 11:09:47 [info]  Double clicked on 'AUT_Deal_TC1_1207201624633Deal'
+Dec 09,2016 11:09:56 [info]  Clicked on the 'Exhibition Rights TAB'
+Dec 09,2016 11:10:00 [info]  Clicked on the ''Edit' Button at Media Rights TAB' using JS Executor
+Dec 09,2016 11:10:00 [info]  
+Dec 09,2016 11:10:00 [info]  Add Button >> Verify Media Rights's rows >> verify Select Check Box is shown >> Verify Buttons
+Dec 09,2016 11:10:03 [info]  Clicked on the 'Add Button'
+Dec 09,2016 11:10:09 [info]  Clicked on the 'Select Check Box'
+Dec 09,2016 11:10:09 [info]  Clicked on the 'Add Button at Media rights Pop up Window'
+Dec 09,2016 11:10:09 [info]  
+Dec 09,2016 11:10:09 [info]  From Manual Test Step : TC_RI_EX_040
+Dec 09,2016 11:10:09 [info]  Exhibition Rights Network Dialog Window
+Dec 09,2016 11:10:13 [info]  Clicked on the 'Add Exhibition'
+Dec 09,2016 11:10:13 [info]  Clicked on the 'Add Exhibition Drop Down'
+Dec 09,2016 11:10:13 [info]  Verify The data of Same Network
+Dec 09,2016 11:10:13 [info]  Verified that Expected value :[Same Network] is matched with Actual value :[Same Network]
+Dec 09,2016 11:10:13 [info]  Verify The data of Across Networks
+Dec 09,2016 11:10:13 [info]  Verified that Expected value :[Across Networks] is matched with Actual value :[Across Networks]
+Dec 09,2016 11:10:13 [info]  Clicked on the 'Same Network in Add Exhibition field'
+Dec 09,2016 11:10:13 [info]  Verify The data of Add Exhibition
+Dec 09,2016 11:10:13 [info]  Verified that Expected value :[Same Network] is matched with Actual value :[Same Network]
+Dec 09,2016 11:10:14 [info]  Clicked on the 'Network pop up icon'
+Dec 09,2016 11:10:14 [info]  ********Verify Labels at Exhibition Network window********
+Dec 09,2016 11:10:25 [info]  ====Failed===="" is not Present
+Dec 09,2016 11:10:26 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\09\_CheckpointFailure_12-09-2016 11-10-25 AM.jpg
+Dec 09,2016 11:10:26 [info]  Verify The data of Media Type
+Dec 09,2016 11:10:26 [info]  Verified that Expected value :[Media Type] is matched with Actual value :[Media Type]
+Dec 09,2016 11:10:26 [info]  Verify The data of Network Type
+Dec 09,2016 11:10:26 [info]  Verified that Expected value :[Network Type] is matched with Actual value :[Network Type]
+Dec 09,2016 11:10:26 [info]  Verify The data of User-Defined
+Dec 09,2016 11:10:26 [info]  Verified that Expected value :[User-Defined] is matched with Actual value :[User-Defined]
+Dec 09,2016 11:10:26 [info]  Verify The data of User-Defined Network
+Dec 09,2016 11:10:26 [info]  Verified that Expected value :[User-Defined Network] is matched with Actual value :[User-Defined Network]
+Dec 09,2016 11:10:26 [info]  Verify The data of Exhib. Network
+Dec 09,2016 11:10:26 [info]  Verified that Expected value :[Exhib. Network] is matched with Actual value :[Exhib. Network]
+Dec 09,2016 11:10:26 [info]  Verify The data of Outlet #
+Dec 09,2016 11:10:26 [info]  Verified that Expected value :[Outlet #] is matched with Actual value :[Outlet #]
+Dec 09,2016 11:10:26 [info]  ********Verify Buttons at Exhibition Network window********
+Dec 09,2016 11:10:26 [info]  Verify The data of Deselect All
+Dec 09,2016 11:10:26 [info]  Verified that Expected value :[Deselect All] is matched with Actual value :[Deselect All]
+Dec 09,2016 11:10:26 [info]  Verify The data of Select All
+Dec 09,2016 11:10:26 [info]  ====Failed==== Expected value is:[Select All] but Actual value is[Deselect All]. Please check the screenshot with name: Select Allfor more details
+Dec 09,2016 11:10:26 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\09\Select All_CheckpointFailure_12-09-2016 11-10-26 AM.jpg
+Dec 09,2016 11:10:27 [info]  Verify The data of OK
+Dec 09,2016 11:10:27 [info]  Verified that Expected value :[OK] is matched with Actual value :[OK]
+Dec 09,2016 11:10:27 [info]  Verify The data of Cancel
+Dec 09,2016 11:10:27 [info]  Verified that Expected value :[Cancel] is matched with Actual value :[Cancel]
+Dec 09,2016 11:10:27 [info]  Test 'TC4_SelectMediaRow_WhileDefiningExhRights' PASSED
+Dec 09,2016 11:10:29 [info]  Closed the Browser
+Dec 09,2016 11:14:00 [info]  ********************Started Executiong the Test Suite at 11:14:00******************
+Dec 09,2016 11:14:00 [info]  Client: AMCN
+Dec 09,2016 11:14:00 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Dec 09,2016 11:14:00 [info]  *********************Started Executing 'TC4_SelectMediaRow_WhileDefiningExhRights' Test Case*********************
+Dec 09,2016 11:14:12 [info]  Client: AMCN
+Dec 09,2016 11:14:12 [info]  URL: http://rlv2wb79/login.aspx
+Dec 09,2016 11:14:12 [info]  UserName: automation
+Dec 09,2016 11:14:12 [info]  Password: automation
+Dec 09,2016 11:14:13 [info]  Entered "automation" in field 'User Name'
+Dec 09,2016 11:14:13 [info]  Clicked on the 'Temporary Check Box'
+Dec 09,2016 11:14:13 [info]  Entered "automation" in field 'Password'
+Dec 09,2016 11:14:21 [info]  Clicked on the 'LoginButton'
+Dec 09,2016 11:14:27 [info]  Double clicked on 'AUT_Deal_TC1_1207201624633Deal'
+Dec 09,2016 11:14:35 [info]  Clicked on the 'Exhibition Rights TAB'
+Dec 09,2016 11:14:38 [info]  Clicked on the ''Edit' Button at Media Rights TAB' using JS Executor
+Dec 09,2016 11:14:38 [info]  
+Dec 09,2016 11:14:38 [info]  Add Button >> Verify Media Rights's rows >> verify Select Check Box is shown >> Verify Buttons
+Dec 09,2016 11:14:40 [info]  Clicked on the 'Add Button'
+Dec 09,2016 11:14:46 [info]  Clicked on the 'Select Check Box'
+Dec 09,2016 11:14:47 [info]  Clicked on the 'Add Button at Media rights Pop up Window'
+Dec 09,2016 11:14:47 [info]  
+Dec 09,2016 11:14:47 [info]  From Manual Test Step : TC_RI_EX_040
+Dec 09,2016 11:14:47 [info]  Exhibition Rights Network Dialog Window
+Dec 09,2016 11:14:50 [info]  Clicked on the 'Add Exhibition'
+Dec 09,2016 11:14:50 [info]  Clicked on the 'Add Exhibition Drop Down'
+Dec 09,2016 11:14:50 [info]  Verify The data of Same Network
+Dec 09,2016 11:14:50 [info]  Verified that Expected value :[Same Network] is matched with Actual value :[Same Network]
+Dec 09,2016 11:14:50 [info]  Verify The data of Across Networks
+Dec 09,2016 11:14:50 [info]  Verified that Expected value :[Across Networks] is matched with Actual value :[Across Networks]
+Dec 09,2016 11:14:50 [info]  Clicked on the 'Same Network in Add Exhibition field'
+Dec 09,2016 11:14:50 [info]  Verify The data of Add Exhibition
+Dec 09,2016 11:14:50 [info]  Verified that Expected value :[Same Network] is matched with Actual value :[Same Network]
+Dec 09,2016 11:14:51 [info]  Clicked on the 'Network pop up icon'
+Dec 09,2016 11:14:51 [info]  ********Verify Labels at Exhibition Network window********
+Dec 09,2016 11:14:52 [info]  Verify The data of AppliesTo
+Dec 09,2016 11:14:52 [info]  Verified that Expected value :[AppliesTo] is matched with Actual value :[
+                    AppliesTo: All
+                ]
+Dec 09,2016 11:14:52 [info]  Verify The data of Media Type
+Dec 09,2016 11:14:52 [info]  Verified that Expected value :[Media Type] is matched with Actual value :[Media Type]
+Dec 09,2016 11:14:52 [info]  Verify The data of Network Type
+Dec 09,2016 11:14:52 [info]  Verified that Expected value :[Network Type] is matched with Actual value :[Network Type]
+Dec 09,2016 11:14:52 [info]  Verify The data of User-Defined
+Dec 09,2016 11:14:52 [info]  Verified that Expected value :[User-Defined] is matched with Actual value :[User-Defined]
+Dec 09,2016 11:14:52 [info]  Verify The data of User-Defined Network
+Dec 09,2016 11:14:52 [info]  Verified that Expected value :[User-Defined Network] is matched with Actual value :[User-Defined Network]
+Dec 09,2016 11:14:52 [info]  Verify The data of Exhib. Network
+Dec 09,2016 11:14:52 [info]  Verified that Expected value :[Exhib. Network] is matched with Actual value :[Exhib. Network]
+Dec 09,2016 11:14:52 [info]  Verify The data of Outlet #
+Dec 09,2016 11:14:52 [info]  Verified that Expected value :[Outlet #] is matched with Actual value :[Outlet #]
+Dec 09,2016 11:14:52 [info]  ********Verify Buttons at Exhibition Network window********
+Dec 09,2016 11:14:52 [info]  Verify The data of Deselect All
+Dec 09,2016 11:14:52 [info]  Verified that Expected value :[Deselect All] is matched with Actual value :[Deselect All]
+Dec 09,2016 11:14:53 [info]  Verify The data of Select All
+Dec 09,2016 11:14:53 [info]  Verified that Expected value :[Select All] is matched with Actual value :[Select All]
+Dec 09,2016 11:14:53 [info]  Verify The data of OK
+Dec 09,2016 11:14:53 [info]  Verified that Expected value :[OK] is matched with Actual value :[OK]
+Dec 09,2016 11:14:53 [info]  Verify The data of Cancel
+Dec 09,2016 11:14:53 [info]  Verified that Expected value :[Cancel] is matched with Actual value :[Cancel]
+Dec 09,2016 11:14:53 [info]  Test 'TC4_SelectMediaRow_WhileDefiningExhRights' PASSED
+Dec 09,2016 11:14:54 [info]  Closed the Browser
+Dec 09,2016 12:40:46 [info]  ********************Started Executiong the Test Suite at 12:40:46******************
+Dec 09,2016 12:40:46 [info]  Client: AMCN
+Dec 09,2016 12:40:46 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Dec 09,2016 12:40:46 [info]  *********************Started Executing 'TC4_SelectMediaRow_WhileDefiningExhRights' Test Case*********************
+Dec 09,2016 12:40:59 [info]  Client: AMCN
+Dec 09,2016 12:40:59 [info]  URL: http://rlv2wb79/login.aspx
+Dec 09,2016 12:40:59 [info]  UserName: automation
+Dec 09,2016 12:40:59 [info]  Password: automation
+Dec 09,2016 12:40:59 [info]  Entered "automation" in field 'User Name'
+Dec 09,2016 12:40:59 [info]  Clicked on the 'Temporary Check Box'
+Dec 09,2016 12:40:59 [info]  Entered "automation" in field 'Password'
+Dec 09,2016 12:41:07 [info]  Clicked on the 'LoginButton'
+Dec 09,2016 12:41:13 [info]  Double clicked on 'AUT_Deal_TC1_1207201624633Deal'
+Dec 09,2016 12:41:21 [info]  Clicked on the 'Exhibition Rights TAB'
+Dec 09,2016 12:41:25 [info]  Clicked on the ''Edit' Button at Media Rights TAB' using JS Executor
+Dec 09,2016 12:41:25 [info]  
+Dec 09,2016 12:41:25 [info]  Add Button >> Verify Media Rights's rows >> verify Select Check Box is shown >> Verify Buttons
+Dec 09,2016 12:41:28 [info]  Clicked on the 'Add Button'
+Dec 09,2016 12:41:35 [info]  Clicked on the 'Select Check Box'
+Dec 09,2016 12:41:36 [info]  Clicked on the 'Add Button at Media rights Pop up Window'
+Dec 09,2016 12:41:36 [info]  
+Dec 09,2016 12:41:36 [info]  From Manual Test Step : TC_RI_EX_040
+Dec 09,2016 12:41:36 [info]  Exhibition Rights Network Dialog Window
+Dec 09,2016 12:41:56 [info]  ====Failed==== "Network pop up icon" field is not present'
+Dec 09,2016 12:41:56 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\09\Network pop up icon_CheckpointFailure_12-09-2016 12-41-56 PM.jpg
+Dec 09,2016 12:42:06 [info]  ====Failed==== " Could not find the Frame: div[id*='WebDialogWindow2'][style*=visible]
+Dec 09,2016 12:42:07 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\09\FrameSwitchingFailed0_CheckpointFailure_12-09-2016 12-42-06 PM.jpg
+Dec 09,2016 12:42:07 [info]  ********Verify Labels at Exhibition Network window********
+Dec 09,2016 12:42:17 [info]  Verify The data of AppliesTo
+Dec 09,2016 12:42:17 [info]  ====Failed==== Expected value is:[AppliesTo] but Actual value is[]. Please check the screenshot with name: AppliesTofor more details
+Dec 09,2016 12:42:17 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\09\AppliesTo_CheckpointFailure_12-09-2016 12-42-17 PM.jpg
+Dec 09,2016 12:42:27 [info]  Verify The data of Media Type
+Dec 09,2016 12:42:27 [info]  ====Failed==== Expected value is:[Media Type] but Actual value is[]. Please check the screenshot with name: Media Typefor more details
+Dec 09,2016 12:42:27 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\09\Media Type_CheckpointFailure_12-09-2016 12-42-27 PM.jpg
+Dec 09,2016 12:42:37 [info]  Verify The data of Network Type
+Dec 09,2016 12:42:37 [info]  ====Failed==== Expected value is:[Network Type] but Actual value is[]. Please check the screenshot with name: Network Typefor more details
+Dec 09,2016 12:42:38 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\09\Network Type_CheckpointFailure_12-09-2016 12-42-37 PM.jpg
+Dec 09,2016 12:43:27 [info]  ********************Started Executiong the Test Suite at 12:43:27******************
+Dec 09,2016 12:43:27 [info]  Client: AMCN
+Dec 09,2016 12:43:27 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Dec 09,2016 12:43:27 [info]  *********************Started Executing 'TC4_SelectMediaRow_WhileDefiningExhRights' Test Case*********************
+Dec 09,2016 12:43:39 [info]  Client: AMCN
+Dec 09,2016 12:43:40 [info]  URL: http://rlv2wb79/login.aspx
+Dec 09,2016 12:43:40 [info]  UserName: automation
+Dec 09,2016 12:43:40 [info]  Password: automation
+Dec 09,2016 12:43:40 [info]  Entered "automation" in field 'User Name'
+Dec 09,2016 12:43:40 [info]  Clicked on the 'Temporary Check Box'
+Dec 09,2016 12:43:40 [info]  Entered "automation" in field 'Password'
+Dec 09,2016 12:43:47 [info]  Clicked on the 'LoginButton'
+Dec 09,2016 12:43:54 [info]  Double clicked on 'AUT_Deal_TC1_1207201624633Deal'
+Dec 09,2016 12:44:01 [info]  Clicked on the 'Exhibition Rights TAB'
+Dec 09,2016 12:44:04 [info]  Clicked on the ''Edit' Button at Media Rights TAB' using JS Executor
+Dec 09,2016 12:44:04 [info]  
+Dec 09,2016 12:44:04 [info]  Add Button >> Verify Media Rights's rows >> verify Select Check Box is shown >> Verify Buttons
+Dec 09,2016 12:44:06 [info]  Clicked on the 'Add Button'
+Dec 09,2016 12:44:13 [info]  Clicked on the 'Select Check Box'
+Dec 09,2016 12:44:13 [info]  Clicked on the 'Add Button at Media rights Pop up Window'
+Dec 09,2016 12:44:13 [info]  
+Dec 09,2016 12:44:13 [info]  From Manual Test Step : TC_RI_EX_040
+Dec 09,2016 12:44:13 [info]  Exhibition Rights Network Dialog Window
+Dec 09,2016 12:44:16 [info]  Clicked on the 'Network pop up icon'
+Dec 09,2016 12:44:16 [info]  ********Verify Labels at Exhibition Network window********
+Dec 09,2016 12:44:17 [info]  Verify The data of AppliesTo
+Dec 09,2016 12:44:17 [info]  Verified that Expected value :[AppliesTo] is matched with Actual value :[
+                    AppliesTo: All
+                ]
+Dec 09,2016 12:44:17 [info]  Verify The data of Media Type
+Dec 09,2016 12:44:17 [info]  Verified that Expected value :[Media Type] is matched with Actual value :[Media Type]
+Dec 09,2016 12:44:17 [info]  Verify The data of Network Type
+Dec 09,2016 12:44:17 [info]  Verified that Expected value :[Network Type] is matched with Actual value :[Network Type]
+Dec 09,2016 12:44:17 [info]  Verify The data of User-Defined
+Dec 09,2016 12:44:17 [info]  Verified that Expected value :[User-Defined] is matched with Actual value :[User-Defined]
+Dec 09,2016 12:44:17 [info]  Verify The data of User-Defined Network
+Dec 09,2016 12:44:17 [info]  Verified that Expected value :[User-Defined Network] is matched with Actual value :[User-Defined Network]
+Dec 09,2016 12:44:18 [info]  Verify The data of Exhib. Network
+Dec 09,2016 12:44:18 [info]  Verified that Expected value :[Exhib. Network] is matched with Actual value :[Exhib. Network]
+Dec 09,2016 12:44:18 [info]  Verify The data of Outlet #
+Dec 09,2016 12:44:18 [info]  Verified that Expected value :[Outlet #] is matched with Actual value :[Outlet #]
+Dec 09,2016 12:44:18 [info]  ********Verify Buttons at Exhibition Network window********
+Dec 09,2016 12:44:18 [info]  Verify The data of Deselect All
+Dec 09,2016 12:44:18 [info]  Verified that Expected value :[Deselect All] is matched with Actual value :[Deselect All]
+Dec 09,2016 12:44:18 [info]  Verify The data of Select All
+Dec 09,2016 12:44:18 [info]  Verified that Expected value :[Select All] is matched with Actual value :[Select All]
+Dec 09,2016 12:44:18 [info]  Verify The data of OK
+Dec 09,2016 12:44:18 [info]  Verified that Expected value :[OK] is matched with Actual value :[OK]
+Dec 09,2016 12:44:18 [info]  Verify The data of Cancel
+Dec 09,2016 12:44:18 [info]  Verified that Expected value :[Cancel] is matched with Actual value :[Cancel]
+Dec 09,2016 12:44:28 [info]  
+Dec 09,2016 12:44:28 [info]  Appliest TO : All >> Verify Linear is default value in Media Type >> verify UserDefinedNetwork_input in disabled
+Dec 09,2016 12:44:28 [info]   >> UserDefined_Input field is disable
+Dec 09,2016 12:44:28 [info]   >> OK >> Validation msg >> Select Primaty in Network Type >> Verify Primary is shown Network Type
+Dec 09,2016 12:44:28 [info]   >> Check UserDefined_CheckBox >> Verify UserDefined_CheckBox is checked
+Dec 09,2016 12:44:28 [info]   >> UserDefined_Input field is enabled >> AND Exh Network becomes Disabled
+Dec 09,2016 12:44:48 [info]  Verify The data of AppliesTo
+Dec 09,2016 12:44:48 [info]  Verified that Expected value :[All] is matched with Actual value :[
+                    AppliesTo: All
+                ]
+Dec 09,2016 12:44:48 [info]  Verified that Expected value :[Linear Networks] is matched with Actual value :[Linear Networks]
+Dec 09,2016 12:44:48 [info]  Verify The data of User-Defined Network
+Dec 09,2016 12:44:48 [info]  ====Failed==== Expected value is:[disabled] but Actual value is[true]. Please check the screenshot with name: User-Defined Networkfor more details
+Dec 09,2016 12:44:49 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\09\User-Defined Network_CheckpointFailure_12-09-2016 12-44-48 PM.jpg
+Dec 09,2016 12:44:49 [info]  Clicked on the 'Ok button'
+Dec 09,2016 12:44:54 [info]  
+Dec 09,2016 12:44:54 [info]  Verify The data of Alert Message on clicking Ok Button
+Dec 09,2016 12:44:54 [info]  ====Failed==== Expected value is:[Please enter values for required (*) fields.] but Actual value is[Please enter either Number of Outlet or Exhibition Network.]. Please check the screenshot with name: Alert Message on clicking Ok Buttonfor more details
+Dec 09,2016 12:44:54 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\09\Alert Message on clicking Ok Button_CheckpointFailure_12-09-2016 12-44-54 PM.jpg
+Dec 09,2016 12:44:54 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Dec 09,2016 12:44:54 [info]  Selected "Primary" in "NetworkType_DropDown" drop down
+Dec 09,2016 12:44:54 [info]  Verified thatPrimary is selected in drop down NetworkType_DropDown
+Dec 09,2016 12:44:55 [info]  Clicked on the 'UserDefined_CheckBox'
+Dec 09,2016 12:44:55 [info]  Verify The data of UserDefined_CheckBox
+Dec 09,2016 12:44:55 [info]  ====Failed==== Expected value is:[checked] but Actual value is[true]. Please check the screenshot with name: UserDefined_CheckBoxfor more details
+Dec 09,2016 12:44:55 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\09\UserDefined_CheckBox_CheckpointFailure_12-09-2016 12-44-55 PM.jpg
+Dec 09,2016 12:44:55 [info]  Verify The data of Deselect All
+Dec 09,2016 12:44:55 [info]  ====Failed==== Expected value is:[disabled] but Actual value is[true]. Please check the screenshot with name: Deselect Allfor more details
+Dec 09,2016 12:44:56 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\09\Deselect All_CheckpointFailure_12-09-2016 12-44-55 PM.jpg
+Dec 09,2016 12:44:56 [info]  Verify The data of User-Defined Network
+Dec 09,2016 12:44:56 [info]  ====Failed===="User-Defined Network" is not Present
+Dec 09,2016 12:44:56 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\09\User-Defined Network_CheckpointFailure_12-09-2016 12-44-56 PM.jpg
+Dec 09,2016 12:44:56 [info]  Test 'TC4_SelectMediaRow_WhileDefiningExhRights' PASSED
+Dec 09,2016 12:44:58 [info]  Closed the Browser
+Dec 09,2016 15:52:11 [info]  ********************Started Executiong the Test Suite at 15:52:11******************
+Dec 09,2016 15:52:11 [info]  Client: AMCN
+Dec 09,2016 15:52:11 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Dec 09,2016 15:52:11 [info]  *********************Started Executing 'TC4_SelectMediaRow_WhileDefiningExhRights' Test Case*********************
+Dec 09,2016 15:52:26 [info]  Client: AMCN
+Dec 09,2016 15:52:26 [info]  URL: http://rlv2wb79/login.aspx
+Dec 09,2016 15:52:26 [info]  UserName: automation
+Dec 09,2016 15:52:26 [info]  Password: automation
+Dec 09,2016 15:52:26 [info]  Entered "automation" in field 'User Name'
+Dec 09,2016 15:52:26 [info]  Clicked on the 'Temporary Check Box'
+Dec 09,2016 15:52:26 [info]  Entered "automation" in field 'Password'
+Dec 09,2016 15:52:35 [info]  Clicked on the 'LoginButton'
+Dec 09,2016 15:52:41 [info]  Double clicked on 'AUT_Deal_TC1_1207201624633Deal'
+Dec 09,2016 15:52:48 [info]  Clicked on the 'Exhibition Rights TAB'
+Dec 09,2016 15:52:51 [info]  Clicked on the ''Edit' Button at Media Rights TAB' using JS Executor
+Dec 09,2016 15:52:51 [info]  
+Dec 09,2016 15:52:51 [info]  Add Button >> Verify Media Rights's rows >> verify Select Check Box is shown >> Verify Buttons
+Dec 09,2016 15:52:54 [info]  Clicked on the 'Add Button'
+Dec 09,2016 15:53:00 [info]  Clicked on the 'Select Check Box'
+Dec 09,2016 15:53:00 [info]  Clicked on the 'Add Button at Media rights Pop up Window'
+Dec 09,2016 15:53:00 [info]  
+Dec 09,2016 15:53:00 [info]  From Manual Test Step : TC_RI_EX_040
+Dec 09,2016 15:53:00 [info]  Exhibition Rights Network Dialog Window
+Dec 09,2016 15:53:04 [info]  Clicked on the 'Network pop up icon'
+Dec 09,2016 15:53:04 [info]  ********Verify Labels at Exhibition Network window********
+Dec 09,2016 15:53:05 [info]  Verify The data of AppliesTo
+Dec 09,2016 15:53:05 [info]  Verified that Expected value :[AppliesTo] is matched with Actual value :[
+                    AppliesTo: All
+                ]
+Dec 09,2016 15:53:05 [info]  Verify The data of Media Type
+Dec 09,2016 15:53:05 [info]  Verified that Expected value :[Media Type] is matched with Actual value :[Media Type]
+Dec 09,2016 15:53:05 [info]  Verify The data of Network Type
+Dec 09,2016 15:53:05 [info]  Verified that Expected value :[Network Type] is matched with Actual value :[Network Type]
+Dec 09,2016 15:53:05 [info]  Verify The data of User-Defined
+Dec 09,2016 15:53:05 [info]  Verified that Expected value :[User-Defined] is matched with Actual value :[User-Defined]
+Dec 09,2016 15:53:05 [info]  Verify The data of User-Defined Network
+Dec 09,2016 15:53:05 [info]  Verified that Expected value :[User-Defined Network] is matched with Actual value :[User-Defined Network]
+Dec 09,2016 15:53:05 [info]  Verify The data of Exhib. Network
+Dec 09,2016 15:53:05 [info]  Verified that Expected value :[Exhib. Network] is matched with Actual value :[Exhib. Network]
+Dec 09,2016 15:53:05 [info]  Verify The data of Outlet #
+Dec 09,2016 15:53:05 [info]  Verified that Expected value :[Outlet #] is matched with Actual value :[Outlet #]
+Dec 09,2016 15:53:05 [info]  ********Verify Buttons at Exhibition Network window********
+Dec 09,2016 15:53:05 [info]  Verify The data of Deselect All
+Dec 09,2016 15:53:05 [info]  Verified that Expected value :[Deselect All] is matched with Actual value :[Deselect All]
+Dec 09,2016 15:53:05 [info]  Verify The data of Select All
+Dec 09,2016 15:53:05 [info]  Verified that Expected value :[Select All] is matched with Actual value :[Select All]
+Dec 09,2016 15:53:05 [info]  Verify The data of OK
+Dec 09,2016 15:53:05 [info]  Verified that Expected value :[OK] is matched with Actual value :[OK]
+Dec 09,2016 15:53:06 [info]  Verify The data of Cancel
+Dec 09,2016 15:53:06 [info]  Verified that Expected value :[Cancel] is matched with Actual value :[Cancel]
+Dec 09,2016 15:53:18 [info]  
+Dec 09,2016 15:53:18 [info]  Appliest TO : All >> Verify Linear is default value in Media Type >> verify UserDefinedNetwork_input in disabled
+Dec 09,2016 15:53:18 [info]   >> UserDefined_Input field is disable
+Dec 09,2016 15:53:18 [info]   >> OK >> Validation msg >> Select Primaty in Network Type >> Verify Primary is shown Network Type
+Dec 09,2016 15:53:18 [info]   >> Check UserDefined_CheckBox >> Verify UserDefined_CheckBox is checked
+Dec 09,2016 15:53:18 [info]   >> UserDefined_Input field is enabled >> AND Exh Network becomes Disabled
+Dec 09,2016 15:53:21 [info]  Verify The data of AppliesTo
+Dec 09,2016 15:53:21 [info]  Verified that Expected value :[All] is matched with Actual value :[
+                    AppliesTo: All
+                ]
+Dec 09,2016 15:53:22 [info]  Verified that Expected value :[Linear Networks] is matched with Actual value :[Linear Networks]
+Dec 09,2016 15:53:22 [info]  Verify The data of User-Defined Network is disabled
+Dec 09,2016 15:53:22 [info]  Verified that Expected value :[true] is matched with Actual value :[true]
+Dec 09,2016 15:53:23 [info]  Clicked on the 'Ok button'
+Dec 09,2016 15:53:46 [info]  
+Dec 09,2016 15:53:47 [info]  Verify The data of Alert Message on clicking Ok Button
+Dec 09,2016 15:53:47 [info]  ====Failed==== Expected value is:[Please enter values for required (*) fields.] but Actual value is[Please enter either Number of Outlet or Exhibition Network.]. Please check the screenshot with name: Alert Message on clicking Ok Buttonfor more details
+Dec 09,2016 15:53:48 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\09\Alert Message on clicking Ok Button_CheckpointFailure_12-09-2016 3-53-47 PM.jpg
+Dec 09,2016 15:55:27 [info]  
+Dec 09,2016 15:55:27 [info]  Appliest TO : All >> Verify Linear is default value in Media Type >> verify UserDefinedNetwork_input in disabled
+Dec 09,2016 15:55:27 [info]   >> UserDefined_Input field is disable
+Dec 09,2016 15:55:27 [info]   >> OK >> Validation msg >> Select Primaty in Network Type >> Verify Primary is shown Network Type
+Dec 09,2016 15:55:27 [info]   >> Check UserDefined_CheckBox >> Verify UserDefined_CheckBox is checked
+Dec 09,2016 15:55:27 [info]   >> UserDefined_Input field is enabled >> AND Exh Network becomes Disabled
+Dec 09,2016 15:55:46 [info]  Verify The data of AppliesTo
+Dec 09,2016 15:55:46 [info]  Verified that Expected value :[All] is matched with Actual value :[
+                    AppliesTo: All
+                ]
+Dec 09,2016 15:55:46 [info]  Verified that Expected value :[Linear Networks] is matched with Actual value :[Linear Networks]
+Dec 09,2016 15:55:47 [info]  Verify The data of User-Defined Network is disabled
+Dec 09,2016 15:55:47 [info]  Verified that Expected value :[true] is matched with Actual value :[true]
+Dec 09,2016 15:55:48 [info]  Clicked on the 'Ok button'
+Dec 09,2016 15:55:53 [info]  
+Dec 09,2016 15:55:53 [info]  Verify The data of Alert Message on clicking Ok Button
+Dec 09,2016 15:55:53 [info]  Verified that Expected value :[Please enter either Number of Outlet or Exhibition Network.] is matched with Actual value :[Please enter either Number of Outlet or Exhibition Network.]
+Dec 09,2016 15:55:54 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Dec 09,2016 15:55:57 [info]  Selected "Primary" in "NetworkType_DropDown" drop down
+Dec 09,2016 15:55:58 [info]  Verified thatPrimary is selected in drop down NetworkType_DropDown
+Dec 09,2016 15:55:59 [info]  Clicked on the 'UserDefined_CheckBox'
+Dec 09,2016 15:56:00 [info]  Verify The data of UserDefined_CheckBox is checked
+Dec 09,2016 15:56:00 [info]  Verified that Expected value :[true] is matched with Actual value :[true]
+Dec 09,2016 15:56:01 [info]  Verify The data of Deselect All
+Dec 09,2016 15:56:01 [info]  Verified that Expected value :[true] is matched with Actual value :[true]
+Dec 09,2016 15:56:03 [info]  Clicked on the 'Ok button'
+Dec 09,2016 15:56:08 [info]  
+Dec 09,2016 15:56:09 [info]  Verify The data of Alert Message on clicking Ok Button
+Dec 09,2016 15:56:09 [info]  Verified that Expected value :[Please enter value for User-defined Network.] is matched with Actual value :[Please enter value for User-defined Network.]
+Dec 09,2016 15:56:10 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Dec 09,2016 15:56:12 [info]  Entered "Network1234" in field 'NetworkWindow_UserDefinedNetwork'
+Dec 09,2016 15:56:13 [info]  Clicked on the 'Ok button'
+Dec 09,2016 15:56:35 [info]  Verify The data of Exhibition Network
+Dec 09,2016 15:56:35 [info]  ====Failed==== Expected value is:[Network1234] but Actual value is[]. Please check the screenshot with name: Exhibition Networkfor more details
+Dec 09,2016 15:56:36 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\09\Exhibition Network_CheckpointFailure_12-09-2016 3-56-35 PM.jpg
+Dec 09,2016 15:57:03 [info]  
+Dec 09,2016 15:57:03 [info]  Appliest TO : All >> Verify Linear is default value in Media Type >> verify UserDefinedNetwork_input in disabled
+Dec 09,2016 15:57:03 [info]   >> UserDefined_Input field is disable
+Dec 09,2016 15:57:03 [info]   >> OK >> Validation msg >> Select Primaty in Network Type >> Verify Primary is shown Network Type
+Dec 09,2016 15:57:03 [info]   >> Check UserDefined_CheckBox >> Verify UserDefined_CheckBox is checked
+Dec 09,2016 15:57:03 [info]   >> UserDefined_Input field is enabled >> AND Exh Network becomes Disabled
+Dec 09,2016 15:57:03 [info]  Verify The data of AppliesTo
+Dec 09,2016 15:57:03 [info]  Verified that Expected value :[All] is matched with Actual value :[
+                    AppliesTo: All
+                ]
+Dec 09,2016 15:57:04 [info]  Verified that Expected value :[Linear Networks] is matched with Actual value :[Linear Networks]
+Dec 09,2016 15:57:04 [info]  Verify The data of User-Defined Network is disabled
+Dec 09,2016 15:57:04 [info]  Verified that Expected value :[true] is matched with Actual value :[true]
+Dec 09,2016 15:57:04 [info]  Clicked on the 'Ok button'
+Dec 09,2016 15:57:07 [info]  
+Dec 09,2016 15:57:07 [info]  Verify The data of Alert Message on clicking Ok Button
+Dec 09,2016 15:57:07 [info]  Verified that Expected value :[Please enter either Number of Outlet or Exhibition Network.] is matched with Actual value :[Please enter either Number of Outlet or Exhibition Network.]
+Dec 09,2016 15:57:07 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Dec 09,2016 15:57:07 [info]  Selected "Primary" in "NetworkType_DropDown" drop down
+Dec 09,2016 15:57:08 [info]  Verified thatPrimary is selected in drop down NetworkType_DropDown
+Dec 09,2016 15:57:08 [info]  Clicked on the 'UserDefined_CheckBox'
+Dec 09,2016 15:57:09 [info]  Verify The data of UserDefined_CheckBox is checked
+Dec 09,2016 15:57:09 [info]  Verified that Expected value :[true] is matched with Actual value :[true]
+Dec 09,2016 15:57:09 [info]  Verify The data of Deselect All
+Dec 09,2016 15:57:09 [info]  Verified that Expected value :[true] is matched with Actual value :[true]
+Dec 09,2016 15:57:09 [info]  Clicked on the 'Ok button'
+Dec 09,2016 15:57:12 [info]  
+Dec 09,2016 15:57:12 [info]  Verify The data of Alert Message on clicking Ok Button
+Dec 09,2016 15:57:12 [info]  Verified that Expected value :[Please enter value for User-defined Network.] is matched with Actual value :[Please enter value for User-defined Network.]
+Dec 09,2016 15:57:12 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Dec 09,2016 15:57:13 [info]  Entered "Network1234" in field 'NetworkWindow_UserDefinedNetwork'
+Dec 09,2016 15:57:13 [info]  Clicked on the 'Ok button'
+Dec 09,2016 15:57:18 [info]  Verify The data of Exhibition Network
+Dec 09,2016 15:57:18 [info]  Verified that Expected value :[Network1234] is matched with Actual value :[Network1234]
+Dec 09,2016 15:57:21 [info]  Clicked on the 'Network pop up icon'
+Dec 09,2016 15:57:23 [info]  Verify The data of UserDefined_CheckBox
+Dec 09,2016 15:57:23 [info]  Verified that Expected value :[true] is matched with Actual value :[true]
+Dec 09,2016 15:57:23 [info]  Verify The data of Deselect All
+Dec 09,2016 15:57:23 [info]  Verified that Expected value :[true] is matched with Actual value :[true]
+Dec 09,2016 15:57:24 [info]  Verified that Expected value :[Linear Networks] is matched with Actual value :[Linear Networks]
+Dec 09,2016 15:57:41 [info]  Verified thatPrimary is selected in drop down NetworkType_DropDown
+Dec 09,2016 15:57:42 [info]  Entered "10" in field 'NetworkWindow_OutLetNumber'
+Dec 09,2016 15:57:43 [info]  Clicked on the 'Ok button'
+Dec 09,2016 15:57:49 [info]  
+Dec 09,2016 15:57:49 [info]  Verify The data of Alert Message on clicking Ok Button
+Dec 09,2016 15:57:49 [info]  Verified that Expected value :[Please enter either Number of Outlet or Exhibition Network.] is matched with Actual value :[Please enter either Number of Outlet or Exhibition Network.]
+Dec 09,2016 15:57:50 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Dec 09,2016 15:57:51 [info]  Clicked on the 'UserDefined_CheckBox'
+Dec 09,2016 15:57:52 [info]  Verify The data of UserDefined_CheckBox
+Dec 09,2016 15:57:52 [info]  ====Failed===="UserDefined_CheckBox" is not Present
+Dec 09,2016 15:57:53 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\09\UserDefined_CheckBox_CheckpointFailure_12-09-2016 3-57-52 PM.jpg
+Dec 09,2016 15:57:53 [info]  Verify The data of User-Defined Network is disabled
+Dec 09,2016 15:57:53 [info]  Verified that Expected value :[true] is matched with Actual value :[true]
+Dec 09,2016 15:58:14 [info]  Verify The data of Exhibition Network
+Dec 09,2016 15:58:14 [info]  ====Failed==== Expected value is:[ Outlets: 10] but Actual value is[]. Please check the screenshot with name: Exhibition Networkfor more details
+Dec 09,2016 15:58:15 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\09\Exhibition Network_CheckpointFailure_12-09-2016 3-58-14 PM.jpg
+Dec 09,2016 15:58:17 [info]  Test 'TC4_SelectMediaRow_WhileDefiningExhRights' PASSED
+Dec 09,2016 15:58:19 [info]  Closed the Browser
+Dec 09,2016 16:00:23 [info]  ********************Started Executiong the Test Suite at 16:00:23******************
+Dec 09,2016 16:00:23 [info]  Client: AMCN
+Dec 09,2016 16:00:23 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Dec 09,2016 16:00:23 [info]  *********************Started Executing 'TC4_SelectMediaRow_WhileDefiningExhRights' Test Case*********************
+Dec 09,2016 16:00:36 [info]  Client: AMCN
+Dec 09,2016 16:00:36 [info]  URL: http://rlv2wb79/login.aspx
+Dec 09,2016 16:00:36 [info]  UserName: automation
+Dec 09,2016 16:00:36 [info]  Password: automation
+Dec 09,2016 16:00:36 [info]  Entered "automation" in field 'User Name'
+Dec 09,2016 16:00:36 [info]  Clicked on the 'Temporary Check Box'
+Dec 09,2016 16:00:37 [info]  Entered "automation" in field 'Password'
+Dec 09,2016 16:00:45 [info]  Clicked on the 'LoginButton'
+Dec 09,2016 16:00:51 [info]  Double clicked on 'AUT_Deal_TC1_1207201624633Deal'
+Dec 09,2016 16:00:58 [info]  Clicked on the 'Exhibition Rights TAB'
+Dec 09,2016 16:01:02 [info]  Clicked on the ''Edit' Button at Media Rights TAB' using JS Executor
+Dec 09,2016 16:01:02 [info]  
+Dec 09,2016 16:01:02 [info]  Add Button >> Verify Media Rights's rows >> verify Select Check Box is shown >> Verify Buttons
+Dec 09,2016 16:01:05 [info]  Clicked on the 'Add Button'
+Dec 09,2016 16:01:10 [info]  Clicked on the 'Select Check Box'
+Dec 09,2016 16:01:11 [info]  Clicked on the 'Add Button at Media rights Pop up Window'
+Dec 09,2016 16:01:11 [info]  
+Dec 09,2016 16:01:11 [info]  From Manual Test Step : TC_RI_EX_040
+Dec 09,2016 16:01:11 [info]  Exhibition Rights Network Dialog Window
+Dec 09,2016 16:01:14 [info]  Clicked on the 'Network pop up icon'
+Dec 09,2016 16:01:14 [info]  ********Verify Labels at Exhibition Network window********
+Dec 09,2016 16:01:15 [info]  Verify The data of AppliesTo
+Dec 09,2016 16:01:15 [info]  Verified that Expected value :[AppliesTo] is matched with Actual value :[
+                    AppliesTo: All
+                ]
+Dec 09,2016 16:01:15 [info]  Verify The data of Media Type
+Dec 09,2016 16:01:15 [info]  Verified that Expected value :[Media Type] is matched with Actual value :[Media Type]
+Dec 09,2016 16:01:15 [info]  Verify The data of Network Type
+Dec 09,2016 16:01:15 [info]  Verified that Expected value :[Network Type] is matched with Actual value :[Network Type]
+Dec 09,2016 16:01:15 [info]  Verify The data of User-Defined
+Dec 09,2016 16:01:15 [info]  Verified that Expected value :[User-Defined] is matched with Actual value :[User-Defined]
+Dec 09,2016 16:01:15 [info]  Verify The data of User-Defined Network
+Dec 09,2016 16:01:15 [info]  Verified that Expected value :[User-Defined Network] is matched with Actual value :[User-Defined Network]
+Dec 09,2016 16:01:15 [info]  Verify The data of Exhib. Network
+Dec 09,2016 16:01:15 [info]  Verified that Expected value :[Exhib. Network] is matched with Actual value :[Exhib. Network]
+Dec 09,2016 16:01:15 [info]  Verify The data of Outlet #
+Dec 09,2016 16:01:15 [info]  Verified that Expected value :[Outlet #] is matched with Actual value :[Outlet #]
+Dec 09,2016 16:01:15 [info]  ********Verify Buttons at Exhibition Network window********
+Dec 09,2016 16:01:15 [info]  Verify The data of Deselect All
+Dec 09,2016 16:01:15 [info]  Verified that Expected value :[Deselect All] is matched with Actual value :[Deselect All]
+Dec 09,2016 16:01:15 [info]  Verify The data of Select All
+Dec 09,2016 16:01:15 [info]  Verified that Expected value :[Select All] is matched with Actual value :[Select All]
+Dec 09,2016 16:01:15 [info]  Verify The data of OK
+Dec 09,2016 16:01:15 [info]  Verified that Expected value :[OK] is matched with Actual value :[OK]
+Dec 09,2016 16:01:15 [info]  Verify The data of Cancel
+Dec 09,2016 16:01:15 [info]  Verified that Expected value :[Cancel] is matched with Actual value :[Cancel]
+Dec 09,2016 16:01:15 [info]  
+Dec 09,2016 16:01:15 [info]  Appliest TO : All >> Verify Linear is default value in Media Type >> verify UserDefinedNetwork_input in disabled
+Dec 09,2016 16:01:15 [info]   >> UserDefined_Input field is disable
+Dec 09,2016 16:01:15 [info]   >> OK >> Validation msg >> Select Primaty in Network Type >> Verify Primary is shown Network Type
+Dec 09,2016 16:01:15 [info]   >> Check UserDefined_CheckBox >> Verify UserDefined_CheckBox is checked
+Dec 09,2016 16:01:15 [info]   >> UserDefined_Input field is enabled >> AND Exh Network becomes Disabled
+Dec 09,2016 16:01:16 [info]  Verify The data of AppliesTo
+Dec 09,2016 16:01:16 [info]  Verified that Expected value :[All] is matched with Actual value :[
+                    AppliesTo: All
+                ]
+Dec 09,2016 16:01:16 [info]  Verified that Expected value :[Linear Networks] is matched with Actual value :[Linear Networks]
+Dec 09,2016 16:01:16 [info]  Verify The data of User-Defined Network is disabled
+Dec 09,2016 16:01:16 [info]  Verified that Expected value :[true] is matched with Actual value :[true]
+Dec 09,2016 16:01:16 [info]  Clicked on the 'Ok button'
+Dec 09,2016 16:01:20 [info]  
+Dec 09,2016 16:01:20 [info]  Verify The data of Alert Message on clicking Ok Button
+Dec 09,2016 16:01:20 [info]  ====Failed==== Expected value is:[Please enter either Number of Outlet or Exhibition Network.] but Actual value is[]. Please check the screenshot with name: Alert Message on clicking Ok Buttonfor more details
+Dec 09,2016 16:01:21 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\09\Alert Message on clicking Ok Button_CheckpointFailure_12-09-2016 4-01-20 PM.jpg
+Dec 09,2016 16:01:21 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Dec 09,2016 16:01:31 [info]  ====Failed==== " Could not find the Frame: div[id*='WebDialogWindow2'][style*=visible]
+Dec 09,2016 16:01:31 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\09\FrameSwitchingFailed0_CheckpointFailure_12-09-2016 4-01-31 PM.jpg
+Dec 09,2016 16:01:41 [info]  ====Failed==== "Primary" is not present in 'NetworkType_DropDownDrop Down'
+Dec 09,2016 16:01:42 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\09\NetworkType_DropDown_CheckpointFailure_12-09-2016 4-01-41 PM.jpg
+Dec 09,2016 16:01:52 [info]  Test 'TC4_SelectMediaRow_WhileDefiningExhRights' FAILED
+Dec 09,2016 16:01:52 [info]  2
+Dec 09,2016 16:01:52 [info]  Test Case :TC4_SelectMediaRow_WhileDefiningExhRights's Screenshot of Failure Page: C:\Screenshots\Dec2016\\09\TC4_SelectMediaRow_WhileDefiningExhRights_12-09-2016 4-01-52 PM.jpg
+Dec 09,2016 16:01:56 [info]  Closed the Browser
+Dec 09,2016 16:05:24 [info]  ********************Started Executiong the Test Suite at 16:05:24******************
+Dec 09,2016 16:05:24 [info]  Client: AMCN
+Dec 09,2016 16:05:24 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Dec 09,2016 16:05:24 [info]  *********************Started Executing 'TC4_SelectMediaRow_WhileDefiningExhRights' Test Case*********************
+Dec 09,2016 16:05:36 [info]  Client: AMCN
+Dec 09,2016 16:05:36 [info]  URL: http://rlv2wb79/login.aspx
+Dec 09,2016 16:05:36 [info]  UserName: automation
+Dec 09,2016 16:05:36 [info]  Password: automation
+Dec 09,2016 16:05:36 [info]  Entered "automation" in field 'User Name'
+Dec 09,2016 16:05:37 [info]  Clicked on the 'Temporary Check Box'
+Dec 09,2016 16:05:37 [info]  Entered "automation" in field 'Password'
+Dec 09,2016 16:05:44 [info]  Clicked on the 'LoginButton'
+Dec 09,2016 16:05:50 [info]  Double clicked on 'AUT_Deal_TC1_1207201624633Deal'
+Dec 09,2016 16:05:58 [info]  Clicked on the 'Exhibition Rights TAB'
+Dec 09,2016 16:06:01 [info]  Clicked on the ''Edit' Button at Media Rights TAB' using JS Executor
+Dec 09,2016 16:06:01 [info]  
+Dec 09,2016 16:06:01 [info]  Add Button >> Verify Media Rights's rows >> verify Select Check Box is shown >> Verify Buttons
+Dec 09,2016 16:06:03 [info]  Clicked on the 'Add Button'
+Dec 09,2016 16:06:09 [info]  Clicked on the 'Select Check Box'
+Dec 09,2016 16:06:09 [info]  Clicked on the 'Add Button at Media rights Pop up Window'
+Dec 09,2016 16:06:09 [info]  
+Dec 09,2016 16:06:09 [info]  From Manual Test Step : TC_RI_EX_040
+Dec 09,2016 16:06:09 [info]  Exhibition Rights Network Dialog Window
+Dec 09,2016 16:06:12 [info]  Clicked on the 'Network pop up icon'
+Dec 09,2016 16:06:12 [info]  ********Verify Labels at Exhibition Network window********
+Dec 09,2016 16:06:13 [info]  Verify The data of AppliesTo
+Dec 09,2016 16:06:13 [info]  Verified that Expected value :[AppliesTo] is matched with Actual value :[
+                    AppliesTo: All
+                ]
+Dec 09,2016 16:06:13 [info]  Verify The data of Media Type
+Dec 09,2016 16:06:13 [info]  Verified that Expected value :[Media Type] is matched with Actual value :[Media Type]
+Dec 09,2016 16:06:13 [info]  Verify The data of Network Type
+Dec 09,2016 16:06:13 [info]  Verified that Expected value :[Network Type] is matched with Actual value :[Network Type]
+Dec 09,2016 16:06:13 [info]  Verify The data of User-Defined
+Dec 09,2016 16:06:13 [info]  Verified that Expected value :[User-Defined] is matched with Actual value :[User-Defined]
+Dec 09,2016 16:06:13 [info]  Verify The data of User-Defined Network
+Dec 09,2016 16:06:13 [info]  Verified that Expected value :[User-Defined Network] is matched with Actual value :[User-Defined Network]
+Dec 09,2016 16:06:13 [info]  Verify The data of Exhib. Network
+Dec 09,2016 16:06:13 [info]  Verified that Expected value :[Exhib. Network] is matched with Actual value :[Exhib. Network]
+Dec 09,2016 16:06:13 [info]  Verify The data of Outlet #
+Dec 09,2016 16:06:13 [info]  Verified that Expected value :[Outlet #] is matched with Actual value :[Outlet #]
+Dec 09,2016 16:06:13 [info]  ********Verify Buttons at Exhibition Network window********
+Dec 09,2016 16:06:13 [info]  Verify The data of Deselect All
+Dec 09,2016 16:06:13 [info]  Verified that Expected value :[Deselect All] is matched with Actual value :[Deselect All]
+Dec 09,2016 16:06:13 [info]  Verify The data of Select All
+Dec 09,2016 16:06:13 [info]  Verified that Expected value :[Select All] is matched with Actual value :[Select All]
+Dec 09,2016 16:06:13 [info]  Verify The data of OK
+Dec 09,2016 16:06:13 [info]  Verified that Expected value :[OK] is matched with Actual value :[OK]
+Dec 09,2016 16:06:14 [info]  Verify The data of Cancel
+Dec 09,2016 16:06:14 [info]  Verified that Expected value :[Cancel] is matched with Actual value :[Cancel]
+Dec 09,2016 16:06:14 [info]  
+Dec 09,2016 16:06:14 [info]  Appliest TO : All >> Verify Linear is default value in Media Type >> verify UserDefinedNetwork_input in disabled
+Dec 09,2016 16:06:14 [info]   >> UserDefined_Input field is disable
+Dec 09,2016 16:06:14 [info]   >> OK >> Validation msg >> Select Primaty in Network Type >> Verify Primary is shown Network Type
+Dec 09,2016 16:06:14 [info]   >> Check UserDefined_CheckBox >> Verify UserDefined_CheckBox is checked
+Dec 09,2016 16:06:14 [info]   >> UserDefined_Input field is enabled >> AND Exh Network becomes Disabled
+Dec 09,2016 16:06:14 [info]  Verify The data of AppliesTo
+Dec 09,2016 16:06:14 [info]  Verified that Expected value :[All] is matched with Actual value :[
+                    AppliesTo: All
+                ]
+Dec 09,2016 16:06:14 [info]  Verified that Expected value :[Linear Networks] is matched with Actual value :[Linear Networks]
+Dec 09,2016 16:06:14 [info]  Verify The data of User-Defined Network is disabled
+Dec 09,2016 16:06:14 [info]  Verified that Expected value :[true] is matched with Actual value :[true]
+Dec 09,2016 16:06:14 [info]  Clicked on the 'Ok button'
+Dec 09,2016 16:06:19 [info]  
+Dec 09,2016 16:06:19 [info]  Verify The data of Alert Message on clicking Ok Button
+Dec 09,2016 16:06:19 [info]  Verified that Expected value :[Please enter either Number of Outlet or Exhibition Network.] is matched with Actual value :[Please enter either Number of Outlet or Exhibition Network.]
+Dec 09,2016 16:06:19 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Dec 09,2016 16:06:19 [info]  Selected "Primary" in "NetworkType_DropDown" drop down
+Dec 09,2016 16:06:19 [info]  Verified thatPrimary is selected in drop down NetworkType_DropDown
+Dec 09,2016 16:06:19 [info]  Clicked on the 'UserDefined_CheckBox'
+Dec 09,2016 16:06:19 [info]  Verify The data of UserDefined_CheckBox is checked
+Dec 09,2016 16:06:19 [info]  Verified that Expected value :[true] is matched with Actual value :[true]
+Dec 09,2016 16:06:20 [info]  Verify The data of Deselect All
+Dec 09,2016 16:06:20 [info]  Verified that Expected value :[true] is matched with Actual value :[true]
+Dec 09,2016 16:06:20 [info]  Clicked on the 'Ok button'
+Dec 09,2016 16:06:24 [info]  
+Dec 09,2016 16:06:24 [info]  Verify The data of Alert Message on clicking Ok Button
+Dec 09,2016 16:06:24 [info]  Verified that Expected value :[Please enter value for User-defined Network.] is matched with Actual value :[Please enter value for User-defined Network.]
+Dec 09,2016 16:06:24 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Dec 09,2016 16:06:24 [info]  Entered "Network1234" in field 'NetworkWindow_UserDefinedNetwork'
+Dec 09,2016 16:06:24 [info]  Clicked on the 'Ok button'
+Dec 09,2016 16:06:24 [info]  Verify The data of Exhibition Network
+Dec 09,2016 16:06:24 [info]  Verified that Expected value :[Network1234] is matched with Actual value :[Network1234]
+Dec 09,2016 16:06:25 [info]  Clicked on the 'Network pop up icon'
+Dec 09,2016 16:06:26 [info]  Verify The data of UserDefined_CheckBox
+Dec 09,2016 16:06:26 [info]  Verified that Expected value :[true] is matched with Actual value :[true]
+Dec 09,2016 16:06:26 [info]  Verify The data of Deselect All
+Dec 09,2016 16:06:26 [info]  Verified that Expected value :[true] is matched with Actual value :[true]
+Dec 09,2016 16:06:26 [info]  Verified that Expected value :[Linear Networks] is matched with Actual value :[Linear Networks]
+Dec 09,2016 16:06:26 [info]  Verified thatPrimary is selected in drop down NetworkType_DropDown
+Dec 09,2016 16:06:26 [info]  Entered "10" in field 'NetworkWindow_OutLetNumber'
+Dec 09,2016 16:06:26 [info]  Clicked on the 'Ok button'
+Dec 09,2016 16:06:30 [info]  
+Dec 09,2016 16:06:30 [info]  Verify The data of Alert Message on clicking Ok Button
+Dec 09,2016 16:06:30 [info]  Verified that Expected value :[Please enter either Number of Outlet or Exhibition Network.] is matched with Actual value :[Please enter either Number of Outlet or Exhibition Network.]
+Dec 09,2016 16:06:30 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Dec 09,2016 16:06:30 [info]  Clicked on the 'UserDefined_CheckBox'
+Dec 09,2016 16:06:31 [info]  Verify The data of User-Defined Network is disabled
+Dec 09,2016 16:06:31 [info]  Verified that Expected value :[true] is matched with Actual value :[true]
+Dec 09,2016 16:06:31 [info]  Clicked on the 'Ok button'
+Dec 09,2016 16:06:52 [info]  Verify The data of Exhibition Network
+Dec 09,2016 16:06:52 [info]  ====Failed==== Expected value is:[ Outlets: 10] but Actual value is[]. Please check the screenshot with name: Exhibition Networkfor more details
+Dec 09,2016 16:06:52 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\09\Exhibition Network_CheckpointFailure_12-09-2016 4-06-52 PM.jpg
+Dec 09,2016 16:06:52 [info]  Test 'TC4_SelectMediaRow_WhileDefiningExhRights' PASSED
+Dec 09,2016 16:06:53 [info]  Closed the Browser
+Dec 09,2016 16:11:10 [info]  ********************Started Executiong the Test Suite at 16:11:10******************
+Dec 09,2016 16:11:10 [info]  Client: AMCN
+Dec 09,2016 16:11:10 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Dec 09,2016 16:11:10 [info]  *********************Started Executing 'TC4_SelectMediaRow_WhileDefiningExhRights' Test Case*********************
+Dec 09,2016 16:11:21 [info]  Client: AMCN
+Dec 09,2016 16:11:21 [info]  URL: http://rlv2wb79/login.aspx
+Dec 09,2016 16:11:21 [info]  UserName: automation
+Dec 09,2016 16:11:21 [info]  Password: automation
+Dec 09,2016 16:11:22 [info]  Entered "automation" in field 'User Name'
+Dec 09,2016 16:11:22 [info]  Clicked on the 'Temporary Check Box'
+Dec 09,2016 16:11:22 [info]  Entered "automation" in field 'Password'
+Dec 09,2016 16:11:29 [info]  Clicked on the 'LoginButton'
+Dec 09,2016 16:11:38 [info]  Double clicked on 'AUT_Deal_TC1_1207201624633Deal'
+Dec 09,2016 16:11:42 [info]  Clicked on the 'Exhibition Rights TAB'
+Dec 09,2016 16:11:47 [info]  Clicked on the ''Edit' Button at Media Rights TAB' using JS Executor
+Dec 09,2016 16:11:47 [info]  
+Dec 09,2016 16:11:47 [info]  Add Button >> Verify Media Rights's rows >> verify Select Check Box is shown >> Verify Buttons
+Dec 09,2016 16:11:48 [info]  Clicked on the 'Add Button'
+Dec 09,2016 16:11:53 [info]  Clicked on the 'Select Check Box'
+Dec 09,2016 16:11:53 [info]  Clicked on the 'Add Button at Media rights Pop up Window'
+Dec 09,2016 16:11:53 [info]  
+Dec 09,2016 16:11:53 [info]  From Manual Test Step : TC_RI_EX_040
+Dec 09,2016 16:11:53 [info]  Exhibition Rights Network Dialog Window
+Dec 09,2016 16:11:56 [info]  Clicked on the 'Network pop up icon'
+Dec 09,2016 16:11:57 [info]  ********Verify Labels at Exhibition Network window********
+Dec 09,2016 16:11:57 [info]  Verify The data of AppliesTo
+Dec 09,2016 16:11:57 [info]  Verified that Expected value :[AppliesTo] is matched with Actual value :[
+                    AppliesTo: All
+                ]
+Dec 09,2016 16:11:57 [info]  Verify The data of Media Type
+Dec 09,2016 16:11:57 [info]  Verified that Expected value :[Media Type] is matched with Actual value :[Media Type]
+Dec 09,2016 16:11:57 [info]  Verify The data of Network Type
+Dec 09,2016 16:11:57 [info]  Verified that Expected value :[Network Type] is matched with Actual value :[Network Type]
+Dec 09,2016 16:11:57 [info]  Verify The data of User-Defined
+Dec 09,2016 16:11:57 [info]  Verified that Expected value :[User-Defined] is matched with Actual value :[User-Defined]
+Dec 09,2016 16:11:58 [info]  Verify The data of User-Defined Network
+Dec 09,2016 16:11:58 [info]  Verified that Expected value :[User-Defined Network] is matched with Actual value :[User-Defined Network]
+Dec 09,2016 16:11:58 [info]  Verify The data of Exhib. Network
+Dec 09,2016 16:11:58 [info]  Verified that Expected value :[Exhib. Network] is matched with Actual value :[Exhib. Network]
+Dec 09,2016 16:11:58 [info]  Verify The data of Outlet #
+Dec 09,2016 16:11:58 [info]  Verified that Expected value :[Outlet #] is matched with Actual value :[Outlet #]
+Dec 09,2016 16:11:58 [info]  ********Verify Buttons at Exhibition Network window********
+Dec 09,2016 16:11:58 [info]  Verify The data of Deselect All
+Dec 09,2016 16:11:58 [info]  Verified that Expected value :[Deselect All] is matched with Actual value :[Deselect All]
+Dec 09,2016 16:11:58 [info]  Verify The data of Select All
+Dec 09,2016 16:11:58 [info]  Verified that Expected value :[Select All] is matched with Actual value :[Select All]
+Dec 09,2016 16:11:58 [info]  Verify The data of OK
+Dec 09,2016 16:11:58 [info]  Verified that Expected value :[OK] is matched with Actual value :[OK]
+Dec 09,2016 16:11:58 [info]  Verify The data of Cancel
+Dec 09,2016 16:11:58 [info]  Verified that Expected value :[Cancel] is matched with Actual value :[Cancel]
+Dec 09,2016 16:11:58 [info]  
+Dec 09,2016 16:11:58 [info]  Appliest TO : All >> Verify Linear is default value in Media Type >> verify UserDefinedNetwork_input in disabled
+Dec 09,2016 16:11:58 [info]   >> UserDefined_Input field is disable
+Dec 09,2016 16:11:58 [info]   >> OK >> Validation msg >> Select Primaty in Network Type >> Verify Primary is shown Network Type
+Dec 09,2016 16:11:58 [info]   >> Check UserDefined_CheckBox >> Verify UserDefined_CheckBox is checked
+Dec 09,2016 16:11:58 [info]   >> UserDefined_Input field is enabled >> AND Exh Network becomes Disabled
+Dec 09,2016 16:11:58 [info]  Verify The data of AppliesTo
+Dec 09,2016 16:11:58 [info]  Verified that Expected value :[All] is matched with Actual value :[
+                    AppliesTo: All
+                ]
+Dec 09,2016 16:11:58 [info]  Verified that Expected value :[Linear Networks] is matched with Actual value :[Linear Networks]
+Dec 09,2016 16:11:58 [info]  Verify The data of User-Defined Network is disabled
+Dec 09,2016 16:11:58 [info]  Verified that Expected value :[true] is matched with Actual value :[true]
+Dec 09,2016 16:11:59 [info]  Clicked on the 'Ok button'
+Dec 09,2016 16:12:02 [info]  
+Dec 09,2016 16:12:02 [info]  Verify The data of Alert Message on clicking Ok Button
+Dec 09,2016 16:12:02 [info]  Verified that Expected value :[Please enter either Number of Outlet or Exhibition Network.] is matched with Actual value :[Please enter either Number of Outlet or Exhibition Network.]
+Dec 09,2016 16:12:02 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Dec 09,2016 16:12:02 [info]  Selected "Primary" in "NetworkType_DropDown" drop down
+Dec 09,2016 16:12:02 [info]  Verified thatPrimary is selected in drop down NetworkType_DropDown
+Dec 09,2016 16:12:02 [info]  Clicked on the 'UserDefined_CheckBox'
+Dec 09,2016 16:12:03 [info]  Verify The data of UserDefined_CheckBox is checked
+Dec 09,2016 16:12:03 [info]  Verified that Expected value :[true] is matched with Actual value :[true]
+Dec 09,2016 16:12:03 [info]  Verify The data of Deselect All
+Dec 09,2016 16:12:03 [info]  Verified that Expected value :[true] is matched with Actual value :[true]
+Dec 09,2016 16:12:04 [info]  Clicked on the 'Ok button'
+Dec 09,2016 16:12:07 [info]  
+Dec 09,2016 16:12:07 [info]  Verify The data of Alert Message on clicking Ok Button
+Dec 09,2016 16:12:07 [info]  Verified that Expected value :[Please enter value for User-defined Network.] is matched with Actual value :[Please enter value for User-defined Network.]
+Dec 09,2016 16:12:07 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Dec 09,2016 16:12:07 [info]  Entered "Network1234" in field 'NetworkWindow_UserDefinedNetwork'
+Dec 09,2016 16:12:08 [info]  Clicked on the 'Ok button'
+Dec 09,2016 16:12:08 [info]  Verify The data of Exhibition Network
+Dec 09,2016 16:12:08 [info]  Verified that Expected value :[Network1234] is matched with Actual value :[Network1234]
+Dec 09,2016 16:12:08 [info]  Clicked on the 'Network pop up icon'
+Dec 09,2016 16:12:09 [info]  Verify The data of UserDefined_CheckBox
+Dec 09,2016 16:12:09 [info]  Verified that Expected value :[true] is matched with Actual value :[true]
+Dec 09,2016 16:12:09 [info]  Verify The data of Deselect All
+Dec 09,2016 16:12:09 [info]  Verified that Expected value :[true] is matched with Actual value :[true]
+Dec 09,2016 16:12:09 [info]  Verified that Expected value :[Linear Networks] is matched with Actual value :[Linear Networks]
+Dec 09,2016 16:12:09 [info]  Verified thatPrimary is selected in drop down NetworkType_DropDown
+Dec 09,2016 16:12:09 [info]  Entered "10" in field 'NetworkWindow_OutLetNumber'
+Dec 09,2016 16:12:10 [info]  Clicked on the 'Ok button'
+Dec 09,2016 16:12:13 [info]  
+Dec 09,2016 16:12:13 [info]  Verify The data of Alert Message on clicking Ok Button
+Dec 09,2016 16:12:13 [info]  Verified that Expected value :[Please enter either Number of Outlet or Exhibition Network.] is matched with Actual value :[Please enter either Number of Outlet or Exhibition Network.]
+Dec 09,2016 16:12:13 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Dec 09,2016 16:12:13 [info]  Clicked on the 'UserDefined_CheckBox'
+Dec 09,2016 16:12:13 [info]  Verify The data of User-Defined Network is disabled
+Dec 09,2016 16:12:13 [info]  Verified that Expected value :[true] is matched with Actual value :[true]
+Dec 09,2016 16:12:14 [info]  Clicked on the 'Ok button'
+Dec 09,2016 16:12:14 [info]  Verify The data of Exhibition Network
+Dec 09,2016 16:12:14 [info]  Verified that Expected value :[ Outlets: 10] is matched with Actual value :[Primary Outlets: 10]
+Dec 09,2016 16:12:14 [info]  Test 'TC4_SelectMediaRow_WhileDefiningExhRights' PASSED
+Dec 09,2016 16:12:15 [info]  Closed the Browser
+Dec 09,2016 16:38:14 [info]  ********************Started Executiong the Test Suite at 16:38:14******************
+Dec 09,2016 16:38:14 [info]  Client: AMCN
+Dec 09,2016 16:38:14 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Dec 09,2016 16:38:14 [info]  *********************Started Executing 'TC4_SelectMediaRow_WhileDefiningExhRights' Test Case*********************
+Dec 09,2016 16:38:25 [info]  Client: AMCN
+Dec 09,2016 16:38:25 [info]  URL: http://rlv2wb79/login.aspx
+Dec 09,2016 16:38:25 [info]  UserName: automation
+Dec 09,2016 16:38:25 [info]  Password: automation
+Dec 09,2016 16:38:26 [info]  Entered "automation" in field 'User Name'
+Dec 09,2016 16:38:26 [info]  Clicked on the 'Temporary Check Box'
+Dec 09,2016 16:38:26 [info]  Entered "automation" in field 'Password'
+Dec 09,2016 16:38:33 [info]  Clicked on the 'LoginButton'
+Dec 09,2016 16:38:49 [info]  Double clicked on 'AUT_Deal_TC1_1207201624633Deal'
+Dec 09,2016 16:38:53 [info]  Clicked on the 'Exhibition Rights TAB'
+Dec 09,2016 16:39:00 [info]  Clicked on the ''Edit' Button at Media Rights TAB' using JS Executor
+Dec 09,2016 16:39:00 [info]  
+Dec 09,2016 16:39:00 [info]  Add Button >> Verify Media Rights's rows >> verify Select Check Box is shown >> Verify Buttons
+Dec 09,2016 16:39:04 [info]  Clicked on the 'Add Button'
+Dec 09,2016 16:39:07 [info]  Clicked on the 'Select Check Box'
+Dec 09,2016 16:39:09 [info]  Clicked on the 'Add Button at Media rights Pop up Window'
+Dec 09,2016 16:39:09 [info]  
+Dec 09,2016 16:39:09 [info]  From Manual Test Step : TC_RI_EX_040
+Dec 09,2016 16:39:09 [info]  Exhibition Rights Network Dialog Window
+Dec 09,2016 16:39:10 [info]  Clicked on the 'Network pop up icon'
+Dec 09,2016 16:39:11 [info]  ********Verify Labels at Exhibition Network window********
+Dec 09,2016 16:39:11 [info]  Verify The data of AppliesTo
+Dec 09,2016 16:39:11 [info]  Verified that Expected value :[AppliesTo] is matched with Actual value :[
+                    AppliesTo: All
+                ]
+Dec 09,2016 16:39:11 [info]  Verify The data of Media Type
+Dec 09,2016 16:39:11 [info]  Verified that Expected value :[Media Type] is matched with Actual value :[Media Type]
+Dec 09,2016 16:39:11 [info]  Verify The data of Network Type
+Dec 09,2016 16:39:11 [info]  Verified that Expected value :[Network Type] is matched with Actual value :[Network Type]
+Dec 09,2016 16:39:11 [info]  Verify The data of User-Defined
+Dec 09,2016 16:39:11 [info]  Verified that Expected value :[User-Defined] is matched with Actual value :[User-Defined]
+Dec 09,2016 16:39:11 [info]  Verify The data of User-Defined Network
+Dec 09,2016 16:39:11 [info]  Verified that Expected value :[User-Defined Network] is matched with Actual value :[User-Defined Network]
+Dec 09,2016 16:39:11 [info]  Verify The data of Exhib. Network
+Dec 09,2016 16:39:11 [info]  Verified that Expected value :[Exhib. Network] is matched with Actual value :[Exhib. Network]
+Dec 09,2016 16:39:11 [info]  Verify The data of Outlet #
+Dec 09,2016 16:39:11 [info]  Verified that Expected value :[Outlet #] is matched with Actual value :[Outlet #]
+Dec 09,2016 16:39:11 [info]  ********Verify Buttons at Exhibition Network window********
+Dec 09,2016 16:39:11 [info]  Verify The data of Deselect All
+Dec 09,2016 16:39:11 [info]  Verified that Expected value :[Deselect All] is matched with Actual value :[Deselect All]
+Dec 09,2016 16:39:11 [info]  Verify The data of Select All
+Dec 09,2016 16:39:11 [info]  Verified that Expected value :[Select All] is matched with Actual value :[Select All]
+Dec 09,2016 16:39:11 [info]  Verify The data of OK
+Dec 09,2016 16:39:11 [info]  Verified that Expected value :[OK] is matched with Actual value :[OK]
+Dec 09,2016 16:39:11 [info]  Verify The data of Cancel
+Dec 09,2016 16:39:11 [info]  Verified that Expected value :[Cancel] is matched with Actual value :[Cancel]
+Dec 09,2016 16:39:18 [info]  
+Dec 09,2016 16:39:22 [info]  Appliest TO : All >> Verify Linear is default value in Media Type >> verify UserDefinedNetwork_input in disabled
+Dec 09,2016 16:39:22 [info]   >> UserDefined_Input field is disable
+Dec 09,2016 16:39:22 [info]   >> OK >> Validation msg >> Select Primaty in Network Type >> Verify Primary is shown Network Type
+Dec 09,2016 16:39:22 [info]   >> Check UserDefined_CheckBox >> Verify UserDefined_CheckBox is checked
+Dec 09,2016 16:39:22 [info]   >> UserDefined_Input field is enabled >> AND Exh Network becomes Disabled
+Dec 09,2016 16:39:22 [info]  Verify The data of AppliesTo
+Dec 09,2016 16:39:22 [info]  Verified that Expected value :[All] is matched with Actual value :[
+                    AppliesTo: All
+                ]
+Dec 09,2016 16:39:22 [info]  Verified that Expected value :[Linear Networks] is matched with Actual value :[Linear Networks]
+Dec 09,2016 16:39:22 [info]  Verify The data of User-Defined Network is disabled
+Dec 09,2016 16:39:22 [info]  Verified that Expected value :[true] is matched with Actual value :[true]
+Dec 09,2016 16:39:23 [info]  Clicked on the 'Ok button'
+Dec 09,2016 16:39:27 [info]  
+Dec 09,2016 16:39:27 [info]  Verify The data of Alert Message on clicking Ok Button
+Dec 09,2016 16:39:27 [info]  Verified that Expected value :[Please enter either Number of Outlet or Exhibition Network.] is matched with Actual value :[Please enter either Number of Outlet or Exhibition Network.]
+Dec 09,2016 16:39:27 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Dec 09,2016 16:39:27 [info]  Selected "Primary" in "NetworkType_DropDown" drop down
+Dec 09,2016 16:39:27 [info]  Verified thatPrimary is selected in drop down NetworkType_DropDown
+Dec 09,2016 16:39:27 [info]  Clicked on the 'UserDefined_CheckBox'
+Dec 09,2016 16:39:28 [info]  Verify The data of UserDefined_CheckBox is checked
+Dec 09,2016 16:39:28 [info]  Verified that Expected value :[true] is matched with Actual value :[true]
+Dec 09,2016 16:39:28 [info]  Verify The data of Deselect All
+Dec 09,2016 16:39:28 [info]  Verified that Expected value :[true] is matched with Actual value :[true]
+Dec 09,2016 16:39:28 [info]  Clicked on the 'Ok button'
+Dec 09,2016 16:39:31 [info]  
+Dec 09,2016 16:39:31 [info]  Verify The data of Alert Message on clicking Ok Button
+Dec 09,2016 16:39:31 [info]  Verified that Expected value :[Please enter value for User-defined Network.] is matched with Actual value :[Please enter value for User-defined Network.]
+Dec 09,2016 16:39:31 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Dec 09,2016 16:39:32 [info]  Entered "Network1234" in field 'NetworkWindow_UserDefinedNetwork'
+Dec 09,2016 16:39:32 [info]  Clicked on the 'Ok button'
+Dec 09,2016 16:39:37 [info]  Verify The data of Exhibition Network
+Dec 09,2016 16:39:37 [info]  Verified that Expected value :[Network1234] is matched with Actual value :[Network1234]
+Dec 09,2016 16:39:40 [info]  Clicked on the 'Network pop up icon'
+Dec 09,2016 16:39:44 [info]  Verify The data of UserDefined_CheckBox
+Dec 09,2016 16:39:44 [info]  Verified that Expected value :[true] is matched with Actual value :[true]
+Dec 09,2016 16:39:44 [info]  Verify The data of Deselect All
+Dec 09,2016 16:39:44 [info]  Verified that Expected value :[true] is matched with Actual value :[true]
+Dec 09,2016 16:39:45 [info]  Verified that Expected value :[Linear Networks] is matched with Actual value :[Linear Networks]
+Dec 09,2016 16:39:45 [info]  Verified thatPrimary is selected in drop down NetworkType_DropDown
+Dec 09,2016 16:39:45 [info]  Entered "10" in field 'NetworkWindow_OutLetNumber'
+Dec 09,2016 16:39:45 [info]  Clicked on the 'Ok button'
+Dec 09,2016 16:39:48 [info]  
+Dec 09,2016 16:39:48 [info]  Verify The data of Alert Message on clicking Ok Button
+Dec 09,2016 16:39:48 [info]  Verified that Expected value :[Please enter either Number of Outlet or Exhibition Network.] is matched with Actual value :[Please enter either Number of Outlet or Exhibition Network.]
+Dec 09,2016 16:39:48 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Dec 09,2016 16:39:48 [info]  Clicked on the 'UserDefined_CheckBox'
+Dec 09,2016 16:39:49 [info]  Verify The data of User-Defined Network is disabled
+Dec 09,2016 16:39:49 [info]  Verified that Expected value :[true] is matched with Actual value :[true]
+Dec 09,2016 16:39:49 [info]  Clicked on the 'Ok button'
+Dec 09,2016 16:39:50 [info]  Verify The data of Exhibition Network
+Dec 09,2016 16:39:50 [info]  Verified that Expected value :[ Outlets: 10] is matched with Actual value :[Primary Outlets: 10]
+Dec 09,2016 16:39:50 [info]  Clicked on the 'Network pop up icon'
+Dec 09,2016 16:39:50 [info]  Verify The data of UserDefined_CheckBox
+Dec 09,2016 16:39:50 [info]  ====Failed===="UserDefined_CheckBox" is not Present
+Dec 09,2016 16:39:51 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\09\UserDefined_CheckBox_CheckpointFailure_12-09-2016 4-39-50 PM.jpg
+Dec 09,2016 16:39:51 [info]  Verify The data of Deselect All
+Dec 09,2016 16:39:51 [info]  ====Failed===="Deselect All" is not Present
+Dec 09,2016 16:39:51 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\09\Deselect All_CheckpointFailure_12-09-2016 4-39-51 PM.jpg
+Dec 09,2016 16:39:51 [info]  Verified that Expected value :[Linear Networks] is matched with Actual value :[Linear Networks]
+Dec 09,2016 16:39:51 [info]  Verified thatPrimary is selected in drop down NetworkType_DropDown
+Dec 09,2016 16:39:51 [info]  Clicked on the 'Selected Channel AMC Linear'
+Dec 09,2016 16:39:52 [info]  Clicked on the 'Ok button'
+Dec 09,2016 16:39:55 [info]  
+Dec 09,2016 16:39:55 [info]  Verify The data of Alert Message on clicking Ok Button
+Dec 09,2016 16:39:55 [info]  Verified that Expected value :[Please enter either Number of Outlet or Exhibition Network.] is matched with Actual value :[Please enter either Number of Outlet or Exhibition Network.]
+Dec 09,2016 16:39:55 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Dec 09,2016 16:40:08 [info]  Entered "" in field 'NetworkWindow_OutLetNumber'
+Dec 09,2016 16:40:09 [info]  Clicked on the 'Ok button'
+Dec 09,2016 16:40:11 [info]  ====Failed===="Exhibition Network" is not Present
+Dec 09,2016 16:40:12 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\09\Exhibition Network_CheckpointFailure_12-09-2016 4-40-11 PM.jpg
+Dec 09,2016 16:41:03 [info]  Clicked on the 'Network pop up icon'
+Dec 09,2016 16:41:07 [info]  ====Failed==== "Selected Channel " field is not present'
+Dec 09,2016 16:41:07 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\09\Selected Channel _CheckpointFailure_12-09-2016 4-41-07 PM.jpg
+Dec 09,2016 16:41:08 [info]  Clicked on the 'Ok button'
+Dec 09,2016 16:41:12 [info]  
+Dec 09,2016 16:41:12 [info]  Verify The data of Alert Message on clicking Ok Button
+Dec 09,2016 16:41:12 [info]  ====Failed==== Expected value is:[Please enter either Number of Outlet or Exhibition Network.] but Actual value is[]. Please check the screenshot with name: Alert Message on clicking Ok Buttonfor more details
+Dec 09,2016 16:41:12 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\09\Alert Message on clicking Ok Button_CheckpointFailure_12-09-2016 4-41-12 PM.jpg
+Dec 09,2016 16:41:12 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Dec 09,2016 16:41:22 [info]  ====Failed==== " Could not find the Frame: div[id*='WebDialogWindow2'][style*=visible]
+Dec 09,2016 16:41:22 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\09\FrameSwitchingFailed0_CheckpointFailure_12-09-2016 4-41-22 PM.jpg
+Dec 09,2016 16:41:32 [info]  ====Failed==== "NetworkWindow_OutLetNumber" field is not present'NetworkWindow_OutLetNumber'
+Dec 09,2016 16:41:33 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\09\NetworkWindow_OutLetNumber_CheckpointFailure_12-09-2016 4-41-32 PM.jpg
+Dec 09,2016 16:41:43 [info]  ====Failed==== "Ok button" field is not present'
+Dec 09,2016 16:41:43 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\09\Ok button_CheckpointFailure_12-09-2016 4-41-43 PM.jpg
+Dec 09,2016 16:42:03 [info]  Verify The data of Exhibition Network
+Dec 09,2016 16:42:03 [info]  ====Failed==== Expected value is:[AMC Linear,] but Actual value is[]. Please check the screenshot with name: Exhibition Networkfor more details
+Dec 09,2016 16:42:03 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\09\Exhibition Network_CheckpointFailure_12-09-2016 4-42-03 PM.jpg
+Dec 09,2016 16:42:03 [info]  Test 'TC4_SelectMediaRow_WhileDefiningExhRights' PASSED
+Dec 09,2016 16:42:04 [info]  Closed the Browser
+Dec 09,2016 16:45:42 [info]  ********************Started Executiong the Test Suite at 16:45:42******************
+Dec 09,2016 16:45:42 [info]  Client: AMCN
+Dec 09,2016 16:45:42 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Dec 09,2016 16:45:42 [info]  *********************Started Executing 'TC4_SelectMediaRow_WhileDefiningExhRights' Test Case*********************
+Dec 09,2016 16:45:53 [info]  Client: AMCN
+Dec 09,2016 16:45:53 [info]  URL: http://rlv2wb79/login.aspx
+Dec 09,2016 16:45:53 [info]  UserName: automation
+Dec 09,2016 16:45:53 [info]  Password: automation
+Dec 09,2016 16:45:54 [info]  Entered "automation" in field 'User Name'
+Dec 09,2016 16:45:54 [info]  Clicked on the 'Temporary Check Box'
+Dec 09,2016 16:45:54 [info]  Entered "automation" in field 'Password'
+Dec 09,2016 16:46:03 [info]  Clicked on the 'LoginButton'
+Dec 09,2016 16:46:12 [info]  Double clicked on 'AUT_Deal_TC1_1207201624633Deal'
+Dec 09,2016 16:46:15 [info]  Clicked on the 'Exhibition Rights TAB'
+Dec 09,2016 16:46:19 [info]  Clicked on the ''Edit' Button at Media Rights TAB' using JS Executor
+Dec 09,2016 16:46:19 [info]  
+Dec 09,2016 16:46:19 [info]  Add Button >> Verify Media Rights's rows >> verify Select Check Box is shown >> Verify Buttons
+Dec 09,2016 16:46:19 [info]  Clicked on the 'Add Button'
+Dec 09,2016 16:46:25 [info]  Clicked on the 'Select Check Box'
+Dec 09,2016 16:46:27 [info]  Clicked on the 'Add Button at Media rights Pop up Window'
+Dec 09,2016 16:46:27 [info]  
+Dec 09,2016 16:46:27 [info]  From Manual Test Step : TC_RI_EX_040
+Dec 09,2016 16:46:27 [info]  Exhibition Rights Network Dialog Window
+Dec 09,2016 16:46:27 [info]  Clicked on the 'Network pop up icon'
+Dec 09,2016 16:46:28 [info]  ********Verify Labels at Exhibition Network window********
+Dec 09,2016 16:46:28 [info]  Verify The data of AppliesTo
+Dec 09,2016 16:46:28 [info]  Verified that Expected value :[AppliesTo] is matched with Actual value :[
+                    AppliesTo: All
+                ]
+Dec 09,2016 16:46:28 [info]  Verify The data of Media Type
+Dec 09,2016 16:46:28 [info]  Verified that Expected value :[Media Type] is matched with Actual value :[Media Type]
+Dec 09,2016 16:46:28 [info]  Verify The data of Network Type
+Dec 09,2016 16:46:28 [info]  Verified that Expected value :[Network Type] is matched with Actual value :[Network Type]
+Dec 09,2016 16:46:28 [info]  Verify The data of User-Defined
+Dec 09,2016 16:46:28 [info]  Verified that Expected value :[User-Defined] is matched with Actual value :[User-Defined]
+Dec 09,2016 16:46:28 [info]  Verify The data of User-Defined Network
+Dec 09,2016 16:46:28 [info]  Verified that Expected value :[User-Defined Network] is matched with Actual value :[User-Defined Network]
+Dec 09,2016 16:46:28 [info]  Verify The data of Exhib. Network
+Dec 09,2016 16:46:28 [info]  Verified that Expected value :[Exhib. Network] is matched with Actual value :[Exhib. Network]
+Dec 09,2016 16:46:28 [info]  Verify The data of Outlet #
+Dec 09,2016 16:46:28 [info]  Verified that Expected value :[Outlet #] is matched with Actual value :[Outlet #]
+Dec 09,2016 16:46:28 [info]  ********Verify Buttons at Exhibition Network window********
+Dec 09,2016 16:46:28 [info]  Verify The data of Deselect All
+Dec 09,2016 16:46:28 [info]  Verified that Expected value :[Deselect All] is matched with Actual value :[Deselect All]
+Dec 09,2016 16:46:28 [info]  Verify The data of Select All
+Dec 09,2016 16:46:28 [info]  Verified that Expected value :[Select All] is matched with Actual value :[Select All]
+Dec 09,2016 16:46:28 [info]  Verify The data of OK
+Dec 09,2016 16:46:28 [info]  Verified that Expected value :[OK] is matched with Actual value :[OK]
+Dec 09,2016 16:46:28 [info]  Verify The data of Cancel
+Dec 09,2016 16:46:28 [info]  Verified that Expected value :[Cancel] is matched with Actual value :[Cancel]
+Dec 09,2016 16:46:33 [info]  
+Dec 09,2016 16:46:33 [info]  Appliest TO : All >> Verify Linear is default value in Media Type >> verify UserDefinedNetwork_input in disabled
+Dec 09,2016 16:46:33 [info]   >> UserDefined_Input field is disable
+Dec 09,2016 16:46:33 [info]   >> OK >> Validation msg >> Select Primaty in Network Type >> Verify Primary is shown Network Type
+Dec 09,2016 16:46:33 [info]   >> Check UserDefined_CheckBox >> Verify UserDefined_CheckBox is checked
+Dec 09,2016 16:46:33 [info]   >> UserDefined_Input field is enabled >> AND Exh Network becomes Disabled
+Dec 09,2016 16:46:33 [info]  Verify The data of AppliesTo
+Dec 09,2016 16:46:33 [info]  Verified that Expected value :[All] is matched with Actual value :[
+                    AppliesTo: All
+                ]
+Dec 09,2016 16:46:33 [info]  Verified that Expected value :[Linear Networks] is matched with Actual value :[Linear Networks]
+Dec 09,2016 16:46:33 [info]  Verify The data of User-Defined Network is disabled
+Dec 09,2016 16:46:33 [info]  Verified that Expected value :[true] is matched with Actual value :[true]
+Dec 09,2016 16:46:34 [info]  Clicked on the 'Ok button'
+Dec 09,2016 16:46:37 [info]  
+Dec 09,2016 16:46:37 [info]  Verify The data of Alert Message on clicking Ok Button
+Dec 09,2016 16:46:37 [info]  Verified that Expected value :[Please enter either Number of Outlet or Exhibition Network.] is matched with Actual value :[Please enter either Number of Outlet or Exhibition Network.]
+Dec 09,2016 16:46:37 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Dec 09,2016 16:46:37 [info]  Selected "Primary" in "NetworkType_DropDown" drop down
+Dec 09,2016 16:46:37 [info]  Verified thatPrimary is selected in drop down NetworkType_DropDown
+Dec 09,2016 16:46:37 [info]  Clicked on the 'UserDefined_CheckBox'
+Dec 09,2016 16:46:38 [info]  Verify The data of UserDefined_CheckBox is checked
+Dec 09,2016 16:46:38 [info]  Verified that Expected value :[true] is matched with Actual value :[true]
+Dec 09,2016 16:46:38 [info]  Verify The data of Deselect All
+Dec 09,2016 16:46:38 [info]  Verified that Expected value :[true] is matched with Actual value :[true]
+Dec 09,2016 16:46:39 [info]  Clicked on the 'Ok button'
+Dec 09,2016 16:46:42 [info]  
+Dec 09,2016 16:46:42 [info]  Verify The data of Alert Message on clicking Ok Button
+Dec 09,2016 16:46:42 [info]  Verified that Expected value :[Please enter value for User-defined Network.] is matched with Actual value :[Please enter value for User-defined Network.]
+Dec 09,2016 16:46:42 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Dec 09,2016 16:46:42 [info]  Entered "Network1234" in field 'NetworkWindow_UserDefinedNetwork'
+Dec 09,2016 16:46:43 [info]  Clicked on the 'Ok button'
+Dec 09,2016 16:46:43 [info]  Verify The data of Exhibition Network
+Dec 09,2016 16:46:43 [info]  Verified that Expected value :[Network1234] is matched with Actual value :[Network1234]
+Dec 09,2016 16:46:43 [info]  Clicked on the 'Network pop up icon'
+Dec 09,2016 16:46:44 [info]  Verify The data of UserDefined_CheckBox
+Dec 09,2016 16:46:44 [info]  Verified that Expected value :[true] is matched with Actual value :[true]
+Dec 09,2016 16:46:44 [info]  Verify The data of Deselect All
+Dec 09,2016 16:46:44 [info]  Verified that Expected value :[true] is matched with Actual value :[true]
+Dec 09,2016 16:46:45 [info]  Verified that Expected value :[Linear Networks] is matched with Actual value :[Linear Networks]
+Dec 09,2016 16:46:45 [info]  Verified thatPrimary is selected in drop down NetworkType_DropDown
+Dec 09,2016 16:46:45 [info]  Entered "10" in field 'NetworkWindow_OutLetNumber'
+Dec 09,2016 16:46:45 [info]  Clicked on the 'Ok button'
+Dec 09,2016 16:46:48 [info]  
+Dec 09,2016 16:46:48 [info]  Verify The data of Alert Message on clicking Ok Button
+Dec 09,2016 16:46:48 [info]  Verified that Expected value :[Please enter either Number of Outlet or Exhibition Network.] is matched with Actual value :[Please enter either Number of Outlet or Exhibition Network.]
+Dec 09,2016 16:46:48 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Dec 09,2016 16:46:48 [info]  Clicked on the 'UserDefined_CheckBox'
+Dec 09,2016 16:46:49 [info]  Verify The data of User-Defined Network is disabled
+Dec 09,2016 16:46:49 [info]  Verified that Expected value :[true] is matched with Actual value :[true]
+Dec 09,2016 16:46:49 [info]  Clicked on the 'Ok button'
+Dec 09,2016 16:46:49 [info]  Verify The data of Exhibition Network
+Dec 09,2016 16:46:49 [info]  Verified that Expected value :[ Outlets: 10] is matched with Actual value :[Primary Outlets: 10]
+Dec 09,2016 16:46:50 [info]  Clicked on the 'Network pop up icon'
+Dec 09,2016 16:46:50 [info]  Verified that Expected value :[Linear Networks] is matched with Actual value :[Linear Networks]
+Dec 09,2016 16:46:50 [info]  Verified thatPrimary is selected in drop down NetworkType_DropDown
+Dec 09,2016 16:46:50 [info]  Clicked on the 'Selected Channel AMC Linear'
+Dec 09,2016 16:46:51 [info]  Clicked on the 'Ok button'
+Dec 09,2016 16:46:54 [info]  
+Dec 09,2016 16:46:54 [info]  Verify The data of Alert Message on clicking Ok Button
+Dec 09,2016 16:46:54 [info]  Verified that Expected value :[Please enter either Number of Outlet or Exhibition Network.] is matched with Actual value :[Please enter either Number of Outlet or Exhibition Network.]
+Dec 09,2016 16:46:54 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Dec 09,2016 16:46:59 [info]  Entered "" in field 'NetworkWindow_OutLetNumber'
+Dec 09,2016 16:47:00 [info]  Clicked on the 'Ok button'
+Dec 09,2016 16:47:03 [info]  Verify The data of Exhibition Network
+Dec 09,2016 16:47:03 [info]  Verified that Expected value :[AMC Linear] is matched with Actual value :[AMC Linear]
+Dec 09,2016 16:47:04 [info]  Clicked on the 'Network pop up icon'
+Dec 09,2016 16:47:08 [info]  Clicked on the 'Selected Channel AMC HD'
+Dec 09,2016 16:47:10 [info]  Clicked on the 'Ok button'
+Dec 09,2016 16:48:50 [info]  
+Dec 09,2016 16:48:50 [info]  Appliest TO : All >> Verify Linear is default value in Media Type >> verify UserDefinedNetwork_input in disabled
+Dec 09,2016 16:48:50 [info]   >> UserDefined_Input field is disable
+Dec 09,2016 16:48:50 [info]   >> OK >> Validation msg >> Select Primaty in Network Type >> Verify Primary is shown Network Type
+Dec 09,2016 16:48:50 [info]   >> Check UserDefined_CheckBox >> Verify UserDefined_CheckBox is checked
+Dec 09,2016 16:48:50 [info]   >> UserDefined_Input field is enabled >> AND Exh Network becomes Disabled
+Dec 09,2016 16:48:59 [info]  Verify The data of AppliesTo
+Dec 09,2016 16:48:59 [info]  Verified that Expected value :[All] is matched with Actual value :[
+                    AppliesTo: All
+                ]
+Dec 09,2016 16:48:59 [info]  Verified that Expected value :[Linear Networks] is matched with Actual value :[Linear Networks]
+Dec 09,2016 16:48:59 [info]  Verify The data of User-Defined Network is disabled
+Dec 09,2016 16:48:59 [info]  Verified that Expected value :[true] is matched with Actual value :[true]
+Dec 09,2016 16:49:00 [info]  Clicked on the 'Ok button'
+Dec 09,2016 16:49:03 [info]  
+Dec 09,2016 16:49:03 [info]  Verify The data of Alert Message on clicking Ok Button
+Dec 09,2016 16:49:03 [info]  ====Failed==== Expected value is:[Please enter either Number of Outlet or Exhibition Network.] but Actual value is[]. Please check the screenshot with name: Alert Message on clicking Ok Buttonfor more details
+Dec 09,2016 16:49:04 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\09\Alert Message on clicking Ok Button_CheckpointFailure_12-09-2016 4-49-03 PM.jpg
+Dec 09,2016 16:49:04 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Dec 09,2016 16:49:06 [info]  Selected "Primary" in "NetworkType_DropDown" drop down
+Dec 09,2016 16:49:07 [info]  Verified thatPrimary is selected in drop down NetworkType_DropDown
+Dec 09,2016 16:49:07 [info]  Clicked on the 'UserDefined_CheckBox'
+Dec 09,2016 16:49:07 [info]  Verify The data of UserDefined_CheckBox is checked
+Dec 09,2016 16:49:07 [info]  Verified that Expected value :[true] is matched with Actual value :[true]
+Dec 09,2016 16:49:07 [info]  Verify The data of Deselect All
+Dec 09,2016 16:49:07 [info]  Verified that Expected value :[true] is matched with Actual value :[true]
+Dec 09,2016 16:49:08 [info]  Clicked on the 'Ok button'
+Dec 09,2016 16:49:11 [info]  
+Dec 09,2016 16:49:11 [info]  Verify The data of Alert Message on clicking Ok Button
+Dec 09,2016 16:49:11 [info]  Verified that Expected value :[Please enter value for User-defined Network.] is matched with Actual value :[Please enter value for User-defined Network.]
+Dec 09,2016 16:49:11 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Dec 09,2016 16:49:11 [info]  Entered "Network1234" in field 'NetworkWindow_UserDefinedNetwork'
+Dec 09,2016 16:49:12 [info]  Clicked on the 'Ok button'
+Dec 09,2016 16:49:18 [info]  ********************Started Executiong the Test Suite at 16:49:18******************
+Dec 09,2016 16:49:18 [info]  Client: AMCN
+Dec 09,2016 16:49:18 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Dec 09,2016 16:49:18 [info]  *********************Started Executing 'TC4_SelectMediaRow_WhileDefiningExhRights' Test Case*********************
+Dec 09,2016 16:49:28 [info]  Client: AMCN
+Dec 09,2016 16:49:28 [info]  URL: http://rlv2wb79/login.aspx
+Dec 09,2016 16:49:28 [info]  UserName: automation
+Dec 09,2016 16:49:28 [info]  Password: automation
+Dec 09,2016 16:49:29 [info]  Entered "automation" in field 'User Name'
+Dec 09,2016 16:49:29 [info]  Clicked on the 'Temporary Check Box'
+Dec 09,2016 16:49:29 [info]  Entered "automation" in field 'Password'
+Dec 09,2016 16:49:36 [info]  Clicked on the 'LoginButton'
+Dec 09,2016 16:49:45 [info]  Double clicked on 'AUT_Deal_TC1_1207201624633Deal'
+Dec 09,2016 16:49:48 [info]  Clicked on the 'Exhibition Rights TAB'
+Dec 09,2016 16:49:51 [info]  Clicked on the ''Edit' Button at Media Rights TAB' using JS Executor
+Dec 09,2016 16:49:51 [info]  
+Dec 09,2016 16:49:51 [info]  Add Button >> Verify Media Rights's rows >> verify Select Check Box is shown >> Verify Buttons
+Dec 09,2016 16:49:52 [info]  Clicked on the 'Add Button'
+Dec 09,2016 16:49:57 [info]  Clicked on the 'Select Check Box'
+Dec 09,2016 16:49:57 [info]  Clicked on the 'Add Button at Media rights Pop up Window'
+Dec 09,2016 16:49:57 [info]  
+Dec 09,2016 16:49:57 [info]  From Manual Test Step : TC_RI_EX_040
+Dec 09,2016 16:49:57 [info]  Exhibition Rights Network Dialog Window
+Dec 09,2016 16:49:59 [info]  Clicked on the 'Network pop up icon'
+Dec 09,2016 16:50:00 [info]  ********Verify Labels at Exhibition Network window********
+Dec 09,2016 16:50:00 [info]  Verify The data of AppliesTo
+Dec 09,2016 16:50:00 [info]  Verified that Expected value :[AppliesTo] is matched with Actual value :[
+                    AppliesTo: All
+                ]
+Dec 09,2016 16:50:00 [info]  Verify The data of Media Type
+Dec 09,2016 16:50:00 [info]  Verified that Expected value :[Media Type] is matched with Actual value :[Media Type]
+Dec 09,2016 16:50:00 [info]  Verify The data of Network Type
+Dec 09,2016 16:50:00 [info]  Verified that Expected value :[Network Type] is matched with Actual value :[Network Type]
+Dec 09,2016 16:50:00 [info]  Verify The data of User-Defined
+Dec 09,2016 16:50:01 [info]  Verified that Expected value :[User-Defined] is matched with Actual value :[User-Defined]
+Dec 09,2016 16:50:01 [info]  Verify The data of User-Defined Network
+Dec 09,2016 16:50:01 [info]  Verified that Expected value :[User-Defined Network] is matched with Actual value :[User-Defined Network]
+Dec 09,2016 16:50:01 [info]  Verify The data of Exhib. Network
+Dec 09,2016 16:50:01 [info]  Verified that Expected value :[Exhib. Network] is matched with Actual value :[Exhib. Network]
+Dec 09,2016 16:50:01 [info]  Verify The data of Outlet #
+Dec 09,2016 16:50:01 [info]  Verified that Expected value :[Outlet #] is matched with Actual value :[Outlet #]
+Dec 09,2016 16:50:01 [info]  ********Verify Buttons at Exhibition Network window********
+Dec 09,2016 16:50:01 [info]  Verify The data of Deselect All
+Dec 09,2016 16:50:01 [info]  Verified that Expected value :[Deselect All] is matched with Actual value :[Deselect All]
+Dec 09,2016 16:50:01 [info]  Verify The data of Select All
+Dec 09,2016 16:50:01 [info]  Verified that Expected value :[Select All] is matched with Actual value :[Select All]
+Dec 09,2016 16:50:01 [info]  Verify The data of OK
+Dec 09,2016 16:50:01 [info]  Verified that Expected value :[OK] is matched with Actual value :[OK]
+Dec 09,2016 16:50:01 [info]  Verify The data of Cancel
+Dec 09,2016 16:50:01 [info]  Verified that Expected value :[Cancel] is matched with Actual value :[Cancel]
+Dec 09,2016 16:50:01 [info]  
+Dec 09,2016 16:50:01 [info]  Appliest TO : All >> Verify Linear is default value in Media Type >> verify UserDefinedNetwork_input in disabled
+Dec 09,2016 16:50:01 [info]   >> UserDefined_Input field is disable
+Dec 09,2016 16:50:01 [info]   >> OK >> Validation msg >> Select Primaty in Network Type >> Verify Primary is shown Network Type
+Dec 09,2016 16:50:01 [info]   >> Check UserDefined_CheckBox >> Verify UserDefined_CheckBox is checked
+Dec 09,2016 16:50:01 [info]   >> UserDefined_Input field is enabled >> AND Exh Network becomes Disabled
+Dec 09,2016 16:50:01 [info]  Verify The data of AppliesTo
+Dec 09,2016 16:50:01 [info]  Verified that Expected value :[All] is matched with Actual value :[
+                    AppliesTo: All
+                ]
+Dec 09,2016 16:50:01 [info]  Verified that Expected value :[Linear Networks] is matched with Actual value :[Linear Networks]
+Dec 09,2016 16:50:01 [info]  Verify The data of User-Defined Network is disabled
+Dec 09,2016 16:50:01 [info]  Verified that Expected value :[true] is matched with Actual value :[true]
+Dec 09,2016 16:50:02 [info]  Clicked on the 'Ok button'
+Dec 09,2016 16:50:05 [info]  
+Dec 09,2016 16:50:05 [info]  Verify The data of Alert Message on clicking Ok Button
+Dec 09,2016 16:50:05 [info]  Verified that Expected value :[Please enter either Number of Outlet or Exhibition Network.] is matched with Actual value :[Please enter either Number of Outlet or Exhibition Network.]
+Dec 09,2016 16:50:05 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Dec 09,2016 16:50:06 [info]  Selected "Primary" in "NetworkType_DropDown" drop down
+Dec 09,2016 16:50:06 [info]  Verified thatPrimary is selected in drop down NetworkType_DropDown
+Dec 09,2016 16:50:06 [info]  Clicked on the 'UserDefined_CheckBox'
+Dec 09,2016 16:50:06 [info]  Verify The data of UserDefined_CheckBox is checked
+Dec 09,2016 16:50:06 [info]  Verified that Expected value :[true] is matched with Actual value :[true]
+Dec 09,2016 16:50:06 [info]  Verify The data of Deselect All
+Dec 09,2016 16:50:06 [info]  Verified that Expected value :[true] is matched with Actual value :[true]
+Dec 09,2016 16:50:07 [info]  Clicked on the 'Ok button'
+Dec 09,2016 16:50:10 [info]  
+Dec 09,2016 16:50:10 [info]  Verify The data of Alert Message on clicking Ok Button
+Dec 09,2016 16:50:10 [info]  Verified that Expected value :[Please enter value for User-defined Network.] is matched with Actual value :[Please enter value for User-defined Network.]
+Dec 09,2016 16:50:10 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Dec 09,2016 16:50:10 [info]  Entered "Network1234" in field 'NetworkWindow_UserDefinedNetwork'
+Dec 09,2016 16:50:11 [info]  Clicked on the 'Ok button'
+Dec 09,2016 16:50:11 [info]  Verify The data of Exhibition Network
+Dec 09,2016 16:50:11 [info]  Verified that Expected value :[Network1234] is matched with Actual value :[Network1234]
+Dec 09,2016 16:50:11 [info]  Clicked on the 'Network pop up icon'
+Dec 09,2016 16:50:12 [info]  Verify The data of UserDefined_CheckBox
+Dec 09,2016 16:50:12 [info]  Verified that Expected value :[true] is matched with Actual value :[true]
+Dec 09,2016 16:50:12 [info]  Verify The data of Deselect All
+Dec 09,2016 16:50:12 [info]  Verified that Expected value :[true] is matched with Actual value :[true]
+Dec 09,2016 16:50:12 [info]  Verified that Expected value :[Linear Networks] is matched with Actual value :[Linear Networks]
+Dec 09,2016 16:50:12 [info]  Verified thatPrimary is selected in drop down NetworkType_DropDown
+Dec 09,2016 16:50:13 [info]  Entered "10" in field 'NetworkWindow_OutLetNumber'
+Dec 09,2016 16:50:13 [info]  Clicked on the 'Ok button'
+Dec 09,2016 16:50:16 [info]  
+Dec 09,2016 16:50:16 [info]  Verify The data of Alert Message on clicking Ok Button
+Dec 09,2016 16:50:16 [info]  Verified that Expected value :[Please enter either Number of Outlet or Exhibition Network.] is matched with Actual value :[Please enter either Number of Outlet or Exhibition Network.]
+Dec 09,2016 16:50:16 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Dec 09,2016 16:50:16 [info]  Clicked on the 'UserDefined_CheckBox'
+Dec 09,2016 16:50:17 [info]  Verify The data of User-Defined Network is disabled
+Dec 09,2016 16:50:17 [info]  Verified that Expected value :[true] is matched with Actual value :[true]
+Dec 09,2016 16:50:17 [info]  Clicked on the 'Ok button'
+Dec 09,2016 16:50:17 [info]  Verify The data of Exhibition Network
+Dec 09,2016 16:50:17 [info]  Verified that Expected value :[ Outlets: 10] is matched with Actual value :[Primary Outlets: 10]
+Dec 09,2016 16:50:17 [info]  Clicked on the 'Network pop up icon'
+Dec 09,2016 16:50:18 [info]  Verified that Expected value :[Linear Networks] is matched with Actual value :[Linear Networks]
+Dec 09,2016 16:50:18 [info]  Verified thatPrimary is selected in drop down NetworkType_DropDown
+Dec 09,2016 16:50:18 [info]  Clicked on the 'Selected Channel AMC Linear'
+Dec 09,2016 16:50:18 [info]  Clicked on the 'Ok button'
+Dec 09,2016 16:50:22 [info]  
+Dec 09,2016 16:50:22 [info]  Verify The data of Alert Message on clicking Ok Button
+Dec 09,2016 16:50:22 [info]  Verified that Expected value :[Please enter either Number of Outlet or Exhibition Network.] is matched with Actual value :[Please enter either Number of Outlet or Exhibition Network.]
+Dec 09,2016 16:50:22 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Dec 09,2016 16:50:22 [info]  Entered "" in field 'NetworkWindow_OutLetNumber'
+Dec 09,2016 16:50:22 [info]  Clicked on the 'Ok button'
+Dec 09,2016 16:50:23 [info]  Verify The data of Exhibition Network
+Dec 09,2016 16:50:23 [info]  Verified that Expected value :[AMC Linear] is matched with Actual value :[AMC Linear]
+Dec 09,2016 16:50:23 [info]  Clicked on the 'Network pop up icon'
+Dec 09,2016 16:50:23 [info]  Clicked on the 'Selected Channel AMC HD'
+Dec 09,2016 16:50:23 [info]  Clicked on the 'Ok button'
+Dec 09,2016 16:50:24 [info]  Verify The data of Exhibition Network
+Dec 09,2016 16:50:24 [info]  ====Failed==== Expected value is:[AMC Linear,AMC HD] but Actual value is[AMC HD,AMC Linear]. Please check the screenshot with name: Exhibition Networkfor more details
+Dec 09,2016 16:50:25 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\09\Exhibition Network_CheckpointFailure_12-09-2016 4-50-24 PM.jpg
+Dec 09,2016 16:50:25 [info]  Test 'TC4_SelectMediaRow_WhileDefiningExhRights' PASSED
+Dec 09,2016 16:50:26 [info]  Closed the Browser

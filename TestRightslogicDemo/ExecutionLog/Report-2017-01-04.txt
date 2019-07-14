@@ -1,0 +1,699 @@
+Jan 04,2017 11:39:44 [info]  ********************Started Executiong the Test Suite at 11:39:44******************
+Jan 04,2017 11:39:44 [info]  Client: TURNER
+Jan 04,2017 11:39:44 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Jan 04,2017 11:39:44 [info]  *********************Started Executing 'createData' Test Case*********************
+Jan 04,2017 11:39:55 [info]  Client: TURNER
+Jan 04,2017 11:39:55 [info]  URL: http://rlv2wb58:81/login.aspx
+Jan 04,2017 11:39:55 [info]  UserName: admin
+Jan 04,2017 11:39:55 [info]  Password: admin
+Jan 04,2017 11:39:57 [info]  Entered "admin" in field 'User Name'
+Jan 04,2017 11:39:57 [info]  Clicked on the 'Temporary Check Box'
+Jan 04,2017 11:39:57 [info]  Entered "admin" in field 'Password'
+Jan 04,2017 11:40:02 [info]  Clicked on the 'LoginButton'
+Jan 04,2017 11:40:09 [info]  ************************Started Creating Asset of Type: Program TV/Digital - Series************************
+Jan 04,2017 11:40:12 [info]  Clicked on the 'MODULE'
+Jan 04,2017 11:40:27 [info]  Clicked on the 'Asset Maintenance'
+Jan 04,2017 11:40:33 [info]  Clicked on the 'New Button' using JS Executor
+Jan 04,2017 11:40:50 [info]  Clicked on the 'Program' using JS Executor
+Jan 04,2017 11:40:58 [info]  Clicked on the 'General TAB'
+Jan 04,2017 11:41:01 [info]  Selected "Program TV/Digital - Series" in "AssetTypeDropDown" drop down
+Jan 04,2017 11:41:05 [info]  Entered "AUT_AssetSeries_TC1_01042017113944" in field 'AssetTitle'
+Jan 04,2017 11:41:06 [info]  Clicked on the 'Vendor Img Icon' using JS Executor
+Jan 04,2017 11:41:06 [info]  Entered "AUT_TURNER_Vendor1" in field 'SearchvalueVendor'
+Jan 04,2017 11:41:12 [info]  Clicked on the 'VendorWindowButtonfind' using JS Executor
+Jan 04,2017 11:41:18 [info]  Clicked on the 'VendorName At VendorWindow'
+Jan 04,2017 11:41:18 [info]  Clicked on the 'Vendor Select Button' using JS Executor
+Jan 04,2017 11:41:21 [info]  Verify The data of Vendor1
+<span style="color:green;">Jan 04,2017 11:41:21 [info]  Verified that Expected value :[AUT_TURNER_Vendor1] is matched with Actual value :[AUT_TURNER_Vendor1]</span>
+Jan 04,2017 11:41:22 [info]  Clicked on the 'StudioImageIcon' using JS Executor
+<span style="color:green;">Jan 04,2017 11:41:22 [info]  Verified that Expected value :[Select Studio] is matched with Actual value :[Select Studio]</span>
+Jan 04,2017 11:41:22 [info]  Entered "AUT_TURNER_Studio" in field 'Studio Name'
+Jan 04,2017 11:41:23 [info]  Clicked on the 'Find Button' using JS Executor
+Jan 04,2017 11:41:31 [info]  Clicked on the 'VendorName At VendorWindow'
+Jan 04,2017 11:41:31 [info]  Clicked on the 'Vendor Select Button' using JS Executor
+Jan 04,2017 11:41:34 [info]  Verify The data of Studio/Vendor2
+<span style="color:green;">Jan 04,2017 11:41:34 [info]  Verified that Expected value :[AUT_TURNER_Studio] is matched with Actual value :[AUT_TURNER_Studio]</span>
+Jan 04,2017 11:41:37 [info]  Clicked on the 'SBUImage' using JS Executor
+<span style="color:green;">Jan 04,2017 11:41:37 [info]  Verified that Expected value :[Source Business Unit Template] is matched with Actual value :[Source Business Unit Template]</span>
+Jan 04,2017 11:41:43 [info]  Clicked on the 'First CheckBox At SBU window'
+Jan 04,2017 11:41:45 [info]  Clicked on the 'Apply Button' using JS Executor
+Jan 04,2017 11:41:45 [info]  Entered "11:11:11" in field 'Duration'
+<span style="color:red;">Jan 04,2017 11:43:15 [info]  ====Failed==== "In Negotiation" is not present in 'Asset StatusDrop Down'</span>
+Jan 04,2017 11:43:16 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Jan2017\\04\Asset Status_CheckpointFailure_01-04-2017 11-43-15 AM.jpg
+Jan 04,2017 11:43:16 [info]  Selected "Co-Production" in "Asset Format" drop down
+Jan 04,2017 11:43:16 [info]  Selected "Group 1" in "Asset Category/Group" drop down
+Jan 04,2017 11:43:16 [info]  Entered "AUT_Series" in field 'Short Name'
+Jan 04,2017 11:43:16 [info]  Entered "Test" in field 'ProjectID'
+Jan 04,2017 11:43:17 [info]  Clicked on the 'Save Button' using JS Executor
+<span style="color:green;">Jan 04,2017 11:43:33 [info]  Verified that Expected value :[AUT_AssetSeries_TC1_01042017113944] is matched with Actual value :[AUT_AssetSeries_TC1_01042017113944]</span>
+Jan 04,2017 11:43:33 [info]  ************************Created Asset of TypeProgram TV/Digital - Series************************
+Jan 04,2017 11:43:36 [info]  Clicked on the 'MODULE'
+Jan 04,2017 11:43:45 [info]  Clicked on the 'Asset Maintenance'
+Jan 04,2017 11:43:48 [info]  Clicked on the 'Search Menu Icon' using JS Executor
+Jan 04,2017 11:43:57 [info]  Clicked on the 'AssetSearchUnderAsset' using JS Executor
+Jan 04,2017 11:44:05 [info]  Entered "AUT_AssetSeries_TC1_01042017113944" in field 'AssetTitle'
+<span style="color:red;">Jan 04,2017 11:44:05 [info]  =====BUG ID======: 20309 >> AssetMaintenance.searchCreatedAsset()</span>
+Jan 04,2017 11:44:05 [info]  Clicked on the 'DisplaySeasoncheckBox' using JS Executor
+Jan 04,2017 11:46:40 [info]  Clicked on the 'Find Button' using JS Executor
+Jan 04,2017 13:27:40 [info]  ********************Started Executiong the Test Suite at 13:27:40******************
+Jan 04,2017 13:27:40 [info]  Client: VMN
+Jan 04,2017 13:27:41 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Jan 04,2017 13:27:41 [info]  *********************Started Executing 'TC4_ChangeAssetSubType' Test Case*********************
+Jan 04,2017 13:27:50 [info]  Client: VMN
+Jan 04,2017 13:27:50 [info]  URL: http://rlv3wb53/login.aspx
+Jan 04,2017 13:27:50 [info]  UserName: admin
+Jan 04,2017 13:27:50 [info]  Password: admin
+Jan 04,2017 13:27:51 [info]  Entered "admin" in field 'User Name'
+Jan 04,2017 13:27:51 [info]  Clicked on the 'Temporary Check Box'
+Jan 04,2017 13:27:52 [info]  Entered "admin" in field 'Password'
+Jan 04,2017 13:27:52 [info]  Clicked on the 'LoginButton'
+Jan 04,2017 13:27:58 [info]  **************Started Creating Movie Asset**************
+<span style="color:red;">Jan 04,2017 13:28:07 [info]  ====Failed==== "MODULE" field is not present'</span>
+Jan 04,2017 13:28:07 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Jan2017\\04\MODULE_CheckpointFailure_01-04-2017 1-28-07 PM.jpg
+<span style="color:red;">Jan 04,2017 13:28:10 [info]  ====Failed==== "Property Entry & Maintenance" field is not present'</span>
+Jan 04,2017 13:28:11 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Jan2017\\04\Property Entry & Maintenance_CheckpointFailure_01-04-2017 1-28-10 PM.jpg
+Jan 04,2017 13:28:14 [info]  Clicked on the 'SearchLink' using JS Executor
+<span style="color:red;">Jan 04,2017 13:28:44 [info]  ====Failed==== "Property Search" field is not present'</span>
+Jan 04,2017 13:28:44 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Jan2017\\04\Property Search_CheckpointFailure_01-04-2017 1-28-44 PM.jpg
+Jan 04,2017 13:29:33 [info]  ********************Started Executiong the Test Suite at 13:29:33******************
+Jan 04,2017 13:29:33 [info]  Client: VMN
+Jan 04,2017 13:29:33 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Jan 04,2017 13:29:33 [info]  *********************Started Executing 'TC4_ChangeAssetSubType' Test Case*********************
+Jan 04,2017 13:29:43 [info]  Client: VMN
+Jan 04,2017 13:29:43 [info]  URL: http://rlv3wb53/login.aspx
+Jan 04,2017 13:29:43 [info]  UserName: admin
+Jan 04,2017 13:29:43 [info]  Password: admin
+Jan 04,2017 13:29:44 [info]  Entered "admin" in field 'User Name'
+Jan 04,2017 13:29:44 [info]  Clicked on the 'Temporary Check Box'
+Jan 04,2017 13:29:44 [info]  Entered "admin" in field 'Password'
+Jan 04,2017 13:30:00 [info]  Clicked on the 'LoginButton'
+Jan 04,2017 13:30:06 [info]  **************Started Creating Movie Asset**************
+Jan 04,2017 13:30:10 [info]  Clicked on the 'MODULE'
+Jan 04,2017 13:30:24 [info]  Clicked on the 'Property Entry & Maintenance'
+Jan 04,2017 13:30:28 [info]  Clicked on the 'SearchLink' using JS Executor
+Jan 04,2017 13:30:28 [info]  Clicked on the 'Property Search' using JS Executor
+Jan 04,2017 13:30:38 [info]  Clicked on the 'TR_Asset_Search_Params' using JS Executor
+Jan 04,2017 13:30:39 [info]  Entered "AUT_Assetmovie_0104201713006" in field 'Asset Title'
+Jan 04,2017 13:30:42 [info]  Clicked on the 'Find Button' using JS Executor
+Jan 04,2017 13:30:58 [info]  Verify The data of Alert Message
+<span style="color:green;">Jan 04,2017 13:30:58 [info]  Verified that Expected value :[No search results were found for this query. Please try again using different criteria.] is matched with Actual value :[No search results were found for this query. Please try again using different criteria.]</span>
+Jan 04,2017 13:30:58 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Jan 04,2017 13:30:59 [info]  Clicked on the 'Ok button At Alert' using JS Executor
+Jan 04,2017 13:31:05 [info]  Clicked on the 'Add Asset Button' using JS Executor
+Jan 04,2017 13:31:10 [info]  Selected "Program" in "AssetTypeDropDown Pop upn VMN" drop down
+Jan 04,2017 13:31:32 [info]  Clicked on the 'OK Button'
+Jan 04,2017 13:31:39 [info]  Asset id is 183387
+Jan 04,2017 13:31:40 [info]  Selected "Program - Movie" in "AssetTypeDropDown" drop down
+Jan 04,2017 13:31:44 [info]  Clicked on the 'IPImageIcon' using JS Executor
+Jan 04,2017 13:31:45 [info]  Clicked on the 'Find Button' using JS Executor
+Jan 04,2017 13:31:49 [info]  Clicked on the 'loc_IPName_AT_IPWindow'
+Jan 04,2017 13:31:49 [info]  Clicked on the 'IP Select Button' using JS Executor
+Jan 04,2017 13:31:51 [info]  Entered "AUT_Assetmovie_0104201713006" in field 'AssetTitle'
+Jan 04,2017 13:31:51 [info]  Clicked on the 'Vendor Img Icon' using JS Executor
+Jan 04,2017 13:31:54 [info]  Entered "AUT_VMN_Vendor1" in field 'SearchvalueVendor'
+Jan 04,2017 13:31:56 [info]  Clicked on the 'VendorWindowButtonfind' using JS Executor
+Jan 04,2017 13:32:32 [info]  Clicked on the 'VendorName At VendorWindow'
+Jan 04,2017 13:32:32 [info]  Clicked on the 'Vendor Select Button' using JS Executor
+Jan 04,2017 13:32:35 [info]  Verify The data of Vendor1
+<span style="color:green;">Jan 04,2017 13:32:35 [info]  Verified that Expected value :[AUT_VMN_Vendor1] is matched with Actual value :[AUT_VMN_Vendor1]</span>
+Jan 04,2017 13:32:36 [info]  Clicked on the 'StudioImageIcon' using JS Executor
+<span style="color:green;">Jan 04,2017 13:32:38 [info]  Verified that Expected value :[Select Copyright Owner] is matched with Actual value :[Select Copyright Owner]</span>
+Jan 04,2017 13:32:39 [info]  Entered "AUT_VMN_Studio" in field 'Studio Name'
+Jan 04,2017 13:32:39 [info]  Clicked on the 'Find Button' using JS Executor
+Jan 04,2017 13:33:20 [info]  Clicked on the 'VendorName At VendorWindow'
+Jan 04,2017 13:33:20 [info]  Clicked on the 'Vendor Select Button' using JS Executor
+Jan 04,2017 13:33:23 [info]  Verify The data of Studio/Vendor2
+<span style="color:green;">Jan 04,2017 13:33:23 [info]  Verified that Expected value :[AUT_VMN_Studio] is matched with Actual value :[AUT_VMN_Studio]</span>
+Jan 04,2017 13:33:23 [info]  Clicked on the 'SBUImage' using JS Executor
+<span style="color:green;">Jan 04,2017 13:33:25 [info]  Verified that Expected value :[Channel / Entity Template] is matched with Actual value :[Channel / Entity Template]</span>
+Jan 04,2017 13:33:32 [info]  Clicked on the 'First CheckBox At SBU window'
+Jan 04,2017 13:33:34 [info]  Clicked on the 'Apply Button' using JS Executor
+Jan 04,2017 13:33:35 [info]  Entered "11:11:11" in field 'Duration'
+Jan 04,2017 13:33:35 [info]  Selected "Active Production" in "Asset Status" drop down
+Jan 04,2017 13:33:36 [info]  Selected "Animated" in "Asset Format" drop down
+Jan 04,2017 13:33:36 [info]  Selected "Co-Production" in "Asset Source" drop down
+Jan 04,2017 13:33:36 [info]  Selected "Television" in "Asset Category/Group" drop down
+Jan 04,2017 13:33:37 [info]  Entered "" in field 'ProjectID'
+Jan 04,2017 13:33:37 [info]  Selected "TBD" in "Client Group" drop down
+Jan 04,2017 13:33:37 [info]  Selected "In Progress" in "PROD Contract Entry/AssetData Status" drop down
+Jan 04,2017 13:33:38 [info]  Clicked on the 'Genre Add Button' using JS Executor
+Jan 04,2017 13:33:38 [info]  Clicked on the 'Genre Type Row Field' using JS Executor
+Jan 04,2017 13:33:38 [info]  Clicked on the 'Genere Type Dropdown Image'
+Jan 04,2017 13:33:39 [info]  Clicked on the 'First Genere Type DropDown Value in the list'
+Jan 04,2017 13:33:39 [info]  Clicked on the 'Genre Row Field' using JS Executor
+Jan 04,2017 13:33:39 [info]  Clicked on the 'Genere Dropdown Image'
+Jan 04,2017 13:33:40 [info]  Clicked on the 'Genere Dropdown value'
+Jan 04,2017 13:33:40 [info]  Clicked on the 'Add Button of Note' using JS Executor
+Jan 04,2017 13:33:43 [info]  Entered "Medium" in field 'Asset Priority'
+Jan 04,2017 13:33:43 [info]  Entered "Subject For the Deal" in field 'Asset Subject'
+Jan 04,2017 13:33:44 [info]  Entered "New Asset" in field 'AssetNotes TextField'
+Jan 04,2017 13:33:45 [info]  Clicked on the 'OK button'
+Jan 04,2017 13:33:47 [info]  Clicked on the 'Save Button' using JS Executor
+<span style="color:green;">Jan 04,2017 13:34:25 [info]  Verified that Expected value :[AUT_Assetmovie_0104201713006] is matched with Actual value :[AUT_Assetmovie_0104201713006]</span>
+Jan 04,2017 13:34:25 [info]  **************Changeing the Asset Type from 'Program - One-Off' to 'Program - Special'**************
+Jan 04,2017 13:34:29 [info]  Clicked on the 'MODULE'
+Jan 04,2017 13:34:43 [info]  Clicked on the 'Property Entry & Maintenance'
+Jan 04,2017 13:34:57 [info]  Clicked on the 'MODULE'
+Jan 04,2017 13:35:12 [info]  Clicked on the 'Property Entry & Maintenance'
+Jan 04,2017 13:35:16 [info]  Clicked on the 'Search Icon' using JS Executor
+Jan 04,2017 13:35:16 [info]  Clicked on the 'Property Search' using JS Executor
+Jan 04,2017 13:35:31 [info]  Entered "AUT_Assetmovie_0104201713006" in field 'AssetTitle'
+Jan 04,2017 13:35:31 [info]  Selected "Program - Movie" in "AssetTypeDropDownAtAssetSearch" drop down
+Jan 04,2017 13:35:31 [info]  Clicked on the 'Find Button' using JS Executor
+Jan 04,2017 13:36:11 [info]  Moved Mouse over 'First Asset in the Searched Asset'
+Jan 04,2017 13:36:11 [info]  Clicked on the 'First Asset in the Searched Asset'
+Jan 04,2017 13:36:12 [info]  Clicked on the 'First Asset in the Searched Asset'
+Jan 04,2017 13:36:15 [info]  Clicked on the 'View Asset' using JS Executor
+<span style="color:green;">Jan 04,2017 13:36:37 [info]  Verified that Expected value :[AUT_Assetmovie_0104201713006] is matched with Actual value :[AUT_Assetmovie_0104201713006]</span>
+Jan 04,2017 13:36:47 [info]  Selected "Program - Special" in "AssetTypeDropDown" drop down
+Jan 04,2017 13:36:48 [info]  Alert message is Pass
+Jan 04,2017 13:36:48 [info]    Property Sub Type change  
+    You are changing the property subtype. Data that is not relevant to the new subtype Assignment will be deleted. You cannot undo this change.
+       
+Jan 04,2017 13:36:51 [info]  Clicked on the 'Ok Button At Confirm Pop-Up' using JS Executor
+Jan 04,2017 13:37:01 [info]  Clicked on the 'Save Button' using JS Executor
+<span style="color:green;">Jan 04,2017 13:37:32 [info]  Verified that the subtupe of Movie Asset: AUT_Assetmovie_0104201713006 is changed from 'Program - Movie' to 'Program - Special' successfully</span>
+Jan 04,2017 13:37:32 [info]  **************Started Crreating Element Asset**************
+Jan 04,2017 13:37:36 [info]  Clicked on the 'MODULE'
+Jan 04,2017 13:37:51 [info]  Clicked on the 'Property Entry & Maintenance'
+Jan 04,2017 13:37:55 [info]  Clicked on the 'SearchLink' using JS Executor
+Jan 04,2017 13:37:55 [info]  Clicked on the 'Property Search' using JS Executor
+Jan 04,2017 13:38:06 [info]  Clicked on the 'TR_Asset_Search_Params' using JS Executor
+Jan 04,2017 13:38:07 [info]  Entered "AUT_AssetEle_0104201713006" in field 'Asset Title'
+Jan 04,2017 13:38:09 [info]  Clicked on the 'Find Button' using JS Executor
+Jan 04,2017 13:38:25 [info]  Verify The data of Alert Message
+<span style="color:green;">Jan 04,2017 13:38:25 [info]  Verified that Expected value :[No search results were found for this query. Please try again using different criteria.] is matched with Actual value :[No search results were found for this query. Please try again using different criteria.]</span>
+Jan 04,2017 13:38:25 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Jan 04,2017 13:38:25 [info]  Clicked on the 'Ok button At Alert' using JS Executor
+Jan 04,2017 13:38:32 [info]  Clicked on the 'Add Asset Button' using JS Executor
+Jan 04,2017 13:38:36 [info]  Selected "Element" in "AssetTypeDropDown Pop upn VMN" drop down
+Jan 04,2017 13:39:10 [info]  Clicked on the 'OK Button'
+Jan 04,2017 13:39:16 [info]  Asset id is 183391
+Jan 04,2017 13:39:17 [info]  Selected "Element - Music" in "AssetTypeDropDown" drop down
+Jan 04,2017 13:39:22 [info]  Clicked on the 'Asset Title Field'
+Jan 04,2017 13:39:24 [info]  Entered "AUT_AssetEle_0104201713006" in field 'AssetTitle'
+Jan 04,2017 13:39:24 [info]  Clicked on the 'Vendor Img Icon' using JS Executor
+Jan 04,2017 13:39:26 [info]  Entered "AUT_VMN_Vendor1" in field 'SearchvalueVendor'
+Jan 04,2017 13:39:28 [info]  Clicked on the 'VendorWindowButtonfind' using JS Executor
+Jan 04,2017 13:40:05 [info]  Clicked on the 'VendorName At VendorWindow'
+Jan 04,2017 13:40:05 [info]  Clicked on the 'Vendor Select Button' using JS Executor
+Jan 04,2017 13:40:08 [info]  Verify The data of Vendor1
+<span style="color:green;">Jan 04,2017 13:40:08 [info]  Verified that Expected value :[AUT_VMN_Vendor1] is matched with Actual value :[AUT_VMN_Vendor1]</span>
+Jan 04,2017 13:40:09 [info]  Entered "11:11:11" in field 'Duration'
+<span style="color:red;">Jan 04,2017 13:40:39 [info]  ====Failed==== "ProjectID" field is not present'ProjectID'</span>
+Jan 04,2017 13:40:40 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Jan2017\\04\ProjectID_CheckpointFailure_01-04-2017 1-40-39 PM.jpg
+<span style="color:red;">Jan 04,2017 13:41:10 [info]  ====Failed==== "TBD" is not present in 'Client GroupDrop Down'</span>
+Jan 04,2017 13:41:10 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Jan2017\\04\Client Group_CheckpointFailure_01-04-2017 1-41-10 PM.jpg
+<span style="color:red;">Jan 04,2017 13:41:40 [info]  ====Failed==== "In Progress" is not present in 'PROD Contract Entry/AssetData StatusDrop Down'</span>
+Jan 04,2017 13:41:40 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Jan2017\\04\PROD Contract Entry/AssetData Status_CheckpointFailure_01-04-2017 1-41-40 PM.jpg
+Jan 04,2017 13:41:40 [info]  Clicked on the 'Genre Add Button' using JS Executor
+Jan 04,2017 13:41:40 [info]  Clicked on the 'Genre Type Row Field' using JS Executor
+Jan 04,2017 13:41:41 [info]  Clicked on the 'Genere Type Dropdown Image'
+Jan 04,2017 13:41:41 [info]  Clicked on the 'First Genere Type DropDown Value in the list'
+Jan 04,2017 13:41:41 [info]  Clicked on the 'Genre Row Field' using JS Executor
+Jan 04,2017 13:41:41 [info]  Clicked on the 'Genere Dropdown Image'
+Jan 04,2017 13:41:42 [info]  Clicked on the 'Genere Dropdown value'
+Jan 04,2017 13:41:42 [info]  Clicked on the 'Add Button of Note' using JS Executor
+Jan 04,2017 13:41:45 [info]  Entered "Medium" in field 'Asset Priority'
+Jan 04,2017 13:41:45 [info]  Entered "Subject For the Deal" in field 'Asset Subject'
+Jan 04,2017 13:41:46 [info]  Entered "New Asset" in field 'AssetNotes TextField'
+Jan 04,2017 13:41:47 [info]  Clicked on the 'OK button'
+Jan 04,2017 13:41:49 [info]  Clicked on the 'Save Button' using JS Executor
+<span style="color:green;">Jan 04,2017 13:42:23 [info]  Verified that Expected value :[AUT_AssetEle_0104201713006] is matched with Actual value :[AUT_AssetEle_0104201713006]</span>
+Jan 04,2017 13:42:23 [info]  **************Changeing the Asset Type from Element - Music' to 'Element - Text'**************
+Jan 04,2017 13:42:27 [info]  Clicked on the 'MODULE'
+Jan 04,2017 13:42:41 [info]  Clicked on the 'Property Entry & Maintenance'
+Jan 04,2017 13:42:48 [info]  Clicked on the 'MODULE'
+Jan 04,2017 13:43:02 [info]  Clicked on the 'Property Entry & Maintenance'
+Jan 04,2017 13:43:05 [info]  Clicked on the 'Search Icon' using JS Executor
+Jan 04,2017 13:43:06 [info]  Clicked on the 'Property Search' using JS Executor
+Jan 04,2017 13:43:20 [info]  Entered "AUT_AssetEle_0104201713006" in field 'AssetTitle'
+Jan 04,2017 13:43:21 [info]  Selected "Element - Music" in "AssetTypeDropDownAtAssetSearch" drop down
+Jan 04,2017 13:43:21 [info]  Clicked on the 'Find Button' using JS Executor
+Jan 04,2017 13:44:34 [info]  Moved Mouse over 'First Asset in the Searched Asset'
+Jan 04,2017 13:44:34 [info]  Clicked on the 'First Asset in the Searched Asset'
+Jan 04,2017 13:44:34 [info]  Clicked on the 'First Asset in the Searched Asset'
+Jan 04,2017 13:44:38 [info]  Clicked on the 'View Asset' using JS Executor
+<span style="color:green;">Jan 04,2017 13:45:03 [info]  Verified that Expected value :[AUT_AssetEle_0104201713006] is matched with Actual value :[AUT_AssetEle_0104201713006]</span>
+Jan 04,2017 13:45:19 [info]  Selected "Program - Episode" in "Asset Type Drop down for Element Type Asset" drop down
+Jan 04,2017 13:45:20 [info]  Alert message is Pass
+Jan 04,2017 13:45:20 [info]    Property Sub Type change  
+    You are changing the property subtype. Data that is not relevant to the new subtype Assignment will be deleted. You cannot undo this change.
+       
+Jan 04,2017 13:45:23 [info]  Clicked on the 'Ok Button At Confirm Pop-Up' using JS Executor
+Jan 04,2017 13:45:33 [info]  Clicked on the 'Save Button' using JS Executor
+<span style="color:green;">Jan 04,2017 13:45:41 [info]  Verified that the subtupe of Movie Asset: AUT_AssetEle_0104201713006 is changed from 'Program - Episode' to 'Program - Episode' successfully</span>
+Jan 04,2017 13:45:41 [info]  Test 'TC4_ChangeAssetSubType' PASSED
+Jan 04,2017 13:45:42 [info]  Closed the Browser
+Jan 04,2017 13:53:26 [info]  ********************Started Executiong the Test Suite at 13:53:26******************
+Jan 04,2017 13:53:26 [info]  Client: VMN
+Jan 04,2017 13:53:26 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Jan 04,2017 13:53:26 [info]  *********************Started Executing 'createData' Test Case*********************
+Jan 04,2017 13:53:36 [info]  Client: VMN
+Jan 04,2017 13:53:36 [info]  URL: http://rlv3wb53/login.aspx
+Jan 04,2017 13:53:36 [info]  UserName: admin
+Jan 04,2017 13:53:36 [info]  Password: admin
+Jan 04,2017 13:53:37 [info]  Entered "admin" in field 'User Name'
+Jan 04,2017 13:53:37 [info]  Clicked on the 'Temporary Check Box'
+Jan 04,2017 13:53:37 [info]  Entered "admin" in field 'Password'
+Jan 04,2017 13:53:38 [info]  Clicked on the 'LoginButton'
+Jan 04,2017 13:53:44 [info]  ************************Started Creating Asset of Type: Program - Series************************
+<span style="color:red;">Jan 04,2017 13:53:48 [info]  ====Failed==== "MODULE" field is not present'</span>
+Jan 04,2017 13:53:51 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Jan2017\\04\MODULE_CheckpointFailure_01-04-2017 1-53-48 PM.jpg
+<span style="color:red;">Jan 04,2017 13:54:24 [info]  ====Failed==== "Property Entry & Maintenance" field is not present'</span>
+Jan 04,2017 13:54:24 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Jan2017\\04\Property Entry & Maintenance_CheckpointFailure_01-04-2017 1-54-24 PM.jpg
+Jan 04,2017 13:54:31 [info]  Clicked on the 'SearchLink' using JS Executor
+<span style="color:red;">Jan 04,2017 13:55:01 [info]  ====Failed==== "Property Search" field is not present'</span>
+Jan 04,2017 13:55:02 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Jan2017\\04\Property Search_CheckpointFailure_01-04-2017 1-55-01 PM.jpg
+Jan 04,2017 13:56:40 [info]  Test 'createData' FAILED
+Jan 04,2017 13:56:40 [info]  2
+Jan 04,2017 13:56:40 [info]  Test Case :createData's Screenshot of Failure Page: C:\Screenshots\Jan2017\\04\createData_01-04-2017 1-56-40 PM.jpg
+Jan 04,2017 13:56:41 [info]  Closed the Browser
+Jan 04,2017 13:56:41 [info]  *********************Started Executing 'TC1_MediaRightsRow' Test Case*********************
+Jan 04,2017 13:56:49 [info]  Client: VMN
+Jan 04,2017 13:56:49 [info]  URL: http://rlv3wb53/login.aspx
+Jan 04,2017 13:56:49 [info]  UserName: admin
+Jan 04,2017 13:56:49 [info]  Password: admin
+Jan 04,2017 13:56:50 [info]  Entered "admin" in field 'User Name'
+Jan 04,2017 13:56:51 [info]  Clicked on the 'Temporary Check Box'
+Jan 04,2017 13:56:51 [info]  Entered "admin" in field 'Password'
+Jan 04,2017 13:57:06 [info]  Clicked on the 'LoginButton'
+Jan 04,2017 13:57:42 [info]  Could not find the locator: AUT_Deal_TC1_0104201715326Deal'
+Jan 04,2017 13:57:42 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Jan2017\\04\AUT_Deal_TC1_0104201715326Deal_CheckpointFailure_01-04-2017 1-57-42 PM.jpg
+<span style="color:red;">Jan 04,2017 13:58:16 [info]  ====Failed==== "Media Rights TAB" field is not present'</span>
+Jan 04,2017 13:58:16 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Jan2017\\04\Media Rights TAB_CheckpointFailure_01-04-2017 1-58-16 PM.jpg
+<span style="color:red;">Jan 04,2017 13:58:46 [info]  ====Failed==== " Could not find the Frame: div[class*='igtab_Office2007BlueTHContent'][style*=visible]</span>
+<span style="color:red;">Jan 04,2017 13:58:46 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Jan2017\\04\FrameSwitchingFailed0_CheckpointFailure_01-04-2017 1-58-46 PM.jpg</span>
+Jan 04,2017 13:58:46 [info]  Unable to find element with css selector == div[class*='igtab_Office2007BlueTHContent'][style*=visible] (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 30.16 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: '9P4G6BS', ip: '10.10.22.71', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=true, ie.forceCreateProcessApi=false, pageLoadStrategy=normal, ie.usePerProcessProxy=false, ignoreZoomSetting=false, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=false, browserName=internet explorer, initialBrowserUrl=http://localhost:19964/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=false, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: 4d3e059d-097e-44bc-8944-e2652d9d5384
+*** Element info: {Using=css selector, value=div[class*='igtab_Office2007BlueTHContent'][style*=visible]}
+Jan 04,2017 14:00:18 [info]  Test 'TC1_MediaRightsRow' FAILED
+Jan 04,2017 14:00:18 [info]  2
+Jan 04,2017 14:00:18 [info]  Test Case :TC1_MediaRightsRow's Screenshot of Failure Page: C:\Screenshots\Jan2017\\04\TC1_MediaRightsRow_01-04-2017 2-00-18 PM.jpg
+Jan 04,2017 14:00:19 [info]  Closed the Browser
+Jan 04,2017 14:00:19 [info]  *********************Started Executing 'TC2_Exhibition_UI_Verification' Test Case*********************
+Jan 04,2017 14:00:28 [info]  Client: VMN
+Jan 04,2017 14:00:28 [info]  URL: http://rlv3wb53/login.aspx
+Jan 04,2017 14:00:28 [info]  UserName: admin
+Jan 04,2017 14:00:28 [info]  Password: admin
+Jan 04,2017 14:00:28 [info]  Entered "admin" in field 'User Name'
+Jan 04,2017 14:00:29 [info]  Clicked on the 'Temporary Check Box'
+Jan 04,2017 14:00:29 [info]  Entered "admin" in field 'Password'
+Jan 04,2017 14:00:47 [info]  Clicked on the 'LoginButton'
+Jan 04,2017 14:01:24 [info]  Could not find the locator: AUT_Deal_TC1_0104201715326Deal'
+Jan 04,2017 14:01:24 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Jan2017\\04\AUT_Deal_TC1_0104201715326Deal_CheckpointFailure_01-04-2017 2-01-24 PM.jpg
+<span style="color:red;">Jan 04,2017 14:01:57 [info]  ====Failed==== "Exhibition Rights TAB" field is not present'</span>
+Jan 04,2017 14:01:58 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Jan2017\\04\Exhibition Rights TAB_CheckpointFailure_01-04-2017 2-01-57 PM.jpg
+<span style="color:red;">Jan 04,2017 14:02:28 [info]  ====Failed==== " Could not find the Frame: div[class*='igtab_Office2007BlueTHContent'][style*=visible]</span>
+<span style="color:red;">Jan 04,2017 14:02:28 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Jan2017\\04\FrameSwitchingFailed1_CheckpointFailure_01-04-2017 2-02-28 PM.jpg</span>
+Jan 04,2017 14:02:28 [info]  Unable to find element with css selector == div[class*='igtab_Office2007BlueTHContent'][style*=visible] (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 30.24 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: '9P4G6BS', ip: '10.10.22.71', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=true, ie.forceCreateProcessApi=false, pageLoadStrategy=normal, ie.usePerProcessProxy=false, ignoreZoomSetting=false, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=false, browserName=internet explorer, initialBrowserUrl=http://localhost:30267/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=false, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: ea88422a-b0c4-41ea-83cd-2454c2c7533e
+*** Element info: {Using=css selector, value=div[class*='igtab_Office2007BlueTHContent'][style*=visible]}
+Jan 04,2017 14:02:28 [info]  
+Jan 04,2017 14:02:28 [info]  Verify the Headers of Parent Row
+Jan 04,2017 14:02:59 [info]  Verify The data of Media Row Number
+<span style="color:red;">Jan 04,2017 14:02:59 [info]  ====Failed==== Expected value is:[Media Row] but Actual value is[]. Please check the screenshot with name: Media Row Numberfor more details</span>
+Jan 04,2017 14:02:59 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Jan2017\\04\Media Row Number_CheckpointFailure_01-04-2017 2-02-59 PM.jpg
+Jan 04,2017 14:03:29 [info]  Verify The data of Exhibit APPLIESTO
+<span style="color:red;">Jan 04,2017 14:03:29 [info]  ====Failed==== Expected value is:[Property] but Actual value is[]. Please check the screenshot with name: Exhibit APPLIESTOfor more details</span>
+Jan 04,2017 14:03:29 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Jan2017\\04\Exhibit APPLIESTO_CheckpointFailure_01-04-2017 2-03-29 PM.jpg
+Jan 04,2017 14:03:59 [info]  Verify The data of UNLIMITED Header
+<span style="color:red;">Jan 04,2017 14:03:59 [info]  ====Failed==== Expected value is:[Unlimited] but Actual value is[]. Please check the screenshot with name: UNLIMITED Headerfor more details</span>
+Jan 04,2017 14:03:59 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Jan2017\\04\UNLIMITED Header_CheckpointFailure_01-04-2017 2-03-59 PM.jpg
+Jan 04,2017 14:04:29 [info]  Verify The data of EXHIBITION_DAYSHeader
+<span style="color:red;">Jan 04,2017 14:04:29 [info]  ====Failed==== Expected value is:[Exhibitions] but Actual value is[]. Please check the screenshot with name: EXHIBITION_DAYSHeaderfor more details</span>
+Jan 04,2017 14:04:29 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Jan2017\\04\EXHIBITION_DAYSHeader_CheckpointFailure_01-04-2017 2-04-29 PM.jpg
+Jan 04,2017 14:05:00 [info]  Verify The data of RESERVED_EXHIBITION Header
+<span style="color:red;">Jan 04,2017 14:05:00 [info]  ====Failed==== Expected value is:[Reserved Exhibitions] but Actual value is[]. Please check the screenshot with name: RESERVED_EXHIBITION Headerfor more details</span>
+Jan 04,2017 14:05:00 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Jan2017\\04\RESERVED_EXHIBITION Header_CheckpointFailure_01-04-2017 2-05-00 PM.jpg
+Jan 04,2017 14:05:30 [info]  Verify The data of POOLED Header
+<span style="color:red;">Jan 04,2017 14:05:30 [info]  ====Failed==== Expected value is:[Pooled] but Actual value is[]. Please check the screenshot with name: POOLED Headerfor more details</span>
+Jan 04,2017 14:05:30 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Jan2017\\04\POOLED Header_CheckpointFailure_01-04-2017 2-05-30 PM.jpg
+Jan 04,2017 14:06:00 [info]  Verify The data of EXHIBITIONDAYSCOPE_Header
+<span style="color:red;">Jan 04,2017 14:06:00 [info]  ====Failed==== Expected value is:[Day Scope] but Actual value is[]. Please check the screenshot with name: EXHIBITIONDAYSCOPE_Headerfor more details</span>
+Jan 04,2017 14:06:00 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Jan2017\\04\EXHIBITIONDAYSCOPE_Header_CheckpointFailure_01-04-2017 2-06-00 PM.jpg
+Jan 04,2017 14:06:30 [info]  Verify The data of STARTDATE Header
+<span style="color:red;">Jan 04,2017 14:06:30 [info]  ====Failed==== Expected value is:[Term From] but Actual value is[]. Please check the screenshot with name: STARTDATE Headerfor more details</span>
+Jan 04,2017 14:06:31 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Jan2017\\04\STARTDATE Header_CheckpointFailure_01-04-2017 2-06-30 PM.jpg
+Jan 04,2017 14:07:01 [info]  Verify The data of ENDDATEHeader
+<span style="color:red;">Jan 04,2017 14:07:01 [info]  ====Failed==== Expected value is:[Term To] but Actual value is[]. Please check the screenshot with name: ENDDATEHeaderfor more details</span>
+Jan 04,2017 14:07:01 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Jan2017\\04\ENDDATEHeader_CheckpointFailure_01-04-2017 2-07-01 PM.jpg
+Jan 04,2017 14:07:31 [info]  Verify The data of ExhibitBUSINESS_TERMSHeader
+<span style="color:red;">Jan 04,2017 14:07:31 [info]  ====Failed==== Expected value is:[Notes] but Actual value is[]. Please check the screenshot with name: ExhibitBUSINESS_TERMSHeaderfor more details</span>
+Jan 04,2017 14:07:31 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Jan2017\\04\ExhibitBUSINESS_TERMSHeader_CheckpointFailure_01-04-2017 2-07-31 PM.jpg
+Jan 04,2017 14:07:31 [info]  
+Jan 04,2017 14:07:31 [info]  *****Verify all the buttons, drop down available in View Mode at the Exhibition Rights TAB*****
+Jan 04,2017 14:08:01 [info]  Verify The data of RI_Exh_ClearFiltersButton
+<span style="color:red;">Jan 04,2017 14:08:01 [info]  ====Failed==== Expected value is:[Clear Filters] but Actual value is[]. Please check the screenshot with name: RI_Exh_ClearFiltersButtonfor more details</span>
+Jan 04,2017 14:08:01 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Jan2017\\04\RI_Exh_ClearFiltersButton_CheckpointFailure_01-04-2017 2-08-01 PM.jpg
+Jan 04,2017 14:08:31 [info]  Verify The data of RI_Exh_ShowAllRowsLabel
+<span style="color:red;">Jan 04,2017 14:08:31 [info]  ====Failed==== Expected value is:[Show All Rows] but Actual value is[]. Please check the screenshot with name: RI_Exh_ShowAllRowsLabelfor more details</span>
+Jan 04,2017 14:08:32 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Jan2017\\04\RI_Exh_ShowAllRowsLabel_CheckpointFailure_01-04-2017 2-08-31 PM.jpg
+Jan 04,2017 14:10:03 [info]  Test 'TC2_Exhibition_UI_Verification' FAILED
+Jan 04,2017 14:10:03 [info]  2
+Jan 04,2017 14:10:03 [info]  Test Case :TC2_Exhibition_UI_Verification's Screenshot of Failure Page: C:\Screenshots\Jan2017\\04\TC2_Exhibition_UI_Verification_01-04-2017 2-10-03 PM.jpg
+Jan 04,2017 14:10:04 [info]  Closed the Browser
+Jan 04,2017 14:10:04 [info]  *********************Started Executing 'TC3_ValidationsMsgs_Allocate_Copy_Delete' Test Case*********************
+Jan 04,2017 14:10:12 [info]  Client: VMN
+Jan 04,2017 14:10:12 [info]  URL: http://rlv3wb53/login.aspx
+Jan 04,2017 14:10:12 [info]  UserName: admin
+Jan 04,2017 14:10:12 [info]  Password: admin
+<span style="color:red;">Jan 04,2017 14:11:04 [info]  ====Failed==== "User Name" field is not present'User Name'</span>
+Jan 04,2017 14:11:05 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Jan2017\\04\User Name_CheckpointFailure_01-04-2017 2-11-04 PM.jpg
+<span style="color:red;">Jan 04,2017 14:11:35 [info]  ====Failed==== "Temporary Check Box" field is not present'</span>
+Jan 04,2017 14:11:35 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Jan2017\\04\Temporary Check Box_CheckpointFailure_01-04-2017 2-11-35 PM.jpg
+<span style="color:red;">Jan 04,2017 14:12:05 [info]  ====Failed==== "Password" field is not present'Password'</span>
+<span style="color:red;">Jan 04,2017 14:12:05 [info]  ====Failed==== " Could not find the Frame: //div[@clientid='RL_SplitterPane_Content']</span>
+Jan 04,2017 14:12:05 [info]  Test 'TC3_ValidationsMsgs_Allocate_Copy_Delete' FAILED
+Jan 04,2017 14:12:05 [info]  2
+Jan 04,2017 14:12:06 [info]  Test 'TC3_ValidationsMsgs_Allocate_Copy_Delete' FAILED
+Jan 04,2017 14:12:06 [info]  2
+Jan 04,2017 15:05:54 [info]  ********************Started Executiong the Test Suite at 15:05:54******************
+Jan 04,2017 15:05:54 [info]  Client: VMN
+Jan 04,2017 15:05:54 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Jan 04,2017 15:05:54 [info]  *********************Started Executing 'test' Test Case*********************
+Jan 04,2017 15:06:04 [info]  Client: VMN
+Jan 04,2017 15:06:04 [info]  URL: http://rlv3wb53/login.aspx
+Jan 04,2017 15:06:04 [info]  UserName: admin
+Jan 04,2017 15:06:04 [info]  Password: admin
+Jan 04,2017 15:06:05 [info]  Entered "admin" in field 'User Name'
+Jan 04,2017 15:06:05 [info]  Clicked on the 'Temporary Check Box'
+Jan 04,2017 15:06:06 [info]  Entered "admin" in field 'Password'
+Jan 04,2017 15:06:21 [info]  Clicked on the 'LoginButton'
+Jan 04,2017 15:08:05 [info]  Clicked on the 'Contributor_ContributorSearch_SearchField'
+Jan 04,2017 15:08:06 [info]  Entered "Automation Last Name" in field 'Contributor_ContributorSearch_SearchField'
+Jan 04,2017 15:08:11 [info]  Clicked on the 'Find Button at Contributor Search Window' using JS Executor
+Jan 04,2017 15:08:15 [info]  Clicked on the 'Contributor_ContributorSearch_FirstContributor'
+Jan 04,2017 15:08:21 [info]  Clicked on the 'Select Contributor at Contributor_ContributorSearch window' using JS Executor
+Jan 04,2017 15:20:20 [info]  ********************Started Executiong the Test Suite at 15:20:20******************
+Jan 04,2017 15:20:20 [info]  Client: VMN
+Jan 04,2017 15:20:20 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Jan 04,2017 15:20:20 [info]  *********************Started Executing 'TC5_InternalDealforSeriesassets' Test Case*********************
+Jan 04,2017 15:20:30 [info]  Client: VMN
+Jan 04,2017 15:20:30 [info]  URL: http://rlv3wb53/login.aspx
+Jan 04,2017 15:20:30 [info]  UserName: admin
+Jan 04,2017 15:20:30 [info]  Password: admin
+Jan 04,2017 15:20:31 [info]  Entered "admin" in field 'User Name'
+Jan 04,2017 15:20:32 [info]  Clicked on the 'Temporary Check Box'
+Jan 04,2017 15:20:32 [info]  Entered "admin" in field 'Password'
+Jan 04,2017 15:20:49 [info]  Clicked on the 'LoginButton'
+Jan 04,2017 15:20:59 [info]  Clicked on the 'MODULE'
+Jan 04,2017 15:21:13 [info]  Clicked on the 'Property Entry & Maintenance'
+Jan 04,2017 15:21:17 [info]  Clicked on the 'SearchLink' using JS Executor
+Jan 04,2017 15:21:17 [info]  Clicked on the 'Property Search' using JS Executor
+Jan 04,2017 15:21:27 [info]  Clicked on the 'TR_Asset_Search_Params' using JS Executor
+Jan 04,2017 15:21:28 [info]  Entered "AUT_AssetSeries_0104201732055" in field 'Asset Title'
+Jan 04,2017 15:21:31 [info]  Clicked on the 'Find Button' using JS Executor
+Jan 04,2017 15:21:46 [info]  Verify The data of Alert Message
+<span style="color:green;">Jan 04,2017 15:21:46 [info]  Verified that Expected value :[No search results were found for this query. Please try again using different criteria.] is matched with Actual value :[No search results were found for this query. Please try again using different criteria.]</span>
+Jan 04,2017 15:21:46 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Jan 04,2017 15:21:46 [info]  Clicked on the 'Ok button At Alert' using JS Executor
+Jan 04,2017 15:21:53 [info]  Clicked on the 'Add Asset Button' using JS Executor
+Jan 04,2017 15:21:57 [info]  Selected "Program" in "AssetTypeDropDown Pop upn VMN" drop down
+Jan 04,2017 15:22:17 [info]  Clicked on the 'OK Button'
+Jan 04,2017 15:22:24 [info]  Asset id is 183404
+Jan 04,2017 15:22:27 [info]  Selected "Program - Series" in "AssetTypeDropDown" drop down
+Jan 04,2017 15:22:55 [info]  Entered "AUT_AssetSeries_0104201732055" in field 'AssetTitle'
+Jan 04,2017 15:22:56 [info]  Selected "Television" in "Asset Category/Group" drop down
+Jan 04,2017 15:22:56 [info]  Clicked on the 'Vendor Img Icon' using JS Executor
+Jan 04,2017 15:22:58 [info]  Entered "AUT_VMN_Vendor1" in field 'SearchvalueVendor'
+Jan 04,2017 15:23:00 [info]  Clicked on the 'VendorWindowButtonfind' using JS Executor
+Jan 04,2017 15:23:40 [info]  Clicked on the 'VendorName At VendorWindow'
+Jan 04,2017 15:23:40 [info]  Clicked on the 'Vendor Select Button' using JS Executor
+Jan 04,2017 15:23:43 [info]  Verify The data of Vendor1
+<span style="color:green;">Jan 04,2017 15:23:43 [info]  Verified that Expected value :[AUT_VMN_Vendor1] is matched with Actual value :[AUT_VMN_Vendor1]</span>
+Jan 04,2017 15:23:44 [info]  Selected "TBD" in "Client Group" drop down
+Jan 04,2017 15:23:44 [info]  Clicked on the 'SBUImage' using JS Executor
+<span style="color:green;">Jan 04,2017 15:23:46 [info]  Verified that Expected value :[Channel / Entity Template] is matched with Actual value :[Channel / Entity Template]</span>
+Jan 04,2017 15:23:53 [info]  Clicked on the 'First CheckBox At SBU window'
+Jan 04,2017 15:23:55 [info]  Clicked on the 'Apply Button' using JS Executor
+Jan 04,2017 15:23:56 [info]  Clicked on the 'IPImageIcon' using JS Executor
+Jan 04,2017 15:23:57 [info]  Clicked on the 'Find Button' using JS Executor
+Jan 04,2017 15:24:01 [info]  Clicked on the 'loc_IPName_AT_IPWindow'
+Jan 04,2017 15:24:01 [info]  Clicked on the 'IP Select Button' using JS Executor
+Jan 04,2017 15:24:02 [info]  Entered "11:11:11" in field 'Duration'
+Jan 04,2017 15:24:02 [info]  Selected "Active Production" in "Asset Status" drop down
+Jan 04,2017 15:24:02 [info]  Selected "Animated" in "Asset Format" drop down
+Jan 04,2017 15:24:03 [info]  Selected "Licensed Original" in "Asset Source" drop down
+Jan 04,2017 15:24:03 [info]  Clicked on the 'CheckInternalCheckBox' using JS Executor
+Jan 04,2017 15:24:03 [info]  Clicked on the 'Save Button' using JS Executor
+<span style="color:red;">Jan 04,2017 15:24:24 [info]  ====Failed==== Expected value is:[AUT_AssetSeries_0104201732055] but Actual value is[]. Please check the screenshot with name: Created Assetfor more details</span>
+Jan 04,2017 15:24:24 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Jan2017\\04\Created Asset_CheckpointFailure_01-04-2017 3-24-24 PM.jpg
+Jan 04,2017 15:24:24 [info]  Assest 'AUT_AssetSeries_0104201732055' successfully saved 
+Jan 04,2017 15:24:24 [info]  check box not freeze. 
+Jan 04,2017 15:24:25 [info]  Clicked on the 'Modules'
+Jan 04,2017 15:24:38 [info]  Clicked on the 'RightsIN'
+Jan 04,2017 15:24:40 [info]  Clicked on the 'Modules'
+Jan 04,2017 15:24:52 [info]  Clicked on the 'RightsIN'
+Jan 04,2017 15:24:53 [info]  Clicked on the 'Search Icon' using JS Executor
+Jan 04,2017 15:24:53 [info]  Clicked on the 'Agreement Link' using JS Executor
+Jan 04,2017 15:25:02 [info]  Entered "AUT_AssetSeries_0104201732055" in field 'AssetTitle'
+Jan 04,2017 15:25:04 [info]  Clicked on the 'Find Button' using JS Executor
+Jan 04,2017 15:26:54 [info]  Test 'TC5_InternalDealforSeriesassets' FAILED
+Jan 04,2017 15:26:54 [info]  2
+Jan 04,2017 15:26:54 [info]  Test Case :TC5_InternalDealforSeriesassets's Screenshot of Failure Page: C:\Screenshots\Jan2017\\04\TC5_InternalDealforSeriesassets_01-04-2017 3-26-54 PM.jpg
+Jan 04,2017 15:26:55 [info]  Closed the Browser
+Jan 04,2017 15:36:14 [info]  ********************Started Executiong the Test Suite at 15:36:14******************
+Jan 04,2017 15:36:14 [info]  Client: VMN
+Jan 04,2017 15:36:14 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Jan 04,2017 15:36:14 [info]  *********************Started Executing 'TC5_InternalDealforSeriesassets' Test Case*********************
+Jan 04,2017 15:36:23 [info]  Client: VMN
+Jan 04,2017 15:36:23 [info]  URL: http://rlv3wb53/login.aspx
+Jan 04,2017 15:36:23 [info]  UserName: admin
+Jan 04,2017 15:36:23 [info]  Password: admin
+Jan 04,2017 15:36:24 [info]  Entered "admin" in field 'User Name'
+Jan 04,2017 15:36:25 [info]  Clicked on the 'Temporary Check Box'
+Jan 04,2017 15:36:25 [info]  Entered "admin" in field 'Password'
+Jan 04,2017 15:36:44 [info]  Clicked on the 'LoginButton'
+Jan 04,2017 15:36:54 [info]  Clicked on the 'MODULE'
+Jan 04,2017 15:37:07 [info]  Clicked on the 'Property Entry & Maintenance'
+Jan 04,2017 15:37:11 [info]  Clicked on the 'SearchLink' using JS Executor
+Jan 04,2017 15:37:12 [info]  Clicked on the 'Property Search' using JS Executor
+Jan 04,2017 15:37:22 [info]  Clicked on the 'TR_Asset_Search_Params' using JS Executor
+Jan 04,2017 15:37:24 [info]  Entered "AUT_AssetSeries_0104201733650" in field 'Asset Title'
+Jan 04,2017 15:37:26 [info]  Clicked on the 'Find Button' using JS Executor
+Jan 04,2017 15:37:45 [info]  Verify The data of Alert Message
+<span style="color:green;">Jan 04,2017 15:37:45 [info]  Verified that Expected value :[No search results were found for this query. Please try again using different criteria.] is matched with Actual value :[No search results were found for this query. Please try again using different criteria.]</span>
+Jan 04,2017 15:37:45 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Jan 04,2017 15:37:45 [info]  Clicked on the 'Ok button At Alert' using JS Executor
+Jan 04,2017 15:37:52 [info]  Clicked on the 'Add Asset Button' using JS Executor
+Jan 04,2017 15:37:56 [info]  Selected "Program" in "AssetTypeDropDown Pop upn VMN" drop down
+Jan 04,2017 15:38:18 [info]  Clicked on the 'OK Button'
+Jan 04,2017 15:38:24 [info]  Asset id is 183413
+Jan 04,2017 15:38:27 [info]  Selected "Program - Series" in "AssetTypeDropDown" drop down
+Jan 04,2017 15:39:20 [info]  Entered "AUT_AssetSeries_0104201733650" in field 'AssetTitle'
+Jan 04,2017 15:39:21 [info]  Selected "Television" in "Asset Category/Group" drop down
+Jan 04,2017 15:39:21 [info]  Clicked on the 'Vendor Img Icon' using JS Executor
+Jan 04,2017 15:39:23 [info]  Entered "AUT_VMN_Vendor1" in field 'SearchvalueVendor'
+Jan 04,2017 15:39:25 [info]  Clicked on the 'VendorWindowButtonfind' using JS Executor
+Jan 04,2017 15:39:56 [info]  Clicked on the 'VendorName At VendorWindow'
+Jan 04,2017 15:39:57 [info]  Clicked on the 'Vendor Select Button' using JS Executor
+Jan 04,2017 15:40:00 [info]  Verify The data of Vendor1
+<span style="color:green;">Jan 04,2017 15:40:00 [info]  Verified that Expected value :[AUT_VMN_Vendor1] is matched with Actual value :[AUT_VMN_Vendor1]</span>
+Jan 04,2017 15:40:00 [info]  Selected "TBD" in "Client Group" drop down
+Jan 04,2017 15:40:01 [info]  Clicked on the 'SBUImage' using JS Executor
+<span style="color:green;">Jan 04,2017 15:40:03 [info]  Verified that Expected value :[Channel / Entity Template] is matched with Actual value :[Channel / Entity Template]</span>
+Jan 04,2017 15:40:09 [info]  Clicked on the 'First CheckBox At SBU window'
+Jan 04,2017 15:40:11 [info]  Clicked on the 'Apply Button' using JS Executor
+Jan 04,2017 15:40:12 [info]  Clicked on the 'IPImageIcon' using JS Executor
+Jan 04,2017 15:40:14 [info]  Clicked on the 'Find Button' using JS Executor
+Jan 04,2017 15:40:17 [info]  Clicked on the 'loc_IPName_AT_IPWindow'
+Jan 04,2017 15:40:17 [info]  Clicked on the 'IP Select Button' using JS Executor
+Jan 04,2017 15:40:18 [info]  Entered "11:11:11" in field 'Duration'
+Jan 04,2017 15:40:18 [info]  Selected "Active Production" in "Asset Status" drop down
+Jan 04,2017 15:40:19 [info]  Selected "Animated" in "Asset Format" drop down
+Jan 04,2017 15:40:19 [info]  Selected "Licensed Original" in "Asset Source" drop down
+Jan 04,2017 15:40:19 [info]  Clicked on the 'CheckInternalCheckBox' using JS Executor
+Jan 04,2017 15:40:19 [info]  Selected "In Progress" in "PROD Contract Entry/AssetData Status" drop down
+Jan 04,2017 15:40:19 [info]  Clicked on the 'Save Button' using JS Executor
+<span style="color:green;">Jan 04,2017 15:41:09 [info]  Verified that Expected value :[AUT_AssetSeries_0104201733650] is matched with Actual value :[AUT_AssetSeries_0104201733650]</span>
+Jan 04,2017 15:41:10 [info]  check box not freeze. 
+Jan 04,2017 15:41:10 [info]  Clicked on the 'Modules'
+Jan 04,2017 15:41:28 [info]  Clicked on the 'RightsIN'
+Jan 04,2017 15:41:28 [info]  Clicked on the 'Modules'
+Jan 04,2017 15:41:43 [info]  Clicked on the 'RightsIN'
+Jan 04,2017 15:41:43 [info]  Clicked on the 'Search Icon' using JS Executor
+Jan 04,2017 15:41:43 [info]  Clicked on the 'Agreement Link' using JS Executor
+Jan 04,2017 15:41:52 [info]  Entered "AUT_AssetSeries_0104201733650" in field 'AssetTitle'
+Jan 04,2017 15:41:54 [info]  Clicked on the 'Find Button' using JS Executor
+Jan 04,2017 15:42:12 [info]  Moved Mouse over 'First Asset in the Searched Asset'
+Jan 04,2017 15:42:12 [info]  Clicked on the 'First Asset in the Searched Asset'
+Jan 04,2017 15:42:15 [info]  Clicked on the 'View Asset' using JS Executor
+<span style="color:red;">Jan 04,2017 15:42:37 [info]  ====Failed==== Expected value is:[I: AUT_AssetSeries_0104201733650 Deal] but Actual value is[I: Deal Container AUT_AssetSeries_0104201733650 Deal]. Please check the screenshot with name: Deal Namefor more details</span>
+Jan 04,2017 15:42:37 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Jan2017\\04\Deal Name_CheckpointFailure_01-04-2017 3-42-37 PM.jpg
+Jan 04,2017 15:42:41 [info]  Clicked on the 'MODULE'
+Jan 04,2017 15:42:53 [info]  Clicked on the 'Property Entry & Maintenance'
+Jan 04,2017 15:42:57 [info]  Clicked on the 'Search Icon' using JS Executor
+Jan 04,2017 15:42:57 [info]  Clicked on the 'Property Search' using JS Executor
+Jan 04,2017 15:50:24 [info]  ********************Started Executiong the Test Suite at 15:50:24******************
+Jan 04,2017 15:50:24 [info]  Client: SALESDEMO
+Jan 04,2017 15:50:24 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Jan 04,2017 15:50:24 [info]  *********************Started Executing 'createData' Test Case*********************
+Jan 04,2017 15:50:34 [info]  Client: SALESDEMO
+Jan 04,2017 15:50:34 [info]  URL: http://rlv2wb81/login.aspx
+Jan 04,2017 15:50:34 [info]  UserName: admin
+Jan 04,2017 15:50:34 [info]  Password: admin1
+Jan 04,2017 15:50:45 [info]  Entered "admin" in field 'User Name'
+Jan 04,2017 15:50:45 [info]  Clicked on the 'Temporary Check Box'
+Jan 04,2017 15:50:46 [info]  Entered "admin1" in field 'Password'
+Jan 04,2017 15:51:16 [info]  Clicked on the 'LoginButton'
+Jan 04,2017 15:51:23 [info]  ************************Started Creating Asset of Type: Program - Series************************
+Jan 04,2017 15:51:27 [info]  Clicked on the 'MODULE'
+Jan 04,2017 15:51:37 [info]  Clicked on the 'Asset Maintenance'
+Jan 04,2017 15:51:44 [info]  Clicked on the 'New Button' using JS Executor
+Jan 04,2017 15:51:44 [info]  Clicked on the 'Program' using JS Executor
+Jan 04,2017 15:51:58 [info]  Clicked on the 'General TAB'
+Jan 04,2017 15:52:01 [info]  Selected "Program - Series" in "AssetTypeDropDown" drop down
+Jan 04,2017 15:52:10 [info]  Entered "AUT_AssetSeries_TC1_0104201735023" in field 'AssetTitle'
+Jan 04,2017 15:52:10 [info]  Clicked on the 'Vendor Img Icon' using JS Executor
+Jan 04,2017 15:52:13 [info]  Entered "AUT_DEMO_Vendor1" in field 'SearchvalueVendor'
+Jan 04,2017 15:52:15 [info]  Clicked on the 'VendorWindowButtonfind' using JS Executor
+Jan 04,2017 15:52:25 [info]  Clicked on the 'VendorName At VendorWindow'
+Jan 04,2017 15:52:25 [info]  Clicked on the 'Vendor Select Button' using JS Executor
+Jan 04,2017 15:52:29 [info]  Verify The data of Vendor1
+<span style="color:green;">Jan 04,2017 15:52:29 [info]  Verified that Expected value :[AUT_DEMO_Vendor1] is matched with Actual value :[AUT_DEMO_Vendor1]</span>
+Jan 04,2017 15:52:29 [info]  Clicked on the 'StudioImageIcon' using JS Executor
+<span style="color:green;">Jan 04,2017 15:52:31 [info]  Verified that Expected value :[Select Studio] is matched with Actual value :[Select Studio]</span>
+Jan 04,2017 15:52:33 [info]  Entered "AUT_DEMO_Studio" in field 'Studio Name'
+Jan 04,2017 15:52:33 [info]  Clicked on the 'Find Button' using JS Executor
+Jan 04,2017 15:52:43 [info]  Clicked on the 'VendorName At VendorWindow'
+Jan 04,2017 15:52:43 [info]  Clicked on the 'Vendor Select Button' using JS Executor
+Jan 04,2017 15:52:46 [info]  Verify The data of Studio/Vendor2
+<span style="color:green;">Jan 04,2017 15:52:46 [info]  Verified that Expected value :[AUT_DEMO_Studio] is matched with Actual value :[AUT_DEMO_Studio]</span>
+Jan 04,2017 15:52:47 [info]  Clicked on the 'SBUImage' using JS Executor
+<span style="color:green;">Jan 04,2017 15:52:50 [info]  Verified that Expected value :[Source Business Unit Template] is matched with Actual value :[Source Business Unit Template]</span>
+Jan 04,2017 15:52:56 [info]  Clicked on the 'First CheckBox At SBU window'
+Jan 04,2017 15:52:58 [info]  Clicked on the 'Apply Button' using JS Executor
+Jan 04,2017 15:52:59 [info]  Entered "00:30:00" in field 'Duration'
+Jan 04,2017 15:53:30 [info]  Selected "In Negotiation" in "Asset Status" drop down
+<span style="color:red;">Jan 04,2017 15:54:00 [info]  ====Failed==== "Licensed Acquired Production" is not present in 'Asset FormatDrop Down'</span>
+Jan 04,2017 15:54:00 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Jan2017\\04\Asset Format_CheckpointFailure_01-04-2017 3-54-00 PM.jpg
+Jan 04,2017 15:54:01 [info]  Selected "First Run" in "Asset Source" drop down
+Jan 04,2017 15:54:01 [info]  Selected "Deal Killed" in "Asset Category/Group" drop down
+Jan 04,2017 15:54:02 [info]  Clicked on the 'Save Button' using JS Executor
+<span style="color:green;">Jan 04,2017 15:54:19 [info]  Verified that Expected value :[AUT_AssetSeries_TC1_0104201735023] is matched with Actual value :[AUT_AssetSeries_TC1_0104201735023]</span>
+Jan 04,2017 15:54:19 [info]  ************************Created Asset of TypeProgram - Series************************
+Jan 04,2017 15:54:23 [info]  Clicked on the 'MODULE'
+Jan 04,2017 15:54:31 [info]  Clicked on the 'Asset Maintenance'
+Jan 04,2017 15:54:34 [info]  Clicked on the 'Search Menu Icon' using JS Executor
+Jan 04,2017 15:54:34 [info]  Clicked on the 'AssetSearchUnderAsset' using JS Executor
+Jan 04,2017 15:54:51 [info]  Entered "AUT_AssetSeries_TC1_0104201735023" in field 'AssetTitle'
+Jan 04,2017 15:54:51 [info]  Clicked on the 'Find Button' using JS Executor
+Jan 04,2017 15:55:22 [info]  Moved Mouse over 'First Asset in the Searched Asset'
+Jan 04,2017 15:55:23 [info]  Clicked on the 'First Asset in the Searched Asset'
+Jan 04,2017 15:55:23 [info]  Clicked on the 'First Asset in the Searched Asset'
+Jan 04,2017 15:55:26 [info]  Clicked on the 'View Asset' using JS Executor
+<span style="color:green;">Jan 04,2017 15:55:44 [info]  Verified that Expected value :[AUT_AssetSeries_TC1_0104201735023] is matched with Actual value :[AUT_AssetSeries_TC1_0104201735023]</span>
+Jan 04,2017 15:55:52 [info]  Clicked on the 'Episodes TAB'
+Jan 04,2017 15:55:56 [info]  Clicked on the ''Edit' Button at Episode window' using JS Executor
+Jan 04,2017 15:56:03 [info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Jan 04,2017 15:56:07 [info]  Entered "101" in field 'Add Episode input field'
+Jan 04,2017 15:56:07 [info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Jan 04,2017 15:56:18 [info]  Clicked on the 'Season Field of Episode101' using JS Executor
+Jan 04,2017 15:56:18 [info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Jan 04,2017 15:56:19 [info]  Clicked on the 'Season 1.Original Version'
+Jan 04,2017 15:56:19 [info]  Clicked on the 'Support click to select season'
+Jan 04,2017 15:56:23 [info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Jan 04,2017 15:56:23 [info]  Entered "102" in field 'Add Episode input field'
+Jan 04,2017 15:56:24 [info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Jan 04,2017 15:56:38 [info]  Clicked on the 'Season Field of Episode102' using JS Executor
+Jan 04,2017 15:56:39 [info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Jan 04,2017 15:56:39 [info]  Clicked on the 'Season 1.Original Version'
+Jan 04,2017 15:56:40 [info]  Clicked on the 'Support click to select season'
+Jan 04,2017 15:56:40 [info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Jan 04,2017 15:56:41 [info]  Entered "201" in field 'Add Episode input field'
+Jan 04,2017 15:56:41 [info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Jan 04,2017 15:56:55 [info]  Clicked on the 'Season Field of Episode201' using JS Executor
+Jan 04,2017 15:56:56 [info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Jan 04,2017 15:56:56 [info]  Clicked on the 'Season 2.Original Version'
+Jan 04,2017 15:56:57 [info]  Clicked on the 'Support click to select season'
+Jan 04,2017 15:57:00 [info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Jan 04,2017 15:57:01 [info]  Entered "202" in field 'Add Episode input field'
+Jan 04,2017 15:57:01 [info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Jan 04,2017 15:57:12 [info]  Clicked on the 'Support click to select season'
+Jan 04,2017 15:57:15 [info]  Clicked on the 'Season Field of Episode201' using JS Executor
+Jan 04,2017 15:57:16 [info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Jan 04,2017 15:57:16 [info]  Clicked on the 'Season 2.Original Version'
+Jan 04,2017 15:57:17 [info]  Clicked on the 'Support click to select season'
+Jan 04,2017 15:57:20 [info]  Clicked on the 'Save Button at 'Episode Edit Window'' using JS Executor
+Jan 04,2017 15:57:33 [info]  Clicked on the 'Close Button at 'Episode Edit Window'' using JS Executor
+Jan 04,2017 15:57:57 [info]  Clicked on the 'New Button' using JS Executor
+Jan 04,2017 15:57:57 [info]  Clicked on the 'Standalone Agreement' using JS Executor
+Jan 04,2017 15:58:10 [info]  Generated Deal Id is 126
+Jan 04,2017 15:58:10 [info]  Clicked on the 'DealTitleField' using JS Executor
+Jan 04,2017 15:58:12 [info]  Entered "AUT_Deal_TC1_0104201735023" in field 'Deal Name Field'
+Jan 04,2017 15:58:14 [info]  Entered "AUT_Deal_TC1_0104201735023_desc" in field 'Deal Description/ContractID'
+Jan 04,2017 15:58:14 [info]  Selected "Production" in "DealType_DropDownField" drop down
+<span style="color:red;">Jan 04,2017 15:58:44 [info]  ====Failed==== "Composer" is not present in 'Deal/Agreement Sub TypeDrop Down'</span>
+Jan 04,2017 15:58:44 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Jan2017\\04\Deal/Agreement Sub Type_CheckpointFailure_01-04-2017 3-58-44 PM.jpg
+Jan 04,2017 15:58:45 [info]  Entered "Fully Executed" in field 'Deal Creation Contract Status'
+Jan 04,2017 15:58:45 [info]  Entered "Finalized" in field 'DealCreationCDEStatus'
+Jan 04,2017 15:58:46 [info]  Entered "01/01/2014" in field 'DateExecuted_InputField'
+Jan 04,2017 15:58:46 [info]  Entered "01/01/2015" in field 'DateEffective_InputField'
+Jan 04,2017 15:58:47 [info]  Entered "USD" in field 'DealCreationCurrency'
+<span style="color:red;">Jan 04,2017 15:59:17 [info]  ====Failed==== "ProjectStatus" field is not present'ProjectStatus'</span>
+Jan 04,2017 15:59:17 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Jan2017\\04\ProjectStatus_CheckpointFailure_01-04-2017 3-59-17 PM.jpg
+<span style="color:red;">Jan 04,2017 15:59:47 [info]  ====Failed==== "ProjectID_InputField" field is not present'ProjectID_InputField'</span>
+Jan 04,2017 15:59:48 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Jan2017\\04\ProjectID_InputField_CheckpointFailure_01-04-2017 3-59-47 PM.jpg
+<span style="color:red;">Jan 04,2017 16:00:18 [info]  ====Failed==== "RSG_FINANCE" is not present in 'ProfitCenter_InputFieldDrop Down'</span>
+Jan 04,2017 16:00:18 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Jan2017\\04\ProfitCenter_InputField_CheckpointFailure_01-04-2017 4-00-18 PM.jpg
+<span style="color:red;">Jan 04,2017 16:01:24 [info]  ====Failed==== "RSG FINANCE" is not present in 'BudgetLine_InputFieldDrop Down'</span>
+Jan 04,2017 16:01:25 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Jan2017\\04\BudgetLine_InputField_CheckpointFailure_01-04-2017 4-01-24 PM.jpg
+<span style="color:red;">Jan 04,2017 16:02:25 [info]  ====Failed==== "SBU" field is not present'SBU'</span>
+Jan 04,2017 16:02:25 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Jan2017\\04\SBU_CheckpointFailure_01-04-2017 4-02-25 PM.jpg
+<span style="color:red;">Jan 04,2017 16:02:58 [info]  ====Failed==== "Doc Type look up Icon" field is not present'</span>
+Jan 04,2017 16:02:59 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Jan2017\\04\Doc Type look up Icon_CheckpointFailure_01-04-2017 4-02-58 PM.jpg
+<span style="color:red;">Jan 04,2017 16:03:35 [info]  ====Failed==== " Could not find the Frame: div[id*='WebDialogWindow1'][style*=visible]</span>
+<span style="color:red;">Jan 04,2017 16:03:35 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Jan2017\\04\FrameSwitchingFailed0_CheckpointFailure_01-04-2017 4-03-35 PM.jpg</span>
+<span style="color:red;">Jan 04,2017 16:04:05 [info]  ====Failed==== "Select All Button at SBU" field is not present'</span>
+Jan 04,2017 16:04:05 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Jan2017\\04\Select All Button at SBU_CheckpointFailure_01-04-2017 4-04-05 PM.jpg
+<span style="color:red;">Jan 04,2017 16:04:36 [info]  ====Failed==== "FirstCheckBoxAtSBU" field is not present'</span>
+Jan 04,2017 16:04:36 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Jan2017\\04\FirstCheckBoxAtSBU_CheckpointFailure_01-04-2017 4-04-36 PM.jpg
+<span style="color:red;">Jan 04,2017 16:05:06 [info]  ====Failed==== "NinthCheckBoxAtSBU" field is not present'</span>
+Jan 04,2017 16:05:06 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Jan2017\\04\NinthCheckBoxAtSBU_CheckpointFailure_01-04-2017 4-05-06 PM.jpg
+<span style="color:red;">Jan 04,2017 16:05:36 [info]  ====Failed==== "Apply Button" field is not present'</span>
+Jan 04,2017 16:05:36 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Jan2017\\04\Apply Button_CheckpointFailure_01-04-2017 4-05-36 PM.jpg
+Jan 04,2017 16:05:40 [info]  Moved Mouse over 'Party_AddButton'
+Jan 04,2017 16:05:40 [info]  Clicked on the 'Party_AddButton'
+<span style="color:red;">Jan 04,2017 16:06:13 [info]  ====Failed==== " Could not find the Frame: div[id*='WebDialogWindow1'][style*=visible]</span>
+<span style="color:red;">Jan 04,2017 16:06:14 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Jan2017\\04\FrameSwitchingFailed1_CheckpointFailure_01-04-2017 4-06-13 PM.jpg</span>
+Jan 04,2017 16:06:14 [info]  Unable to find element with css selector == div[id*='WebDialogWindow1'][style*=visible] (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 30.12 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: '9P4G6BS', ip: '10.10.22.71', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=true, ie.forceCreateProcessApi=false, pageLoadStrategy=normal, ie.usePerProcessProxy=false, ignoreZoomSetting=false, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=false, browserName=internet explorer, initialBrowserUrl=http://localhost:33061/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=false, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: be049d98-f8bc-444b-a51c-b27d8b008a8a
+*** Element info: {Using=css selector, value=div[id*='WebDialogWindow1'][style*=visible]}
+<span style="color:red;">Jan 04,2017 16:06:44 [info]  ====Failed==== "Search Party InputField" field is not present'Search Party InputField'</span>
+Jan 04,2017 16:06:44 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Jan2017\\04\Search Party InputField_CheckpointFailure_01-04-2017 4-06-44 PM.jpg
+Jan 04,2017 16:07:14 [info]  Could not find the locator: RI Search Party Window Find Button'
+Jan 04,2017 16:07:14 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Jan2017\\04\RI Search Party Window Find Button_CheckpointFailure_01-04-2017 4-07-14 PM.jpg
+<span style="color:red;">Jan 04,2017 16:07:48 [info]  ====Failed==== " Could not find the Frame: div[id*='WebDialogWindow1'][style*=visible]</span>
+<span style="color:red;">Jan 04,2017 16:07:48 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Jan2017\\04\FrameSwitchingFailed2_CheckpointFailure_01-04-2017 4-07-48 PM.jpg</span>
+Jan 04,2017 16:07:48 [info]  Unable to find element with css selector == div[id*='WebDialogWindow1'][style*=visible] (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 30.24 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: '9P4G6BS', ip: '10.10.22.71', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=true, ie.forceCreateProcessApi=false, pageLoadStrategy=normal, ie.usePerProcessProxy=false, ignoreZoomSetting=false, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=false, browserName=internet explorer, initialBrowserUrl=http://localhost:33061/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=false, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: be049d98-f8bc-444b-a51c-b27d8b008a8a
+*** Element info: {Using=css selector, value=div[id*='WebDialogWindow1'][style*=visible]}
+Jan 04,2017 16:09:50 [info]  Test 'createData' FAILED
+Jan 04,2017 16:09:50 [info]  2
+Jan 04,2017 16:09:50 [info]  Test Case :createData's Screenshot of Failure Page: C:\Screenshots\Jan2017\\04\createData_01-04-2017 4-09-50 PM.jpg
+Jan 04,2017 16:09:56 [info]  Closed the Browser

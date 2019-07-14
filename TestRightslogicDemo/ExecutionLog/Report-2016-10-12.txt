@@ -1,0 +1,1646 @@
+Oct 12,2016 09:37:13 [info]  ********************Started Executiong the Test Suite at 09:37:13******************
+Oct 12,2016 09:37:13 [info]  Client: AMCN
+Oct 12,2016 09:37:13 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Oct 12,2016 09:37:13 [info]  *********************Started Executing 'createPrerequisites' Test Case*********************
+Oct 12,2016 09:37:24 [info]  Client: AMCN
+Oct 12,2016 09:37:24 [info]  URL: http://rlv2wb79/login.aspx
+Oct 12,2016 09:37:24 [info]  UserName: automation
+Oct 12,2016 09:37:24 [info]  Password: automation
+Oct 12,2016 09:37:58 [info]  Entered "automation" in field 'User Name'
+Oct 12,2016 09:37:58 [info]  Clicked on the 'Temporary Check Box'
+Oct 12,2016 09:37:59 [info]  Entered "automation" in field 'Password'
+Oct 12,2016 09:38:38 [info]  Clicked on the 'LoginButton'
+Oct 12,2016 09:38:44 [info]  Assets are:
+Oct 12,2016 09:38:44 [info]  AUT_AssetSeries_1012201693713
+Oct 12,2016 09:38:44 [info]  AUT_AssetPromoMarket_1012201693713
+Oct 12,2016 09:38:44 [info]  AUT_AssetHomeVideo_1012201693713
+Oct 12,2016 09:38:44 [info]  AUT_Asset_Merch_1012201693713
+Oct 12,2016 09:38:44 [info]  AUT_Asset_Publish_1012201693713
+Oct 12,2016 09:38:44 [info]  AUT_Asset_Element_1012201693713
+Oct 12,2016 09:38:44 [info]  AUT_Asset_Theatre_1012201693713
+Oct 12,2016 09:38:44 [info]  AUT_AssetSeries1_1012201693713
+Oct 12,2016 09:38:44 [info]  AUT_AssetSeries2_1012201693713
+Oct 12,2016 09:38:44 [info]  
+Oct 12,2016 09:38:44 [info]  ************************Started Creating Asset of Type: Program - Series************************
+Oct 12,2016 09:38:48 [info]  Clicked on the 'MODULE'
+Oct 12,2016 09:38:59 [info]  Clicked on the 'Asset Maintenance'
+Oct 12,2016 09:39:07 [info]  Clicked on the 'New Button' using JS Executor
+Oct 12,2016 09:39:07 [info]  Clicked on the 'Program' using JS Executor
+Oct 12,2016 09:39:20 [info]  Clicked on the 'General TAB'
+Oct 12,2016 09:39:22 [info]  Selected "Program - Series" in "AssetTypeDropDown" drop down
+Oct 12,2016 09:39:32 [info]  Entered "AUT_AssetSeries_1012201693713" in field 'AssetTitle'
+Oct 12,2016 09:39:33 [info]  Clicked on the 'Vendor Img Icon' using JS Executor
+Oct 12,2016 09:39:35 [info]  Entered "AMC Networks Central Europe s.r.o." in field 'SearchvalueVendor'
+Oct 12,2016 09:39:37 [info]  Clicked on the 'VendorWindowButtonfind' using JS Executor
+Oct 12,2016 09:39:41 [info]  Clicked on the 'VendorName At VendorWindow'
+Oct 12,2016 09:39:41 [info]  Clicked on the 'Vendor Select Button' using JS Executor
+Oct 12,2016 09:39:45 [info]  Clicked on the 'StudioImageIcon' using JS Executor
+Oct 12,2016 09:39:46 [info]  Verified that Expected value :[Studio] is matched with Actual value :[Studio]
+Oct 12,2016 09:39:48 [info]  Entered "AMC TV Studios LLC" in field 'Studio Name'
+Oct 12,2016 09:39:48 [info]  Clicked on the 'Find Button' using JS Executor
+Oct 12,2016 09:39:50 [info]  Clicked on the 'Searched Studio: 'AMC TV Studios LLC''
+Oct 12,2016 09:39:50 [info]  Clicked on the 'Select Button at Studio Window' using JS Executor
+Oct 12,2016 09:39:57 [info]  Clicked on the 'SBUImage' using JS Executor
+Oct 12,2016 09:39:59 [info]  Verified that Expected value :[Source Business Unit Template] is matched with Actual value :[Source Business Unit Template]
+Oct 12,2016 09:40:00 [info]  Clicked on the ''Select All' CheckBox at SBU' using JS Executor
+Oct 12,2016 09:40:06 [info]  Clicked on the 'First CheckBox At SBU window'
+Oct 12,2016 09:40:06 [info]  Clicked on the 'Ninth CheckBox At SBU winodw'
+Oct 12,2016 09:40:09 [info]  Clicked on the 'Apply Button' using JS Executor
+Oct 12,2016 09:40:10 [info]  Entered "11:11:11" in field 'Duration'
+Oct 12,2016 09:40:20 [info]  Selected "Production" in "Asset Status" drop down
+Oct 12,2016 09:40:20 [info]  Selected "Licensed Acquired" in "Asset Source" drop down
+Oct 12,2016 09:40:21 [info]  Selected "TBD" in "Asset Category/Group" drop down
+Oct 12,2016 09:40:22 [info]  Entered "AUT_Series" in field 'Short Name'
+Oct 12,2016 09:40:22 [info]  Entered "Test" in field 'ProjectID'
+Oct 12,2016 09:40:23 [info]  Clicked on the 'Genre Add Button' using JS Executor
+Oct 12,2016 09:40:23 [info]  Clicked on the 'Genre Type Row Field' using JS Executor
+Oct 12,2016 09:40:23 [info]  Clicked on the 'Genere Type Dropdown Image'
+Oct 12,2016 09:40:24 [info]  Clicked on the 'First Genere Type DropDown Value in the list'
+Oct 12,2016 09:40:24 [info]  Clicked on the 'Genre Row Field' using JS Executor
+Oct 12,2016 09:40:24 [info]  Clicked on the 'Genere Dropdown Image'
+Oct 12,2016 09:40:25 [info]  Clicked on the 'Genere Dropdown value'
+Oct 12,2016 09:40:25 [info]  Clicked on the 'Add Button of Note' using JS Executor
+Oct 12,2016 09:40:28 [info]  Entered "Medium" in field 'Asset Priority'
+Oct 12,2016 09:40:28 [info]  Entered "Subject For the Deal" in field 'Asset Subject'
+Oct 12,2016 09:40:29 [info]  Entered "New Asset" in field 'AssetNotes TextField'
+Oct 12,2016 09:40:30 [info]  Clicked on the 'OK button'
+Oct 12,2016 09:40:32 [info]  Clicked on the 'Save Button' using JS Executor
+Oct 12,2016 09:40:52 [info]  Verified that Expected value :[AUT_AssetSeries_1012201693713] is matched with Actual value :[AUT_AssetSeries_1012201693713]
+Oct 12,2016 09:40:52 [info]  ************************Created Asset of TypeProgram - Series************************
+Oct 12,2016 09:40:56 [info]  Clicked on the 'MODULE'
+Oct 12,2016 09:41:05 [info]  Clicked on the 'Asset Maintenance'
+Oct 12,2016 09:41:09 [info]  Clicked on the 'Search Menu Icon' using JS Executor
+Oct 12,2016 09:41:09 [info]  Clicked on the 'AssetSearchUnderAsset' using JS Executor
+Oct 12,2016 09:41:27 [info]  Entered "AUT_AssetSeries_1012201693713" in field 'AssetTitle'
+Oct 12,2016 09:41:27 [info]  Clicked on the 'All Check Box' using JS Executor
+Oct 12,2016 09:41:27 [info]  Clicked on the 'Find Button' using JS Executor
+Oct 12,2016 09:41:54 [info]  Moved Mouse over 'First Asset in the Searched Asset'
+Oct 12,2016 09:41:55 [info]  Clicked on the 'First Asset in the Searched Asset'
+Oct 12,2016 09:41:55 [info]  Clicked on the 'First Asset in the Searched Asset'
+Oct 12,2016 09:41:58 [info]  Clicked on the 'View Asset' using JS Executor
+Oct 12,2016 09:42:11 [info]  Verified that Expected value :[AUT_AssetSeries_1012201693713] is matched with Actual value :[AUT_AssetSeries_1012201693713]
+Oct 12,2016 09:42:19 [info]  Clicked on the 'Episodes TAB'
+Oct 12,2016 09:42:22 [info]  Clicked on the ''Edit' Button at Episode window' using JS Executor
+Oct 12,2016 09:42:26 [info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Oct 12,2016 09:42:30 [info]  Entered "101" in field 'Add Episode input field'
+Oct 12,2016 09:42:30 [info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Oct 12,2016 09:42:40 [info]  Clicked on the 'Season Field of Episode101' using JS Executor
+Oct 12,2016 09:42:41 [info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Oct 12,2016 09:42:41 [info]  Clicked on the 'Season 1'
+Oct 12,2016 09:42:42 [info]  Clicked on the 'Support click to select season'
+Oct 12,2016 09:42:45 [info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Oct 12,2016 09:42:46 [info]  Entered "102" in field 'Add Episode input field'
+Oct 12,2016 09:42:46 [info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Oct 12,2016 09:43:00 [info]  Clicked on the 'Season Field of Episode102' using JS Executor
+Oct 12,2016 09:43:01 [info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Oct 12,2016 09:43:01 [info]  Clicked on the 'Season 1'
+Oct 12,2016 09:43:01 [info]  Clicked on the 'Support click to select season'
+Oct 12,2016 09:43:02 [info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Oct 12,2016 09:43:02 [info]  Entered "201" in field 'Add Episode input field'
+Oct 12,2016 09:43:03 [info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Oct 12,2016 09:43:17 [info]  Clicked on the 'Season Field of Episode201' using JS Executor
+Oct 12,2016 09:43:17 [info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Oct 12,2016 09:43:18 [info]  Clicked on the 'Season 2'
+Oct 12,2016 09:43:18 [info]  Clicked on the 'Support click to select season'
+Oct 12,2016 09:43:21 [info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Oct 12,2016 09:43:22 [info]  Entered "202" in field 'Add Episode input field'
+Oct 12,2016 09:43:22 [info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Oct 12,2016 09:43:34 [info]  Clicked on the 'Support click to select season'
+Oct 12,2016 09:43:37 [info]  Clicked on the 'Season Field of Episode201' using JS Executor
+Oct 12,2016 09:43:37 [info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Oct 12,2016 09:43:38 [info]  Clicked on the 'Season 2'
+Oct 12,2016 09:43:38 [info]  Clicked on the 'Support click to select season'
+Oct 12,2016 09:43:41 [info]  Clicked on the 'Save Button at 'Episode Edit Window'' using JS Executor
+Oct 12,2016 09:43:53 [info]  Clicked on the 'Close Button at 'Episode Edit Window'' using JS Executor
+Oct 12,2016 09:44:00 [info]  ************************Started Creating Asset of Type: Promo & Marketing - Promos************************
+Oct 12,2016 09:44:04 [info]  Clicked on the 'MODULE'
+Oct 12,2016 09:44:13 [info]  Clicked on the 'Asset Maintenance'
+Oct 12,2016 09:44:21 [info]  Clicked on the 'New Button' using JS Executor
+Oct 12,2016 09:44:21 [info]  Clicked on the 'Promo & Marketing' using JS Executor
+Oct 12,2016 09:44:31 [info]  Clicked on the 'General TAB'
+Oct 12,2016 09:44:31 [info]  Selected "Promo & Marketing - Promos" in "AssetTypeDropDown" drop down
+Oct 12,2016 09:44:36 [info]  Entered "AUT_AssetPromoMarket_1012201693713" in field 'AssetTitle'
+Oct 12,2016 09:44:36 [info]  Clicked on the 'Vendor Img Icon' using JS Executor
+Oct 12,2016 09:44:38 [info]  Entered "AMC Networks Central Europe s.r.o." in field 'SearchvalueVendor'
+Oct 12,2016 09:44:40 [info]  Clicked on the 'VendorWindowButtonfind' using JS Executor
+Oct 12,2016 09:44:41 [info]  Clicked on the 'VendorName At VendorWindow'
+Oct 12,2016 09:44:42 [info]  Clicked on the 'Vendor Select Button' using JS Executor
+Oct 12,2016 09:44:46 [info]  Clicked on the 'StudioImageIcon' using JS Executor
+Oct 12,2016 09:44:47 [info]  Verified that Expected value :[Studio] is matched with Actual value :[Studio]
+Oct 12,2016 09:44:48 [info]  Entered "AMC TV Studios LLC" in field 'Studio Name'
+Oct 12,2016 09:44:48 [info]  Clicked on the 'Find Button' using JS Executor
+Oct 12,2016 09:44:51 [info]  Clicked on the 'Searched Studio: 'AMC TV Studios LLC''
+Oct 12,2016 09:44:51 [info]  Clicked on the 'Select Button at Studio Window' using JS Executor
+Oct 12,2016 09:44:58 [info]  Clicked on the 'SBUImage' using JS Executor
+Oct 12,2016 09:44:59 [info]  Verified that Expected value :[Source Business Unit Template] is matched with Actual value :[Source Business Unit Template]
+Oct 12,2016 09:44:59 [info]  Clicked on the ''Select All' CheckBox at SBU' using JS Executor
+Oct 12,2016 09:45:05 [info]  Clicked on the 'First CheckBox At SBU window'
+Oct 12,2016 09:45:06 [info]  Clicked on the 'Ninth CheckBox At SBU winodw'
+Oct 12,2016 09:45:08 [info]  Clicked on the 'Apply Button' using JS Executor
+Oct 12,2016 09:45:09 [info]  Entered "11:11:11" in field 'Duration'
+Oct 12,2016 09:45:19 [info]  Selected "Licensed Acquired" in "Asset Source" drop down
+Oct 12,2016 09:45:20 [info]  Selected "TBD" in "Asset Category/Group" drop down
+Oct 12,2016 09:45:21 [info]  Entered "AUT_Series" in field 'Short Name'
+Oct 12,2016 09:45:21 [info]  Entered "Test" in field 'ProjectID'
+Oct 12,2016 09:45:21 [info]  Clicked on the 'Genre Add Button' using JS Executor
+Oct 12,2016 09:45:22 [info]  Clicked on the 'Genre Type Row Field' using JS Executor
+Oct 12,2016 09:45:22 [info]  Clicked on the 'Genere Type Dropdown Image'
+Oct 12,2016 09:45:22 [info]  Clicked on the 'First Genere Type DropDown Value in the list'
+Oct 12,2016 09:45:22 [info]  Clicked on the 'Genre Row Field' using JS Executor
+Oct 12,2016 09:45:23 [info]  Clicked on the 'Genere Dropdown Image'
+Oct 12,2016 09:45:23 [info]  Clicked on the 'Genere Dropdown value'
+Oct 12,2016 09:45:24 [info]  Clicked on the 'Add Button of Note' using JS Executor
+Oct 12,2016 09:45:26 [info]  Entered "Medium" in field 'Asset Priority'
+Oct 12,2016 09:45:27 [info]  Entered "Subject For the Deal" in field 'Asset Subject'
+Oct 12,2016 09:45:28 [info]  Entered "New Asset" in field 'AssetNotes TextField'
+Oct 12,2016 09:45:28 [info]  Clicked on the 'OK button'
+Oct 12,2016 09:45:30 [info]  Clicked on the 'Save Button' using JS Executor
+Oct 12,2016 09:45:43 [info]  Verified that Expected value :[AUT_AssetPromoMarket_1012201693713] is matched with Actual value :[AUT_AssetPromoMarket_1012201693713]
+Oct 12,2016 09:45:43 [info]  ************************Created Asset of TypePromo & Marketing - Promos************************
+Oct 12,2016 09:45:43 [info]  ************************Started Creating Asset of Type: Home Video - DVD************************
+Oct 12,2016 09:45:47 [info]  Clicked on the 'MODULE'
+Oct 12,2016 09:45:56 [info]  Clicked on the 'Asset Maintenance'
+Oct 12,2016 09:46:04 [info]  Clicked on the 'New Button' using JS Executor
+Oct 12,2016 09:46:04 [info]  Clicked on the 'Home Video' using JS Executor
+Oct 12,2016 09:46:14 [info]  Clicked on the 'General TAB'
+Oct 12,2016 09:46:14 [info]  Selected "Home Video - DVD" in "AssetTypeDropDown" drop down
+Oct 12,2016 09:46:19 [info]  Entered "AUT_AssetHomeVideo_1012201693713" in field 'AssetTitle'
+Oct 12,2016 09:46:19 [info]  Clicked on the 'Vendor Img Icon' using JS Executor
+Oct 12,2016 09:46:21 [info]  Entered "AMC Networks Central Europe s.r.o." in field 'SearchvalueVendor'
+Oct 12,2016 09:46:23 [info]  Clicked on the 'VendorWindowButtonfind' using JS Executor
+Oct 12,2016 09:46:25 [info]  Clicked on the 'VendorName At VendorWindow'
+Oct 12,2016 09:46:25 [info]  Clicked on the 'Vendor Select Button' using JS Executor
+Oct 12,2016 09:46:29 [info]  Clicked on the 'StudioImageIcon' using JS Executor
+Oct 12,2016 09:46:30 [info]  Verified that Expected value :[Studio] is matched with Actual value :[Studio]
+Oct 12,2016 09:46:32 [info]  Entered "AMC TV Studios LLC" in field 'Studio Name'
+Oct 12,2016 09:46:32 [info]  Clicked on the 'Find Button' using JS Executor
+Oct 12,2016 09:46:33 [info]  Clicked on the 'Searched Studio: 'AMC TV Studios LLC''
+Oct 12,2016 09:46:34 [info]  Clicked on the 'Select Button at Studio Window' using JS Executor
+Oct 12,2016 09:46:41 [info]  Clicked on the 'SBUImage' using JS Executor
+Oct 12,2016 09:46:42 [info]  Verified that Expected value :[Source Business Unit Template] is matched with Actual value :[Source Business Unit Template]
+Oct 12,2016 09:46:42 [info]  Clicked on the ''Select All' CheckBox at SBU' using JS Executor
+Oct 12,2016 09:46:48 [info]  Clicked on the 'First CheckBox At SBU window'
+Oct 12,2016 09:46:49 [info]  Clicked on the 'Ninth CheckBox At SBU winodw'
+Oct 12,2016 09:46:51 [info]  Clicked on the 'Apply Button' using JS Executor
+Oct 12,2016 09:46:52 [info]  Entered "11:11:11" in field 'Duration'
+Oct 12,2016 09:47:02 [info]  Selected "Licensed Acquired" in "Asset Source" drop down
+Oct 12,2016 09:47:03 [info]  Selected "TBD" in "Asset Category/Group" drop down
+Oct 12,2016 09:47:04 [info]  Entered "AUT_Series" in field 'Short Name'
+Oct 12,2016 09:47:04 [info]  Entered "Test" in field 'ProjectID'
+Oct 12,2016 09:47:04 [info]  Clicked on the 'Genre Add Button' using JS Executor
+Oct 12,2016 09:47:05 [info]  Clicked on the 'Genre Type Row Field' using JS Executor
+Oct 12,2016 09:47:05 [info]  Clicked on the 'Genere Type Dropdown Image'
+Oct 12,2016 09:47:05 [info]  Clicked on the 'First Genere Type DropDown Value in the list'
+Oct 12,2016 09:47:05 [info]  Clicked on the 'Genre Row Field' using JS Executor
+Oct 12,2016 09:47:06 [info]  Clicked on the 'Genere Dropdown Image'
+Oct 12,2016 09:47:06 [info]  Clicked on the 'Genere Dropdown value'
+Oct 12,2016 09:47:07 [info]  Clicked on the 'Add Button of Note' using JS Executor
+Oct 12,2016 09:47:09 [info]  Entered "Medium" in field 'Asset Priority'
+Oct 12,2016 09:47:10 [info]  Entered "Subject For the Deal" in field 'Asset Subject'
+Oct 12,2016 09:47:10 [info]  Entered "New Asset" in field 'AssetNotes TextField'
+Oct 12,2016 09:47:11 [info]  Clicked on the 'OK button'
+Oct 12,2016 09:47:14 [info]  Clicked on the 'Save Button' using JS Executor
+Oct 12,2016 09:47:24 [info]  Verified that Expected value :[AUT_AssetHomeVideo_1012201693713] is matched with Actual value :[AUT_AssetHomeVideo_1012201693713]
+Oct 12,2016 09:47:24 [info]  ************************Created Asset of TypeHome Video - DVD************************
+Oct 12,2016 09:47:24 [info]  ************************Started Creating Asset of Type: Merchandise - Apparel************************
+Oct 12,2016 09:47:29 [info]  Clicked on the 'MODULE'
+Oct 12,2016 09:47:39 [info]  Clicked on the 'Asset Maintenance'
+Oct 12,2016 09:47:46 [info]  Clicked on the 'New Button' using JS Executor
+Oct 12,2016 09:47:46 [info]  Clicked on the 'Merchandise' using JS Executor
+Oct 12,2016 09:47:56 [info]  Clicked on the 'General TAB'
+Oct 12,2016 09:47:56 [info]  Selected "Merchandise - Apparel" in "AssetTypeDropDown" drop down
+Oct 12,2016 09:48:01 [info]  Entered "AUT_Asset_Merch_1012201693713" in field 'AssetTitle'
+Oct 12,2016 09:48:01 [info]  Clicked on the 'Vendor Img Icon' using JS Executor
+Oct 12,2016 09:48:03 [info]  Entered "AMC Networks Central Europe s.r.o." in field 'SearchvalueVendor'
+Oct 12,2016 09:48:05 [info]  Clicked on the 'VendorWindowButtonfind' using JS Executor
+Oct 12,2016 09:48:07 [info]  Clicked on the 'VendorName At VendorWindow'
+Oct 12,2016 09:48:08 [info]  Clicked on the 'Vendor Select Button' using JS Executor
+Oct 12,2016 09:48:12 [info]  Clicked on the 'StudioImageIcon' using JS Executor
+Oct 12,2016 09:48:13 [info]  Verified that Expected value :[Studio] is matched with Actual value :[Studio]
+Oct 12,2016 09:48:14 [info]  Entered "AMC TV Studios LLC" in field 'Studio Name'
+Oct 12,2016 09:48:15 [info]  Clicked on the 'Find Button' using JS Executor
+Oct 12,2016 09:48:16 [info]  Clicked on the 'Searched Studio: 'AMC TV Studios LLC''
+Oct 12,2016 09:48:16 [info]  Clicked on the 'Select Button at Studio Window' using JS Executor
+Oct 12,2016 09:48:23 [info]  Clicked on the 'SBUImage' using JS Executor
+Oct 12,2016 09:48:24 [info]  Verified that Expected value :[Source Business Unit Template] is matched with Actual value :[Source Business Unit Template]
+Oct 12,2016 09:48:24 [info]  Clicked on the ''Select All' CheckBox at SBU' using JS Executor
+Oct 12,2016 09:48:31 [info]  Clicked on the 'First CheckBox At SBU window'
+Oct 12,2016 09:48:31 [info]  Clicked on the 'Ninth CheckBox At SBU winodw'
+Oct 12,2016 09:48:33 [info]  Clicked on the 'Apply Button' using JS Executor
+Oct 12,2016 09:48:54 [info]  Selected "Licensed Acquired" in "Asset Source" drop down
+Oct 12,2016 09:48:54 [info]  Selected "TBD" in "Asset Category/Group" drop down
+Oct 12,2016 09:48:55 [info]  Entered "AUT_Series" in field 'Short Name'
+Oct 12,2016 09:48:56 [info]  Entered "Test" in field 'ProjectID'
+Oct 12,2016 09:48:56 [info]  Clicked on the 'Genre Add Button' using JS Executor
+Oct 12,2016 09:48:56 [info]  Clicked on the 'Genre Type Row Field' using JS Executor
+Oct 12,2016 09:48:57 [info]  Clicked on the 'Genere Type Dropdown Image'
+Oct 12,2016 09:48:57 [info]  Clicked on the 'First Genere Type DropDown Value in the list'
+Oct 12,2016 09:48:57 [info]  Clicked on the 'Genre Row Field' using JS Executor
+Oct 12,2016 09:48:58 [info]  Clicked on the 'Genere Dropdown Image'
+Oct 12,2016 09:48:58 [info]  Clicked on the 'Genere Dropdown value'
+Oct 12,2016 09:48:58 [info]  Clicked on the 'Add Button of Note' using JS Executor
+Oct 12,2016 09:49:01 [info]  Entered "Medium" in field 'Asset Priority'
+Oct 12,2016 09:49:02 [info]  Entered "Subject For the Deal" in field 'Asset Subject'
+Oct 12,2016 09:49:02 [info]  Entered "New Asset" in field 'AssetNotes TextField'
+Oct 12,2016 09:49:03 [info]  Clicked on the 'OK button'
+Oct 12,2016 09:49:05 [info]  Clicked on the 'Save Button' using JS Executor
+Oct 12,2016 09:49:16 [info]  Verified that Expected value :[AUT_Asset_Merch_1012201693713] is matched with Actual value :[AUT_Asset_Merch_1012201693713]
+Oct 12,2016 09:49:16 [info]  ************************Created Asset of TypeMerchandise - Apparel************************
+Oct 12,2016 09:49:16 [info]  ************************Started Creating Asset of Type: Publishing - Printed************************
+Oct 12,2016 09:49:20 [info]  Clicked on the 'MODULE'
+Oct 12,2016 09:49:30 [info]  Clicked on the 'Asset Maintenance'
+Oct 12,2016 09:49:38 [info]  Clicked on the 'New Button' using JS Executor
+Oct 12,2016 09:49:38 [info]  Clicked on the 'Publishing' using JS Executor
+Oct 12,2016 09:49:47 [info]  Clicked on the 'General TAB'
+Oct 12,2016 09:49:47 [info]  Selected "Publishing - Printed" in "AssetTypeDropDown" drop down
+Oct 12,2016 09:49:52 [info]  Entered "AUT_Asset_Publish_1012201693713" in field 'AssetTitle'
+Oct 12,2016 09:49:53 [info]  Clicked on the 'Vendor Img Icon' using JS Executor
+Oct 12,2016 09:49:55 [info]  Entered "AMC Networks Central Europe s.r.o." in field 'SearchvalueVendor'
+Oct 12,2016 09:49:57 [info]  Clicked on the 'VendorWindowButtonfind' using JS Executor
+Oct 12,2016 09:49:59 [info]  Clicked on the 'VendorName At VendorWindow'
+Oct 12,2016 09:49:59 [info]  Clicked on the 'Vendor Select Button' using JS Executor
+Oct 12,2016 09:50:03 [info]  Clicked on the 'StudioImageIcon' using JS Executor
+Oct 12,2016 09:50:04 [info]  Verified that Expected value :[Studio] is matched with Actual value :[Studio]
+Oct 12,2016 09:50:06 [info]  Entered "AMC TV Studios LLC" in field 'Studio Name'
+Oct 12,2016 09:50:06 [info]  Clicked on the 'Find Button' using JS Executor
+Oct 12,2016 09:50:07 [info]  Clicked on the 'Searched Studio: 'AMC TV Studios LLC''
+Oct 12,2016 09:50:07 [info]  Clicked on the 'Select Button at Studio Window' using JS Executor
+Oct 12,2016 09:50:14 [info]  Clicked on the 'SBUImage' using JS Executor
+Oct 12,2016 09:50:15 [info]  Verified that Expected value :[Source Business Unit Template] is matched with Actual value :[Source Business Unit Template]
+Oct 12,2016 09:50:15 [info]  Clicked on the ''Select All' CheckBox at SBU' using JS Executor
+Oct 12,2016 09:50:22 [info]  Clicked on the 'First CheckBox At SBU window'
+Oct 12,2016 09:50:22 [info]  Clicked on the 'Ninth CheckBox At SBU winodw'
+Oct 12,2016 09:50:24 [info]  Clicked on the 'Apply Button' using JS Executor
+Oct 12,2016 09:50:45 [info]  Selected "Licensed Acquired" in "Asset Source" drop down
+Oct 12,2016 09:50:45 [info]  Selected "TBD" in "Asset Category/Group" drop down
+Oct 12,2016 09:50:46 [info]  Entered "AUT_Series" in field 'Short Name'
+Oct 12,2016 09:50:47 [info]  Entered "Test" in field 'ProjectID'
+Oct 12,2016 09:50:47 [info]  Clicked on the 'Genre Add Button' using JS Executor
+Oct 12,2016 09:50:47 [info]  Clicked on the 'Genre Type Row Field' using JS Executor
+Oct 12,2016 09:50:48 [info]  Clicked on the 'Genere Type Dropdown Image'
+Oct 12,2016 09:50:48 [info]  Clicked on the 'First Genere Type DropDown Value in the list'
+Oct 12,2016 09:50:48 [info]  Clicked on the 'Genre Row Field' using JS Executor
+Oct 12,2016 09:50:49 [info]  Clicked on the 'Genere Dropdown Image'
+Oct 12,2016 09:50:49 [info]  Clicked on the 'Genere Dropdown value'
+Oct 12,2016 09:50:49 [info]  Clicked on the 'Add Button of Note' using JS Executor
+Oct 12,2016 09:50:52 [info]  Entered "Medium" in field 'Asset Priority'
+Oct 12,2016 09:50:53 [info]  Entered "Subject For the Deal" in field 'Asset Subject'
+Oct 12,2016 09:50:53 [info]  Entered "New Asset" in field 'AssetNotes TextField'
+Oct 12,2016 09:50:54 [info]  Clicked on the 'OK button'
+Oct 12,2016 09:50:56 [info]  Clicked on the 'Save Button' using JS Executor
+Oct 12,2016 09:51:07 [info]  Verified that Expected value :[AUT_Asset_Publish_1012201693713] is matched with Actual value :[AUT_Asset_Publish_1012201693713]
+Oct 12,2016 09:51:07 [info]  ************************Created Asset of TypePublishing - Printed************************
+Oct 12,2016 09:51:07 [info]  ************************Started Creating Asset of Type: Element - Talent************************
+Oct 12,2016 09:51:11 [info]  Clicked on the 'MODULE'
+Oct 12,2016 09:51:22 [info]  Clicked on the 'Asset Maintenance'
+Oct 12,2016 09:51:29 [info]  Clicked on the 'New Button' using JS Executor
+Oct 12,2016 09:51:30 [info]  Clicked on the 'Element' using JS Executor
+Oct 12,2016 09:51:39 [info]  Clicked on the 'General TAB'
+Oct 12,2016 09:51:39 [info]  Selected "Element - Talent" in "AssetTypeDropDown" drop down
+Oct 12,2016 09:51:44 [info]  Entered "AUT_Asset_Element_1012201693713" in field 'AssetTitle'
+Oct 12,2016 09:51:45 [info]  Clicked on the 'Vendor Img Icon' using JS Executor
+Oct 12,2016 09:51:46 [info]  Entered "AMC Networks Central Europe s.r.o." in field 'SearchvalueVendor'
+Oct 12,2016 09:51:49 [info]  Clicked on the 'VendorWindowButtonfind' using JS Executor
+Oct 12,2016 09:51:51 [info]  Clicked on the 'VendorName At VendorWindow'
+Oct 12,2016 09:51:51 [info]  Clicked on the 'Vendor Select Button' using JS Executor
+Oct 12,2016 09:51:55 [info]  Clicked on the 'StudioImageIcon' using JS Executor
+Oct 12,2016 09:51:56 [info]  Verified that Expected value :[Studio] is matched with Actual value :[Studio]
+Oct 12,2016 09:51:58 [info]  Entered "AMC TV Studios LLC" in field 'Studio Name'
+Oct 12,2016 09:51:58 [info]  Clicked on the 'Find Button' using JS Executor
+Oct 12,2016 09:51:59 [info]  Clicked on the 'Searched Studio: 'AMC TV Studios LLC''
+Oct 12,2016 09:51:59 [info]  Clicked on the 'Select Button at Studio Window' using JS Executor
+Oct 12,2016 09:52:06 [info]  Clicked on the 'SBUImage' using JS Executor
+Oct 12,2016 09:52:07 [info]  Verified that Expected value :[Source Business Unit Template] is matched with Actual value :[Source Business Unit Template]
+Oct 12,2016 09:52:08 [info]  Clicked on the ''Select All' CheckBox at SBU' using JS Executor
+Oct 12,2016 09:52:14 [info]  Clicked on the 'First CheckBox At SBU window'
+Oct 12,2016 09:52:14 [info]  Clicked on the 'Ninth CheckBox At SBU winodw'
+Oct 12,2016 09:52:16 [info]  Clicked on the 'Apply Button' using JS Executor
+Oct 12,2016 09:52:17 [info]  Entered "11:11:11" in field 'Duration'
+Oct 12,2016 09:52:28 [info]  Selected "Licensed Acquired" in "Asset Source" drop down
+Oct 12,2016 09:52:28 [info]  Selected "TBD" in "Asset Category/Group" drop down
+Oct 12,2016 09:52:29 [info]  Entered "AUT_Series" in field 'Short Name'
+Oct 12,2016 09:52:30 [info]  Entered "Test" in field 'ProjectID'
+Oct 12,2016 09:52:30 [info]  Clicked on the 'Genre Add Button' using JS Executor
+Oct 12,2016 09:52:30 [info]  Clicked on the 'Genre Type Row Field' using JS Executor
+Oct 12,2016 09:52:31 [info]  Clicked on the 'Genere Type Dropdown Image'
+Oct 12,2016 09:52:31 [info]  Clicked on the 'First Genere Type DropDown Value in the list'
+Oct 12,2016 09:52:31 [info]  Clicked on the 'Genre Row Field' using JS Executor
+Oct 12,2016 09:52:32 [info]  Clicked on the 'Genere Dropdown Image'
+Oct 12,2016 09:52:32 [info]  Clicked on the 'Genere Dropdown value'
+Oct 12,2016 09:52:32 [info]  Clicked on the 'Add Button of Note' using JS Executor
+Oct 12,2016 09:52:35 [info]  Entered "Medium" in field 'Asset Priority'
+Oct 12,2016 09:52:36 [info]  Entered "Subject For the Deal" in field 'Asset Subject'
+Oct 12,2016 09:52:36 [info]  Entered "New Asset" in field 'AssetNotes TextField'
+Oct 12,2016 09:52:37 [info]  Clicked on the 'OK button'
+Oct 12,2016 09:52:39 [info]  Clicked on the 'Save Button' using JS Executor
+Oct 12,2016 09:52:50 [info]  Verified that Expected value :[AUT_Asset_Element_1012201693713] is matched with Actual value :[AUT_Asset_Element_1012201693713]
+Oct 12,2016 09:52:50 [info]  ************************Created Asset of TypeElement - Talent************************
+Oct 12,2016 09:52:50 [info]  ************************Started Creating Asset of Type: Theatrical - Feature Length************************
+Oct 12,2016 09:52:54 [info]  Clicked on the 'MODULE'
+Oct 12,2016 09:53:05 [info]  Clicked on the 'Asset Maintenance'
+Oct 12,2016 09:53:12 [info]  Clicked on the 'New Button' using JS Executor
+Oct 12,2016 09:53:13 [info]  Clicked on the 'Theatrical' using JS Executor
+Oct 12,2016 09:53:22 [info]  Clicked on the 'General TAB'
+Oct 12,2016 09:53:22 [info]  Selected "Theatrical - Feature Length" in "AssetTypeDropDown" drop down
+Oct 12,2016 09:53:27 [info]  Entered "AUT_Asset_Theatre_1012201693713" in field 'AssetTitle'
+Oct 12,2016 09:53:28 [info]  Clicked on the 'Vendor Img Icon' using JS Executor
+Oct 12,2016 09:53:29 [info]  Entered "AMC Networks Central Europe s.r.o." in field 'SearchvalueVendor'
+Oct 12,2016 09:53:31 [info]  Clicked on the 'VendorWindowButtonfind' using JS Executor
+Oct 12,2016 09:53:34 [info]  Clicked on the 'VendorName At VendorWindow'
+Oct 12,2016 09:53:34 [info]  Clicked on the 'Vendor Select Button' using JS Executor
+Oct 12,2016 09:53:38 [info]  Clicked on the 'StudioImageIcon' using JS Executor
+Oct 12,2016 09:53:39 [info]  Verified that Expected value :[Studio] is matched with Actual value :[Studio]
+Oct 12,2016 09:53:41 [info]  Entered "AMC TV Studios LLC" in field 'Studio Name'
+Oct 12,2016 09:53:41 [info]  Clicked on the 'Find Button' using JS Executor
+Oct 12,2016 09:53:42 [info]  Clicked on the 'Searched Studio: 'AMC TV Studios LLC''
+Oct 12,2016 09:53:43 [info]  Clicked on the 'Select Button at Studio Window' using JS Executor
+Oct 12,2016 09:53:50 [info]  Clicked on the 'SBUImage' using JS Executor
+Oct 12,2016 09:53:51 [info]  Verified that Expected value :[Source Business Unit Template] is matched with Actual value :[Source Business Unit Template]
+Oct 12,2016 09:53:51 [info]  Clicked on the ''Select All' CheckBox at SBU' using JS Executor
+Oct 12,2016 09:53:57 [info]  Clicked on the 'First CheckBox At SBU window'
+Oct 12,2016 09:53:58 [info]  Clicked on the 'Ninth CheckBox At SBU winodw'
+Oct 12,2016 09:54:00 [info]  Clicked on the 'Apply Button' using JS Executor
+Oct 12,2016 09:54:01 [info]  Entered "11:11:11" in field 'Duration'
+Oct 12,2016 09:54:12 [info]  Selected "Licensed Acquired" in "Asset Source" drop down
+Oct 12,2016 09:54:12 [info]  Selected "TBD" in "Asset Category/Group" drop down
+Oct 12,2016 09:54:13 [info]  Entered "AUT_Series" in field 'Short Name'
+Oct 12,2016 09:54:14 [info]  Entered "Test" in field 'ProjectID'
+Oct 12,2016 09:54:14 [info]  Clicked on the 'Genre Add Button' using JS Executor
+Oct 12,2016 09:54:14 [info]  Clicked on the 'Genre Type Row Field' using JS Executor
+Oct 12,2016 09:54:15 [info]  Clicked on the 'Genere Type Dropdown Image'
+Oct 12,2016 09:54:15 [info]  Clicked on the 'First Genere Type DropDown Value in the list'
+Oct 12,2016 09:54:15 [info]  Clicked on the 'Genre Row Field' using JS Executor
+Oct 12,2016 09:54:16 [info]  Clicked on the 'Genere Dropdown Image'
+Oct 12,2016 09:54:16 [info]  Clicked on the 'Genere Dropdown value'
+Oct 12,2016 09:54:16 [info]  Clicked on the 'Add Button of Note' using JS Executor
+Oct 12,2016 09:54:19 [info]  Entered "Medium" in field 'Asset Priority'
+Oct 12,2016 09:54:20 [info]  Entered "Subject For the Deal" in field 'Asset Subject'
+Oct 12,2016 09:54:20 [info]  Entered "New Asset" in field 'AssetNotes TextField'
+Oct 12,2016 09:54:21 [info]  Clicked on the 'OK button'
+Oct 12,2016 09:54:23 [info]  Clicked on the 'Save Button' using JS Executor
+Oct 12,2016 09:54:38 [info]  Verified that Expected value :[AUT_Asset_Theatre_1012201693713] is matched with Actual value :[AUT_Asset_Theatre_1012201693713]
+Oct 12,2016 09:54:38 [info]  ************************Created Asset of TypeTheatrical - Feature Length************************
+Oct 12,2016 09:54:38 [info]  ************************Started Creating Asset of Type: Program - Series************************
+Oct 12,2016 09:54:42 [info]  Clicked on the 'MODULE'
+Oct 12,2016 09:54:53 [info]  Clicked on the 'Asset Maintenance'
+Oct 12,2016 09:55:01 [info]  Clicked on the 'New Button' using JS Executor
+Oct 12,2016 09:55:01 [info]  Clicked on the 'Program' using JS Executor
+Oct 12,2016 09:55:10 [info]  Clicked on the 'General TAB'
+Oct 12,2016 09:55:12 [info]  Selected "Program - Series" in "AssetTypeDropDown" drop down
+Oct 12,2016 09:55:23 [info]  Entered "AUT_AssetSeries1_1012201693713" in field 'AssetTitle'
+Oct 12,2016 09:55:23 [info]  Clicked on the 'Vendor Img Icon' using JS Executor
+Oct 12,2016 09:55:25 [info]  Entered "AMC Networks Central Europe s.r.o." in field 'SearchvalueVendor'
+Oct 12,2016 09:55:27 [info]  Clicked on the 'VendorWindowButtonfind' using JS Executor
+Oct 12,2016 09:55:28 [info]  Clicked on the 'VendorName At VendorWindow'
+Oct 12,2016 09:55:29 [info]  Clicked on the 'Vendor Select Button' using JS Executor
+Oct 12,2016 09:55:33 [info]  Clicked on the 'StudioImageIcon' using JS Executor
+Oct 12,2016 09:55:34 [info]  Verified that Expected value :[Studio] is matched with Actual value :[Studio]
+Oct 12,2016 09:55:36 [info]  Entered "AMC TV Studios LLC" in field 'Studio Name'
+Oct 12,2016 09:55:36 [info]  Clicked on the 'Find Button' using JS Executor
+Oct 12,2016 09:55:38 [info]  Clicked on the 'Searched Studio: 'AMC TV Studios LLC''
+Oct 12,2016 09:55:38 [info]  Clicked on the 'Select Button at Studio Window' using JS Executor
+Oct 12,2016 09:55:45 [info]  Clicked on the 'SBUImage' using JS Executor
+Oct 12,2016 09:55:46 [info]  Verified that Expected value :[Source Business Unit Template] is matched with Actual value :[Source Business Unit Template]
+Oct 12,2016 09:55:46 [info]  Clicked on the ''Select All' CheckBox at SBU' using JS Executor
+Oct 12,2016 09:55:53 [info]  Clicked on the 'First CheckBox At SBU window'
+Oct 12,2016 09:55:53 [info]  Clicked on the 'Ninth CheckBox At SBU winodw'
+Oct 12,2016 09:55:56 [info]  Clicked on the 'Apply Button' using JS Executor
+Oct 12,2016 09:55:57 [info]  Entered "11:11:11" in field 'Duration'
+Oct 12,2016 09:56:07 [info]  Selected "Production" in "Asset Status" drop down
+Oct 12,2016 09:56:07 [info]  Selected "Licensed Acquired" in "Asset Source" drop down
+Oct 12,2016 09:56:08 [info]  Selected "TBD" in "Asset Category/Group" drop down
+Oct 12,2016 09:56:09 [info]  Entered "AUT_Series" in field 'Short Name'
+Oct 12,2016 09:56:09 [info]  Entered "Test" in field 'ProjectID'
+Oct 12,2016 09:56:10 [info]  Clicked on the 'Genre Add Button' using JS Executor
+Oct 12,2016 09:56:10 [info]  Clicked on the 'Genre Type Row Field' using JS Executor
+Oct 12,2016 09:56:10 [info]  Clicked on the 'Genere Type Dropdown Image'
+Oct 12,2016 09:56:11 [info]  Clicked on the 'First Genere Type DropDown Value in the list'
+Oct 12,2016 09:56:11 [info]  Clicked on the 'Genre Row Field' using JS Executor
+Oct 12,2016 09:56:11 [info]  Clicked on the 'Genere Dropdown Image'
+Oct 12,2016 09:56:11 [info]  Clicked on the 'Genere Dropdown value'
+Oct 12,2016 09:56:12 [info]  Clicked on the 'Add Button of Note' using JS Executor
+Oct 12,2016 09:56:15 [info]  Entered "Medium" in field 'Asset Priority'
+Oct 12,2016 09:56:15 [info]  Entered "Subject For the Deal" in field 'Asset Subject'
+Oct 12,2016 09:56:16 [info]  Entered "New Asset" in field 'AssetNotes TextField'
+Oct 12,2016 09:56:17 [info]  Clicked on the 'OK button'
+Oct 12,2016 09:56:19 [info]  Clicked on the 'Save Button' using JS Executor
+Oct 12,2016 09:56:31 [info]  Verified that Expected value :[AUT_AssetSeries1_1012201693713] is matched with Actual value :[AUT_AssetSeries1_1012201693713]
+Oct 12,2016 09:56:31 [info]  ************************Created Asset of TypeProgram - Series************************
+Oct 12,2016 09:56:31 [info]  ************************Started Creating Asset of Type: Program - Series************************
+Oct 12,2016 09:56:35 [info]  Clicked on the 'MODULE'
+Oct 12,2016 09:56:45 [info]  Clicked on the 'Asset Maintenance'
+Oct 12,2016 09:56:51 [info]  Clicked on the 'New Button' using JS Executor
+Oct 12,2016 09:56:52 [info]  Clicked on the 'Program' using JS Executor
+Oct 12,2016 09:57:00 [info]  Clicked on the 'General TAB'
+Oct 12,2016 09:57:02 [info]  Selected "Program - Series" in "AssetTypeDropDown" drop down
+Oct 12,2016 09:57:12 [info]  Entered "AUT_AssetSeries2_1012201693713" in field 'AssetTitle'
+Oct 12,2016 09:57:12 [info]  Clicked on the 'Vendor Img Icon' using JS Executor
+Oct 12,2016 09:57:14 [info]  Entered "AMC Networks Central Europe s.r.o." in field 'SearchvalueVendor'
+Oct 12,2016 09:57:16 [info]  Clicked on the 'VendorWindowButtonfind' using JS Executor
+Oct 12,2016 09:57:18 [info]  Clicked on the 'VendorName At VendorWindow'
+Oct 12,2016 09:57:18 [info]  Clicked on the 'Vendor Select Button' using JS Executor
+Oct 12,2016 09:57:22 [info]  Clicked on the 'StudioImageIcon' using JS Executor
+Oct 12,2016 09:57:24 [info]  Verified that Expected value :[Studio] is matched with Actual value :[Studio]
+Oct 12,2016 09:57:25 [info]  Entered "AMC TV Studios LLC" in field 'Studio Name'
+Oct 12,2016 09:57:25 [info]  Clicked on the 'Find Button' using JS Executor
+Oct 12,2016 09:57:27 [info]  Clicked on the 'Searched Studio: 'AMC TV Studios LLC''
+Oct 12,2016 09:57:28 [info]  Clicked on the 'Select Button at Studio Window' using JS Executor
+Oct 12,2016 09:57:35 [info]  Clicked on the 'SBUImage' using JS Executor
+Oct 12,2016 09:57:36 [info]  Verified that Expected value :[Source Business Unit Template] is matched with Actual value :[Source Business Unit Template]
+Oct 12,2016 09:57:37 [info]  Clicked on the ''Select All' CheckBox at SBU' using JS Executor
+Oct 12,2016 09:57:43 [info]  Clicked on the 'First CheckBox At SBU window'
+Oct 12,2016 09:57:43 [info]  Clicked on the 'Ninth CheckBox At SBU winodw'
+Oct 12,2016 09:57:46 [info]  Clicked on the 'Apply Button' using JS Executor
+Oct 12,2016 09:57:47 [info]  Entered "11:11:11" in field 'Duration'
+Oct 12,2016 09:57:57 [info]  Selected "Production" in "Asset Status" drop down
+Oct 12,2016 09:57:57 [info]  Selected "Licensed Acquired" in "Asset Source" drop down
+Oct 12,2016 09:57:58 [info]  Selected "TBD" in "Asset Category/Group" drop down
+Oct 12,2016 09:57:59 [info]  Entered "AUT_Series" in field 'Short Name'
+Oct 12,2016 09:57:59 [info]  Entered "Test" in field 'ProjectID'
+Oct 12,2016 09:58:00 [info]  Clicked on the 'Genre Add Button' using JS Executor
+Oct 12,2016 09:58:00 [info]  Clicked on the 'Genre Type Row Field' using JS Executor
+Oct 12,2016 09:58:00 [info]  Clicked on the 'Genere Type Dropdown Image'
+Oct 12,2016 09:58:01 [info]  Clicked on the 'First Genere Type DropDown Value in the list'
+Oct 12,2016 09:58:01 [info]  Clicked on the 'Genre Row Field' using JS Executor
+Oct 12,2016 09:58:01 [info]  Clicked on the 'Genere Dropdown Image'
+Oct 12,2016 09:58:02 [info]  Clicked on the 'Genere Dropdown value'
+Oct 12,2016 09:58:02 [info]  Clicked on the 'Add Button of Note' using JS Executor
+Oct 12,2016 09:58:05 [info]  Entered "Medium" in field 'Asset Priority'
+Oct 12,2016 09:58:06 [info]  Entered "Subject For the Deal" in field 'Asset Subject'
+Oct 12,2016 09:58:06 [info]  Entered "New Asset" in field 'AssetNotes TextField'
+Oct 12,2016 09:58:08 [info]  Clicked on the 'OK button'
+Oct 12,2016 09:58:10 [info]  Clicked on the 'Save Button' using JS Executor
+Oct 12,2016 09:58:23 [info]  Verified that Expected value :[AUT_AssetSeries2_1012201693713] is matched with Actual value :[AUT_AssetSeries2_1012201693713]
+Oct 12,2016 09:58:23 [info]  ************************Created Asset of TypeProgram - Series************************
+Oct 12,2016 09:58:23 [info]  Test 'createPrerequisites' PASSED
+Oct 12,2016 09:58:25 [info]  Closed the Browser
+Oct 12,2016 11:12:48 [info]  ********************Started Executiong the Test Suite at 11:12:48******************
+Oct 12,2016 11:12:48 [info]  Client: AMCN
+Oct 12,2016 11:12:48 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Oct 12,2016 11:12:48 [info]  *********************Started Executing 'TC2_PropertySearchFields' Test Case*********************
+Oct 12,2016 11:12:57 [info]  Client: AMCN
+Oct 12,2016 11:12:57 [info]  URL: http://rlv2wb79/login.aspx
+Oct 12,2016 11:12:57 [info]  UserName: automation
+Oct 12,2016 11:12:57 [info]  Password: automation
+Oct 12,2016 11:12:58 [info]  Entered "automation" in field 'User Name'
+Oct 12,2016 11:12:59 [info]  Clicked on the 'Temporary Check Box'
+Oct 12,2016 11:12:59 [info]  Entered "automation" in field 'Password'
+Oct 12,2016 11:13:05 [info]  Clicked on the 'LoginButton'
+Oct 12,2016 11:13:15 [info]  Clicked on the 'MODULE'
+Oct 12,2016 11:13:25 [info]  Clicked on the 'Asset Maintenance'
+Oct 12,2016 11:13:29 [info]  Clicked on the 'Search Menu Icon' using JS Executor
+Oct 12,2016 11:13:30 [info]  ====Failed==== Expected value is:[Asset] but Actual value is[]. Please check the screenshot with name: Asset1_Under_SearchMenufor more details
+Oct 12,2016 11:13:30 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Oct2016\\12\Asset1_Under_SearchMenu_CheckpointFailure_10-12-2016 11-13-30 AM.jpg
+Oct 12,2016 11:13:31 [info]  ====Failed==== Expected value is:[Return to Last Search] but Actual value is[]. Please check the screenshot with name: Asset2_Under_SearchMenufor more details
+Oct 12,2016 11:13:31 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Oct2016\\12\Asset2_Under_SearchMenu_CheckpointFailure_10-12-2016 11-13-31 AM.jpg
+Oct 12,2016 11:13:31 [info]  Clicked on the 'AssetSearchUnderAsset' using JS Executor
+Oct 12,2016 11:13:41 [info]  Verified that Expected value :[Asset Search] is matched with Actual value :[Asset Search]
+Oct 12,2016 11:13:41 [info]  "ShowMoreIcon" is Present
+Oct 12,2016 11:13:41 [info]  Verified that Expected value :[Asset Title] is matched with Actual value :[Asset Title]
+Oct 12,2016 11:13:42 [info]  Verified that Expected value :[Asset ID] is matched with Actual value :[Asset ID]
+Oct 12,2016 11:13:42 [info]  Verified that Expected value :[Type] is matched with Actual value :[Type]
+Oct 12,2016 11:13:42 [info]  Verified that Expected value :[Source Net/Bus. Unit] is matched with Actual value :[Source Net/Bus. Unit]
+Oct 12,2016 11:13:43 [info]  Verified that Expected value :[Genre] is matched with Actual value :[Genre]
+Oct 12,2016 11:13:43 [info]  Verified that Expected value :[Short Name] is matched with Actual value :[Short Name]
+Oct 12,2016 11:13:43 [info]  Verified that Expected value :[IP Name] is matched with Actual value :[IP Name]
+Oct 12,2016 11:13:44 [info]  Verified that Expected value :[Asset Category] is matched with Actual value :[Asset Category]
+Oct 12,2016 11:13:44 [info]  Verified that Expected value :[Asset Source] is matched with Actual value :[Asset Source]
+Oct 12,2016 11:13:45 [info]  Verified that Expected value :[Asset Status] is matched with Actual value :[Asset Status]
+Oct 12,2016 11:13:45 [info]  Verified that Expected value :[Show Additional Search Fields] is matched with Actual value :[Show Additional Search Fields]
+Oct 12,2016 11:13:49 [info]  Clicked on the 'MODULE'
+Oct 12,2016 11:13:58 [info]  Clicked on the 'Asset Maintenance'
+Oct 12,2016 11:14:12 [info]  Test 'TC2_PropertySearchFields' FAILED
+Oct 12,2016 11:14:12 [info]  2
+Oct 12,2016 11:14:13 [info]  Test Case :TC2_PropertySearchFields's Screenshot of Failure Page: C:\Screenshots\Oct2016\\12\TC2_PropertySearchFields_10-12-2016 11-14-12 AM.jpg
+Oct 12,2016 11:14:14 [info]  Closed the Browser
+Oct 12,2016 11:18:29 [info]  ********************Started Executiong the Test Suite at 11:18:29******************
+Oct 12,2016 11:18:29 [info]  Client: AMCN
+Oct 12,2016 11:18:29 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Oct 12,2016 11:18:29 [info]  *********************Started Executing 'testscript' Test Case*********************
+Oct 12,2016 11:18:38 [info]  Client: AMCN
+Oct 12,2016 11:18:38 [info]  URL: http://rlv2wb79/login.aspx
+Oct 12,2016 11:18:38 [info]  UserName: automation
+Oct 12,2016 11:18:38 [info]  Password: automation
+Oct 12,2016 11:18:39 [info]  Entered "automation" in field 'User Name'
+Oct 12,2016 11:18:39 [info]  Clicked on the 'Temporary Check Box'
+Oct 12,2016 11:18:40 [info]  Entered "automation" in field 'Password'
+Oct 12,2016 11:18:41 [info]  Clicked on the 'LoginButton'
+Oct 12,2016 11:18:51 [info]  Clicked on the 'MODULE'
+Oct 12,2016 11:19:00 [info]  Clicked on the 'Asset Maintenance'
+Oct 12,2016 11:19:04 [info]  Clicked on the 'Search Menu Icon' using JS Executor
+Oct 12,2016 11:19:05 [info]  ====Failed==== Expected value is:[Asset] but Actual value is[]. Please check the screenshot with name: Asset1_Under_SearchMenufor more details
+Oct 12,2016 11:19:05 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Oct2016\\12\Asset1_Under_SearchMenu_CheckpointFailure_10-12-2016 11-19-05 AM.jpg
+Oct 12,2016 11:19:06 [info]  ====Failed===="Asset1_Under_SearchMenu" is not Present
+Oct 12,2016 11:19:06 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Oct2016\\12\Asset1_Under_SearchMenu_CheckpointFailure_10-12-2016 11-19-06 AM.jpg
+Oct 12,2016 11:19:06 [info]  ====Failed==== Expected value is:[Return to Last Search] but Actual value is[]. Please check the screenshot with name: Asset2_Under_SearchMenufor more details
+Oct 12,2016 11:19:06 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Oct2016\\12\Asset2_Under_SearchMenu_CheckpointFailure_10-12-2016 11-19-06 AM.jpg
+Oct 12,2016 11:19:07 [info]  Clicked on the 'AssetSearchUnderAsset' using JS Executor
+Oct 12,2016 11:19:16 [info]  Test 'testscript' PASSED
+Oct 12,2016 11:19:17 [info]  Closed the Browser
+Oct 12,2016 11:20:30 [info]  ********************Started Executiong the Test Suite at 11:20:30******************
+Oct 12,2016 11:20:30 [info]  Client: AMCN
+Oct 12,2016 11:20:30 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Oct 12,2016 11:20:30 [info]  *********************Started Executing 'testscript' Test Case*********************
+Oct 12,2016 11:20:39 [info]  Client: AMCN
+Oct 12,2016 11:20:39 [info]  URL: http://rlv2wb79/login.aspx
+Oct 12,2016 11:20:39 [info]  UserName: automation
+Oct 12,2016 11:20:39 [info]  Password: automation
+Oct 12,2016 11:20:40 [info]  Entered "automation" in field 'User Name'
+Oct 12,2016 11:20:40 [info]  Clicked on the 'Temporary Check Box'
+Oct 12,2016 11:20:41 [info]  Entered "automation" in field 'Password'
+Oct 12,2016 11:20:47 [info]  Clicked on the 'LoginButton'
+Oct 12,2016 11:20:57 [info]  Clicked on the 'MODULE'
+Oct 12,2016 11:21:07 [info]  Clicked on the 'Asset Maintenance'
+Oct 12,2016 11:21:10 [info]  Clicked on the 'Search Menu Icon' using JS Executor
+Oct 12,2016 11:21:11 [info]  ====Failed==== Expected value is:[Asset] but Actual value is[]. Please check the screenshot with name: Asset1_Under_SearchMenufor more details
+Oct 12,2016 11:21:11 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Oct2016\\12\Asset1_Under_SearchMenu_CheckpointFailure_10-12-2016 11-21-11 AM.jpg
+Oct 12,2016 11:21:12 [info]  ====Failed==== Expected value is:[Asset] but Actual value is[]. Please check the screenshot with name: Asset1_Under_SearchMenufor more details
+Oct 12,2016 11:21:12 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Oct2016\\12\Asset1_Under_SearchMenu_CheckpointFailure_10-12-2016 11-21-12 AM.jpg
+Oct 12,2016 11:21:13 [info]  ====Failed==== Expected value is:[Return to Last Search] but Actual value is[]. Please check the screenshot with name: Asset2_Under_SearchMenufor more details
+Oct 12,2016 11:21:13 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Oct2016\\12\Asset2_Under_SearchMenu_CheckpointFailure_10-12-2016 11-21-13 AM.jpg
+Oct 12,2016 11:21:13 [info]  Clicked on the 'AssetSearchUnderAsset' using JS Executor
+Oct 12,2016 11:21:22 [info]  Test 'testscript' PASSED
+Oct 12,2016 11:21:23 [info]  Closed the Browser
+Oct 12,2016 11:22:51 [info]  ********************Started Executiong the Test Suite at 11:22:51******************
+Oct 12,2016 11:22:51 [info]  Client: AMCN
+Oct 12,2016 11:22:51 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Oct 12,2016 11:22:51 [info]  *********************Started Executing 'testscript' Test Case*********************
+Oct 12,2016 11:23:01 [info]  Client: AMCN
+Oct 12,2016 11:23:01 [info]  URL: http://rlv2wb79/login.aspx
+Oct 12,2016 11:23:01 [info]  UserName: automation
+Oct 12,2016 11:23:01 [info]  Password: automation
+Oct 12,2016 11:23:02 [info]  Entered "automation" in field 'User Name'
+Oct 12,2016 11:23:02 [info]  Clicked on the 'Temporary Check Box'
+Oct 12,2016 11:23:03 [info]  Entered "automation" in field 'Password'
+Oct 12,2016 11:23:09 [info]  Clicked on the 'LoginButton'
+Oct 12,2016 11:23:19 [info]  Clicked on the 'MODULE'
+Oct 12,2016 11:23:29 [info]  Clicked on the 'Asset Maintenance'
+Oct 12,2016 11:23:32 [info]  Clicked on the 'Search Menu Icon' using JS Executor
+Oct 12,2016 11:23:33 [info]  ====Failed==== Expected value is:[Asset] but Actual value is[]. Please check the screenshot with name: Asset1_Under_SearchMenufor more details
+Oct 12,2016 11:23:34 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Oct2016\\12\Asset1_Under_SearchMenu_CheckpointFailure_10-12-2016 11-23-33 AM.jpg
+Oct 12,2016 11:23:34 [info]  Verified that Expected value :[Asset] is matched with Actual value :[Assets]
+Oct 12,2016 11:23:34 [info]  ====Failed==== Expected value is:[Return to Last Search] but Actual value is[]. Please check the screenshot with name: Asset2_Under_SearchMenufor more details
+Oct 12,2016 11:23:34 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Oct2016\\12\Asset2_Under_SearchMenu_CheckpointFailure_10-12-2016 11-23-34 AM.jpg
+Oct 12,2016 11:23:35 [info]  Clicked on the 'AssetSearchUnderAsset' using JS Executor
+Oct 12,2016 11:23:44 [info]  Test 'testscript' PASSED
+Oct 12,2016 11:23:45 [info]  Closed the Browser
+Oct 12,2016 11:24:11 [info]  ********************Started Executiong the Test Suite at 11:24:11******************
+Oct 12,2016 11:24:11 [info]  Client: AMCN
+Oct 12,2016 11:24:11 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Oct 12,2016 11:24:11 [info]  *********************Started Executing 'testscript' Test Case*********************
+Oct 12,2016 11:24:20 [info]  Client: AMCN
+Oct 12,2016 11:24:20 [info]  URL: http://rlv2wb79/login.aspx
+Oct 12,2016 11:24:20 [info]  UserName: automation
+Oct 12,2016 11:24:20 [info]  Password: automation
+Oct 12,2016 11:24:21 [info]  Entered "automation" in field 'User Name'
+Oct 12,2016 11:24:22 [info]  Clicked on the 'Temporary Check Box'
+Oct 12,2016 11:24:22 [info]  Entered "automation" in field 'Password'
+Oct 12,2016 11:24:28 [info]  Clicked on the 'LoginButton'
+Oct 12,2016 11:24:38 [info]  Clicked on the 'MODULE'
+Oct 12,2016 11:24:48 [info]  Clicked on the 'Asset Maintenance'
+Oct 12,2016 11:24:52 [info]  Clicked on the 'Search Menu Icon' using JS Executor
+Oct 12,2016 11:24:53 [info]  Verified that Expected value :[Asset] is matched with Actual value :[Assets]
+Oct 12,2016 11:24:53 [info]  Verified that Expected value :[Return to Last Search] is matched with Actual value :[Return to Last Search]
+Oct 12,2016 11:24:53 [info]  Clicked on the 'AssetSearchUnderAsset' using JS Executor
+Oct 12,2016 11:25:02 [info]  Test 'testscript' PASSED
+Oct 12,2016 11:25:03 [info]  Closed the Browser
+Oct 12,2016 11:25:42 [info]  ********************Started Executiong the Test Suite at 11:25:42******************
+Oct 12,2016 11:25:42 [info]  Client: TURNER
+Oct 12,2016 11:25:42 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Oct 12,2016 11:25:42 [info]  *********************Started Executing 'testscript' Test Case*********************
+Oct 12,2016 11:25:51 [info]  Client: TURNER
+Oct 12,2016 11:25:51 [info]  URL: http://rlv2wb58:81/login.aspx
+Oct 12,2016 11:25:51 [info]  UserName: admin
+Oct 12,2016 11:25:51 [info]  Password: admin
+Oct 12,2016 11:26:23 [info]  Entered "admin" in field 'User Name'
+Oct 12,2016 11:26:23 [info]  Clicked on the 'Temporary Check Box'
+Oct 12,2016 11:26:23 [info]  Entered "admin" in field 'Password'
+Oct 12,2016 11:26:53 [info]  Clicked on the 'LoginButton'
+Oct 12,2016 11:27:03 [info]  Clicked on the 'MODULE'
+Oct 12,2016 11:27:16 [info]  Clicked on the 'Asset Maintenance'
+Oct 12,2016 11:27:19 [info]  Clicked on the 'Search Menu Icon' using JS Executor
+Oct 12,2016 11:27:20 [info]  Verified that Expected value :[Asset] is matched with Actual value :[Assets]
+Oct 12,2016 11:27:20 [info]  Verified that Expected value :[Cue Sheets/Music] is matched with Actual value :[Cue Sheets/Music]
+Oct 12,2016 11:27:20 [info]  Verified that Expected value :[Unrelated Cuesheets] is matched with Actual value :[Unrelated Cuesheets]
+Oct 12,2016 11:27:21 [info]  Verified that Expected value :[Return to Last Search] is matched with Actual value :[Return to Last Search]
+Oct 12,2016 11:27:21 [info]  Clicked on the 'AssetSearchUnderAsset' using JS Executor
+Oct 12,2016 11:27:38 [info]  Test 'testscript' PASSED
+Oct 12,2016 11:27:39 [info]  Closed the Browser
+Oct 12,2016 13:19:05 [info]  ********************Started Executiong the Test Suite at 13:19:05******************
+Oct 12,2016 13:19:05 [info]  Client: AMCN
+Oct 12,2016 13:19:05 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Oct 12,2016 13:19:05 [info]  *********************Started Executing 'TC1_AssetSearchFields' Test Case*********************
+Oct 12,2016 13:19:33 [info]  Client: AMCN
+Oct 12,2016 13:19:33 [info]  URL: http://rlv2wb79/login.aspx
+Oct 12,2016 13:19:33 [info]  UserName: automation
+Oct 12,2016 13:19:33 [info]  Password: automation
+Oct 12,2016 13:19:38 [info]  Entered "automation" in field 'User Name'
+Oct 12,2016 13:19:38 [info]  Clicked on the 'Temporary Check Box'
+Oct 12,2016 13:19:39 [info]  Entered "automation" in field 'Password'
+Oct 12,2016 13:19:48 [info]  Clicked on the 'LoginButton'
+Oct 12,2016 13:19:58 [info]  Clicked on the 'MODULE'
+Oct 12,2016 13:20:09 [info]  Clicked on the 'Asset Maintenance'
+Oct 12,2016 13:20:13 [info]  Clicked on the 'Search Menu Icon' using JS Executor
+Oct 12,2016 13:20:14 [info]  ====Failed==== Expected value is:[Asset] but Actual value is[]. Please check the screenshot with name: Asset1_Under_SearchMenufor more details
+Oct 12,2016 13:20:15 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Oct2016\\12\Asset1_Under_SearchMenu_CheckpointFailure_10-12-2016 1-20-14 PM.jpg
+Oct 12,2016 13:20:15 [info]  ====Failed==== Expected value is:[Return to Last Search] but Actual value is[]. Please check the screenshot with name: Asset2_Under_SearchMenufor more details
+Oct 12,2016 13:20:15 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Oct2016\\12\Asset2_Under_SearchMenu_CheckpointFailure_10-12-2016 1-20-15 PM.jpg
+Oct 12,2016 13:20:16 [info]  Clicked on the 'Asset Under Asset Search' using JS Executor
+Oct 12,2016 13:20:26 [info]  Verified that Expected value :[Asset Search] is matched with Actual value :[Asset Search]
+Oct 12,2016 13:20:27 [info]  "ShowMoreIcon" is Present
+Oct 12,2016 13:20:27 [info]  Verified that Expected value :[Asset Title] is matched with Actual value :[Asset Title]
+Oct 12,2016 13:20:27 [info]  Verified that Expected value :[Asset ID] is matched with Actual value :[Asset ID]
+Oct 12,2016 13:20:28 [info]  Verified that Expected value :[Type] is matched with Actual value :[Type]
+Oct 12,2016 13:20:28 [info]  Verified that Expected value :[Source Net/Bus. Unit] is matched with Actual value :[Source Net/Bus. Unit]
+Oct 12,2016 13:20:28 [info]  Verified that Expected value :[Genre] is matched with Actual value :[Genre]
+Oct 12,2016 13:20:29 [info]  Verified that Expected value :[Short Name] is matched with Actual value :[Short Name]
+Oct 12,2016 13:20:29 [info]  Verified that Expected value :[IP Name] is matched with Actual value :[IP Name]
+Oct 12,2016 13:20:29 [info]  Verified that Expected value :[Asset Category] is matched with Actual value :[Asset Category]
+Oct 12,2016 13:20:30 [info]  Verified that Expected value :[Asset Source] is matched with Actual value :[Asset Source]
+Oct 12,2016 13:20:30 [info]  Verified that Expected value :[Asset Status] is matched with Actual value :[Asset Status]
+Oct 12,2016 13:20:31 [info]  Verified that Expected value :[Show Additional Search Fields] is matched with Actual value :[Show Additional Search Fields]
+Oct 12,2016 13:20:31 [info]  Clicked on the 'Show More Icon'
+Oct 12,2016 13:20:32 [info]  Verified that Expected value :[Attributes] is matched with Actual value :[Attributes]
+Oct 12,2016 13:20:32 [info]  Verified that Expected value :[Contributor] is matched with Actual value :[Contributor]
+Oct 12,2016 13:20:32 [info]  Verified that Expected value :[Contact Role] is matched with Actual value :[Contact Role]
+Oct 12,2016 13:20:32 [info]  Verified that Expected value :[Character] is matched with Actual value :[Character]
+Oct 12,2016 13:20:33 [info]  Verified that Expected value :[Premiere Network] is matched with Actual value :[Premiere Network]
+Oct 12,2016 13:20:33 [info]  Verified that Expected value :[Premiere Air Date Fm] is matched with Actual value :[Premiere Air Date Fm]
+Oct 12,2016 13:20:33 [info]  Verified that Expected value :[Length Fm] is matched with Actual value :[Length Fm]
+Oct 12,2016 13:20:33 [info]  Verified that Expected value :[Union/Guild Association] is matched with Actual value :[Union/Guild Association]
+Oct 12,2016 13:20:34 [info]  Verified that Expected value :[Vendor] is matched with Actual value :[Vendor]
+Oct 12,2016 13:20:34 [info]  Verified that Expected value :[Vendor2] is matched with Actual value :[Vendor2]
+Oct 12,2016 13:20:34 [info]  Verified that Expected value :[Keyword] is matched with Actual value :[Keyword]
+Oct 12,2016 13:20:34 [info]  ====Failed==== Expected value is:[  AKAs/FKAs] but Actual value is[]. Please check the screenshot with name: AssetSearch_AKAfor more details
+Oct 12,2016 13:20:35 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Oct2016\\12\AssetSearch_AKA_CheckpointFailure_10-12-2016 1-20-34 PM.jpg
+Oct 12,2016 13:20:35 [info]  ====Failed==== Expected value is:[ Display Seasons] but Actual value is[Display Seasons]. Please check the screenshot with name: AssetSearch_Seasonsfor more details
+Oct 12,2016 13:20:35 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Oct2016\\12\AssetSearch_Seasons_CheckpointFailure_10-12-2016 1-20-35 PM.jpg
+Oct 12,2016 13:20:35 [info]  ====Failed==== Expected value is:[  Display Episodes] but Actual value is[Display Episodes]. Please check the screenshot with name: AssetSearch_Episodesfor more details
+Oct 12,2016 13:20:35 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Oct2016\\12\AssetSearch_Episodes_CheckpointFailure_10-12-2016 1-20-35 PM.jpg
+Oct 12,2016 13:20:36 [info]  ====Failed==== Expected value is:[ All] but Actual value is[All]. Please check the screenshot with name: AssetSearch_SelectAllfor more details
+Oct 12,2016 13:20:36 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Oct2016\\12\AssetSearch_SelectAll_CheckpointFailure_10-12-2016 1-20-36 PM.jpg
+Oct 12,2016 13:20:36 [info]  ====Failed==== Expected value is:[ Exact Match] but Actual value is[Exact Match]. Please check the screenshot with name: AssetSearch_ExactMatchfor more details
+Oct 12,2016 13:20:36 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Oct2016\\12\AssetSearch_ExactMatch_CheckpointFailure_10-12-2016 1-20-36 PM.jpg
+Oct 12,2016 13:20:37 [info]  Verified that Expected value :[Hide Additional Search Fields] is matched with Actual value :[Hide Additional Search Fields]
+Oct 12,2016 13:20:37 [info]  Clicked on the 'Show Less Icon'
+Oct 12,2016 13:20:37 [info]  Test 'TC1_AssetSearchFields' PASSED
+Oct 12,2016 13:20:40 [info]  Closed the Browser
+Oct 12,2016 14:44:38 [info]  ********************Started Executiong the Test Suite at 14:44:38******************
+Oct 12,2016 14:44:38 [info]  Client: AMCN
+Oct 12,2016 14:44:38 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Oct 12,2016 14:44:38 [info]  *********************Started Executing 'TC3_PropertySearchDisplayEpisodes' Test Case*********************
+Oct 12,2016 14:44:51 [info]  Client: AMCN
+Oct 12,2016 14:44:51 [info]  URL: http://rlv2wb79/login.aspx
+Oct 12,2016 14:44:51 [info]  UserName: automation
+Oct 12,2016 14:44:51 [info]  Password: automation
+Oct 12,2016 14:44:52 [info]  Entered "automation" in field 'User Name'
+Oct 12,2016 14:44:53 [info]  Clicked on the 'Temporary Check Box'
+Oct 12,2016 14:44:53 [info]  Entered "automation" in field 'Password'
+Oct 12,2016 14:45:01 [info]  Clicked on the 'LoginButton'
+Oct 12,2016 14:45:11 [info]  Clicked on the 'MODULE'
+Oct 12,2016 14:45:22 [info]  Clicked on the 'Asset Maintenance'
+Oct 12,2016 14:45:25 [info]  Clicked on the 'Search Menu Icon' using JS Executor
+Oct 12,2016 14:45:26 [info]  Clicked on the 'Asset Under 'Asset Search'' using JS Executor
+Oct 12,2016 14:45:38 [info]  Verified that Expected value :[Program] is matched with Actual value :[Program]
+Oct 12,2016 14:45:38 [info]  Verify The data of Asset_DispEpisodesCheckBox_CheckBox
+Oct 12,2016 14:45:38 [info]  ====Failed==== Expected value is:[checked] but Actual value is[true]. Please check the screenshot with name: Asset_DispEpisodesCheckBox_CheckBoxfor more details
+Oct 12,2016 14:45:39 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Oct2016\\12\Asset_DispEpisodesCheckBox_CheckBox_CheckpointFailure_10-12-2016 2-45-38 PM.jpg
+Oct 12,2016 14:45:40 [info]  Entered "AUT_AssetSeries_1012201693713" in field 'AssetTitle'
+Oct 12,2016 14:45:41 [info]  Clicked on the 'Find Button' using JS Executor
+Oct 12,2016 14:45:55 [info]  Verify The data of AssetSearch_AssetTitle
+Oct 12,2016 14:45:55 [info]  ====Failed==== Expected value is:[Asset Title] but Actual value is[]. Please check the screenshot with name: AssetSearch_AssetTitlefor more details
+Oct 12,2016 14:45:55 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Oct2016\\12\AssetSearch_AssetTitle_CheckpointFailure_10-12-2016 2-45-55 PM.jpg
+Oct 12,2016 14:45:55 [info]  Verify The data of AssetSearch_AssetID
+Oct 12,2016 14:45:55 [info]  ====Failed==== Expected value is:[Asset ID] but Actual value is[]. Please check the screenshot with name: AssetSearch_AssetIDfor more details
+Oct 12,2016 14:45:56 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Oct2016\\12\AssetSearch_AssetID_CheckpointFailure_10-12-2016 2-45-55 PM.jpg
+Oct 12,2016 14:46:06 [info]  Verify The data of AssetSearch_AssetType
+Oct 12,2016 14:46:06 [info]  ====Failed==== Expected value is:[Type] but Actual value is[]. Please check the screenshot with name: AssetSearch_AssetTypefor more details
+Oct 12,2016 14:46:06 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Oct2016\\12\AssetSearch_AssetType_CheckpointFailure_10-12-2016 2-46-06 PM.jpg
+Oct 12,2016 14:46:07 [info]  Verify The data of AssetSearch_Contributor
+Oct 12,2016 14:46:07 [info]  ====Failed==== Expected value is:[Contributor] but Actual value is[]. Please check the screenshot with name: AssetSearch_Contributorfor more details
+Oct 12,2016 14:46:07 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Oct2016\\12\AssetSearch_Contributor_CheckpointFailure_10-12-2016 2-46-07 PM.jpg
+Oct 12,2016 14:46:07 [info]  Verify The data of AssetSearch_Vendor
+Oct 12,2016 14:46:07 [info]  ====Failed==== Expected value is:[Vendor] but Actual value is[]. Please check the screenshot with name: AssetSearch_Vendorfor more details
+Oct 12,2016 14:46:07 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Oct2016\\12\AssetSearch_Vendor_CheckpointFailure_10-12-2016 2-46-07 PM.jpg
+Oct 12,2016 14:46:08 [info]  Verify The data of AssetSearch_SBU
+Oct 12,2016 14:46:08 [info]  ====Failed==== Expected value is:[Source Net/Bus. Unit] but Actual value is[]. Please check the screenshot with name: AssetSearch_SBUfor more details
+Oct 12,2016 14:46:08 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Oct2016\\12\AssetSearch_SBU_CheckpointFailure_10-12-2016 2-46-08 PM.jpg
+Oct 12,2016 14:46:08 [info]  Verify The data of AssetSearch_ShortName
+Oct 12,2016 14:46:08 [info]  ====Failed==== Expected value is:[Short Name] but Actual value is[]. Please check the screenshot with name: AssetSearch_ShortNamefor more details
+Oct 12,2016 14:46:08 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Oct2016\\12\AssetSearch_ShortName_CheckpointFailure_10-12-2016 2-46-08 PM.jpg
+Oct 12,2016 14:46:09 [info]  Verify The data of AssetSearch_AssetStatus
+Oct 12,2016 14:46:09 [info]  ====Failed==== Expected value is:[Asset Status] but Actual value is[]. Please check the screenshot with name: AssetSearch_AssetStatusfor more details
+Oct 12,2016 14:46:09 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Oct2016\\12\AssetSearch_AssetStatus_CheckpointFailure_10-12-2016 2-46-09 PM.jpg
+Oct 12,2016 14:46:09 [info]  Verify The data of AssetSearch_AssetCategory
+Oct 12,2016 14:46:09 [info]  ====Failed==== Expected value is:[Asset Category] but Actual value is[]. Please check the screenshot with name: AssetSearch_AssetCategoryfor more details
+Oct 12,2016 14:46:09 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Oct2016\\12\AssetSearch_AssetCategory_CheckpointFailure_10-12-2016 2-46-09 PM.jpg
+Oct 12,2016 14:46:10 [info]  Verify The data of AssetSearch_AssetSource
+Oct 12,2016 14:46:10 [info]  ====Failed==== Expected value is:[Asset Source] but Actual value is[]. Please check the screenshot with name: AssetSearch_AssetSourcefor more details
+Oct 12,2016 14:46:10 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Oct2016\\12\AssetSearch_AssetSource_CheckpointFailure_10-12-2016 2-46-10 PM.jpg
+Oct 12,2016 14:46:10 [info]  Verify The data of AssetSearch_Vendor2
+Oct 12,2016 14:46:10 [info]  ====Failed==== Expected value is:[Vendor2] but Actual value is[]. Please check the screenshot with name: AssetSearch_Vendor2for more details
+Oct 12,2016 14:46:11 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Oct2016\\12\AssetSearch_Vendor2_CheckpointFailure_10-12-2016 2-46-10 PM.jpg
+Oct 12,2016 14:46:11 [info]  Verify The data of AssetSearch_IPName
+Oct 12,2016 14:46:11 [info]  ====Failed==== Expected value is:[IP Name] but Actual value is[]. Please check the screenshot with name: AssetSearch_IPNamefor more details
+Oct 12,2016 14:46:11 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Oct2016\\12\AssetSearch_IPName_CheckpointFailure_10-12-2016 2-46-11 PM.jpg
+Oct 12,2016 14:46:12 [info]  Verify The data of AssetSearch_Project ID
+Oct 12,2016 14:46:12 [info]  ====Failed==== Expected value is:[Project ID] but Actual value is[]. Please check the screenshot with name: AssetSearch_Project IDfor more details
+Oct 12,2016 14:46:12 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Oct2016\\12\AssetSearch_Project ID_CheckpointFailure_10-12-2016 2-46-12 PM.jpg
+Oct 12,2016 14:46:22 [info]  Verify The data of AssetSearch_GuildAssociation
+Oct 12,2016 14:46:22 [info]  ====Failed==== Expected value is:[Union/Guild Association] but Actual value is[]. Please check the screenshot with name: AssetSearch_GuildAssociationfor more details
+Oct 12,2016 14:46:22 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Oct2016\\12\AssetSearch_GuildAssociation_CheckpointFailure_10-12-2016 2-46-22 PM.jpg
+Oct 12,2016 14:46:22 [info]  Verify The data of AssetSearch_Publisher
+Oct 12,2016 14:46:22 [info]  ====Failed==== Expected value is:[Publisher] but Actual value is[]. Please check the screenshot with name: AssetSearch_Publisherfor more details
+Oct 12,2016 14:46:22 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Oct2016\\12\AssetSearch_Publisher_CheckpointFailure_10-12-2016 2-46-22 PM.jpg
+Oct 12,2016 14:46:23 [info]  Verify The data of AssetSearch_Number of Episodes
+Oct 12,2016 14:46:23 [info]  ====Failed==== Expected value is:[# of Ep] but Actual value is[]. Please check the screenshot with name: AssetSearch_Number of Episodesfor more details
+Oct 12,2016 14:46:23 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Oct2016\\12\AssetSearch_Number of Episodes_CheckpointFailure_10-12-2016 2-46-23 PM.jpg
+Oct 12,2016 14:46:23 [info]  Verify The data of Length (minutes)
+Oct 12,2016 14:46:23 [info]  ====Failed==== Expected value is:[Length (minutes)] but Actual value is[]. Please check the screenshot with name: Length (minutes)for more details
+Oct 12,2016 14:46:24 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Oct2016\\12\Length (minutes)_CheckpointFailure_10-12-2016 2-46-23 PM.jpg
+Oct 12,2016 14:46:24 [info]  Verify The data of Length (minutes)
+Oct 12,2016 14:46:24 [info]  ====Failed==== Expected value is:[Length (minutes)] but Actual value is[]. Please check the screenshot with name: Length (minutes)for more details
+Oct 12,2016 14:46:24 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Oct2016\\12\Length (minutes)_CheckpointFailure_10-12-2016 2-46-24 PM.jpg
+Oct 12,2016 14:46:24 [info]  Verify The data of Release Year
+Oct 12,2016 14:46:24 [info]  ====Failed==== Expected value is:[Release Year] but Actual value is[]. Please check the screenshot with name: Release Yearfor more details
+Oct 12,2016 14:46:25 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Oct2016\\12\Release Year_CheckpointFailure_10-12-2016 2-46-24 PM.jpg
+Oct 12,2016 14:46:25 [info]  Verify The data of AssetSearch_AssetTitle
+Oct 12,2016 14:46:25 [info]  ====Failed==== Expected value is:[Asset Title] but Actual value is[]. Please check the screenshot with name: AssetSearch_AssetTitlefor more details
+Oct 12,2016 14:46:25 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Oct2016\\12\AssetSearch_AssetTitle_CheckpointFailure_10-12-2016 2-46-25 PM.jpg
+Oct 12,2016 14:46:25 [info]  Test 'TC3_PropertySearchDisplayEpisodes' PASSED
+Oct 12,2016 14:46:30 [info]  Closed the Browser
+Oct 12,2016 14:49:10 [info]  ********************Started Executiong the Test Suite at 14:49:10******************
+Oct 12,2016 14:49:10 [info]  Client: AMCN
+Oct 12,2016 14:49:10 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Oct 12,2016 14:49:10 [info]  *********************Started Executing 'TC3_PropertySearchDisplayEpisodes' Test Case*********************
+Oct 12,2016 14:49:19 [info]  Client: AMCN
+Oct 12,2016 14:49:19 [info]  URL: http://rlv2wb79/login.aspx
+Oct 12,2016 14:49:19 [info]  UserName: automation
+Oct 12,2016 14:49:19 [info]  Password: automation
+Oct 12,2016 14:49:20 [info]  Entered "automation" in field 'User Name'
+Oct 12,2016 14:49:20 [info]  Clicked on the 'Temporary Check Box'
+Oct 12,2016 14:49:21 [info]  Entered "automation" in field 'Password'
+Oct 12,2016 14:49:27 [info]  Clicked on the 'LoginButton'
+Oct 12,2016 14:49:37 [info]  Clicked on the 'MODULE'
+Oct 12,2016 14:49:47 [info]  Clicked on the 'Asset Maintenance'
+Oct 12,2016 14:49:51 [info]  Clicked on the 'Search Menu Icon' using JS Executor
+Oct 12,2016 14:49:51 [info]  Clicked on the 'Asset Under 'Asset Search'' using JS Executor
+Oct 12,2016 14:50:03 [info]  Verified that Expected value :[Program] is matched with Actual value :[Program]
+Oct 12,2016 14:50:03 [info]  Verify The data of Asset_DispEpisodesCheckBox_CheckBox
+Oct 12,2016 14:50:03 [info]  Verified that Expected value :[true] is matched with Actual value :[true]
+Oct 12,2016 14:50:05 [info]  Entered "AUT_AssetSeries_1012201693713" in field 'AssetTitle'
+Oct 12,2016 14:50:05 [info]  Clicked on the 'Find Button' using JS Executor
+Oct 12,2016 14:50:19 [info]  Verify The data of AssetSearch_AssetTitle
+Oct 12,2016 14:50:19 [info]  Verified that Expected value :[Asset Title] is matched with Actual value :[Asset Title]
+Oct 12,2016 14:50:19 [info]  Verify The data of AssetSearch_AssetID
+Oct 12,2016 14:50:19 [info]  Verified that Expected value :[Asset ID] is matched with Actual value :[Asset ID]
+Oct 12,2016 14:50:30 [info]  Verify The data of AssetSearch_AssetType
+Oct 12,2016 14:50:30 [info]  ====Failed==== Expected value is:[Type] but Actual value is[]. Please check the screenshot with name: AssetSearch_AssetTypefor more details
+Oct 12,2016 14:50:30 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Oct2016\\12\AssetSearch_AssetType_CheckpointFailure_10-12-2016 2-50-30 PM.jpg
+Oct 12,2016 14:50:30 [info]  Verify The data of AssetSearch_Contributor
+Oct 12,2016 14:50:30 [info]  Verified that Expected value :[Contributor] is matched with Actual value :[Contributor]
+Oct 12,2016 14:50:31 [info]  Verify The data of AssetSearch_Vendor
+Oct 12,2016 14:50:31 [info]  Verified that Expected value :[Vendor] is matched with Actual value :[Vendor]
+Oct 12,2016 14:50:31 [info]  Verify The data of AssetSearch_SBU
+Oct 12,2016 14:50:31 [info]  Verified that Expected value :[Source Net/Bus. Unit] is matched with Actual value :[Source Net/Bus. Unit]
+Oct 12,2016 14:50:31 [info]  Verify The data of AssetSearch_ShortName
+Oct 12,2016 14:50:31 [info]  Verified that Expected value :[Short Name] is matched with Actual value :[Short Name]
+Oct 12,2016 14:50:32 [info]  Verify The data of AssetSearch_AssetStatus
+Oct 12,2016 14:50:32 [info]  Verified that Expected value :[Asset Status] is matched with Actual value :[Asset Status]
+Oct 12,2016 14:50:32 [info]  Verify The data of AssetSearch_AssetCategory
+Oct 12,2016 14:50:32 [info]  Verified that Expected value :[Asset Category] is matched with Actual value :[Asset Category]
+Oct 12,2016 14:50:33 [info]  Verify The data of AssetSearch_AssetSource
+Oct 12,2016 14:50:33 [info]  Verified that Expected value :[Asset Source] is matched with Actual value :[Asset Source]
+Oct 12,2016 14:50:33 [info]  Verify The data of AssetSearch_Vendor2
+Oct 12,2016 14:50:33 [info]  Verified that Expected value :[Vendor2] is matched with Actual value :[Vendor2]
+Oct 12,2016 14:50:34 [info]  Verify The data of AssetSearch_IPName
+Oct 12,2016 14:50:34 [info]  Verified that Expected value :[IP Name] is matched with Actual value :[IP Name]
+Oct 12,2016 14:50:34 [info]  Verify The data of AssetSearch_Project ID
+Oct 12,2016 14:50:34 [info]  Verified that Expected value :[Project ID] is matched with Actual value :[Project ID]
+Oct 12,2016 14:50:44 [info]  Verify The data of AssetSearch_GuildAssociation
+Oct 12,2016 14:50:44 [info]  ====Failed==== Expected value is:[Union/Guild Association] but Actual value is[]. Please check the screenshot with name: AssetSearch_GuildAssociationfor more details
+Oct 12,2016 14:50:44 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Oct2016\\12\AssetSearch_GuildAssociation_CheckpointFailure_10-12-2016 2-50-44 PM.jpg
+Oct 12,2016 14:50:44 [info]  Verify The data of AssetSearch_Publisher
+Oct 12,2016 14:50:44 [info]  ====Failed==== Expected value is:[Publisher] but Actual value is[]. Please check the screenshot with name: AssetSearch_Publisherfor more details
+Oct 12,2016 14:50:45 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Oct2016\\12\AssetSearch_Publisher_CheckpointFailure_10-12-2016 2-50-44 PM.jpg
+Oct 12,2016 14:50:45 [info]  Verify The data of AssetSearch_Number of Episodes
+Oct 12,2016 14:50:45 [info]  ====Failed==== Expected value is:[# of Ep] but Actual value is[]. Please check the screenshot with name: AssetSearch_Number of Episodesfor more details
+Oct 12,2016 14:50:45 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Oct2016\\12\AssetSearch_Number of Episodes_CheckpointFailure_10-12-2016 2-50-45 PM.jpg
+Oct 12,2016 14:50:45 [info]  Verify The data of Length (minutes)
+Oct 12,2016 14:50:45 [info]  ====Failed==== Expected value is:[Length (minutes)] but Actual value is[]. Please check the screenshot with name: Length (minutes)for more details
+Oct 12,2016 14:50:45 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Oct2016\\12\Length (minutes)_CheckpointFailure_10-12-2016 2-50-45 PM.jpg
+Oct 12,2016 14:50:45 [info]  Verify The data of Length (minutes)
+Oct 12,2016 14:50:45 [info]  ====Failed==== Expected value is:[Length (minutes)] but Actual value is[]. Please check the screenshot with name: Length (minutes)for more details
+Oct 12,2016 14:50:46 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Oct2016\\12\Length (minutes)_CheckpointFailure_10-12-2016 2-50-45 PM.jpg
+Oct 12,2016 14:50:46 [info]  Verify The data of Release Year
+Oct 12,2016 14:50:46 [info]  ====Failed==== Expected value is:[Release Year] but Actual value is[]. Please check the screenshot with name: Release Yearfor more details
+Oct 12,2016 14:50:46 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Oct2016\\12\Release Year_CheckpointFailure_10-12-2016 2-50-46 PM.jpg
+Oct 12,2016 14:50:46 [info]  Verify The data of AssetSearch_AssetTitle
+Oct 12,2016 14:50:46 [info]  Verified that Expected value :[Asset Title] is matched with Actual value :[Asset Title]
+Oct 12,2016 14:50:46 [info]  Test 'TC3_PropertySearchDisplayEpisodes' PASSED
+Oct 12,2016 14:50:47 [info]  Closed the Browser
+Oct 12,2016 14:59:45 [info]  ********************Started Executiong the Test Suite at 14:59:45******************
+Oct 12,2016 14:59:45 [info]  Client: AMCN
+Oct 12,2016 14:59:45 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Oct 12,2016 14:59:45 [info]  *********************Started Executing 'TC3_PropertySearchDisplayEpisodes' Test Case*********************
+Oct 12,2016 14:59:54 [info]  Client: AMCN
+Oct 12,2016 14:59:54 [info]  URL: http://rlv2wb79/login.aspx
+Oct 12,2016 14:59:54 [info]  UserName: automation
+Oct 12,2016 14:59:54 [info]  Password: automation
+Oct 12,2016 14:59:55 [info]  Entered "automation" in field 'User Name'
+Oct 12,2016 14:59:55 [info]  Clicked on the 'Temporary Check Box'
+Oct 12,2016 14:59:56 [info]  Entered "automation" in field 'Password'
+Oct 12,2016 15:00:03 [info]  Clicked on the 'LoginButton'
+Oct 12,2016 15:00:13 [info]  Clicked on the 'MODULE'
+Oct 12,2016 15:00:23 [info]  Clicked on the 'Asset Maintenance'
+Oct 12,2016 15:00:27 [info]  Clicked on the 'Search Menu Icon' using JS Executor
+Oct 12,2016 15:00:27 [info]  Clicked on the 'Asset Under 'Asset Search'' using JS Executor
+Oct 12,2016 15:00:39 [info]  Verified that Expected value :[Program] is matched with Actual value :[Program]
+Oct 12,2016 15:00:39 [info]  Verify The data of Asset_DispEpisodesCheckBox_CheckBox
+Oct 12,2016 15:00:39 [info]  Verified that Expected value :[true] is matched with Actual value :[true]
+Oct 12,2016 15:00:41 [info]  Entered "AUT_AssetSeries_1012201693713" in field 'AssetTitle'
+Oct 12,2016 15:00:41 [info]  Clicked on the 'Find Button' using JS Executor
+Oct 12,2016 15:00:55 [info]  Verify The data of AssetSearch_AssetTitle
+Oct 12,2016 15:00:55 [info]  Verified that Expected value :[Asset Title] is matched with Actual value :[Asset Title]
+Oct 12,2016 15:00:55 [info]  Verify The data of AssetSearch_AssetID
+Oct 12,2016 15:00:55 [info]  Verified that Expected value :[Asset ID] is matched with Actual value :[Asset ID]
+Oct 12,2016 15:00:56 [info]  Verify The data of AssetSearch_AssetType
+Oct 12,2016 15:00:56 [info]  Verified that Expected value :[Asset Type] is matched with Actual value :[Asset Type]
+Oct 12,2016 15:00:56 [info]  Verify The data of AssetSearch_Contributor
+Oct 12,2016 15:00:56 [info]  Verified that Expected value :[Contributor] is matched with Actual value :[Contributor]
+Oct 12,2016 15:00:57 [info]  Verify The data of AssetSearch_Vendor
+Oct 12,2016 15:00:57 [info]  Verified that Expected value :[Vendor] is matched with Actual value :[Vendor]
+Oct 12,2016 15:00:57 [info]  Verify The data of AssetSearch_SBU
+Oct 12,2016 15:00:57 [info]  Verified that Expected value :[Source Net/Bus. Unit] is matched with Actual value :[Source Net/Bus. Unit]
+Oct 12,2016 15:00:57 [info]  Verify The data of AssetSearch_ShortName
+Oct 12,2016 15:00:57 [info]  Verified that Expected value :[Short Name] is matched with Actual value :[Short Name]
+Oct 12,2016 15:00:58 [info]  Verify The data of AssetSearch_AssetStatus
+Oct 12,2016 15:00:58 [info]  Verified that Expected value :[Asset Status] is matched with Actual value :[Asset Status]
+Oct 12,2016 15:00:58 [info]  Verify The data of AssetSearch_AssetCategory
+Oct 12,2016 15:00:58 [info]  Verified that Expected value :[Asset Category] is matched with Actual value :[Asset Category]
+Oct 12,2016 15:00:59 [info]  Verify The data of AssetSearch_AssetSource
+Oct 12,2016 15:00:59 [info]  Verified that Expected value :[Asset Source] is matched with Actual value :[Asset Source]
+Oct 12,2016 15:00:59 [info]  Verify The data of AssetSearch_Vendor2
+Oct 12,2016 15:00:59 [info]  Verified that Expected value :[Vendor2] is matched with Actual value :[Vendor2]
+Oct 12,2016 15:00:59 [info]  Verify The data of AssetSearch_IPName
+Oct 12,2016 15:00:59 [info]  Verified that Expected value :[IP Name] is matched with Actual value :[IP Name]
+Oct 12,2016 15:01:00 [info]  Verify The data of AssetSearch_Project ID
+Oct 12,2016 15:01:00 [info]  Verified that Expected value :[Project ID] is matched with Actual value :[Project ID]
+Oct 12,2016 15:01:01 [info]  Verify The data of AssetSearch_GuildAssociation
+Oct 12,2016 15:01:01 [info]  Verified that Expected value :[Guild Association] is matched with Actual value :[Guild Association]
+Oct 12,2016 15:01:01 [info]  Verify The data of AssetSearch_Publisher
+Oct 12,2016 15:01:01 [info]  Verified that Expected value :[Publisher] is matched with Actual value :[Publisher]
+Oct 12,2016 15:01:02 [info]  Verify The data of AssetSearch_Number of Episodes
+Oct 12,2016 15:01:02 [info]  Verified that Expected value :[# of Ep] is matched with Actual value :[# of Ep]
+Oct 12,2016 15:01:02 [info]  Verify The data of Length (minutes)
+Oct 12,2016 15:01:02 [info]  Verified that Expected value :[Length (minutes)] is matched with Actual value :[Length (minutes)]
+Oct 12,2016 15:01:02 [info]  Verify The data of Length (minutes)
+Oct 12,2016 15:01:02 [info]  Verified that Expected value :[Length (minutes)] is matched with Actual value :[Length (minutes)]
+Oct 12,2016 15:01:03 [info]  Verify The data of Release Year
+Oct 12,2016 15:01:03 [info]  Verified that Expected value :[Release Year] is matched with Actual value :[Release Year]
+Oct 12,2016 15:01:03 [info]  Verify The data of AssetSearch_AssetTitle
+Oct 12,2016 15:01:03 [info]  ====Failed==== Expected value is:[Asset Title] but Actual value is[]. Please check the screenshot with name: AssetSearch_AssetTitlefor more details
+Oct 12,2016 15:01:03 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Oct2016\\12\AssetSearch_AssetTitle_CheckpointFailure_10-12-2016 3-01-03 PM.jpg
+Oct 12,2016 15:01:03 [info]  Test 'TC3_PropertySearchDisplayEpisodes' PASSED
+Oct 12,2016 15:01:04 [info]  Closed the Browser
+Oct 12,2016 15:11:49 [info]  ********************Started Executiong the Test Suite at 15:11:49******************
+Oct 12,2016 15:11:49 [info]  Client: VMN
+Oct 12,2016 15:11:49 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Oct 12,2016 15:11:49 [info]  *********************Started Executing 'TC3_PropertySearchDisplayEpisodes' Test Case*********************
+Oct 12,2016 15:11:58 [info]  Client: VMN
+Oct 12,2016 15:11:58 [info]  URL: http://rlv2wb41/login.aspx
+Oct 12,2016 15:11:58 [info]  UserName: admin
+Oct 12,2016 15:11:58 [info]  Password: admin
+Oct 12,2016 15:11:59 [info]  Entered "admin" in field 'User Name'
+Oct 12,2016 15:11:59 [info]  Clicked on the 'Temporary Check Box'
+Oct 12,2016 15:12:00 [info]  Entered "admin" in field 'Password'
+Oct 12,2016 15:12:11 [info]  Clicked on the 'LoginButton'
+Oct 12,2016 15:12:21 [info]  Clicked on the 'MODULE'
+Oct 12,2016 15:12:32 [info]  Clicked on the 'Property Entry & Maintenance'
+Oct 12,2016 15:12:36 [info]  Clicked on the 'Search Icon' using JS Executor
+Oct 12,2016 15:14:19 [info]  Test 'TC3_PropertySearchDisplayEpisodes' FAILED
+Oct 12,2016 15:14:19 [info]  2
+Oct 12,2016 15:14:19 [info]  Test Case :TC3_PropertySearchDisplayEpisodes's Screenshot of Failure Page: C:\Screenshots\Oct2016\\12\TC3_PropertySearchDisplayEpisodes_10-12-2016 3-14-19 PM.jpg
+Oct 12,2016 15:14:20 [info]  Closed the Browser
+Oct 12,2016 15:17:05 [info]  ********************Started Executiong the Test Suite at 15:17:05******************
+Oct 12,2016 15:17:05 [info]  Client: VMN
+Oct 12,2016 15:17:05 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Oct 12,2016 15:17:05 [info]  *********************Started Executing 'TC3_PropertySearchDisplayEpisodes' Test Case*********************
+Oct 12,2016 15:17:14 [info]  Client: VMN
+Oct 12,2016 15:17:14 [info]  URL: http://rlv2wb41/login.aspx
+Oct 12,2016 15:17:14 [info]  UserName: admin
+Oct 12,2016 15:17:14 [info]  Password: admin
+Oct 12,2016 15:17:15 [info]  Entered "admin" in field 'User Name'
+Oct 12,2016 15:17:15 [info]  Clicked on the 'Temporary Check Box'
+Oct 12,2016 15:17:16 [info]  Entered "admin" in field 'Password'
+Oct 12,2016 15:17:25 [info]  Clicked on the 'LoginButton'
+Oct 12,2016 15:17:35 [info]  Clicked on the 'MODULE'
+Oct 12,2016 15:17:46 [info]  Clicked on the 'Property Entry & Maintenance'
+Oct 12,2016 15:17:50 [info]  Clicked on the 'Search Icon' using JS Executor
+Oct 12,2016 15:17:50 [info]  Clicked on the 'Property Search' using JS Executor
+Oct 12,2016 15:18:03 [info]  Verified that Expected value :[Program] is matched with Actual value :[Program]
+Oct 12,2016 15:18:03 [info]  Verify The data of Asset_DispEpisodesCheckBox_CheckBox
+Oct 12,2016 15:18:03 [info]  Verified that Expected value :[true] is matched with Actual value :[true]
+Oct 12,2016 15:18:05 [info]  Entered "AUT_AssetSeries_1004201621937" in field 'AssetTitle'
+Oct 12,2016 15:18:05 [info]  Clicked on the 'Find Button' using JS Executor
+Oct 12,2016 15:18:49 [info]  Verify The data of AssetSearch_AssetTitle
+Oct 12,2016 15:18:49 [info]  ====Failed==== Expected value is:[Title / Name] but Actual value is[]. Please check the screenshot with name: AssetSearch_AssetTitlefor more details
+Oct 12,2016 15:18:50 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Oct2016\\12\AssetSearch_AssetTitle_CheckpointFailure_10-12-2016 3-18-49 PM.jpg
+Oct 12,2016 15:18:50 [info]  Verify The data of AssetSearch_AssetID
+Oct 12,2016 15:18:50 [info]  Verified that Expected value :[RMS Property ID] is matched with Actual value :[RMS Property ID]
+Oct 12,2016 15:18:50 [info]  Verify The data of AssetSearch_AssetType
+Oct 12,2016 15:18:50 [info]  Verified that Expected value :[Property Type] is matched with Actual value :[Property Type]
+Oct 12,2016 15:19:01 [info]  Verify The data of AssetSearch_Contributor
+Oct 12,2016 15:19:01 [info]  ====Failed==== Expected value is:[Contact] but Actual value is[]. Please check the screenshot with name: AssetSearch_Contributorfor more details
+Oct 12,2016 15:19:01 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Oct2016\\12\AssetSearch_Contributor_CheckpointFailure_10-12-2016 3-19-01 PM.jpg
+Oct 12,2016 15:19:01 [info]  Verify The data of AssetSearch_Vendor
+Oct 12,2016 15:19:01 [info]  ====Failed==== Expected value is:[Production Co. / Licensor] but Actual value is[]. Please check the screenshot with name: AssetSearch_Vendorfor more details
+Oct 12,2016 15:19:01 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Oct2016\\12\AssetSearch_Vendor_CheckpointFailure_10-12-2016 3-19-01 PM.jpg
+Oct 12,2016 15:19:11 [info]  Verify The data of AssetSearch_SBU
+Oct 12,2016 15:19:11 [info]  ====Failed==== Expected value is:[Source Net/Bus. Unit] but Actual value is[]. Please check the screenshot with name: AssetSearch_SBUfor more details
+Oct 12,2016 15:19:11 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Oct2016\\12\AssetSearch_SBU_CheckpointFailure_10-12-2016 3-19-11 PM.jpg
+Oct 12,2016 15:19:12 [info]  Verify The data of AssetSearch_AssetStatus
+Oct 12,2016 15:19:12 [info]  Verified that Expected value :[Property Status] is matched with Actual value :[Property Status]
+Oct 12,2016 15:19:12 [info]  Verify The data of AssetSearch_AssetRightsVersionType
+Oct 12,2016 15:19:12 [info]  Verified that Expected value :[Rights Version Type] is matched with Actual value :[Rights Version Type]
+Oct 12,2016 15:19:12 [info]  Verify The data of AssetSearch_PRODEntry
+Oct 12,2016 15:19:12 [info]  Verified that Expected value :[Prod Entry Status] is matched with Actual value :[Prod Entry Status]
+Oct 12,2016 15:19:13 [info]  Verify The data of AssetSearch_MMLEntry
+Oct 12,2016 15:19:13 [info]  Verified that Expected value :[MML Entry Status] is matched with Actual value :[MML Entry Status]
+Oct 12,2016 15:19:13 [info]  Verify The data of AssetSearch_Composer
+Oct 12,2016 15:19:13 [info]  ====Failed==== Expected value is:[Composer] but Actual value is[]. Please check the screenshot with name: AssetSearch_Composerfor more details
+Oct 12,2016 15:19:13 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Oct2016\\12\AssetSearch_Composer_CheckpointFailure_10-12-2016 3-19-13 PM.jpg
+Oct 12,2016 15:19:13 [info]  Verify The data of AssetSearch_Artist
+Oct 12,2016 15:19:13 [info]  ====Failed==== Expected value is:[Artist] but Actual value is[]. Please check the screenshot with name: AssetSearch_Artistfor more details
+Oct 12,2016 15:19:13 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Oct2016\\12\AssetSearch_Artist_CheckpointFailure_10-12-2016 3-19-13 PM.jpg
+Oct 12,2016 15:19:14 [info]  Verify The data of AssetSearch_Artist
+Oct 12,2016 15:19:14 [info]  ====Failed==== Expected value is:[Artist] but Actual value is[]. Please check the screenshot with name: AssetSearch_Artistfor more details
+Oct 12,2016 15:19:14 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Oct2016\\12\AssetSearch_Artist_CheckpointFailure_10-12-2016 3-19-14 PM.jpg
+Oct 12,2016 15:19:24 [info]  Verify The data of AssetSearch_MMLContact
+Oct 12,2016 15:19:24 [info]  ====Failed==== Expected value is:[MML Contact] but Actual value is[]. Please check the screenshot with name: AssetSearch_MMLContactfor more details
+Oct 12,2016 15:19:24 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Oct2016\\12\AssetSearch_MMLContact_CheckpointFailure_10-12-2016 3-19-24 PM.jpg
+Oct 12,2016 15:19:34 [info]  Verify The data of AssetSearch_PRODBALAContact
+Oct 12,2016 15:19:34 [info]  ====Failed==== Expected value is:[PROD BALA Contact] but Actual value is[]. Please check the screenshot with name: AssetSearch_PRODBALAContactfor more details
+Oct 12,2016 15:19:34 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Oct2016\\12\AssetSearch_PRODBALAContact_CheckpointFailure_10-12-2016 3-19-34 PM.jpg
+Oct 12,2016 15:19:45 [info]  Verify The data of AssetSearch_CreationDate
+Oct 12,2016 15:19:45 [info]  ====Failed==== Expected value is:[Creation Date] but Actual value is[]. Please check the screenshot with name: AssetSearch_CreationDatefor more details
+Oct 12,2016 15:19:45 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Oct2016\\12\AssetSearch_CreationDate_CheckpointFailure_10-12-2016 3-19-45 PM.jpg
+Oct 12,2016 15:19:45 [info]  Verify The data of AssetSearch_InternationalAvailabitlity
+Oct 12,2016 15:19:45 [info]  ====Failed==== Expected value is:[International Amortization Date] but Actual value is[]. Please check the screenshot with name: AssetSearch_InternationalAvailabitlityfor more details
+Oct 12,2016 15:19:45 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Oct2016\\12\AssetSearch_InternationalAvailabitlity_CheckpointFailure_10-12-2016 3-19-45 PM.jpg
+Oct 12,2016 15:19:45 [info]  Verify The data of AssetSearch_AssetCategory
+Oct 12,2016 15:19:45 [info]  ====Failed==== Expected value is:[Initial Platform] but Actual value is[]. Please check the screenshot with name: AssetSearch_AssetCategoryfor more details
+Oct 12,2016 15:19:45 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Oct2016\\12\AssetSearch_AssetCategory_CheckpointFailure_10-12-2016 3-19-45 PM.jpg
+Oct 12,2016 15:19:46 [info]  Verify The data of AssetSearch_AssetSource
+Oct 12,2016 15:19:46 [info]  Verified that Expected value :[Property Source] is matched with Actual value :[Property Source]
+Oct 12,2016 15:19:46 [info]  Verify The data of AssetSearch_Vendor2
+Oct 12,2016 15:19:46 [info]  ====Failed==== Expected value is:[Copyright Owner] but Actual value is[]. Please check the screenshot with name: AssetSearch_Vendor2for more details
+Oct 12,2016 15:19:46 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Oct2016\\12\AssetSearch_Vendor2_CheckpointFailure_10-12-2016 3-19-46 PM.jpg
+Oct 12,2016 15:19:46 [info]  Verify The data of AssetSearch_IPName
+Oct 12,2016 15:19:46 [info]  ====Failed==== Expected value is:[Franchise / IP Name] but Actual value is[]. Please check the screenshot with name: AssetSearch_IPNamefor more details
+Oct 12,2016 15:19:46 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Oct2016\\12\AssetSearch_IPName_CheckpointFailure_10-12-2016 3-19-46 PM.jpg
+Oct 12,2016 15:19:47 [info]  Verify The data of AssetSearch_Project ID
+Oct 12,2016 15:19:47 [info]  ====Failed==== Expected value is:[Project ID] but Actual value is[]. Please check the screenshot with name: AssetSearch_Project IDfor more details
+Oct 12,2016 15:19:47 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Oct2016\\12\AssetSearch_Project ID_CheckpointFailure_10-12-2016 3-19-47 PM.jpg
+Oct 12,2016 15:19:47 [info]  Verify The data of AssetSearch_ClientGroup
+Oct 12,2016 15:19:47 [info]  ====Failed==== Expected value is:[Intl Opt In Decision] but Actual value is[]. Please check the screenshot with name: AssetSearch_ClientGroupfor more details
+Oct 12,2016 15:19:47 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Oct2016\\12\AssetSearch_ClientGroup_CheckpointFailure_10-12-2016 3-19-47 PM.jpg
+Oct 12,2016 15:19:47 [info]  Verify The data of AssetSearch_PropertyFormat
+Oct 12,2016 15:19:47 [info]  ====Failed==== Expected value is:[Property Format] but Actual value is[]. Please check the screenshot with name: AssetSearch_PropertyFormatfor more details
+Oct 12,2016 15:19:47 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Oct2016\\12\AssetSearch_PropertyFormat_CheckpointFailure_10-12-2016 3-19-47 PM.jpg
+Oct 12,2016 15:20:08 [info]  Verify The data of AssetSearch_GuildAssociation
+Oct 12,2016 15:20:08 [info]  ====Failed==== Expected value is:[Union/Guild Association] but Actual value is[]. Please check the screenshot with name: AssetSearch_GuildAssociationfor more details
+Oct 12,2016 15:20:08 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Oct2016\\12\AssetSearch_GuildAssociation_CheckpointFailure_10-12-2016 3-20-08 PM.jpg
+Oct 12,2016 15:20:18 [info]  Verify The data of AssetSearch_Publisher
+Oct 12,2016 15:20:18 [info]  ====Failed==== Expected value is:[Admin Publisher/Publisher] but Actual value is[]. Please check the screenshot with name: AssetSearch_Publisherfor more details
+Oct 12,2016 15:20:18 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Oct2016\\12\AssetSearch_Publisher_CheckpointFailure_10-12-2016 3-20-18 PM.jpg
+Oct 12,2016 15:20:18 [info]  Verify The data of AssetSearch_Number of Episodes
+Oct 12,2016 15:20:18 [info]  ====Failed==== Expected value is:[# of Episodes] but Actual value is[]. Please check the screenshot with name: AssetSearch_Number of Episodesfor more details
+Oct 12,2016 15:20:18 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Oct2016\\12\AssetSearch_Number of Episodes_CheckpointFailure_10-12-2016 3-20-18 PM.jpg
+Oct 12,2016 15:20:19 [info]  Verify The data of Length
+Oct 12,2016 15:20:19 [info]  Verified that Expected value :[Length] is matched with Actual value :[Length]
+Oct 12,2016 15:20:19 [info]  Verify The data of Length (minutes)
+Oct 12,2016 15:20:19 [info]  ====Failed==== Expected value is:[Length (minutes)] but Actual value is[]. Please check the screenshot with name: Length (minutes)for more details
+Oct 12,2016 15:20:19 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Oct2016\\12\Length (minutes)_CheckpointFailure_10-12-2016 3-20-19 PM.jpg
+Oct 12,2016 15:20:19 [info]  Verify The data of Release Year
+Oct 12,2016 15:20:19 [info]  ====Failed==== Expected value is:[Release Year] but Actual value is[]. Please check the screenshot with name: Release Yearfor more details
+Oct 12,2016 15:20:19 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Oct2016\\12\Release Year_CheckpointFailure_10-12-2016 3-20-19 PM.jpg
+Oct 12,2016 15:20:19 [info]  Test 'TC3_PropertySearchDisplayEpisodes' PASSED
+Oct 12,2016 15:20:20 [info]  Closed the Browser
+Oct 12,2016 15:24:05 [info]  ********************Started Executiong the Test Suite at 15:24:05******************
+Oct 12,2016 15:24:05 [info]  Client: VMN
+Oct 12,2016 15:24:05 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Oct 12,2016 15:24:05 [info]  *********************Started Executing 'TC3_PropertySearchDisplayEpisodes' Test Case*********************
+Oct 12,2016 15:24:14 [info]  Client: VMN
+Oct 12,2016 15:24:14 [info]  URL: http://rlv2wb41/login.aspx
+Oct 12,2016 15:24:14 [info]  UserName: admin
+Oct 12,2016 15:24:14 [info]  Password: admin
+Oct 12,2016 15:24:15 [info]  Entered "admin" in field 'User Name'
+Oct 12,2016 15:24:16 [info]  Clicked on the 'Temporary Check Box'
+Oct 12,2016 15:24:16 [info]  Entered "admin" in field 'Password'
+Oct 12,2016 15:24:27 [info]  Clicked on the 'LoginButton'
+Oct 12,2016 15:24:37 [info]  Clicked on the 'MODULE'
+Oct 12,2016 15:24:49 [info]  Clicked on the 'Property Entry & Maintenance'
+Oct 12,2016 15:24:53 [info]  Clicked on the 'Search Icon' using JS Executor
+Oct 12,2016 15:24:53 [info]  Clicked on the 'Property Search' using JS Executor
+Oct 12,2016 15:25:05 [info]  Verified that Expected value :[Program] is matched with Actual value :[Program]
+Oct 12,2016 15:25:06 [info]  Verify The data of Asset_DispEpisodesCheckBox_CheckBox
+Oct 12,2016 15:25:06 [info]  Verified that Expected value :[true] is matched with Actual value :[true]
+Oct 12,2016 15:25:07 [info]  Entered "AUT_AssetSeries_1004201621937" in field 'AssetTitle'
+Oct 12,2016 15:25:08 [info]  Clicked on the 'Find Button' using JS Executor
+Oct 12,2016 15:25:36 [info]  Verify The data of AssetSearch_AssetTitle
+Oct 12,2016 15:25:36 [info]  Verified that Expected value :[Property Title] is matched with Actual value :[Property Title]
+Oct 12,2016 15:25:36 [info]  Verify The data of AssetSearch_AssetID
+Oct 12,2016 15:25:36 [info]  Verified that Expected value :[RMS Property ID] is matched with Actual value :[RMS Property ID]
+Oct 12,2016 15:25:37 [info]  Verify The data of AssetSearch_AssetType
+Oct 12,2016 15:25:37 [info]  Verified that Expected value :[Property Type] is matched with Actual value :[Property Type]
+Oct 12,2016 15:25:57 [info]  Verify The data of AssetSearch_Contributor
+Oct 12,2016 15:25:57 [info]  ====Failed==== Expected value is:[All Contact] but Actual value is[]. Please check the screenshot with name: AssetSearch_Contributorfor more details
+Oct 12,2016 15:25:57 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Oct2016\\12\AssetSearch_Contributor_CheckpointFailure_10-12-2016 3-25-57 PM.jpg
+Oct 12,2016 15:25:57 [info]  Verify The data of AssetSearch_Vendor
+Oct 12,2016 15:25:57 [info]  ====Failed==== Expected value is:[Production Co. / Licensor] but Actual value is[]. Please check the screenshot with name: AssetSearch_Vendorfor more details
+Oct 12,2016 15:25:58 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Oct2016\\12\AssetSearch_Vendor_CheckpointFailure_10-12-2016 3-25-57 PM.jpg
+Oct 12,2016 15:26:08 [info]  Verify The data of AssetSearch_SBU
+Oct 12,2016 15:26:08 [info]  ====Failed==== Expected value is:[Source Net/Bus. Unit] but Actual value is[]. Please check the screenshot with name: AssetSearch_SBUfor more details
+Oct 12,2016 15:26:08 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Oct2016\\12\AssetSearch_SBU_CheckpointFailure_10-12-2016 3-26-08 PM.jpg
+Oct 12,2016 15:26:08 [info]  Verify The data of AssetSearch_AssetStatus
+Oct 12,2016 15:26:08 [info]  Verified that Expected value :[Property Status] is matched with Actual value :[Property Status]
+Oct 12,2016 15:26:09 [info]  Verify The data of AssetSearch_AssetRightsVersionType
+Oct 12,2016 15:26:09 [info]  Verified that Expected value :[Rights Version Type] is matched with Actual value :[Rights Version Type]
+Oct 12,2016 15:26:09 [info]  Verify The data of AssetSearch_PRODEntry
+Oct 12,2016 15:26:09 [info]  Verified that Expected value :[Prod Entry Status] is matched with Actual value :[Prod Entry Status]
+Oct 12,2016 15:26:10 [info]  Verify The data of AssetSearch_MMLEntry
+Oct 12,2016 15:26:10 [info]  Verified that Expected value :[MML Entry Status] is matched with Actual value :[MML Entry Status]
+Oct 12,2016 15:26:10 [info]  Verify The data of AssetSearch_Composer
+Oct 12,2016 15:26:10 [info]  ====Failed==== Expected value is:[Composer] but Actual value is[]. Please check the screenshot with name: AssetSearch_Composerfor more details
+Oct 12,2016 15:26:10 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Oct2016\\12\AssetSearch_Composer_CheckpointFailure_10-12-2016 3-26-10 PM.jpg
+Oct 12,2016 15:26:11 [info]  Verify The data of AssetSearch_Artist
+Oct 12,2016 15:26:11 [info]  ====Failed==== Expected value is:[Artist] but Actual value is[]. Please check the screenshot with name: AssetSearch_Artistfor more details
+Oct 12,2016 15:26:11 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Oct2016\\12\AssetSearch_Artist_CheckpointFailure_10-12-2016 3-26-11 PM.jpg
+Oct 12,2016 15:26:11 [info]  Verify The data of AssetSearch_Artist
+Oct 12,2016 15:26:11 [info]  ====Failed==== Expected value is:[Artist] but Actual value is[]. Please check the screenshot with name: AssetSearch_Artistfor more details
+Oct 12,2016 15:26:11 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Oct2016\\12\AssetSearch_Artist_CheckpointFailure_10-12-2016 3-26-11 PM.jpg
+Oct 12,2016 15:26:21 [info]  Verify The data of AssetSearch_MMLContact
+Oct 12,2016 15:26:21 [info]  ====Failed==== Expected value is:[MML Contact] but Actual value is[]. Please check the screenshot with name: AssetSearch_MMLContactfor more details
+Oct 12,2016 15:26:21 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Oct2016\\12\AssetSearch_MMLContact_CheckpointFailure_10-12-2016 3-26-21 PM.jpg
+Oct 12,2016 15:26:32 [info]  Verify The data of AssetSearch_PRODBALAContact
+Oct 12,2016 15:26:32 [info]  ====Failed==== Expected value is:[PROD BALA Contact] but Actual value is[]. Please check the screenshot with name: AssetSearch_PRODBALAContactfor more details
+Oct 12,2016 15:26:32 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Oct2016\\12\AssetSearch_PRODBALAContact_CheckpointFailure_10-12-2016 3-26-32 PM.jpg
+Oct 12,2016 15:47:00 [info]  ********************Started Executiong the Test Suite at 15:47:00******************
+Oct 12,2016 15:47:00 [info]  Client: AMCN
+Oct 12,2016 15:47:00 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Oct 12,2016 15:47:01 [info]  *********************Started Executing 'TC3_PropertySearchDisplayEpisodes' Test Case*********************
+Oct 12,2016 15:47:10 [info]  Client: AMCN
+Oct 12,2016 15:47:10 [info]  URL: http://rlv2wb79/login.aspx
+Oct 12,2016 15:47:10 [info]  UserName: automation
+Oct 12,2016 15:47:10 [info]  Password: automation
+Oct 12,2016 15:47:11 [info]  Entered "automation" in field 'User Name'
+Oct 12,2016 15:47:11 [info]  Clicked on the 'Temporary Check Box'
+Oct 12,2016 15:47:12 [info]  Entered "automation" in field 'Password'
+Oct 12,2016 15:47:20 [info]  Clicked on the 'LoginButton'
+Oct 12,2016 15:47:30 [info]  Clicked on the 'MODULE'
+Oct 12,2016 15:47:40 [info]  Clicked on the 'Asset Maintenance'
+Oct 12,2016 15:47:44 [info]  Clicked on the 'Search Menu Icon' using JS Executor
+Oct 12,2016 15:47:44 [info]  Clicked on the 'Asset Under 'Asset Search'' using JS Executor
+Oct 12,2016 15:47:56 [info]  Verified that Expected value :[Program] is matched with Actual value :[Program]
+Oct 12,2016 15:47:56 [info]  Verify The data of Asset_DispEpisodesCheckBox_CheckBox
+Oct 12,2016 15:47:56 [info]  Verified that Expected value :[true] is matched with Actual value :[true]
+Oct 12,2016 15:47:58 [info]  Entered "AUT_AssetSeries_1012201693713" in field 'AssetTitle'
+Oct 12,2016 15:47:59 [info]  Clicked on the 'Find Button' using JS Executor
+Oct 12,2016 15:48:16 [info]  Verify The data of AssetSearch_AssetTitle
+Oct 12,2016 15:48:16 [info]  Verified that Expected value :[Asset Title] is matched with Actual value :[Asset Title]
+Oct 12,2016 15:48:16 [info]  Verify The data of AssetSearch_AssetID
+Oct 12,2016 15:48:16 [info]  Verified that Expected value :[Asset ID] is matched with Actual value :[Asset ID]
+Oct 12,2016 15:48:17 [info]  Verify The data of AssetSearch_AssetType
+Oct 12,2016 15:48:17 [info]  Verified that Expected value :[Asset Type] is matched with Actual value :[Asset Type]
+Oct 12,2016 15:48:17 [info]  Verify The data of AssetSearch_Contributor
+Oct 12,2016 15:48:17 [info]  Verified that Expected value :[Contributor] is matched with Actual value :[Contributor]
+Oct 12,2016 15:48:18 [info]  Verify The data of AssetSearch_Vendor
+Oct 12,2016 15:48:18 [info]  Verified that Expected value :[Vendor] is matched with Actual value :[Vendor]
+Oct 12,2016 15:48:18 [info]  Verify The data of AssetSearch_SBU
+Oct 12,2016 15:48:18 [info]  Verified that Expected value :[Source Net/Bus. Unit] is matched with Actual value :[Source Net/Bus. Unit]
+Oct 12,2016 15:48:19 [info]  Verify The data of AssetSearch_ShortName
+Oct 12,2016 15:48:19 [info]  Verified that Expected value :[Short Name] is matched with Actual value :[Short Name]
+Oct 12,2016 15:48:19 [info]  Verify The data of AssetSearch_AssetStatus
+Oct 12,2016 15:48:19 [info]  Verified that Expected value :[Asset Status] is matched with Actual value :[Asset Status]
+Oct 12,2016 15:48:19 [info]  Verify The data of AssetSearch_AssetCategory
+Oct 12,2016 15:48:19 [info]  Verified that Expected value :[Asset Category] is matched with Actual value :[Asset Category]
+Oct 12,2016 15:48:20 [info]  Verify The data of AssetSearch_AssetSource
+Oct 12,2016 15:48:20 [info]  Verified that Expected value :[Asset Source] is matched with Actual value :[Asset Source]
+Oct 12,2016 15:48:20 [info]  Verify The data of AssetSearch_Vendor2
+Oct 12,2016 15:48:20 [info]  Verified that Expected value :[Vendor2] is matched with Actual value :[Vendor2]
+Oct 12,2016 15:48:21 [info]  Verify The data of AssetSearch_IPName
+Oct 12,2016 15:48:21 [info]  Verified that Expected value :[IP Name] is matched with Actual value :[IP Name]
+Oct 12,2016 15:48:21 [info]  Verify The data of AssetSearch_Project ID
+Oct 12,2016 15:48:21 [info]  Verified that Expected value :[Project ID] is matched with Actual value :[Project ID]
+Oct 12,2016 15:48:22 [info]  Verify The data of AssetSearch_GuildAssociation
+Oct 12,2016 15:48:22 [info]  Verified that Expected value :[Guild Association] is matched with Actual value :[Guild Association]
+Oct 12,2016 15:48:22 [info]  Verify The data of AssetSearch_Publisher
+Oct 12,2016 15:48:22 [info]  Verified that Expected value :[Publisher] is matched with Actual value :[Publisher]
+Oct 12,2016 15:48:23 [info]  Verify The data of AssetSearch_Number of Episodes
+Oct 12,2016 15:48:23 [info]  Verified that Expected value :[# of Ep] is matched with Actual value :[# of Ep]
+Oct 12,2016 15:48:23 [info]  Verify The data of Length (minutes)
+Oct 12,2016 15:48:23 [info]  Verified that Expected value :[Length (minutes)] is matched with Actual value :[Length (minutes)]
+Oct 12,2016 15:48:23 [info]  Verify The data of Length (minutes)
+Oct 12,2016 15:48:23 [info]  Verified that Expected value :[Length (minutes)] is matched with Actual value :[Length (minutes)]
+Oct 12,2016 15:48:24 [info]  Verify The data of Release Year
+Oct 12,2016 15:48:24 [info]  Verified that Expected value :[Release Year] is matched with Actual value :[Release Year]
+Oct 12,2016 15:48:25 [info]  Clicked on the 'ExpandSeasonIcon'
+Oct 12,2016 15:48:38 [info]  Verify The data of Season 1 at Asset Search Grid
+Oct 12,2016 15:48:38 [info]  ====Failed==== Expected value is:[Season 1] but Actual value is[]. Please check the screenshot with name: Season 1 at Asset Search Gridfor more details
+Oct 12,2016 15:48:38 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Oct2016\\12\Season 1 at Asset Search Grid_CheckpointFailure_10-12-2016 3-48-38 PM.jpg
+Oct 12,2016 15:48:48 [info]  Verify The data of Season 1 at Asset Search Grid
+Oct 12,2016 15:48:48 [info]  ====Failed==== Expected value is:[Season 1] but Actual value is[]. Please check the screenshot with name: Season 1 at Asset Search Gridfor more details
+Oct 12,2016 15:48:48 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Oct2016\\12\Season 1 at Asset Search Grid_CheckpointFailure_10-12-2016 3-48-48 PM.jpg
+Oct 12,2016 15:48:49 [info]  Moved Mouse over 'First Asset in the Searched Asset'
+Oct 12,2016 15:48:49 [info]  Clicked on the 'First Asset in the Searched Asset'
+Oct 12,2016 15:48:49 [info]  Clicked on the 'First Asset in the Searched Asset'
+Oct 12,2016 15:48:53 [info]  Clicked on the 'View Asset' using JS Executor
+Oct 12,2016 15:49:05 [info]  Verified that Expected value :[AUT_AssetSeries_1012201693713] is matched with Actual value :[AUT_AssetSeries_1012201693713]
+Oct 12,2016 15:49:07 [info]  Entered "AUT_AssetSeries_1012201693713_Edit" in field 'AssetTitle'
+Oct 12,2016 15:49:07 [info]  Clicked on the 'Save Button' using JS Executor
+Oct 12,2016 15:49:33 [info]  Verified that Expected value :[AUT_AssetSeries_1012201693713_Edit] is matched with Actual value :[AUT_AssetSeries_1012201693713_Edit]
+Oct 12,2016 15:49:38 [info]  Clicked on the 'MODULE'
+Oct 12,2016 15:49:49 [info]  Clicked on the 'Asset Maintenance'
+Oct 12,2016 15:49:53 [info]  Clicked on the 'Search Menu Icon' using JS Executor
+Oct 12,2016 15:49:53 [info]  Clicked on the 'AssetSearchUnderAsset' using JS Executor
+Oct 12,2016 15:50:07 [info]  Entered "AUT_AssetSeries_1012201693713_Edit" in field 'AssetTitle'
+Oct 12,2016 15:50:08 [info]  Clicked on the 'All Check Box' using JS Executor
+Oct 12,2016 15:50:08 [info]  Selected "Program" in "AssetTypeDropDownAtAssetSearch" drop down
+Oct 12,2016 15:50:08 [info]  Clicked on the 'Find Button' using JS Executor
+Oct 12,2016 15:50:32 [info]  Moved Mouse over 'First Asset in the Searched Asset'
+Oct 12,2016 15:50:32 [info]  Clicked on the 'First Asset in the Searched Asset'
+Oct 12,2016 15:50:33 [info]  Clicked on the 'First Asset in the Searched Asset'
+Oct 12,2016 15:50:36 [info]  Clicked on the 'View Asset' using JS Executor
+Oct 12,2016 15:50:49 [info]  Verified that Expected value :[AUT_AssetSeries_1012201693713_Edit] is matched with Actual value :[AUT_AssetSeries_1012201693713_Edit]
+Oct 12,2016 15:50:55 [info]  Verified that Expected value :[AUT_AssetSeries_1012201693713] is matched with Actual value :[AUT_AssetSeries_1012201693713_Edit]
+Oct 12,2016 15:50:56 [info]  Entered "AUT_AssetSeries_1012201693713" in field 'AssetTitle'
+Oct 12,2016 15:50:57 [info]  Clicked on the 'Save Button' using JS Executor
+Oct 12,2016 15:51:16 [info]  ====Failed==== Expected value is:[AUT_AssetSeries_1012201693713_Edit] but Actual value is[AUT_AssetSeries_1012201693713]. Please check the screenshot with name: Created AssetAUT_AssetSeries_1012201693713for more details
+Oct 12,2016 15:51:16 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Oct2016\\12\Created AssetAUT_AssetSeries_1012201693713_CheckpointFailure_10-12-2016 3-51-16 PM.jpg
+Oct 12,2016 15:51:16 [info]  Test 'TC3_PropertySearchDisplayEpisodes' PASSED
+Oct 12,2016 15:51:17 [info]  Closed the Browser
+Oct 12,2016 15:53:15 [info]  ********************Started Executiong the Test Suite at 15:53:15******************
+Oct 12,2016 15:53:15 [info]  Client: AMCN
+Oct 12,2016 15:53:15 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Oct 12,2016 15:53:15 [info]  *********************Started Executing 'TC3_PropertySearchDisplayEpisodes' Test Case*********************
+Oct 12,2016 15:53:24 [info]  Client: AMCN
+Oct 12,2016 15:53:24 [info]  URL: http://rlv2wb79/login.aspx
+Oct 12,2016 15:53:24 [info]  UserName: automation
+Oct 12,2016 15:53:24 [info]  Password: automation
+Oct 12,2016 15:53:25 [info]  Entered "automation" in field 'User Name'
+Oct 12,2016 15:53:26 [info]  Clicked on the 'Temporary Check Box'
+Oct 12,2016 15:53:26 [info]  Entered "automation" in field 'Password'
+Oct 12,2016 15:53:34 [info]  Clicked on the 'LoginButton'
+Oct 12,2016 15:53:44 [info]  Clicked on the 'MODULE'
+Oct 12,2016 15:53:57 [info]  Clicked on the 'Asset Maintenance'
+Oct 12,2016 15:54:01 [info]  Clicked on the 'Search Menu Icon' using JS Executor
+Oct 12,2016 15:54:01 [info]  Clicked on the 'Asset Under 'Asset Search'' using JS Executor
+Oct 12,2016 15:54:11 [info]  Verified that Expected value :[Program] is matched with Actual value :[Program]
+Oct 12,2016 15:54:11 [info]  Verify The data of Asset_DispEpisodesCheckBox_CheckBox
+Oct 12,2016 15:54:11 [info]  Verified that Expected value :[true] is matched with Actual value :[true]
+Oct 12,2016 15:54:12 [info]  Entered "AUT_AssetSeries_1012201693713" in field 'AssetTitle'
+Oct 12,2016 15:54:12 [info]  Clicked on the 'Find Button' using JS Executor
+Oct 12,2016 15:54:36 [info]  Clicked on the 'ExpandSeasonIcon'
+Oct 12,2016 15:54:39 [info]  Verify The data of Season 1 at Asset Search Grid
+Oct 12,2016 15:54:39 [info]  Verified that Expected value :[Season 1] is matched with Actual value :[Season 1]
+Oct 12,2016 15:54:39 [info]  Verify The data of Season 1 at Asset Search Grid
+Oct 12,2016 15:54:39 [info]  ====Failed==== Expected value is:[Season 1] but Actual value is[Season 2]. Please check the screenshot with name: Season 1 at Asset Search Gridfor more details
+Oct 12,2016 15:54:39 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Oct2016\\12\Season 1 at Asset Search Grid_CheckpointFailure_10-12-2016 3-54-39 PM.jpg
+Oct 12,2016 15:54:39 [info]  Verify The data of AssetSearch_AssetTitle
+Oct 12,2016 15:54:39 [info]  Verified that Expected value :[Asset Title] is matched with Actual value :[Asset Title]
+Oct 12,2016 15:54:40 [info]  Verify The data of AssetSearch_AssetID
+Oct 12,2016 15:54:40 [info]  Verified that Expected value :[Asset ID] is matched with Actual value :[Asset ID]
+Oct 12,2016 15:54:40 [info]  Verify The data of AssetSearch_AssetType
+Oct 12,2016 15:54:40 [info]  Verified that Expected value :[Asset Type] is matched with Actual value :[Asset Type]
+Oct 12,2016 15:54:40 [info]  Verify The data of AssetSearch_Contributor
+Oct 12,2016 15:54:40 [info]  Verified that Expected value :[Contributor] is matched with Actual value :[Contributor]
+Oct 12,2016 15:54:40 [info]  Verify The data of AssetSearch_Vendor
+Oct 12,2016 15:54:40 [info]  Verified that Expected value :[Vendor] is matched with Actual value :[Vendor]
+Oct 12,2016 15:54:40 [info]  Verify The data of AssetSearch_SBU
+Oct 12,2016 15:54:40 [info]  Verified that Expected value :[Source Net/Bus. Unit] is matched with Actual value :[Source Net/Bus. Unit]
+Oct 12,2016 15:54:41 [info]  Verify The data of AssetSearch_ShortName
+Oct 12,2016 15:54:41 [info]  Verified that Expected value :[Short Name] is matched with Actual value :[Short Name]
+Oct 12,2016 15:54:41 [info]  Verify The data of AssetSearch_AssetStatus
+Oct 12,2016 15:54:41 [info]  Verified that Expected value :[Asset Status] is matched with Actual value :[Asset Status]
+Oct 12,2016 15:54:41 [info]  Verify The data of AssetSearch_AssetCategory
+Oct 12,2016 15:54:41 [info]  Verified that Expected value :[Asset Category] is matched with Actual value :[Asset Category]
+Oct 12,2016 15:54:41 [info]  Verify The data of AssetSearch_AssetSource
+Oct 12,2016 15:54:41 [info]  Verified that Expected value :[Asset Source] is matched with Actual value :[Asset Source]
+Oct 12,2016 15:54:42 [info]  Verify The data of AssetSearch_Vendor2
+Oct 12,2016 15:54:42 [info]  Verified that Expected value :[Vendor2] is matched with Actual value :[Vendor2]
+Oct 12,2016 15:54:42 [info]  Verify The data of AssetSearch_IPName
+Oct 12,2016 15:54:42 [info]  Verified that Expected value :[IP Name] is matched with Actual value :[IP Name]
+Oct 12,2016 15:54:42 [info]  Verify The data of AssetSearch_Project ID
+Oct 12,2016 15:54:42 [info]  Verified that Expected value :[Project ID] is matched with Actual value :[Project ID]
+Oct 12,2016 15:54:42 [info]  Verify The data of AssetSearch_GuildAssociation
+Oct 12,2016 15:54:42 [info]  Verified that Expected value :[Guild Association] is matched with Actual value :[Guild Association]
+Oct 12,2016 15:54:42 [info]  Verify The data of AssetSearch_Publisher
+Oct 12,2016 15:54:42 [info]  Verified that Expected value :[Publisher] is matched with Actual value :[Publisher]
+Oct 12,2016 15:54:43 [info]  Verify The data of AssetSearch_Number of Episodes
+Oct 12,2016 15:54:43 [info]  Verified that Expected value :[# of Ep] is matched with Actual value :[# of Ep]
+Oct 12,2016 15:54:43 [info]  Verify The data of Length (minutes)
+Oct 12,2016 15:54:43 [info]  Verified that Expected value :[Length (minutes)] is matched with Actual value :[Length (minutes)]
+Oct 12,2016 15:54:43 [info]  Verify The data of Length (minutes)
+Oct 12,2016 15:54:43 [info]  Verified that Expected value :[Length (minutes)] is matched with Actual value :[Length (minutes)]
+Oct 12,2016 15:54:43 [info]  Verify The data of Release Year
+Oct 12,2016 15:54:43 [info]  Verified that Expected value :[Release Year] is matched with Actual value :[Release Year]
+Oct 12,2016 15:54:44 [info]  Moved Mouse over 'First Asset in the Searched Asset'
+Oct 12,2016 15:54:44 [info]  Clicked on the 'First Asset in the Searched Asset'
+Oct 12,2016 15:54:44 [info]  Clicked on the 'First Asset in the Searched Asset'
+Oct 12,2016 15:54:47 [info]  Clicked on the 'View Asset' using JS Executor
+Oct 12,2016 15:55:00 [info]  Verified that Expected value :[AUT_AssetSeries_1012201693713] is matched with Actual value :[AUT_AssetSeries_1012201693713]
+Oct 12,2016 15:55:02 [info]  Entered "AUT_AssetSeries_1012201693713_Edit" in field 'AssetTitle'
+Oct 12,2016 15:55:02 [info]  Clicked on the 'Save Button' using JS Executor
+Oct 12,2016 15:55:23 [info]  Verified that Expected value :[AUT_AssetSeries_1012201693713_Edit] is matched with Actual value :[AUT_AssetSeries_1012201693713_Edit]
+Oct 12,2016 15:55:27 [info]  Clicked on the 'MODULE'
+Oct 12,2016 15:55:37 [info]  Clicked on the 'Asset Maintenance'
+Oct 12,2016 15:55:40 [info]  Clicked on the 'Search Menu Icon' using JS Executor
+Oct 12,2016 15:55:41 [info]  Clicked on the 'AssetSearchUnderAsset' using JS Executor
+Oct 12,2016 15:55:53 [info]  Entered "AUT_AssetSeries_1012201693713_Edit" in field 'AssetTitle'
+Oct 12,2016 15:55:54 [info]  Clicked on the 'All Check Box' using JS Executor
+Oct 12,2016 15:55:54 [info]  Selected "Program" in "AssetTypeDropDownAtAssetSearch" drop down
+Oct 12,2016 15:55:54 [info]  Clicked on the 'Find Button' using JS Executor
+Oct 12,2016 15:56:18 [info]  Moved Mouse over 'First Asset in the Searched Asset'
+Oct 12,2016 15:56:18 [info]  Clicked on the 'First Asset in the Searched Asset'
+Oct 12,2016 15:56:19 [info]  Clicked on the 'First Asset in the Searched Asset'
+Oct 12,2016 15:56:22 [info]  Clicked on the 'View Asset' using JS Executor
+Oct 12,2016 15:56:43 [info]  Verified that Expected value :[AUT_AssetSeries_1012201693713_Edit] is matched with Actual value :[AUT_AssetSeries_1012201693713_Edit]
+Oct 12,2016 15:56:49 [info]  Verified that Expected value :[AUT_AssetSeries_1012201693713] is matched with Actual value :[AUT_AssetSeries_1012201693713_Edit]
+Oct 12,2016 15:56:51 [info]  Entered "AUT_AssetSeries_1012201693713" in field 'AssetTitle'
+Oct 12,2016 15:56:51 [info]  Clicked on the 'Save Button' using JS Executor
+Oct 12,2016 15:57:11 [info]  Verified that Expected value :[AUT_AssetSeries_1012201693713] is matched with Actual value :[AUT_AssetSeries_1012201693713]
+Oct 12,2016 15:57:11 [info]  Test 'TC3_PropertySearchDisplayEpisodes' PASSED
+Oct 12,2016 15:57:12 [info]  Closed the Browser
+Oct 12,2016 16:59:41 [info]  ********************Started Executiong the Test Suite at 16:59:41******************
+Oct 12,2016 16:59:41 [info]  Client: AMCN
+Oct 12,2016 16:59:41 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Oct 12,2016 16:59:41 [info]  *********************Started Executing 'TC3_PropertySearchDisplaySeason' Test Case*********************
+Oct 12,2016 16:59:51 [info]  Client: AMCN
+Oct 12,2016 16:59:51 [info]  URL: http://rlv2wb79/login.aspx
+Oct 12,2016 16:59:51 [info]  UserName: automation
+Oct 12,2016 16:59:51 [info]  Password: automation
+Oct 12,2016 16:59:52 [info]  Entered "automation" in field 'User Name'
+Oct 12,2016 16:59:52 [info]  Clicked on the 'Temporary Check Box'
+Oct 12,2016 16:59:53 [info]  Entered "automation" in field 'Password'
+Oct 12,2016 17:00:00 [info]  Clicked on the 'LoginButton'
+Oct 12,2016 17:00:11 [info]  Clicked on the 'MODULE'
+Oct 12,2016 17:00:22 [info]  Clicked on the 'Asset Maintenance'
+Oct 12,2016 17:00:26 [info]  Clicked on the 'Search Menu Icon' using JS Executor
+Oct 12,2016 17:00:27 [info]  Clicked on the 'AssetSearchUnderAsset' using JS Executor
+Oct 12,2016 17:00:41 [info]  Entered "AUT_AssetSeries_1012201693713" in field 'AssetTitle'
+Oct 12,2016 17:00:41 [info]  Clicked on the 'All Check Box' using JS Executor
+Oct 12,2016 17:00:42 [info]  Selected "Program" in "AssetTypeDropDownAtAssetSearch" drop down
+Oct 12,2016 17:00:42 [info]  Clicked on the 'Find Button' using JS Executor
+Oct 12,2016 17:01:03 [info]  Moved Mouse over 'First Asset in the Searched Asset'
+Oct 12,2016 17:01:04 [info]  Clicked on the 'First Asset in the Searched Asset'
+Oct 12,2016 17:01:04 [info]  Clicked on the 'First Asset in the Searched Asset'
+Oct 12,2016 17:01:07 [info]  Clicked on the 'View Asset' using JS Executor
+Oct 12,2016 17:01:20 [info]  Verified that Expected value :[AUT_AssetSeries_1012201693713] is matched with Actual value :[AUT_AssetSeries_1012201693713]
+Oct 12,2016 17:01:23 [info]  Clicked on the 'Contributors OR Contacts TAB'
+Oct 12,2016 17:01:23 [info]  Selected "IFC" in "Network Drop Down" drop down
+Oct 12,2016 17:01:28 [info]  Verified that Expected value :[IFC] is matched with Actual value :[IFC]
+Oct 12,2016 17:01:31 [info]  Clicked on the ''Edit' Button at Contributor TAB' using JS Executor
+Oct 12,2016 17:01:35 [info]  Clicked on the ''Add' Button at Contributor window' using JS Executor
+Oct 12,2016 17:01:36 [info]  Selected "Internal Parties" in "Contributor_PartyList_DropDown" drop down
+Oct 12,2016 17:01:37 [info]  Clicked on the ''Add' Button at Contributor Edit window' using JS Executor
+Oct 12,2016 17:01:39 [info]  Clicked on the 'First Name'
+Oct 12,2016 17:01:40 [info]  Entered "Automation First Name" in field 'ConrtibutorsEdit_ConrtibutorsSearch_AddWindow_FirstName'
+Oct 12,2016 17:01:40 [info]  Clicked on the '*Last Name'
+Oct 12,2016 17:01:41 [info]  Entered "Automation Last Name" in field 'ConrtibutorsEdit_ConrtibutorsSearch_AddWindow_LastName'
+Oct 12,2016 17:01:41 [info]  Verified that Expected value :[Primary] is matched with Actual value :[Primary]
+Oct 12,2016 17:01:41 [info]  Clicked on the 'Contributor_ContributorSearch_Add_AddressLine1InputField' using JS Executor
+Oct 12,2016 17:01:42 [info]  Entered "AddressLine1" in field 'ConrtibutorsEdit_ConrtibutorsSearch_AddWindow_AddressLine1 Field'
+Oct 12,2016 17:01:42 [info]  Clicked on the 'Contributor_ContributorSearch_Add_AddressLine2InputField' using JS Executor
+Oct 12,2016 17:01:43 [info]  Entered "AddressLine2" in field 'ConrtibutorsEdit_ConrtibutorsSearch_AddWindow_AddressLine2 Field'
+Oct 12,2016 17:01:43 [info]  Clicked on the 'ConrtibutorsEdit_ConrtibutorsSearch_AddWindow_City' using JS Executor
+Oct 12,2016 17:01:43 [info]  Entered "City" in field 'ConrtibutorsEdit_ConrtibutorsSearch_AddWindow_City Field'
+Oct 12,2016 17:01:43 [info]  Selected "Canada" in "Country Input Field" drop down
+Oct 12,2016 17:01:44 [info]  Selected "Alberta" in "Contributor_ContributorSearch_Add_StateInputField" drop down
+Oct 12,2016 17:01:44 [info]  Clicked on the 'Contributor_ContributorSearch_Add_ZipCodeField' using JS Executor
+Oct 12,2016 17:01:44 [info]  Entered "12345" in field 'ConrtibutorsEdit_ConrtibutorsSearch_AddWindow_ZipCode Field'
+Oct 12,2016 17:01:44 [info]  Clicked on the 'Contributor_ContributorSearch_Add_BusinessPhone Input Field' using JS Executor
+Oct 12,2016 17:01:45 [info]  Entered "6176828224" in field 'Contributor_ContributorSearch_Add_BusinessPhone Field'
+Oct 12,2016 17:01:45 [info]  Clicked on the 'Contributor_ContributorSearch_Add_PrimaryEmail' using JS Executor
+Oct 12,2016 17:01:45 [info]  Entered "primary1@gmail.com" in field 'Contributor_ContributorSearch_Add_PrimaryEmail Input Field'
+Oct 12,2016 17:01:45 [info]  Selected "Home Phone" in "Contributor_ContributorSearch_Add_ContactList2DropDown" drop down
+Oct 12,2016 17:01:45 [info]  Clicked on the 'Contributor_ContributorSearch_Add_Contact1_InputField' using JS Executor
+Oct 12,2016 17:01:46 [info]  Entered "Home Phone" in field 'Contributor_ContributorSearch_Add_Contact1_InputField'
+Oct 12,2016 17:01:46 [info]  Selected "Mobile Phone" in "Contributor_ContributorSearch_Add_ContactList2DropDown" drop down
+Oct 12,2016 17:01:46 [info]  Clicked on the 'Contributor_ContributorSearch_Add_Contact2_InputField' using JS Executor
+Oct 12,2016 17:01:47 [info]  Entered "6176828224" in field 'Contributor_ContributorSearch_Add_Contact2_InputField Field'
+Oct 12,2016 17:01:47 [info]  Selected "Personal Email" in "Contributor_ContributorSearch_Add_ContactList3DropDown" drop down
+Oct 12,2016 17:01:47 [info]  Clicked on the 'Contributor_ContributorSearch_Add_ContactList3DropDown' using JS Executor
+Oct 12,2016 17:01:47 [info]  Entered "personal1@gmail.com" in field 'Contributor_ContributorSearch_Add_ContactList3DropDown Field'
+Oct 12,2016 17:01:47 [info]  Clicked on the 'Web Address' using JS Executor
+Oct 12,2016 17:01:48 [info]  Entered "www.web.com" in field 'Contributor_ContributorSearch_Add_WebAddressField'
+Oct 12,2016 17:01:48 [info]  Clicked on the ''Save Button' Contributor_ContributorSearch_Add_SaveGeneralInfoButton' using JS Executor
+Oct 12,2016 17:01:56 [info]  Verified that Expected value :[Changes have been saved successfully.] is matched with Actual value :[Changes have been saved successfully.]
+Oct 12,2016 17:01:58 [info]  Clicked on the 'close Add Reference Window'
+Oct 12,2016 17:02:01 [info]  Clicked on the 'Contributor_ContributorSearch_SearchField'
+Oct 12,2016 17:02:02 [info]  Entered "Automation Last Name" in field 'Contributor_ContributorSearch_SearchField'
+Oct 12,2016 17:02:02 [info]  Clicked on the 'Find Button at Contributor Search Window' using JS Executor
+Oct 12,2016 17:02:04 [info]  Clicked on the 'Contributor_ContributorSearch_FirstContributor'
+Oct 12,2016 17:02:05 [info]  Clicked on the 'Select Contributor at Contributor_ContributorSearch window' using JS Executor
+Oct 12,2016 17:02:09 [info]  Clicked on the 'Applies To field'
+Oct 12,2016 17:02:11 [info]  Entered "AUT_AssetSeries_1012201693713" in field 'Applies To first Row'
+Oct 12,2016 17:02:11 [info]  Clicked on the 'Support click'
+Oct 12,2016 17:02:12 [info]  Clicked on the 'Applies To field'
+Oct 12,2016 17:02:13 [info]  Entered "      Ep.101: Episode101" in field 'Applies To first Row'
+Oct 12,2016 17:02:14 [info]  Clicked on the 'Support click'
+Oct 12,2016 17:02:15 [info]  Clicked on the 'Applies To field'
+Oct 12,2016 17:02:16 [info]  Clicked on the 'Role field'
+Oct 12,2016 17:02:16 [info]  Entered "Actor" in field 'Role Field of first Row'
+Oct 12,2016 17:02:17 [info]  Clicked on the 'Support click on Applies To Field'
+Oct 12,2016 17:02:17 [info]  Clicked on the 'Save Button at 'Edit Window'' using JS Executor
+Oct 12,2016 17:02:22 [info]  Verify The data of Role of First Data Row
+Oct 12,2016 17:02:22 [info]  Verified that Expected value :[Actor] is matched with Actual value :[Actor]
+Oct 12,2016 17:02:22 [info]  ************************Started Creating Asset of Type: TC3_PropertySearchDisplaySeason************************
+Oct 12,2016 17:02:26 [info]  Clicked on the 'MODULE'
+Oct 12,2016 17:02:29 [info]  Clicked on the 'Asset Maintenance'
+Oct 12,2016 17:02:36 [info]  Clicked on the 'New Button' using JS Executor
+Oct 12,2016 17:02:36 [info]  Clicked on the 'Program' using JS Executor
+Oct 12,2016 17:02:45 [info]  Clicked on the 'General TAB'
+Oct 12,2016 17:02:56 [info]  ====Failed==== "TC3_PropertySearchDisplaySeason" is not present in 'AssetTypeDropDownDrop Down'
+Oct 12,2016 17:02:56 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Oct2016\\12\AssetTypeDropDown_CheckpointFailure_10-12-2016 5-02-56 PM.jpg
+Oct 12,2016 17:03:01 [info]  Entered "AUT_AssetSeries_1012201650222" in field 'AssetTitle'
+Oct 12,2016 17:03:01 [info]  Clicked on the 'Vendor Img Icon' using JS Executor
+Oct 12,2016 17:03:03 [info]  Entered "AMC Networks Central Europe s.r.o." in field 'SearchvalueVendor'
+Oct 12,2016 17:03:05 [info]  Clicked on the 'VendorWindowButtonfind' using JS Executor
+Oct 12,2016 17:03:08 [info]  Clicked on the 'VendorName At VendorWindow'
+Oct 12,2016 17:03:08 [info]  Clicked on the 'Vendor Select Button' using JS Executor
+Oct 12,2016 17:03:12 [info]  Clicked on the 'StudioImageIcon' using JS Executor
+Oct 12,2016 17:03:14 [info]  Verified that Expected value :[Studio] is matched with Actual value :[Studio]
+Oct 12,2016 17:03:16 [info]  Entered "AMC TV Studios LLC" in field 'Studio Name'
+Oct 12,2016 17:03:16 [info]  Clicked on the 'Find Button' using JS Executor
+Oct 12,2016 17:03:18 [info]  Clicked on the 'Searched Studio: 'AMC TV Studios LLC''
+Oct 12,2016 17:03:18 [info]  Clicked on the 'Select Button at Studio Window' using JS Executor
+Oct 12,2016 17:03:25 [info]  Clicked on the 'SBUImage' using JS Executor
+Oct 12,2016 17:03:27 [info]  Verified that Expected value :[Source Business Unit Template] is matched with Actual value :[Source Business Unit Template]
+Oct 12,2016 17:03:27 [info]  Clicked on the ''Select All' CheckBox at SBU' using JS Executor
+Oct 12,2016 17:03:33 [info]  Clicked on the 'First CheckBox At SBU window'
+Oct 12,2016 17:03:34 [info]  Clicked on the 'Ninth CheckBox At SBU winodw'
+Oct 12,2016 17:03:36 [info]  Clicked on the 'Apply Button' using JS Executor
+Oct 12,2016 17:03:37 [info]  Entered "11:11:11" in field 'Duration'
+Oct 12,2016 17:03:47 [info]  Selected "Production" in "Asset Status" drop down
+Oct 12,2016 17:03:48 [info]  Selected "Licensed Acquired" in "Asset Source" drop down
+Oct 12,2016 17:03:48 [info]  Selected "TBD" in "Asset Category/Group" drop down
+Oct 12,2016 17:03:49 [info]  Entered "AUT_Series" in field 'Short Name'
+Oct 12,2016 17:03:49 [info]  Entered "Test" in field 'ProjectID'
+Oct 12,2016 17:03:50 [info]  Clicked on the 'Genre Add Button' using JS Executor
+Oct 12,2016 17:03:50 [info]  Clicked on the 'Genre Type Row Field' using JS Executor
+Oct 12,2016 17:03:50 [info]  Clicked on the 'Genere Type Dropdown Image'
+Oct 12,2016 17:03:50 [info]  ====Failed==== "First Genere Type DropDown Value in the list" field is not present'
+Oct 12,2016 17:03:51 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Oct2016\\12\First Genere Type DropDown Value in the list_CheckpointFailure_10-12-2016 5-03-51 PM.jpg
+Oct 12,2016 17:03:51 [info]  Clicked on the 'Genre Row Field' using JS Executor
+Oct 12,2016 17:03:51 [info]  Clicked on the 'Genere Dropdown Image'
+Oct 12,2016 17:04:01 [info]  ====Failed==== "Genere Dropdown value" field is not present'
+Oct 12,2016 17:04:01 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Oct2016\\12\Genere Dropdown value_CheckpointFailure_10-12-2016 5-04-01 PM.jpg
+Oct 12,2016 17:04:02 [info]  Clicked on the 'Add Button of Note' using JS Executor
+Oct 12,2016 17:04:04 [info]  Entered "Medium" in field 'Asset Priority'
+Oct 12,2016 17:04:05 [info]  Entered "Subject For the Deal" in field 'Asset Subject'
+Oct 12,2016 17:04:06 [info]  Entered "New Asset" in field 'AssetNotes TextField'
+Oct 12,2016 17:04:07 [info]  Clicked on the 'OK button'
+Oct 12,2016 17:04:09 [info]  Clicked on the 'Save Button' using JS Executor
+Oct 12,2016 17:04:23 [info]  Verified that Expected value :[AUT_AssetSeries_1012201650222] is matched with Actual value :[AUT_AssetSeries_1012201650222]
+Oct 12,2016 17:04:23 [info]  ************************Created Asset of TypeTC3_PropertySearchDisplaySeason************************
+Oct 12,2016 17:04:27 [info]  Clicked on the 'MODULE'
+Oct 12,2016 17:04:30 [info]  Clicked on the 'Asset Maintenance'
+Oct 12,2016 17:04:33 [info]  Clicked on the 'Search Menu Icon' using JS Executor
+Oct 12,2016 17:04:34 [info]  Clicked on the 'AssetSearchUnderAsset' using JS Executor
+Oct 12,2016 17:04:46 [info]  Entered "AUT_AssetSeries_1012201650222" in field 'AssetTitle'
+Oct 12,2016 17:04:46 [info]  Clicked on the 'All Check Box' using JS Executor
+Oct 12,2016 17:04:46 [info]  Clicked on the 'Find Button' using JS Executor
+Oct 12,2016 17:05:06 [info]  Moved Mouse over 'First Asset in the Searched Asset'
+Oct 12,2016 17:05:06 [info]  Clicked on the 'First Asset in the Searched Asset'
+Oct 12,2016 17:05:07 [info]  Clicked on the 'First Asset in the Searched Asset'
+Oct 12,2016 17:05:10 [info]  Clicked on the 'View Asset' using JS Executor
+Oct 12,2016 17:05:33 [info]  ====Failed==== Expected value is:[AUT_AssetSeries_1012201650222] but Actual value is[]. Please check the screenshot with name: Created Asset At Homefor more details
+Oct 12,2016 17:05:33 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Oct2016\\12\Created Asset At Home_CheckpointFailure_10-12-2016 5-05-33 PM.jpg
+Oct 12,2016 17:05:49 [info]  ====Failed==== "Episodes TAB" field is not present'
+Oct 12,2016 17:05:49 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Oct2016\\12\Episodes TAB_CheckpointFailure_10-12-2016 5-05-49 PM.jpg
+Oct 12,2016 17:06:03 [info]  ====Failed==== " Could not find the Frame: div[class*='igtab_Office2007BlueTHContent'][style*=visible]
+Oct 12,2016 17:06:03 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Oct2016\\12\FrameSwitchingFailed0_CheckpointFailure_10-12-2016 5-06-03 PM.jpg
+Oct 12,2016 17:06:03 [info]  Unable to find element with css selector == div[class*='igtab_Office2007BlueTHContent'][style*=visible] (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.12 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: '9P4G6BS', ip: '10.10.22.71', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=true, ie.forceCreateProcessApi=false, pageLoadStrategy=normal, ie.usePerProcessProxy=false, ignoreZoomSetting=false, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=false, browserName=internet explorer, initialBrowserUrl=http://localhost:39086/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=false, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: e34ec714-91f5-4087-8acd-6ee72217a71d
+*** Element info: {Using=css selector, value=div[class*='igtab_Office2007BlueTHContent'][style*=visible]}
+Oct 12,2016 17:06:13 [info]  ====Failed==== "'Edit' Button at Episode window" field is not present'
+Oct 12,2016 17:06:13 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Oct2016\\12\'Edit' Button at Episode window_CheckpointFailure_10-12-2016 5-06-13 PM.jpg
+Oct 12,2016 17:06:16 [info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Oct 12,2016 17:06:21 [info]  ====Failed==== "Add Episode input field" field is not present'Add Episode input field'
+Oct 12,2016 17:06:21 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Oct2016\\12\Add Episode input field_CheckpointFailure_10-12-2016 5-06-21 PM.jpg
+Oct 12,2016 17:06:21 [info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Oct 12,2016 17:06:40 [info]  ====Failed==== "Season Field of Episode101" field is not present'
+Oct 12,2016 17:06:40 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Oct2016\\12\Season Field of Episode101_CheckpointFailure_10-12-2016 5-06-40 PM.jpg
+Oct 12,2016 17:06:50 [info]  ====Failed==== "Image Drop Down at 'Episode Edit Window'" field is not present'
+Oct 12,2016 17:06:50 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Oct2016\\12\Image Drop Down at 'Episode Edit Window'_CheckpointFailure_10-12-2016 5-06-50 PM.jpg
+Oct 12,2016 17:06:50 [info]  ====Failed==== "Season 1" field is not present'
+Oct 12,2016 17:06:50 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Oct2016\\12\Season 1_CheckpointFailure_10-12-2016 5-06-50 PM.jpg
+Oct 12,2016 17:07:01 [info]  ====Failed==== "Support click to select season" field is not present'
+Oct 12,2016 17:07:01 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Oct2016\\12\Support click to select season_CheckpointFailure_10-12-2016 5-07-01 PM.jpg
+Oct 12,2016 17:07:04 [info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Oct 12,2016 17:07:04 [info]  ====Failed==== "Add Episode input field" field is not present'Add Episode input field'
+Oct 12,2016 17:07:05 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Oct2016\\12\Add Episode input field_CheckpointFailure_10-12-2016 5-07-04 PM.jpg
+Oct 12,2016 17:07:05 [info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Oct 12,2016 17:10:13 [info]  ********************Started Executiong the Test Suite at 17:10:13******************
+Oct 12,2016 17:10:13 [info]  Client: AMCN
+Oct 12,2016 17:10:13 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Oct 12,2016 17:10:13 [info]  *********************Started Executing 'TC3_PropertySearchDisplaySeason' Test Case*********************
+Oct 12,2016 17:10:23 [info]  Client: AMCN
+Oct 12,2016 17:10:23 [info]  URL: http://rlv2wb79/login.aspx
+Oct 12,2016 17:10:23 [info]  UserName: automation
+Oct 12,2016 17:10:23 [info]  Password: automation
+Oct 12,2016 17:10:24 [info]  Entered "automation" in field 'User Name'
+Oct 12,2016 17:10:24 [info]  Clicked on the 'Temporary Check Box'
+Oct 12,2016 17:10:25 [info]  Entered "automation" in field 'Password'
+Oct 12,2016 17:10:26 [info]  Clicked on the 'LoginButton'
+Oct 12,2016 17:10:37 [info]  Clicked on the 'MODULE'
+Oct 12,2016 17:10:48 [info]  Clicked on the 'Asset Maintenance'
+Oct 12,2016 17:10:52 [info]  Clicked on the 'Search Menu Icon' using JS Executor
+Oct 12,2016 17:10:52 [info]  Clicked on the 'AssetSearchUnderAsset' using JS Executor
+Oct 12,2016 17:11:06 [info]  Entered "AUT_AssetSeries_1012201693713" in field 'AssetTitle'
+Oct 12,2016 17:11:07 [info]  Clicked on the 'All Check Box' using JS Executor
+Oct 12,2016 17:11:07 [info]  Selected "Program" in "AssetTypeDropDownAtAssetSearch" drop down
+Oct 12,2016 17:11:07 [info]  Clicked on the 'Find Button' using JS Executor
+Oct 12,2016 17:11:29 [info]  Moved Mouse over 'First Asset in the Searched Asset'
+Oct 12,2016 17:11:30 [info]  Clicked on the 'First Asset in the Searched Asset'
+Oct 12,2016 17:11:30 [info]  Clicked on the 'First Asset in the Searched Asset'
+Oct 12,2016 17:11:33 [info]  Clicked on the 'View Asset' using JS Executor
+Oct 12,2016 17:11:48 [info]  Verified that Expected value :[AUT_AssetSeries_1012201693713] is matched with Actual value :[AUT_AssetSeries_1012201693713]
+Oct 12,2016 17:11:50 [info]  Clicked on the 'Contributors OR Contacts TAB'
+Oct 12,2016 17:11:50 [info]  Selected "IFC" in "Network Drop Down" drop down
+Oct 12,2016 17:11:55 [info]  Verified that Expected value :[IFC] is matched with Actual value :[IFC]
+Oct 12,2016 17:11:58 [info]  Clicked on the ''Edit' Button at Contributor TAB' using JS Executor
+Oct 12,2016 17:12:33 [info]  ********************Started Executiong the Test Suite at 17:12:33******************
+Oct 12,2016 17:12:33 [info]  Client: AMCN
+Oct 12,2016 17:12:33 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Oct 12,2016 17:12:33 [info]  *********************Started Executing 'TC3_PropertySearchDisplaySeason' Test Case*********************
+Oct 12,2016 17:12:42 [info]  Client: AMCN
+Oct 12,2016 17:12:42 [info]  URL: http://rlv2wb79/login.aspx
+Oct 12,2016 17:12:42 [info]  UserName: automation
+Oct 12,2016 17:12:42 [info]  Password: automation
+Oct 12,2016 17:12:43 [info]  Entered "automation" in field 'User Name'
+Oct 12,2016 17:12:44 [info]  Clicked on the 'Temporary Check Box'
+Oct 12,2016 17:12:44 [info]  Entered "automation" in field 'Password'
+Oct 12,2016 17:12:51 [info]  Clicked on the 'LoginButton'
+Oct 12,2016 17:13:01 [info]  Clicked on the 'MODULE'
+Oct 12,2016 17:13:12 [info]  Clicked on the 'Asset Maintenance'
+Oct 12,2016 17:13:15 [info]  Clicked on the 'Search Menu Icon' using JS Executor
+Oct 12,2016 17:13:15 [info]  Clicked on the 'AssetSearchUnderAsset' using JS Executor
+Oct 12,2016 17:13:28 [info]  Entered "AUT_AssetSeries_1012201693713" in field 'AssetTitle'
+Oct 12,2016 17:13:28 [info]  Clicked on the 'All Check Box' using JS Executor
+Oct 12,2016 17:13:28 [info]  Selected "Program" in "AssetTypeDropDownAtAssetSearch" drop down
+Oct 12,2016 17:13:28 [info]  Clicked on the 'Find Button' using JS Executor
+Oct 12,2016 17:13:48 [info]  Moved Mouse over 'First Asset in the Searched Asset'
+Oct 12,2016 17:13:49 [info]  Clicked on the 'First Asset in the Searched Asset'
+Oct 12,2016 17:13:49 [info]  Clicked on the 'First Asset in the Searched Asset'
+Oct 12,2016 17:13:52 [info]  Clicked on the 'View Asset' using JS Executor
+Oct 12,2016 17:14:05 [info]  Verified that Expected value :[AUT_AssetSeries_1012201693713] is matched with Actual value :[AUT_AssetSeries_1012201693713]
+Oct 12,2016 17:14:07 [info]  Clicked on the 'Contributors OR Contacts TAB'
+Oct 12,2016 17:14:08 [info]  Selected "IFC" in "Network Drop Down" drop down
+Oct 12,2016 17:14:12 [info]  Verified that Expected value :[IFC] is matched with Actual value :[IFC]
+Oct 12,2016 17:14:16 [info]  Clicked on the ''Edit' Button at Contributor TAB' using JS Executor
+Oct 12,2016 17:14:19 [info]  Clicked on the ''Add' Button at Contributor window' using JS Executor
+Oct 12,2016 17:14:20 [info]  Selected "Internal Parties" in "Contributor_PartyList_DropDown" drop down
+Oct 12,2016 17:14:21 [info]  Clicked on the ''Add' Button at Contributor Edit window' using JS Executor
+Oct 12,2016 17:14:24 [info]  Clicked on the 'First Name'
+Oct 12,2016 17:14:24 [info]  Entered "Automation First Name" in field 'ConrtibutorsEdit_ConrtibutorsSearch_AddWindow_FirstName'
+Oct 12,2016 17:14:25 [info]  Clicked on the '*Last Name'
+Oct 12,2016 17:14:25 [info]  Entered "Automation Last Name" in field 'ConrtibutorsEdit_ConrtibutorsSearch_AddWindow_LastName'
+Oct 12,2016 17:14:26 [info]  Verified that Expected value :[Primary] is matched with Actual value :[Primary]
+Oct 12,2016 17:14:26 [info]  Clicked on the 'Contributor_ContributorSearch_Add_AddressLine1InputField' using JS Executor
+Oct 12,2016 17:14:26 [info]  Entered "AddressLine1" in field 'ConrtibutorsEdit_ConrtibutorsSearch_AddWindow_AddressLine1 Field'
+Oct 12,2016 17:14:26 [info]  Clicked on the 'Contributor_ContributorSearch_Add_AddressLine2InputField' using JS Executor
+Oct 12,2016 17:14:27 [info]  Entered "AddressLine2" in field 'ConrtibutorsEdit_ConrtibutorsSearch_AddWindow_AddressLine2 Field'
+Oct 12,2016 17:14:27 [info]  Clicked on the 'ConrtibutorsEdit_ConrtibutorsSearch_AddWindow_City' using JS Executor
+Oct 12,2016 17:14:27 [info]  Entered "City" in field 'ConrtibutorsEdit_ConrtibutorsSearch_AddWindow_City Field'
+Oct 12,2016 17:14:28 [info]  Selected "Canada" in "Country Input Field" drop down
+Oct 12,2016 17:14:28 [info]  Selected "Alberta" in "Contributor_ContributorSearch_Add_StateInputField" drop down
+Oct 12,2016 17:14:28 [info]  Clicked on the 'Contributor_ContributorSearch_Add_ZipCodeField' using JS Executor
+Oct 12,2016 17:14:28 [info]  Entered "12345" in field 'ConrtibutorsEdit_ConrtibutorsSearch_AddWindow_ZipCode Field'
+Oct 12,2016 17:14:28 [info]  Clicked on the 'Contributor_ContributorSearch_Add_BusinessPhone Input Field' using JS Executor
+Oct 12,2016 17:14:29 [info]  Entered "6176828224" in field 'Contributor_ContributorSearch_Add_BusinessPhone Field'
+Oct 12,2016 17:14:29 [info]  Clicked on the 'Contributor_ContributorSearch_Add_PrimaryEmail' using JS Executor
+Oct 12,2016 17:14:29 [info]  Entered "primary1@gmail.com" in field 'Contributor_ContributorSearch_Add_PrimaryEmail Input Field'
+Oct 12,2016 17:14:30 [info]  Selected "Home Phone" in "Contributor_ContributorSearch_Add_ContactList2DropDown" drop down
+Oct 12,2016 17:14:30 [info]  Clicked on the 'Contributor_ContributorSearch_Add_Contact1_InputField' using JS Executor
+Oct 12,2016 17:14:30 [info]  Entered "Home Phone" in field 'Contributor_ContributorSearch_Add_Contact1_InputField'
+Oct 12,2016 17:14:30 [info]  Selected "Mobile Phone" in "Contributor_ContributorSearch_Add_ContactList2DropDown" drop down
+Oct 12,2016 17:14:30 [info]  Clicked on the 'Contributor_ContributorSearch_Add_Contact2_InputField' using JS Executor
+Oct 12,2016 17:14:31 [info]  Entered "6176828224" in field 'Contributor_ContributorSearch_Add_Contact2_InputField Field'
+Oct 12,2016 17:14:31 [info]  Selected "Personal Email" in "Contributor_ContributorSearch_Add_ContactList3DropDown" drop down
+Oct 12,2016 17:14:31 [info]  Clicked on the 'Contributor_ContributorSearch_Add_ContactList3DropDown' using JS Executor
+Oct 12,2016 17:14:32 [info]  Entered "personal1@gmail.com" in field 'Contributor_ContributorSearch_Add_ContactList3DropDown Field'
+Oct 12,2016 17:14:32 [info]  Clicked on the 'Web Address' using JS Executor
+Oct 12,2016 17:14:32 [info]  Entered "www.web.com" in field 'Contributor_ContributorSearch_Add_WebAddressField'
+Oct 12,2016 17:14:32 [info]  Clicked on the ''Save Button' Contributor_ContributorSearch_Add_SaveGeneralInfoButton' using JS Executor
+Oct 12,2016 17:14:40 [info]  Verified that Expected value :[Changes have been saved successfully.] is matched with Actual value :[Changes have been saved successfully.]
+Oct 12,2016 17:14:41 [info]  Clicked on the 'close Add Reference Window'
+Oct 12,2016 17:14:45 [info]  Clicked on the 'Contributor_ContributorSearch_SearchField'
+Oct 12,2016 17:14:46 [info]  Entered "Automation Last Name" in field 'Contributor_ContributorSearch_SearchField'
+Oct 12,2016 17:14:46 [info]  Clicked on the 'Find Button at Contributor Search Window' using JS Executor
+Oct 12,2016 17:14:48 [info]  Clicked on the 'Contributor_ContributorSearch_FirstContributor'
+Oct 12,2016 17:14:48 [info]  Clicked on the 'Select Contributor at Contributor_ContributorSearch window' using JS Executor
+Oct 12,2016 17:14:52 [info]  Clicked on the 'Applies To field'
+Oct 12,2016 17:14:53 [info]  Entered "AUT_AssetSeries_1012201693713" in field 'Applies To first Row'
+Oct 12,2016 17:14:54 [info]  Clicked on the 'Support click'
+Oct 12,2016 17:14:54 [info]  Clicked on the 'Applies To field'
+Oct 12,2016 17:14:55 [info]  Entered "      Ep.101: Episode101" in field 'Applies To first Row'
+Oct 12,2016 17:14:56 [info]  Clicked on the 'Support click'
+Oct 12,2016 17:14:57 [info]  Clicked on the 'Applies To field'
+Oct 12,2016 17:14:57 [info]  Clicked on the 'Role field'
+Oct 12,2016 17:14:58 [info]  Entered "Actor" in field 'Role Field of first Row'
+Oct 12,2016 17:14:58 [info]  Clicked on the 'Support click on Applies To Field'
+Oct 12,2016 17:14:58 [info]  Clicked on the 'Save Button at 'Edit Window'' using JS Executor
+Oct 12,2016 17:16:15 [info]  ********************Started Executiong the Test Suite at 17:16:15******************
+Oct 12,2016 17:16:15 [info]  Client: AMCN
+Oct 12,2016 17:16:15 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Oct 12,2016 17:16:15 [info]  *********************Started Executing 'TC3_PropertySearchDisplaySeason' Test Case*********************
+Oct 12,2016 17:16:24 [info]  Client: AMCN
+Oct 12,2016 17:16:24 [info]  URL: http://rlv2wb79/login.aspx
+Oct 12,2016 17:16:24 [info]  UserName: automation
+Oct 12,2016 17:16:24 [info]  Password: automation
+Oct 12,2016 17:16:25 [info]  Entered "automation" in field 'User Name'
+Oct 12,2016 17:16:26 [info]  Clicked on the 'Temporary Check Box'
+Oct 12,2016 17:16:26 [info]  Entered "automation" in field 'Password'
+Oct 12,2016 17:16:33 [info]  Clicked on the 'LoginButton'
+Oct 12,2016 17:16:44 [info]  Clicked on the 'MODULE'
+Oct 12,2016 17:16:54 [info]  Clicked on the 'Asset Maintenance'
+Oct 12,2016 17:16:57 [info]  Clicked on the 'Search Menu Icon' using JS Executor
+Oct 12,2016 17:16:58 [info]  Clicked on the 'AssetSearchUnderAsset' using JS Executor
+Oct 12,2016 17:17:12 [info]  Entered "AUT_AssetSeries_1012201693713" in field 'AssetTitle'
+Oct 12,2016 17:17:12 [info]  Clicked on the 'All Check Box' using JS Executor
+Oct 12,2016 17:17:12 [info]  Selected "Program" in "AssetTypeDropDownAtAssetSearch" drop down
+Oct 12,2016 17:17:13 [info]  Clicked on the 'Find Button' using JS Executor
+Oct 12,2016 17:17:33 [info]  Moved Mouse over 'First Asset in the Searched Asset'
+Oct 12,2016 17:17:34 [info]  Clicked on the 'First Asset in the Searched Asset'
+Oct 12,2016 17:17:34 [info]  Clicked on the 'First Asset in the Searched Asset'
+Oct 12,2016 17:17:37 [info]  Clicked on the 'View Asset' using JS Executor
+Oct 12,2016 17:17:50 [info]  Verified that Expected value :[AUT_AssetSeries_1012201693713] is matched with Actual value :[AUT_AssetSeries_1012201693713]
+Oct 12,2016 17:17:52 [info]  Clicked on the 'Contributors OR Contacts TAB'
+Oct 12,2016 17:17:53 [info]  Selected "IFC" in "Network Drop Down" drop down
+Oct 12,2016 17:17:57 [info]  Verified that Expected value :[IFC] is matched with Actual value :[IFC]
+Oct 12,2016 17:18:01 [info]  Clicked on the ''Edit' Button at Contributor TAB' using JS Executor
+Oct 12,2016 17:18:04 [info]  Clicked on the ''Add' Button at Contributor window' using JS Executor
+Oct 12,2016 17:18:05 [info]  Selected "Internal Parties" in "Contributor_PartyList_DropDown" drop down
+Oct 12,2016 17:18:07 [info]  Clicked on the ''Add' Button at Contributor Edit window' using JS Executor
+Oct 12,2016 17:18:09 [info]  Clicked on the 'First Name'
+Oct 12,2016 17:18:10 [info]  Entered "Automation First Name" in field 'ConrtibutorsEdit_ConrtibutorsSearch_AddWindow_FirstName'
+Oct 12,2016 17:18:10 [info]  Clicked on the '*Last Name'
+Oct 12,2016 17:18:11 [info]  Entered "Automation Last Name" in field 'ConrtibutorsEdit_ConrtibutorsSearch_AddWindow_LastName'
+Oct 12,2016 17:18:11 [info]  Verified that Expected value :[Primary] is matched with Actual value :[Primary]
+Oct 12,2016 17:18:11 [info]  Clicked on the 'Contributor_ContributorSearch_Add_AddressLine1InputField' using JS Executor
+Oct 12,2016 17:18:11 [info]  Entered "AddressLine1" in field 'ConrtibutorsEdit_ConrtibutorsSearch_AddWindow_AddressLine1 Field'
+Oct 12,2016 17:18:12 [info]  Clicked on the 'Contributor_ContributorSearch_Add_AddressLine2InputField' using JS Executor
+Oct 12,2016 17:18:12 [info]  Entered "AddressLine2" in field 'ConrtibutorsEdit_ConrtibutorsSearch_AddWindow_AddressLine2 Field'
+Oct 12,2016 17:18:12 [info]  Clicked on the 'ConrtibutorsEdit_ConrtibutorsSearch_AddWindow_City' using JS Executor
+Oct 12,2016 17:18:13 [info]  Entered "City" in field 'ConrtibutorsEdit_ConrtibutorsSearch_AddWindow_City Field'
+Oct 12,2016 17:18:13 [info]  Selected "Canada" in "Country Input Field" drop down
+Oct 12,2016 17:18:13 [info]  Selected "Alberta" in "Contributor_ContributorSearch_Add_StateInputField" drop down
+Oct 12,2016 17:18:13 [info]  Clicked on the 'Contributor_ContributorSearch_Add_ZipCodeField' using JS Executor
+Oct 12,2016 17:18:14 [info]  Entered "12345" in field 'ConrtibutorsEdit_ConrtibutorsSearch_AddWindow_ZipCode Field'
+Oct 12,2016 17:18:14 [info]  Clicked on the 'Contributor_ContributorSearch_Add_BusinessPhone Input Field' using JS Executor
+Oct 12,2016 17:18:14 [info]  Entered "6176828224" in field 'Contributor_ContributorSearch_Add_BusinessPhone Field'
+Oct 12,2016 17:18:14 [info]  Clicked on the 'Contributor_ContributorSearch_Add_PrimaryEmail' using JS Executor
+Oct 12,2016 17:18:15 [info]  Entered "primary1@gmail.com" in field 'Contributor_ContributorSearch_Add_PrimaryEmail Input Field'
+Oct 12,2016 17:18:15 [info]  Selected "Home Phone" in "Contributor_ContributorSearch_Add_ContactList2DropDown" drop down
+Oct 12,2016 17:18:15 [info]  Clicked on the 'Contributor_ContributorSearch_Add_Contact1_InputField' using JS Executor
+Oct 12,2016 17:18:15 [info]  Entered "Home Phone" in field 'Contributor_ContributorSearch_Add_Contact1_InputField'
+Oct 12,2016 17:18:16 [info]  Selected "Mobile Phone" in "Contributor_ContributorSearch_Add_ContactList2DropDown" drop down
+Oct 12,2016 17:18:16 [info]  Clicked on the 'Contributor_ContributorSearch_Add_Contact2_InputField' using JS Executor
+Oct 12,2016 17:18:16 [info]  Entered "6176828224" in field 'Contributor_ContributorSearch_Add_Contact2_InputField Field'
+Oct 12,2016 17:18:16 [info]  Selected "Personal Email" in "Contributor_ContributorSearch_Add_ContactList3DropDown" drop down
+Oct 12,2016 17:18:16 [info]  Clicked on the 'Contributor_ContributorSearch_Add_ContactList3DropDown' using JS Executor
+Oct 12,2016 17:18:17 [info]  Entered "personal1@gmail.com" in field 'Contributor_ContributorSearch_Add_ContactList3DropDown Field'
+Oct 12,2016 17:18:17 [info]  Clicked on the 'Web Address' using JS Executor
+Oct 12,2016 17:18:17 [info]  Entered "www.web.com" in field 'Contributor_ContributorSearch_Add_WebAddressField'
+Oct 12,2016 17:18:17 [info]  Clicked on the ''Save Button' Contributor_ContributorSearch_Add_SaveGeneralInfoButton' using JS Executor
+Oct 12,2016 17:18:27 [info]  Verified that Expected value :[Changes have been saved successfully.] is matched with Actual value :[Changes have been saved successfully.]
+Oct 12,2016 17:18:28 [info]  Clicked on the 'close Add Reference Window'
+Oct 12,2016 17:18:32 [info]  Clicked on the 'Contributor_ContributorSearch_SearchField'
+Oct 12,2016 17:18:32 [info]  Entered "Automation Last Name" in field 'Contributor_ContributorSearch_SearchField'
+Oct 12,2016 17:18:33 [info]  Clicked on the 'Find Button at Contributor Search Window' using JS Executor
+Oct 12,2016 17:18:35 [info]  Clicked on the 'Contributor_ContributorSearch_FirstContributor'
+Oct 12,2016 17:18:35 [info]  Clicked on the 'Select Contributor at Contributor_ContributorSearch window' using JS Executor
+Oct 12,2016 17:18:39 [info]  Clicked on the 'Applies To field'
+Oct 12,2016 17:18:40 [info]  Entered "AUT_AssetSeries_1012201693713" in field 'Applies To first Row'
+Oct 12,2016 17:18:41 [info]  Clicked on the 'Support click'
+Oct 12,2016 17:18:41 [info]  Clicked on the 'Applies To field'
+Oct 12,2016 17:18:43 [info]  Entered "AUT_AssetSeries_1012201693713" in field 'Applies To first Row'
+Oct 12,2016 17:18:43 [info]  Clicked on the 'Support click'
+Oct 12,2016 17:18:44 [info]  Clicked on the 'Applies To field'
+Oct 12,2016 17:18:45 [info]  Clicked on the 'Role field'
+Oct 12,2016 17:18:45 [info]  Entered "Actor" in field 'Role Field of first Row'
+Oct 12,2016 17:18:46 [info]  Clicked on the 'Support click on Applies To Field'
+Oct 12,2016 17:18:46 [info]  Clicked on the 'Applies To field'
+Oct 12,2016 17:18:49 [info]  Clicked on the 'Save Button at 'Edit Window'' using JS Executor
+Oct 12,2016 17:18:58 [info]  Verify The data of Role of First Data Row
+Oct 12,2016 17:18:58 [info]  Verified that Expected value :[Actor] is matched with Actual value :[Actor]
+Oct 12,2016 17:18:58 [info]  Test 'TC3_PropertySearchDisplaySeason' PASSED
+Oct 12,2016 17:18:59 [info]  Closed the Browser

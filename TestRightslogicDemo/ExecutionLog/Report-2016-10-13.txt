@@ -1,0 +1,315 @@
+Oct 13,2016 15:44:49 [info]  ********************Started Executiong the Test Suite at 15:44:49******************
+Oct 13,2016 15:44:49 [info]  Client: AMCN
+Oct 13,2016 15:44:49 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Oct 13,2016 15:44:49 [info]  *********************Started Executing 'TC3_AdvanceSearchWithEpisodeDetails' Test Case*********************
+Oct 13,2016 15:45:03 [info]  Client: AMCN
+Oct 13,2016 15:45:03 [info]  URL: http://rlv2wb79/login.aspx
+Oct 13,2016 15:45:03 [info]  UserName: automation
+Oct 13,2016 15:45:03 [info]  Password: automation
+Oct 13,2016 15:45:05 [info]  Entered "automation" in field 'User Name'
+Oct 13,2016 15:45:05 [info]  Clicked on the 'Temporary Check Box'
+Oct 13,2016 15:45:06 [info]  Entered "automation" in field 'Password'
+Oct 13,2016 15:45:14 [info]  Clicked on the 'LoginButton'
+Oct 13,2016 15:45:30 [info]  ====Failed==== "Search Menu Icon" field is not present'
+Oct 13,2016 15:45:30 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Oct2016\\13\Search Menu Icon_CheckpointFailure_10-13-2016 3-45-30 PM.jpg
+Oct 13,2016 15:45:41 [info]  ====Failed==== "Asset Under 'Asset Search'" field is not present'
+Oct 13,2016 15:45:41 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Oct2016\\13\Asset Under 'Asset Search'_CheckpointFailure_10-13-2016 3-45-41 PM.jpg
+Oct 13,2016 15:47:11 [info]  ********************Started Executiong the Test Suite at 15:47:11******************
+Oct 13,2016 15:47:11 [info]  Client: AMCN
+Oct 13,2016 15:47:11 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Oct 13,2016 15:47:11 [info]  *********************Started Executing 'TC3_AdvanceSearchWithEpisodeDetails' Test Case*********************
+Oct 13,2016 15:47:20 [info]  Client: AMCN
+Oct 13,2016 15:47:20 [info]  URL: http://rlv2wb79/login.aspx
+Oct 13,2016 15:47:20 [info]  UserName: automation
+Oct 13,2016 15:47:20 [info]  Password: automation
+Oct 13,2016 15:47:21 [info]  Entered "automation" in field 'User Name'
+Oct 13,2016 15:47:22 [info]  Clicked on the 'Temporary Check Box'
+Oct 13,2016 15:47:22 [info]  Test 'TC3_AdvanceSearchWithEpisodeDetails' FAILED
+Oct 13,2016 15:47:22 [info]  2
+Oct 13,2016 15:47:22 [info]  Test Case :TC3_AdvanceSearchWithEpisodeDetails's Screenshot of Failure Page: C:\Screenshots\Oct2016\\13\TC3_AdvanceSearchWithEpisodeDetails_10-13-2016 3-47-22 PM.jpg
+Oct 13,2016 15:47:23 [info]  Entered "automation" in field 'Password'
+Oct 13,2016 15:47:23 [info]  Clicked on the 'LoginButton'
+Oct 13,2016 15:47:25 [info]  Closed the Browser
+Oct 13,2016 15:47:33 [info]  Clicked on the 'MODULE'
+Oct 13,2016 15:47:44 [info]  Clicked on the 'Asset Maintenance'
+Oct 13,2016 15:47:48 [info]  Clicked on the 'Search Menu Icon' using JS Executor
+Oct 13,2016 15:47:48 [info]  Clicked on the 'Asset Under 'Asset Search'' using JS Executor
+Oct 13,2016 15:47:59 [info]  Clicked on the 'ExpandAdvanceSearchIcon'
+Oct 13,2016 15:48:00 [info]  Verified that Expected value :[Program] is matched with Actual value :[Program]
+Oct 13,2016 15:48:00 [info]  Verify The data of Asset_DispEpisodesCheckBox_CheckBox
+Oct 13,2016 15:48:00 [info]  Verified that Expected value :[true] is matched with Actual value :[true]
+Oct 13,2016 15:48:02 [info]  Entered "AUT_AssetSeries_1012201693713" in field 'AssetTitle'
+Oct 13,2016 15:48:02 [info]  Selected "Actor" in "AssetSearch_ContactRole_inputField" drop down
+Oct 13,2016 15:48:02 [info]  Clicked on the 'Find Button' using JS Executor
+Oct 13,2016 15:48:18 [info]  ====Failed==== Expected value is:[AUT_AssetSeries_1012201693713] but Actual value is[208362]. Please check the screenshot with name: Searched Asset at Search Gridfor more details
+Oct 13,2016 15:48:18 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Oct2016\\13\Searched Asset at Search Grid_CheckpointFailure_10-13-2016 3-48-18 PM.jpg
+Oct 13,2016 15:48:20 [info]  Clicked on the 'ExpandSeasonIcon'
+Oct 13,2016 15:48:23 [info]  Verify The data of Season 1 at Asset Search Grid
+Oct 13,2016 15:48:23 [info]  Verified that Expected value :[Season 1] is matched with Actual value :[Season 1]
+Oct 13,2016 15:48:23 [info]  Verify The data of Season 1 at Asset Search Grid
+Oct 13,2016 15:48:23 [info]  Verified that Expected value :[Season 2] is matched with Actual value :[Season 2]
+Oct 13,2016 15:48:23 [info]  Test 'TC3_AdvanceSearchWithEpisodeDetails' PASSED
+Oct 13,2016 15:48:24 [info]  Closed the Browser
+Oct 13,2016 16:26:45 [info]  ********************Started Executiong the Test Suite at 16:26:45******************
+Oct 13,2016 16:26:45 [info]  Client: AMCN
+Oct 13,2016 16:26:45 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Oct 13,2016 16:26:45 [info]  *********************Started Executing 'TC4_AssetSearchWithoutEpisodeDetails' Test Case*********************
+Oct 13,2016 16:26:54 [info]  Client: AMCN
+Oct 13,2016 16:26:54 [info]  URL: http://rlv2wb79/login.aspx
+Oct 13,2016 16:26:54 [info]  UserName: automation
+Oct 13,2016 16:26:54 [info]  Password: automation
+Oct 13,2016 16:26:55 [info]  Entered "automation" in field 'User Name'
+Oct 13,2016 16:26:55 [info]  Clicked on the 'Temporary Check Box'
+Oct 13,2016 16:26:56 [info]  Entered "automation" in field 'Password'
+Oct 13,2016 16:27:03 [info]  Clicked on the 'LoginButton'
+Oct 13,2016 16:27:13 [info]  Clicked on the 'MODULE'
+Oct 13,2016 16:27:24 [info]  Clicked on the 'Asset Maintenance'
+Oct 13,2016 16:27:27 [info]  Clicked on the 'Search Menu Icon' using JS Executor
+Oct 13,2016 16:27:28 [info]  Clicked on the 'Asset Under 'Asset Search'' using JS Executor
+Oct 13,2016 16:27:39 [info]  Verified that Expected value :[Program] is matched with Actual value :[Program]
+Oct 13,2016 16:27:39 [info]  Verify The data of Asset_DispEpisodesCheckBox_CheckBox
+Oct 13,2016 16:27:39 [info]  Verified that Expected value :[true] is matched with Actual value :[true]
+Oct 13,2016 16:27:40 [info]  Clicked on the 'Click on Episodes Check Box'
+Oct 13,2016 16:27:40 [info]  Verify The data of Asset_DispEpisodesCheckBox_CheckBox
+Oct 13,2016 16:27:40 [info]  ====Failed===="Asset_DispEpisodesCheckBox_CheckBox" is not Present
+Oct 13,2016 16:27:40 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Oct2016\\13\Asset_DispEpisodesCheckBox_CheckBox_CheckpointFailure_10-13-2016 4-27-40 PM.jpg
+Oct 13,2016 16:27:42 [info]  Entered "AUT_AssetSeries_1012201693713" in field 'AssetTitle'
+Oct 13,2016 16:27:42 [info]  Clicked on the 'Find Button' using JS Executor
+Oct 13,2016 16:27:56 [info]  Clicked on the 'ExpandSeasonIcon'
+Oct 13,2016 16:27:59 [info]  Verify The data of Season 1 at Asset Search Grid
+Oct 13,2016 16:27:59 [info]  Verified that Expected value :[Season 1] is matched with Actual value :[Season 1]
+Oct 13,2016 16:27:59 [info]  Verify The data of Season 2 at Asset Search Grid
+Oct 13,2016 16:27:59 [info]  Verified that Expected value :[Season 2] is matched with Actual value :[Season 2]
+Oct 13,2016 16:27:59 [info]  ====Failed==== "Episodes"  should not be shown
+Oct 13,2016 16:27:59 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Oct2016\\13\Episodes_CheckpointFailure_10-13-2016 4-27-59 PM.jpg
+Oct 13,2016 16:27:59 [info]  Test 'TC4_AssetSearchWithoutEpisodeDetails' PASSED
+Oct 13,2016 16:28:01 [info]  Closed the Browser
+Oct 13,2016 17:01:35 [info]  ********************Started Executiong the Test Suite at 17:01:35******************
+Oct 13,2016 17:01:35 [info]  Client: AMCN
+Oct 13,2016 17:01:35 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Oct 13,2016 17:01:35 [info]  *********************Started Executing 'TC4_AssetSearchWithoutEpisodeDetails' Test Case*********************
+Oct 13,2016 17:01:45 [info]  Client: AMCN
+Oct 13,2016 17:01:45 [info]  URL: http://rlv2wb79/login.aspx
+Oct 13,2016 17:01:45 [info]  UserName: automation
+Oct 13,2016 17:01:45 [info]  Password: automation
+Oct 13,2016 17:01:46 [info]  Entered "automation" in field 'User Name'
+Oct 13,2016 17:01:46 [info]  Clicked on the 'Temporary Check Box'
+Oct 13,2016 17:01:47 [info]  Entered "automation" in field 'Password'
+Oct 13,2016 17:01:54 [info]  Clicked on the 'LoginButton'
+Oct 13,2016 17:02:04 [info]  Clicked on the 'MODULE'
+Oct 13,2016 17:02:13 [info]  Clicked on the 'Asset Maintenance'
+Oct 13,2016 17:02:17 [info]  Clicked on the 'Search Menu Icon' using JS Executor
+Oct 13,2016 17:02:17 [info]  Clicked on the 'Asset Under 'Asset Search'' using JS Executor
+Oct 13,2016 17:02:28 [info]  Verified that Expected value :[Program] is matched with Actual value :[Program]
+Oct 13,2016 17:02:29 [info]  Verify The data of Asset_DispEpisodesCheckBox_CheckBox
+Oct 13,2016 17:02:29 [info]  ====Failed==== Expected value is:[true] but Actual value is[on]. Please check the screenshot with name: Asset_DispEpisodesCheckBox_CheckBoxfor more details
+Oct 13,2016 17:02:29 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Oct2016\\13\Asset_DispEpisodesCheckBox_CheckBox_CheckpointFailure_10-13-2016 5-02-29 PM.jpg
+Oct 13,2016 17:02:29 [info]  Clicked on the 'Click on Episodes Check Box'
+Oct 13,2016 17:02:29 [info]  Verify The data of Asset_DispEpisodesCheckBox_CheckBox
+Oct 13,2016 17:02:29 [info]  ====Failed==== Expected value is:[false] but Actual value is[on]. Please check the screenshot with name: Asset_DispEpisodesCheckBox_CheckBoxfor more details
+Oct 13,2016 17:02:30 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Oct2016\\13\Asset_DispEpisodesCheckBox_CheckBox_CheckpointFailure_10-13-2016 5-02-29 PM.jpg
+Oct 13,2016 17:02:31 [info]  Entered "AUT_AssetSeries_1012201693713" in field 'AssetTitle'
+Oct 13,2016 17:02:31 [info]  Clicked on the 'Find Button' using JS Executor
+Oct 13,2016 17:02:45 [info]  Clicked on the 'ExpandSeasonIcon'
+Oct 13,2016 17:02:48 [info]  Verify The data of Season 1 at Asset Search Grid
+Oct 13,2016 17:02:48 [info]  Verified that Expected value :[Season 1] is matched with Actual value :[Season 1]
+Oct 13,2016 17:02:48 [info]  Verify The data of Season 2 at Asset Search Grid
+Oct 13,2016 17:02:48 [info]  Verified that Expected value :[Season 2] is matched with Actual value :[Season 2]
+Oct 13,2016 17:02:48 [info]  ====Failed==== "Episodes"  should not be shown
+Oct 13,2016 17:02:49 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Oct2016\\13\Episodes_CheckpointFailure_10-13-2016 5-02-48 PM.jpg
+Oct 13,2016 17:02:49 [info]  Test 'TC4_AssetSearchWithoutEpisodeDetails' PASSED
+Oct 13,2016 17:02:50 [info]  Closed the Browser
+Oct 13,2016 17:17:35 [info]  ********************Started Executiong the Test Suite at 17:17:35******************
+Oct 13,2016 17:17:35 [info]  Client: AMCN
+Oct 13,2016 17:17:35 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Oct 13,2016 17:17:35 [info]  *********************Started Executing 'TC4_AssetSearchWithoutEpisodeDetails' Test Case*********************
+Oct 13,2016 17:17:44 [info]  Client: AMCN
+Oct 13,2016 17:17:44 [info]  URL: http://rlv2wb79/login.aspx
+Oct 13,2016 17:17:44 [info]  UserName: automation
+Oct 13,2016 17:17:44 [info]  Password: automation
+Oct 13,2016 17:17:45 [info]  Entered "automation" in field 'User Name'
+Oct 13,2016 17:17:45 [info]  Clicked on the 'Temporary Check Box'
+Oct 13,2016 17:17:46 [info]  Entered "automation" in field 'Password'
+Oct 13,2016 17:17:53 [info]  Clicked on the 'LoginButton'
+Oct 13,2016 17:18:03 [info]  Clicked on the 'MODULE'
+Oct 13,2016 17:18:14 [info]  Clicked on the 'Asset Maintenance'
+Oct 13,2016 17:18:18 [info]  Clicked on the 'Search Menu Icon' using JS Executor
+Oct 13,2016 17:18:18 [info]  Clicked on the 'Asset Under 'Asset Search'' using JS Executor
+Oct 13,2016 17:18:29 [info]  Verified that Expected value :[Program] is matched with Actual value :[Program]
+Oct 13,2016 17:18:30 [info]  Verify The data of Asset_DispEpisodesCheckBox_CheckBox
+Oct 13,2016 17:18:30 [info]  Verified that Expected value :[true] is matched with Actual value :[true]
+Oct 13,2016 17:18:30 [info]  Clicked on the 'Click on Episodes Check Box'
+Oct 13,2016 17:18:31 [info]  Entered "AUT_AssetSeries_1012201693713" in field 'AssetTitle'
+Oct 13,2016 17:18:32 [info]  Clicked on the 'Find Button' using JS Executor
+Oct 13,2016 17:18:45 [info]  Verify that on Seasons are displayed but Episodes are not displayed in Asset Search Grid
+Oct 13,2016 17:18:46 [info]  Clicked on the 'Expand Season Icon'
+Oct 13,2016 17:18:49 [info]  Verify The data of Season 1 at Asset Search Grid
+Oct 13,2016 17:18:49 [info]  Verified that Expected value :[Season 1] is matched with Actual value :[Season 1]
+Oct 13,2016 17:18:49 [info]  Verify The data of Season 2 at Asset Search Grid
+Oct 13,2016 17:18:49 [info]  Verified that Expected value :[Season 2] is matched with Actual value :[Season 2]
+Oct 13,2016 17:18:50 [info]  ====Failed==== "Expand Season1 at Asset Search Grid" field is not present'
+Oct 13,2016 17:18:50 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Oct2016\\13\Expand Season1 at Asset Search Grid_CheckpointFailure_10-13-2016 5-18-50 PM.jpg
+Oct 13,2016 17:19:00 [info]  "" is disable or not Present
+Oct 13,2016 17:19:00 [info]  Test 'TC4_AssetSearchWithoutEpisodeDetails' PASSED
+Oct 13,2016 17:19:01 [info]  Closed the Browser
+Oct 13,2016 17:24:21 [info]  ********************Started Executiong the Test Suite at 17:24:21******************
+Oct 13,2016 17:24:21 [info]  Client: AMCN
+Oct 13,2016 17:24:21 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Oct 13,2016 17:24:21 [info]  *********************Started Executing 'TC4_AssetSearchWithoutEpisodeDetails' Test Case*********************
+Oct 13,2016 17:24:30 [info]  Client: AMCN
+Oct 13,2016 17:24:30 [info]  URL: http://rlv2wb79/login.aspx
+Oct 13,2016 17:24:30 [info]  UserName: automation
+Oct 13,2016 17:24:30 [info]  Password: automation
+Oct 13,2016 17:24:31 [info]  Entered "automation" in field 'User Name'
+Oct 13,2016 17:24:31 [info]  Clicked on the 'Temporary Check Box'
+Oct 13,2016 17:24:32 [info]  Entered "automation" in field 'Password'
+Oct 13,2016 17:24:38 [info]  Clicked on the 'LoginButton'
+Oct 13,2016 17:24:48 [info]  Clicked on the 'MODULE'
+Oct 13,2016 17:24:59 [info]  Clicked on the 'Asset Maintenance'
+Oct 13,2016 17:25:02 [info]  Clicked on the 'Search Menu Icon' using JS Executor
+Oct 13,2016 17:25:02 [info]  Clicked on the 'Asset Under 'Asset Search'' using JS Executor
+Oct 13,2016 17:25:13 [info]  Verified that Expected value :[Program] is matched with Actual value :[Program]
+Oct 13,2016 17:25:14 [info]  Verify The data of Asset_DispEpisodesCheckBox_CheckBox
+Oct 13,2016 17:25:14 [info]  Verified that Expected value :[true] is matched with Actual value :[true]
+Oct 13,2016 17:25:14 [info]  Clicked on the 'Click on Episodes Check Box'
+Oct 13,2016 17:25:15 [info]  Entered "AUT_AssetSeries_1012201693713" in field 'AssetTitle'
+Oct 13,2016 17:25:16 [info]  Clicked on the 'Find Button' using JS Executor
+Oct 13,2016 17:25:29 [info]  Verify that on Seasons are displayed but Episodes are not displayed in Asset Search Grid
+Oct 13,2016 17:25:30 [info]  Clicked on the 'Expand Season Icon'
+Oct 13,2016 17:25:33 [info]  Verify The data of Season 1 at Asset Search Grid
+Oct 13,2016 17:25:33 [info]  Verified that Expected value :[Season 1] is matched with Actual value :[Season 1]
+Oct 13,2016 17:25:33 [info]  Verify The data of Season 2 at Asset Search Grid
+Oct 13,2016 17:25:33 [info]  Verified that Expected value :[Season 2] is matched with Actual value :[Season 2]
+Oct 13,2016 17:25:33 [info]  Verified that Expected value :[Season Expand Icon] is not displayed
+Oct 13,2016 17:25:33 [info]  Test 'TC4_AssetSearchWithoutEpisodeDetails' PASSED
+Oct 13,2016 17:25:34 [info]  Closed the Browser
+Oct 13,2016 17:28:59 [info]  ********************Started Executiong the Test Suite at 17:28:59******************
+Oct 13,2016 17:28:59 [info]  Client: AMCN
+Oct 13,2016 17:28:59 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Oct 13,2016 17:28:59 [info]  *********************Started Executing 'TC5_AdvancesAssetSearchWithoutEpisodesDetails' Test Case*********************
+Oct 13,2016 17:29:13 [info]  ********************Started Executiong the Test Suite at 17:29:13******************
+Oct 13,2016 17:29:13 [info]  Client: AMCN
+Oct 13,2016 17:29:13 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Oct 13,2016 17:29:13 [info]  *********************Started Executing 'TC5_AdvancesAssetSearchWithoutEpisodesDetails' Test Case*********************
+Oct 13,2016 17:29:22 [info]  Client: AMCN
+Oct 13,2016 17:29:22 [info]  URL: http://rlv2wb79/login.aspx
+Oct 13,2016 17:29:22 [info]  UserName: automation
+Oct 13,2016 17:29:22 [info]  Password: automation
+Oct 13,2016 17:29:23 [info]  Entered "automation" in field 'User Name'
+Oct 13,2016 17:29:24 [info]  Clicked on the 'Temporary Check Box'
+Oct 13,2016 17:29:24 [info]  Entered "automation" in field 'Password'
+Oct 13,2016 17:29:31 [info]  Clicked on the 'LoginButton'
+Oct 13,2016 17:29:41 [info]  Clicked on the 'MODULE'
+Oct 13,2016 17:29:52 [info]  Clicked on the 'Asset Maintenance'
+Oct 13,2016 17:29:55 [info]  Clicked on the 'Search Menu Icon' using JS Executor
+Oct 13,2016 17:29:55 [info]  Clicked on the 'Asset Under 'Asset Search'' using JS Executor
+Oct 13,2016 17:30:06 [info]  Clicked on the 'ExpandAdvanceSearchIcon'
+Oct 13,2016 17:30:07 [info]  Verified that Expected value :[Program] is matched with Actual value :[Program]
+Oct 13,2016 17:30:07 [info]  Verify The data of Asset_DispEpisodesCheckBox_CheckBox
+Oct 13,2016 17:30:07 [info]  Verified that Expected value :[true] is matched with Actual value :[true]
+Oct 13,2016 17:30:07 [info]  Clicked on the 'Click on Episodes Check Box'
+Oct 13,2016 17:30:09 [info]  Entered "AUT_AssetSeries_1012201693713" in field 'AssetTitle'
+Oct 13,2016 17:30:09 [info]  Selected "Actor" in "AssetSearch_ContactRole_inputField" drop down
+Oct 13,2016 17:30:09 [info]  Clicked on the 'Find Button' using JS Executor
+Oct 13,2016 17:30:33 [info]  ====Failed==== Expected value is:[AUT_AssetSeries_1012201693713] but Actual value is[]. Please check the screenshot with name: Searched Asset at Search Gridfor more details
+Oct 13,2016 17:30:33 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Oct2016\\13\Searched Asset at Search Grid_CheckpointFailure_10-13-2016 5-30-33 PM.jpg
+Oct 13,2016 17:30:33 [info]  Verify that on Seasons are displayed but Episodes are not displayed in Asset Search Grid
+Oct 13,2016 17:30:34 [info]  Clicked on the 'Expand Season Icon'
+Oct 13,2016 17:30:37 [info]  Verify The data of Season 1 at Asset Search Grid
+Oct 13,2016 17:30:37 [info]  Verified that Expected value :[Season 1] is matched with Actual value :[Season 1]
+Oct 13,2016 17:30:37 [info]  Verify The data of Season 2 at Asset Search Grid
+Oct 13,2016 17:30:37 [info]  Verified that Expected value :[Season 2] is matched with Actual value :[Season 2]
+Oct 13,2016 17:30:37 [info]  Verified that Expected value :[Episode] is not displayed
+Oct 13,2016 17:30:37 [info]  Test 'TC5_AdvancesAssetSearchWithoutEpisodesDetails' PASSED
+Oct 13,2016 17:30:38 [info]  Closed the Browser
+Oct 13,2016 17:31:55 [info]  ********************Started Executiong the Test Suite at 17:31:55******************
+Oct 13,2016 17:31:55 [info]  Client: AMCN
+Oct 13,2016 17:31:55 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Oct 13,2016 17:31:55 [info]  *********************Started Executing 'TC5_AdvancesAssetSearchWithoutEpisodesDetails' Test Case*********************
+Oct 13,2016 17:32:04 [info]  Client: AMCN
+Oct 13,2016 17:32:04 [info]  URL: http://rlv2wb79/login.aspx
+Oct 13,2016 17:32:04 [info]  UserName: automation
+Oct 13,2016 17:32:04 [info]  Password: automation
+Oct 13,2016 17:32:05 [info]  Entered "automation" in field 'User Name'
+Oct 13,2016 17:32:05 [info]  Clicked on the 'Temporary Check Box'
+Oct 13,2016 17:32:06 [info]  Entered "automation" in field 'Password'
+Oct 13,2016 17:32:13 [info]  Clicked on the 'LoginButton'
+Oct 13,2016 17:32:22 [info]  Clicked on the 'MODULE'
+Oct 13,2016 17:32:33 [info]  Clicked on the 'Asset Maintenance'
+Oct 13,2016 17:32:36 [info]  Clicked on the 'Search Menu Icon' using JS Executor
+Oct 13,2016 17:32:37 [info]  Clicked on the 'Asset Under 'Asset Search'' using JS Executor
+Oct 13,2016 17:32:47 [info]  Clicked on the 'ExpandAdvanceSearchIcon'
+Oct 13,2016 17:32:49 [info]  Verified that Expected value :[Program] is matched with Actual value :[Program]
+Oct 13,2016 17:32:49 [info]  Verify The data of Asset_DispEpisodesCheckBox_CheckBox
+Oct 13,2016 17:32:49 [info]  Verified that Expected value :[true] is matched with Actual value :[true]
+Oct 13,2016 17:32:49 [info]  Clicked on the 'Click on Episodes Check Box'
+Oct 13,2016 17:32:50 [info]  Entered "AUT_AssetSeries_1012201693713" in field 'AssetTitle'
+Oct 13,2016 17:32:51 [info]  Selected "Actor" in "AssetSearch_ContactRole_inputField" drop down
+Oct 13,2016 17:32:51 [info]  Clicked on the 'Find Button' using JS Executor
+Oct 13,2016 17:33:14 [info]  ====Failed==== Expected value is:[AUT_AssetSeries_1012201693713] but Actual value is[]. Please check the screenshot with name: Searched Asset at Search Gridfor more details
+Oct 13,2016 17:33:14 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Oct2016\\13\Searched Asset at Search Grid_CheckpointFailure_10-13-2016 5-33-14 PM.jpg
+Oct 13,2016 17:33:14 [info]  Verify that on Seasons are displayed but Episodes are not displayed in Asset Search Grid
+Oct 13,2016 17:33:15 [info]  Clicked on the 'Expand Season Icon'
+Oct 13,2016 17:33:28 [info]  Verify The data of Season 1 at Asset Search Grid
+Oct 13,2016 17:33:28 [info]  ====Failed==== Expected value is:[Season 1] but Actual value is[]. Please check the screenshot with name: Season 1 at Asset Search Gridfor more details
+Oct 13,2016 17:33:28 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Oct2016\\13\Season 1 at Asset Search Grid_CheckpointFailure_10-13-2016 5-33-28 PM.jpg
+Oct 13,2016 17:33:34 [info]  Verify The data of Season 2 at Asset Search Grid
+Oct 13,2016 17:33:34 [info]  Verified that Expected value :[Season 2] is matched with Actual value :[Season 2]
+Oct 13,2016 17:33:35 [info]  Verified that Expected value :[Episode] is not displayed
+Oct 13,2016 17:33:35 [info]  Test 'TC5_AdvancesAssetSearchWithoutEpisodesDetails' PASSED
+Oct 13,2016 17:33:36 [info]  Closed the Browser
+Oct 13,2016 17:34:18 [info]  ********************Started Executiong the Test Suite at 17:34:18******************
+Oct 13,2016 17:34:18 [info]  Client: AMCN
+Oct 13,2016 17:34:18 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Oct 13,2016 17:34:18 [info]  *********************Started Executing 'TC5_AdvancesAssetSearchWithoutEpisodesDetails' Test Case*********************
+Oct 13,2016 17:34:27 [info]  Client: AMCN
+Oct 13,2016 17:34:27 [info]  URL: http://rlv2wb79/login.aspx
+Oct 13,2016 17:34:27 [info]  UserName: automation
+Oct 13,2016 17:34:27 [info]  Password: automation
+Oct 13,2016 17:34:28 [info]  Entered "automation" in field 'User Name'
+Oct 13,2016 17:34:28 [info]  Clicked on the 'Temporary Check Box'
+Oct 13,2016 17:34:29 [info]  Entered "automation" in field 'Password'
+Oct 13,2016 17:34:36 [info]  Clicked on the 'LoginButton'
+Oct 13,2016 17:34:46 [info]  Clicked on the 'MODULE'
+Oct 13,2016 17:34:56 [info]  Clicked on the 'Asset Maintenance'
+Oct 13,2016 17:35:00 [info]  Clicked on the 'Search Menu Icon' using JS Executor
+Oct 13,2016 17:35:00 [info]  Clicked on the 'Asset Under 'Asset Search'' using JS Executor
+Oct 13,2016 17:35:11 [info]  Clicked on the 'ExpandAdvanceSearchIcon'
+Oct 13,2016 17:35:12 [info]  Verified that Expected value :[Program] is matched with Actual value :[Program]
+Oct 13,2016 17:35:12 [info]  Verify The data of Asset_DispEpisodesCheckBox_CheckBox
+Oct 13,2016 17:35:12 [info]  Verified that Expected value :[true] is matched with Actual value :[true]
+Oct 13,2016 17:35:13 [info]  Clicked on the 'Click on Episodes Check Box'
+Oct 13,2016 17:35:14 [info]  Entered "AUT_AssetSeries_1012201693713" in field 'AssetTitle'
+Oct 13,2016 17:35:14 [info]  Selected "Actor" in "AssetSearch_ContactRole_inputField" drop down
+Oct 13,2016 17:35:14 [info]  Clicked on the 'Find Button' using JS Executor
+Oct 13,2016 17:35:27 [info]  Verified that Expected value :[AUT_AssetSeries_1012201693713] is matched with Actual value :[AUT_AssetSeries_1012201693713]
+Oct 13,2016 17:35:27 [info]  Verify that on Seasons are displayed but Episodes are not displayed in Asset Search Grid
+Oct 13,2016 17:35:29 [info]  Clicked on the 'Expand Season Icon'
+Oct 13,2016 17:35:32 [info]  Verify The data of Season 1 at Asset Search Grid
+Oct 13,2016 17:35:32 [info]  Verified that Expected value :[Season 1] is matched with Actual value :[Season 1]
+Oct 13,2016 17:35:32 [info]  Verify The data of Season 2 at Asset Search Grid
+Oct 13,2016 17:35:32 [info]  Verified that Expected value :[Season 2] is matched with Actual value :[Season 2]
+Oct 13,2016 17:35:32 [info]  Verified that Expected value :[Episode] is not displayed
+Oct 13,2016 17:35:32 [info]  Test 'TC5_AdvancesAssetSearchWithoutEpisodesDetails' PASSED
+Oct 13,2016 17:35:33 [info]  Closed the Browser
+Oct 13,2016 19:09:06 [info]  ********************Started Executiong the Test Suite at 19:09:06******************
+Oct 13,2016 19:09:06 [info]  Client: AMCN
+Oct 13,2016 19:09:06 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Oct 13,2016 19:09:06 [info]  *********************Started Executing 'TC6_AssetSearchPromoMarketing' Test Case*********************
+Oct 13,2016 19:09:16 [info]  Client: AMCN
+Oct 13,2016 19:09:16 [info]  URL: http://rlv2wb79/login.aspx
+Oct 13,2016 19:09:16 [info]  UserName: automation
+Oct 13,2016 19:09:16 [info]  Password: automation
+Oct 13,2016 19:09:18 [info]  Entered "automation" in field 'User Name'
+Oct 13,2016 19:09:18 [info]  Clicked on the 'Temporary Check Box'
+Oct 13,2016 19:09:19 [info]  Entered "automation" in field 'Password'
+Oct 13,2016 19:09:26 [info]  Clicked on the 'LoginButton'
+Oct 13,2016 19:09:36 [info]  Clicked on the 'MODULE'
+Oct 13,2016 19:09:47 [info]  Clicked on the 'Asset Maintenance'
+Oct 13,2016 19:09:51 [info]  Clicked on the 'Search Menu Icon' using JS Executor
+Oct 13,2016 19:09:51 [info]  Clicked on the 'Asset Under 'Asset Search'' using JS Executor
+Oct 13,2016 19:10:01 [info]  Clicked on the 'ExpandAdvanceSearchIcon'
+Oct 13,2016 19:10:02 [info]  Verify The data of Asset_DispEpisodesCheckBox_CheckBox
+Oct 13,2016 19:10:02 [info]  Verified that Expected value :[true] is matched with Actual value :[true]
+Oct 13,2016 19:10:04 [info]  Entered "AUT_AssetPromoMarket_1012201693713" in field 'AssetTitle Promo Marketing'
+Oct 13,2016 19:10:04 [info]  Clicked on the 'Find Button' using JS Executor

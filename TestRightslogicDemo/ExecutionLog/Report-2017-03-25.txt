@@ -1,0 +1,705 @@
+Mar 25,2017 14:06:13 [Info]  ********************Started Executiong the Test Suite at 14:06:13******************
+Mar 25,2017 14:06:13 [Info]  Client: AMCN
+Mar 25,2017 14:06:13 [Info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Mar 25,2017 14:06:13 [Info]  *********************Started Executing 'TC1_AssetCreationTest' Test Case*********************
+Mar 25,2017 14:06:24 [Info]  Client: AMCN
+Mar 25,2017 14:06:24 [Info]  URL: http://rlv2wb79/login.aspx
+Mar 25,2017 14:06:24 [Info]  UserName: admin
+Mar 25,2017 14:06:24 [Info]  Password: admin
+Mar 25,2017 14:06:25 [Info]  Entered "admin" in field 'User Name'
+Mar 25,2017 14:06:26 [Info]  Clicked on the 'Temporary Check Box'
+Mar 25,2017 14:06:26 [Info]  Entered "admin" in field 'Password'
+Mar 25,2017 14:06:33 [Info]  Clicked on the 'LoginButton'
+Mar 25,2017 14:06:50 [Info]  Clicked on the 'MODULE'
+Mar 25,2017 14:06:59 [Info]  Clicked on the 'Asset Maintenance'
+Mar 25,2017 14:07:10 [Info]  Clicked on the 'New Button' using JS Executor
+Mar 25,2017 14:07:10 [Info]  Clicked on the 'Element' using JS Executor
+Mar 25,2017 14:07:19 [Info]  Clicked on the 'General TAB'
+Mar 25,2017 14:07:20 [Info]  Drop Down values of 'Element' Asset Type Drop Down are: 
+Mar 25,2017 14:07:20 [Info]  Actual Drop Down Values are: 
+[Element - Talent, Element - Footage (Production), Element - Footage (Stock), Element - Still Photo (Production), Element - Still Photo (Stock), Element - Audio/Sound, Element - Text, Element - Graphic, Element - Animation, Element - Product Placement, Element - Poster, Element - Likeness, Element - Image, Element - Music]
+Mar 25,2017 14:07:20 [Info]  Expected Drop Down Values are: 
+[Element - Talent, Element - Footage (Production), Element - Footage (Stock), Element - Still Photo (Production), Element - Still Photo (Stock), Element - Audio/Sound, Element - Text, Element - Graphic, Element - Animation, Element - Product Placement, Element - Poster, Element - Likeness, Element - Image, Element - Music]
+Mar 25,2017 14:07:20 [Info]  Total Number of Dropdown Valus in 'Element' Asset Type Drop Down:14
+<span style="color:green;">Mar 25,2017 14:07:20 [Verification]  Verified that [Element - Talent] is present in the dropdown 'Element' Asset Type Drop Down</span>
+<span style="color:green;">Mar 25,2017 14:07:20 [Verification]  Verified that [Element - Footage (Production)] is present in the dropdown 'Element' Asset Type Drop Down</span>
+<span style="color:green;">Mar 25,2017 14:07:20 [Verification]  Verified that [Element - Footage (Stock)] is present in the dropdown 'Element' Asset Type Drop Down</span>
+<span style="color:green;">Mar 25,2017 14:07:20 [Verification]  Verified that [Element - Still Photo (Production)] is present in the dropdown 'Element' Asset Type Drop Down</span>
+<span style="color:green;">Mar 25,2017 14:07:20 [Verification]  Verified that [Element - Still Photo (Stock)] is present in the dropdown 'Element' Asset Type Drop Down</span>
+<span style="color:green;">Mar 25,2017 14:07:20 [Verification]  Verified that [Element - Audio/Sound] is present in the dropdown 'Element' Asset Type Drop Down</span>
+<span style="color:green;">Mar 25,2017 14:07:20 [Verification]  Verified that [Element - Text] is present in the dropdown 'Element' Asset Type Drop Down</span>
+<span style="color:green;">Mar 25,2017 14:07:20 [Verification]  Verified that [Element - Graphic] is present in the dropdown 'Element' Asset Type Drop Down</span>
+<span style="color:green;">Mar 25,2017 14:07:20 [Verification]  Verified that [Element - Animation] is present in the dropdown 'Element' Asset Type Drop Down</span>
+<span style="color:green;">Mar 25,2017 14:07:20 [Verification]  Verified that [Element - Product Placement] is present in the dropdown 'Element' Asset Type Drop Down</span>
+<span style="color:green;">Mar 25,2017 14:07:20 [Verification]  Verified that [Element - Poster] is present in the dropdown 'Element' Asset Type Drop Down</span>
+<span style="color:green;">Mar 25,2017 14:07:20 [Verification]  Verified that [Element - Likeness] is present in the dropdown 'Element' Asset Type Drop Down</span>
+<span style="color:green;">Mar 25,2017 14:07:20 [Verification]  Verified that [Element - Image] is present in the dropdown 'Element' Asset Type Drop Down</span>
+<span style="color:green;">Mar 25,2017 14:07:20 [Verification]  Verified that [Element - Music] is present in the dropdown 'Element' Asset Type Drop Down</span>
+Mar 25,2017 14:07:21 [Info]  Clicked on the 'New Button' using JS Executor
+Mar 25,2017 14:07:21 [Info]  Clicked on the 'Program' using JS Executor
+Mar 25,2017 14:07:29 [Info]  Clicked on the 'General TAB'
+Mar 25,2017 14:07:30 [Info]  Verify The data of Asset Type
+<span style="color:green;">Mar 25,2017 14:07:30 [Verification]  Verified that Expected value :[*Asset Type] is matched with Actual value :[*Asset Type]</span>
+Mar 25,2017 14:07:30 [Info]  Verify The data of Asset Category/Group
+<span style="color:green;">Mar 25,2017 14:07:30 [Verification]  Verified that Expected value :[Asset Category] is matched with Actual value :[Asset Category]</span>
+Mar 25,2017 14:07:30 [Info]  Verify The data of Asset Title
+<span style="color:green;">Mar 25,2017 14:07:30 [Verification]  Verified that Expected value :[*Asset Title] is matched with Actual value :[*Asset Title]</span>
+Mar 25,2017 14:07:31 [Info]  Verify The data of IP Name
+<span style="color:green;">Mar 25,2017 14:07:31 [Verification]  Verified that Expected value :[IP Name] is matched with Actual value :[IP Name]</span>
+Mar 25,2017 14:07:31 [Info]  Verify The data of Project ID
+<span style="color:green;">Mar 25,2017 14:07:31 [Verification]  Verified that Expected value :[Project ID] is matched with Actual value :[Project ID]</span>
+Mar 25,2017 14:07:31 [Info]  Verify The data of Series Title
+<span style="color:green;">Mar 25,2017 14:07:31 [Verification]  Verified that Expected value :[Series Title] is matched with Actual value :[Series Title]</span>
+Mar 25,2017 14:07:31 [Info]  Verify The data of Vendor
+<span style="color:green;">Mar 25,2017 14:07:31 [Verification]  Verified that Expected value :[*Vendor] is matched with Actual value :[*Vendor]</span>
+Mar 25,2017 14:07:32 [Info]  Verify The data of Studio
+<span style="color:green;">Mar 25,2017 14:07:32 [Verification]  Verified that Expected value :[Vendor 2] is matched with Actual value :[Vendor 2]</span>
+Mar 25,2017 14:07:32 [Info]  Verify The data of SourceBusinessUnit
+<span style="color:green;">Mar 25,2017 14:07:32 [Verification]  Verified that Expected value :[*Source Business Unit] is matched with Actual value :[*Source Business Unit]</span>
+Mar 25,2017 14:07:32 [Info]  Verify The data of Duration
+<span style="color:green;">Mar 25,2017 14:07:32 [Verification]  Verified that Expected value :[Duration] is matched with Actual value :[Duration]</span>
+Mar 25,2017 14:07:32 [Info]  Verify The data of ShortName
+<span style="color:green;">Mar 25,2017 14:07:32 [Verification]  Verified that Expected value :[Short Name] is matched with Actual value :[Short Name]</span>
+Mar 25,2017 14:07:32 [Info]  Verify The data of AssetStatusLabel
+<span style="color:green;">Mar 25,2017 14:07:33 [Verification]  Verified that Expected value :[Asset Status] is matched with Actual value :[Asset Status]</span>
+Mar 25,2017 14:07:33 [Info]  Verify The data of Asset Source
+<span style="color:green;">Mar 25,2017 14:07:33 [Verification]  Verified that Expected value :[*Asset Source] is matched with Actual value :[*Asset Source]</span>
+Mar 25,2017 14:07:33 [Info]  Verify The data of Internal CheckBox
+<span style="color:green;">Mar 25,2017 14:07:33 [Verification]  Verified that Expected value :[Internal] is matched with Actual value :[Internal]</span>
+Mar 25,2017 14:07:33 [Info]  Verify The data of NonAirable CheckBox
+<span style="color:green;">Mar 25,2017 14:07:33 [Verification]  Verified that Expected value :[Non-Airable] is matched with Actual value :[Non-Airable]</span>
+Mar 25,2017 14:07:33 [Info]  Verify The data of TBA CheckBox
+<span style="color:green;">Mar 25,2017 14:07:33 [Verification]  Verified that Expected value :[TBA] is matched with Actual value :[TBA]</span>
+Mar 25,2017 14:07:34 [Info]  Drop Down values of 'Program' Asset Type Drop Down are: 
+Mar 25,2017 14:07:34 [Info]  Actual Drop Down Values are: 
+[Program - One-Off, Program - Series, Program - Franchise, Program - Special, Program - Demo, Program - Documentary, Program - Pilot, Program - Mini-Series, Program - Package, Program - Made for TV, Program - Interstitial, Program - Music Performance]
+Mar 25,2017 14:07:34 [Info]  Expected Drop Down Values are: 
+[Program - One-Off, Program - Series, Program - Franchise, Program - Special, Program - Demo, Program - Documentary, Program - Pilot, Program - Mini-Series, Program - Package, Program - Made for TV, Program - Interstitial, Program - Music Performance]
+Mar 25,2017 14:07:34 [Info]  Total Number of Dropdown Valus in 'Program' Asset Type Drop Down:12
+<span style="color:green;">Mar 25,2017 14:07:34 [Verification]  Verified that [Program - One-Off] is present in the dropdown 'Program' Asset Type Drop Down</span>
+<span style="color:green;">Mar 25,2017 14:07:34 [Verification]  Verified that [Program - Series] is present in the dropdown 'Program' Asset Type Drop Down</span>
+<span style="color:green;">Mar 25,2017 14:07:34 [Verification]  Verified that [Program - Franchise] is present in the dropdown 'Program' Asset Type Drop Down</span>
+<span style="color:green;">Mar 25,2017 14:07:34 [Verification]  Verified that [Program - Special] is present in the dropdown 'Program' Asset Type Drop Down</span>
+<span style="color:green;">Mar 25,2017 14:07:34 [Verification]  Verified that [Program - Demo] is present in the dropdown 'Program' Asset Type Drop Down</span>
+<span style="color:green;">Mar 25,2017 14:07:34 [Verification]  Verified that [Program - Documentary] is present in the dropdown 'Program' Asset Type Drop Down</span>
+<span style="color:green;">Mar 25,2017 14:07:34 [Verification]  Verified that [Program - Pilot] is present in the dropdown 'Program' Asset Type Drop Down</span>
+<span style="color:green;">Mar 25,2017 14:07:34 [Verification]  Verified that [Program - Mini-Series] is present in the dropdown 'Program' Asset Type Drop Down</span>
+<span style="color:green;">Mar 25,2017 14:07:34 [Verification]  Verified that [Program - Package] is present in the dropdown 'Program' Asset Type Drop Down</span>
+<span style="color:green;">Mar 25,2017 14:07:34 [Verification]  Verified that [Program - Made for TV] is present in the dropdown 'Program' Asset Type Drop Down</span>
+<span style="color:green;">Mar 25,2017 14:07:34 [Verification]  Verified that [Program - Interstitial] is present in the dropdown 'Program' Asset Type Drop Down</span>
+<span style="color:green;">Mar 25,2017 14:07:34 [Verification]  Verified that [Program - Music Performance] is present in the dropdown 'Program' Asset Type Drop Down</span>
+Mar 25,2017 14:07:34 [Info]  Generated Asset Id is 209112
+Mar 25,2017 14:07:35 [Info]  Clicked on the 'Save Button' using JS Executor
+Mar 25,2017 14:07:49 [Info]  Verify The data of AssertCreationValidationMessage
+<span style="color:green;">Mar 25,2017 14:07:49 [Verification]  Verified that Expected value :[Please enter values for required(*) fields.] is matched with Actual value :[Please enter values for required(*) fields.]</span>
+Mar 25,2017 14:07:51 [Info]  Selected "Program - Series" in "Asset Type Drop Down" drop down
+Mar 25,2017 14:08:00 [Info]  Entered "AUT_AssetSeries_0325201720639" in field 'AssetTitle'
+Mar 25,2017 14:08:00 [Info]  Clicked on the 'IPImageIcon' using JS Executor
+<span style="color:red;">Mar 25,2017 14:08:10 [Fail]  ====Failed==== " Could not find the Frame: div[id*='WebDialogWindow2'][style*=visible]</span>
+<span style="color:red;">Mar 25,2017 14:08:11 [Fail]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\25\FrameSwitchingFailed0_CheckpointFailure_03-25-2017 2-08-10 PM.jpg</span>
+Mar 25,2017 14:08:11 [Info]  Unable to find element with css selector == div[id*='WebDialogWindow2'][style*=visible] (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.04 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: '9P4G6BS', ip: '10.10.22.71', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=true, ie.forceCreateProcessApi=false, pageLoadStrategy=normal, ie.usePerProcessProxy=false, ignoreZoomSetting=false, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=false, browserName=internet explorer, initialBrowserUrl=http://localhost:47159/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=false, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: 342cc464-e042-4d45-9512-fdfe4a091143
+*** Element info: {Using=css selector, value=div[id*='WebDialogWindow2'][style*=visible]}
+Mar 25,2017 14:08:21 [Info]  Test 'TC1_AssetCreationTest' FAILED
+Mar 25,2017 14:08:21 [Info]  2
+Mar 25,2017 14:08:21 [Info]  Test Case :TC1_AssetCreationTest's Screenshot of Failure Page: 
+C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\25\TC1_AssetCreationTest_03-25-2017 2-08-21 PM.jpg
+Mar 25,2017 14:08:27 [Info]  Closed the Browser
+Mar 25,2017 14:08:27 [Info]  *********************Started Executing 'TC2_ProgramSummary' Test Case*********************
+Mar 25,2017 14:08:36 [Info]  Client: AMCN
+Mar 25,2017 14:08:36 [Info]  URL: http://rlv2wb79/login.aspx
+Mar 25,2017 14:08:36 [Info]  UserName: admin
+Mar 25,2017 14:08:36 [Info]  Password: admin
+Mar 25,2017 14:08:36 [Info]  Entered "admin" in field 'User Name'
+Mar 25,2017 14:08:37 [Info]  Clicked on the 'Temporary Check Box'
+Mar 25,2017 14:08:37 [Info]  Entered "admin" in field 'Password'
+Mar 25,2017 14:08:44 [Info]  Clicked on the 'LoginButton'
+Mar 25,2017 14:09:00 [Info]  Clicked on the 'MODULE'
+Mar 25,2017 14:09:08 [Info]  Clicked on the 'Asset Maintenance'
+<span style="color:red;">Mar 25,2017 14:09:29 [Fail]  ====Failed==== "AUT_AssetSeries_0325201720639AssetName" field is not present'</span>
+Mar 25,2017 14:09:29 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\25\AUT_AssetSeries_0325201720639AssetName_CheckpointFailure_03-25-2017 2-09-29 PM.jpg
+Mar 25,2017 14:09:30 [Info]  *******************Program Summary*******************
+Mar 25,2017 14:09:43 [Info]  Verify The data of Program Summary Header
+<span style="color:red;">Mar 25,2017 14:09:43 [Fail]  ====Failed==== Expected value is:[Program Summary] but Actual value is[]. Please check the screenshot with name: Program Summary Headerfor more details</span>
+Mar 25,2017 14:09:43 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\25\ProgramSummaryHeader_CheckpointFailure_03-25-2017 2-09-43 PM.jpg
+Mar 25,2017 14:09:53 [Info]  =====Source Id is===== No element is present on Web Page (DriverHelper.getAttribute())
+Mar 25,2017 14:10:04 [Info]  Verify The data of Asset Type at Program Summary
+<span style="color:red;">Mar 25,2017 14:10:04 [Fail]  ====Failed==== Expected value is:[Licensed Acquired] but Actual value is[]. Please check the screenshot with name: Asset Type at Program Summaryfor more details</span>
+Mar 25,2017 14:10:04 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\25\AssetTypeatProgramSummary_CheckpointFailure_03-25-2017 2-10-04 PM.jpg
+Mar 25,2017 14:10:04 [Info]  Test 'TC2_ProgramSummary' PASSED
+Mar 25,2017 14:10:05 [Info]  Closed the Browser
+Mar 25,2017 14:10:05 [Info]  *********************Started Executing 'TC3_VerifyProgSum' Test Case*********************
+Mar 25,2017 14:10:13 [Info]  Client: AMCN
+Mar 25,2017 14:10:13 [Info]  URL: http://rlv2wb79/login.aspx
+Mar 25,2017 14:10:13 [Info]  UserName: admin
+Mar 25,2017 14:10:13 [Info]  Password: admin
+Mar 25,2017 14:10:14 [Info]  Entered "admin" in field 'User Name'
+Mar 25,2017 14:10:14 [Info]  Clicked on the 'Temporary Check Box'
+Mar 25,2017 14:10:14 [Info]  Entered "admin" in field 'Password'
+Mar 25,2017 14:10:21 [Info]  Clicked on the 'LoginButton'
+Mar 25,2017 14:10:38 [Info]  Clicked on the 'MODULE'
+Mar 25,2017 14:10:46 [Info]  Clicked on the 'Asset Maintenance'
+Mar 25,2017 14:10:56 [Info]  *************Checking Totals Hrs is updated with Episodes time*******************
+Mar 25,2017 14:11:07 [Info]  Clicked on the 'MODULE'
+Mar 25,2017 14:11:15 [Info]  Clicked on the 'Asset Maintenance'
+<span style="color:red;">Mar 25,2017 14:11:36 [Fail]  ====Failed==== "AUT_AssetSeries_0325201720639AssetName" field is not present'</span>
+Mar 25,2017 14:11:36 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\25\AUT_AssetSeries_0325201720639AssetName_CheckpointFailure_03-25-2017 2-11-36 PM.jpg
+Mar 25,2017 14:11:47 [Info]  ======Total Hrs shown in Program Summary is===== No element is present on Web Page (DriverHelper.getAttribute())
+Mar 25,2017 14:11:47 [Info]  Test 'TC3_VerifyProgSum' PASSED
+Mar 25,2017 14:11:48 [Info]  Closed the Browser
+Mar 25,2017 14:11:48 [Info]  *********************Started Executing 'TC4_ChangeAssetSubType' Test Case*********************
+Mar 25,2017 14:11:56 [Info]  Client: AMCN
+Mar 25,2017 14:11:56 [Info]  URL: http://rlv2wb79/login.aspx
+Mar 25,2017 14:11:56 [Info]  UserName: admin
+Mar 25,2017 14:11:56 [Info]  Password: admin
+Mar 25,2017 14:11:57 [Info]  Entered "admin" in field 'User Name'
+Mar 25,2017 14:11:57 [Info]  Clicked on the 'Temporary Check Box'
+Mar 25,2017 14:11:58 [Info]  Entered "admin" in field 'Password'
+Mar 25,2017 14:12:04 [Info]  Clicked on the 'LoginButton'
+Mar 25,2017 14:12:10 [Info]  **************Started Creating Movie Asset**************
+Mar 25,2017 14:12:21 [Info]  Clicked on the 'MODULE'
+Mar 25,2017 14:12:30 [Info]  Clicked on the 'Asset Maintenance'
+Mar 25,2017 14:12:41 [Info]  Clicked on the 'New Button' using JS Executor
+Mar 25,2017 14:12:41 [Info]  Clicked on the 'Program' using JS Executor
+Mar 25,2017 14:12:50 [Info]  Clicked on the 'General TAB'
+Mar 25,2017 14:12:50 [Info]  Selected "Program - One-Off" in "AssetTypeDropDown" drop down
+Mar 25,2017 14:12:52 [Info]  Clicked on the 'IPImageIcon' using JS Executor
+<span style="color:red;">Mar 25,2017 14:13:02 [Fail]  ====Failed==== " Could not find the Frame: div[id*='WebDialogWindow2'][style*=visible]</span>
+<span style="color:red;">Mar 25,2017 14:13:02 [Fail]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\25\FrameSwitchingFailed1_CheckpointFailure_03-25-2017 2-13-02 PM.jpg</span>
+Mar 25,2017 14:13:02 [Info]  Unable to find element with css selector == div[id*='WebDialogWindow2'][style*=visible] (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.17 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: '9P4G6BS', ip: '10.10.22.71', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=true, ie.forceCreateProcessApi=false, pageLoadStrategy=normal, ie.usePerProcessProxy=false, ignoreZoomSetting=false, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=false, browserName=internet explorer, initialBrowserUrl=http://localhost:48901/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=false, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: 94bfb0f5-f1b1-4ec4-b8e4-92dee01bd432
+*** Element info: {Using=css selector, value=div[id*='WebDialogWindow2'][style*=visible]}
+Mar 25,2017 14:13:12 [Info]  Test 'TC4_ChangeAssetSubType' FAILED
+Mar 25,2017 14:13:12 [Info]  2
+Mar 25,2017 14:13:12 [Info]  Test Case :TC4_ChangeAssetSubType's Screenshot of Failure Page: 
+C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\25\TC4_ChangeAssetSubType_03-25-2017 2-13-12 PM.jpg
+Mar 25,2017 14:13:13 [Info]  Closed the Browser
+Mar 25,2017 14:13:13 [Info]  *********************Started Executing 'TC5_InternalDealforSeriesassets' Test Case*********************
+Mar 25,2017 14:13:22 [Info]  Client: AMCN
+Mar 25,2017 14:13:22 [Info]  URL: http://rlv2wb79/login.aspx
+Mar 25,2017 14:13:22 [Info]  UserName: admin
+Mar 25,2017 14:13:22 [Info]  Password: admin
+Mar 25,2017 14:13:23 [Info]  Entered "admin" in field 'User Name'
+Mar 25,2017 14:13:23 [Info]  Clicked on the 'Temporary Check Box'
+Mar 25,2017 14:13:23 [Info]  Entered "admin" in field 'Password'
+Mar 25,2017 14:13:30 [Info]  Clicked on the 'LoginButton'
+Mar 25,2017 14:13:47 [Info]  Clicked on the 'MODULE'
+Mar 25,2017 14:13:55 [Info]  Clicked on the 'Asset Maintenance'
+Mar 25,2017 14:14:07 [Info]  Clicked on the 'New Button' using JS Executor
+Mar 25,2017 14:14:07 [Info]  Clicked on the 'Program' using JS Executor
+Mar 25,2017 14:14:16 [Info]  Clicked on the 'General TAB'
+Mar 25,2017 14:14:18 [Info]  Selected "Program - Series" in "AssetTypeDropDown" drop down
+Mar 25,2017 14:14:25 [Info]  Entered "AUT_AssetSeries_0325201721336" in field 'AssetTitle'
+Mar 25,2017 14:14:25 [Info]  Selected "TBD" in "Asset Category/Group" drop down
+Mar 25,2017 14:14:25 [Info]  Clicked on the 'Vendor Img Icon' using JS Executor
+Mar 25,2017 14:14:28 [Info]  Entered "AUT_AMCN_Vendor1" in field 'SearchvalueVendor'
+Mar 25,2017 14:14:30 [Info]  Clicked on the 'VendorWindowButtonfind' using JS Executor
+Mar 25,2017 14:14:35 [Info]  Clicked on the 'VendorName At VendorWindow'
+Mar 25,2017 14:14:35 [Info]  Clicked on the 'Vendor Select Button' using JS Executor
+Mar 25,2017 14:14:39 [Info]  Verify The data of Vendor1
+<span style="color:green;">Mar 25,2017 14:14:39 [Verification]  Verified that Expected value :[AUT_AMCN_Vendor1] is matched with Actual value :[AUT_AMCN_Vendor1]</span>
+Mar 25,2017 14:14:39 [Info]  Clicked on the 'SBUImage' using JS Executor
+Mar 25,2017 14:14:47 [Info]  Clicked on the 'First CheckBox At SBU window'
+Mar 25,2017 14:14:49 [Info]  Clicked on the 'Apply Button' using JS Executor
+Mar 25,2017 14:14:50 [Info]  Clicked on the 'IPImageIcon' using JS Executor
+<span style="color:red;">Mar 25,2017 14:15:00 [Fail]  ====Failed==== " Could not find the Frame: div[id*='WebDialogWindow2'][style*=visible]</span>
+<span style="color:red;">Mar 25,2017 14:15:00 [Fail]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\25\FrameSwitchingFailed2_CheckpointFailure_03-25-2017 2-15-00 PM.jpg</span>
+Mar 25,2017 14:15:00 [Info]  Unable to find element with css selector == div[id*='WebDialogWindow2'][style*=visible] (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.16 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: '9P4G6BS', ip: '10.10.22.71', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=true, ie.forceCreateProcessApi=false, pageLoadStrategy=normal, ie.usePerProcessProxy=false, ignoreZoomSetting=false, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=false, browserName=internet explorer, initialBrowserUrl=http://localhost:28828/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=false, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: c2df1d24-5a1d-456a-98a5-192991bde6a8
+*** Element info: {Using=css selector, value=div[id*='WebDialogWindow2'][style*=visible]}
+Mar 25,2017 14:15:10 [Info]  Test 'TC5_InternalDealforSeriesassets' FAILED
+Mar 25,2017 14:15:10 [Info]  2
+Mar 25,2017 14:15:11 [Info]  Test Case :TC5_InternalDealforSeriesassets's Screenshot of Failure Page: 
+C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\25\TC5_InternalDealforSeriesassets_03-25-2017 2-15-10 PM.jpg
+Mar 25,2017 14:15:16 [Info]  Closed the Browser
+Mar 25,2017 14:15:16 [Info]  *********************Started Executing 'TC6_Series_handling' Test Case*********************
+Mar 25,2017 14:15:25 [Info]  Client: AMCN
+Mar 25,2017 14:15:25 [Info]  URL: http://rlv2wb79/login.aspx
+Mar 25,2017 14:15:25 [Info]  UserName: admin
+Mar 25,2017 14:15:25 [Info]  Password: admin
+Mar 25,2017 14:15:26 [Info]  Entered "admin" in field 'User Name'
+Mar 25,2017 14:15:26 [Info]  Clicked on the 'Temporary Check Box'
+Mar 25,2017 14:15:27 [Info]  Entered "admin" in field 'Password'
+Mar 25,2017 14:15:34 [Info]  Clicked on the 'LoginButton'
+Mar 25,2017 14:15:40 [Info]  ************************Started Creating Asset of Type: Program - Series************************
+Mar 25,2017 14:15:51 [Info]  Clicked on the 'MODULE'
+Mar 25,2017 14:15:59 [Info]  Clicked on the 'Asset Maintenance'
+Mar 25,2017 14:16:11 [Info]  Clicked on the 'New Button' using JS Executor
+Mar 25,2017 14:16:11 [Info]  Clicked on the 'Program' using JS Executor
+Mar 25,2017 14:16:20 [Info]  Clicked on the 'General TAB'
+Mar 25,2017 14:16:23 [Info]  Selected "Program - Series" in "AssetTypeDropDown" drop down
+Mar 25,2017 14:16:29 [Info]  Entered "AUT_AssetSeries_0325201721540" in field 'AssetTitle'
+Mar 25,2017 14:16:29 [Info]  Clicked on the 'Vendor Img Icon' using JS Executor
+Mar 25,2017 14:16:32 [Info]  Entered "AUT_AMCN_Vendor1" in field 'SearchvalueVendor'
+Mar 25,2017 14:16:34 [Info]  Clicked on the 'VendorWindowButtonfind' using JS Executor
+Mar 25,2017 14:16:39 [Info]  Clicked on the 'VendorName At VendorWindow'
+Mar 25,2017 14:16:39 [Info]  Clicked on the 'Vendor Select Button' using JS Executor
+Mar 25,2017 14:16:43 [Info]  Verify The data of Vendor1
+<span style="color:green;">Mar 25,2017 14:16:43 [Verification]  Verified that Expected value :[AUT_AMCN_Vendor1] is matched with Actual value :[AUT_AMCN_Vendor1]</span>
+Mar 25,2017 14:16:43 [Info]  Clicked on the 'StudioImageIcon' using JS Executor
+Mar 25,2017 14:16:46 [Info]  Entered "AUT_AMCN_Studio" in field 'Studio Name'
+Mar 25,2017 14:16:46 [Info]  Clicked on the 'Find Button' using JS Executor
+Mar 25,2017 14:16:53 [Info]  Clicked on the 'VendorName At VendorWindow'
+Mar 25,2017 14:16:53 [Info]  Clicked on the 'Vendor Select Button' using JS Executor
+Mar 25,2017 14:16:57 [Info]  Verify The data of Studio/Vendor2
+<span style="color:green;">Mar 25,2017 14:16:57 [Verification]  Verified that Expected value :[AUT_AMCN_Studio] is matched with Actual value :[AUT_AMCN_Studio]</span>
+Mar 25,2017 14:16:57 [Info]  Clicked on the 'SBUImage' using JS Executor
+Mar 25,2017 14:17:04 [Info]  Clicked on the 'First CheckBox At SBU window'
+Mar 25,2017 14:17:06 [Info]  Clicked on the 'Apply Button' using JS Executor
+Mar 25,2017 14:17:07 [Info]  Entered "11:11:11" in field 'Duration'
+Mar 25,2017 14:17:18 [Info]  Selected "Production" in "Asset Status" drop down
+Mar 25,2017 14:17:18 [Info]  Selected "Licensed Acquired" in "Asset Source" drop down
+Mar 25,2017 14:17:19 [Info]  Selected "TBD" in "Asset Category/Group" drop down
+Mar 25,2017 14:17:20 [Info]  Entered "AUT_Series" in field 'Short Name'
+Mar 25,2017 14:17:20 [Info]  Entered "Test" in field 'ProjectID'
+Mar 25,2017 14:17:20 [Info]  Clicked on the 'Save Button' using JS Executor
+Mar 25,2017 14:17:29 [Info]  Verify The data of Created AssetAUT_AssetSeries_0325201721540
+<span style="color:green;">Mar 25,2017 14:17:29 [Verification]  Verified that Expected value :[AUT_AssetSeries_0325201721540] is matched with Actual value :[AUT_AssetSeries_0325201721540]</span>
+Mar 25,2017 14:17:29 [Info]  ************************Created Asset of TypeProgram - Series************************
+Mar 25,2017 14:17:40 [Info]  Clicked on the 'MODULE'
+Mar 25,2017 14:17:49 [Info]  Clicked on the 'Asset Maintenance'
+Mar 25,2017 14:18:10 [Info]  Clicked on the 'MODULE'
+Mar 25,2017 14:18:18 [Info]  Clicked on the 'Asset Maintenance'
+Mar 25,2017 14:18:29 [Info]  Double clicked on 'AUT_AssetSeries_0325201721540AssetName'
+
+<span style="color:blue;"> [Manual Test Step] : TC_AM_GT_002</span>
+Mar 25,2017 14:18:42 [Info]  Clicked on the 'Episodes TAB'
+Mar 25,2017 14:18:42 [Info]  Clicked on the 'Edit Button' using JS Executor
+Mar 25,2017 14:18:44 [Info]  Clicked on the 'Add Episode Button' using JS Executor
+Mar 25,2017 14:18:44 [Info]  Entered "101" in field 'Add Episode Window'
+Mar 25,2017 14:18:48 [Info]  Clicked on the 'OK Button' using JS Executor
+Mar 25,2017 14:18:51 [Info]  Clicked on the 'Season Field of First Row' using JS Executor
+Mar 25,2017 14:18:52 [Info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Mar 25,2017 14:18:53 [Info]  Clicked on the 'Season 1'
+Mar 25,2017 14:18:53 [Info]  Clicked on the 'TBD EpisodeWindow' using JS Executor
+Mar 25,2017 14:18:54 [Info]  Clicked on the 'InitialAirDateEpisodeWindow'
+Mar 25,2017 14:18:54 [Info]  Entered "01/01/2013" in field 'InitialAirDatefield_EpisodeWindow'
+Mar 25,2017 14:18:54 [Info]  Clicked on the 'Season Field of First Row' using JS Executor
+Mar 25,2017 14:18:54 [Info]  Clicked on the 'Add Episode Button' using JS Executor
+Mar 25,2017 14:18:55 [Info]  Entered "102" in field 'Add Episode Window'
+Mar 25,2017 14:18:55 [Info]  Clicked on the 'OK Button' using JS Executor
+Mar 25,2017 14:18:58 [Info]  Clicked on the 'Season Field of Second Row' using JS Executor
+Mar 25,2017 14:19:00 [Info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Mar 25,2017 14:19:00 [Info]  Clicked on the 'Season 1'
+Mar 25,2017 14:19:00 [Info]  Clicked on the 'TBD EpisodeWindow' using JS Executor
+Mar 25,2017 14:19:01 [Info]  Clicked on the 'InitialAirDateEpisodeWindow'
+Mar 25,2017 14:19:01 [Info]  Entered "01/02/2014" in field 'InitialAirDatefield_EpisodeWindow for Second Episode'
+Mar 25,2017 14:19:02 [Info]  Clicked on the 'Season Field of Second Row' using JS Executor
+Mar 25,2017 14:19:02 [Info]  Clicked on the 'Save Button' using JS Executor
+Mar 25,2017 14:19:08 [Info]  Clicked on the 'Close Button at Episode Window' using JS Executor
+
+<span style="color:blue;"> [Manual Test Step] : TC_AM_GT_004</span>
+Mar 25,2017 14:19:15 [Info]  Clicked on the 'General TAB'
+Mar 25,2017 14:19:15 [Info]  *******changing the values in the SBU field and verify >> Save >> verify values in " Series-episodes update window" >> Select First Radio Button "All Associated Episodes" >> 
+Mar 25,2017 14:19:15 [Info]  Clicked on the 'SBUImage' using JS Executor
+Mar 25,2017 14:19:16 [Info]  Verify The data of SBU Window/Owner Channel Header
+<span style="color:red;">Mar 25,2017 14:19:16 [Fail]  ====Failed==== Expected value is:[Source Business Unit Template] but Actual value is[]. Please check the screenshot with name: SBU Window/Owner Channel Headerfor more details</span>
+Mar 25,2017 14:19:16 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\25\SBUWindow/OwnerChannelHeader_CheckpointFailure_03-25-2017 2-19-16 PM.jpg
+<span style="color:red;">Mar 25,2017 14:19:26 [Fail]  ====Failed==== " Could not find the Frame: div[id*='WebDialogWindow2'][style*=visible]</span>
+<span style="color:red;">Mar 25,2017 14:19:26 [Fail]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\25\FrameSwitchingFailed3_CheckpointFailure_03-25-2017 2-19-26 PM.jpg</span>
+Mar 25,2017 14:19:26 [Info]  Unable to find element with css selector == div[id*='WebDialogWindow2'][style*=visible] (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.11 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: '9P4G6BS', ip: '10.10.22.71', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=true, ie.forceCreateProcessApi=false, pageLoadStrategy=normal, ie.usePerProcessProxy=false, ignoreZoomSetting=false, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=false, browserName=internet explorer, initialBrowserUrl=http://localhost:7959/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=false, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: 9a2b5b6e-b442-4046-900d-7beb9099e3bc
+*** Element info: {Using=css selector, value=div[id*='WebDialogWindow2'][style*=visible]}
+Mar 25,2017 14:21:02 [Info]  Could Not find the element with Locator://*[@id='PageContent_pkList_btnSelectAll']
+Mar 25,2017 14:21:02 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\25\WaitForElementIssue0_CheckpointFailure_03-25-2017 2-21-02 PM.jpg
+<span style="color:red;">Mar 25,2017 14:21:12 [Fail]  ====Failed==== "SelectAll CheckBox SBU" field is not present'</span>
+Mar 25,2017 14:21:12 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\25\SelectAllCheckBoxSBU_CheckpointFailure_03-25-2017 2-21-12 PM.jpg
+<span style="color:red;">Mar 25,2017 14:21:25 [Fail]  ====Failed==== "Uncheck Second CheckBox At SBU window" field is not present'</span>
+Mar 25,2017 14:21:25 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\25\UncheckSecondCheckBoxAtSBUwindow_CheckpointFailure_03-25-2017 2-21-25 PM.jpg
+<span style="color:red;">Mar 25,2017 14:21:37 [Fail]  ====Failed==== "Apply Button" field is not present'</span>
+Mar 25,2017 14:21:37 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\25\ApplyButton_CheckpointFailure_03-25-2017 2-21-37 PM.jpg
+Mar 25,2017 14:21:37 [Info]  Clicked on the 'Save Button' using JS Executor
+<span style="color:red;">Mar 25,2017 14:21:53 [Fail]  ====Failed==== " Could not find the Frame: div[id*='WebDialogWindow2'][style*=visible]</span>
+<span style="color:red;">Mar 25,2017 14:21:53 [Fail]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\25\FrameSwitchingFailed4_CheckpointFailure_03-25-2017 2-21-53 PM.jpg</span>
+Mar 25,2017 14:21:53 [Info]  Unable to find element with css selector == div[id*='WebDialogWindow2'][style*=visible] (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.10 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: '9P4G6BS', ip: '10.10.22.71', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=true, ie.forceCreateProcessApi=false, pageLoadStrategy=normal, ie.usePerProcessProxy=false, ignoreZoomSetting=false, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=false, browserName=internet explorer, initialBrowserUrl=http://localhost:7959/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=false, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: 9a2b5b6e-b442-4046-900d-7beb9099e3bc
+*** Element info: {Using=css selector, value=div[id*='WebDialogWindow2'][style*=visible]}
+Mar 25,2017 14:23:27 [Info]  Test 'TC6_Series_handling' FAILED
+Mar 25,2017 14:23:27 [Info]  2
+Mar 25,2017 14:23:27 [Info]  Test Case :TC6_Series_handling's Screenshot of Failure Page: 
+C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\25\TC6_Series_handling_03-25-2017 2-23-27 PM.jpg
+Mar 25,2017 14:23:29 [Info]  Closed the Browser
+Mar 25,2017 14:23:29 [Info]  *********************Started Executing 'TC7_Validate_duplicate_Asset' Test Case*********************
+Mar 25,2017 14:23:37 [Info]  Client: AMCN
+Mar 25,2017 14:23:37 [Info]  URL: http://rlv2wb79/login.aspx
+Mar 25,2017 14:23:37 [Info]  UserName: admin
+Mar 25,2017 14:23:37 [Info]  Password: admin
+Mar 25,2017 14:23:38 [Info]  Entered "admin" in field 'User Name'
+Mar 25,2017 14:23:38 [Info]  Clicked on the 'Temporary Check Box'
+Mar 25,2017 14:23:39 [Info]  Entered "admin" in field 'Password'
+Mar 25,2017 14:23:46 [Info]  Clicked on the 'LoginButton'
+Mar 25,2017 14:23:52 [Info]  Asset01 with prefix 'AUT_AssetSeries_':AUT_AssetSeries_0325201722352
+Mar 25,2017 14:23:52 [Info]  ************************Started Creating Asset of Type: Program - Series************************
+Mar 25,2017 14:24:03 [Info]  Clicked on the 'MODULE'
+Mar 25,2017 14:24:11 [Info]  Clicked on the 'Asset Maintenance'
+Mar 25,2017 14:24:23 [Info]  Clicked on the 'New Button' using JS Executor
+Mar 25,2017 14:24:23 [Info]  Clicked on the 'Program' using JS Executor
+Mar 25,2017 14:24:32 [Info]  Clicked on the 'General TAB'
+Mar 25,2017 14:24:34 [Info]  Selected "Program - Series" in "AssetTypeDropDown" drop down
+Mar 25,2017 14:24:41 [Info]  Entered "AUT_AssetSeries_0325201722352" in field 'AssetTitle'
+Mar 25,2017 14:24:41 [Info]  Clicked on the 'Vendor Img Icon' using JS Executor
+Mar 25,2017 14:24:44 [Info]  Entered "AUT_AMCN_Vendor1" in field 'SearchvalueVendor'
+Mar 25,2017 14:24:46 [Info]  Clicked on the 'VendorWindowButtonfind' using JS Executor
+Mar 25,2017 14:24:51 [Info]  Clicked on the 'VendorName At VendorWindow'
+Mar 25,2017 14:24:51 [Info]  Clicked on the 'Vendor Select Button' using JS Executor
+Mar 25,2017 14:24:54 [Info]  Verify The data of Vendor1
+<span style="color:green;">Mar 25,2017 14:24:54 [Verification]  Verified that Expected value :[AUT_AMCN_Vendor1] is matched with Actual value :[AUT_AMCN_Vendor1]</span>
+Mar 25,2017 14:24:55 [Info]  Clicked on the 'StudioImageIcon' using JS Executor
+Mar 25,2017 14:24:58 [Info]  Entered "AUT_AMCN_Studio" in field 'Studio Name'
+Mar 25,2017 14:24:58 [Info]  Clicked on the 'Find Button' using JS Executor
+Mar 25,2017 14:25:05 [Info]  Clicked on the 'VendorName At VendorWindow'
+Mar 25,2017 14:25:05 [Info]  Clicked on the 'Vendor Select Button' using JS Executor
+Mar 25,2017 14:25:08 [Info]  Verify The data of Studio/Vendor2
+<span style="color:green;">Mar 25,2017 14:25:08 [Verification]  Verified that Expected value :[AUT_AMCN_Studio] is matched with Actual value :[AUT_AMCN_Studio]</span>
+Mar 25,2017 14:25:09 [Info]  Clicked on the 'SBUImage' using JS Executor
+Mar 25,2017 14:25:16 [Info]  Clicked on the 'First CheckBox At SBU window'
+Mar 25,2017 14:25:18 [Info]  Clicked on the 'Apply Button' using JS Executor
+Mar 25,2017 14:25:19 [Info]  Entered "11:11:11" in field 'Duration'
+Mar 25,2017 14:25:30 [Info]  Selected "Production" in "Asset Status" drop down
+Mar 25,2017 14:25:30 [Info]  Selected "Licensed Acquired" in "Asset Source" drop down
+Mar 25,2017 14:25:30 [Info]  Selected "TBD" in "Asset Category/Group" drop down
+Mar 25,2017 14:25:31 [Info]  Entered "AUT_Series" in field 'Short Name'
+Mar 25,2017 14:25:32 [Info]  Entered "Test" in field 'ProjectID'
+Mar 25,2017 14:25:32 [Info]  Clicked on the 'Save Button' using JS Executor
+Mar 25,2017 14:25:41 [Info]  Verify The data of Created AssetAUT_AssetSeries_0325201722352
+<span style="color:green;">Mar 25,2017 14:25:41 [Verification]  Verified that Expected value :[AUT_AssetSeries_0325201722352] is matched with Actual value :[AUT_AssetSeries_0325201722352]</span>
+Mar 25,2017 14:25:41 [Info]  ************************Created Asset of TypeProgram - Series************************
+Mar 25,2017 14:25:41 [Info]  Asset01 with prefix 'RSGA_': RSGA_0325201722352
+Mar 25,2017 14:25:41 [Info]  ************************Started Creating Asset of Type: Program - Series************************
+Mar 25,2017 14:25:52 [Info]  Clicked on the 'MODULE'
+Mar 25,2017 14:26:00 [Info]  Clicked on the 'Asset Maintenance'
+Mar 25,2017 14:26:12 [Info]  Clicked on the 'New Button' using JS Executor
+Mar 25,2017 14:26:12 [Info]  Clicked on the 'Program' using JS Executor
+Mar 25,2017 14:26:21 [Info]  Clicked on the 'General TAB'
+Mar 25,2017 14:26:23 [Info]  Selected "Program - Series" in "AssetTypeDropDown" drop down
+Mar 25,2017 14:26:29 [Info]  Entered "RSGA_0325201722352" in field 'AssetTitle'
+Mar 25,2017 14:26:30 [Info]  Clicked on the 'Vendor Img Icon' using JS Executor
+Mar 25,2017 14:26:32 [Info]  Entered "AUT_AMCN_Vendor1" in field 'SearchvalueVendor'
+Mar 25,2017 14:26:34 [Info]  Clicked on the 'VendorWindowButtonfind' using JS Executor
+Mar 25,2017 14:26:39 [Info]  Clicked on the 'VendorName At VendorWindow'
+Mar 25,2017 14:26:39 [Info]  Clicked on the 'Vendor Select Button' using JS Executor
+Mar 25,2017 14:26:42 [Info]  Verify The data of Vendor1
+<span style="color:green;">Mar 25,2017 14:26:42 [Verification]  Verified that Expected value :[AUT_AMCN_Vendor1] is matched with Actual value :[AUT_AMCN_Vendor1]</span>
+Mar 25,2017 14:26:43 [Info]  Clicked on the 'StudioImageIcon' using JS Executor
+Mar 25,2017 14:26:46 [Info]  Entered "AUT_AMCN_Studio" in field 'Studio Name'
+Mar 25,2017 14:26:46 [Info]  Clicked on the 'Find Button' using JS Executor
+Mar 25,2017 14:26:52 [Info]  Clicked on the 'VendorName At VendorWindow'
+Mar 25,2017 14:26:52 [Info]  Clicked on the 'Vendor Select Button' using JS Executor
+Mar 25,2017 14:26:56 [Info]  Verify The data of Studio/Vendor2
+<span style="color:green;">Mar 25,2017 14:26:56 [Verification]  Verified that Expected value :[AUT_AMCN_Studio] is matched with Actual value :[AUT_AMCN_Studio]</span>
+Mar 25,2017 14:26:56 [Info]  Clicked on the 'SBUImage' using JS Executor
+Mar 25,2017 14:27:03 [Info]  Clicked on the 'First CheckBox At SBU window'
+Mar 25,2017 14:27:05 [Info]  Clicked on the 'Apply Button' using JS Executor
+Mar 25,2017 14:27:06 [Info]  Entered "11:11:11" in field 'Duration'
+Mar 25,2017 14:27:17 [Info]  Selected "Production" in "Asset Status" drop down
+Mar 25,2017 14:27:17 [Info]  Selected "Licensed Acquired" in "Asset Source" drop down
+Mar 25,2017 14:27:18 [Info]  Selected "TBD" in "Asset Category/Group" drop down
+Mar 25,2017 14:27:19 [Info]  Entered "AUT_Series" in field 'Short Name'
+Mar 25,2017 14:27:19 [Info]  Entered "Test" in field 'ProjectID'
+Mar 25,2017 14:27:19 [Info]  Clicked on the 'Save Button' using JS Executor
+Mar 25,2017 14:27:28 [Info]  Verify The data of Created AssetRSGA_0325201722352
+<span style="color:green;">Mar 25,2017 14:27:28 [Verification]  Verified that Expected value :[RSGA_0325201722352] is matched with Actual value :[RSGA_0325201722352]</span>
+Mar 25,2017 14:27:28 [Info]  ************************Created Asset of TypeProgram - Series************************
+Mar 25,2017 14:27:28 [Info]  Asset02 with prefix 'The RSGB_': The RSGB_0325201722352
+Mar 25,2017 14:27:28 [Info]  ************************Started Creating Asset of Type: Program - Series************************
+Mar 25,2017 14:27:39 [Info]  Clicked on the 'MODULE'
+Mar 25,2017 14:27:48 [Info]  Clicked on the 'Asset Maintenance'
+Mar 25,2017 14:27:59 [Info]  Clicked on the 'New Button' using JS Executor
+Mar 25,2017 14:27:59 [Info]  Clicked on the 'Program' using JS Executor
+Mar 25,2017 14:28:08 [Info]  Clicked on the 'General TAB'
+Mar 25,2017 14:28:11 [Info]  Selected "Program - Series" in "AssetTypeDropDown" drop down
+Mar 25,2017 14:28:17 [Info]  Entered "The RSGB_0325201722352" in field 'AssetTitle'
+Mar 25,2017 14:28:17 [Info]  Clicked on the 'Vendor Img Icon' using JS Executor
+Mar 25,2017 14:28:19 [Info]  Entered "AUT_AMCN_Vendor1" in field 'SearchvalueVendor'
+Mar 25,2017 14:28:21 [Info]  Clicked on the 'VendorWindowButtonfind' using JS Executor
+Mar 25,2017 14:28:26 [Info]  Clicked on the 'VendorName At VendorWindow'
+Mar 25,2017 14:28:26 [Info]  Clicked on the 'Vendor Select Button' using JS Executor
+Mar 25,2017 14:28:30 [Info]  Verify The data of Vendor1
+<span style="color:green;">Mar 25,2017 14:28:30 [Verification]  Verified that Expected value :[AUT_AMCN_Vendor1] is matched with Actual value :[AUT_AMCN_Vendor1]</span>
+Mar 25,2017 14:28:30 [Info]  Clicked on the 'StudioImageIcon' using JS Executor
+Mar 25,2017 14:28:33 [Info]  Entered "AUT_AMCN_Studio" in field 'Studio Name'
+Mar 25,2017 14:28:33 [Info]  Clicked on the 'Find Button' using JS Executor
+Mar 25,2017 14:28:39 [Info]  Clicked on the 'VendorName At VendorWindow'
+Mar 25,2017 14:28:40 [Info]  Clicked on the 'Vendor Select Button' using JS Executor
+Mar 25,2017 14:28:43 [Info]  Verify The data of Studio/Vendor2
+<span style="color:green;">Mar 25,2017 14:28:43 [Verification]  Verified that Expected value :[AUT_AMCN_Studio] is matched with Actual value :[AUT_AMCN_Studio]</span>
+Mar 25,2017 14:28:43 [Info]  Clicked on the 'SBUImage' using JS Executor
+Mar 25,2017 14:28:50 [Info]  Clicked on the 'First CheckBox At SBU window'
+Mar 25,2017 14:28:52 [Info]  Clicked on the 'Apply Button' using JS Executor
+Mar 25,2017 14:28:53 [Info]  Entered "11:11:11" in field 'Duration'
+Mar 25,2017 14:29:04 [Info]  Selected "Production" in "Asset Status" drop down
+Mar 25,2017 14:29:04 [Info]  Selected "Licensed Acquired" in "Asset Source" drop down
+Mar 25,2017 14:29:05 [Info]  Selected "TBD" in "Asset Category/Group" drop down
+Mar 25,2017 14:29:06 [Info]  Entered "AUT_Series" in field 'Short Name'
+Mar 25,2017 14:29:06 [Info]  Entered "Test" in field 'ProjectID'
+Mar 25,2017 14:29:07 [Info]  Clicked on the 'Save Button' using JS Executor
+Mar 25,2017 14:29:15 [Info]  Verify The data of Created AssetThe RSGB_0325201722352
+<span style="color:green;">Mar 25,2017 14:29:15 [Verification]  Verified that Expected value :[The RSGB_0325201722352] is matched with Actual value :[The RSGB_0325201722352]</span>
+Mar 25,2017 14:29:15 [Info]  ************************Created Asset of TypeProgram - Series************************
+Mar 25,2017 14:29:15 [Info]  Asset03 with prefix 'An_RSGC_': An_RSGC_0325201722352
+Mar 25,2017 14:29:15 [Info]  ************************Started Creating Asset of Type: Program - Series************************
+Mar 25,2017 14:29:27 [Info]  Clicked on the 'MODULE'
+Mar 25,2017 14:29:35 [Info]  Clicked on the 'Asset Maintenance'
+Mar 25,2017 14:29:47 [Info]  Clicked on the 'New Button' using JS Executor
+Mar 25,2017 14:29:47 [Info]  Clicked on the 'Program' using JS Executor
+Mar 25,2017 14:29:56 [Info]  Clicked on the 'General TAB'
+Mar 25,2017 14:29:58 [Info]  Selected "Program - Series" in "AssetTypeDropDown" drop down
+Mar 25,2017 14:30:04 [Info]  Entered "An_RSGC_0325201722352" in field 'AssetTitle'
+Mar 25,2017 14:30:05 [Info]  Clicked on the 'Vendor Img Icon' using JS Executor
+Mar 25,2017 14:30:07 [Info]  Entered "AUT_AMCN_Vendor1" in field 'SearchvalueVendor'
+Mar 25,2017 14:30:09 [Info]  Clicked on the 'VendorWindowButtonfind' using JS Executor
+Mar 25,2017 14:30:14 [Info]  Clicked on the 'VendorName At VendorWindow'
+Mar 25,2017 14:30:14 [Info]  Clicked on the 'Vendor Select Button' using JS Executor
+Mar 25,2017 14:30:17 [Info]  Verify The data of Vendor1
+<span style="color:green;">Mar 25,2017 14:30:17 [Verification]  Verified that Expected value :[AUT_AMCN_Vendor1] is matched with Actual value :[AUT_AMCN_Vendor1]</span>
+Mar 25,2017 14:30:18 [Info]  Clicked on the 'StudioImageIcon' using JS Executor
+Mar 25,2017 14:30:20 [Info]  Entered "AUT_AMCN_Studio" in field 'Studio Name'
+Mar 25,2017 14:30:21 [Info]  Clicked on the 'Find Button' using JS Executor
+Mar 25,2017 14:30:27 [Info]  Clicked on the 'VendorName At VendorWindow'
+Mar 25,2017 14:30:27 [Info]  Clicked on the 'Vendor Select Button' using JS Executor
+Mar 25,2017 14:30:31 [Info]  Verify The data of Studio/Vendor2
+<span style="color:green;">Mar 25,2017 14:30:31 [Verification]  Verified that Expected value :[AUT_AMCN_Studio] is matched with Actual value :[AUT_AMCN_Studio]</span>
+Mar 25,2017 14:30:31 [Info]  Clicked on the 'SBUImage' using JS Executor
+Mar 25,2017 14:30:38 [Info]  Clicked on the 'First CheckBox At SBU window'
+Mar 25,2017 14:30:40 [Info]  Clicked on the 'Apply Button' using JS Executor
+Mar 25,2017 14:30:41 [Info]  Entered "11:11:11" in field 'Duration'
+Mar 25,2017 14:30:52 [Info]  Selected "Production" in "Asset Status" drop down
+Mar 25,2017 14:30:52 [Info]  Selected "Licensed Acquired" in "Asset Source" drop down
+Mar 25,2017 14:30:53 [Info]  Selected "TBD" in "Asset Category/Group" drop down
+Mar 25,2017 14:30:54 [Info]  Entered "AUT_Series" in field 'Short Name'
+Mar 25,2017 14:30:54 [Info]  Entered "Test" in field 'ProjectID'
+Mar 25,2017 14:30:54 [Info]  Clicked on the 'Save Button' using JS Executor
+Mar 25,2017 14:31:03 [Info]  Verify The data of Created AssetAn_RSGC_0325201722352
+<span style="color:green;">Mar 25,2017 14:31:03 [Verification]  Verified that Expected value :[An_RSGC_0325201722352] is matched with Actual value :[An_RSGC_0325201722352]</span>
+Mar 25,2017 14:31:03 [Info]  ************************Created Asset of TypeProgram - Series************************
+Mar 25,2017 14:31:03 [Info]  Asset04 with prefix '@ RSGD_': @ RSGD_0325201722352
+Mar 25,2017 14:31:03 [Info]  ************************Started Creating Asset of Type: Program - Series************************
+Mar 25,2017 14:31:14 [Info]  Clicked on the 'MODULE'
+Mar 25,2017 14:31:23 [Info]  Clicked on the 'Asset Maintenance'
+Mar 25,2017 14:31:34 [Info]  Clicked on the 'New Button' using JS Executor
+Mar 25,2017 14:31:35 [Info]  Clicked on the 'Program' using JS Executor
+Mar 25,2017 14:31:44 [Info]  Clicked on the 'General TAB'
+Mar 25,2017 14:31:46 [Info]  Selected "Program - Series" in "AssetTypeDropDown" drop down
+Mar 25,2017 14:31:52 [Info]  Entered "@ RSGD_0325201722352" in field 'AssetTitle'
+Mar 25,2017 14:31:52 [Info]  Clicked on the 'Vendor Img Icon' using JS Executor
+Mar 25,2017 14:31:54 [Info]  Entered "AUT_AMCN_Vendor1" in field 'SearchvalueVendor'
+Mar 25,2017 14:31:57 [Info]  Clicked on the 'VendorWindowButtonfind' using JS Executor
+Mar 25,2017 14:32:01 [Info]  Clicked on the 'VendorName At VendorWindow'
+Mar 25,2017 14:32:02 [Info]  Clicked on the 'Vendor Select Button' using JS Executor
+Mar 25,2017 14:32:05 [Info]  Verify The data of Vendor1
+<span style="color:green;">Mar 25,2017 14:32:05 [Verification]  Verified that Expected value :[AUT_AMCN_Vendor1] is matched with Actual value :[AUT_AMCN_Vendor1]</span>
+Mar 25,2017 14:32:06 [Info]  Clicked on the 'StudioImageIcon' using JS Executor
+Mar 25,2017 14:32:08 [Info]  Entered "AUT_AMCN_Studio" in field 'Studio Name'
+Mar 25,2017 14:32:08 [Info]  Clicked on the 'Find Button' using JS Executor
+Mar 25,2017 14:32:15 [Info]  Clicked on the 'VendorName At VendorWindow'
+Mar 25,2017 14:32:15 [Info]  Clicked on the 'Vendor Select Button' using JS Executor
+Mar 25,2017 14:32:18 [Info]  Verify The data of Studio/Vendor2
+<span style="color:green;">Mar 25,2017 14:32:18 [Verification]  Verified that Expected value :[AUT_AMCN_Studio] is matched with Actual value :[AUT_AMCN_Studio]</span>
+Mar 25,2017 14:32:19 [Info]  Clicked on the 'SBUImage' using JS Executor
+Mar 25,2017 14:32:26 [Info]  Clicked on the 'First CheckBox At SBU window'
+Mar 25,2017 14:32:28 [Info]  Clicked on the 'Apply Button' using JS Executor
+Mar 25,2017 14:32:29 [Info]  Entered "11:11:11" in field 'Duration'
+Mar 25,2017 14:32:40 [Info]  Selected "Production" in "Asset Status" drop down
+Mar 25,2017 14:32:40 [Info]  Selected "Licensed Acquired" in "Asset Source" drop down
+Mar 25,2017 14:32:41 [Info]  Selected "TBD" in "Asset Category/Group" drop down
+Mar 25,2017 14:32:42 [Info]  Entered "AUT_Series" in field 'Short Name'
+Mar 25,2017 14:32:42 [Info]  Entered "Test" in field 'ProjectID'
+Mar 25,2017 14:32:42 [Info]  Clicked on the 'Save Button' using JS Executor
+Mar 25,2017 14:32:51 [Info]  Verify The data of Created Asset@ RSGD_0325201722352
+<span style="color:green;">Mar 25,2017 14:32:51 [Verification]  Verified that Expected value :[@ RSGD_0325201722352] is matched with Actual value :[@ RSGD_0325201722352]</span>
+Mar 25,2017 14:32:51 [Info]  ************************Created Asset of TypeProgram - Series************************
+Mar 25,2017 14:33:02 [Info]  Clicked on the 'MODULE'
+Mar 25,2017 14:33:10 [Info]  Clicked on the 'Asset Maintenance'
+Mar 25,2017 14:33:21 [Info]  Double clicked on 'AUT_AssetSeries_0325201722352AssetName'
+Mar 25,2017 14:33:28 [Info]  Entered "RSGA_0325201722352" in field 'Asset Title Field'
+Mar 25,2017 14:33:30 [Info]  Clicked on the 'AssetTitleImageIcon'
+<span style="color:red;">Mar 25,2017 14:33:40 [Fail]  ====Failed==== " Could not find the Frame: div[id*='WebDialogWindow2'][style*=visible]</span>
+<span style="color:red;">Mar 25,2017 14:33:40 [Fail]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\25\FrameSwitchingFailed5_CheckpointFailure_03-25-2017 2-33-40 PM.jpg</span>
+Mar 25,2017 14:33:40 [Info]  Unable to find element with css selector == div[id*='WebDialogWindow2'][style*=visible] (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.01 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: '9P4G6BS', ip: '10.10.22.71', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=true, ie.forceCreateProcessApi=false, pageLoadStrategy=normal, ie.usePerProcessProxy=false, ignoreZoomSetting=false, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=false, browserName=internet explorer, initialBrowserUrl=http://localhost:27681/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=false, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: ec66ba62-27f5-42c4-bd48-9129abe64e38
+*** Element info: {Using=css selector, value=div[id*='WebDialogWindow2'][style*=visible]}
+Mar 25,2017 14:33:50 [Info]  Verify The data of TitleHeader at Asset Title Window
+<span style="color:red;">Mar 25,2017 14:33:50 [Fail]  ====Failed==== Expected value is:[Title] but Actual value is[]. Please check the screenshot with name: TitleHeader at Asset Title Windowfor more details</span>
+Mar 25,2017 14:33:50 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\25\TitleHeaderatAssetTitleWindow_CheckpointFailure_03-25-2017 2-33-50 PM.jpg
+Mar 25,2017 14:34:00 [Info]  Verify The data of AKA Titles at Asset Title Window
+<span style="color:red;">Mar 25,2017 14:34:00 [Fail]  ====Failed==== Expected value is:[AKA Titles] but Actual value is[]. Please check the screenshot with name: AKA Titles at Asset Title Windowfor more details</span>
+Mar 25,2017 14:34:01 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\25\AKATitlesatAssetTitleWindow_CheckpointFailure_03-25-2017 2-34-00 PM.jpg
+Mar 25,2017 14:34:11 [Info]  Verify The data of Asset Type at Asset Title Window
+<span style="color:red;">Mar 25,2017 14:34:11 [Fail]  ====Failed==== Expected value is:[Asset Type] but Actual value is[]. Please check the screenshot with name: Asset Type at Asset Title Windowfor more details</span>
+Mar 25,2017 14:34:11 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\25\AssetTypeatAssetTitleWindow_CheckpointFailure_03-25-2017 2-34-11 PM.jpg
+Mar 25,2017 14:34:21 [Info]  Verify The data of Release Yr at Asset Title Window
+<span style="color:red;">Mar 25,2017 14:34:21 [Fail]  ====Failed==== Expected value is:[Release Yr] but Actual value is[]. Please check the screenshot with name: Release Yr at Asset Title Windowfor more details</span>
+Mar 25,2017 14:34:21 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\25\ReleaseYratAssetTitleWindow_CheckpointFailure_03-25-2017 2-34-21 PM.jpg
+Mar 25,2017 14:34:31 [Info]  Verify The data of Director/Artist at Asset Title Window
+<span style="color:red;">Mar 25,2017 14:34:31 [Fail]  ====Failed==== Expected value is:[Director/Artist] but Actual value is[]. Please check the screenshot with name: Director/Artist at Asset Title Windowfor more details</span>
+Mar 25,2017 14:34:31 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\25\Director/ArtistatAssetTitleWindow_CheckpointFailure_03-25-2017 2-34-31 PM.jpg
+Mar 25,2017 14:34:42 [Info]  Verify The data of Save Button at Asset Title Window
+<span style="color:red;">Mar 25,2017 14:34:42 [Fail]  ====Failed==== Expected value is:[Save] but Actual value is[]. Please check the screenshot with name: Save Button at Asset Title Windowfor more details</span>
+Mar 25,2017 14:34:42 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\25\SaveButtonatAssetTitleWindow_CheckpointFailure_03-25-2017 2-34-42 PM.jpg
+Mar 25,2017 14:34:52 [Info]  Verify The data of Cancel Button at Asset Title Window
+<span style="color:red;">Mar 25,2017 14:34:52 [Fail]  ====Failed==== Expected value is:[Cancel] but Actual value is[]. Please check the screenshot with name: Cancel Button at Asset Title Windowfor more details</span>
+Mar 25,2017 14:34:52 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\25\CancelButtonatAssetTitleWindow_CheckpointFailure_03-25-2017 2-34-52 PM.jpg
+Mar 25,2017 14:35:02 [Info]  Verify The data of Asset Title in Asset title Window Box
+<span style="color:red;">Mar 25,2017 14:35:02 [Fail]  ====Failed==== Expected value is:[RSGA_0325201722352 Program - Series] but Actual value is[]. Please check the screenshot with name: Asset Title in Asset title Window Boxfor more details</span>
+Mar 25,2017 14:35:02 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\25\AssetTitleinAssettitleWindowBox_CheckpointFailure_03-25-2017 2-35-02 PM.jpg
+<span style="color:red;">Mar 25,2017 14:35:13 [Fail]  ====Failed==== "Cancel Button at Asset Title Window" field is not present'</span>
+Mar 25,2017 14:35:13 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\25\CancelButtonatAssetTitleWindow_CheckpointFailure_03-25-2017 2-35-13 PM.jpg
+Mar 25,2017 14:35:13 [Info]  Enter the Asset Name The RSGB_0325201722352 >> click on "Validate Asset Title" Icon >> Verify Asset Name in the opened window
+Mar 25,2017 14:35:14 [Info]  Entered "The RSGB_0325201722352" in field 'Asset Title Field'
+Mar 25,2017 14:35:14 [Info]  Clicked on the 'AssetTitleImageIcon'
+<span style="color:red;">Mar 25,2017 14:35:24 [Fail]  ====Failed==== " Could not find the Frame: div[id*='WebDialogWindow2'][style*=visible]</span>
+<span style="color:red;">Mar 25,2017 14:35:25 [Fail]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\25\FrameSwitchingFailed6_CheckpointFailure_03-25-2017 2-35-24 PM.jpg</span>
+Mar 25,2017 14:35:25 [Info]  Unable to find element with css selector == div[id*='WebDialogWindow2'][style*=visible] (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.05 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: '9P4G6BS', ip: '10.10.22.71', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=true, ie.forceCreateProcessApi=false, pageLoadStrategy=normal, ie.usePerProcessProxy=false, ignoreZoomSetting=false, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=false, browserName=internet explorer, initialBrowserUrl=http://localhost:27681/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=false, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: ec66ba62-27f5-42c4-bd48-9129abe64e38
+*** Element info: {Using=css selector, value=div[id*='WebDialogWindow2'][style*=visible]}
+Mar 25,2017 14:35:35 [Info]  Verify The data of Asset Title in Asset title Window Box
+<span style="color:red;">Mar 25,2017 14:35:35 [Fail]  ====Failed==== Expected value is:[The RSGB_0325201722352 Program - Series] but Actual value is[]. Please check the screenshot with name: Asset Title in Asset title Window Boxfor more details</span>
+Mar 25,2017 14:35:35 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\25\AssetTitleinAssettitleWindowBox_CheckpointFailure_03-25-2017 2-35-35 PM.jpg
+<span style="color:red;">Mar 25,2017 14:35:45 [Fail]  ====Failed==== "Cancel Button at Asset Title Window" field is not present'</span>
+Mar 25,2017 14:35:45 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\25\CancelButtonatAssetTitleWindow_CheckpointFailure_03-25-2017 2-35-45 PM.jpg
+Mar 25,2017 14:35:45 [Info]  Enter the Asset Name An_RSGC_0325201722352 >> click on "Validate Asset Title" Icon >> Verify Asset Name in the opened window
+Mar 25,2017 14:35:47 [Info]  Entered "An_RSGC_0325201722352" in field 'Asset Title Field'
+Mar 25,2017 14:35:47 [Info]  Clicked on the 'AssetTitleImageIcon'
+<span style="color:red;">Mar 25,2017 14:35:57 [Fail]  ====Failed==== " Could not find the Frame: div[id*='WebDialogWindow2'][style*=visible]</span>
+<span style="color:red;">Mar 25,2017 14:35:57 [Fail]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\25\FrameSwitchingFailed7_CheckpointFailure_03-25-2017 2-35-57 PM.jpg</span>
+Mar 25,2017 14:35:57 [Info]  Unable to find element with css selector == div[id*='WebDialogWindow2'][style*=visible] (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.07 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: '9P4G6BS', ip: '10.10.22.71', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=true, ie.forceCreateProcessApi=false, pageLoadStrategy=normal, ie.usePerProcessProxy=false, ignoreZoomSetting=false, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=false, browserName=internet explorer, initialBrowserUrl=http://localhost:27681/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=false, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: ec66ba62-27f5-42c4-bd48-9129abe64e38
+*** Element info: {Using=css selector, value=div[id*='WebDialogWindow2'][style*=visible]}
+Mar 25,2017 14:36:07 [Info]  Verify The data of Asset Title in Asset title Window Box
+<span style="color:red;">Mar 25,2017 14:36:07 [Fail]  ====Failed==== Expected value is:[An_RSGC_0325201722352 Program - Series] but Actual value is[]. Please check the screenshot with name: Asset Title in Asset title Window Boxfor more details</span>
+Mar 25,2017 14:36:07 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\25\AssetTitleinAssettitleWindowBox_CheckpointFailure_03-25-2017 2-36-07 PM.jpg
+<span style="color:red;">Mar 25,2017 14:36:18 [Fail]  ====Failed==== "Cancel Button at Asset Title Window" field is not present'</span>
+Mar 25,2017 14:36:18 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\25\CancelButtonatAssetTitleWindow_CheckpointFailure_03-25-2017 2-36-18 PM.jpg
+Mar 25,2017 14:36:18 [Info]  Enter the Asset Name @ RSGD_0325201722352 >> click on "Validate Asset Title" Icon >> Verify Asset Name in the opened window
+Mar 25,2017 14:36:19 [Info]  Entered "@ RSGD_0325201722352" in field 'Asset Title Field'
+Mar 25,2017 14:36:19 [Info]  Clicked on the 'AssetTitleImageIcon'
+<span style="color:red;">Mar 25,2017 14:36:30 [Fail]  ====Failed==== " Could not find the Frame: div[id*='WebDialogWindow2'][style*=visible]</span>
+<span style="color:red;">Mar 25,2017 14:36:30 [Fail]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\25\FrameSwitchingFailed8_CheckpointFailure_03-25-2017 2-36-30 PM.jpg</span>
+Mar 25,2017 14:36:30 [Info]  Unable to find element with css selector == div[id*='WebDialogWindow2'][style*=visible] (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.08 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: '9P4G6BS', ip: '10.10.22.71', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=true, ie.forceCreateProcessApi=false, pageLoadStrategy=normal, ie.usePerProcessProxy=false, ignoreZoomSetting=false, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=false, browserName=internet explorer, initialBrowserUrl=http://localhost:27681/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=false, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: ec66ba62-27f5-42c4-bd48-9129abe64e38
+*** Element info: {Using=css selector, value=div[id*='WebDialogWindow2'][style*=visible]}
+Mar 25,2017 14:36:40 [Info]  Verify The data of Asset Title in Asset title Window Box
+<span style="color:red;">Mar 25,2017 14:36:40 [Fail]  ====Failed==== Expected value is:[@ RSGD_0325201722352 Program - Series] but Actual value is[]. Please check the screenshot with name: Asset Title in Asset title Window Boxfor more details</span>
+Mar 25,2017 14:36:40 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\25\AssetTitleinAssettitleWindowBox_CheckpointFailure_03-25-2017 2-36-40 PM.jpg
+<span style="color:red;">Mar 25,2017 14:36:50 [Fail]  ====Failed==== "Cancel Button at Asset Title Window" field is not present'</span>
+Mar 25,2017 14:36:50 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\25\CancelButtonatAssetTitleWindow_CheckpointFailure_03-25-2017 2-36-50 PM.jpg
+Mar 25,2017 14:36:50 [Info]  Enter the Asset Name RSGA_0325201722352 >> click on "Save Button" >> Verify Aset Title Validation Window Opens
+Mar 25,2017 14:36:52 [Info]  Entered "RSGA_0325201722352" in field 'Asset Title Field'
+Mar 25,2017 14:36:52 [Info]  Clicked on the 'Save Button' using JS Executor
+<span style="color:red;">Mar 25,2017 14:37:07 [Fail]  ====Failed==== " Could not find the Frame: div[id*='WebDialogWindow2'][style*=visible]</span>
+<span style="color:red;">Mar 25,2017 14:37:07 [Fail]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\25\FrameSwitchingFailed9_CheckpointFailure_03-25-2017 2-37-07 PM.jpg</span>
+Mar 25,2017 14:37:07 [Info]  Unable to find element with css selector == div[id*='WebDialogWindow2'][style*=visible] (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.29 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: '9P4G6BS', ip: '10.10.22.71', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=true, ie.forceCreateProcessApi=false, pageLoadStrategy=normal, ie.usePerProcessProxy=false, ignoreZoomSetting=false, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=false, browserName=internet explorer, initialBrowserUrl=http://localhost:27681/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=false, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: ec66ba62-27f5-42c4-bd48-9129abe64e38
+*** Element info: {Using=css selector, value=div[id*='WebDialogWindow2'][style*=visible]}
+<span style="color:red;">Mar 25,2017 14:37:17 [Fail]  ====Failed==== "Cancel Button at Asset title Window" field is not present'</span>
+Mar 25,2017 14:37:17 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\25\CancelButtonatAssettitleWindow_CheckpointFailure_03-25-2017 2-37-17 PM.jpg
+Mar 25,2017 14:37:17 [Info]  *****Enter the Asset Name The RSGB_0325201722352 >> click on "Save Button" >> Verify Aset Title Validation Window Opens
+Mar 25,2017 14:37:19 [Info]  Entered "The RSGB_0325201722352" in field 'Asset Title Field'
+Mar 25,2017 14:37:19 [Info]  Clicked on the 'Save Button' using JS Executor
+<span style="color:red;">Mar 25,2017 14:37:32 [Fail]  ====Failed==== " Could not find the Frame: div[id*='WebDialogWindow2'][style*=visible]</span>
+<span style="color:red;">Mar 25,2017 14:37:32 [Fail]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\25\FrameSwitchingFailed10_CheckpointFailure_03-25-2017 2-37-32 PM.jpg</span>
+Mar 25,2017 14:37:32 [Info]  Unable to find element with css selector == div[id*='WebDialogWindow2'][style*=visible] (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.29 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: '9P4G6BS', ip: '10.10.22.71', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=true, ie.forceCreateProcessApi=false, pageLoadStrategy=normal, ie.usePerProcessProxy=false, ignoreZoomSetting=false, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=false, browserName=internet explorer, initialBrowserUrl=http://localhost:27681/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=false, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: ec66ba62-27f5-42c4-bd48-9129abe64e38
+*** Element info: {Using=css selector, value=div[id*='WebDialogWindow2'][style*=visible]}
+<span style="color:red;">Mar 25,2017 14:37:42 [Fail]  ====Failed==== "Cancel Button" field is not present'</span>
+Mar 25,2017 14:37:43 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\25\CancelButton_CheckpointFailure_03-25-2017 2-37-42 PM.jpg
+Mar 25,2017 14:37:43 [Info]  *****Enter the Asset Name An_RSGC_0325201722352 >> click on "Save Button" >> Verify Aset Title Validation Window Opens
+Mar 25,2017 14:37:44 [Info]  Entered "An_RSGC_0325201722352" in field 'Asset Title Field'
+Mar 25,2017 14:37:44 [Info]  Clicked on the 'Save Button' using JS Executor
+<span style="color:red;">Mar 25,2017 14:37:57 [Fail]  ====Failed==== " Could not find the Frame: div[id*='WebDialogWindow2'][style*=visible]</span>
+<span style="color:red;">Mar 25,2017 14:37:58 [Fail]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\25\FrameSwitchingFailed11_CheckpointFailure_03-25-2017 2-37-57 PM.jpg</span>
+Mar 25,2017 14:37:58 [Info]  Unable to find element with css selector == div[id*='WebDialogWindow2'][style*=visible] (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.23 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: '9P4G6BS', ip: '10.10.22.71', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=true, ie.forceCreateProcessApi=false, pageLoadStrategy=normal, ie.usePerProcessProxy=false, ignoreZoomSetting=false, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=false, browserName=internet explorer, initialBrowserUrl=http://localhost:27681/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=false, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: ec66ba62-27f5-42c4-bd48-9129abe64e38
+*** Element info: {Using=css selector, value=div[id*='WebDialogWindow2'][style*=visible]}
+<span style="color:red;">Mar 25,2017 14:38:08 [Fail]  ====Failed==== "Cancel Button" field is not present'</span>
+Mar 25,2017 14:38:08 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\25\CancelButton_CheckpointFailure_03-25-2017 2-38-08 PM.jpg
+Mar 25,2017 14:38:08 [Info]  *****Enter the Asset Name @ RSGD_0325201722352 >> click on "Save Button" >> Verify Aset Title Validation Window Opens
+Mar 25,2017 14:38:09 [Info]  Entered "@ RSGD_0325201722352" in field 'Asset Title Field'
+Mar 25,2017 14:38:09 [Info]  Clicked on the 'Save Button Menu Bar' using JS Executor
+<span style="color:red;">Mar 25,2017 14:38:23 [Fail]  ====Failed==== " Could not find the Frame: div[id*='WebDialogWindow2'][style*=visible]</span>
+<span style="color:red;">Mar 25,2017 14:38:23 [Fail]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\25\FrameSwitchingFailed12_CheckpointFailure_03-25-2017 2-38-23 PM.jpg</span>
+Mar 25,2017 14:38:23 [Info]  Unable to find element with css selector == div[id*='WebDialogWindow2'][style*=visible] (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.28 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: '9P4G6BS', ip: '10.10.22.71', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=true, ie.forceCreateProcessApi=false, pageLoadStrategy=normal, ie.usePerProcessProxy=false, ignoreZoomSetting=false, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=false, browserName=internet explorer, initialBrowserUrl=http://localhost:27681/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=false, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: ec66ba62-27f5-42c4-bd48-9129abe64e38
+*** Element info: {Using=css selector, value=div[id*='WebDialogWindow2'][style*=visible]}
+<span style="color:red;">Mar 25,2017 14:38:33 [Fail]  ====Failed==== "Cancel Button" field is not present'</span>
+Mar 25,2017 14:38:33 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\25\CancelButton_CheckpointFailure_03-25-2017 2-38-33 PM.jpg
+Mar 25,2017 14:38:33 [Info]  Test 'TC7_Validate_duplicate_Asset' PASSED
+Mar 25,2017 14:38:35 [Info]  Closed the Browser

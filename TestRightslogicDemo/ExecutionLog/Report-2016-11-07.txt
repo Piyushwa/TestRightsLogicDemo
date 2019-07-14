@@ -1,0 +1,1224 @@
+Nov 07,2016 09:06:35 [info]  ********************Started Executiong the Test Suite at 09:06:35******************
+Nov 07,2016 09:06:35 [info]  Client: AMCN
+Nov 07,2016 09:06:35 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Nov 07,2016 09:06:35 [info]  *********************Started Executing 'TC1_MediaRightsUI' Test Case*********************
+Nov 07,2016 09:06:46 [info]  Client: AMCN
+Nov 07,2016 09:06:46 [info]  URL: http://rlv2wb79/login.aspx
+Nov 07,2016 09:06:46 [info]  UserName: automation
+Nov 07,2016 09:06:46 [info]  Password: automation
+Nov 07,2016 09:06:47 [info]  Entered "automation" in field 'User Name'
+Nov 07,2016 09:06:47 [info]  Clicked on the 'Temporary Check Box'
+Nov 07,2016 09:06:47 [info]  Entered "automation" in field 'Password'
+Nov 07,2016 09:06:54 [info]  Clicked on the 'LoginButton'
+Nov 07,2016 09:07:01 [info]  ************************Started Creating Asset of Type: Program - Series************************
+Nov 07,2016 09:07:04 [info]  Clicked on the 'MODULE'
+Nov 07,2016 09:07:11 [info]  Clicked on the 'Asset Maintenance'
+Nov 07,2016 09:07:18 [info]  Clicked on the 'New Button' using JS Executor
+Nov 07,2016 09:07:23 [info]  Clicked on the 'Program' using JS Executor
+Nov 07,2016 09:07:31 [info]  Clicked on the 'General TAB'
+Nov 07,2016 09:07:35 [info]  Selected "Program - Series" in "AssetTypeDropDown" drop down
+Nov 07,2016 09:07:39 [info]  Entered "AUT_AssetSeries_1102201685101" in field 'AssetTitle'
+Nov 07,2016 09:07:40 [info]  Clicked on the 'Vendor Img Icon' using JS Executor
+Nov 07,2016 09:07:40 [info]  Entered "AUT_AMCN_Vendor1" in field 'SearchvalueVendor'
+Nov 07,2016 09:07:43 [info]  Clicked on the 'VendorWindowButtonfind' using JS Executor
+Nov 07,2016 09:07:49 [info]  Clicked on the 'VendorName At VendorWindow'
+Nov 07,2016 09:07:49 [info]  Clicked on the 'Vendor Select Button' using JS Executor
+Nov 07,2016 09:07:53 [info]  Clicked on the 'StudioImageIcon' using JS Executor
+Nov 07,2016 09:07:54 [info]  Verified that Expected value :[Studio] is matched with Actual value :[Studio]
+Nov 07,2016 09:07:54 [info]  Entered "AUT_AMCN_Studio" in field 'Studio Name'
+Nov 07,2016 09:07:55 [info]  Clicked on the 'Find Button' using JS Executor
+Nov 07,2016 09:08:03 [info]  Clicked on the 'VendorName At VendorWindow'
+Nov 07,2016 09:08:03 [info]  Clicked on the 'Vendor Select Button' using JS Executor
+Nov 07,2016 09:08:08 [info]  Clicked on the 'SBUImage' using JS Executor
+Nov 07,2016 09:08:08 [info]  Verified that Expected value :[Source Business Unit Template] is matched with Actual value :[Source Business Unit Template]
+Nov 07,2016 09:08:09 [info]  Clicked on the ''Select All' CheckBox at SBU' using JS Executor
+Nov 07,2016 09:08:15 [info]  Clicked on the 'First CheckBox At SBU window'
+Nov 07,2016 09:08:15 [info]  Clicked on the 'Ninth CheckBox At SBU winodw'
+Nov 07,2016 09:08:17 [info]  Clicked on the 'Apply Button' using JS Executor
+Nov 07,2016 09:08:17 [info]  Entered "11:11:11" in field 'Duration'
+Nov 07,2016 09:08:27 [info]  Selected "Production" in "Asset Status" drop down
+Nov 07,2016 09:08:27 [info]  Selected "Licensed Acquired" in "Asset Source" drop down
+Nov 07,2016 09:08:28 [info]  Selected "TBD" in "Asset Category/Group" drop down
+Nov 07,2016 09:08:28 [info]  Entered "AUT_Series" in field 'Short Name'
+Nov 07,2016 09:08:28 [info]  Entered "Test" in field 'ProjectID'
+Nov 07,2016 09:08:28 [info]  Clicked on the 'Genre Add Button' using JS Executor
+Nov 07,2016 09:08:28 [info]  Clicked on the 'Genre Type Row Field' using JS Executor
+Nov 07,2016 09:08:28 [info]  Clicked on the 'Genere Type Dropdown Image'
+Nov 07,2016 09:08:28 [info]  Clicked on the 'First Genere Type DropDown Value in the list'
+Nov 07,2016 09:08:29 [info]  Clicked on the 'Genre Row Field' using JS Executor
+Nov 07,2016 09:08:29 [info]  Clicked on the 'Genere Dropdown Image'
+Nov 07,2016 09:08:29 [info]  Clicked on the 'Genere Dropdown value'
+Nov 07,2016 09:08:29 [info]  Clicked on the 'Add Button of Note' using JS Executor
+Nov 07,2016 09:08:32 [info]  Entered "Medium" in field 'Asset Priority'
+Nov 07,2016 09:08:32 [info]  Entered "Subject For the Deal" in field 'Asset Subject'
+Nov 07,2016 09:08:32 [info]  Entered "New Asset" in field 'AssetNotes TextField'
+Nov 07,2016 09:08:32 [info]  Clicked on the 'OK button'
+Nov 07,2016 09:08:34 [info]  Clicked on the 'Save Button' using JS Executor
+Nov 07,2016 09:08:38 [info]  ====Failed==== Expected value is:[AUT_AssetSeries_1102201685101] but Actual value is[]. Please check the screenshot with name: Created AssetAUT_AssetSeries_1102201685101for more details
+Nov 07,2016 09:08:38 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Nov2016\\07\Created AssetAUT_AssetSeries_1102201685101_CheckpointFailure_11-07-2016 9-08-38 AM.jpg
+Nov 07,2016 09:08:38 [info]  ************************Created Asset of TypeProgram - Series************************
+Nov 07,2016 09:08:41 [info]  ====Failed==== "MODULE" field is not present'
+Nov 07,2016 09:08:42 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Nov2016\\07\MODULE_CheckpointFailure_11-07-2016 9-08-41 AM.jpg
+Nov 07,2016 09:08:45 [info]  ====Failed==== "Asset Maintenance" field is not present'
+Nov 07,2016 09:08:45 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Nov2016\\07\Asset Maintenance_CheckpointFailure_11-07-2016 9-08-45 AM.jpg
+Nov 07,2016 09:08:48 [info]  Clicked on the 'Search Menu Icon' using JS Executor
+Nov 07,2016 09:08:50 [info]  Clicked on the 'AssetSearchUnderAsset' using JS Executor
+Nov 07,2016 09:08:59 [info]  Entered "AUT_AssetSeries_1102201685101" in field 'AssetTitle'
+Nov 07,2016 09:08:59 [info]  Clicked on the 'All Check Box' using JS Executor
+Nov 07,2016 09:09:04 [info]  Clicked on the 'Find Button' using JS Executor
+Nov 07,2016 09:09:29 [info]  Moved Mouse over 'First Asset in the Searched Asset'
+Nov 07,2016 09:09:29 [info]  Clicked on the 'First Asset in the Searched Asset'
+Nov 07,2016 09:09:29 [info]  Clicked on the 'First Asset in the Searched Asset'
+Nov 07,2016 09:09:32 [info]  Clicked on the 'View Asset' using JS Executor
+Nov 07,2016 09:09:44 [info]  Verified that Expected value :[AUT_AssetSeries_1102201685101] is matched with Actual value :[AUT_AssetSeries_1102201685101]
+Nov 07,2016 09:09:50 [info]  Clicked on the 'Episodes TAB'
+Nov 07,2016 09:09:56 [info]  Clicked on the ''Edit' Button at Episode window' using JS Executor
+Nov 07,2016 09:10:23 [info]  ********************Started Executiong the Test Suite at 09:10:23******************
+Nov 07,2016 09:10:23 [info]  Client: AMCN
+Nov 07,2016 09:10:23 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Nov 07,2016 09:10:23 [info]  *********************Started Executing 'TC1_MediaRightsUI' Test Case*********************
+Nov 07,2016 09:10:33 [info]  Client: AMCN
+Nov 07,2016 09:10:33 [info]  URL: http://rlv2wb79/login.aspx
+Nov 07,2016 09:10:33 [info]  UserName: automation
+Nov 07,2016 09:10:33 [info]  Password: automation
+Nov 07,2016 09:10:34 [info]  Entered "automation" in field 'User Name'
+Nov 07,2016 09:10:34 [info]  Clicked on the 'Temporary Check Box'
+Nov 07,2016 09:10:35 [info]  Entered "automation" in field 'Password'
+Nov 07,2016 09:10:42 [info]  Clicked on the 'LoginButton'
+Nov 07,2016 09:10:49 [info]  ************************Started Creating Asset of Type: Program - Series************************
+Nov 07,2016 09:10:52 [info]  Clicked on the 'MODULE'
+Nov 07,2016 09:10:59 [info]  Clicked on the 'Asset Maintenance'
+Nov 07,2016 09:11:05 [info]  Clicked on the 'New Button' using JS Executor
+Nov 07,2016 09:11:10 [info]  Clicked on the 'Program' using JS Executor
+Nov 07,2016 09:11:19 [info]  Clicked on the 'General TAB'
+Nov 07,2016 09:11:23 [info]  Selected "Program - Series" in "AssetTypeDropDown" drop down
+Nov 07,2016 09:11:26 [info]  Entered "AUT_AssetSeries_1107201691048" in field 'AssetTitle'
+Nov 07,2016 09:11:28 [info]  Clicked on the 'Vendor Img Icon' using JS Executor
+Nov 07,2016 09:11:28 [info]  Entered "AUT_AMCN_Vendor1" in field 'SearchvalueVendor'
+Nov 07,2016 09:11:31 [info]  Clicked on the 'VendorWindowButtonfind' using JS Executor
+Nov 07,2016 09:11:37 [info]  Clicked on the 'VendorName At VendorWindow'
+Nov 07,2016 09:11:37 [info]  Clicked on the 'Vendor Select Button' using JS Executor
+Nov 07,2016 09:11:41 [info]  Clicked on the 'StudioImageIcon' using JS Executor
+Nov 07,2016 09:11:42 [info]  Verified that Expected value :[Studio] is matched with Actual value :[Studio]
+Nov 07,2016 09:11:42 [info]  Entered "AUT_AMCN_Studio" in field 'Studio Name'
+Nov 07,2016 09:11:43 [info]  Clicked on the 'Find Button' using JS Executor
+Nov 07,2016 09:11:51 [info]  Clicked on the 'VendorName At VendorWindow'
+Nov 07,2016 09:11:51 [info]  Clicked on the 'Vendor Select Button' using JS Executor
+Nov 07,2016 09:11:55 [info]  Clicked on the 'SBUImage' using JS Executor
+Nov 07,2016 09:11:56 [info]  Verified that Expected value :[Source Business Unit Template] is matched with Actual value :[Source Business Unit Template]
+Nov 07,2016 09:11:56 [info]  Clicked on the ''Select All' CheckBox at SBU' using JS Executor
+Nov 07,2016 09:12:02 [info]  Clicked on the 'First CheckBox At SBU window'
+Nov 07,2016 09:12:02 [info]  Clicked on the 'Ninth CheckBox At SBU winodw'
+Nov 07,2016 09:12:04 [info]  Clicked on the 'Apply Button' using JS Executor
+Nov 07,2016 09:12:05 [info]  Entered "11:11:11" in field 'Duration'
+Nov 07,2016 09:12:15 [info]  Selected "Production" in "Asset Status" drop down
+Nov 07,2016 09:12:15 [info]  Selected "Licensed Acquired" in "Asset Source" drop down
+Nov 07,2016 09:12:15 [info]  Selected "TBD" in "Asset Category/Group" drop down
+Nov 07,2016 09:12:16 [info]  Entered "AUT_Series" in field 'Short Name'
+Nov 07,2016 09:12:16 [info]  Entered "Test" in field 'ProjectID'
+Nov 07,2016 09:12:16 [info]  Clicked on the 'Genre Add Button' using JS Executor
+Nov 07,2016 09:12:16 [info]  Clicked on the 'Genre Type Row Field' using JS Executor
+Nov 07,2016 09:12:17 [info]  Clicked on the 'Genere Type Dropdown Image'
+Nov 07,2016 09:12:17 [info]  Clicked on the 'First Genere Type DropDown Value in the list'
+Nov 07,2016 09:12:17 [info]  Clicked on the 'Genre Row Field' using JS Executor
+Nov 07,2016 09:12:17 [info]  Clicked on the 'Genere Dropdown Image'
+Nov 07,2016 09:12:17 [info]  Clicked on the 'Genere Dropdown value'
+Nov 07,2016 09:12:18 [info]  Clicked on the 'Add Button of Note' using JS Executor
+Nov 07,2016 09:12:20 [info]  Entered "Medium" in field 'Asset Priority'
+Nov 07,2016 09:12:20 [info]  Entered "Subject For the Deal" in field 'Asset Subject'
+Nov 07,2016 09:12:20 [info]  Entered "New Asset" in field 'AssetNotes TextField'
+Nov 07,2016 09:12:21 [info]  Clicked on the 'OK button'
+Nov 07,2016 09:12:23 [info]  Clicked on the 'Save Button' using JS Executor
+Nov 07,2016 09:12:31 [info]  Verified that Expected value :[AUT_AssetSeries_1107201691048] is matched with Actual value :[AUT_AssetSeries_1107201691048]
+Nov 07,2016 09:12:31 [info]  ************************Created Asset of TypeProgram - Series************************
+Nov 07,2016 09:12:34 [info]  Clicked on the 'MODULE'
+Nov 07,2016 09:12:41 [info]  Clicked on the 'Asset Maintenance'
+Nov 07,2016 09:12:44 [info]  Clicked on the 'Search Menu Icon' using JS Executor
+Nov 07,2016 09:12:46 [info]  Clicked on the 'AssetSearchUnderAsset' using JS Executor
+Nov 07,2016 09:12:54 [info]  Entered "AUT_AssetSeries_1107201691048" in field 'AssetTitle'
+Nov 07,2016 09:12:54 [info]  Clicked on the 'All Check Box' using JS Executor
+Nov 07,2016 09:12:59 [info]  Clicked on the 'Find Button' using JS Executor
+Nov 07,2016 09:13:23 [info]  Moved Mouse over 'First Asset in the Searched Asset'
+Nov 07,2016 09:13:23 [info]  Clicked on the 'First Asset in the Searched Asset'
+Nov 07,2016 09:13:23 [info]  Clicked on the 'First Asset in the Searched Asset'
+Nov 07,2016 09:13:26 [info]  Clicked on the 'View Asset' using JS Executor
+Nov 07,2016 09:13:38 [info]  Verified that Expected value :[AUT_AssetSeries_1107201691048] is matched with Actual value :[AUT_AssetSeries_1107201691048]
+Nov 07,2016 09:13:45 [info]  Clicked on the 'Episodes TAB'
+Nov 07,2016 09:13:49 [info]  Clicked on the ''Edit' Button at Episode window' using JS Executor
+Nov 07,2016 09:13:55 [info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Nov 07,2016 09:13:59 [info]  Entered "101" in field 'Add Episode input field'
+Nov 07,2016 09:14:00 [info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Nov 07,2016 09:14:08 [info]  Clicked on the 'Season Field of Episode101' using JS Executor
+Nov 07,2016 09:14:08 [info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Nov 07,2016 09:14:08 [info]  Clicked on the 'Season 1'
+Nov 07,2016 09:14:08 [info]  Clicked on the 'Support click to select season'
+Nov 07,2016 09:14:11 [info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Nov 07,2016 09:14:11 [info]  Entered "102" in field 'Add Episode input field'
+Nov 07,2016 09:14:12 [info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Nov 07,2016 09:14:23 [info]  Clicked on the 'Season Field of Episode102' using JS Executor
+Nov 07,2016 09:14:24 [info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Nov 07,2016 09:14:24 [info]  Clicked on the 'Season 1'
+Nov 07,2016 09:14:24 [info]  Clicked on the 'Support click to select season'
+Nov 07,2016 09:14:24 [info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Nov 07,2016 09:14:24 [info]  Entered "201" in field 'Add Episode input field'
+Nov 07,2016 09:14:26 [info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Nov 07,2016 09:14:37 [info]  Clicked on the 'Season Field of Episode201' using JS Executor
+Nov 07,2016 09:14:37 [info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Nov 07,2016 09:14:37 [info]  Clicked on the 'Season 2'
+Nov 07,2016 09:14:37 [info]  Clicked on the 'Support click to select season'
+Nov 07,2016 09:14:40 [info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Nov 07,2016 09:14:40 [info]  Entered "202" in field 'Add Episode input field'
+Nov 07,2016 09:14:41 [info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Nov 07,2016 09:14:50 [info]  Clicked on the 'Support click to select season'
+Nov 07,2016 09:14:53 [info]  Clicked on the 'Season Field of Episode201' using JS Executor
+Nov 07,2016 09:14:53 [info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Nov 07,2016 09:14:53 [info]  Clicked on the 'Season 2'
+Nov 07,2016 09:14:53 [info]  Clicked on the 'Support click to select season'
+Nov 07,2016 09:14:59 [info]  Clicked on the 'Save Button at 'Episode Edit Window'' using JS Executor
+Nov 07,2016 09:15:06 [info]  Clicked on the 'Close Button at 'Episode Edit Window'' using JS Executor
+Nov 07,2016 09:15:28 [info]  Clicked on the 'New Button' using JS Executor
+Nov 07,2016 09:15:35 [info]  Clicked on the 'Standalone Agreement' using JS Executor
+Nov 07,2016 09:15:41 [info]  Generated Deal Id is 55361
+Nov 07,2016 09:15:41 [info]  Clicked on the 'DealTitleField' using JS Executor
+Nov 07,2016 09:15:41 [info]  Entered "AUT_Deal_1107201691048" in field 'Deal Name Field'
+Nov 07,2016 09:15:42 [info]  Entered "AUT_Deal_1107201691048_desc" in field 'Deal Description/ContractID'
+Nov 07,2016 09:15:42 [info]  Selected "Production" in "DealType_DropDownField" drop down
+Nov 07,2016 09:15:42 [info]  Selected "Development" in "Deal/Agreement Sub Type" drop down
+Nov 07,2016 09:15:42 [info]  Entered "In Progress - IDM" in field 'DealCreationCDEStatus'
+Nov 07,2016 09:15:42 [info]  Entered "01/01/2014" in field 'DateExecuted_InputField'
+Nov 07,2016 09:15:42 [info]  Entered "01/01/2015" in field 'DateEffective_InputField'
+Nov 07,2016 09:15:42 [info]  Entered "USD" in field 'DealCreationCurrency'
+Nov 07,2016 09:15:43 [info]  Selected "AMC" in "ProfitCenter_InputField" drop down
+Nov 07,2016 09:15:49 [info]  Selected "Acquired Series - 280-206100-612103" in "BudgetLine_InputField" drop down
+Nov 07,2016 09:16:11 [info]  Moved Mouse over 'Party_AddButton'
+Nov 07,2016 09:16:11 [info]  Clicked on the 'Party_AddButton'
+Nov 07,2016 09:16:14 [info]  Entered "AUT_AMCN_RI_PRIMARY_PARTY" in field 'Search Party InputField'
+Nov 07,2016 09:16:16 [info]  Double clicked on 'RI Search Party Window Find Button'
+Nov 07,2016 09:16:20 [info]  Clicked on the 'AUT_AMCN_RI_PRIMARY_PARTY'
+Nov 07,2016 09:16:20 [info]  Clicked on the 'Select Button'
+Nov 07,2016 09:16:26 [info]  Clicked on the 'Party Type Field' using JS Executor
+Nov 07,2016 09:16:26 [info]  Entered "Primary" in field 'Party Party InputField'
+Nov 07,2016 09:16:26 [info]  ====Failed==== "Support Click " field is not present'
+Nov 07,2016 09:16:27 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Nov2016\\07\Support Click _CheckpointFailure_11-07-2016 9-16-26 AM.jpg
+Nov 07,2016 09:16:27 [info]  Clicked on the 'Party_AddButton' using JS Executor
+Nov 07,2016 09:16:32 [info]  Entered "AUT_AMCN_RI_LICENSOR_PARTY" in field 'Search Party InputField'
+Nov 07,2016 09:16:33 [info]  Double clicked on 'RI Search Party Window Find Button'
+Nov 07,2016 09:16:41 [info]  Clicked on the 'Select Party'
+Nov 07,2016 09:16:42 [info]  Clicked on the 'Select Button'
+Nov 07,2016 09:16:48 [info]  Clicked on the 'Party Type Field' using JS Executor
+Nov 07,2016 09:16:48 [info]  Entered "Distributor" in field 'Party Party InputField'
+Nov 07,2016 09:16:48 [info]  Clicked on the 'Support Click '
+Nov 07,2016 09:16:51 [info]  Clicked on the 'Skip Workflow CheckBox'
+Nov 07,2016 09:16:59 [info]  Clicked on the 'Save Button' using JS Executor
+Nov 07,2016 09:17:05 [info]  Verify The data of CreatedDeal
+Nov 07,2016 09:17:05 [info]  Verified that Expected value :[AUT_Deal_1107201691048] is matched with Actual value :[AUT_Deal_1107201691048]
+Nov 07,2016 09:17:08 [info]  Clicked on the 'Navigator' using JS Executor
+Nov 07,2016 09:17:14 [info]  Clicked on the 'Deal'
+Nov 07,2016 09:17:14 [info]  Double clicked on 'Associate With Exiting Asset'
+Nov 07,2016 09:17:16 [info]  Clicked on the 'Asset Status'
+Nov 07,2016 09:17:16 [info]  Clicked on the 'Asset tile' using JS Executor
+Nov 07,2016 09:17:16 [info]  Entered "AUT_AssetSeries_1107201691048" in field 'Asset title'
+Nov 07,2016 09:17:16 [info]  =====BUG ID======: 20309
+Nov 07,2016 09:17:16 [info]  Clicked on the 'Display Season checkBox' using JS Executor
+Nov 07,2016 09:17:20 [info]  Clicked on the 'Search Button' using JS Executor
+Nov 07,2016 09:17:26 [info]  Clicked on the 'Toggle'
+Nov 07,2016 09:17:29 [info]  Double clicked on 'Searched Asset'
+Nov 07,2016 09:17:41 [info]  Clicked on the 'Ok Button' using JS Executor
+Nov 07,2016 09:17:48 [info]  Clicked on the 'Modules'
+Nov 07,2016 09:17:54 [info]  Clicked on the 'RightsIN'
+Nov 07,2016 09:17:58 [info]  Clicked on the 'Search Icon' using JS Executor
+Nov 07,2016 09:18:02 [info]  Clicked on the 'Agreement Link' using JS Executor
+Nov 07,2016 09:18:05 [info]  Entered "AUT_Deal_1107201691048" in field 'AssetTitle'
+Nov 07,2016 09:18:11 [info]  Clicked on the 'Find Button' using JS Executor
+Nov 07,2016 09:18:15 [info]  Moved Mouse over 'First Asset in the Searched Asset'
+Nov 07,2016 09:18:15 [info]  Clicked on the 'First Asset in the Searched Asset'
+Nov 07,2016 09:18:18 [info]  Clicked on the 'View Asset' using JS Executor
+Nov 07,2016 09:18:24 [info]  Verified that Expected value :[AUT_Deal_1107201691048] is matched with Actual value :[AUT_Deal_1107201691048]
+Nov 07,2016 09:18:24 [info]  Clicked on the 'Media Rights TAB'
+Nov 07,2016 09:18:27 [info]  
+Nov 07,2016 09:18:27 [info]  From Manual Test Step : TC_RI_MR_01
+Nov 07,2016 09:18:27 [info]  *****Verify all the buttons, drop down available in View Mode at the Media Rights TAB*****
+Nov 07,2016 09:18:27 [info]  Verify The data of RI_MediaRights_AppliesToLabel
+Nov 07,2016 09:18:27 [info]  Verified that Expected value :[Applies To] is matched with Actual value :[Applies To]
+Nov 07,2016 09:18:27 [info]  Verify The data of RI_MediaRights_ClearFiltersButton
+Nov 07,2016 09:18:27 [info]  Verified that Expected value :[Clear Filters] is matched with Actual value :[Clear Filters]
+Nov 07,2016 09:18:27 [info]  Verify The data of RI_MediaRights_ShowAllRowsLabel
+Nov 07,2016 09:18:27 [info]  Verified that Expected value :[Show All Rows] is matched with Actual value :[&nbsp;Show All Rows]
+Nov 07,2016 09:18:27 [info]  Verify The data of AppliesTo_ViewMode
+Nov 07,2016 09:18:27 [info]  Verified that Expected value :[Applies To] is matched with Actual value :[Applies To]
+Nov 07,2016 09:18:27 [info]  "loc_RI_MediaRights_SendReminderIcon" is Present
+Nov 07,2016 09:18:31 [info]  Clicked on the ''Edit' Button at Media Rights TAB' using JS Executor
+Nov 07,2016 09:18:34 [info]  
+Nov 07,2016 09:18:34 [info]  From Manual Test Step : TC_RI_MR_01
+Nov 07,2016 09:18:34 [info]  *****Verify all the buttons, drop down available in View Mode at the Media Rights TAB*****
+Nov 07,2016 09:18:34 [info]  Verify The data of RI_MediaRights_EditMode_CopyColumns_Button
+Nov 07,2016 09:18:34 [info]  Verified that Expected value :[Copy Column(s)] is matched with Actual value :[Copy Column(s)]
+Nov 07,2016 09:18:34 [info]  Verify The data of RI_MediaRights_EditMode_CopyRows_Buttons
+Nov 07,2016 09:18:34 [info]  Verified that Expected value :[Copy Row(s)] is matched with Actual value :[Copy Row(s)]
+Nov 07,2016 09:18:34 [info]  Verify The data of RI_MediaRights_EditMode_AddButton
+Nov 07,2016 09:18:34 [info]  Verified that Expected value :[Add] is matched with Actual value :[Add]
+Nov 07,2016 09:18:34 [info]  Verify The data of RI_MediaRights_EditMode_DeleteButton
+Nov 07,2016 09:18:34 [info]  Verified that Expected value :[Delete] is matched with Actual value :[Delete]
+Nov 07,2016 09:18:34 [info]  Verify The data of RI_MediaRights_EditMode_SaveButton
+Nov 07,2016 09:18:34 [info]  Verified that Expected value :[Save] is matched with Actual value :[Save]
+Nov 07,2016 09:18:34 [info]  Verify The data of RI_MediaRights_EditMode_closeButton
+Nov 07,2016 09:18:34 [info]  Verified that Expected value :[Close] is matched with Actual value :[Close]
+Nov 07,2016 09:18:34 [info]  
+Nov 07,2016 09:18:34 [info]  From Manual Test Step : TC_RI_MR_05
+Nov 07,2016 09:18:34 [info]  *****Verify the Headers in Edit Mode at the Media Rights TAB*****
+Nov 07,2016 09:18:35 [info]  Verify The data of RI_MediaRights_EditMode_APPLIESTO_HeaderName
+Nov 07,2016 09:18:35 [info]  Verified that Expected value :[*Applies To] is matched with Actual value :[*Applies To]
+Nov 07,2016 09:18:35 [info]  Verify The data of RI_MediaRights_EditMode_PARTY_HeaderName
+Nov 07,2016 09:18:35 [info]  Verified that Expected value :[Party] is matched with Actual value :[Party]
+Nov 07,2016 09:18:35 [info]  Verify The data of RI_MediaRights_EditMode_MEDIA_TEMPLATE_HeaderName
+Nov 07,2016 09:18:35 [info]  Verified that Expected value :[*Media Type] is matched with Actual value :[*Media Type]
+Nov 07,2016 09:18:35 [info]  Verify The data of RI_MediaRights_EditMode_VENUE_TEMPLATE_HeaderName
+Nov 07,2016 09:18:35 [info]  Verified that Expected value :[*Venue] is matched with Actual value :[*Venue]
+Nov 07,2016 09:18:35 [info]  Verify The data of RI_MediaRights_EditMode_PKGING_RIGHTS_TEMPLATE_HeaderName
+Nov 07,2016 09:18:35 [info]  Verified that Expected value :[*Platforms] is matched with Actual value :[*Platforms]
+Nov 07,2016 09:18:35 [info]  Verify The data of RI_MediaRights_EditMode_TOUCHPOINT_TEMPLATE_HeaderName
+Nov 07,2016 09:18:35 [info]  Verified that Expected value :[*Restrictions] is matched with Actual value :[*Restrictions]
+Nov 07,2016 09:18:35 [info]  Verify The data of RI_MediaRights_EditMode_BUSINESS_OUTLET_TEMPLATE_HeaderName
+Nov 07,2016 09:18:35 [info]  Verified that Expected value :[*Business Outlets] is matched with Actual value :[*Business Outlets]
+Nov 07,2016 09:18:35 [info]  Verify The data of RI_MediaRights_EditMode_TERRITORY_TEMPLATE_HeaderName
+Nov 07,2016 09:18:35 [info]  Verified that Expected value :[*Territory] is matched with Actual value :[*Territory]
+Nov 07,2016 09:18:35 [info]  Verify The data of RI_MediaRights_EditMode_LANGUAGE_TEMPLATE_HeaderName
+Nov 07,2016 09:18:35 [info]  Verified that Expected value :[*Language] is matched with Actual value :[*Language]
+Nov 07,2016 09:18:35 [info]  Verify The data of RI_MediaRights_EditMode_FLAG_PERPETUITY_HeaderName
+Nov 07,2016 09:18:35 [info]  Verified that Expected value :[Perpetuity] is matched with Actual value :[Perpetuity]
+Nov 07,2016 09:18:36 [info]  Verify The data of RI_MediaRights_EditMode_TERM_FROM_DATE_HeaderName
+Nov 07,2016 09:18:36 [info]  Verified that Expected value :[*Term From] is matched with Actual value :[*Term From]
+Nov 07,2016 09:18:36 [info]  Verify The data of RI_MediaRights_EditMode_TERM_TO_DATE_HeaderName
+Nov 07,2016 09:18:36 [info]  Verified that Expected value :[*Term To] is matched with Actual value :[*Term To]
+Nov 07,2016 09:18:36 [info]  Verify The data of RI_MediaRights_EditMode_FLAG_RESTRICTION_TYPE_HeaderName
+Nov 07,2016 09:18:36 [info]  Verified that Expected value :[Exclusivity] is matched with Actual value :[Exclusivity]
+Nov 07,2016 09:18:36 [info]  Verify The data of RI_MediaRights_EditMode_FLAG_RESTRICTION_TYPE_HeaderName
+Nov 07,2016 09:18:36 [info]  Verified that Expected value :[Holdback] is matched with Actual value :[Holdback]
+Nov 07,2016 09:18:36 [info]  Verify The data of RI_MediaRights_EditMode_FLAG_THIRD_PARTY_SUBLICENSE_HeaderName
+Nov 07,2016 09:18:36 [info]  Verified that Expected value :[Sublicense] is matched with Actual value :[Sublicense]
+Nov 07,2016 09:18:36 [info]  Verify The data of RI_MediaRights_EditMode_BUSINESS_TERMS_HeaderName
+Nov 07,2016 09:18:36 [info]  Verified that Expected value :[Notes] is matched with Actual value :[Notes]
+Nov 07,2016 09:18:37 [info]  Clicked on the ''Add' Button at Media Rights Edit window' using JS Executor
+Nov 07,2016 09:18:42 [info]  Clicked on the ''Save' Button at Media Rights Edit window' using JS Executor
+Nov 07,2016 09:18:45 [info]  Verified that Expected value :[Please enter values for required(*) fields.] is matched with Actual value :[Please enter values for required(*) fields.]
+Nov 07,2016 09:18:45 [info]  
+Nov 07,2016 09:18:45 [info]  *****  Applies To  *****
+Nov 07,2016 09:18:45 [info]  From Manual Test Step : TC_RI_MR_09
+Nov 07,2016 09:18:46 [info]  Clicked on the 'RI_MediaRights_EditMode_APPLIESTO_Header Field'
+Nov 07,2016 09:18:46 [info]  Clicked on the 'Applis to Drop Down Image'
+Nov 07,2016 09:18:46 [info]  Verify The data of RI_MediaRights_EditMode_AppliesToDropDown_ValueAll
+Nov 07,2016 09:18:46 [info]  Verified that Expected value :[All] is matched with Actual value :[All]
+Nov 07,2016 09:18:46 [info]  Verify The data of AUT_AssetSeries_1107201691048
+Nov 07,2016 09:18:46 [info]  Verified that Expected value :[AUT_AssetSeries_1107201691048] is matched with Actual value :[AUT_AssetSeries_1107201691048]
+Nov 07,2016 09:18:46 [info]  Verify The data of RI_MediaRights_EditMode_AppliesToDropDown_Season1
+Nov 07,2016 09:18:46 [info]  Verified that Expected value :[Season 1] is matched with Actual value :[   Season 1]
+Nov 07,2016 09:18:46 [info]  Verify The data of RI_MediaRights_EditMode_AppliesToDropDown_Episode101
+Nov 07,2016 09:18:46 [info]  Verified that Expected value :[Ep.101: Episode101] is matched with Actual value :[      Ep.101: Episode101]
+Nov 07,2016 09:18:46 [info]  Verify The data of RI_MediaRights_EditMode_AppliesToDropDown_Episode102
+Nov 07,2016 09:18:46 [info]  Verified that Expected value :[Ep.102: Episode102] is matched with Actual value :[      Ep.102: Episode102]
+Nov 07,2016 09:18:46 [info]  Verify The data of RI_MediaRights_EditMode_AppliesToDropDown_Season2
+Nov 07,2016 09:18:46 [info]  Verified that Expected value :[Season 2] is matched with Actual value :[   Season 2]
+Nov 07,2016 09:18:46 [info]  Verify The data of RI_MediaRights_EditMode_AppliesToDropDown_Episode201
+Nov 07,2016 09:18:46 [info]  Verified that Expected value :[Ep.201: Episode201] is matched with Actual value :[      Ep.201: Episode201]
+Nov 07,2016 09:18:46 [info]  Verify The data of RI_MediaRights_EditMode_AppliesToDropDown_Episode202
+Nov 07,2016 09:18:46 [info]  Verified that Expected value :[Ep.202: Episode202] is matched with Actual value :[      Ep.202: Episode202]
+Nov 07,2016 09:18:47 [info]  Clicked on the 'All'
+Nov 07,2016 09:18:47 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 07,2016 09:18:47 [info]  Verify The data of RI_MediaRights_EditMode_AppliesToDropDown_ValueAll
+Nov 07,2016 09:18:47 [info]  Verified that Expected value :[All] is matched with Actual value :[All]
+Nov 07,2016 09:18:47 [info]  Clicked on the 'RI_MediaRights_EditMode_APPLIESTO_Pick List'
+Nov 07,2016 09:18:49 [info]  Clicked on the ''Select All' RI_MediaRights_EditMode_APPLIESTO_Pick List '
+Nov 07,2016 09:18:59 [info]  "Unchecked Nodes of Assets " is disable or not Present
+Nov 07,2016 09:18:59 [info]  "Checked Nodes of Assets " is Present
+Nov 07,2016 09:19:00 [info]  Clicked on the ''DeSelect All' RI_EditMode_APPLIESTO_Pick List'
+Nov 07,2016 09:19:10 [info]  "Checked Nodes of Assets " is disable or not Present
+Nov 07,2016 09:19:10 [info]  "Unchecked Nodes of Assets " is Present
+Nov 07,2016 09:19:10 [info]  Clicked on the 'RI_EditMode_AppliesToDropDown_Episode101 Check Box'
+Nov 07,2016 09:19:10 [info]  Clicked on the 'RI_EditMode_AppliesToDropDown_Episode101'
+Nov 07,2016 09:19:10 [info]  "Checked Episode101 " is Present
+Nov 07,2016 09:19:10 [info]  "Checked Episode101 " is Present
+Nov 07,2016 09:19:10 [info]  "Checked Season1 " is Present
+Nov 07,2016 09:19:10 [info]  Clicked on the ''DeSelect All' RI_EditMode_APPLIESTO_Pick List'
+Nov 07,2016 09:19:20 [info]  "Checked Nodes of Assets " is disable or not Present
+Nov 07,2016 09:19:20 [info]  
+Nov 07,2016 09:19:20 [info]  From Manual Test Step : TC_RI_MR_15
+Nov 07,2016 09:19:20 [info]  Check All the seasons and verify all the episodes are also gets checked
+Nov 07,2016 09:19:20 [info]  Clicked on the 'RI_EditMode_AppliesToDropDown_Episode101 Check Box'
+Nov 07,2016 09:19:21 [info]  Clicked on the 'RI_EditMode_AppliesToDropDown_Episode101'
+Nov 07,2016 09:19:21 [info]  "Checked Season1" is Present
+Nov 07,2016 09:19:21 [info]  "Checked Episode101" is Present
+Nov 07,2016 09:19:21 [info]  "Checked Episode102" is Present
+Nov 07,2016 09:19:21 [info]  "Checked Season2" is Present
+Nov 07,2016 09:19:21 [info]  "Checked Episode201" is Present
+Nov 07,2016 09:19:21 [info]  "Checked Episode201" is Present
+Nov 07,2016 09:19:21 [info]  Clicked on the ''DeSelect All' RI_EditMode_APPLIESTO_Pick List'
+Nov 07,2016 09:19:31 [info]  "UnChecked Nodes of Assets " is disable or not Present
+Nov 07,2016 09:19:31 [info]  Clicked on the 'RI_EditMode_AppliesToDropDown_Episode101 Check Box'
+Nov 07,2016 09:19:31 [info]  "Checked All" is Present
+Nov 07,2016 09:19:41 [info]  "UnChecked Nodes of Assets " is disable or not Present
+Nov 07,2016 09:19:44 [info]  Clicked on the ''DeSelect All' RI_EditMode_APPLIESTO_Pick List'
+Nov 07,2016 09:19:54 [info]  "Checked Nodes of Assets " is disable or not Present
+Nov 07,2016 09:19:54 [info]  "UnChecked Nodes of Assets " is Present
+Nov 07,2016 09:19:55 [info]  Clicked on the 'Appply button'
+Nov 07,2016 09:19:58 [info]  
+Nov 07,2016 09:19:58 [info]  Verify The data of Alert Message on RI_EditMode_APPLIESTO_Pick List
+Nov 07,2016 09:19:58 [info]  Verified that Expected value :[Please select at least one item from the tree before clicking on the Apply button.] is matched with Actual value :[Please select at least one item from the tree before clicking on the Apply button.]
+Nov 07,2016 09:19:58 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Nov 07,2016 09:19:58 [info]  
+Nov 07,2016 09:19:58 [info]  From Manual Test Step : TC_RI_MR_21
+Nov 07,2016 09:19:58 [info]  Select "All" checkbox in Applies To from pick list window
+Nov 07,2016 09:19:58 [info]  Clicked on the 'RI_EditMode_AppliesToDropDown_Episode101 Check Box'
+Nov 07,2016 09:19:58 [info]  "All check box" is Present
+Nov 07,2016 09:20:08 [info]  "Checked Nodes of Assets " is disable or not Present
+Nov 07,2016 09:20:09 [info]  Clicked on the 'Appply button'
+Nov 07,2016 09:20:12 [info]  Verify The data of RI_MediaRights_EditMode_AppliesToDropDown_ValueAll
+Nov 07,2016 09:20:12 [info]  Verified that Expected value :[All] is matched with Actual value :[All]
+Nov 07,2016 09:20:13 [info]  Clicked on the ''Save' Button at Media Rights Edit window' using JS Executor
+Nov 07,2016 09:20:16 [info]  Verified that Expected value :[Please enter values for required(*) fields.] is matched with Actual value :[Please enter values for required(*) fields.]
+Nov 07,2016 09:20:16 [info]  
+Nov 07,2016 09:20:16 [info]  *****  Party   *****
+Nov 07,2016 09:20:16 [info]  From Manual Test Step : TC_RI_MR_24
+Nov 07,2016 09:20:16 [info]  ************Select the Party from the drop down and verify the selected party************
+Nov 07,2016 09:20:16 [info]  Clicked on the 'RI_MediaRights_EditMode_PARTY_Header Field'
+Nov 07,2016 09:20:17 [info]  Clicked on the 'Party Drop Down Image'
+Nov 07,2016 09:20:17 [info]  Verify The data of AUT_AMCN_RI_PRIMARY_PARTY
+Nov 07,2016 09:20:17 [info]  Verified that Expected value :[AUT_AMCN_RI_PRIMARY_PARTY] is matched with Actual value :[AUT_AMCN_RI_PRIMARY_PARTY]
+Nov 07,2016 09:20:17 [info]  Verify The data of AUT_AMCN_RI_LICENSOR_PARTY
+Nov 07,2016 09:20:17 [info]  Verified that Expected value :[AUT_AMCN_RI_LICENSOR_PARTY] is matched with Actual value :[AUT_AMCN_RI_LICENSOR_PARTY]
+Nov 07,2016 09:20:17 [info]  Clicked on the 'AUT_AMCN_RI_PRIMARY_PARTY'
+Nov 07,2016 09:20:17 [info]  Clicked on the 'Support Click on ROW_NO_HeaderName'
+Nov 07,2016 09:20:17 [info]  Verify The data of RI_MediaRights_EditMode_PARTYDropDown_ValueAll
+Nov 07,2016 09:20:17 [info]  Verified that Expected value :[AUT_AMCN_RI_PRIMARY_PARTY] is matched with Actual value :[AUT_AMCN_RI_PRIMARY_PARTY]
+Nov 07,2016 09:20:17 [info]  
+Nov 07,2016 09:20:17 [info]  ************Party Pick List >> Select All >> verify Check Box >> Deselect All >> Verify Check boxes >> Click Apply and Verify Validation message************
+Nov 07,2016 09:20:20 [info]  Double clicked on 'RI_MediaRights_EditMode_PARTY Pick List'
+Nov 07,2016 09:20:30 [info]  ====Failed==== " Could not find the Frame: div[id*='WebDialogWindow2'][style*=visible]
+Nov 07,2016 09:20:31 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Nov2016\\07\FrameSwitchingFailed0_CheckpointFailure_11-07-2016 9-20-30 AM.jpg
+Nov 07,2016 09:20:41 [info]  ====Failed==== "'Select All' RI_MediaRights_EditMode_Party_Pick List " field is not present'
+Nov 07,2016 09:20:41 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Nov2016\\07\'Select All' RI_MediaRights_EditMode_Party_Pick List _CheckpointFailure_11-07-2016 9-20-41 AM.jpg
+Nov 07,2016 09:20:51 [info]  "Unchecked Party " is disable or not Present
+Nov 07,2016 09:21:01 [info]  ====Failed==== "Checked Parties "  does not exist.
+Nov 07,2016 09:21:01 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Nov2016\\07\Checked Parties _CheckpointFailure_11-07-2016 9-21-01 AM.jpg
+Nov 07,2016 09:21:11 [info]  ====Failed==== "'DeSelect All' RI_MediaRights_EditMode_Party_Pick List" field is not present'
+Nov 07,2016 09:21:12 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Nov2016\\07\'DeSelect All' RI_MediaRights_EditMode_Party_Pick List_CheckpointFailure_11-07-2016 9-21-11 AM.jpg
+Nov 07,2016 09:21:22 [info]  "Checked Parties " is disable or not Present
+Nov 07,2016 09:21:32 [info]  ====Failed==== "Unchecked Party "  does not exist.
+Nov 07,2016 09:21:32 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Nov2016\\07\Unchecked Party _CheckpointFailure_11-07-2016 9-21-32 AM.jpg
+Nov 07,2016 09:21:42 [info]  ====Failed==== "Appply button" field is not present'
+Nov 07,2016 09:21:42 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Nov2016\\07\Appply button_CheckpointFailure_11-07-2016 9-21-42 AM.jpg
+Nov 07,2016 09:21:45 [info]  Verify The data of Alert Message RI_MediaRights_EditMode_Party_Pick List
+Nov 07,2016 09:21:45 [info]  ====Failed==== Expected value is:[Please select at least one item from the tree before clicking on the Apply button.] but Actual value is[]. Please check the screenshot with name: Alert Message RI_MediaRights_EditMode_Party_Pick Listfor more details
+Nov 07,2016 09:21:46 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Nov2016\\07\Alert Message RI_MediaRights_EditMode_Party_Pick List_CheckpointFailure_11-07-2016 9-21-45 AM.jpg
+Nov 07,2016 09:21:46 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Nov 07,2016 09:21:56 [info]  ====Failed==== " Could not find the Frame: div[id*='WebDialogWindow2'][style*=visible]
+Nov 07,2016 09:21:56 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Nov2016\\07\FrameSwitchingFailed1_CheckpointFailure_11-07-2016 9-21-56 AM.jpg
+Nov 07,2016 09:22:06 [info]  ====Failed==== "'Select All' RI_MediaRights_EditMode_Party_Pick List " field is not present'
+Nov 07,2016 09:22:06 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Nov2016\\07\'Select All' RI_MediaRights_EditMode_Party_Pick List _CheckpointFailure_11-07-2016 9-22-06 AM.jpg
+Nov 07,2016 09:22:16 [info]  "Unchecked Party " is disable or not Present
+Nov 07,2016 09:22:26 [info]  ====Failed==== "Checked Parties "  does not exist.
+Nov 07,2016 09:22:27 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Nov2016\\07\Checked Parties _CheckpointFailure_11-07-2016 9-22-26 AM.jpg
+Nov 07,2016 09:22:37 [info]  Verify The data of AUT_AMCN_RI_PRIMARY_PARTYcheck Box
+Nov 07,2016 09:22:37 [info]  ====Failed==== Expected value is:[Checked] but Actual value is[]. Please check the screenshot with name: AUT_AMCN_RI_PRIMARY_PARTYcheck Boxfor more details
+Nov 07,2016 09:22:37 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Nov2016\\07\AUT_AMCN_RI_PRIMARY_PARTYcheck Box_CheckpointFailure_11-07-2016 9-22-37 AM.jpg
+Nov 07,2016 09:22:47 [info]  Verify The data of AUT_AMCN_RI_LICENSOR_PARTYcheck Box
+Nov 07,2016 09:22:47 [info]  ====Failed==== Expected value is:[Checked] but Actual value is[]. Please check the screenshot with name: AUT_AMCN_RI_LICENSOR_PARTYcheck Boxfor more details
+Nov 07,2016 09:22:47 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Nov2016\\07\AUT_AMCN_RI_LICENSOR_PARTYcheck Box_CheckpointFailure_11-07-2016 9-22-47 AM.jpg
+Nov 07,2016 09:22:57 [info]  ====Failed==== "Appply button" field is not present'
+Nov 07,2016 09:22:58 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Nov2016\\07\Appply button_CheckpointFailure_11-07-2016 9-22-57 AM.jpg
+Nov 07,2016 09:23:01 [info]  Verify The data of Parties selected at Party field
+Nov 07,2016 09:23:01 [info]  ====Failed==== Expected value is:[AUT_AMCN_RI_PRIMARY_PARTY;  AUT_AMCN_RI_LICENSOR_PARTY] but Actual value is[AUT_AMCN_RI_PRIMARY_PARTY]. Please check the screenshot with name: Parties selected at Party fieldfor more details
+Nov 07,2016 09:23:01 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Nov2016\\07\Parties selected at Party field_CheckpointFailure_11-07-2016 9-23-01 AM.jpg
+Nov 07,2016 09:23:01 [info]  
+Nov 07,2016 09:23:01 [info]  ****************Media Type Template*****
+Nov 07,2016 09:23:01 [info]  From Manual Test Step : TC_RI_MR_42
+Nov 07,2016 09:23:01 [info]  
+Nov 07,2016 09:23:01 [info]  **********Verify all Buttons availables on the Template**********
+Nov 07,2016 09:23:01 [info]  Verify Buttons available at the Media Template Window
+Nov 07,2016 09:23:01 [info]  Clicked on the 'RI_MediaRights_EditMode_MEDIA_TEMPLATE List'
+Nov 07,2016 09:23:11 [info]  ====Failed==== " Could not find the Frame: div[id*='WebDialogWindow2'][style*=visible]
+Nov 07,2016 09:23:12 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Nov2016\\07\FrameSwitchingFailed2_CheckpointFailure_11-07-2016 9-23-11 AM.jpg
+Nov 07,2016 09:23:22 [info]  Verify The data of RI_MediaRights_EditMode_ExpandAll_Button
+Nov 07,2016 09:23:22 [info]  ====Failed==== Expected value is:[Expand All] but Actual value is[]. Please check the screenshot with name: RI_MediaRights_EditMode_ExpandAll_Buttonfor more details
+Nov 07,2016 09:23:22 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Nov2016\\07\RI_MediaRights_EditMode_ExpandAll_Button_CheckpointFailure_11-07-2016 9-23-22 AM.jpg
+Nov 07,2016 09:23:32 [info]  Verify The data of RI_MediaRights_EditMode_CollapseAll_Button
+Nov 07,2016 09:23:32 [info]  ====Failed==== Expected value is:[Collapse All] but Actual value is[]. Please check the screenshot with name: RI_MediaRights_EditMode_CollapseAll_Buttonfor more details
+Nov 07,2016 09:23:32 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Nov2016\\07\RI_MediaRights_EditMode_CollapseAll_Button_CheckpointFailure_11-07-2016 9-23-32 AM.jpg
+Nov 07,2016 09:23:42 [info]  Verify The data of RI_MediaRights_EditMode_SelectAll_Button
+Nov 07,2016 09:23:42 [info]  ====Failed==== Expected value is:[Select All] but Actual value is[]. Please check the screenshot with name: RI_MediaRights_EditMode_SelectAll_Buttonfor more details
+Nov 07,2016 09:23:43 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Nov2016\\07\RI_MediaRights_EditMode_SelectAll_Button_CheckpointFailure_11-07-2016 9-23-42 AM.jpg
+Nov 07,2016 09:23:53 [info]  Verify The data of RI_MediaRights_EditMode_DeSelectAll_Button
+Nov 07,2016 09:23:53 [info]  ====Failed==== Expected value is:[Deselect All] but Actual value is[]. Please check the screenshot with name: RI_MediaRights_EditMode_DeSelectAll_Buttonfor more details
+Nov 07,2016 09:23:53 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Nov2016\\07\RI_MediaRights_EditMode_DeSelectAll_Button_CheckpointFailure_11-07-2016 9-23-53 AM.jpg
+Nov 07,2016 09:24:03 [info]  Verify The data of RI_MediaRights_EditMode_Apply_Button
+Nov 07,2016 09:24:03 [info]  ====Failed==== Expected value is:[Apply] but Actual value is[]. Please check the screenshot with name: RI_MediaRights_EditMode_Apply_Buttonfor more details
+Nov 07,2016 09:24:03 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Nov2016\\07\RI_MediaRights_EditMode_Apply_Button_CheckpointFailure_11-07-2016 9-24-03 AM.jpg
+Nov 07,2016 09:24:13 [info]  Verify The data of RI_MediaRights_EditMode_Cancel_Button
+Nov 07,2016 09:24:13 [info]  ====Failed==== Expected value is:[Cancel] but Actual value is[]. Please check the screenshot with name: RI_MediaRights_EditMode_Cancel_Buttonfor more details
+Nov 07,2016 09:24:13 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Nov2016\\07\RI_MediaRights_EditMode_Cancel_Button_CheckpointFailure_11-07-2016 9-24-13 AM.jpg
+Nov 07,2016 09:24:23 [info]  Verify The data of RI_MediaRights_EditMode_Search_Button
+Nov 07,2016 09:24:23 [info]  ====Failed==== Expected value is:[Search:] but Actual value is[]. Please check the screenshot with name: RI_MediaRights_EditMode_Search_Buttonfor more details
+Nov 07,2016 09:24:24 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Nov2016\\07\RI_MediaRights_EditMode_Search_Button_CheckpointFailure_11-07-2016 9-24-23 AM.jpg
+Nov 07,2016 09:24:34 [info]  ====Failed==== "Collapsed Icons"  does not exist.
+Nov 07,2016 09:24:34 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Nov2016\\07\Collapsed Icons_CheckpointFailure_11-07-2016 9-24-34 AM.jpg
+Nov 07,2016 09:24:44 [info]  "Expand Icon" is disable or not Present
+Nov 07,2016 09:24:54 [info]  ====Failed==== "RI_MediaRights_*Media Type_Search" field is not present'RI_MediaRights_*Media Type_Search'
+Nov 07,2016 09:24:54 [info]  Test 'TC1_MediaRightsUI' FAILED
+Nov 07,2016 09:24:54 [info]  2
+Nov 07,2016 09:24:55 [info]  Test Case :TC1_MediaRightsUI's Screenshot of Failure Page: C:\Screenshots\Nov2016\\07\TC1_MediaRightsUI_11-07-2016 9-24-54 AM.jpg
+Nov 07,2016 09:24:56 [info]  Closed the Browser
+Nov 07,2016 09:52:06 [info]  ********************Started Executiong the Test Suite at 09:52:06******************
+Nov 07,2016 09:52:06 [info]  Client: AMCN
+Nov 07,2016 09:52:06 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Nov 07,2016 09:52:06 [info]  *********************Started Executing 'TC1_MediaRightsUI' Test Case*********************
+Nov 07,2016 09:52:16 [info]  Client: AMCN
+Nov 07,2016 09:52:16 [info]  URL: http://rlv2wb79/login.aspx
+Nov 07,2016 09:52:16 [info]  UserName: automation
+Nov 07,2016 09:52:16 [info]  Password: automation
+Nov 07,2016 09:52:17 [info]  Entered "automation" in field 'User Name'
+Nov 07,2016 09:52:17 [info]  Clicked on the 'Temporary Check Box'
+Nov 07,2016 09:52:17 [info]  Entered "automation" in field 'Password'
+Nov 07,2016 09:52:24 [info]  Clicked on the 'LoginButton'
+Nov 07,2016 09:53:03 [info]  
+Nov 07,2016 09:53:04 [info]  ************Party Pick List >> Select All >> verify Check Box >> Deselect All >> Verify Check boxes >> Click Apply and Verify Validation message************
+Nov 07,2016 09:53:58 [info]  Moved Mouse over 'Party pick List Icon'
+Nov 07,2016 09:54:00 [info]  Double clicked on 'RI_MediaRights_EditMode_PARTY Pick List'
+Nov 07,2016 09:54:43 [info]  ********************Started Executiong the Test Suite at 09:54:43******************
+Nov 07,2016 09:54:43 [info]  Client: AMCN
+Nov 07,2016 09:54:43 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Nov 07,2016 09:54:43 [info]  *********************Started Executing 'TC1_MediaRightsUI' Test Case*********************
+Nov 07,2016 09:54:54 [info]  Client: AMCN
+Nov 07,2016 09:54:54 [info]  URL: http://rlv2wb79/login.aspx
+Nov 07,2016 09:54:54 [info]  UserName: automation
+Nov 07,2016 09:54:54 [info]  Password: automation
+Nov 07,2016 09:54:55 [info]  Entered "automation" in field 'User Name'
+Nov 07,2016 09:54:55 [info]  Clicked on the 'Temporary Check Box'
+Nov 07,2016 09:54:56 [info]  Entered "automation" in field 'Password'
+Nov 07,2016 09:55:03 [info]  Clicked on the 'LoginButton'
+Nov 07,2016 09:56:03 [info]  
+Nov 07,2016 09:56:04 [info]  ************Party Pick List >> Select All >> verify Check Box >> Deselect All >> Verify Check boxes >> Click Apply and Verify Validation message************
+Nov 07,2016 09:56:58 [info]  Moved Mouse over 'Party pick List Icon'
+Nov 07,2016 09:57:04 [info]  Double clicked on 'RI_MediaRights_EditMode_PARTY Pick List'
+Nov 07,2016 09:57:06 [info]  Clicked on the ''Select All' RI_MediaRights_EditMode_Party_Pick List ' using JS Executor
+Nov 07,2016 09:57:17 [info]  "Unchecked Party " is disable or not Present
+Nov 07,2016 09:57:17 [info]  "Checked Parties " is Present
+Nov 07,2016 09:57:17 [info]  Clicked on the ''DeSelect All' RI_MediaRights_EditMode_Party_Pick List' using JS Executor
+Nov 07,2016 09:57:27 [info]  "Checked Parties " is disable or not Present
+Nov 07,2016 09:57:27 [info]  "Unchecked Party " is Present
+Nov 07,2016 09:57:27 [info]  Clicked on the 'Appply button'
+Nov 07,2016 09:57:31 [info]  Verify The data of Alert Message RI_MediaRights_EditMode_Party_Pick List
+Nov 07,2016 09:57:31 [info]  ====Failed==== Expected value is:[Please select at least one item from the tree before clicking on the Apply button.] but Actual value is[]. Please check the screenshot with name: Alert Message RI_MediaRights_EditMode_Party_Pick Listfor more details
+Nov 07,2016 09:57:31 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Nov2016\\07\Alert Message RI_MediaRights_EditMode_Party_Pick List_CheckpointFailure_11-07-2016 9-57-31 AM.jpg
+Nov 07,2016 09:57:31 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Nov 07,2016 09:57:32 [info]  Clicked on the ''Select All' RI_MediaRights_EditMode_Party_Pick List '
+Nov 07,2016 09:57:42 [info]  "Unchecked Party " is disable or not Present
+Nov 07,2016 09:57:42 [info]  "Checked Parties " is Present
+Nov 07,2016 09:57:42 [info]  Verify The data of AUT_AMCN_RI_PRIMARY_PARTYcheck Box
+Nov 07,2016 09:57:42 [info]  Verified that Expected value :[Checked] is matched with Actual value :[Checked]
+Nov 07,2016 09:57:42 [info]  Verify The data of AUT_AMCN_RI_LICENSOR_PARTYcheck Box
+Nov 07,2016 09:57:42 [info]  Verified that Expected value :[Checked] is matched with Actual value :[Checked]
+Nov 07,2016 09:57:43 [info]  Clicked on the 'Appply button'
+Nov 07,2016 09:57:47 [info]  Verify The data of Parties selected at Party field
+Nov 07,2016 09:57:47 [info]  Verified that Expected value :[AUT_AMCN_RI_PRIMARY_PARTY;  AUT_AMCN_RI_LICENSOR_PARTY] is matched with Actual value :[ AUT_AMCN_RI_PRIMARY_PARTY;  AUT_AMCN_RI_LICENSOR_PARTY]
+Nov 07,2016 09:57:47 [info]  
+Nov 07,2016 09:57:47 [info]  ****************Media Type Template*****
+Nov 07,2016 09:57:47 [info]  From Manual Test Step : TC_RI_MR_42
+Nov 07,2016 09:57:48 [info]  
+Nov 07,2016 09:57:48 [info]  **********Verify all Buttons availables on the Template**********
+Nov 07,2016 09:57:48 [info]  Verify Buttons available at the Media Template Window
+Nov 07,2016 09:57:49 [info]  Clicked on the 'RI_MediaRights_EditMode_MEDIA_TEMPLATE List'
+Nov 07,2016 09:57:49 [info]  Verify The data of RI_MediaRights_EditMode_ExpandAll_Button
+Nov 07,2016 09:57:49 [info]  Verified that Expected value :[Expand All] is matched with Actual value :[Expand All]
+Nov 07,2016 09:57:50 [info]  Verify The data of RI_MediaRights_EditMode_CollapseAll_Button
+Nov 07,2016 09:57:50 [info]  Verified that Expected value :[Collapse All] is matched with Actual value :[Collapse All]
+Nov 07,2016 09:57:50 [info]  Verify The data of RI_MediaRights_EditMode_SelectAll_Button
+Nov 07,2016 09:57:50 [info]  Verified that Expected value :[Select All] is matched with Actual value :[Select All]
+Nov 07,2016 09:57:50 [info]  Verify The data of RI_MediaRights_EditMode_DeSelectAll_Button
+Nov 07,2016 09:57:50 [info]  Verified that Expected value :[Deselect All] is matched with Actual value :[Deselect All]
+Nov 07,2016 09:57:50 [info]  Verify The data of RI_MediaRights_EditMode_Apply_Button
+Nov 07,2016 09:57:50 [info]  Verified that Expected value :[Apply] is matched with Actual value :[Apply]
+Nov 07,2016 09:57:50 [info]  Verify The data of RI_MediaRights_EditMode_Cancel_Button
+Nov 07,2016 09:57:50 [info]  Verified that Expected value :[Cancel] is matched with Actual value :[Cancel]
+Nov 07,2016 09:57:50 [info]  Verify The data of RI_MediaRights_EditMode_Search_Button
+Nov 07,2016 09:57:50 [info]  Verified that Expected value :[Search:] is matched with Actual value :[Search:]
+Nov 07,2016 09:57:50 [info]  "Collapsed Icons" is Present
+Nov 07,2016 09:58:00 [info]  "Expand Icon" is disable or not Present
+Nov 07,2016 09:58:01 [info]  Entered "VOD" in field 'RI_MediaRights_*Media Type_Search'
+Nov 07,2016 09:58:01 [info]  "Searched Data 'VOD'" is Present
+Nov 07,2016 09:58:01 [info]  
+Nov 07,2016 09:58:01 [info]  **********Verify Expand/Collapse functionality**********
+Nov 07,2016 09:58:01 [info]  *****  Click On Collapse All and verify that collapse(minus) icons are not shown *****
+Nov 07,2016 09:58:01 [info]  Clicked on the ''Collapse' RI_MediaRights_EditMode_*Media Type List' using JS Executor
+Nov 07,2016 09:58:11 [info]  "Collapsed Icons" is disable or not Present
+Nov 07,2016 09:58:11 [info]  "Expand Icons" is Present
+Nov 07,2016 09:58:11 [info]  Clicked on the ''Expand' RI_MediaRights_EditMode at *Media Type Edit Window' using JS Executor
+Nov 07,2016 09:58:22 [info]  "Expand Icons  at *Media Type Edit Window" is disable or not Present
+Nov 07,2016 09:58:22 [info]  "Collapse Icons at *Media Type Edit Window" is Present
+Nov 07,2016 09:58:22 [info]  
+Nov 07,2016 09:58:22 [info]  **********Verify Select/DeSelectg functionality**********
+Nov 07,2016 09:58:22 [info]  Clicked on the ''Select All' RI_MediaRights_EditMode_*Media Type '
+Nov 07,2016 09:58:32 [info]  "Unchecked Nodes of Assets at *Media Type " is disable or not Present
+Nov 07,2016 09:58:32 [info]  "Checked Nodes of Assets at *Media Type" is Present
+Nov 07,2016 09:58:33 [info]  Clicked on the ''DeSelect All' RI_MediaRights_EditMode_*Media Type'
+Nov 07,2016 09:58:43 [info]  "Checked Nodes of Assets at *Media Type" is disable or not Present
+Nov 07,2016 09:58:43 [info]  "Unchecked Nodes of Assets at *Media Type" is Present
+Nov 07,2016 09:58:44 [info]  Clicked on the 'Appply button'
+Nov 07,2016 09:58:44 [info]  **********Validation message on clikcing apply button without select any check box**********
+Nov 07,2016 09:58:48 [info]  Verify The data of Alert Message RI_MediaRights_EditMode_*Media Type
+Nov 07,2016 09:58:48 [info]  Verified that Expected value :[You must at least make one selection from the tree or click Cancel and select a template.] is matched with Actual value :[You must at least make one selection from the tree or click Cancel and select a template.]
+Nov 07,2016 09:58:48 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Nov 07,2016 09:58:49 [info]  Clicked on the ''Select All' RI_MediaRights_EditMode_*Media Type '
+Nov 07,2016 09:58:50 [info]  Clicked on the 'Appply button'
+Nov 07,2016 09:58:50 [info]  
+Nov 07,2016 09:58:50 [info]  ****************Venue Template*****
+Nov 07,2016 09:58:50 [info]  From Manual Test Step : TC_RI_MR_54
+Nov 07,2016 09:58:50 [info]  
+Nov 07,2016 09:58:50 [info]  **********Verify all Buttons availables on the Template**********
+Nov 07,2016 09:58:51 [info]  Verify Buttons available at the Media Template Window
+Nov 07,2016 09:58:52 [info]  Clicked on the 'RI_MediaRights_EditMode_MEDIA_TEMPLATE List'
+Nov 07,2016 09:58:52 [info]  Verify The data of RI_MediaRights_EditMode_ExpandAll_Button
+Nov 07,2016 09:58:52 [info]  Verified that Expected value :[Expand All] is matched with Actual value :[Expand All]
+Nov 07,2016 09:58:52 [info]  Verify The data of RI_MediaRights_EditMode_CollapseAll_Button
+Nov 07,2016 09:58:52 [info]  Verified that Expected value :[Collapse All] is matched with Actual value :[Collapse All]
+Nov 07,2016 09:58:53 [info]  Verify The data of RI_MediaRights_EditMode_SelectAll_Button
+Nov 07,2016 09:58:53 [info]  Verified that Expected value :[Select All] is matched with Actual value :[Select All]
+Nov 07,2016 09:58:53 [info]  Verify The data of RI_MediaRights_EditMode_DeSelectAll_Button
+Nov 07,2016 09:58:53 [info]  Verified that Expected value :[Deselect All] is matched with Actual value :[Deselect All]
+Nov 07,2016 09:58:53 [info]  Verify The data of RI_MediaRights_EditMode_Apply_Button
+Nov 07,2016 09:58:53 [info]  Verified that Expected value :[Apply] is matched with Actual value :[Apply]
+Nov 07,2016 09:58:53 [info]  Verify The data of RI_MediaRights_EditMode_Cancel_Button
+Nov 07,2016 09:58:53 [info]  Verified that Expected value :[Cancel] is matched with Actual value :[Cancel]
+Nov 07,2016 09:58:53 [info]  Verify The data of RI_MediaRights_EditMode_Search_Button
+Nov 07,2016 09:58:53 [info]  Verified that Expected value :[Search:] is matched with Actual value :[Search:]
+Nov 07,2016 09:58:53 [info]  "Collapsed Icons" is Present
+Nov 07,2016 09:59:03 [info]  "Expand Icon" is disable or not Present
+Nov 07,2016 09:59:04 [info]  Entered "Schools" in field 'RI_MediaRights_*Venue_Search'
+Nov 07,2016 09:59:04 [info]  "Searched Data 'VOD'" is Present
+Nov 07,2016 09:59:04 [info]  
+Nov 07,2016 09:59:04 [info]  **********Verify Expand/Collapse functionality**********
+Nov 07,2016 09:59:04 [info]  *****  Click On Collapse All and verify that collapse(minus) icons are not shown *****
+Nov 07,2016 09:59:04 [info]  Clicked on the ''Collapse' RI_MediaRights_EditMode_*Venue List' using JS Executor
+Nov 07,2016 09:59:14 [info]  "Collapsed Icons" is disable or not Present
+Nov 07,2016 09:59:14 [info]  "Expand Icons" is Present
+Nov 07,2016 09:59:14 [info]  Clicked on the ''Expand' RI_MediaRights_EditMode at *Venue Edit Window' using JS Executor
+Nov 07,2016 09:59:24 [info]  "Expand Icons  at *Venue Edit Window" is disable or not Present
+Nov 07,2016 09:59:24 [info]  "Collapse Icons at *Venue Edit Window" is Present
+Nov 07,2016 09:59:24 [info]  
+Nov 07,2016 09:59:24 [info]  **********Verify Select/DeSelectg functionality**********
+Nov 07,2016 09:59:25 [info]  Clicked on the ''Select All' RI_MediaRights_EditMode_*Venue '
+Nov 07,2016 09:59:35 [info]  "Unchecked Nodes of Assets at *Venue " is disable or not Present
+Nov 07,2016 09:59:36 [info]  "Checked Nodes of Assets at *Venue" is Present
+Nov 07,2016 09:59:36 [info]  Clicked on the ''DeSelect All' RI_MediaRights_EditMode_*Venue'
+Nov 07,2016 09:59:46 [info]  "Checked Nodes of Assets at *Venue" is disable or not Present
+Nov 07,2016 09:59:47 [info]  "Unchecked Nodes of Assets at *Venue" is Present
+Nov 07,2016 09:59:48 [info]  Clicked on the 'Appply button'
+Nov 07,2016 09:59:48 [info]  **********Validation message on clikcing apply button without select any check box**********
+Nov 07,2016 09:59:52 [info]  Verify The data of Alert Message RI_MediaRights_EditMode_*Venue
+Nov 07,2016 09:59:52 [info]  Verified that Expected value :[You must at least make one selection from the tree or click Cancel and select a template.] is matched with Actual value :[You must at least make one selection from the tree or click Cancel and select a template.]
+Nov 07,2016 09:59:52 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Nov 07,2016 09:59:52 [info]  Clicked on the ''Select All' RI_MediaRights_EditMode_*Venue '
+Nov 07,2016 09:59:54 [info]  Clicked on the 'Appply button'
+Nov 07,2016 09:59:54 [info]  
+Nov 07,2016 09:59:54 [info]  ****************Platforms Template*****
+Nov 07,2016 09:59:54 [info]  From Manual Test Step : TC_RI_MR_66
+Nov 07,2016 09:59:54 [info]  
+Nov 07,2016 09:59:54 [info]  **********Verify all Buttons availables on the Template**********
+Nov 07,2016 09:59:54 [info]  Verify Buttons available at the Media Template Window
+Nov 07,2016 09:59:56 [info]  Clicked on the 'RI_MediaRights_EditMode_MEDIA_TEMPLATE List'
+Nov 07,2016 09:59:56 [info]  Verify The data of RI_MediaRights_EditMode_ExpandAll_Button
+Nov 07,2016 09:59:56 [info]  Verified that Expected value :[Expand All] is matched with Actual value :[Expand All]
+Nov 07,2016 09:59:56 [info]  Verify The data of RI_MediaRights_EditMode_CollapseAll_Button
+Nov 07,2016 09:59:56 [info]  Verified that Expected value :[Collapse All] is matched with Actual value :[Collapse All]
+Nov 07,2016 09:59:56 [info]  Verify The data of RI_MediaRights_EditMode_SelectAll_Button
+Nov 07,2016 09:59:56 [info]  Verified that Expected value :[Select All] is matched with Actual value :[Select All]
+Nov 07,2016 09:59:56 [info]  Verify The data of RI_MediaRights_EditMode_DeSelectAll_Button
+Nov 07,2016 09:59:56 [info]  Verified that Expected value :[Deselect All] is matched with Actual value :[Deselect All]
+Nov 07,2016 09:59:57 [info]  Verify The data of RI_MediaRights_EditMode_Apply_Button
+Nov 07,2016 09:59:57 [info]  Verified that Expected value :[Apply] is matched with Actual value :[Apply]
+Nov 07,2016 09:59:57 [info]  Verify The data of RI_MediaRights_EditMode_Cancel_Button
+Nov 07,2016 09:59:57 [info]  Verified that Expected value :[Cancel] is matched with Actual value :[Cancel]
+Nov 07,2016 09:59:57 [info]  Verify The data of RI_MediaRights_EditMode_Search_Button
+Nov 07,2016 09:59:57 [info]  Verified that Expected value :[Search:] is matched with Actual value :[Search:]
+Nov 07,2016 09:59:57 [info]  "Collapsed Icons" is Present
+Nov 07,2016 10:00:07 [info]  "Expand Icon" is disable or not Present
+Nov 07,2016 10:00:07 [info]  Entered "TV" in field 'RI_MediaRights_*Platforms_Search'
+Nov 07,2016 10:00:07 [info]  "Searched Data 'VOD'" is Present
+Nov 07,2016 10:00:07 [info]  
+Nov 07,2016 10:00:07 [info]  **********Verify Expand/Collapse functionality**********
+Nov 07,2016 10:00:07 [info]  *****  Click On Collapse All and verify that collapse(minus) icons are not shown *****
+Nov 07,2016 10:00:08 [info]  Clicked on the ''Collapse' RI_MediaRights_EditMode_*Platforms List' using JS Executor
+Nov 07,2016 10:00:18 [info]  "Collapsed Icons" is disable or not Present
+Nov 07,2016 10:00:18 [info]  "Expand Icons" is Present
+Nov 07,2016 10:00:18 [info]  Clicked on the ''Expand' RI_MediaRights_EditMode at *Platforms Edit Window' using JS Executor
+Nov 07,2016 10:00:28 [info]  "Expand Icons  at *Platforms Edit Window" is disable or not Present
+Nov 07,2016 10:00:28 [info]  "Collapse Icons at *Platforms Edit Window" is Present
+Nov 07,2016 10:00:28 [info]  
+Nov 07,2016 10:00:28 [info]  **********Verify Select/DeSelectg functionality**********
+Nov 07,2016 10:00:29 [info]  Clicked on the ''Select All' RI_MediaRights_EditMode_*Platforms '
+Nov 07,2016 10:00:39 [info]  "Unchecked Nodes of Assets at *Platforms " is disable or not Present
+Nov 07,2016 10:00:39 [info]  "Checked Nodes of Assets at *Platforms" is Present
+Nov 07,2016 10:00:39 [info]  Clicked on the ''DeSelect All' RI_MediaRights_EditMode_*Platforms'
+Nov 07,2016 10:00:49 [info]  "Checked Nodes of Assets at *Platforms" is disable or not Present
+Nov 07,2016 10:00:49 [info]  "Unchecked Nodes of Assets at *Platforms" is Present
+Nov 07,2016 10:00:50 [info]  Clicked on the 'Appply button'
+Nov 07,2016 10:00:50 [info]  **********Validation message on clikcing apply button without select any check box**********
+Nov 07,2016 10:00:54 [info]  Verify The data of Alert Message RI_MediaRights_EditMode_*Platforms
+Nov 07,2016 10:00:54 [info]  Verified that Expected value :[You must at least make one selection from the tree or click Cancel and select a template.] is matched with Actual value :[You must at least make one selection from the tree or click Cancel and select a template.]
+Nov 07,2016 10:00:54 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Nov 07,2016 10:00:55 [info]  Clicked on the ''Select All' RI_MediaRights_EditMode_*Platforms '
+Nov 07,2016 10:00:55 [info]  Clicked on the 'Appply button'
+Nov 07,2016 10:00:55 [info]  
+Nov 07,2016 10:00:55 [info]  ****************Restrictions Template*****
+Nov 07,2016 10:00:55 [info]  From Manual Test Step : TC_RI_MR_78
+Nov 07,2016 10:00:56 [info]  
+Nov 07,2016 10:00:56 [info]  **********Verify all Buttons availables on the Template**********
+Nov 07,2016 10:00:56 [info]  Verify Buttons available at the Media Template Window
+Nov 07,2016 10:00:57 [info]  Clicked on the 'RI_MediaRights_EditMode_MEDIA_TEMPLATE List'
+Nov 07,2016 10:00:58 [info]  Verify The data of RI_MediaRights_EditMode_ExpandAll_Button
+Nov 07,2016 10:00:58 [info]  Verified that Expected value :[Expand All] is matched with Actual value :[Expand All]
+Nov 07,2016 10:00:58 [info]  Verify The data of RI_MediaRights_EditMode_CollapseAll_Button
+Nov 07,2016 10:00:58 [info]  Verified that Expected value :[Collapse All] is matched with Actual value :[Collapse All]
+Nov 07,2016 10:00:58 [info]  Verify The data of RI_MediaRights_EditMode_SelectAll_Button
+Nov 07,2016 10:00:58 [info]  Verified that Expected value :[Select All] is matched with Actual value :[Select All]
+Nov 07,2016 10:00:58 [info]  Verify The data of RI_MediaRights_EditMode_DeSelectAll_Button
+Nov 07,2016 10:00:58 [info]  Verified that Expected value :[Deselect All] is matched with Actual value :[Deselect All]
+Nov 07,2016 10:00:58 [info]  Verify The data of RI_MediaRights_EditMode_Apply_Button
+Nov 07,2016 10:00:58 [info]  Verified that Expected value :[Apply] is matched with Actual value :[Apply]
+Nov 07,2016 10:00:58 [info]  Verify The data of RI_MediaRights_EditMode_Cancel_Button
+Nov 07,2016 10:00:58 [info]  Verified that Expected value :[Cancel] is matched with Actual value :[Cancel]
+Nov 07,2016 10:00:59 [info]  Verify The data of RI_MediaRights_EditMode_Search_Button
+Nov 07,2016 10:00:59 [info]  Verified that Expected value :[Search:] is matched with Actual value :[Search:]
+Nov 07,2016 10:00:59 [info]  "Collapsed Icons" is Present
+Nov 07,2016 10:01:09 [info]  "Expand Icon" is disable or not Present
+Nov 07,2016 10:01:09 [info]  Entered "restricted" in field 'RI_MediaRights_*Restrictions_Search'
+Nov 07,2016 10:01:09 [info]  "Searched Data 'VOD'" is Present
+Nov 07,2016 10:01:09 [info]  
+Nov 07,2016 10:01:09 [info]  **********Verify Expand/Collapse functionality**********
+Nov 07,2016 10:01:09 [info]  *****  Click On Collapse All and verify that collapse(minus) icons are not shown *****
+Nov 07,2016 10:01:09 [info]  Clicked on the ''Collapse' RI_MediaRights_EditMode_*Restrictions List' using JS Executor
+Nov 07,2016 10:01:19 [info]  "Collapsed Icons" is disable or not Present
+Nov 07,2016 10:01:19 [info]  "Expand Icons" is Present
+Nov 07,2016 10:01:19 [info]  Clicked on the ''Expand' RI_MediaRights_EditMode at *Restrictions Edit Window' using JS Executor
+Nov 07,2016 10:01:30 [info]  "Expand Icons  at *Restrictions Edit Window" is disable or not Present
+Nov 07,2016 10:01:30 [info]  "Collapse Icons at *Restrictions Edit Window" is Present
+Nov 07,2016 10:01:30 [info]  
+Nov 07,2016 10:01:30 [info]  **********Verify Select/DeSelectg functionality**********
+Nov 07,2016 10:01:30 [info]  Clicked on the ''Select All' RI_MediaRights_EditMode_*Restrictions '
+Nov 07,2016 10:01:40 [info]  "Unchecked Nodes of Assets at *Restrictions " is disable or not Present
+Nov 07,2016 10:01:40 [info]  "Checked Nodes of Assets at *Restrictions" is Present
+Nov 07,2016 10:01:41 [info]  Clicked on the ''DeSelect All' RI_MediaRights_EditMode_*Restrictions'
+Nov 07,2016 10:01:51 [info]  "Checked Nodes of Assets at *Restrictions" is disable or not Present
+Nov 07,2016 10:01:51 [info]  "Unchecked Nodes of Assets at *Restrictions" is Present
+Nov 07,2016 10:01:52 [info]  Clicked on the 'Appply button'
+Nov 07,2016 10:01:52 [info]  **********Validation message on clikcing apply button without select any check box**********
+Nov 07,2016 10:01:56 [info]  Verify The data of Alert Message RI_MediaRights_EditMode_*Restrictions
+Nov 07,2016 10:01:56 [info]  Verified that Expected value :[You must at least make one selection from the tree or click Cancel and select a template.] is matched with Actual value :[You must at least make one selection from the tree or click Cancel and select a template.]
+Nov 07,2016 10:01:56 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Nov 07,2016 10:01:56 [info]  Clicked on the ''Select All' RI_MediaRights_EditMode_*Restrictions '
+Nov 07,2016 10:01:57 [info]  Clicked on the 'Appply button'
+Nov 07,2016 10:01:57 [info]  
+Nov 07,2016 10:01:57 [info]  ****************Business Outlets Template*****
+Nov 07,2016 10:01:57 [info]  From Manual Test Step : TC_RI_MR_90
+Nov 07,2016 10:01:58 [info]  Clicked on the 'RI_MediaRights_EditMode_Business Outlets'
+Nov 07,2016 10:01:59 [info]  Clicked on the '*Business OutletsDrop Down Image'
+Nov 07,2016 10:01:59 [info]  Clicked on the 'All Fuse'
+Nov 07,2016 10:01:59 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 07,2016 10:02:00 [info]  Verify The data of RI_MediaRights_EditMode_*Business Outlets
+Nov 07,2016 10:02:00 [info]  Verified that Expected value :[All Fuse] is matched with Actual value :[All Fuse]
+Nov 07,2016 10:02:00 [info]  
+Nov 07,2016 10:02:00 [info]  **********Verify all Buttons availables on the Template**********
+Nov 07,2016 10:02:00 [info]  Verify Buttons available at the Media Template Window
+Nov 07,2016 10:02:02 [info]  Clicked on the 'RI_MediaRights_EditMode_MEDIA_TEMPLATE List'
+Nov 07,2016 10:02:02 [info]  Verify The data of RI_MediaRights_EditMode_ExpandAll_Button
+Nov 07,2016 10:02:02 [info]  Verified that Expected value :[Expand All] is matched with Actual value :[Expand All]
+Nov 07,2016 10:02:02 [info]  Verify The data of RI_MediaRights_EditMode_CollapseAll_Button
+Nov 07,2016 10:02:02 [info]  Verified that Expected value :[Collapse All] is matched with Actual value :[Collapse All]
+Nov 07,2016 10:02:02 [info]  Verify The data of RI_MediaRights_EditMode_SelectAll_Button
+Nov 07,2016 10:02:02 [info]  Verified that Expected value :[Select All] is matched with Actual value :[Select All]
+Nov 07,2016 10:02:02 [info]  Verify The data of RI_MediaRights_EditMode_DeSelectAll_Button
+Nov 07,2016 10:02:02 [info]  Verified that Expected value :[Deselect All] is matched with Actual value :[Deselect All]
+Nov 07,2016 10:02:03 [info]  Verify The data of RI_MediaRights_EditMode_Apply_Button
+Nov 07,2016 10:02:03 [info]  Verified that Expected value :[Apply] is matched with Actual value :[Apply]
+Nov 07,2016 10:02:03 [info]  Verify The data of RI_MediaRights_EditMode_Cancel_Button
+Nov 07,2016 10:02:03 [info]  Verified that Expected value :[Cancel] is matched with Actual value :[Cancel]
+Nov 07,2016 10:02:03 [info]  Verify The data of RI_MediaRights_EditMode_Search_Button
+Nov 07,2016 10:02:03 [info]  Verified that Expected value :[Search:] is matched with Actual value :[Search:]
+Nov 07,2016 10:02:03 [info]  "Collapsed Icons" is Present
+Nov 07,2016 10:02:13 [info]  "Expand Icon" is disable or not Present
+Nov 07,2016 10:02:14 [info]  Entered "AMC" in field 'RI_MediaRights_*Business Outlets_Search'
+Nov 07,2016 10:02:14 [info]  "Searched Data 'VOD'" is Present
+Nov 07,2016 10:02:14 [info]  
+Nov 07,2016 10:02:14 [info]  **********Verify Expand/Collapse functionality**********
+Nov 07,2016 10:02:14 [info]  *****  Click On Collapse All and verify that collapse(minus) icons are not shown *****
+Nov 07,2016 10:02:15 [info]  Clicked on the ''Collapse' RI_MediaRights_EditMode_*Business Outlets List' using JS Executor
+Nov 07,2016 10:02:25 [info]  "Collapsed Icons" is disable or not Present
+Nov 07,2016 10:02:25 [info]  "Expand Icons" is Present
+Nov 07,2016 10:02:25 [info]  Clicked on the ''Expand' RI_MediaRights_EditMode at *Business Outlets Edit Window' using JS Executor
+Nov 07,2016 10:02:35 [info]  "Expand Icons  at *Business Outlets Edit Window" is disable or not Present
+Nov 07,2016 10:02:35 [info]  "Collapse Icons at *Business Outlets Edit Window" is Present
+Nov 07,2016 10:02:35 [info]  
+Nov 07,2016 10:02:35 [info]  **********Verify Select/DeSelectg functionality**********
+Nov 07,2016 10:02:36 [info]  Clicked on the ''Select All' RI_MediaRights_EditMode_*Business Outlets '
+Nov 07,2016 10:02:46 [info]  "Unchecked Nodes of Assets at *Business Outlets " is disable or not Present
+Nov 07,2016 10:02:47 [info]  "Checked Nodes of Assets at *Business Outlets" is Present
+Nov 07,2016 10:02:47 [info]  Clicked on the ''DeSelect All' RI_MediaRights_EditMode_*Business Outlets'
+Nov 07,2016 10:02:57 [info]  "Checked Nodes of Assets at *Business Outlets" is disable or not Present
+Nov 07,2016 10:02:58 [info]  "Unchecked Nodes of Assets at *Business Outlets" is Present
+Nov 07,2016 10:03:00 [info]  Clicked on the 'Appply button'
+Nov 07,2016 10:03:00 [info]  **********Validation message on clikcing apply button without select any check box**********
+Nov 07,2016 10:03:03 [info]  Verify The data of Alert Message RI_MediaRights_EditMode_*Business Outlets
+Nov 07,2016 10:03:03 [info]  Verified that Expected value :[You must at least make one selection from the tree or click Cancel and select a template.] is matched with Actual value :[You must at least make one selection from the tree or click Cancel and select a template.]
+Nov 07,2016 10:03:03 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Nov 07,2016 10:03:04 [info]  Clicked on the ''Select All' RI_MediaRights_EditMode_*Business Outlets '
+Nov 07,2016 10:03:06 [info]  Clicked on the 'Appply button'
+Nov 07,2016 10:03:06 [info]  
+Nov 07,2016 10:03:06 [info]  ****************Territory Template*****
+Nov 07,2016 10:03:06 [info]  From Manual Test Step : TC_RI_MR_102
+Nov 07,2016 10:03:07 [info]  Clicked on the 'RI_MediaRights_EditMode_Territory'
+Nov 07,2016 10:03:07 [info]  Clicked on the '*TerritoryDrop Down Image'
+Nov 07,2016 10:03:07 [info]  Clicked on the 'Asia'
+Nov 07,2016 10:03:08 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 07,2016 10:03:08 [info]  Verify The data of RI_MediaRights_EditMode_*Territory
+Nov 07,2016 10:03:08 [info]  Verified that Expected value :[Asia] is matched with Actual value :[Asia]
+Nov 07,2016 10:03:08 [info]  
+Nov 07,2016 10:03:08 [info]  **********Verify all Buttons availables on the Template**********
+Nov 07,2016 10:03:08 [info]  Verify Buttons available at the Media Template Window
+Nov 07,2016 10:03:11 [info]  Clicked on the 'RI_MediaRights_EditMode_MEDIA_TEMPLATE List'
+Nov 07,2016 10:03:11 [info]  Verify The data of RI_MediaRights_EditMode_ExpandAll_Button
+Nov 07,2016 10:03:11 [info]  Verified that Expected value :[Expand All] is matched with Actual value :[Expand All]
+Nov 07,2016 10:03:11 [info]  Verify The data of RI_MediaRights_EditMode_CollapseAll_Button
+Nov 07,2016 10:03:11 [info]  Verified that Expected value :[Collapse All] is matched with Actual value :[Collapse All]
+Nov 07,2016 10:03:11 [info]  Verify The data of RI_MediaRights_EditMode_SelectAll_Button
+Nov 07,2016 10:03:11 [info]  Verified that Expected value :[Select All] is matched with Actual value :[Select All]
+Nov 07,2016 10:03:11 [info]  Verify The data of RI_MediaRights_EditMode_DeSelectAll_Button
+Nov 07,2016 10:03:11 [info]  Verified that Expected value :[Deselect All] is matched with Actual value :[Deselect All]
+Nov 07,2016 10:03:12 [info]  Verify The data of RI_MediaRights_EditMode_Apply_Button
+Nov 07,2016 10:03:12 [info]  Verified that Expected value :[Apply] is matched with Actual value :[Apply]
+Nov 07,2016 10:03:12 [info]  Verify The data of RI_MediaRights_EditMode_Cancel_Button
+Nov 07,2016 10:03:12 [info]  Verified that Expected value :[Cancel] is matched with Actual value :[Cancel]
+Nov 07,2016 10:03:12 [info]  Verify The data of RI_MediaRights_EditMode_Search_Button
+Nov 07,2016 10:03:12 [info]  Verified that Expected value :[Search:] is matched with Actual value :[Search:]
+Nov 07,2016 10:03:12 [info]  "Collapsed Icons" is Present
+Nov 07,2016 10:03:22 [info]  "Expand Icon" is disable or not Present
+Nov 07,2016 10:03:23 [info]  Entered "Universe" in field 'RI_MediaRights_*Territory_Search'
+Nov 07,2016 10:03:23 [info]  "Searched Data 'VOD'" is Present
+Nov 07,2016 10:03:23 [info]  
+Nov 07,2016 10:03:23 [info]  **********Verify Expand/Collapse functionality**********
+Nov 07,2016 10:03:23 [info]  *****  Click On Collapse All and verify that collapse(minus) icons are not shown *****
+Nov 07,2016 10:03:23 [info]  Clicked on the ''Collapse' RI_MediaRights_EditMode_*Territory List' using JS Executor
+Nov 07,2016 10:03:33 [info]  "Collapsed Icons" is disable or not Present
+Nov 07,2016 10:03:33 [info]  "Expand Icons" is Present
+Nov 07,2016 10:03:33 [info]  Clicked on the ''Expand' RI_MediaRights_EditMode at *Territory Edit Window' using JS Executor
+Nov 07,2016 10:03:44 [info]  "Expand Icons  at *Territory Edit Window" is disable or not Present
+Nov 07,2016 10:03:44 [info]  "Collapse Icons at *Territory Edit Window" is Present
+Nov 07,2016 10:03:44 [info]  
+Nov 07,2016 10:03:44 [info]  **********Verify Select/DeSelectg functionality**********
+Nov 07,2016 10:03:44 [info]  Clicked on the ''Select All' RI_MediaRights_EditMode_*Territory '
+Nov 07,2016 10:03:55 [info]  "Unchecked Nodes of Assets at *Territory " is disable or not Present
+Nov 07,2016 10:03:56 [info]  "Checked Nodes of Assets at *Territory" is Present
+Nov 07,2016 10:03:56 [info]  Clicked on the ''DeSelect All' RI_MediaRights_EditMode_*Territory'
+Nov 07,2016 10:04:06 [info]  "Checked Nodes of Assets at *Territory" is disable or not Present
+Nov 07,2016 10:04:07 [info]  "Unchecked Nodes of Assets at *Territory" is Present
+Nov 07,2016 10:04:09 [info]  Clicked on the 'Appply button'
+Nov 07,2016 10:04:09 [info]  **********Validation message on clikcing apply button without select any check box**********
+Nov 07,2016 10:04:13 [info]  Verify The data of Alert Message RI_MediaRights_EditMode_*Territory
+Nov 07,2016 10:04:13 [info]  Verified that Expected value :[You must at least make one selection from the tree or click Cancel and select a template.] is matched with Actual value :[You must at least make one selection from the tree or click Cancel and select a template.]
+Nov 07,2016 10:04:13 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Nov 07,2016 10:04:14 [info]  Clicked on the ''Select All' RI_MediaRights_EditMode_*Territory '
+Nov 07,2016 10:04:15 [info]  Clicked on the 'Appply button'
+Nov 07,2016 10:04:15 [info]  
+Nov 07,2016 10:04:15 [info]  ****************Language Template*****
+Nov 07,2016 10:04:15 [info]  From Manual Test Step : TC_RI_MR_114
+Nov 07,2016 10:04:16 [info]  Clicked on the 'RI_MediaRights_EditMode_Language'
+Nov 07,2016 10:04:16 [info]  Clicked on the '*LanguageDrop Down Image'
+Nov 07,2016 10:04:17 [info]  Clicked on the 'English'
+Nov 07,2016 10:04:17 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 07,2016 10:04:18 [info]  Verify The data of RI_MediaRights_EditMode_*Language
+Nov 07,2016 10:04:18 [info]  Verified that Expected value :[English] is matched with Actual value :[English]
+Nov 07,2016 10:04:18 [info]  
+Nov 07,2016 10:04:18 [info]  **********Verify all Buttons availables on the Template**********
+Nov 07,2016 10:04:18 [info]  Verify Buttons available at the Media Template Window
+Nov 07,2016 10:04:20 [info]  Clicked on the 'RI_MediaRights_EditMode_MEDIA_TEMPLATE List'
+Nov 07,2016 10:04:20 [info]  Verify The data of RI_MediaRights_EditMode_ExpandAll_Button
+Nov 07,2016 10:04:20 [info]  Verified that Expected value :[Expand All] is matched with Actual value :[Expand All]
+Nov 07,2016 10:04:20 [info]  Verify The data of RI_MediaRights_EditMode_CollapseAll_Button
+Nov 07,2016 10:04:20 [info]  Verified that Expected value :[Collapse All] is matched with Actual value :[Collapse All]
+Nov 07,2016 10:04:20 [info]  Verify The data of RI_MediaRights_EditMode_SelectAll_Button
+Nov 07,2016 10:04:20 [info]  Verified that Expected value :[Select All] is matched with Actual value :[Select All]
+Nov 07,2016 10:04:21 [info]  Verify The data of RI_MediaRights_EditMode_DeSelectAll_Button
+Nov 07,2016 10:04:21 [info]  Verified that Expected value :[Deselect All] is matched with Actual value :[Deselect All]
+Nov 07,2016 10:04:21 [info]  Verify The data of RI_MediaRights_EditMode_Apply_Button
+Nov 07,2016 10:04:21 [info]  Verified that Expected value :[Apply] is matched with Actual value :[Apply]
+Nov 07,2016 10:04:21 [info]  Verify The data of RI_MediaRights_EditMode_Cancel_Button
+Nov 07,2016 10:04:21 [info]  Verified that Expected value :[Cancel] is matched with Actual value :[Cancel]
+Nov 07,2016 10:04:21 [info]  Verify The data of RI_MediaRights_EditMode_Search_Button
+Nov 07,2016 10:04:21 [info]  Verified that Expected value :[Search:] is matched with Actual value :[Search:]
+Nov 07,2016 10:04:21 [info]  "Collapsed Icons" is Present
+Nov 07,2016 10:04:31 [info]  "Expand Icon" is disable or not Present
+Nov 07,2016 10:04:32 [info]  Entered "English" in field 'RI_MediaRights_*Language_Search'
+Nov 07,2016 10:04:32 [info]  "Searched Data 'VOD'" is Present
+Nov 07,2016 10:04:32 [info]  
+Nov 07,2016 10:04:32 [info]  **********Verify Expand/Collapse functionality**********
+Nov 07,2016 10:04:32 [info]  *****  Click On Collapse All and verify that collapse(minus) icons are not shown *****
+Nov 07,2016 10:04:32 [info]  Clicked on the ''Collapse' RI_MediaRights_EditMode_*Language List' using JS Executor
+Nov 07,2016 10:04:42 [info]  "Collapsed Icons" is disable or not Present
+Nov 07,2016 10:04:42 [info]  "Expand Icons" is Present
+Nov 07,2016 10:04:42 [info]  Clicked on the ''Expand' RI_MediaRights_EditMode at *Language Edit Window' using JS Executor
+Nov 07,2016 10:04:52 [info]  "Expand Icons  at *Language Edit Window" is disable or not Present
+Nov 07,2016 10:04:52 [info]  "Collapse Icons at *Language Edit Window" is Present
+Nov 07,2016 10:04:52 [info]  
+Nov 07,2016 10:04:52 [info]  **********Verify Select/DeSelectg functionality**********
+Nov 07,2016 10:04:53 [info]  Clicked on the ''Select All' RI_MediaRights_EditMode_*Language '
+Nov 07,2016 10:05:03 [info]  "Unchecked Nodes of Assets at *Language " is disable or not Present
+Nov 07,2016 10:05:04 [info]  "Checked Nodes of Assets at *Language" is Present
+Nov 07,2016 10:05:04 [info]  Clicked on the ''DeSelect All' RI_MediaRights_EditMode_*Language'
+Nov 07,2016 10:05:14 [info]  "Checked Nodes of Assets at *Language" is disable or not Present
+Nov 07,2016 10:05:15 [info]  "Unchecked Nodes of Assets at *Language" is Present
+Nov 07,2016 10:05:16 [info]  Clicked on the 'Appply button'
+Nov 07,2016 10:05:16 [info]  **********Validation message on clikcing apply button without select any check box**********
+Nov 07,2016 10:05:20 [info]  Verify The data of Alert Message RI_MediaRights_EditMode_*Language
+Nov 07,2016 10:05:20 [info]  Verified that Expected value :[You must at least make one selection from the tree or click Cancel and select a template.] is matched with Actual value :[You must at least make one selection from the tree or click Cancel and select a template.]
+Nov 07,2016 10:05:20 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Nov 07,2016 10:05:21 [info]  Clicked on the ''Select All' RI_MediaRights_EditMode_*Language '
+Nov 07,2016 10:05:23 [info]  Clicked on the 'Appply button'
+Nov 07,2016 10:05:43 [info]  ====Failed==== "RI_MediaRights_EditMode_PERPETUITY_HeaderName_ Check Box" field is not present'
+Nov 07,2016 10:05:43 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Nov2016\\07\RI_MediaRights_EditMode_PERPETUITY_HeaderName_ Check Box_CheckpointFailure_11-07-2016 10-05-43 AM.jpg
+Nov 07,2016 10:06:56 [info]  Verify The data of RI_MediaRights_EditMode_*Term To
+Nov 07,2016 10:06:56 [info]  ====Failed==== Expected value is:[12/31/9999 ] but Actual value is[]. Please check the screenshot with name: RI_MediaRights_EditMode_*Term Tofor more details
+Nov 07,2016 10:57:12 [info]  ********************Started Executiong the Test Suite at 10:57:12******************
+Nov 07,2016 10:57:12 [info]  Client: AMCN
+Nov 07,2016 10:57:12 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Nov 07,2016 10:57:12 [info]  *********************Started Executing 'testscript' Test Case*********************
+Nov 07,2016 10:57:23 [info]  Client: AMCN
+Nov 07,2016 10:57:23 [info]  URL: http://rlv2wb79/login.aspx
+Nov 07,2016 10:57:23 [info]  UserName: automation
+Nov 07,2016 10:57:23 [info]  Password: automation
+Nov 07,2016 10:57:24 [info]  Entered "automation" in field 'User Name'
+Nov 07,2016 10:57:24 [info]  Clicked on the 'Temporary Check Box'
+Nov 07,2016 10:57:25 [info]  Entered "automation" in field 'Password'
+Nov 07,2016 10:57:32 [info]  Clicked on the 'LoginButton'
+Nov 07,2016 11:02:38 [info]  ====Failed==== "Term From Field" field is not present'
+Nov 07,2016 11:02:38 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Nov2016\\07\Term From Field_CheckpointFailure_11-07-2016 11-02-38 AM.jpg
+Nov 07,2016 11:06:56 [info]  ********************Started Executiong the Test Suite at 11:06:56******************
+Nov 07,2016 11:06:56 [info]  Client: AMCN
+Nov 07,2016 11:06:56 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Nov 07,2016 11:06:56 [info]  *********************Started Executing 'testscript' Test Case*********************
+Nov 07,2016 11:07:06 [info]  Client: AMCN
+Nov 07,2016 11:07:06 [info]  URL: http://rlv2wb79/login.aspx
+Nov 07,2016 11:07:06 [info]  UserName: automation
+Nov 07,2016 11:07:06 [info]  Password: automation
+Nov 07,2016 11:07:07 [info]  Entered "automation" in field 'User Name'
+Nov 07,2016 11:07:07 [info]  Clicked on the 'Temporary Check Box'
+Nov 07,2016 11:07:08 [info]  Entered "automation" in field 'Password'
+Nov 07,2016 11:07:16 [info]  Clicked on the 'LoginButton'
+Nov 07,2016 11:07:49 [info]  ====Failed==== "Term From Field" field is not present'
+Nov 07,2016 11:07:49 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Nov2016\\07\Term From Field_CheckpointFailure_11-07-2016 11-07-49 AM.jpg
+Nov 07,2016 11:08:33 [info]  ********************Started Executiong the Test Suite at 11:08:33******************
+Nov 07,2016 11:08:33 [info]  Client: AMCN
+Nov 07,2016 11:08:33 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Nov 07,2016 11:08:33 [info]  *********************Started Executing 'testscript' Test Case*********************
+Nov 07,2016 11:08:42 [info]  Client: AMCN
+Nov 07,2016 11:08:42 [info]  URL: http://rlv2wb79/login.aspx
+Nov 07,2016 11:08:42 [info]  UserName: automation
+Nov 07,2016 11:08:42 [info]  Password: automation
+Nov 07,2016 11:08:43 [info]  Entered "automation" in field 'User Name'
+Nov 07,2016 11:08:44 [info]  Clicked on the 'Temporary Check Box'
+Nov 07,2016 11:08:45 [info]  Entered "automation" in field 'Password'
+Nov 07,2016 11:08:52 [info]  Clicked on the 'LoginButton'
+Nov 07,2016 11:09:31 [info]  Clicked on the 'Term From Field'
+Nov 07,2016 11:09:33 [info]  Entered "1/1/2007" in field 'Term From'
+Nov 07,2016 11:09:33 [info]  Test 'testscript' PASSED
+Nov 07,2016 11:09:34 [info]  Closed the Browser
+Nov 07,2016 11:10:56 [info]  ********************Started Executiong the Test Suite at 11:10:56******************
+Nov 07,2016 11:10:56 [info]  Client: AMCN
+Nov 07,2016 11:10:56 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Nov 07,2016 11:10:56 [info]  *********************Started Executing 'testscript' Test Case*********************
+Nov 07,2016 11:11:06 [info]  Client: AMCN
+Nov 07,2016 11:11:06 [info]  URL: http://rlv2wb79/login.aspx
+Nov 07,2016 11:11:06 [info]  UserName: automation
+Nov 07,2016 11:11:06 [info]  Password: automation
+Nov 07,2016 11:11:07 [info]  Entered "automation" in field 'User Name'
+Nov 07,2016 11:11:07 [info]  Clicked on the 'Temporary Check Box'
+Nov 07,2016 11:11:08 [info]  Entered "automation" in field 'Password'
+Nov 07,2016 11:11:14 [info]  Clicked on the 'LoginButton'
+Nov 07,2016 11:11:40 [info]  ********************Started Executiong the Test Suite at 11:11:40******************
+Nov 07,2016 11:11:40 [info]  Client: AMCN
+Nov 07,2016 11:11:40 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Nov 07,2016 11:11:40 [info]  *********************Started Executing 'testscript' Test Case*********************
+Nov 07,2016 11:11:50 [info]  Client: AMCN
+Nov 07,2016 11:11:50 [info]  URL: http://rlv2wb79/login.aspx
+Nov 07,2016 11:11:50 [info]  UserName: automation
+Nov 07,2016 11:11:50 [info]  Password: automation
+Nov 07,2016 11:11:51 [info]  Entered "automation" in field 'User Name'
+Nov 07,2016 11:11:51 [info]  Clicked on the 'Temporary Check Box'
+Nov 07,2016 11:11:52 [info]  Entered "automation" in field 'Password'
+Nov 07,2016 11:11:58 [info]  Clicked on the 'LoginButton'
+Nov 07,2016 11:13:23 [info]  Clicked on the 'Term From Field'
+Nov 07,2016 11:13:26 [info]  Entered "1/1/2007" in field 'Term From'
+Nov 07,2016 11:13:45 [info]  ====Failed==== "Term From" field is not present'Term From'
+Nov 07,2016 11:13:45 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Nov2016\\07\Term From_CheckpointFailure_11-07-2016 11-13-45 AM.jpg
+Nov 07,2016 11:19:10 [info]  Test 'testscript' PASSED
+Nov 07,2016 11:19:11 [info]  Closed the Browser
+Nov 07,2016 11:22:50 [info]  ********************Started Executiong the Test Suite at 11:22:50******************
+Nov 07,2016 11:22:50 [info]  Client: AMCN
+Nov 07,2016 11:22:50 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Nov 07,2016 11:22:50 [info]  *********************Started Executing 'testscript' Test Case*********************
+Nov 07,2016 11:22:59 [info]  Client: AMCN
+Nov 07,2016 11:22:59 [info]  URL: http://rlv2wb79/login.aspx
+Nov 07,2016 11:22:59 [info]  UserName: automation
+Nov 07,2016 11:22:59 [info]  Password: automation
+Nov 07,2016 11:23:00 [info]  Entered "automation" in field 'User Name'
+Nov 07,2016 11:23:00 [info]  Clicked on the 'Temporary Check Box'
+Nov 07,2016 11:23:01 [info]  Entered "automation" in field 'Password'
+Nov 07,2016 11:23:07 [info]  Clicked on the 'LoginButton'
+Nov 07,2016 11:24:24 [info]  Clicked on the 'Term From Field'
+Nov 07,2016 11:24:27 [info]  Entered "1/1/2007" in field 'Term From'
+Nov 07,2016 11:24:30 [info]  Clicked on the 'Term From Field'
+Nov 07,2016 11:24:31 [info]  Entered "1/1/2007" in field 'Term From'
+Nov 07,2016 11:24:35 [info]  Test 'testscript' PASSED
+Nov 07,2016 11:24:36 [info]  Closed the Browser
+Nov 07,2016 11:30:13 [info]  ********************Started Executiong the Test Suite at 11:30:13******************
+Nov 07,2016 11:30:13 [info]  Client: AMCN
+Nov 07,2016 11:30:13 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Nov 07,2016 11:30:13 [info]  *********************Started Executing 'testscript' Test Case*********************
+Nov 07,2016 11:30:22 [info]  Client: AMCN
+Nov 07,2016 11:30:22 [info]  URL: http://rlv2wb79/login.aspx
+Nov 07,2016 11:30:22 [info]  UserName: automation
+Nov 07,2016 11:30:22 [info]  Password: automation
+Nov 07,2016 11:30:23 [info]  Entered "automation" in field 'User Name'
+Nov 07,2016 11:30:23 [info]  Clicked on the 'Temporary Check Box'
+Nov 07,2016 11:30:24 [info]  Entered "automation" in field 'Password'
+Nov 07,2016 11:30:33 [info]  Clicked on the 'LoginButton'
+Nov 07,2016 11:31:59 [info]  Clicked on the 'Term From Field'
+Nov 07,2016 11:32:01 [info]  Entered "01/1/2007" in field 'Term From'
+Nov 07,2016 11:32:06 [info]  Clicked on the 'Term From Field'
+Nov 07,2016 11:32:07 [info]  Entered "12/31/2007" in field 'Term to'
+Nov 07,2016 11:32:11 [info]  Test 'testscript' PASSED
+Nov 07,2016 11:32:12 [info]  Closed the Browser
+Nov 07,2016 14:25:26 [info]  ********************Started Executiong the Test Suite at 14:25:26******************
+Nov 07,2016 14:25:26 [info]  Client: AMCN
+Nov 07,2016 14:25:26 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Nov 07,2016 14:25:26 [info]  *********************Started Executing 'testscript' Test Case*********************
+Nov 07,2016 14:25:54 [info]  ********************Started Executiong the Test Suite at 14:25:54******************
+Nov 07,2016 14:25:54 [info]  Client: AMCN
+Nov 07,2016 14:25:54 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Nov 07,2016 14:25:54 [info]  *********************Started Executing 'testscript' Test Case*********************
+Nov 07,2016 14:26:07 [info]  Client: AMCN
+Nov 07,2016 14:26:07 [info]  URL: http://rlv2wb79/login.aspx
+Nov 07,2016 14:26:07 [info]  UserName: automation
+Nov 07,2016 14:26:07 [info]  Password: automation
+Nov 07,2016 14:26:12 [info]  Entered "automation" in field 'User Name'
+Nov 07,2016 14:26:12 [info]  Clicked on the 'Temporary Check Box'
+Nov 07,2016 14:26:13 [info]  Entered "automation" in field 'Password'
+Nov 07,2016 14:26:21 [info]  Clicked on the 'LoginButton'
+Nov 07,2016 14:27:09 [info]  
+Nov 07,2016 14:27:09 [info]  *****  PERPETUITY   *****
+Nov 07,2016 14:27:10 [info]  From Manual Test Step : TC_RI_MR_126
+Nov 07,2016 14:28:06 [info]  Clicked on the 'PERPETUITY Check Box'
+Nov 07,2016 14:28:19 [info]  Verify The data of RI_MediaRights_EditMode_*Term To
+Nov 07,2016 14:28:19 [info]  ====Failed==== Expected value is:[12/31/9999 ] but Actual value is[]. Please check the screenshot with name: RI_MediaRights_EditMode_*Term Tofor more details
+Nov 07,2016 14:29:42 [info]  ********************Started Executiong the Test Suite at 14:29:42******************
+Nov 07,2016 14:29:42 [info]  Client: AMCN
+Nov 07,2016 14:29:42 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Nov 07,2016 14:29:42 [info]  *********************Started Executing 'testscript' Test Case*********************
+Nov 07,2016 14:29:52 [info]  Client: AMCN
+Nov 07,2016 14:29:52 [info]  URL: http://rlv2wb79/login.aspx
+Nov 07,2016 14:29:52 [info]  UserName: automation
+Nov 07,2016 14:29:52 [info]  Password: automation
+Nov 07,2016 14:29:53 [info]  Entered "automation" in field 'User Name'
+Nov 07,2016 14:29:53 [info]  Clicked on the 'Temporary Check Box'
+Nov 07,2016 14:29:54 [info]  Entered "automation" in field 'Password'
+Nov 07,2016 14:30:01 [info]  Clicked on the 'LoginButton'
+Nov 07,2016 14:30:28 [info]  
+Nov 07,2016 14:30:28 [info]  *****  PERPETUITY   *****
+Nov 07,2016 14:30:28 [info]  From Manual Test Step : TC_RI_MR_126
+Nov 07,2016 14:30:32 [info]  Clicked on the 'PERPETUITY Check Box'
+Nov 07,2016 14:30:43 [info]  Verify The data of RI_MediaRights_EditMode_*Term To
+Nov 07,2016 14:30:43 [info]  ====Failed==== Expected value is:[12/31/9999 ] but Actual value is[]. Please check the screenshot with name: RI_MediaRights_EditMode_*Term Tofor more details
+Nov 07,2016 14:30:43 [info]  Test 'testscript' FAILED
+Nov 07,2016 14:30:43 [info]  2
+Nov 07,2016 14:30:43 [info]  Test Case :testscript's Screenshot of Failure Page: C:\Screenshots\Nov2016\\07\testscript_11-07-2016 2-30-43 PM.jpg
+Nov 07,2016 14:30:47 [info]  Closed the Browser
+Nov 07,2016 14:55:57 [info]  ********************Started Executiong the Test Suite at 14:55:57******************
+Nov 07,2016 14:55:57 [info]  Client: AMCN
+Nov 07,2016 14:55:57 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Nov 07,2016 14:55:57 [info]  *********************Started Executing 'testscript' Test Case*********************
+Nov 07,2016 14:56:07 [info]  Client: AMCN
+Nov 07,2016 14:56:07 [info]  URL: http://rlv2wb79/login.aspx
+Nov 07,2016 14:56:07 [info]  UserName: automation
+Nov 07,2016 14:56:07 [info]  Password: automation
+Nov 07,2016 14:56:08 [info]  Entered "automation" in field 'User Name'
+Nov 07,2016 14:56:08 [info]  Clicked on the 'Temporary Check Box'
+Nov 07,2016 14:56:09 [info]  Entered "automation" in field 'Password'
+Nov 07,2016 14:56:15 [info]  Clicked on the 'LoginButton'
+Nov 07,2016 14:59:23 [info]  
+Nov 07,2016 14:59:23 [info]  *****  PERPETUITY   *****
+Nov 07,2016 14:59:23 [info]  From Manual Test Step : TC_RI_MR_126
+Nov 07,2016 14:59:37 [info]  ====Failed==== "PERPETUITY Check Box" field is not present'
+Nov 07,2016 14:59:37 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Nov2016\\07\PERPETUITY Check Box_CheckpointFailure_11-07-2016 2-59-37 PM.jpg
+Nov 07,2016 14:59:48 [info]  Verify The data of RI_MediaRights_EditMode_*Term To
+Nov 07,2016 14:59:48 [info]  ====Failed==== Expected value is:[12/31/9999] but Actual value is[]. Please check the screenshot with name: RI_MediaRights_EditMode_*Term Tofor more details
+Nov 07,2016 14:59:48 [info]  Test 'testscript' FAILED
+Nov 07,2016 14:59:48 [info]  2
+Nov 07,2016 14:59:48 [info]  Test Case :testscript's Screenshot of Failure Page: C:\Screenshots\Nov2016\\07\testscript_11-07-2016 2-59-48 PM.jpg
+Nov 07,2016 14:59:49 [info]  Closed the Browser
+Nov 07,2016 15:00:34 [info]  ********************Started Executiong the Test Suite at 15:00:34******************
+Nov 07,2016 15:00:34 [info]  Client: AMCN
+Nov 07,2016 15:00:34 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Nov 07,2016 15:00:34 [info]  *********************Started Executing 'testscript' Test Case*********************
+Nov 07,2016 15:00:44 [info]  Client: AMCN
+Nov 07,2016 15:00:44 [info]  URL: http://rlv2wb79/login.aspx
+Nov 07,2016 15:00:44 [info]  UserName: automation
+Nov 07,2016 15:00:44 [info]  Password: automation
+Nov 07,2016 15:00:45 [info]  Entered "automation" in field 'User Name'
+Nov 07,2016 15:00:45 [info]  Clicked on the 'Temporary Check Box'
+Nov 07,2016 15:00:46 [info]  Entered "automation" in field 'Password'
+Nov 07,2016 15:00:52 [info]  Clicked on the 'LoginButton'
+Nov 07,2016 15:01:38 [info]  
+Nov 07,2016 15:01:38 [info]  *****  PERPETUITY   *****
+Nov 07,2016 15:01:38 [info]  From Manual Test Step : TC_RI_MR_126
+Nov 07,2016 15:01:42 [info]  Test 'testscript' FAILED
+Nov 07,2016 15:01:42 [info]  2
+Nov 07,2016 15:01:44 [info]  Test Case :testscript's Screenshot of Failure Page: C:\Screenshots\Nov2016\\07\testscript_11-07-2016 3-01-42 PM.jpg
+Nov 07,2016 15:01:45 [info]  Closed the Browser
+Nov 07,2016 15:01:52 [info]  ********************Started Executiong the Test Suite at 15:01:52******************
+Nov 07,2016 15:01:52 [info]  Client: AMCN
+Nov 07,2016 15:01:52 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Nov 07,2016 15:01:52 [info]  *********************Started Executing 'testscript' Test Case*********************
+Nov 07,2016 15:02:01 [info]  Client: AMCN
+Nov 07,2016 15:02:01 [info]  URL: http://rlv2wb79/login.aspx
+Nov 07,2016 15:02:01 [info]  UserName: automation
+Nov 07,2016 15:02:01 [info]  Password: automation
+Nov 07,2016 15:02:02 [info]  Entered "automation" in field 'User Name'
+Nov 07,2016 15:02:02 [info]  Clicked on the 'Temporary Check Box'
+Nov 07,2016 15:02:03 [info]  Entered "automation" in field 'Password'
+Nov 07,2016 15:02:10 [info]  Clicked on the 'LoginButton'
+Nov 07,2016 15:03:24 [info]  
+Nov 07,2016 15:03:24 [info]  *****  PERPETUITY   *****
+Nov 07,2016 15:03:24 [info]  From Manual Test Step : TC_RI_MR_126
+Nov 07,2016 15:03:29 [info]  Clicked on the 'PERPETUITY Check Box'
+Nov 07,2016 15:03:29 [info]  Verify The data of RI_MediaRights_EditMode_*Term To
+Nov 07,2016 15:03:29 [info]  Verified that Expected value :[12/31/9999] is matched with Actual value :[12/31/9999]
+Nov 07,2016 15:03:44 [info]  Clicked on the 'Term From Field'
+Nov 07,2016 15:03:46 [info]  Entered "12/31/2008" in field 'Term From'
+Nov 07,2016 15:03:47 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 07,2016 15:03:47 [info]  Verify The data of Term From Data
+Nov 07,2016 15:03:47 [info]  ====Failed==== Expected value is:[12/31/2008] but Actual value is[]. Please check the screenshot with name: Term From Datafor more details
+Nov 07,2016 15:03:47 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Nov2016\\07\Term From Data_CheckpointFailure_11-07-2016 3-03-47 PM.jpg
+Nov 07,2016 15:03:48 [info]  Clicked on the 'Term To Field'
+Nov 07,2016 15:03:49 [info]  Entered "1/1/2007" in field 'Term To input Field'
+Nov 07,2016 15:03:49 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 07,2016 15:03:50 [info]  Verify The data of Term From Data
+Nov 07,2016 15:03:50 [info]  ====Failed==== Expected value is:[12/31/2008] but Actual value is[]. Please check the screenshot with name: Term From Datafor more details
+Nov 07,2016 15:03:50 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Nov2016\\07\Term From Data_CheckpointFailure_11-07-2016 3-03-50 PM.jpg
+Nov 07,2016 15:03:50 [info]  "PERPETUITY check box gets unchecked on enterintg data in Term 'From'" is Present
+Nov 07,2016 15:03:51 [info]  Clicked on the 'EXCLUSIVITY Check Box'
+Nov 07,2016 15:04:01 [info]  ====Failed==== "EXCLUSIVITY check box gets Checked"  does not exist.
+Nov 07,2016 15:04:01 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Nov2016\\07\EXCLUSIVITY check box gets Checked_CheckpointFailure_11-07-2016 3-04-01 PM.jpg
+Nov 07,2016 15:04:05 [info]  Clicked on the 'EXCLUSIVITY Check Box'
+Nov 07,2016 15:04:05 [info]  "EXCLUSIVITY check box gets Unchecked" is Present
+Nov 07,2016 15:04:08 [info]  Clicked on the 'EXCLUSIVITY Check Box'
+Nov 07,2016 15:04:19 [info]  ====Failed==== "EXCLUSIVITY check box gets Checked"  does not exist.
+Nov 07,2016 15:04:19 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Nov2016\\07\EXCLUSIVITY check box gets Checked_CheckpointFailure_11-07-2016 3-04-19 PM.jpg
+Nov 07,2016 15:04:19 [info]  Test 'testscript' PASSED
+Nov 07,2016 15:04:20 [info]  Closed the Browser
+Nov 07,2016 15:11:40 [info]  ********************Started Executiong the Test Suite at 15:11:40******************
+Nov 07,2016 15:11:40 [info]  Client: AMCN
+Nov 07,2016 15:11:40 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Nov 07,2016 15:11:40 [info]  *********************Started Executing 'testscript' Test Case*********************
+Nov 07,2016 15:11:49 [info]  Client: AMCN
+Nov 07,2016 15:11:49 [info]  URL: http://rlv2wb79/login.aspx
+Nov 07,2016 15:11:49 [info]  UserName: automation
+Nov 07,2016 15:11:49 [info]  Password: automation
+Nov 07,2016 15:11:51 [info]  Entered "automation" in field 'User Name'
+Nov 07,2016 15:11:51 [info]  Clicked on the 'Temporary Check Box'
+Nov 07,2016 15:11:52 [info]  Entered "automation" in field 'Password'
+Nov 07,2016 15:11:58 [info]  Clicked on the 'LoginButton'
+Nov 07,2016 15:14:42 [info]  
+Nov 07,2016 15:14:42 [info]  *****  PERPETUITY   *****
+Nov 07,2016 15:14:42 [info]  From Manual Test Step : TC_RI_MR_126
+Nov 07,2016 15:14:47 [info]  Clicked on the 'PERPETUITY Check Box'
+Nov 07,2016 15:14:47 [info]  Verify The data of RI_MediaRights_EditMode_*Term To
+Nov 07,2016 15:14:47 [info]  Verified that Expected value :[12/31/9999] is matched with Actual value :[12/31/9999]
+Nov 07,2016 15:14:48 [info]  Clicked on the 'Term From Field'
+Nov 07,2016 15:14:50 [info]  Entered "12/31/2008" in field 'Term From'
+Nov 07,2016 15:14:50 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 07,2016 15:14:51 [info]  Verify The data of Term From Data
+Nov 07,2016 15:14:51 [info]  ====Failed==== Expected value is:[12/31/2008] but Actual value is[]. Please check the screenshot with name: Term From Datafor more details
+Nov 07,2016 15:14:51 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Nov2016\\07\Term From Data_CheckpointFailure_11-07-2016 3-14-51 PM.jpg
+Nov 07,2016 15:14:52 [info]  Clicked on the 'Term To Field'
+Nov 07,2016 15:14:52 [info]  Entered "1/1/2007" in field 'Term To input Field'
+Nov 07,2016 15:14:53 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 07,2016 15:14:53 [info]  Verify The data of Term From Data
+Nov 07,2016 15:14:53 [info]  ====Failed==== Expected value is:[12/31/2008] but Actual value is[]. Please check the screenshot with name: Term From Datafor more details
+Nov 07,2016 15:14:53 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Nov2016\\07\Term From Data_CheckpointFailure_11-07-2016 3-14-53 PM.jpg
+Nov 07,2016 15:14:54 [info]  "PERPETUITY check box gets unchecked on enterintg data in Term 'From'" is Present
+Nov 07,2016 15:14:54 [info]  Clicked on the 'EXCLUSIVITY Check Box'
+Nov 07,2016 15:14:55 [info]  "EXCLUSIVITY check box gets Checked" is Present
+Nov 07,2016 15:14:58 [info]  Clicked on the 'EXCLUSIVITY Check Box'
+Nov 07,2016 15:14:58 [info]  "EXCLUSIVITY check box gets Unchecked" is Present
+Nov 07,2016 15:15:02 [info]  Clicked on the 'EXCLUSIVITY Check Box'
+Nov 07,2016 15:15:02 [info]  "EXCLUSIVITY check box gets Checked" is Present
+Nov 07,2016 15:15:02 [info]  Test 'testscript' PASSED
+Nov 07,2016 15:15:03 [info]  Closed the Browser
+Nov 07,2016 15:42:56 [info]  ********************Started Executiong the Test Suite at 15:42:56******************
+Nov 07,2016 15:42:56 [info]  Client: AMCN
+Nov 07,2016 15:42:56 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Nov 07,2016 15:42:56 [info]  *********************Started Executing 'testscript' Test Case*********************
+Nov 07,2016 15:43:05 [info]  Client: AMCN
+Nov 07,2016 15:43:05 [info]  URL: http://rlv2wb79/login.aspx
+Nov 07,2016 15:43:05 [info]  UserName: automation
+Nov 07,2016 15:43:05 [info]  Password: automation
+Nov 07,2016 15:43:07 [info]  Entered "automation" in field 'User Name'
+Nov 07,2016 15:43:08 [info]  Clicked on the 'Temporary Check Box'
+Nov 07,2016 15:43:08 [info]  Entered "automation" in field 'Password'
+Nov 07,2016 15:43:18 [info]  Clicked on the 'LoginButton'
+Nov 07,2016 15:43:52 [info]  
+Nov 07,2016 15:43:52 [info]  *****  PERPETUITY   *****
+Nov 07,2016 15:43:52 [info]  From Manual Test Step : TC_RI_MR_126
+Nov 07,2016 15:43:57 [info]  Clicked on the 'PERPETUITY Check Box'
+Nov 07,2016 15:43:57 [info]  Verify The data of RI_MediaRights_EditMode_*Term To
+Nov 07,2016 15:43:57 [info]  Verified that Expected value :[12/31/9999] is matched with Actual value :[12/31/9999]
+Nov 07,2016 15:43:58 [info]  Clicked on the 'Term From Field'
+Nov 07,2016 15:44:02 [info]  Entered "12/31/2008" in field 'Term From'
+Nov 07,2016 15:44:03 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 07,2016 15:44:03 [info]  Verify The data of Term From Data
+Nov 07,2016 15:44:03 [info]  ====Failed==== Expected value is:[12/31/2008] but Actual value is[]. Please check the screenshot with name: Term From Datafor more details
+Nov 07,2016 15:44:03 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Nov2016\\07\Term From Data_CheckpointFailure_11-07-2016 3-44-03 PM.jpg
+Nov 07,2016 15:44:04 [info]  Clicked on the 'Term To Field'
+Nov 07,2016 15:44:05 [info]  Entered "1/1/2007" in field 'Term To input Field'
+Nov 07,2016 15:44:05 [info]  Clicked on the ' Support Click on ROW_NO_HeaderName'
+Nov 07,2016 15:44:06 [info]  Verify The data of Term From Data
+Nov 07,2016 15:44:06 [info]  ====Failed==== Expected value is:[1/1/2007] but Actual value is[01/01/2007]. Please check the screenshot with name: Term From Datafor more details
+Nov 07,2016 15:44:06 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Nov2016\\07\Term From Data_CheckpointFailure_11-07-2016 3-44-06 PM.jpg
+Nov 07,2016 15:44:06 [info]  "PERPETUITY check box gets unchecked on enterintg data in Term 'From'" is Present
+Nov 07,2016 15:44:07 [info]  Clicked on the 'EXCLUSIVITY Check Box'
+Nov 07,2016 15:44:07 [info]  "EXCLUSIVITY check box gets Checked" is Present
+Nov 07,2016 15:44:11 [info]  Clicked on the 'EXCLUSIVITY Check Box'
+Nov 07,2016 15:44:11 [info]  "EXCLUSIVITY check box gets Unchecked" is Present
+Nov 07,2016 15:44:14 [info]  Clicked on the 'EXCLUSIVITY Check Box'
+Nov 07,2016 15:44:14 [info]  "EXCLUSIVITY check box gets Checked" is Present
+Nov 07,2016 15:44:14 [info]  Test 'testscript' PASSED
+Nov 07,2016 15:44:15 [info]  Closed the Browser
+Nov 07,2016 15:58:15 [info]  ********************Started Executiong the Test Suite at 15:58:15******************
+Nov 07,2016 15:58:15 [info]  Client: AMCN
+Nov 07,2016 15:58:15 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Nov 07,2016 15:58:15 [info]  *********************Started Executing 'testscript' Test Case*********************
+Nov 07,2016 15:58:25 [info]  Client: AMCN
+Nov 07,2016 15:58:25 [info]  URL: http://rlv2wb79/login.aspx
+Nov 07,2016 15:58:25 [info]  UserName: automation
+Nov 07,2016 15:58:25 [info]  Password: automation
+Nov 07,2016 15:58:26 [info]  Entered "automation" in field 'User Name'
+Nov 07,2016 15:58:26 [info]  Clicked on the 'Temporary Check Box'
+Nov 07,2016 15:58:27 [info]  Entered "automation" in field 'Password'
+Nov 07,2016 15:58:27 [info]  Clicked on the 'LoginButton'
+Nov 07,2016 15:59:09 [info]  
+Nov 07,2016 15:59:09 [info]  *****  PERPETUITY   *****
+Nov 07,2016 15:59:09 [info]  From Manual Test Step : TC_RI_MR_126
+Nov 07,2016 15:59:14 [info]  Clicked on the 'RI_MediaRights_EditMode_FLAG_RESTRICTION_TYPE_HeaderName Field'
+Nov 07,2016 15:59:15 [info]  Clicked on the 'Restrictions Drop Down Image'
+Nov 07,2016 15:59:15 [info]  Verify The data of RI_MediaRights_Language_DropDownValues1
+Nov 07,2016 15:59:15 [info]  Verified that Expected value :[Holdback] is matched with Actual value :[Holdback]
+Nov 07,2016 15:59:15 [info]  Verify The data of RI_MediaRights_Language_DropDownValues2
+Nov 07,2016 15:59:15 [info]  Verified that Expected value :[Ext. Carve-Out] is matched with Actual value :[Ext. Carve-Out]
+Nov 07,2016 15:59:15 [info]  Test 'testscript' PASSED
+Nov 07,2016 15:59:16 [info]  Closed the Browser

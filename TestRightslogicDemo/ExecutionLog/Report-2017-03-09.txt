@@ -1,0 +1,547 @@
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 09:53:44******************</span>
+Mar 09,2017 09:53:44 [Info]  Client: SKY
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************</span>
+Mar 09,2017 09:53:56 [Info]  Client: SKY
+Mar 09,2017 09:53:56 [Info]  URL: http://rlv2wb85/Home.aspx
+Mar 09,2017 09:53:56 [Info]  UserName: admin
+Mar 09,2017 09:53:56 [Info]  Password: admin
+Mar 09,2017 09:53:58 [Info]  Entered "admin" in field 'User Name'
+Mar 09,2017 09:53:58 [Info]  Clicked on the 'Temporary Check Box'
+Mar 09,2017 09:53:58 [Info]  Entered "admin" in field 'Password'
+Mar 09,2017 09:54:15 [Info]  Clicked on the 'LoginButton'
+Mar 09,2017 09:54:24 [Info]  Clicked on the 'MODULE'
+Mar 09,2017 09:54:30 [Info]  Clicked on the 'Title Maintenance'
+Mar 09,2017 09:54:33 [Info]  Clicked on the 'Search Menu Icon' using JS Executor
+Mar 09,2017 09:54:34 [Info]  Verify The data of Asset1_Under_SearchMenu
+<span style="color:green;">Mar 09,2017 09:54:34 [Verification]  Verified that Expected value :[Titles] is matched with Actual value :[Titles]</span>
+Mar 09,2017 09:54:34 [Info]  Verify The data of Asset2_Under_SearchMenu
+<span style="color:green;">Mar 09,2017 09:54:34 [Verification]  Verified that Expected value :[Return to Last Search] is matched with Actual value :[Return to Last Search]</span>
+Mar 09,2017 09:54:42 [Info]  Clicked on the 'Asset Under Asset Search' using JS Executor
+Mar 09,2017 09:54:45 [Info]  Verify The data of AssetSearchWindowName
+<span style="color:green;">Mar 09,2017 09:54:45 [Verification]  Verified that Expected value :[Title Search] is matched with Actual value :[Title Search]</span>
+Mar 09,2017 09:54:45 [Info]  "ShowMoreIcon" is Present
+Mar 09,2017 09:54:45 [Info]  Verify The data of AssetTitleLabel
+<span style="color:green;">Mar 09,2017 09:54:45 [Verification]  Verified that Expected value :[Title Name] is matched with Actual value :[Title Name]</span>
+Mar 09,2017 09:54:45 [Info]  Verify The data of AssetSearch_AssetID
+<span style="color:green;">Mar 09,2017 09:54:45 [Verification]  Verified that Expected value :[Title ID] is matched with Actual value :[Title ID]</span>
+Mar 09,2017 09:54:45 [Info]  Verify The data of AssetSearch_AssetType
+<span style="color:green;">Mar 09,2017 09:54:45 [Verification]  Verified that Expected value :[Title Type] is matched with Actual value :[Title Types]</span>
+Mar 09,2017 09:54:46 [Info]  Verify The data of AssetSearch_SBU
+<span style="color:green;">Mar 09,2017 09:54:46 [Verification]  Verified that Expected value :[Source Bus. Unit] is matched with Actual value :[Source Bus. Unit]</span>
+Mar 09,2017 09:54:46 [Info]  Verify The data of AssetSearch_Genre
+<span style="color:green;">Mar 09,2017 09:54:46 [Verification]  Verified that Expected value :[EPG Genre] is matched with Actual value :[EPG Genre]</span>
+Mar 09,2017 09:54:46 [Info]  Verify The data of AssetSearch_ShortName
+<span style="color:green;">Mar 09,2017 09:54:46 [Verification]  Verified that Expected value :[EPG Name] is matched with Actual value :[EPG Name]</span>
+Mar 09,2017 09:54:46 [Info]  Verify The data of AssetSearch_AssetStatus
+<span style="color:green;">Mar 09,2017 09:54:46 [Verification]  Verified that Expected value :[Title Status] is matched with Actual value :[Title Status]</span>
+Mar 09,2017 09:54:46 [Info]  Verify The data of AssetSearch_ExpandToggleImagebtn
+<span style="color:green;">Mar 09,2017 09:54:46 [Verification]  Verified that Expected value :[Show Additional Search Fields] is matched with Actual value :[Show Additional Search Fields]</span>
+Mar 09,2017 09:54:46 [Info]  Clicked on the 'Show More Icon'
+Mar 09,2017 09:54:46 [Info]  Verify The data of AssetSearch_Attribute
+<span style="color:red;">Mar 09,2017 09:54:46 [Fail]  ====Failed==== Expected value is:[Attributes] but Actual value is[]. Please check the screenshot with name: AssetSearch_Attributefor more details</span>
+Mar 09,2017 09:54:57 [Info]  Verify The data of AssetSearch_Contributor
+<span style="color:red;">Mar 09,2017 09:54:57 [Fail]  ====Failed==== Expected value is:[Cast] but Actual value is[]. Please check the screenshot with name: AssetSearch_Contributorfor more details</span>
+Mar 09,2017 09:54:57 [Info]  Verify The data of AssetSearch_Charachter
+<span style="color:green;">Mar 09,2017 09:54:57 [Verification]  Verified that Expected value :[Character] is matched with Actual value :[Character]</span>
+Mar 09,2017 09:54:57 [Info]  Verify The data of AssetSearch_PremierNetwork
+<span style="color:green;">Mar 09,2017 09:54:57 [Verification]  Verified that Expected value :[Airing Channel/Bus Unit] is matched with Actual value :[Airing Channel/Bus Unit]</span>
+Mar 09,2017 09:54:57 [Info]  Verify The data of AssetSearch_PremierAirDate
+<span style="color:green;">Mar 09,2017 09:54:57 [Verification]  Verified that Expected value :[Premiere Date] is matched with Actual value :[Premiere Date]</span>
+Mar 09,2017 09:54:57 [Info]  Verify The data of AssetSearch_Vendor
+<span style="color:green;">Mar 09,2017 09:54:57 [Verification]  Verified that Expected value :[Vendor] is matched with Actual value :[Vendor]</span>
+Mar 09,2017 09:54:57 [Info]  Verify The data of AssetSearch_Keyword
+<span style="color:green;">Mar 09,2017 09:54:57 [Verification]  Verified that Expected value :[Keyword] is matched with Actual value :[Keyword]</span>
+Mar 09,2017 09:54:57 [Info]  Verify The data of AssetSearch_AKA
+<span style="color:green;">Mar 09,2017 09:54:57 [Verification]  Verified that Expected value :[AKA] is matched with Actual value :[AKA]</span>
+Mar 09,2017 09:54:58 [Info]  Verify The data of AssetSearch_Seasons
+<span style="color:green;">Mar 09,2017 09:54:58 [Verification]  Verified that Expected value :[Display Seasons] is matched with Actual value :[Display Seasons]</span>
+Mar 09,2017 09:54:58 [Info]  Verify The data of AssetSearch_Episodes
+<span style="color:green;">Mar 09,2017 09:54:58 [Verification]  Verified that Expected value :[Display Episodes] is matched with Actual value :[Display Episodes]</span>
+Mar 09,2017 09:54:58 [Info]  Verify The data of AssetSearch_SelectAll
+<span style="color:green;">Mar 09,2017 09:54:58 [Verification]  Verified that Expected value :[All] is matched with Actual value :[All]</span>
+Mar 09,2017 09:54:58 [Info]  Verify The data of AssetSearch_SearchEarliest
+<span style="color:green;">Mar 09,2017 09:54:58 [Verification]  Verified that Expected value :[Search Earliest
+Premiere only] is matched with Actual value :[Search Earliest
+Premiere only]</span>
+Mar 09,2017 09:54:58 [Info]  Verify The data of AssetSearch_ExactMatch
+<span style="color:green;">Mar 09,2017 09:54:58 [Verification]  Verified that Expected value :[Exact Match] is matched with Actual value :[Exact Match]</span>
+Mar 09,2017 09:54:58 [Info]  Verify The data of AssetSearch_ExpandToggleImagebtn
+<span style="color:green;">Mar 09,2017 09:54:58 [Verification]  Verified that Expected value :[Hide Additional Search Fields] is matched with Actual value :[Hide Additional Search Fields]</span>
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 09:58:35******************</span>
+Mar 09,2017 09:58:35 [Info]  Client: SKY
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************</span>
+Mar 09,2017 09:58:47 [Info]  Client: SKY
+Mar 09,2017 09:58:47 [Info]  URL: http://rlv2wb85/Home.aspx
+Mar 09,2017 09:58:47 [Info]  UserName: admin
+Mar 09,2017 09:58:47 [Info]  Password: admin
+Mar 09,2017 09:58:48 [Info]  Entered "admin" in field 'User Name'
+Mar 09,2017 09:58:48 [Info]  Clicked on the 'Temporary Check Box'
+Mar 09,2017 09:58:48 [Info]  Entered "admin" in field 'Password'
+Mar 09,2017 09:59:05 [Info]  Clicked on the 'LoginButton'
+Mar 09,2017 09:59:15 [Info]  Clicked on the 'MODULE'
+Mar 09,2017 09:59:21 [Info]  Clicked on the 'Title Maintenance'
+Mar 09,2017 09:59:24 [Info]  Clicked on the 'Search Menu Icon' using JS Executor
+Mar 09,2017 09:59:24 [Info]  Verify The data of Asset1_Under_SearchMenu
+<span style="color:green;">Mar 09,2017 09:59:24 [Verification]  Verified that Expected value :[Titles] is matched with Actual value :[Titles]</span>
+Mar 09,2017 09:59:24 [Info]  Verify The data of Asset2_Under_SearchMenu
+<span style="color:green;">Mar 09,2017 09:59:24 [Verification]  Verified that Expected value :[Return to Last Search] is matched with Actual value :[Return to Last Search]</span>
+Mar 09,2017 09:59:26 [Info]  Clicked on the 'Asset Under Asset Search' using JS Executor
+Mar 09,2017 09:59:30 [Info]  Verify The data of AssetSearchWindowName
+<span style="color:green;">Mar 09,2017 09:59:30 [Verification]  Verified that Expected value :[Title Search] is matched with Actual value :[Title Search]</span>
+Mar 09,2017 09:59:30 [Info]  "ShowMoreIcon" is Present
+Mar 09,2017 09:59:30 [Info]  Verify The data of AssetTitleLabel
+<span style="color:green;">Mar 09,2017 09:59:30 [Verification]  Verified that Expected value :[Title Name] is matched with Actual value :[Title Name]</span>
+Mar 09,2017 09:59:30 [Info]  Verify The data of AssetSearch_AssetID
+<span style="color:green;">Mar 09,2017 09:59:30 [Verification]  Verified that Expected value :[Title ID] is matched with Actual value :[Title ID]</span>
+Mar 09,2017 09:59:30 [Info]  Verify The data of AssetSearch_AssetType
+<span style="color:green;">Mar 09,2017 09:59:30 [Verification]  Verified that Expected value :[Title Type] is matched with Actual value :[Title Types]</span>
+Mar 09,2017 09:59:30 [Info]  Verify The data of AssetSearch_SBU
+<span style="color:green;">Mar 09,2017 09:59:30 [Verification]  Verified that Expected value :[Source Bus. Unit] is matched with Actual value :[Source Bus. Unit]</span>
+Mar 09,2017 09:59:30 [Info]  Verify The data of AssetSearch_Genre
+<span style="color:green;">Mar 09,2017 09:59:30 [Verification]  Verified that Expected value :[EPG Genre] is matched with Actual value :[EPG Genre]</span>
+Mar 09,2017 09:59:30 [Info]  Verify The data of AssetSearch_ShortName
+<span style="color:green;">Mar 09,2017 09:59:30 [Verification]  Verified that Expected value :[EPG Name] is matched with Actual value :[EPG Name]</span>
+Mar 09,2017 09:59:30 [Info]  Verify The data of AssetSearch_AssetStatus
+<span style="color:green;">Mar 09,2017 09:59:30 [Verification]  Verified that Expected value :[Title Status] is matched with Actual value :[Title Status]</span>
+Mar 09,2017 09:59:30 [Info]  Verify The data of AssetSearch_ExpandToggleImagebtn
+<span style="color:green;">Mar 09,2017 09:59:30 [Verification]  Verified that Expected value :[Show Additional Search Fields] is matched with Actual value :[Show Additional Search Fields]</span>
+Mar 09,2017 09:59:31 [Info]  Clicked on the 'Show More Icon'
+Mar 09,2017 09:59:34 [Info]  Verify The data of AssetSearch_Attribute
+<span style="color:green;">Mar 09,2017 09:59:34 [Verification]  Verified that Expected value :[Attributes] is matched with Actual value :[Attributes]</span>
+Mar 09,2017 09:59:34 [Info]  Verify The data of AssetSearch_Charachter
+<span style="color:green;">Mar 09,2017 09:59:34 [Verification]  Verified that Expected value :[Character] is matched with Actual value :[Character]</span>
+Mar 09,2017 09:59:34 [Info]  Verify The data of AssetSearch_PremierNetwork
+<span style="color:green;">Mar 09,2017 09:59:34 [Verification]  Verified that Expected value :[Airing Channel/Bus Unit] is matched with Actual value :[Airing Channel/Bus Unit]</span>
+Mar 09,2017 09:59:34 [Info]  Verify The data of AssetSearch_PremierAirDate
+<span style="color:green;">Mar 09,2017 09:59:34 [Verification]  Verified that Expected value :[Premiere Date] is matched with Actual value :[Premiere Date]</span>
+Mar 09,2017 09:59:34 [Info]  Verify The data of AssetSearch_Vendor
+<span style="color:green;">Mar 09,2017 09:59:34 [Verification]  Verified that Expected value :[Vendor] is matched with Actual value :[Vendor]</span>
+Mar 09,2017 09:59:34 [Info]  Verify The data of AssetSearch_Keyword
+<span style="color:green;">Mar 09,2017 09:59:34 [Verification]  Verified that Expected value :[Keyword] is matched with Actual value :[Keyword]</span>
+Mar 09,2017 09:59:34 [Info]  Verify The data of AssetSearch_AKA
+<span style="color:green;">Mar 09,2017 09:59:34 [Verification]  Verified that Expected value :[AKA] is matched with Actual value :[AKA]</span>
+Mar 09,2017 09:59:34 [Info]  Verify The data of AssetSearch_Seasons
+<span style="color:green;">Mar 09,2017 09:59:34 [Verification]  Verified that Expected value :[Display Seasons] is matched with Actual value :[Display Seasons]</span>
+Mar 09,2017 09:59:34 [Info]  Verify The data of AssetSearch_Episodes
+<span style="color:green;">Mar 09,2017 09:59:34 [Verification]  Verified that Expected value :[Display Episodes] is matched with Actual value :[Display Episodes]</span>
+Mar 09,2017 09:59:34 [Info]  Verify The data of AssetSearch_SelectAll
+<span style="color:green;">Mar 09,2017 09:59:34 [Verification]  Verified that Expected value :[All] is matched with Actual value :[All]</span>
+Mar 09,2017 09:59:35 [Info]  Verify The data of AssetSearch_SearchEarliest
+<span style="color:green;">Mar 09,2017 09:59:35 [Verification]  Verified that Expected value :[Search Earliest
+Premiere only] is matched with Actual value :[Search Earliest
+Premiere only]</span>
+Mar 09,2017 09:59:35 [Info]  Verify The data of AssetSearch_ExactMatch
+<span style="color:green;">Mar 09,2017 09:59:35 [Verification]  Verified that Expected value :[Exact Match] is matched with Actual value :[Exact Match]</span>
+Mar 09,2017 09:59:35 [Info]  Verify The data of AssetSearch_ExpandToggleImagebtn
+<span style="color:green;">Mar 09,2017 09:59:35 [Verification]  Verified that Expected value :[Hide Additional Search Fields] is matched with Actual value :[Hide Additional Search Fields]</span>
+Mar 09,2017 10:00:28 [Info]  Test 'TC1_AssetSearchFields' PASSED
+Mar 09,2017 10:00:30 [Info]  Closed the Browser
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 10:07:28******************</span>
+Mar 09,2017 10:07:28 [Info]  Client: SKY
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************</span>
+Mar 09,2017 10:07:39 [Info]  Client: SKY
+Mar 09,2017 10:07:39 [Info]  URL: http://rlv2wb85/Home.aspx
+Mar 09,2017 10:07:39 [Info]  UserName: admin
+Mar 09,2017 10:07:39 [Info]  Password: admin
+Mar 09,2017 10:07:40 [Info]  Entered "admin" in field 'User Name'
+Mar 09,2017 10:07:40 [Info]  Clicked on the 'Temporary Check Box'
+Mar 09,2017 10:07:40 [Info]  Entered "admin" in field 'Password'
+Mar 09,2017 10:07:51 [Info]  Clicked on the 'LoginButton'
+Mar 09,2017 10:08:01 [Info]  Clicked on the 'MODULE'
+Mar 09,2017 10:08:06 [Info]  Clicked on the 'Title Maintenance'
+Mar 09,2017 10:08:10 [Info]  Clicked on the 'Search Menu Icon' using JS Executor
+Mar 09,2017 10:08:12 [Info]  Clicked on the 'Asset Under Asset Search' using JS Executor
+<span style="color:green;">Mar 09,2017 10:08:16 [Verification]  Verified that Expected value :[Program] is matched with Actual value :[Program]</span>
+Mar 09,2017 10:08:16 [Info]  Verify The data of Asset_DispEpisodesCheckBox_CheckBox
+<span style="color:green;">Mar 09,2017 10:08:16 [Verification]  Verified that Expected value :[true] is matched with Actual value :[true]</span>
+Mar 09,2017 10:08:16 [Info]  Entered "AUT_AstSrisSrch_03082017103204" in field 'AssetTitle'
+Mar 09,2017 10:08:23 [Info]  Clicked on the 'Find Button' using JS Executor
+Mar 09,2017 10:08:35 [Info]  Clicked on the 'ExpandSeasonIcon' using JS Executor
+Mar 09,2017 10:08:38 [Info]  Verify The data of Season 1 at Asset Search Grid
+<span style="color:green;">Mar 09,2017 10:08:38 [Verification]  Verified that Expected value :[Season 1] is matched with Actual value :[Season 1]</span>
+Mar 09,2017 10:08:39 [Info]  Verify The data of Season 2 at Asset Search Grid
+<span style="color:green;">Mar 09,2017 10:08:39 [Verification]  Verified that Expected value :[Season 2] is matched with Actual value :[Season 2]</span>
+Mar 09,2017 10:08:39 [Info]  *****Verify that the Search Results are in accordance with entered Asset Title*****
+Mar 09,2017 10:08:39 [Info]  Verify The data of AssetSearch_AssetTitle
+<span style="color:green;">Mar 09,2017 10:08:39 [Verification]  Verified that Expected value :[Title Name] is matched with Actual value :[Title Name]</span>
+Mar 09,2017 10:08:39 [Info]  Verify The data of AssetSearch_AssetType
+<span style="color:green;">Mar 09,2017 10:08:39 [Verification]  Verified that Expected value :[Title Type] is matched with Actual value :[Title Type]</span>
+Mar 09,2017 10:08:39 [Info]  Verify The data of AssetSearch_SBU
+<span style="color:green;">Mar 09,2017 10:08:39 [Verification]  Verified that Expected value :[Source Bus. Unit] is matched with Actual value :[Source Bus. Unit]</span>
+Mar 09,2017 10:08:39 [Info]  Verify The data of AssetSearch_ShortName
+<span style="color:green;">Mar 09,2017 10:08:39 [Verification]  Verified that Expected value :[EPG Name] is matched with Actual value :[EPG Name]</span>
+Mar 09,2017 10:08:39 [Info]  Verify The data of AssetSearch_AssetStatus
+<span style="color:green;">Mar 09,2017 10:08:39 [Verification]  Verified that Expected value :[Title Status] is matched with Actual value :[Title Status]</span>
+Mar 09,2017 10:08:39 [Info]  Verify The data of AssetSearch_Contributor
+<span style="color:green;">Mar 09,2017 10:08:39 [Verification]  Verified that Expected value :[Cast] is matched with Actual value :[Cast]</span>
+Mar 09,2017 10:08:49 [Info]  Could not Scroll Element in View Range: 
+Mar 09,2017 10:08:50 [Info]  Verify The data of AssetSearch_Number of Episodes
+<span style="color:green;">Mar 09,2017 10:08:50 [Verification]  Verified that Expected value :[# of Ep] is matched with Actual value :[# of Ep]</span>
+Mar 09,2017 10:08:50 [Info]  Verify The data of Duration
+<span style="color:green;">Mar 09,2017 10:08:50 [Verification]  Verified that Expected value :[Duration] is matched with Actual value :[Duration]</span>
+Mar 09,2017 10:08:50 [Info]  Verify The data of Release/Production Year
+<span style="color:green;">Mar 09,2017 10:08:50 [Verification]  Verified that Expected value :[Year of Production] is matched with Actual value :[Year of Production]</span>
+Mar 09,2017 10:08:50 [Info]  Moved Mouse over 'First Asset in the Searched Asset'
+Mar 09,2017 10:08:50 [Info]  Clicked on the 'First Asset in the Searched Asset'
+Mar 09,2017 10:08:50 [Info]  Clicked on the 'First Asset in the Searched Asset'
+Mar 09,2017 10:08:53 [Info]  Clicked on the 'View Asset' using JS Executor
+Mar 09,2017 10:09:08 [Info]  Verify The data of Created Asset At Home
+<span style="color:green;">Mar 09,2017 10:09:08 [Verification]  Verified that Expected value :[AUT_AstSrisSrch_03082017103204] is matched with Actual value :[AUT_AstSrisSrch_03082017103204]</span>
+Mar 09,2017 10:09:08 [Info]  Entered "AUT_AstSrisSrch_03082017103204_Ed" in field 'AssetTitle'
+Mar 09,2017 10:09:09 [Info]  Clicked on the 'Save Button' using JS Executor
+<span style="color:red;">Mar 09,2017 10:09:09 [Fail]  ====Failed==== " Could not find the Frame: //div[@clientid='RL_SplitterPane_Content']</span>
+Mar 09,2017 10:09:09 [Info]  Test 'TC2_AssetSearchWithEpisodesDetails' FAILED
+Mar 09,2017 10:09:09 [Info]  2
+Mar 09,2017 10:09:09 [Info]  Test 'TC2_AssetSearchWithEpisodesDetails' FAILED
+Mar 09,2017 10:09:09 [Info]  2
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 10:29:36******************</span>
+Mar 09,2017 10:29:36 [Info]  Client: SKY
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************</span>
+Mar 09,2017 10:29:47 [Info]  Client: SKY
+Mar 09,2017 10:29:47 [Info]  URL: http://rlv2wb85/Home.aspx
+Mar 09,2017 10:29:47 [Info]  UserName: admin
+Mar 09,2017 10:29:47 [Info]  Password: admin
+Mar 09,2017 10:29:48 [Info]  Entered "admin" in field 'User Name'
+Mar 09,2017 10:29:48 [Info]  Clicked on the 'Temporary Check Box'
+Mar 09,2017 10:29:48 [Info]  Entered "admin" in field 'Password'
+Mar 09,2017 10:30:06 [Info]  Clicked on the 'LoginButton'
+Mar 09,2017 10:30:15 [Info]  Clicked on the 'MODULE'
+Mar 09,2017 10:30:21 [Info]  Clicked on the 'Title Maintenance'
+Mar 09,2017 10:30:24 [Info]  Clicked on the 'Search Menu Icon' using JS Executor
+Mar 09,2017 10:30:26 [Info]  Clicked on the 'Asset Under Asset Search' using JS Executor
+<span style="color:green;">Mar 09,2017 10:30:29 [Verification]  Verified that Expected value :[Program] is matched with Actual value :[Program]</span>
+Mar 09,2017 10:30:29 [Info]  Verify The data of Asset_DispEpisodesCheckBox_CheckBox
+<span style="color:green;">Mar 09,2017 10:30:29 [Verification]  Verified that Expected value :[true] is matched with Actual value :[true]</span>
+Mar 09,2017 10:30:29 [Info]  Entered "AUT_AstSrisSrch_03082017103204" in field 'AssetTitle'
+Mar 09,2017 10:30:38 [Info]  Clicked on the 'Find Button' using JS Executor
+Mar 09,2017 10:30:50 [Info]  Clicked on the 'ExpandSeasonIcon' using JS Executor
+Mar 09,2017 10:30:53 [Info]  Verify The data of Season 1 at Asset Search Grid
+<span style="color:green;">Mar 09,2017 10:30:53 [Verification]  Verified that Expected value :[Season 1] is matched with Actual value :[Season 1]</span>
+Mar 09,2017 10:30:53 [Info]  Verify The data of Season 2 at Asset Search Grid
+<span style="color:green;">Mar 09,2017 10:30:53 [Verification]  Verified that Expected value :[Season 2] is matched with Actual value :[Season 2]</span>
+Mar 09,2017 10:30:53 [Info]  *****Verify that the Search Results are in accordance with entered Asset Title*****
+Mar 09,2017 10:30:53 [Info]  Verify The data of AssetSearch_AssetTitle
+<span style="color:green;">Mar 09,2017 10:30:53 [Verification]  Verified that Expected value :[Title Name] is matched with Actual value :[Title Name]</span>
+Mar 09,2017 10:30:53 [Info]  Verify The data of AssetSearch_AssetType
+<span style="color:green;">Mar 09,2017 10:30:53 [Verification]  Verified that Expected value :[Title Type] is matched with Actual value :[Title Type]</span>
+Mar 09,2017 10:30:53 [Info]  Verify The data of AssetSearch_SBU
+<span style="color:green;">Mar 09,2017 10:30:53 [Verification]  Verified that Expected value :[Source Bus. Unit] is matched with Actual value :[Source Bus. Unit]</span>
+Mar 09,2017 10:30:53 [Info]  Verify The data of AssetSearch_ShortName
+<span style="color:green;">Mar 09,2017 10:30:53 [Verification]  Verified that Expected value :[EPG Name] is matched with Actual value :[EPG Name]</span>
+Mar 09,2017 10:30:54 [Info]  Verify The data of AssetSearch_AssetStatus
+<span style="color:green;">Mar 09,2017 10:30:54 [Verification]  Verified that Expected value :[Title Status] is matched with Actual value :[Title Status]</span>
+Mar 09,2017 10:30:54 [Info]  Verify The data of AssetSearch_Contributor
+<span style="color:green;">Mar 09,2017 10:30:54 [Verification]  Verified that Expected value :[Cast] is matched with Actual value :[Cast]</span>
+Mar 09,2017 10:30:54 [Info]  Verify The data of AssetSearch_Number of Episodes
+<span style="color:green;">Mar 09,2017 10:30:54 [Verification]  Verified that Expected value :[# of Ep] is matched with Actual value :[# of Ep]</span>
+Mar 09,2017 10:30:54 [Info]  Verify The data of Duration
+<span style="color:green;">Mar 09,2017 10:30:54 [Verification]  Verified that Expected value :[Duration] is matched with Actual value :[Duration]</span>
+Mar 09,2017 10:30:54 [Info]  Verify The data of Release/Production Year
+<span style="color:green;">Mar 09,2017 10:30:54 [Verification]  Verified that Expected value :[Year of Production] is matched with Actual value :[Year of Production]</span>
+Mar 09,2017 10:30:54 [Info]  Moved Mouse over 'First Asset in the Searched Asset'
+Mar 09,2017 10:30:54 [Info]  Clicked on the 'First Asset in the Searched Asset'
+Mar 09,2017 10:30:54 [Info]  Clicked on the 'First Asset in the Searched Asset'
+Mar 09,2017 10:30:57 [Info]  Clicked on the 'View Asset' using JS Executor
+Mar 09,2017 10:31:08 [Info]  Verify The data of Created Asset At Home
+<span style="color:green;">Mar 09,2017 10:31:08 [Verification]  Verified that Expected value :[AUT_AstSrisSrch_03082017103204] is matched with Actual value :[AUT_AstSrisSrch_03082017103204]</span>
+Mar 09,2017 10:31:08 [Info]  Entered "AUT_AstSrisSrch_03082017103204_Ed" in field 'AssetTitle'
+Mar 09,2017 10:31:08 [Info]  Clicked on the 'Save Button' using JS Executor
+Mar 09,2017 10:31:08 [Info]  Accepted Alert
+Mar 09,2017 10:31:22 [Info]  Clicked on the 'MODULE'
+Mar 09,2017 10:31:27 [Info]  Clicked on the 'Title Maintenance'
+Mar 09,2017 10:31:31 [Info]  Clicked on the 'Search Menu Icon' using JS Executor
+Mar 09,2017 10:31:32 [Info]  Clicked on the 'AssetSearchUnderAsset' using JS Executor
+Mar 09,2017 10:31:37 [Info]  Entered "AUT_AstSrisSrch_03082017103204_Ed" in field 'AssetTitle'
+Mar 09,2017 10:31:37 [Info]  Selected "Program" in "AssetTypeDropDownAtAssetSearch" drop down
+Mar 09,2017 10:31:49 [Info]  Clicked on the 'Find Button' using JS Executor
+Mar 09,2017 10:32:10 [Info]  Moved Mouse over 'First Asset in the Searched Asset'
+Mar 09,2017 10:32:10 [Info]  Clicked on the 'First Asset in the Searched Asset'
+Mar 09,2017 10:32:10 [Info]  Clicked on the 'First Asset in the Searched Asset'
+Mar 09,2017 10:32:13 [Info]  Clicked on the 'View Asset' using JS Executor
+Mar 09,2017 10:32:23 [Info]  Verify The data of Created Asset At Home
+<span style="color:green;">Mar 09,2017 10:32:23 [Verification]  Verified that Expected value :[AUT_AstSrisSrch_03082017103204_Ed] is matched with Actual value :[AUT_AstSrisSrch_03082017103204_Ed]</span>
+Mar 09,2017 10:32:23 [Info]  Entered "AUT_AstSrisSrch_03082017103204" in field 'AssetTitle'
+Mar 09,2017 10:32:24 [Info]  Clicked on the 'Save Button' using JS Executor
+<span style="color:red;">Mar 09,2017 10:32:24 [Fail]  ====Failed==== " Could not find the Frame: //div[@clientid='RL_SplitterPane_Content']</span>
+Mar 09,2017 10:32:24 [Info]  Test 'TC2_AssetSearchWithEpisodesDetails' FAILED
+Mar 09,2017 10:32:24 [Info]  2
+Mar 09,2017 10:32:24 [Info]  Test 'TC2_AssetSearchWithEpisodesDetails' FAILED
+Mar 09,2017 10:32:24 [Info]  2
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 10:35:05******************</span>
+Mar 09,2017 10:35:05 [Info]  Client: SKY
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************</span>
+Mar 09,2017 10:35:16 [Info]  Client: SKY
+Mar 09,2017 10:35:16 [Info]  URL: http://rlv2wb85/Home.aspx
+Mar 09,2017 10:35:16 [Info]  UserName: admin
+Mar 09,2017 10:35:16 [Info]  Password: admin
+Mar 09,2017 10:35:17 [Info]  Entered "admin" in field 'User Name'
+Mar 09,2017 10:35:17 [Info]  Clicked on the 'Temporary Check Box'
+Mar 09,2017 10:35:17 [Info]  Entered "admin" in field 'Password'
+Mar 09,2017 10:35:31 [Info]  Clicked on the 'LoginButton'
+Mar 09,2017 10:35:40 [Info]  Clicked on the 'MODULE'
+Mar 09,2017 10:35:46 [Info]  Clicked on the 'Title Maintenance'
+Mar 09,2017 10:35:49 [Info]  Clicked on the 'Search Menu Icon' using JS Executor
+Mar 09,2017 10:35:52 [Info]  Clicked on the 'Asset Under Asset Search' using JS Executor
+<span style="color:green;">Mar 09,2017 10:35:55 [Verification]  Verified that Expected value :[Program] is matched with Actual value :[Program]</span>
+Mar 09,2017 10:35:55 [Info]  Verify The data of Asset_DispEpisodesCheckBox_CheckBox
+<span style="color:green;">Mar 09,2017 10:35:55 [Verification]  Verified that Expected value :[true] is matched with Actual value :[true]</span>
+Mar 09,2017 10:35:56 [Info]  Entered "AUT_AstSrisSrch_03082017103204" in field 'AssetTitle'
+Mar 09,2017 10:36:03 [Info]  Clicked on the 'Find Button' using JS Executor
+Mar 09,2017 10:36:15 [Info]  Clicked on the 'ExpandSeasonIcon' using JS Executor
+Mar 09,2017 10:36:18 [Info]  Verify The data of Season 1 at Asset Search Grid
+<span style="color:green;">Mar 09,2017 10:36:19 [Verification]  Verified that Expected value :[Season 1] is matched with Actual value :[Season 1]</span>
+Mar 09,2017 10:36:19 [Info]  Verify The data of Season 2 at Asset Search Grid
+<span style="color:green;">Mar 09,2017 10:36:19 [Verification]  Verified that Expected value :[Season 2] is matched with Actual value :[Season 2]</span>
+Mar 09,2017 10:36:19 [Info]  *****Verify that the Search Results are in accordance with entered Asset Title*****
+Mar 09,2017 10:36:19 [Info]  Verify The data of AssetSearch_AssetTitle
+<span style="color:green;">Mar 09,2017 10:36:19 [Verification]  Verified that Expected value :[Title Name] is matched with Actual value :[Title Name]</span>
+Mar 09,2017 10:36:19 [Info]  Verify The data of AssetSearch_AssetType
+<span style="color:green;">Mar 09,2017 10:36:19 [Verification]  Verified that Expected value :[Title Type] is matched with Actual value :[Title Type]</span>
+Mar 09,2017 10:36:19 [Info]  Verify The data of AssetSearch_SBU
+<span style="color:green;">Mar 09,2017 10:36:19 [Verification]  Verified that Expected value :[Source Bus. Unit] is matched with Actual value :[Source Bus. Unit]</span>
+Mar 09,2017 10:36:19 [Info]  Verify The data of AssetSearch_ShortName
+<span style="color:green;">Mar 09,2017 10:36:19 [Verification]  Verified that Expected value :[EPG Name] is matched with Actual value :[EPG Name]</span>
+Mar 09,2017 10:36:19 [Info]  Verify The data of AssetSearch_AssetStatus
+<span style="color:green;">Mar 09,2017 10:36:19 [Verification]  Verified that Expected value :[Title Status] is matched with Actual value :[Title Status]</span>
+Mar 09,2017 10:36:19 [Info]  Verify The data of AssetSearch_Contributor
+<span style="color:green;">Mar 09,2017 10:36:19 [Verification]  Verified that Expected value :[Cast] is matched with Actual value :[Cast]</span>
+Mar 09,2017 10:36:19 [Info]  Verify The data of AssetSearch_Number of Episodes
+<span style="color:green;">Mar 09,2017 10:36:19 [Verification]  Verified that Expected value :[# of Ep] is matched with Actual value :[# of Ep]</span>
+Mar 09,2017 10:36:20 [Info]  Verify The data of Duration
+<span style="color:green;">Mar 09,2017 10:36:20 [Verification]  Verified that Expected value :[Duration] is matched with Actual value :[Duration]</span>
+Mar 09,2017 10:36:20 [Info]  Verify The data of Release/Production Year
+<span style="color:green;">Mar 09,2017 10:36:20 [Verification]  Verified that Expected value :[Year of Production] is matched with Actual value :[Year of Production]</span>
+Mar 09,2017 10:36:20 [Info]  Moved Mouse over 'First Asset in the Searched Asset'
+Mar 09,2017 10:36:20 [Info]  Clicked on the 'First Asset in the Searched Asset'
+Mar 09,2017 10:36:20 [Info]  Clicked on the 'First Asset in the Searched Asset'
+Mar 09,2017 10:36:23 [Info]  Clicked on the 'View Asset' using JS Executor
+Mar 09,2017 10:36:33 [Info]  Verify The data of Created Asset At Home
+<span style="color:green;">Mar 09,2017 10:36:33 [Verification]  Verified that Expected value :[AUT_AstSrisSrch_03082017103204] is matched with Actual value :[AUT_AstSrisSrch_03082017103204]</span>
+Mar 09,2017 10:36:33 [Info]  Entered "AUT_AstSrisSrch_03082017103204_Ed" in field 'AssetTitle'
+Mar 09,2017 10:36:45 [Info]  Clicked on the 'Save Button' using JS Executor
+Mar 09,2017 10:36:46 [Info]  Verify The data of Created AssetAUT_AstSrisSrch_03082017103204_Ed
+<span style="color:green;">Mar 09,2017 10:36:46 [Verification]  Verified that Expected value :[AUT_AstSrisSrch_03082017103204_Ed] is matched with Actual value :[AUT_AstSrisSrch_03082017103204_Ed]</span>
+Mar 09,2017 10:36:46 [Info]  Verify The data of Created AssetAUT_AstSrisSrch_03082017103204_Ed
+<span style="color:green;">Mar 09,2017 10:36:46 [Verification]  Verified that Expected value :[AUT_AstSrisSrch_03082017103204_Ed] is matched with Actual value :[AUT_AstSrisSrch_03082017103204_Ed]</span>
+Mar 09,2017 10:36:49 [Info]  Clicked on the 'MODULE'
+Mar 09,2017 10:36:55 [Info]  Clicked on the 'Title Maintenance'
+Mar 09,2017 10:36:58 [Info]  Clicked on the 'Search Menu Icon' using JS Executor
+Mar 09,2017 10:36:59 [Info]  Clicked on the 'AssetSearchUnderAsset' using JS Executor
+Mar 09,2017 10:37:04 [Info]  Entered "AUT_AstSrisSrch_03082017103204_Ed" in field 'AssetTitle'
+Mar 09,2017 10:37:05 [Info]  Selected "Program" in "AssetTypeDropDownAtAssetSearch" drop down
+Mar 09,2017 10:37:11 [Info]  Clicked on the 'Find Button' using JS Executor
+Mar 09,2017 10:37:33 [Info]  Moved Mouse over 'First Asset in the Searched Asset'
+Mar 09,2017 10:37:33 [Info]  Clicked on the 'First Asset in the Searched Asset'
+Mar 09,2017 10:37:33 [Info]  Clicked on the 'First Asset in the Searched Asset'
+Mar 09,2017 10:37:36 [Info]  Clicked on the 'View Asset' using JS Executor
+Mar 09,2017 10:37:46 [Info]  Verify The data of Created Asset At Home
+<span style="color:green;">Mar 09,2017 10:37:46 [Verification]  Verified that Expected value :[AUT_AstSrisSrch_03082017103204_Ed] is matched with Actual value :[AUT_AstSrisSrch_03082017103204_Ed]</span>
+Mar 09,2017 10:37:46 [Info]  Entered "AUT_AstSrisSrch_03082017103204" in field 'AssetTitle'
+Mar 09,2017 10:37:47 [Info]  Clicked on the 'Save Button' using JS Executor
+Mar 09,2017 10:37:47 [Info]  Accepted Alert
+Mar 09,2017 10:38:05 [Info]  Clicked on the 'MODULE'
+Mar 09,2017 10:38:11 [Info]  Clicked on the 'Title Maintenance'
+Mar 09,2017 10:38:14 [Info]  Clicked on the 'Search Menu Icon' using JS Executor
+Mar 09,2017 10:38:15 [Info]  Clicked on the 'AssetSearchUnderAsset' using JS Executor
+Mar 09,2017 10:38:20 [Info]  Entered "AUT_AstSrisSrch_03082017103204" in field 'AssetTitle'
+Mar 09,2017 10:38:21 [Info]  Selected "Program" in "AssetTypeDropDownAtAssetSearch" drop down
+Mar 09,2017 10:38:28 [Info]  Clicked on the 'Find Button' using JS Executor
+Mar 09,2017 10:38:49 [Info]  Moved Mouse over 'First Asset in the Searched Asset'
+Mar 09,2017 10:38:49 [Info]  Clicked on the 'First Asset in the Searched Asset'
+Mar 09,2017 10:38:49 [Info]  Clicked on the 'First Asset in the Searched Asset'
+Mar 09,2017 10:38:52 [Info]  Clicked on the 'View Asset' using JS Executor
+Mar 09,2017 10:39:02 [Info]  Verify The data of Created Asset At Home
+<span style="color:green;">Mar 09,2017 10:39:02 [Verification]  Verified that Expected value :[AUT_AstSrisSrch_03082017103204] is matched with Actual value :[AUT_AstSrisSrch_03082017103204]</span>
+Mar 09,2017 10:39:02 [Info]  Verify The data of Created AssetAUT_AstSrisSrch_03082017103204
+<span style="color:green;">Mar 09,2017 10:39:02 [Verification]  Verified that Expected value :[AUT_AstSrisSrch_03082017103204] is matched with Actual value :[AUT_AstSrisSrch_03082017103204]</span>
+Mar 09,2017 10:39:02 [Info]  Test 'TC2_AssetSearchWithEpisodesDetails' PASSED
+Mar 09,2017 10:39:03 [Info]  Closed the Browser
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 10:42:39******************</span>
+Mar 09,2017 10:42:39 [Info]  Client: SKY
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************</span>
+Mar 09,2017 10:42:50 [Info]  Client: SKY
+Mar 09,2017 10:42:50 [Info]  URL: http://rlv2wb85/Home.aspx
+Mar 09,2017 10:42:50 [Info]  UserName: admin
+Mar 09,2017 10:42:50 [Info]  Password: admin
+Mar 09,2017 10:42:51 [Info]  Entered "admin" in field 'User Name'
+Mar 09,2017 10:42:51 [Info]  Clicked on the 'Temporary Check Box'
+Mar 09,2017 10:42:51 [Info]  Entered "admin" in field 'Password'
+Mar 09,2017 10:43:07 [Info]  Clicked on the 'LoginButton'
+Mar 09,2017 10:43:16 [Info]  Clicked on the 'MODULE'
+Mar 09,2017 10:43:22 [Info]  Clicked on the 'Title Maintenance'
+Mar 09,2017 10:43:30 [Info]  Double clicked on 'AUT_AstSrisSrch_03082017103204AssetName'
+Mar 09,2017 10:43:30 [Info]  Clicked on the 'Contributors OR Contacts TAB'
+Mar 09,2017 10:43:40 [Info]  Clicked on the ''Edit' Button at Contributor TAB' using JS Executor
+Mar 09,2017 10:43:43 [Info]  Clicked on the ''Add' Button at Contributor window' using JS Executor
+Mar 09,2017 10:43:45 [Info]  Selected "Internal Parties" in "Contributor_PartyList_DropDown" drop down
+Mar 09,2017 10:43:49 [Info]  Clicked on the 'Contributor_ContributorSearch_SearchField'
+Mar 09,2017 10:43:49 [Info]  Entered "Automation Last Name" in field 'Contributor_ContributorSearch_SearchField'
+Mar 09,2017 10:43:51 [Info]  Clicked on the 'Find Button at Contributor Search Window' using JS Executor
+Mar 09,2017 10:44:01 [Info]  Clicked on the 'OK Button at Alert on Entering the invalid Names' using JS Executor
+Mar 09,2017 10:44:04 [Info]  Clicked on the ''Add' Button at Contributor Edit window' using JS Executor
+Mar 09,2017 10:44:04 [Info]  Clicked on the '*First Name'
+Mar 09,2017 10:44:04 [Info]  Entered "Automation First Name" in field 'ConrtibutorsEdit_ConrtibutorsSearch_AddWindow_FirstName'
+Mar 09,2017 10:44:05 [Info]  Clicked on the '*Last Name'
+Mar 09,2017 10:44:05 [Info]  Entered "Automation Last Name" in field 'ConrtibutorsEdit_ConrtibutorsSearch_AddWindow_LastName'
+<span style="color:green;">Mar 09,2017 10:44:05 [Verification]  Verified that Expected value :[Primary] is matched with Actual value :[Primary]</span>
+Mar 09,2017 10:44:05 [Info]  Clicked on the 'Contributor_ContributorSearch_Add_AddressLine1InputField' using JS Executor
+Mar 09,2017 10:44:05 [Info]  Entered "AddressLine1" in field 'ConrtibutorsEdit_ConrtibutorsSearch_AddWindow_AddressLine1 Field'
+Mar 09,2017 10:44:05 [Info]  Clicked on the 'Contributor_ContributorSearch_Add_AddressLine2InputField' using JS Executor
+Mar 09,2017 10:44:05 [Info]  Entered "AddressLine2" in field 'ConrtibutorsEdit_ConrtibutorsSearch_AddWindow_AddressLine2 Field'
+Mar 09,2017 10:44:05 [Info]  Clicked on the 'ConrtibutorsEdit_ConrtibutorsSearch_AddWindow_City' using JS Executor
+Mar 09,2017 10:44:05 [Info]  Entered "City" in field 'ConrtibutorsEdit_ConrtibutorsSearch_AddWindow_City Field'
+Mar 09,2017 10:44:06 [Info]  Selected "Canada" in "Country Input Field" drop down
+Mar 09,2017 10:44:06 [Info]  Selected "Alberta" in "Contributor_ContributorSearch_Add_StateInputField" drop down
+Mar 09,2017 10:44:06 [Info]  Clicked on the 'Contributor_ContributorSearch_Add_ZipCodeField' using JS Executor
+Mar 09,2017 10:44:06 [Info]  Entered "12345" in field 'ConrtibutorsEdit_ConrtibutorsSearch_AddWindow_ZipCode Field'
+Mar 09,2017 10:44:06 [Info]  Clicked on the 'Contributor_ContributorSearch_Add_BusinessPhone Input Field' using JS Executor
+Mar 09,2017 10:44:06 [Info]  Entered "6176828224" in field 'Contributor_ContributorSearch_Add_BusinessPhone Field'
+Mar 09,2017 10:44:06 [Info]  Clicked on the 'Contributor_ContributorSearch_Add_PrimaryEmail' using JS Executor
+Mar 09,2017 10:44:06 [Info]  Entered "primary1@gmail.com" in field 'Contributor_ContributorSearch_Add_PrimaryEmail Input Field'
+Mar 09,2017 10:44:06 [Info]  Selected "Home Phone" in "Contributor_ContributorSearch_Add_ContactList2DropDown" drop down
+Mar 09,2017 10:44:06 [Info]  Clicked on the 'Contributor_ContributorSearch_Add_Contact1_InputField' using JS Executor
+Mar 09,2017 10:44:07 [Info]  Entered "Home Phone" in field 'Contributor_ContributorSearch_Add_Contact1_InputField'
+Mar 09,2017 10:44:07 [Info]  Selected "Mobile Phone" in "Contributor_ContributorSearch_Add_ContactList2DropDown" drop down
+Mar 09,2017 10:44:07 [Info]  Clicked on the 'Contributor_ContributorSearch_Add_Contact2_InputField' using JS Executor
+Mar 09,2017 10:44:07 [Info]  Entered "6176828224" in field 'Contributor_ContributorSearch_Add_Contact2_InputField Field'
+Mar 09,2017 10:44:07 [Info]  Selected "Personal Email" in "Contributor_ContributorSearch_Add_ContactList3DropDown" drop down
+Mar 09,2017 10:44:07 [Info]  Clicked on the 'Contributor_ContributorSearch_Add_ContactList3DropDown' using JS Executor
+Mar 09,2017 10:44:07 [Info]  Entered "personal1@gmail.com" in field 'Contributor_ContributorSearch_Add_ContactList3DropDown Field'
+Mar 09,2017 10:44:07 [Info]  Clicked on the 'Web Address' using JS Executor
+Mar 09,2017 10:44:07 [Info]  Entered "www.web.com" in field 'Contributor_ContributorSearch_Add_WebAddressField'
+Mar 09,2017 10:44:09 [Info]  Clicked on the ''Save Button' Contributor_ContributorSearch_Add_SaveGeneralInfoButton' using JS Executor
+Mar 09,2017 10:44:13 [Info]  Verify The data of Contributor_ContributorSearch_Add_SaveGeneralInfo_EnterAleternate_ValidationMessage
+<span style="color:green;">Mar 09,2017 10:44:13 [Verification]  Verified that Expected value :[Changes have been saved successfully.] is matched with Actual value :[Changes have been saved successfully.]</span>
+Mar 09,2017 10:44:13 [Info]  Clicked on the 'close Add Reference Window'
+Mar 09,2017 10:44:13 [Info]  Select the created Contributor
+Mar 09,2017 10:44:16 [Info]  Clicked on the 'Contributor_ContributorSearch_SearchField'
+Mar 09,2017 10:44:17 [Info]  Entered "Automation Last Name" in field 'Contributor_ContributorSearch_SearchField'
+Mar 09,2017 10:44:18 [Info]  Clicked on the 'Find Button at Contributor Search Window' using JS Executor
+Mar 09,2017 10:44:24 [Info]  Double clicked on 'Contributor_ContributorSearch_FirstContributor'
+<span style="color:red;">Mar 09,2017 10:44:27 [Fail]  ====Failed==== "N/A" field is not present'</span>
+Mar 09,2017 10:44:27 [Info]  Clicked on the 'Support click'
+<span style="color:red;">Mar 09,2017 10:44:28 [Fail]  ====Failed==== "N/A" field is not present'</span>
+<span style="color:red;">Mar 09,2017 10:44:28 [Fail]  ====Failed==== "Support click" field is not present'</span>
+<span style="color:red;">Mar 09,2017 10:44:28 [Fail]  ====Failed==== "N/A" field is not present'</span>
+<span style="color:red;">Mar 09,2017 10:44:29 [Fail]  ====Failed==== "Role field" field is not present'</span>
+Mar 09,2017 10:44:29 [Info]  Entered "Actor" in field 'Role Field of first Row'
+<span style="color:red;">Mar 09,2017 10:44:31 [Fail]  ====Failed==== "N/A" field is not present'</span>
+Mar 09,2017 10:44:37 [Info]  Clicked on the 'Save Button at 'Edit Window'' using JS Executor
+Mar 09,2017 10:44:37 [Info]  Verify The data of Role of First Data Row
+<span style="color:green;">Mar 09,2017 10:44:37 [Verification]  Verified that Expected value :[Actor] is matched with Actual value :[Actor]</span>
+Mar 09,2017 10:44:40 [Info]  Clicked on the 'MODULE'
+Mar 09,2017 10:44:46 [Info]  Clicked on the 'Title Maintenance'
+Mar 09,2017 10:44:49 [Info]  Clicked on the 'Search Menu Icon' using JS Executor
+Mar 09,2017 10:44:51 [Info]  Clicked on the 'Asset Under Asset Search' using JS Executor
+Mar 09,2017 10:44:55 [Info]  Clicked on the 'ExpandAdvanceSearchIcon'
+<span style="color:green;">Mar 09,2017 10:44:55 [Verification]  Verified that Expected value :[Program] is matched with Actual value :[Program]</span>
+Mar 09,2017 10:44:55 [Info]  Verify The data of Asset_DispEpisodesCheckBox_CheckBox
+<span style="color:green;">Mar 09,2017 10:44:55 [Verification]  Verified that Expected value :[true] is matched with Actual value :[true]</span>
+Mar 09,2017 10:44:55 [Info]  Entered "AUT_AstSrisSrch_03082017103204" in field 'AssetTitle'
+Mar 09,2017 10:45:02 [Info]  Clicked on the 'Find Button' using JS Executor
+Mar 09,2017 10:45:12 [Info]  Verify The data of Searched Asset at Search Grid
+<span style="color:green;">Mar 09,2017 10:45:12 [Verification]  Verified that Expected value :[AUT_AstSrisSrch_03082017103204] is matched with Actual value :[AUT_AstSrisSrch_03082017103204]</span>
+Mar 09,2017 10:45:12 [Info]  Clicked on the 'Expand Asset Detail At Asset Search Grid' using JS Executor
+Mar 09,2017 10:45:15 [Info]  Clicked on the 'Expand Season1 at Asset Search Grid' using JS Executor
+Mar 09,2017 10:45:16 [Info]  Verify The data of Episode101 at Asset Search Grid
+<span style="color:green;">Mar 09,2017 10:45:16 [Verification]  Verified that Expected value :[Episode101] is matched with Actual value :[Episode101]</span>
+Mar 09,2017 10:45:16 [Info]  Verify The data of Episode102 at Asset Search Grid
+<span style="color:green;">Mar 09,2017 10:45:16 [Verification]  Verified that Expected value :[Episode102] is matched with Actual value :[Episode102]</span>
+Mar 09,2017 10:45:16 [Info]  Clicked on the 'Expand Season2 at Asset Search Grid' using JS Executor
+Mar 09,2017 10:45:16 [Info]  Verify The data of Episode201 at Asset Search Grid
+<span style="color:green;">Mar 09,2017 10:45:16 [Verification]  Verified that Expected value :[Episode201] is matched with Actual value :[Episode201]</span>
+Mar 09,2017 10:45:16 [Info]  Verify The data of Episode202 at Asset Search Grid
+<span style="color:green;">Mar 09,2017 10:45:16 [Verification]  Verified that Expected value :[Episode202] is matched with Actual value :[Episode202]</span>
+Mar 09,2017 10:45:16 [Info]  Test 'TC3_AdvancedAssetSearchWithEpisodeDetails' PASSED
+Mar 09,2017 10:45:17 [Info]  Closed the Browser
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 10:50:50******************</span>
+Mar 09,2017 10:50:50 [Info]  Client: SKY
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************</span>
+Mar 09,2017 10:50:50 [Info]  *****Test 'createContributor_AssignRole'*****: SKIPPED
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 10:51:09******************</span>
+Mar 09,2017 10:51:09 [Info]  Client: SKY
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************</span>
+Mar 09,2017 10:51:20 [Info]  Client: SKY
+Mar 09,2017 10:51:20 [Info]  URL: http://rlv2wb85/Home.aspx
+Mar 09,2017 10:51:20 [Info]  UserName: admin
+Mar 09,2017 10:51:20 [Info]  Password: admin
+Mar 09,2017 10:51:21 [Info]  Entered "admin" in field 'User Name'
+Mar 09,2017 10:51:21 [Info]  Clicked on the 'Temporary Check Box'
+Mar 09,2017 10:51:21 [Info]  Entered "admin" in field 'Password'
+Mar 09,2017 10:51:35 [Info]  Clicked on the 'LoginButton'
+Mar 09,2017 10:51:44 [Info]  Clicked on the 'MODULE'
+Mar 09,2017 10:51:51 [Info]  Clicked on the 'Title Maintenance'
+Mar 09,2017 10:51:58 [Info]  Double clicked on 'AUT_AstSrisSrch_03082017103204AssetName'
+Mar 09,2017 10:51:58 [Info]  Clicked on the 'Contributors OR Contacts TAB'
+Mar 09,2017 10:52:07 [Info]  Clicked on the ''Edit' Button at Contributor TAB' using JS Executor
+Mar 09,2017 10:52:10 [Info]  Clicked on the ''Add' Button at Contributor window' using JS Executor
+Mar 09,2017 10:52:12 [Info]  Selected "Internal Parties" in "Contributor_PartyList_DropDown" drop down
+Mar 09,2017 10:52:16 [Info]  Clicked on the 'Contributor_ContributorSearch_SearchField'
+Mar 09,2017 10:52:16 [Info]  Entered "Automation Last Name" in field 'Contributor_ContributorSearch_SearchField'
+Mar 09,2017 10:52:17 [Info]  Clicked on the 'Find Button at Contributor Search Window' using JS Executor
+Mar 09,2017 10:53:54 [Info]  Double clicked on 'Contributor_ContributorSearch_FirstContributor'
+<span style="color:red;">Mar 09,2017 10:54:03 [Fail]  ====Failed==== "Support click" field is not present'</span>
+<span style="color:red;">Mar 09,2017 10:54:03 [Fail]  ====Failed==== "Role field" field is not present'</span>
+<span style="color:red;">Mar 09,2017 10:54:08 [Fail]  ====Failed==== "Role Field of first Row" field is not present'Role Field of first Row'</span>
+Mar 09,2017 10:54:15 [Info]  Clicked on the 'Save Button at 'Edit Window'' using JS Executor
+Mar 09,2017 10:54:16 [Info]  Verify The data of Role of First Data Row
+<span style="color:green;">Mar 09,2017 10:54:16 [Verification]  Verified that Expected value :[Actor] is matched with Actual value :[Actor]</span>
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 10:55:42******************</span>
+Mar 09,2017 10:55:42 [Info]  Client: SKY
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************</span>
+Mar 09,2017 10:55:53 [Info]  Client: SKY
+Mar 09,2017 10:55:53 [Info]  URL: http://rlv2wb85/Home.aspx
+Mar 09,2017 10:55:53 [Info]  UserName: admin
+Mar 09,2017 10:55:53 [Info]  Password: admin
+Mar 09,2017 10:55:54 [Info]  Entered "admin" in field 'User Name'
+Mar 09,2017 10:55:54 [Info]  Clicked on the 'Temporary Check Box'
+Mar 09,2017 10:55:54 [Info]  Entered "admin" in field 'Password'
+Mar 09,2017 10:56:11 [Info]  Clicked on the 'LoginButton'
+Mar 09,2017 10:56:20 [Info]  Clicked on the 'MODULE'
+Mar 09,2017 10:56:26 [Info]  Clicked on the 'Title Maintenance'
+Mar 09,2017 10:56:33 [Info]  Double clicked on 'AUT_AstSrisSrch_03082017103204AssetName'
+Mar 09,2017 10:56:33 [Info]  Clicked on the 'Contributors OR Contacts TAB'
+Mar 09,2017 10:56:42 [Info]  Clicked on the ''Edit' Button at Contributor TAB' using JS Executor
+Mar 09,2017 10:56:46 [Info]  Clicked on the ''Add' Button at Contributor window' using JS Executor
+Mar 09,2017 10:56:47 [Info]  Selected "Internal Parties" in "Contributor_PartyList_DropDown" drop down
+Mar 09,2017 10:56:52 [Info]  Clicked on the 'Contributor_ContributorSearch_SearchField'
+Mar 09,2017 10:56:52 [Info]  Entered "Automation Last Name" in field 'Contributor_ContributorSearch_SearchField'
+Mar 09,2017 10:56:52 [Info]  Clicked on the 'Find Button at Contributor Search Window' using JS Executor
+Mar 09,2017 10:56:53 [Info]  Double clicked on 'Contributor_ContributorSearch_FirstContributor'
+Mar 09,2017 10:57:02 [Info]  Clicked on the 'Role field'
+Mar 09,2017 10:57:02 [Info]  Entered "Actor" in field 'Role Field of first Row'
+Mar 09,2017 10:57:09 [Info]  Clicked on the 'Save Button at 'Edit Window'' using JS Executor
+Mar 09,2017 10:57:09 [Info]  Verify The data of Role of First Data Row
+<span style="color:green;">Mar 09,2017 10:57:09 [Verification]  Verified that Expected value :[Actor] is matched with Actual value :[Actor]</span>
+<span style="color:red;">Mar 09,2017 10:57:29 [Fail]  ====Failed==== " Could not find the Frame: //div[@clientid='RL_SplitterPane_Navigation']</span>
+Mar 09,2017 10:57:33 [Info]  Test 'TC3_AdvancedAssetSearchWithEpisodeDetails' FAILED
+Mar 09,2017 10:57:33 [Info]  2
+Mar 09,2017 10:57:37 [Info]  Test 'TC3_AdvancedAssetSearchWithEpisodeDetails' FAILED
+Mar 09,2017 10:57:37 [Info]  2
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 10:58:26******************</span>
+Mar 09,2017 10:58:26 [Info]  Client: SKY
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************</span>
+Mar 09,2017 10:58:38 [Info]  Client: SKY
+Mar 09,2017 10:58:38 [Info]  URL: http://rlv2wb85/Home.aspx
+Mar 09,2017 10:58:38 [Info]  UserName: admin
+Mar 09,2017 10:58:38 [Info]  Password: admin
+Mar 09,2017 10:58:39 [Info]  Entered "admin" in field 'User Name'
+Mar 09,2017 10:58:39 [Info]  Clicked on the 'Temporary Check Box'
+Mar 09,2017 10:58:39 [Info]  Entered "admin" in field 'Password'
+Mar 09,2017 10:58:57 [Info]  Clicked on the 'LoginButton'
+Mar 09,2017 10:59:07 [Info]  Clicked on the 'MODULE'
+Mar 09,2017 10:59:13 [Info]  Clicked on the 'Title Maintenance'
+Mar 09,2017 10:59:22 [Info]  Double clicked on 'AUT_AstSrisSrch_03082017103204AssetName'
+Mar 09,2017 10:59:22 [Info]  Clicked on the 'Contributors OR Contacts TAB'
+Mar 09,2017 10:59:30 [Info]  Clicked on the ''Edit' Button at Contributor TAB' using JS Executor
+Mar 09,2017 10:59:34 [Info]  Clicked on the ''Add' Button at Contributor window' using JS Executor
+Mar 09,2017 10:59:35 [Info]  Selected "Internal Parties" in "Contributor_PartyList_DropDown" drop down
+Mar 09,2017 10:59:39 [Info]  Clicked on the 'Contributor_ContributorSearch_SearchField'
+Mar 09,2017 10:59:39 [Info]  Entered "Automation Last Name" in field 'Contributor_ContributorSearch_SearchField'
+Mar 09,2017 10:59:40 [Info]  Clicked on the 'Find Button at Contributor Search Window' using JS Executor
+Mar 09,2017 10:59:40 [Info]  Double clicked on 'Contributor_ContributorSearch_FirstContributor'
+Mar 09,2017 10:59:49 [Info]  Clicked on the 'Role field'
+Mar 09,2017 10:59:50 [Info]  Entered "Actor" in field 'Role Field of first Row'
+Mar 09,2017 10:59:57 [Info]  Clicked on the 'Save Button at 'Edit Window'' using JS Executor
+Mar 09,2017 10:59:57 [Info]  Verify The data of Role of First Data Row
+<span style="color:green;">Mar 09,2017 10:59:57 [Verification]  Verified that Expected value :[Actor] is matched with Actual value :[Actor]</span>

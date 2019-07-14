@@ -1,0 +1,78 @@
+Dec 06,2016 11:18:22 [info]  ********************Started Executiong the Test Suite at 11:18:22******************
+Dec 06,2016 11:18:22 [info]  Client: AMCN
+Dec 06,2016 11:18:22 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Dec 06,2016 11:18:22 [info]  *********************Started Executing 'MediaRightsRow' Test Case*********************
+Dec 06,2016 17:07:33 [info]  ********************Started Executiong the Test Suite at 17:07:33******************
+Dec 06,2016 17:07:33 [info]  Client: AMCN
+Dec 06,2016 17:07:33 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Dec 06,2016 17:07:33 [info]  *********************Started Executing 'Exhibition_UI_Verification' Test Case*********************
+Dec 06,2016 17:07:45 [info]  Client: AMCN
+Dec 06,2016 17:07:45 [info]  URL: http://rlv2wb79/login.aspx
+Dec 06,2016 17:07:45 [info]  UserName: automation
+Dec 06,2016 17:07:45 [info]  Password: automation
+Dec 06,2016 17:07:46 [info]  Entered "automation" in field 'User Name'
+Dec 06,2016 17:07:46 [info]  Clicked on the 'Temporary Check Box'
+Dec 06,2016 17:07:47 [info]  Entered "automation" in field 'Password'
+Dec 06,2016 17:07:53 [info]  Clicked on the 'LoginButton'
+Dec 06,2016 17:08:14 [info]  Clicked on the 'Exhibition Rights TAB'
+Dec 06,2016 17:08:37 [info]  Verify The data of Media Row Number
+Dec 06,2016 17:08:37 [info]  Verified that Expected value :[Media Row No] is matched with Actual value :[Media Row No]
+Dec 06,2016 17:08:37 [info]  Verify The data of Exhibit APPLIESTO
+Dec 06,2016 17:08:37 [info]  Verified that Expected value :[Applies To] is matched with Actual value :[Applies To]
+Dec 06,2016 17:08:37 [info]  Verify The data of UNLIMITED Header
+Dec 06,2016 17:08:37 [info]  Verified that Expected value :[Unlimited] is matched with Actual value :[Unlimited]
+Dec 06,2016 17:08:37 [info]  Verify The data of EXHIBIT DATE UPDATE Header
+Dec 06,2016 17:08:37 [info]  Verified that Expected value :[Update] is matched with Actual value :[Update]
+Dec 06,2016 17:08:37 [info]  Verify The data of EXHIBITION_DAYSHeader
+Dec 06,2016 17:08:37 [info]  ====Failed==== Expected value is:[Exhib.Days] but Actual value is[Update]. Please check the screenshot with name: EXHIBITION_DAYSHeaderfor more details
+Dec 06,2016 17:08:38 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\06\EXHIBITION_DAYSHeader_CheckpointFailure_12-06-2016 5-08-37 PM.jpg
+Dec 06,2016 17:08:38 [info]  Verify The data of RESERVED_EXHIBITION Header
+Dec 06,2016 17:08:38 [info]  Verified that Expected value :[Reserved Exhibitions] is matched with Actual value :[Reserved Exhibitions]
+Dec 06,2016 17:08:38 [info]  Verify The data of POOLED Header
+Dec 06,2016 17:08:38 [info]  Verified that Expected value :[Pooled] is matched with Actual value :[Pooled]
+Dec 06,2016 17:08:38 [info]  Verify The data of RI_Exh_ViewMode_EXHIBITIONDAYSCOPE_Header
+Dec 06,2016 17:08:38 [info]  Verified that Expected value :[Exhib.Day Scope] is matched with Actual value :[Exhib.Day Scope]
+Dec 06,2016 17:08:39 [info]  Verify The data of STARTDATE Header
+Dec 06,2016 17:08:39 [info]  Verified that Expected value :[Start Date] is matched with Actual value :[Start Date]
+Dec 06,2016 17:08:39 [info]  Verify The data of ENDDATEHeader
+Dec 06,2016 17:08:39 [info]  Verified that Expected value :[End Date] is matched with Actual value :[End Date]
+Dec 06,2016 17:08:39 [info]  Verify The data of ExhibitBUSINESS_TERMSHeader
+Dec 06,2016 17:08:39 [info]  Verified that Expected value :[Notes] is matched with Actual value :[Notes]
+Dec 06,2016 17:09:52 [info]  
+Dec 06,2016 17:09:52 [info]  *****Verify all the buttons, drop down available in View Mode at the Exhibition Rights TAB*****
+Dec 06,2016 17:09:52 [info]  Verify The data of RI_Exh_AppliesToLabel
+Dec 06,2016 17:09:52 [info]  Verified that Expected value :[Applies To] is matched with Actual value :[Applies To]
+Dec 06,2016 17:09:52 [info]  Verify The data of RI_Exh_ClearFiltersButton
+Dec 06,2016 17:09:52 [info]  Verified that Expected value :[Clear Filters] is matched with Actual value :[Clear Filters]
+Dec 06,2016 17:09:52 [info]  Verify The data of RI_Exh_ShowAllRowsLabel
+Dec 06,2016 17:09:52 [info]  Verified that Expected value :[Show All Rows] is matched with Actual value :[Show All Rows]
+Dec 06,2016 17:09:52 [info]  ====Failed===="RI_Exh_ExpandAll" is not Present
+Dec 06,2016 17:09:53 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\06\RI_Exh_ExpandAll_CheckpointFailure_12-06-2016 5-09-52 PM.jpg
+Dec 06,2016 17:09:53 [info]  ====Failed===="RI_Exh_CollapseAll" is not Present
+Dec 06,2016 17:09:54 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\06\RI_Exh_CollapseAll_CheckpointFailure_12-06-2016 5-09-53 PM.jpg
+Dec 06,2016 17:11:20 [info]  Clicked on the ''Edit' Button at Media Rights TAB' using JS Executor
+Dec 06,2016 17:11:28 [info]  Verify The data of Media Row Number
+Dec 06,2016 17:11:28 [info]  Verified that Expected value :[Media Row No] is matched with Actual value :[Media Row No]
+Dec 06,2016 17:11:28 [info]  Verify The data of Exhibit APPLIESTO
+Dec 06,2016 17:11:28 [info]  Verified that Expected value :[Applies To] is matched with Actual value :[Applies To]
+Dec 06,2016 17:11:28 [info]  Verify The data of UNLIMITED Header
+Dec 06,2016 17:11:28 [info]  Verified that Expected value :[Unlimited] is matched with Actual value :[Unlimited]
+Dec 06,2016 17:11:28 [info]  Verify The data of EXHIBIT DATE UPDATE Header
+Dec 06,2016 17:11:28 [info]  Verified that Expected value :[Update] is matched with Actual value :[*Update]
+Dec 06,2016 17:11:28 [info]  Verify The data of EXHIBITION_DAYSHeader
+Dec 06,2016 17:11:28 [info]  ====Failed==== Expected value is:[Exhib.Days] but Actual value is[*Update]. Please check the screenshot with name: EXHIBITION_DAYSHeaderfor more details
+Dec 06,2016 17:11:29 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Dec2016\\06\EXHIBITION_DAYSHeader_CheckpointFailure_12-06-2016 5-11-28 PM.jpg
+Dec 06,2016 17:11:29 [info]  Verify The data of RESERVED_EXHIBITION Header
+Dec 06,2016 17:11:29 [info]  Verified that Expected value :[Reserved Exhibitions] is matched with Actual value :[Reserved Exhibitions]
+Dec 06,2016 17:11:29 [info]  Verify The data of POOLED Header
+Dec 06,2016 17:11:29 [info]  Verified that Expected value :[Pooled] is matched with Actual value :[Pooled]
+Dec 06,2016 17:11:29 [info]  Verify The data of RI_Exh_ViewMode_EXHIBITIONDAYSCOPE_Header
+Dec 06,2016 17:11:29 [info]  Verified that Expected value :[Exhib.Day Scope] is matched with Actual value :[*Exhib.Day Scope]
+Dec 06,2016 17:11:29 [info]  Verify The data of STARTDATE Header
+Dec 06,2016 17:11:29 [info]  Verified that Expected value :[Start Date] is matched with Actual value :[Start Date]
+Dec 06,2016 17:11:29 [info]  Verify The data of ENDDATEHeader
+Dec 06,2016 17:11:29 [info]  Verified that Expected value :[End Date] is matched with Actual value :[End Date]
+Dec 06,2016 17:11:30 [info]  Verify The data of ExhibitBUSINESS_TERMSHeader
+Dec 06,2016 17:11:30 [info]  Verified that Expected value :[Notes] is matched with Actual value :[Notes]
+Dec 06,2016 17:11:36 [info]  Test 'Exhibition_UI_Verification' PASSED
+Dec 06,2016 17:11:37 [info]  Closed the Browser

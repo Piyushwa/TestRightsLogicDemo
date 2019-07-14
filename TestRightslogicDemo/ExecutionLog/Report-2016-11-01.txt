@@ -1,0 +1,1385 @@
+Nov 01,2016 11:37:38 [info]  ********************Started Executiong the Test Suite at 11:37:38******************
+Nov 01,2016 11:37:38 [info]  Client: AMCN
+Nov 01,2016 11:37:38 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Nov 01,2016 11:37:38 [info]  *********************Started Executing 'TC1_VersionUI' Test Case*********************
+Nov 01,2016 11:37:59 [info]  Client: AMCN
+Nov 01,2016 11:37:59 [info]  URL: http://rlv2wb79/login.aspx
+Nov 01,2016 11:37:59 [info]  UserName: automation
+Nov 01,2016 11:37:59 [info]  Password: automation
+Nov 01,2016 11:38:07 [info]  Entered "automation" in field 'User Name'
+Nov 01,2016 11:38:08 [info]  Clicked on the 'Temporary Check Box'
+Nov 01,2016 11:38:08 [info]  Entered "automation" in field 'Password'
+Nov 01,2016 11:38:23 [info]  Clicked on the 'LoginButton'
+Nov 01,2016 11:38:33 [info]  Clicked on the 'MODULE'
+Nov 01,2016 11:38:43 [info]  Clicked on the 'Asset Maintenance'
+Nov 01,2016 11:38:46 [info]  Clicked on the 'Search Menu Icon' using JS Executor
+Nov 01,2016 11:38:47 [info]  Clicked on the 'AssetSearchUnderAsset' using JS Executor
+Nov 01,2016 11:39:06 [info]  Entered "AUT_AssetMovies_1031201611849" in field 'AssetTitle'
+Nov 01,2016 11:39:06 [info]  Clicked on the 'All Check Box' using JS Executor
+Nov 01,2016 11:39:06 [info]  Clicked on the 'Find Button' using JS Executor
+Nov 01,2016 11:39:41 [info]  Moved Mouse over 'First Asset in the Searched Asset'
+Nov 01,2016 11:39:42 [info]  Clicked on the 'First Asset in the Searched Asset'
+Nov 01,2016 11:39:42 [info]  Clicked on the 'First Asset in the Searched Asset'
+Nov 01,2016 11:39:45 [info]  Clicked on the 'View Asset' using JS Executor
+Nov 01,2016 11:40:09 [info]  Verified that Expected value :[AUT_AssetMovies_1031201611849] is matched with Actual value :[AUT_AssetMovies_1031201611849]
+Nov 01,2016 11:40:12 [info]  Clicked on the 'Versions TAB'
+Nov 01,2016 11:40:12 [info]  ***************Frames and default values**********************
+Nov 01,2016 11:40:12 [info]  Verified that Expected value :[Versions (Same Rights)] is matched with Actual value :[Versions (Same Rights)]
+Nov 01,2016 11:40:12 [info]  Verify The data of Version Name Field at Edit Version window
+Nov 01,2016 11:40:12 [info]  Verified that Expected value :[Version 1.0] is matched with Actual value :[Version 1.0]
+Nov 01,2016 11:40:13 [info]  Clicked on the 'Edit Button' using JS Executor
+Nov 01,2016 11:40:19 [info]  **********Verifying the columns in the "Versions Edit window"************
+Nov 01,2016 11:40:20 [info]  Verified that Expected value :[*Name] is matched with Actual value :[*Name]
+Nov 01,2016 11:40:20 [info]  Verified that Expected value :[Version Type] is matched with Actual value :[Version Type]
+Nov 01,2016 11:40:20 [info]  Verified that Expected value :[Serial #] is matched with Actual value :[Serial #]
+Nov 01,2016 11:40:20 [info]  Verified that Expected value :[Language] is matched with Actual value :[Language]
+Nov 01,2016 11:40:20 [info]  Verified that Expected value :[Format] is matched with Actual value :[Format]
+Nov 01,2016 11:40:21 [info]  Verified that Expected value :[Block Length (Min.)] is matched with Actual value :[Block Length (Min.)]
+Nov 01,2016 11:40:21 [info]  Verified that Expected value :[Format Target Duration] is matched with Actual value :[Format Target Duration]
+Nov 01,2016 11:40:21 [info]  Verified that Expected value :[Total Actual Runtime] is matched with Actual value :[Total Actual Runtime]
+Nov 01,2016 11:40:21 [info]  Verified that Expected value :[*Network] is matched with Actual value :[*Network]
+Nov 01,2016 11:40:21 [info]  Verified that Expected value :[Network Default] is matched with Actual value :[Network Default]
+Nov 01,2016 11:40:22 [info]  Verified that Expected value :[Active] is matched with Actual value :[Active]
+Nov 01,2016 11:40:22 [info]  Verified that Expected value :[Daytime Playable] is matched with Actual value :[Daytime Playable]
+Nov 01,2016 11:40:25 [info]  Verified that Expected value :[Earliest Time] is matched with Actual value :[Earliest Time]
+Nov 01,2016 11:40:25 [info]  Verified that Expected value :[TV Parental Rating] is matched with Actual value :[TV Parental Rating]
+Nov 01,2016 11:40:25 [info]  Verified that Expected value :[Rating Notes] is matched with Actual value :[Rating Notes]
+Nov 01,2016 11:40:26 [info]  Verified that Expected value :[Audio] is matched with Actual value :[Audio]
+Nov 01,2016 11:40:26 [info]  Verified that Expected value :[Hue] is matched with Actual value :[Hue]
+Nov 01,2016 11:40:26 [info]  Verified that Expected value :[Dubbed] is matched with Actual value :[Dubbed]
+Nov 01,2016 11:40:26 [info]  Verified that Expected value :[Subtitled] is matched with Actual value :[Subtitled]
+Nov 01,2016 11:40:26 [info]  Verified that Expected value :[Aspect Ratio] is matched with Actual value :[Aspect Ratio]
+Nov 01,2016 11:40:26 [info]  Verified that Expected value :[Dir.'s Cut] is matched with Actual value :[Dir.'s Cut]
+Nov 01,2016 11:40:27 [info]  Verified that Expected value :[Intermission] is matched with Actual value :[Intermission]
+Nov 01,2016 11:40:27 [info]  Verified that Expected value :[CCAP] is matched with Actual value :[CCAP]
+Nov 01,2016 11:40:27 [info]  Verified that Expected value :[Block Status] is matched with Actual value :[Block Status]
+Nov 01,2016 11:40:27 [info]  File created C:\Screenshots\Nov2016
+Nov 01,2016 11:40:27 [info]  File created C:\Screenshots\Nov2016\01
+Nov 01,2016 11:40:27 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Nov2016\\01\ScrollIssue_2_CheckpointFailure_11-01-2016 11-40-27 AM.jpg
+Nov 01,2016 11:40:31 [info]  Verified that Expected value :[Standard] is matched with Actual value :[Standard]
+Nov 01,2016 11:40:31 [info]  Verified that Expected value :[Tape Status] is matched with Actual value :[Tape Status]
+Nov 01,2016 11:40:31 [info]  Verified that Expected value :[Default] is matched with Actual value :[Default]
+Nov 01,2016 11:40:31 [info]  Verified that Expected value :[Commercial Load] is matched with Actual value :[Commercial Load]
+Nov 01,2016 11:40:31 [info]  Verified that Expected value :[Schedule Block] is matched with Actual value :[Schedule Block]
+Nov 01,2016 11:40:31 [info]  Verified that Expected value :[Altered Film-Other Event] is matched with Actual value :[Altered Film-Other Event]
+Nov 01,2016 11:40:32 [info]  Verified that Expected value :[Gabriel Description] is matched with Actual value :[Gabriel Description]
+Nov 01,2016 11:40:32 [info]  Verified that Expected value :[Disclaimer ID] is matched with Actual value :[Disclaimer ID]
+Nov 01,2016 11:40:32 [info]  Verified that Expected value :[Notes] is matched with Actual value :[Notes]
+Nov 01,2016 11:40:32 [info]  Verified that Expected value :[Parental Rating Extension] is matched with Actual value :[Parental Rating Extension]
+Nov 01,2016 11:40:32 [info]  **********Verifying the Buttons in the "Versions Edit window"************
+Nov 01,2016 11:40:32 [info]  Verified that Expected value :[Add] is matched with Actual value :[Add]
+Nov 01,2016 11:40:32 [info]  Verified that Expected value :[Copy] is matched with Actual value :[Copy]
+Nov 01,2016 11:40:33 [info]  Verified that Expected value :[Delete] is matched with Actual value :[Delete]
+Nov 01,2016 11:40:33 [info]  Verified that Expected value :[Save] is matched with Actual value :[Save]
+Nov 01,2016 11:40:33 [info]  Verified that Expected value :[Cancel] is matched with Actual value :[Cancel]
+Nov 01,2016 11:40:33 [info]  **********The default values in the row************
+Nov 01,2016 11:40:36 [info]  Verified that Expected value :[Version 1.0] is matched with Actual value :[Version 1.0]
+Nov 01,2016 11:40:36 [info]  Verify The data of Actual run time duration
+Nov 01,2016 11:40:36 [info]  Verified that Expected value :[671:11] is matched with Actual value :[671:11]
+Nov 01,2016 11:40:37 [info]  Verified that Expected value :[Network Default] is matched with Actual value :[Network Default]
+Nov 01,2016 11:40:38 [info]  Clicked on the 'NETWORKHeader_Field'
+Nov 01,2016 11:40:38 [info]  Entered "AMC" in field 'NETWORKHeader_Field'
+Nov 01,2016 11:40:39 [info]  Clicked on the 'support click 'Select Row''
+Nov 01,2016 11:40:39 [info]  Verified that Expected value :[AMC] is matched with Actual value :[AMC]
+Nov 01,2016 11:40:39 [info]  Clicked on the 'Add Button at Edit Version Window' using JS Executor
+Nov 01,2016 11:40:43 [info]  Double clicked on 'Version Name Field SecondRow at Edit Version Window'
+Nov 01,2016 11:40:44 [info]  Entered "Version 2.0" in field 'Name InputField at Edit Version Window'
+Nov 01,2016 11:40:44 [info]  Clicked on the 'support click 'Select Row''
+Nov 01,2016 11:40:44 [info]  Double clicked on 'Version Name Field SecondRow at Edit Version Window'
+Nov 01,2016 11:40:45 [info]  Entered "Version 2.0" in field 'Name InputField at Edit Version Window'
+Nov 01,2016 11:40:45 [info]  Clicked on the 'VersionTypeFieldSecondRow at Edit Version Window'
+Nov 01,2016 11:40:46 [info]  Clicked on the 'Version Type Drop Down at Edit Version Window'
+Nov 01,2016 11:40:46 [info]  Verified that Expected value :[Sponsored] is matched with Actual value :[Sponsored]
+Nov 01,2016 11:40:46 [info]  Verified that Expected value :[Credit Speedup] is matched with Actual value :[Credit Speedup]
+Nov 01,2016 11:40:46 [info]  Verified that Expected value :[Limited Break] is matched with Actual value :[Limited Break]
+Nov 01,2016 11:40:46 [info]  Verified that Expected value :[Uncut] is matched with Actual value :[Uncut]
+Nov 01,2016 11:40:46 [info]  Verified that Expected value :[Anniversary] is matched with Actual value :[Anniversary]
+Nov 01,2016 11:40:46 [info]  Entered "Sponsored" in field 'Version Type Field at Edit Version Window'
+Nov 01,2016 11:40:47 [info]  Clicked on the 'Language Field'
+Nov 01,2016 11:40:48 [info]  Entered "All Languages" in field 'Language Field at Edit Version Window'
+Nov 01,2016 11:40:48 [info]  Clicked on the 'Version Format field'
+Nov 01,2016 11:40:49 [info]  Entered "Reel" in field 'Version Format field'
+Nov 01,2016 11:40:49 [info]  Clicked on the 'AMVerBlockLength'
+Nov 01,2016 11:40:49 [info]  Entered "100" in field 'AMVerBlockLength Field'
+Nov 01,2016 11:40:50 [info]  Clicked on the 'AMVerTotalActualRuntime_Field'
+Nov 01,2016 11:40:50 [info]  Entered "58:40" in field 'AMVerBlockLength Field'
+Nov 01,2016 11:40:51 [info]  Clicked on the 'MAX_RUNTIMEHeader_Field'
+Nov 01,2016 11:40:51 [info]  Entered "60:40" in field 'MAX_RUNTIMEHeader_Field'
+Nov 01,2016 11:40:52 [info]  Clicked on the 'NETWORKHeader_Field_SecondRow'
+Nov 01,2016 11:40:52 [info]  Entered "AMC" in field 'NETWORKHeader_Field_SecondRow'
+Nov 01,2016 11:40:53 [info]  Clicked on the 'FLAG_NETWORK_DEFAULTHeader'
+Nov 01,2016 11:40:53 [info]  Clicked on the 'AUDIO_Field_SecondRow at Edit Version Window'
+Nov 01,2016 11:40:54 [info]  Clicked on the 'AUDIO_Field_SecondRow at Edit Version Window'
+Nov 01,2016 11:40:54 [info]  Clicked on the 'COLORHeader_Field_SecondRow at Edit Version Window'
+Nov 01,2016 11:40:55 [info]  Clicked on the 'COLORHeader_Drop Down_SecondRow at Edit Version Window'
+Nov 01,2016 11:40:55 [info]  Entered "Colors" in field 'COLOR_InputField'
+Nov 01,2016 11:40:55 [info]  
+Nov 01,2016 11:40:56 [info]  Clicked on the 'DUBBED_LANGUAGE_Field_SecondRow at Edit Version Window'
+Nov 01,2016 11:40:56 [info]  Entered "English" in field 'DUBBED_LANGUAGE_Field_SecondRow Field'
+Nov 01,2016 11:40:56 [info]  
+Nov 01,2016 11:40:57 [info]  Clicked on the 'SUBTITLED_LANGUAGEHeader_Field_SecondRow at Edit Version Window'
+Nov 01,2016 11:40:57 [info]  Entered "Spanish" in field 'SUBTITLED_LANGUAGEHeader_Field_SecondRow'
+Nov 01,2016 11:40:58 [info]  
+Nov 01,2016 11:40:58 [info]  Clicked on the 'Aspect Ratio SecondRow at Edit Version Window'
+Nov 01,2016 11:40:58 [info]  Clicked on the 'Aspect Ratio Drop Down at Edit Version Window'
+Nov 01,2016 11:40:59 [info]  Verified that Expected value :[2:3] is matched with Actual value :[2:3]
+Nov 01,2016 11:40:59 [info]  Verified that Expected value :[4:5] is matched with Actual value :[4:5]
+Nov 01,2016 11:40:59 [info]  Verified that Expected value :[1.33] is matched with Actual value :[1.33]
+Nov 01,2016 11:40:59 [info]  Verified that Expected value :[1.56] is matched with Actual value :[1.56]
+Nov 01,2016 11:40:59 [info]  Verified that Expected value :[1.66] is matched with Actual value :[1.66]
+Nov 01,2016 11:40:59 [info]  Verified that Expected value :[1.78] is matched with Actual value :[1.78]
+Nov 01,2016 11:40:59 [info]  Verified that Expected value :[1.85] is matched with Actual value :[1.85]
+Nov 01,2016 11:40:59 [info]  Verified that Expected value :[2.2] is matched with Actual value :[2.2]
+Nov 01,2016 11:40:59 [info]  Verified that Expected value :[2.35] is matched with Actual value :[2.35]
+Nov 01,2016 11:40:59 [info]  Verified that Expected value :[2.4] is matched with Actual value :[2.4]
+Nov 01,2016 11:40:59 [info]  Verified that Expected value :[2.69] is matched with Actual value :[2.69]
+Nov 01,2016 11:40:59 [info]  Entered "2:3" in field 'Aspect Ratio Field at Edit Version Window'
+Nov 01,2016 11:41:00 [info]  Clicked on the 'DIRCUTHeader_CheckBox_SecondRow at Edit Version Window'
+Nov 01,2016 11:41:00 [info]  Clicked on the 'INTERMISSIONHeader Check Box at Edit Version Window'
+Nov 01,2016 11:41:01 [info]  Clicked on the 'CCAPHeader Check Box at Edit Version Window'
+Nov 01,2016 11:41:05 [info]  Clicked on the 'NOTE Image Icon at Edit Version Window'
+Nov 01,2016 11:41:05 [info]  Clicked on the 'Restriction at Note'
+Nov 01,2016 11:41:05 [info]  Clicked on the 'Note field'
+Nov 01,2016 11:41:06 [info]  Entered "ABC123" in field 'Note Field'
+Nov 01,2016 11:41:06 [info]  Clicked on the 'OK button at Note Widnow' using JS Executor
+Nov 01,2016 11:41:10 [info]  Moved Mouse over 'AMVersionDefault_Field_Image'
+Nov 01,2016 11:41:10 [info]  Clicked on the 'AMVersionDefault_Field_Image' using JS Executor
+Nov 01,2016 11:41:13 [info]  Clicked on the 'Save button' using JS Executor
+Nov 01,2016 11:41:14 [info]  Verified that Expected value :[The Asset can only have one Default Version. Please select only one version as default before attempting to save.] is matched with Actual value :[  Save Versions  
+    The Asset can only have one Default Version. Please select only one version as default before attempting to save.
+       ]
+Nov 01,2016 11:41:17 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Nov 01,2016 11:41:18 [info]  Clicked on the 'AMVersionDefault_Field_Image'
+Nov 01,2016 11:41:18 [info]  Verified that Expected value :[Unchecked] is matched with Actual value :[Unchecked]
+Nov 01,2016 11:41:23 [info]  Clicked on the 'Save button' using JS Executor
+Nov 01,2016 11:41:36 [info]  Verified that Expected value :[Version 2.0] is matched with Actual value :[Version 2.0]
+Nov 01,2016 11:41:36 [info]  Test 'TC1_VersionUI' PASSED
+Nov 01,2016 11:41:39 [info]  Closed the Browser
+Nov 01,2016 12:28:00 [info]  ********************Started Executiong the Test Suite at 12:28:00******************
+Nov 01,2016 12:28:00 [info]  Client: AMCN
+Nov 01,2016 12:28:00 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Nov 01,2016 12:28:00 [info]  *********************Started Executing 'TC1_MediaRightsUI' Test Case*********************
+Nov 01,2016 12:28:12 [info]  Client: AMCN
+Nov 01,2016 12:28:12 [info]  URL: http://rlv2wb79/login.aspx
+Nov 01,2016 12:28:12 [info]  UserName: automation
+Nov 01,2016 12:28:12 [info]  Password: automation
+Nov 01,2016 12:28:14 [info]  Entered "automation" in field 'User Name'
+Nov 01,2016 12:28:15 [info]  Clicked on the 'Temporary Check Box'
+Nov 01,2016 12:28:16 [info]  Entered "automation" in field 'Password'
+Nov 01,2016 12:28:23 [info]  Clicked on the 'LoginButton'
+Nov 01,2016 12:28:47 [info]  Clicked on the 'New Button' using JS Executor
+Nov 01,2016 12:28:48 [info]  Clicked on the 'Standalone Agreement' using JS Executor
+Nov 01,2016 12:28:59 [info]  Generated Deal Id is 55314
+Nov 01,2016 12:28:59 [info]  Clicked on the 'DealTitleField' using JS Executor
+Nov 01,2016 12:29:01 [info]  Entered "AUT_Deal_11012016122829" in field 'Deal Name Field'
+Nov 01,2016 12:29:03 [info]  Entered "AUT_Deal_11012016122829_desc" in field 'Deal Description/ContractID'
+Nov 01,2016 12:29:03 [info]  Selected "Production" in "DealType_DropDownField" drop down
+Nov 01,2016 12:29:04 [info]  Selected "Development" in "Deal/Agreement Sub Type" drop down
+Nov 01,2016 12:29:05 [info]  Entered "In Progress - IDM" in field 'DealCreationCDEStatus'
+Nov 01,2016 12:29:06 [info]  Entered "01/01/2014" in field 'DateExecuted_InputField'
+Nov 01,2016 12:29:07 [info]  Entered "01/01/2015" in field 'DateEffective_InputField'
+Nov 01,2016 12:29:08 [info]  Entered "USD" in field 'DealCreationCurrency'
+Nov 01,2016 12:29:09 [info]  Selected "AMC" in "ProfitCenter_InputField" drop down
+Nov 01,2016 12:29:15 [info]  Selected "Acquired Series - 280-206100-612103" in "BudgetLine_InputField" drop down
+Nov 01,2016 12:29:38 [info]  Moved Mouse over 'Party_AddButton'
+Nov 01,2016 12:29:39 [info]  Clicked on the 'Party_AddButton'
+Nov 01,2016 12:29:46 [info]  Entered "AUT_AMCN_RI_PRIMARY_PARTY" in field 'Search Party InputField'
+Nov 01,2016 12:29:46 [info]  Double clicked on 'RI Search Party Window Find Button'
+Nov 01,2016 12:29:54 [info]  Clicked on the 'AUT_AMCN_RI_PRIMARY_PARTY'
+Nov 01,2016 12:29:55 [info]  Clicked on the 'Select Button'
+Nov 01,2016 12:30:01 [info]  Clicked on the 'Party Type Field' using JS Executor
+Nov 01,2016 12:30:02 [info]  Entered "Primary" in field 'Party Party InputField'
+Nov 01,2016 12:30:02 [info]  Clicked on the 'Support Click '
+Nov 01,2016 12:30:02 [info]  Clicked on the 'Party_AddButton' using JS Executor
+Nov 01,2016 12:30:10 [info]  Entered "AUT_AMCN_RI_LICENSOR_PARTY" in field 'Search Party InputField'
+Nov 01,2016 12:30:11 [info]  Double clicked on 'RI Search Party Window Find Button'
+Nov 01,2016 12:30:23 [info]  Clicked on the 'Select Party'
+Nov 01,2016 12:30:23 [info]  Clicked on the 'Select Button'
+Nov 01,2016 12:30:30 [info]  Clicked on the 'Party Type Field' using JS Executor
+Nov 01,2016 12:30:30 [info]  Entered "Distributor" in field 'Party Party InputField'
+Nov 01,2016 12:30:31 [info]  Clicked on the 'Support Click '
+Nov 01,2016 12:30:35 [info]  Clicked on the 'Skip Workflow CheckBox'
+Nov 01,2016 12:30:35 [info]  Clicked on the 'Save Button' using JS Executor
+Nov 01,2016 12:30:47 [info]  Verify The data of CreatedDeal
+Nov 01,2016 12:30:47 [info]  Verified that Expected value :[AUT_Deal_11012016122829] is matched with Actual value :[AUT_Deal_11012016122829]
+Nov 01,2016 14:18:08 [info]  ********************Started Executiong the Test Suite at 14:18:08******************
+Nov 01,2016 14:18:08 [info]  Client: CORUS
+Nov 01,2016 14:18:08 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Nov 01,2016 14:18:08 [info]  *********************Started Executing 'TC1_MediaRightsUI' Test Case*********************
+Nov 01,2016 14:18:18 [info]  Client: CORUS
+Nov 01,2016 14:18:18 [info]  URL: https://corus-rsgqa.rightslogic.com/Login.aspx 
+Nov 01,2016 14:18:18 [info]  UserName: admin
+Nov 01,2016 14:18:18 [info]  Password: admin_corus
+Nov 01,2016 14:18:21 [info]  Entered "admin" in field 'User Name'
+Nov 01,2016 14:18:21 [info]  Clicked on the 'Temporary Check Box'
+Nov 01,2016 14:18:22 [info]  Entered "admin_corus" in field 'Password'
+Nov 01,2016 14:18:31 [info]  Clicked on the 'LoginButton'
+Nov 01,2016 14:18:57 [info]  Clicked on the 'New Button' using JS Executor
+Nov 01,2016 14:18:57 [info]  Clicked on the 'Standalone Agreement' using JS Executor
+Nov 01,2016 14:19:14 [info]  Generated Deal Id is 671
+Nov 01,2016 14:19:14 [info]  Clicked on the 'DealTitleField' using JS Executor
+Nov 01,2016 14:19:16 [info]  Entered "AUT_Deal_1101201621837" in field 'Deal Name Field'
+Nov 01,2016 14:19:26 [info]  ====Failed==== "Deal Description/ContractID" field is not present'Deal Description/ContractID'
+Nov 01,2016 14:19:27 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Nov2016\\01\Deal Description/ContractID_CheckpointFailure_11-01-2016 2-19-26 PM.jpg
+Nov 01,2016 14:19:27 [info]  Selected "Production Services" in "DealType_DropDownField" drop down
+Nov 01,2016 14:19:38 [info]  ====Failed==== "Development" is not present in 'Deal/Agreement Sub TypeDrop Down'
+Nov 01,2016 14:19:38 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Nov2016\\01\Deal/Agreement Sub Type_CheckpointFailure_11-01-2016 2-19-38 PM.jpg
+Nov 01,2016 14:19:39 [info]  Entered "Finalized" in field 'DealCreationCDEStatus'
+Nov 01,2016 14:19:40 [info]  Entered "01/01/2014" in field 'DateExecuted_InputField'
+Nov 01,2016 14:19:41 [info]  Entered "01/01/2015" in field 'DateEffective_InputField'
+Nov 01,2016 14:19:42 [info]  Entered "USD" in field 'DealCreationCurrency'
+Nov 01,2016 14:19:52 [info]  ====Failed==== "ProjectStatus" field is not present'ProjectStatus'
+Nov 01,2016 14:19:52 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Nov2016\\01\ProjectStatus_CheckpointFailure_11-01-2016 2-19-52 PM.jpg
+Nov 01,2016 14:20:02 [info]  ====Failed==== "ProjectID_InputField" field is not present'ProjectID_InputField'
+Nov 01,2016 14:20:02 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Nov2016\\01\ProjectID_InputField_CheckpointFailure_11-01-2016 2-20-02 PM.jpg
+Nov 01,2016 14:20:03 [info]  Selected "Corus_Profit_Center" in "ProfitCenter_InputField" drop down
+Nov 01,2016 14:20:09 [info]  Selected "Corus" in "BudgetLine_InputField" drop down
+Nov 01,2016 14:20:29 [info]  ====Failed==== "SBU" field is not present'SBU'
+Nov 01,2016 14:20:29 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Nov2016\\01\SBU_CheckpointFailure_11-01-2016 2-20-29 PM.jpg
+Nov 01,2016 14:20:43 [info]  ====Failed==== "Doc Type look up Icon" field is not present'
+Nov 01,2016 14:20:43 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Nov2016\\01\Doc Type look up Icon_CheckpointFailure_11-01-2016 2-20-43 PM.jpg
+Nov 01,2016 14:20:59 [info]  ====Failed==== " Could not find the Frame: div[id*='WebDialogWindow1'][style*=visible]
+Nov 01,2016 14:20:59 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Nov2016\\01\FrameSwitchingFailed0_CheckpointFailure_11-01-2016 2-20-59 PM.jpg
+Nov 01,2016 14:21:09 [info]  ====Failed==== "Select All Button at SBU" field is not present'
+Nov 01,2016 14:21:09 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Nov2016\\01\Select All Button at SBU_CheckpointFailure_11-01-2016 2-21-09 PM.jpg
+Nov 01,2016 14:21:20 [info]  ====Failed==== "FirstCheckBoxAtSBU" field is not present'
+Nov 01,2016 14:21:20 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Nov2016\\01\FirstCheckBoxAtSBU_CheckpointFailure_11-01-2016 2-21-20 PM.jpg
+Nov 01,2016 14:21:30 [info]  ====Failed==== "NinthCheckBoxAtSBU" field is not present'
+Nov 01,2016 14:21:30 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Nov2016\\01\NinthCheckBoxAtSBU_CheckpointFailure_11-01-2016 2-21-30 PM.jpg
+Nov 01,2016 14:21:40 [info]  ====Failed==== "Apply Button" field is not present'
+Nov 01,2016 14:21:40 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Nov2016\\01\Apply Button_CheckpointFailure_11-01-2016 2-21-40 PM.jpg
+Nov 01,2016 14:31:31 [info]  ********************Started Executiong the Test Suite at 14:31:31******************
+Nov 01,2016 14:31:31 [info]  Client: CORUS
+Nov 01,2016 14:31:31 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Nov 01,2016 14:31:31 [info]  *********************Started Executing 'TC1_MediaRightsUI' Test Case*********************
+Nov 01,2016 14:31:40 [info]  Client: CORUS
+Nov 01,2016 14:31:40 [info]  URL: https://corus-rsgqa.rightslogic.com/Login.aspx 
+Nov 01,2016 14:31:40 [info]  UserName: admin
+Nov 01,2016 14:31:40 [info]  Password: admin_corus
+Nov 01,2016 14:31:41 [info]  Entered "admin" in field 'User Name'
+Nov 01,2016 14:31:42 [info]  Clicked on the 'Temporary Check Box'
+Nov 01,2016 14:31:42 [info]  Entered "admin_corus" in field 'Password'
+Nov 01,2016 14:31:50 [info]  Clicked on the 'LoginButton'
+Nov 01,2016 14:32:16 [info]  Clicked on the 'New Button' using JS Executor
+Nov 01,2016 14:32:16 [info]  Clicked on the 'Standalone Agreement' using JS Executor
+Nov 01,2016 14:32:27 [info]  Generated Deal Id is 673
+Nov 01,2016 14:32:28 [info]  Clicked on the 'DealTitleField' using JS Executor
+Nov 01,2016 14:32:29 [info]  Entered "AUT_Deal_1101201623156" in field 'Deal Name Field'
+Nov 01,2016 14:32:30 [info]  Selected "Production Services" in "DealType_DropDownField" drop down
+Nov 01,2016 14:32:40 [info]  ====Failed==== "Development" is not present in 'Deal/Agreement Sub TypeDrop Down'
+Nov 01,2016 14:32:41 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Nov2016\\01\Deal/Agreement Sub Type_CheckpointFailure_11-01-2016 2-32-40 PM.jpg
+Nov 01,2016 14:32:42 [info]  Entered "Finalized" in field 'DealCreationCDEStatus'
+Nov 01,2016 14:32:42 [info]  Entered "01/01/2014" in field 'DateExecuted_InputField'
+Nov 01,2016 14:32:43 [info]  Entered "01/01/2015" in field 'DateEffective_InputField'
+Nov 01,2016 14:32:44 [info]  Entered "USD" in field 'DealCreationCurrency'
+Nov 01,2016 14:32:45 [info]  Selected "Corus_Profit_Center" in "ProfitCenter_InputField" drop down
+Nov 01,2016 14:32:52 [info]  Selected "Corus" in "BudgetLine_InputField" drop down
+Nov 01,2016 14:33:15 [info]  Moved Mouse over 'Party_AddButton'
+Nov 01,2016 14:33:16 [info]  Clicked on the 'Party_AddButton'
+Nov 01,2016 14:33:20 [info]  Entered "A Rejcha" in field 'Search Party InputField'
+Nov 01,2016 14:33:21 [info]  Double clicked on 'RI Search Party Window Find Button'
+Nov 01,2016 14:33:28 [info]  Clicked on the 'A Rejcha'
+Nov 01,2016 14:33:29 [info]  Clicked on the 'Select Button'
+Nov 01,2016 14:33:35 [info]  Clicked on the 'Party Type Field' using JS Executor
+Nov 01,2016 14:33:36 [info]  Entered "Primary" in field 'Party Party InputField'
+Nov 01,2016 14:33:36 [info]  Clicked on the 'Support Click '
+Nov 01,2016 14:33:36 [info]  Clicked on the 'Party_AddButton' using JS Executor
+Nov 01,2016 14:33:43 [info]  Entered "14th Hour Productions, LLC" in field 'Search Party InputField'
+Nov 01,2016 14:33:43 [info]  Double clicked on 'RI Search Party Window Find Button'
+Nov 01,2016 14:33:54 [info]  Clicked on the 'Select Party'
+Nov 01,2016 14:33:55 [info]  Clicked on the 'Select Button'
+Nov 01,2016 14:34:01 [info]  Clicked on the 'Party Type Field' using JS Executor
+Nov 01,2016 14:34:02 [info]  Entered "Licensor" in field 'Party Party InputField'
+Nov 01,2016 14:34:02 [info]  Clicked on the 'Support Click '
+Nov 01,2016 14:34:06 [info]  Clicked on the 'Skip Workflow CheckBox'
+Nov 01,2016 14:34:06 [info]  Clicked on the 'Save Button' using JS Executor
+Nov 01,2016 14:34:16 [info]  Verify The data of CreatedDeal
+Nov 01,2016 14:34:16 [info]  ====Failed==== Expected value is:[AUT_Deal_1101201623156] but Actual value is[]. Please check the screenshot with name: CreatedDealfor more details
+Nov 01,2016 14:34:16 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Nov2016\\01\CreatedDeal_CheckpointFailure_11-01-2016 2-34-16 PM.jpg
+Nov 01,2016 14:34:17 [info]  ************************Started Creating Asset of Type: Program - Series************************
+Nov 01,2016 14:34:21 [info]  Clicked on the 'MODULE'
+Nov 01,2016 14:34:33 [info]  Clicked on the 'Asset Maintenance'
+Nov 01,2016 14:34:40 [info]  Clicked on the 'New Button' using JS Executor
+Nov 01,2016 14:34:41 [info]  Clicked on the 'Program' using JS Executor
+Nov 01,2016 14:34:51 [info]  Clicked on the 'General TAB'
+Nov 01,2016 14:34:55 [info]  Selected "Program - Series" in "AssetTypeDropDown" drop down
+Nov 01,2016 14:35:03 [info]  Entered "AUT_AssetSeries_1101201623156" in field 'AssetTitle'
+Nov 01,2016 14:35:04 [info]  Clicked on the 'SBUImage' using JS Executor
+Nov 01,2016 14:35:06 [info]  Verified that Expected value :[Primary Channel Template] is matched with Actual value :[Primary Channel Template]
+Nov 01,2016 14:35:07 [info]  Clicked on the ''Select All' CheckBox at SBU' using JS Executor
+Nov 01,2016 14:35:13 [info]  Clicked on the 'First CheckBox At SBU window'
+Nov 01,2016 14:35:13 [info]  Clicked on the 'Ninth CheckBox At SBU winodw'
+Nov 01,2016 14:35:15 [info]  Clicked on the 'Apply Button' using JS Executor
+Nov 01,2016 14:35:16 [info]  Entered "00:30:00" in field 'Duration'
+Nov 01,2016 14:35:17 [info]  Entered "00:30:00" in field 'Duration'
+Nov 01,2016 14:35:18 [info]  Selected "Production" in "Asset Status" drop down
+Nov 01,2016 14:35:18 [info]  Selected "Licensed Acquired Production" in "Asset Source" drop down
+Nov 01,2016 14:35:18 [info]  Selected "DVD" in "Asset Category/Group" drop down
+Nov 01,2016 14:35:19 [info]  Entered "AUT_Series" in field 'Short Name'
+Nov 01,2016 14:35:20 [info]  Clicked on the 'Genre Add Button' using JS Executor
+Nov 01,2016 14:35:20 [info]  Clicked on the 'Genre Type Row Field' using JS Executor
+Nov 01,2016 14:35:20 [info]  Clicked on the 'Genere Type Dropdown Image'
+Nov 01,2016 14:35:21 [info]  Clicked on the 'First Genere Type DropDown Value in the list'
+Nov 01,2016 14:35:21 [info]  Clicked on the 'Genre Row Field' using JS Executor
+Nov 01,2016 14:35:21 [info]  Clicked on the 'Genere Dropdown Image'
+Nov 01,2016 14:35:21 [info]  Clicked on the 'Genere Dropdown value'
+Nov 01,2016 14:35:22 [info]  Clicked on the 'Add Button of Note' using JS Executor
+Nov 01,2016 14:35:24 [info]  Entered "Medium" in field 'Asset Priority'
+Nov 01,2016 14:35:25 [info]  Entered "Subject For the Deal" in field 'Asset Subject'
+Nov 01,2016 14:35:26 [info]  Entered "New Asset" in field 'AssetNotes TextField'
+Nov 01,2016 14:35:27 [info]  Clicked on the 'OK button'
+Nov 01,2016 14:35:29 [info]  Clicked on the 'Save Button' using JS Executor
+Nov 01,2016 14:35:46 [info]  Verified that Expected value :[AUT_AssetSeries_1101201623156] is matched with Actual value :[AUT_AssetSeries_1101201623156]
+Nov 01,2016 14:35:46 [info]  ************************Created Asset of TypeProgram - Series************************
+Nov 01,2016 14:37:00 [info]  Test 'TC1_MediaRightsUI' FAILED
+Nov 01,2016 14:37:00 [info]  2
+Nov 01,2016 14:37:01 [info]  Test Case :TC1_MediaRightsUI's Screenshot of Failure Page: C:\Screenshots\Nov2016\\01\TC1_MediaRightsUI_11-01-2016 2-37-00 PM.jpg
+Nov 01,2016 14:37:03 [info]  Closed the Browser
+Nov 01,2016 14:39:17 [info]  ********************Started Executiong the Test Suite at 14:39:17******************
+Nov 01,2016 14:39:17 [info]  Client: CORUS
+Nov 01,2016 14:39:17 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Nov 01,2016 14:39:17 [info]  *********************Started Executing 'TC1_MediaRightsUI' Test Case*********************
+Nov 01,2016 14:39:26 [info]  Client: CORUS
+Nov 01,2016 14:39:26 [info]  URL: https://corus-rsgqa.rightslogic.com/Login.aspx 
+Nov 01,2016 14:39:26 [info]  UserName: admin
+Nov 01,2016 14:39:26 [info]  Password: admin_corus
+Nov 01,2016 14:39:27 [info]  Entered "admin" in field 'User Name'
+Nov 01,2016 14:39:28 [info]  Clicked on the 'Temporary Check Box'
+Nov 01,2016 14:39:28 [info]  Entered "admin_corus" in field 'Password'
+Nov 01,2016 14:39:36 [info]  Clicked on the 'LoginButton'
+Nov 01,2016 14:40:02 [info]  Clicked on the 'New Button' using JS Executor
+Nov 01,2016 14:40:02 [info]  Clicked on the 'Standalone Agreement' using JS Executor
+Nov 01,2016 14:40:12 [info]  Generated Deal Id is 674
+Nov 01,2016 14:40:13 [info]  Clicked on the 'DealTitleField' using JS Executor
+Nov 01,2016 14:40:14 [info]  Entered "AUT_Deal_1101201623942" in field 'Deal Name Field'
+Nov 01,2016 14:40:15 [info]  Selected "Production Services" in "DealType_DropDownField" drop down
+Nov 01,2016 14:40:16 [info]  Selected "Composer" in "Deal/Agreement Sub Type" drop down
+Nov 01,2016 14:40:17 [info]  Entered "Finalized" in field 'DealCreationCDEStatus'
+Nov 01,2016 14:40:18 [info]  Entered "01/01/2014" in field 'DateExecuted_InputField'
+Nov 01,2016 14:40:19 [info]  Entered "01/01/2015" in field 'DateEffective_InputField'
+Nov 01,2016 14:40:20 [info]  Entered "USD" in field 'DealCreationCurrency'
+Nov 01,2016 14:40:20 [info]  Selected "Corus_Profit_Center" in "ProfitCenter_InputField" drop down
+Nov 01,2016 14:40:27 [info]  Selected "Corus" in "BudgetLine_InputField" drop down
+Nov 01,2016 14:40:49 [info]  Moved Mouse over 'Party_AddButton'
+Nov 01,2016 14:40:51 [info]  Clicked on the 'Party_AddButton'
+Nov 01,2016 14:40:54 [info]  Entered "A Rejcha" in field 'Search Party InputField'
+Nov 01,2016 14:40:55 [info]  Double clicked on 'RI Search Party Window Find Button'
+Nov 01,2016 14:41:01 [info]  Clicked on the 'A Rejcha'
+Nov 01,2016 14:41:02 [info]  Clicked on the 'Select Button'
+Nov 01,2016 14:41:09 [info]  Clicked on the 'Party Type Field' using JS Executor
+Nov 01,2016 14:41:09 [info]  Entered "Primary" in field 'Party Party InputField'
+Nov 01,2016 14:41:09 [info]  Clicked on the 'Support Click '
+Nov 01,2016 14:41:10 [info]  Clicked on the 'Party_AddButton' using JS Executor
+Nov 01,2016 14:41:16 [info]  Entered "14th Hour Productions, LLC" in field 'Search Party InputField'
+Nov 01,2016 14:41:16 [info]  Double clicked on 'RI Search Party Window Find Button'
+Nov 01,2016 14:41:26 [info]  Clicked on the 'Select Party'
+Nov 01,2016 14:41:27 [info]  Clicked on the 'Select Button'
+Nov 01,2016 14:41:33 [info]  Clicked on the 'Party Type Field' using JS Executor
+Nov 01,2016 14:41:34 [info]  Entered "Licensor" in field 'Party Party InputField'
+Nov 01,2016 14:41:34 [info]  Clicked on the 'Support Click '
+Nov 01,2016 14:41:38 [info]  Clicked on the 'Skip Workflow CheckBox'
+Nov 01,2016 14:41:39 [info]  Clicked on the 'Save Button' using JS Executor
+Nov 01,2016 14:41:48 [info]  Verify The data of CreatedDeal
+Nov 01,2016 14:41:48 [info]  ====Failed==== Expected value is:[AUT_Deal_1101201623942] but Actual value is[]. Please check the screenshot with name: CreatedDealfor more details
+Nov 01,2016 14:41:49 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Nov2016\\01\CreatedDeal_CheckpointFailure_11-01-2016 2-41-48 PM.jpg
+Nov 01,2016 14:41:49 [info]  ************************Started Creating Asset of Type: Program - Series************************
+Nov 01,2016 14:41:53 [info]  Clicked on the 'MODULE'
+Nov 01,2016 14:42:02 [info]  Clicked on the 'Asset Maintenance'
+Nov 01,2016 14:42:10 [info]  Clicked on the 'New Button' using JS Executor
+Nov 01,2016 14:42:10 [info]  Clicked on the 'Program' using JS Executor
+Nov 01,2016 14:42:19 [info]  Clicked on the 'General TAB'
+Nov 01,2016 14:42:23 [info]  Selected "Program - Series" in "AssetTypeDropDown" drop down
+Nov 01,2016 14:42:31 [info]  Entered "AUT_AssetSeries_1101201623942" in field 'AssetTitle'
+Nov 01,2016 14:42:32 [info]  Clicked on the 'SBUImage' using JS Executor
+Nov 01,2016 14:42:33 [info]  Verified that Expected value :[Primary Channel Template] is matched with Actual value :[Primary Channel Template]
+Nov 01,2016 14:42:34 [info]  Clicked on the ''Select All' CheckBox at SBU' using JS Executor
+Nov 01,2016 14:42:40 [info]  Clicked on the 'First CheckBox At SBU window'
+Nov 01,2016 14:42:40 [info]  Clicked on the 'Ninth CheckBox At SBU winodw'
+Nov 01,2016 14:42:42 [info]  Clicked on the 'Apply Button' using JS Executor
+Nov 01,2016 14:42:43 [info]  Entered "00:30:00" in field 'Duration'
+Nov 01,2016 14:42:44 [info]  Entered "00:30:00" in field 'Duration'
+Nov 01,2016 14:42:45 [info]  Selected "Production" in "Asset Status" drop down
+Nov 01,2016 14:42:45 [info]  Selected "Licensed Acquired Production" in "Asset Source" drop down
+Nov 01,2016 14:42:45 [info]  Selected "DVD" in "Asset Category/Group" drop down
+Nov 01,2016 14:42:46 [info]  Entered "AUT_Series" in field 'Short Name'
+Nov 01,2016 14:42:47 [info]  Clicked on the 'Genre Add Button' using JS Executor
+Nov 01,2016 14:42:47 [info]  Clicked on the 'Genre Type Row Field' using JS Executor
+Nov 01,2016 14:42:47 [info]  Clicked on the 'Genere Type Dropdown Image'
+Nov 01,2016 14:42:48 [info]  Clicked on the 'First Genere Type DropDown Value in the list'
+Nov 01,2016 14:42:48 [info]  Clicked on the 'Genre Row Field' using JS Executor
+Nov 01,2016 14:42:48 [info]  Clicked on the 'Genere Dropdown Image'
+Nov 01,2016 14:42:48 [info]  Clicked on the 'Genere Dropdown value'
+Nov 01,2016 14:42:49 [info]  Clicked on the 'Add Button of Note' using JS Executor
+Nov 01,2016 14:42:52 [info]  Entered "Medium" in field 'Asset Priority'
+Nov 01,2016 14:42:52 [info]  Entered "Subject For the Deal" in field 'Asset Subject'
+Nov 01,2016 14:42:53 [info]  Entered "New Asset" in field 'AssetNotes TextField'
+Nov 01,2016 14:42:54 [info]  Clicked on the 'OK button'
+Nov 01,2016 14:42:56 [info]  Clicked on the 'Save Button' using JS Executor
+Nov 01,2016 14:43:07 [info]  Verified that Expected value :[AUT_AssetSeries_1101201623942] is matched with Actual value :[AUT_AssetSeries_1101201623942]
+Nov 01,2016 14:43:07 [info]  ************************Created Asset of TypeProgram - Series************************
+Nov 01,2016 14:44:07 [info]  Test 'TC1_MediaRightsUI' FAILED
+Nov 01,2016 14:44:07 [info]  2
+Nov 01,2016 14:44:07 [info]  Test Case :TC1_MediaRightsUI's Screenshot of Failure Page: C:\Screenshots\Nov2016\\01\TC1_MediaRightsUI_11-01-2016 2-44-07 PM.jpg
+Nov 01,2016 14:44:08 [info]  Closed the Browser
+Nov 01,2016 14:49:13 [info]  ********************Started Executiong the Test Suite at 14:49:13******************
+Nov 01,2016 14:49:13 [info]  Client: CORUS
+Nov 01,2016 14:49:13 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Nov 01,2016 14:49:13 [info]  *********************Started Executing 'TC1_MediaRightsUI' Test Case*********************
+Nov 01,2016 14:49:23 [info]  Client: CORUS
+Nov 01,2016 14:49:23 [info]  URL: https://corus-rsgqa.rightslogic.com/Login.aspx 
+Nov 01,2016 14:49:23 [info]  UserName: admin
+Nov 01,2016 14:49:23 [info]  Password: admin_corus
+Nov 01,2016 14:49:24 [info]  Entered "admin" in field 'User Name'
+Nov 01,2016 14:49:25 [info]  Clicked on the 'Temporary Check Box'
+Nov 01,2016 14:49:26 [info]  Entered "admin_corus" in field 'Password'
+Nov 01,2016 14:49:33 [info]  Clicked on the 'LoginButton'
+Nov 01,2016 14:49:59 [info]  Clicked on the 'New Button' using JS Executor
+Nov 01,2016 14:49:59 [info]  Clicked on the 'Standalone Agreement' using JS Executor
+Nov 01,2016 14:50:10 [info]  Generated Deal Id is 675
+Nov 01,2016 14:50:10 [info]  Clicked on the 'DealTitleField' using JS Executor
+Nov 01,2016 14:50:12 [info]  Entered "AUT_Deal_1101201624939" in field 'Deal Name Field'
+Nov 01,2016 14:50:13 [info]  Selected "Production Services" in "DealType_DropDownField" drop down
+Nov 01,2016 14:50:13 [info]  Selected "Composer" in "Deal/Agreement Sub Type" drop down
+Nov 01,2016 14:50:14 [info]  Entered "Finalized" in field 'DealCreationCDEStatus'
+Nov 01,2016 14:50:15 [info]  Entered "01/01/2014" in field 'DateExecuted_InputField'
+Nov 01,2016 14:50:16 [info]  Entered "01/01/2015" in field 'DateEffective_InputField'
+Nov 01,2016 14:50:17 [info]  Entered "USD" in field 'DealCreationCurrency'
+Nov 01,2016 14:50:17 [info]  Selected "Corus_Profit_Center" in "ProfitCenter_InputField" drop down
+Nov 01,2016 14:50:24 [info]  Selected "Corus" in "BudgetLine_InputField" drop down
+Nov 01,2016 14:50:47 [info]  Moved Mouse over 'Party_AddButton'
+Nov 01,2016 14:50:48 [info]  Clicked on the 'Party_AddButton'
+Nov 01,2016 14:50:54 [info]  Entered "AUT_CORUS_RI_PRIMARY_PARTY" in field 'Search Party InputField'
+Nov 01,2016 14:50:55 [info]  Double clicked on 'RI Search Party Window Find Button'
+Nov 01,2016 14:51:02 [info]  Clicked on the 'AUT_CORUS_RI_PRIMARY_PARTY'
+Nov 01,2016 14:51:03 [info]  Clicked on the 'Select Button'
+Nov 01,2016 14:51:09 [info]  Clicked on the 'Party Type Field' using JS Executor
+Nov 01,2016 14:51:10 [info]  Entered "Primary" in field 'Party Party InputField'
+Nov 01,2016 14:51:10 [info]  Clicked on the 'Support Click '
+Nov 01,2016 14:51:10 [info]  Clicked on the 'Party_AddButton' using JS Executor
+Nov 01,2016 14:51:19 [info]  Entered "AUT_CORUS_RI_LICENSOR_PARTY" in field 'Search Party InputField'
+Nov 01,2016 14:51:19 [info]  Double clicked on 'RI Search Party Window Find Button'
+Nov 01,2016 14:51:30 [info]  Clicked on the 'Select Party'
+Nov 01,2016 14:51:31 [info]  Clicked on the 'Select Button'
+Nov 01,2016 14:51:37 [info]  Clicked on the 'Party Type Field' using JS Executor
+Nov 01,2016 14:51:38 [info]  Entered "Licensor" in field 'Party Party InputField'
+Nov 01,2016 14:51:38 [info]  Clicked on the 'Support Click '
+Nov 01,2016 14:51:42 [info]  Clicked on the 'Skip Workflow CheckBox'
+Nov 01,2016 14:51:42 [info]  Clicked on the 'Save Button' using JS Executor
+Nov 01,2016 14:51:56 [info]  Verify The data of CreatedDeal
+Nov 01,2016 14:51:56 [info]  Verified that Expected value :[AUT_Deal_1101201624939] is matched with Actual value :[AUT_Deal_1101201624939]
+Nov 01,2016 14:51:57 [info]  ************************Started Creating Asset of Type: Program - Series************************
+Nov 01,2016 14:52:01 [info]  Clicked on the 'MODULE'
+Nov 01,2016 14:52:11 [info]  Clicked on the 'Asset Maintenance'
+Nov 01,2016 14:52:19 [info]  Clicked on the 'New Button' using JS Executor
+Nov 01,2016 14:52:19 [info]  Clicked on the 'Program' using JS Executor
+Nov 01,2016 14:52:28 [info]  Clicked on the 'General TAB'
+Nov 01,2016 14:52:31 [info]  Selected "Program - Series" in "AssetTypeDropDown" drop down
+Nov 01,2016 14:52:39 [info]  Entered "AUT_AssetSeries_1101201624939" in field 'AssetTitle'
+Nov 01,2016 14:52:40 [info]  Clicked on the 'SBUImage' using JS Executor
+Nov 01,2016 14:52:42 [info]  Verified that Expected value :[Primary Channel Template] is matched with Actual value :[Primary Channel Template]
+Nov 01,2016 14:52:42 [info]  Clicked on the ''Select All' CheckBox at SBU' using JS Executor
+Nov 01,2016 14:52:48 [info]  Clicked on the 'First CheckBox At SBU window'
+Nov 01,2016 14:52:49 [info]  Clicked on the 'Ninth CheckBox At SBU winodw'
+Nov 01,2016 14:52:51 [info]  Clicked on the 'Apply Button' using JS Executor
+Nov 01,2016 14:52:52 [info]  Entered "00:30:00" in field 'Duration'
+Nov 01,2016 14:52:52 [info]  Entered "00:30:00" in field 'Duration'
+Nov 01,2016 14:52:53 [info]  Selected "Production" in "Asset Status" drop down
+Nov 01,2016 14:52:53 [info]  Selected "Licensed Acquired Production" in "Asset Source" drop down
+Nov 01,2016 14:52:54 [info]  Selected "DVD" in "Asset Category/Group" drop down
+Nov 01,2016 14:52:55 [info]  Entered "AUT_Series" in field 'Short Name'
+Nov 01,2016 14:52:55 [info]  Clicked on the 'Genre Add Button' using JS Executor
+Nov 01,2016 14:52:55 [info]  Clicked on the 'Genre Type Row Field' using JS Executor
+Nov 01,2016 14:52:56 [info]  Clicked on the 'Genere Type Dropdown Image'
+Nov 01,2016 14:52:56 [info]  Clicked on the 'First Genere Type DropDown Value in the list'
+Nov 01,2016 14:52:56 [info]  Clicked on the 'Genre Row Field' using JS Executor
+Nov 01,2016 14:52:56 [info]  Clicked on the 'Genere Dropdown Image'
+Nov 01,2016 14:52:57 [info]  Clicked on the 'Genere Dropdown value'
+Nov 01,2016 14:52:57 [info]  Clicked on the 'Add Button of Note' using JS Executor
+Nov 01,2016 14:53:00 [info]  Entered "Medium" in field 'Asset Priority'
+Nov 01,2016 14:53:01 [info]  Entered "Subject For the Deal" in field 'Asset Subject'
+Nov 01,2016 14:53:01 [info]  Entered "New Asset" in field 'AssetNotes TextField'
+Nov 01,2016 14:53:02 [info]  Clicked on the 'OK button'
+Nov 01,2016 14:53:04 [info]  Clicked on the 'Save Button' using JS Executor
+Nov 01,2016 14:53:15 [info]  Verified that Expected value :[AUT_AssetSeries_1101201624939] is matched with Actual value :[AUT_AssetSeries_1101201624939]
+Nov 01,2016 14:53:15 [info]  ************************Created Asset of TypeProgram - Series************************
+Nov 01,2016 14:53:19 [info]  Clicked on the 'MODULE'
+Nov 01,2016 14:53:28 [info]  Clicked on the 'Asset Maintenance'
+Nov 01,2016 14:53:31 [info]  Clicked on the 'Search Menu Icon' using JS Executor
+Nov 01,2016 14:53:31 [info]  Clicked on the 'AssetSearchUnderAsset' using JS Executor
+Nov 01,2016 14:53:44 [info]  Entered "AUT_AssetSeries_1101201624939" in field 'AssetTitle'
+Nov 01,2016 14:53:45 [info]  Clicked on the 'Find Button' using JS Executor
+Nov 01,2016 14:54:10 [info]  Moved Mouse over 'First Asset in the Searched Asset'
+Nov 01,2016 14:54:10 [info]  Clicked on the 'First Asset in the Searched Asset'
+Nov 01,2016 14:54:11 [info]  Clicked on the 'First Asset in the Searched Asset'
+Nov 01,2016 14:54:14 [info]  Clicked on the 'View Asset' using JS Executor
+Nov 01,2016 14:54:31 [info]  Verified that Expected value :[AUT_AssetSeries_1101201624939] is matched with Actual value :[AUT_AssetSeries_1101201624939]
+Nov 01,2016 14:54:39 [info]  Clicked on the 'Episodes TAB'
+Nov 01,2016 14:54:43 [info]  Clicked on the ''Edit' Button at Episode window' using JS Executor
+Nov 01,2016 14:54:50 [info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Nov 01,2016 14:54:54 [info]  Entered "101" in field 'Add Episode input field'
+Nov 01,2016 14:54:54 [info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Nov 01,2016 14:55:04 [info]  Clicked on the 'Season Field of Episode101' using JS Executor
+Nov 01,2016 14:55:05 [info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Nov 01,2016 14:55:05 [info]  Clicked on the 'Season 1.Original Version'
+Nov 01,2016 14:55:06 [info]  Clicked on the 'Support click to select season'
+Nov 01,2016 14:55:09 [info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Nov 01,2016 14:55:10 [info]  Entered "102" in field 'Add Episode input field'
+Nov 01,2016 14:55:10 [info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Nov 01,2016 14:55:24 [info]  Clicked on the 'Season Field of Episode102' using JS Executor
+Nov 01,2016 14:55:24 [info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Nov 01,2016 14:55:25 [info]  Clicked on the 'Season 1.Original Version'
+Nov 01,2016 14:55:25 [info]  Clicked on the 'Support click to select season'
+Nov 01,2016 14:55:25 [info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Nov 01,2016 14:55:26 [info]  Entered "201" in field 'Add Episode input field'
+Nov 01,2016 14:55:26 [info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Nov 01,2016 14:55:40 [info]  Clicked on the 'Season Field of Episode201' using JS Executor
+Nov 01,2016 14:55:40 [info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Nov 01,2016 14:55:41 [info]  Clicked on the 'Season 2.Original Version'
+Nov 01,2016 14:55:41 [info]  Clicked on the 'Support click to select season'
+Nov 01,2016 14:55:44 [info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Nov 01,2016 14:55:45 [info]  Entered "202" in field 'Add Episode input field'
+Nov 01,2016 14:55:46 [info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Nov 01,2016 14:55:56 [info]  Clicked on the 'Support click to select season'
+Nov 01,2016 14:56:00 [info]  Clicked on the 'Season Field of Episode201' using JS Executor
+Nov 01,2016 14:56:00 [info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Nov 01,2016 14:56:01 [info]  Clicked on the 'Season 2.Original Version'
+Nov 01,2016 14:56:01 [info]  Clicked on the 'Support click to select season'
+Nov 01,2016 14:56:04 [info]  Clicked on the 'Save Button at 'Episode Edit Window'' using JS Executor
+Nov 01,2016 14:56:16 [info]  Clicked on the 'Close Button at 'Episode Edit Window'' using JS Executor
+Nov 01,2016 14:56:42 [info]  Clicked on the 'New Button' using JS Executor
+Nov 01,2016 14:56:42 [info]  Clicked on the 'TC1_MediaRightsUI' using JS Executor
+Nov 01,2016 14:58:09 [info]  ********************Started Executiong the Test Suite at 14:58:09******************
+Nov 01,2016 14:58:09 [info]  Client: CORUS
+Nov 01,2016 14:58:09 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Nov 01,2016 14:58:09 [info]  *********************Started Executing 'TC1_MediaRightsUI' Test Case*********************
+Nov 01,2016 14:58:18 [info]  Client: CORUS
+Nov 01,2016 14:58:18 [info]  URL: https://corus-rsgqa.rightslogic.com/Login.aspx 
+Nov 01,2016 14:58:18 [info]  UserName: admin
+Nov 01,2016 14:58:18 [info]  Password: admin_corus
+Nov 01,2016 14:58:20 [info]  Entered "admin" in field 'User Name'
+Nov 01,2016 14:58:20 [info]  Clicked on the 'Temporary Check Box'
+Nov 01,2016 14:58:21 [info]  Entered "admin_corus" in field 'Password'
+Nov 01,2016 14:58:21 [info]  Clicked on the 'LoginButton'
+Nov 01,2016 14:58:38 [info]  ====Failed==== "Navigator" field is not present'
+Nov 01,2016 14:58:39 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Nov2016\\01\Navigator_CheckpointFailure_11-01-2016 2-58-38 PM.jpg
+Nov 01,2016 14:58:55 [info]  ====Failed==== " Could not find the Frame: div[id*='WebDialogWindow1'][style*=visible]
+Nov 01,2016 14:58:55 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Nov2016\\01\FrameSwitchingFailed0_CheckpointFailure_11-01-2016 2-58-55 PM.jpg
+Nov 01,2016 14:58:55 [info]  Unable to find element with css selector == div[id*='WebDialogWindow1'][style*=visible] (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.14 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: '9P4G6BS', ip: '10.10.22.71', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=true, ie.forceCreateProcessApi=false, pageLoadStrategy=normal, ie.usePerProcessProxy=false, ignoreZoomSetting=false, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=false, browserName=internet explorer, initialBrowserUrl=http://localhost:14558/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=false, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: 212838f4-1735-4fcb-bcf8-a375682e6012
+*** Element info: {Using=css selector, value=div[id*='WebDialogWindow1'][style*=visible]}
+Nov 01,2016 15:00:32 [info]  Test 'TC1_MediaRightsUI' FAILED
+Nov 01,2016 15:00:32 [info]  2
+Nov 01,2016 15:00:32 [info]  Test Case :TC1_MediaRightsUI's Screenshot of Failure Page: C:\Screenshots\Nov2016\\01\TC1_MediaRightsUI_11-01-2016 3-00-32 PM.jpg
+Nov 01,2016 15:00:33 [info]  Closed the Browser
+Nov 01,2016 15:01:26 [info]  ********************Started Executiong the Test Suite at 15:01:26******************
+Nov 01,2016 15:01:26 [info]  Client: CORUS
+Nov 01,2016 15:01:26 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Nov 01,2016 15:01:26 [info]  *********************Started Executing 'TC1_MediaRightsUI' Test Case*********************
+Nov 01,2016 15:01:35 [info]  Client: CORUS
+Nov 01,2016 15:01:35 [info]  URL: https://corus-rsgqa.rightslogic.com/Login.aspx 
+Nov 01,2016 15:01:35 [info]  UserName: admin
+Nov 01,2016 15:01:35 [info]  Password: admin_corus
+Nov 01,2016 15:01:36 [info]  Entered "admin" in field 'User Name'
+Nov 01,2016 15:01:37 [info]  Clicked on the 'Temporary Check Box'
+Nov 01,2016 15:01:38 [info]  Entered "admin_corus" in field 'Password'
+Nov 01,2016 15:01:45 [info]  Clicked on the 'LoginButton'
+Nov 01,2016 15:01:52 [info]  Clicked on the 'Modules'
+Nov 01,2016 15:02:04 [info]  Clicked on the 'RightsIN'
+Nov 01,2016 15:02:05 [info]  Clicked on the 'Search Icon' using JS Executor
+Nov 01,2016 15:02:05 [info]  Clicked on the 'Agreement Link' using JS Executor
+Nov 01,2016 15:02:15 [info]  Entered "AUT_Deal_1101201624939" in field 'AssetTitle'
+Nov 01,2016 15:02:17 [info]  Clicked on the 'Find Button' using JS Executor
+Nov 01,2016 15:02:29 [info]  Moved Mouse over 'First Asset in the Searched Asset'
+Nov 01,2016 15:02:29 [info]  Clicked on the 'First Asset in the Searched Asset'
+Nov 01,2016 15:02:33 [info]  Clicked on the 'View Asset' using JS Executor
+Nov 01,2016 15:02:43 [info]  Verified that Expected value :[AUT_Deal_1101201624939] is matched with Actual value :[AUT_Deal_1101201624939]
+Nov 01,2016 15:02:44 [info]  Clicked on the 'Navigator' using JS Executor
+Nov 01,2016 15:02:51 [info]  Clicked on the 'Deal'
+Nov 01,2016 15:02:51 [info]  Double clicked on 'Associate With Exiting Asset'
+Nov 01,2016 15:02:54 [info]  Clicked on the 'Asset Status'
+Nov 01,2016 15:02:54 [info]  Clicked on the 'Asset tile' using JS Executor
+Nov 01,2016 15:02:55 [info]  Entered "AUT_AssetSeries_1101201624939" in field 'Asset title'
+Nov 01,2016 15:02:55 [info]  =====Failed====== BUG ID : 20309
+Nov 01,2016 15:02:55 [info]  Clicked on the 'Display Season checkBox' using JS Executor
+Nov 01,2016 15:02:55 [info]  Clicked on the 'Search Button' using JS Executor
+Nov 01,2016 15:03:07 [info]  Clicked on the 'Toggle'
+Nov 01,2016 15:03:10 [info]  Double clicked on 'Searched Asset'
+Nov 01,2016 15:03:21 [info]  Clicked on the 'Ok Button' using JS Executor
+Nov 01,2016 16:49:42 [info]  ********************Started Executiong the Test Suite at 16:49:42******************
+Nov 01,2016 16:49:42 [info]  Client: VMN
+Nov 01,2016 16:49:42 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Nov 01,2016 16:49:42 [info]  *********************Started Executing 'TC1_MediaRightsUI' Test Case*********************
+Nov 01,2016 16:49:52 [info]  Client: VMN
+Nov 01,2016 16:49:52 [info]  URL: http://rlv2wb41/login.aspx
+Nov 01,2016 16:49:52 [info]  UserName: admin
+Nov 01,2016 16:49:52 [info]  Password: admin
+Nov 01,2016 16:49:53 [info]  Entered "admin" in field 'User Name'
+Nov 01,2016 16:49:53 [info]  Clicked on the 'Temporary Check Box'
+Nov 01,2016 16:49:54 [info]  Entered "admin" in field 'Password'
+Nov 01,2016 16:50:04 [info]  Clicked on the 'LoginButton'
+Nov 01,2016 16:51:06 [info]  ********************Started Executiong the Test Suite at 16:51:06******************
+Nov 01,2016 16:51:06 [info]  Client: VMN
+Nov 01,2016 16:51:06 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Nov 01,2016 16:51:06 [info]  *********************Started Executing 'TC1_MediaRightsUI' Test Case*********************
+Nov 01,2016 16:51:16 [info]  Client: VMN
+Nov 01,2016 16:51:16 [info]  URL: http://rlv2wb41/login.aspx
+Nov 01,2016 16:51:16 [info]  UserName: admin
+Nov 01,2016 16:51:16 [info]  Password: admin
+Nov 01,2016 16:51:17 [info]  Entered "admin" in field 'User Name'
+Nov 01,2016 16:51:17 [info]  Clicked on the 'Temporary Check Box'
+Nov 01,2016 16:51:18 [info]  Entered "admin" in field 'Password'
+Nov 01,2016 16:51:28 [info]  Clicked on the 'LoginButton'
+Nov 01,2016 16:51:54 [info]  Clicked on the 'New Button' using JS Executor
+Nov 01,2016 16:51:55 [info]  Clicked on the 'Standalone Agreement' using JS Executor
+Nov 01,2016 16:52:09 [info]  Generated Deal Id is 28522
+Nov 01,2016 16:52:09 [info]  Clicked on the 'DealTitleField' using JS Executor
+Nov 01,2016 16:52:11 [info]  Entered "AUT_Deal_1101201645134" in field 'Deal Name Field'
+Nov 01,2016 16:52:13 [info]  Entered "AUT_Deal_1101201645134_desc" in field 'Deal Description/ContractID'
+Nov 01,2016 16:52:14 [info]  Selected "Co-production Agreement" in "DealType_DropDownField" drop down
+Nov 01,2016 16:52:15 [info]  Entered "Fully Executed" in field 'Deal Creation Contract Status'
+Nov 01,2016 16:52:16 [info]  Entered "Finalized / Approved" in field 'DealCreationCDEStatus'
+Nov 01,2016 16:52:17 [info]  Entered "01/01/2014" in field 'DateExecuted_InputField'
+Nov 01,2016 16:52:23 [info]  Clicked on the 'SBU look up Icon' using JS Executor
+Nov 01,2016 16:52:31 [info]  Clicked on the 'Select All Button at SBU'
+Nov 01,2016 16:52:32 [info]  Clicked on the 'FirstCheckBoxAtSBU'
+Nov 01,2016 16:52:32 [info]  Clicked on the 'NinthCheckBoxAtSBU'
+Nov 01,2016 16:52:33 [info]  Clicked on the 'Apply Button'
+Nov 01,2016 16:52:33 [info]  Clicked on the 'Doc Type look up Icon' using JS Executor
+Nov 01,2016 16:52:41 [info]  Clicked on the 'Select All Button at SBU'
+Nov 01,2016 16:52:42 [info]  Clicked on the 'FirstCheckBoxAtSBU'
+Nov 01,2016 16:52:42 [info]  Clicked on the 'NinthCheckBoxAtSBU'
+Nov 01,2016 16:52:43 [info]  Clicked on the 'Apply Button'
+Nov 01,2016 16:52:46 [info]  Moved Mouse over 'Party_AddButton'
+Nov 01,2016 16:52:47 [info]  Clicked on the 'Party_AddButton'
+Nov 01,2016 16:52:47 [info]  Clicked on the 'PartyPopUp Icon' using JS Executor
+Nov 01,2016 16:52:53 [info]  Entered "AUT_VMN_RI_PRIMARY_PARTY" in field 'Search Party InputField'
+Nov 01,2016 16:52:54 [info]  Double clicked on 'RI Search Party Window Find Button'
+Nov 01,2016 16:53:09 [info]  Clicked on the 'AUT_VMN_RI_PRIMARY_PARTY'
+Nov 01,2016 16:53:10 [info]  Clicked on the 'Select Button'
+Nov 01,2016 16:53:16 [info]  Clicked on the 'Party Type Field' using JS Executor
+Nov 01,2016 16:53:17 [info]  Entered "Primary" in field 'Party Party InputField'
+Nov 01,2016 16:53:17 [info]  Clicked on the 'Support Click '
+Nov 01,2016 16:53:17 [info]  Clicked on the 'Party_AddButton' using JS Executor
+Nov 01,2016 16:53:17 [info]  Clicked on the 'PartyPopUp Icon' using JS Executor
+Nov 01,2016 16:53:26 [info]  Entered "AUT_VMN_RI_LICENSOR_PARTY" in field 'Search Party InputField'
+Nov 01,2016 16:53:26 [info]  Double clicked on 'RI Search Party Window Find Button'
+Nov 01,2016 16:53:44 [info]  Clicked on the 'Select Party'
+Nov 01,2016 16:53:45 [info]  Clicked on the 'Select Button'
+Nov 01,2016 16:53:51 [info]  Clicked on the 'Party Type Field' using JS Executor
+Nov 01,2016 16:53:51 [info]  Entered "Licensor" in field 'Party Party InputField'
+Nov 01,2016 16:53:52 [info]  Clicked on the 'Support Click '
+Nov 01,2016 16:54:06 [info]  ====Failed==== "Skip Workflow CheckBox" field is not present'
+Nov 01,2016 16:54:06 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Nov2016\\01\Skip Workflow CheckBox_CheckpointFailure_11-01-2016 4-54-06 PM.jpg
+Nov 01,2016 16:54:06 [info]  Clicked on the 'Save Button' using JS Executor
+Nov 01,2016 16:54:27 [info]  Verify The data of CreatedDeal
+Nov 01,2016 16:54:27 [info]  Verified that Expected value :[AUT_Deal_1101201645134] is matched with Actual value :[AUT_Deal_1101201645134]
+Nov 01,2016 16:54:27 [info]  ************************Started Creating Asset of Type: Program - Series************************
+Nov 01,2016 16:54:32 [info]  Clicked on the 'MODULE'
+Nov 01,2016 16:54:44 [info]  Clicked on the 'Property Entry & Maintenance'
+Nov 01,2016 16:54:52 [info]  Clicked on the 'SearchLink' using JS Executor
+Nov 01,2016 16:54:52 [info]  Clicked on the 'Property Search' using JS Executor
+Nov 01,2016 16:55:05 [info]  Clicked on the 'TR_Asset_Search_Params' using JS Executor
+Nov 01,2016 16:55:07 [info]  Entered "AUT_AssetSeries_1101201645134" in field 'Asset Title'
+Nov 01,2016 16:55:09 [info]  Clicked on the 'Find Button' using JS Executor
+Nov 01,2016 16:55:31 [info]  Verify The data of Alert Message
+Nov 01,2016 16:55:31 [info]  Verified that Expected value :[No search results were found for this query. Please try again using different criteria.] is matched with Actual value :[No search results were found for this query. Please try again using different criteria.]
+Nov 01,2016 16:55:32 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Nov 01,2016 16:55:32 [info]  Clicked on the 'Ok button At Alert' using JS Executor
+Nov 01,2016 16:55:39 [info]  Clicked on the 'Add Asset Button' using JS Executor
+Nov 01,2016 16:55:56 [info]  Asset id is 179010
+Nov 01,2016 16:55:59 [info]  Selected "Program - Series" in "AssetTypeDropDown" drop down
+Nov 01,2016 16:56:14 [info]  Entered "AUT_AssetSeries_1101201645134" in field 'AssetTitle'
+Nov 01,2016 16:56:16 [info]  Clicked on the 'IPImageIcon' using JS Executor
+Nov 01,2016 16:56:17 [info]  Clicked on the 'Find Button' using JS Executor
+Nov 01,2016 16:56:21 [info]  Clicked on the 'loc_IPName_AT_IPWindow'
+Nov 01,2016 16:56:21 [info]  Clicked on the 'IP Select Button' using JS Executor
+Nov 01,2016 16:56:22 [info]  Clicked on the 'Vendor Img Icon' using JS Executor
+Nov 01,2016 16:56:24 [info]  Entered "AUT_VMN_Vendor1" in field 'SearchvalueVendor'
+Nov 01,2016 16:56:27 [info]  Clicked on the 'VendorWindowButtonfind' using JS Executor
+Nov 01,2016 16:56:40 [info]  Clicked on the 'VendorName At VendorWindow'
+Nov 01,2016 16:56:40 [info]  Clicked on the 'Vendor Select Button' using JS Executor
+Nov 01,2016 16:56:44 [info]  Clicked on the 'StudioImageIcon' using JS Executor
+Nov 01,2016 16:56:46 [info]  Verified that Expected value :[Select Copyright Owner] is matched with Actual value :[Select Copyright Owner]
+Nov 01,2016 16:56:48 [info]  Entered "AUT_VMN_Studio" in field 'Studio Name'
+Nov 01,2016 16:56:48 [info]  Clicked on the 'Find Button' using JS Executor
+Nov 01,2016 16:57:03 [info]  Clicked on the 'VendorName At VendorWindow'
+Nov 01,2016 16:57:03 [info]  Clicked on the 'Vendor Select Button' using JS Executor
+Nov 01,2016 16:57:08 [info]  Clicked on the 'SBUImage' using JS Executor
+Nov 01,2016 16:57:09 [info]  Verified that Expected value :[Channel / Entity Template] is matched with Actual value :[Channel / Entity Template]
+Nov 01,2016 16:57:10 [info]  Clicked on the ''Select All' CheckBox at SBU' using JS Executor
+Nov 01,2016 16:57:16 [info]  Clicked on the 'First CheckBox At SBU window'
+Nov 01,2016 16:57:16 [info]  Clicked on the 'Ninth CheckBox At SBU winodw'
+Nov 01,2016 16:57:18 [info]  Clicked on the 'Apply Button' using JS Executor
+Nov 01,2016 16:57:20 [info]  Entered "11:11:11" in field 'Duration'
+Nov 01,2016 16:57:30 [info]  Selected "Active Production" in "Asset Status" drop down
+Nov 01,2016 16:57:31 [info]  Selected "Animated" in "Asset Format" drop down
+Nov 01,2016 16:57:31 [info]  Selected "Co-Production" in "Asset Source" drop down
+Nov 01,2016 16:57:32 [info]  Selected "Television" in "Asset Category/Group" drop down
+Nov 01,2016 16:57:32 [info]  Entered "" in field 'ProjectID'
+Nov 01,2016 16:57:32 [info]  Selected "TBD" in "Client Group" drop down
+Nov 01,2016 16:57:33 [info]  Selected "In Progress" in "PROD Contract Entry/AssetData Status" drop down
+Nov 01,2016 16:57:33 [info]  Clicked on the 'Genre Add Button' using JS Executor
+Nov 01,2016 16:57:33 [info]  Clicked on the 'Genre Type Row Field' using JS Executor
+Nov 01,2016 16:57:34 [info]  Clicked on the 'Genere Type Dropdown Image'
+Nov 01,2016 16:57:35 [info]  Clicked on the 'First Genere Type DropDown Value in the list'
+Nov 01,2016 16:57:35 [info]  Clicked on the 'Genre Row Field' using JS Executor
+Nov 01,2016 16:57:35 [info]  Clicked on the 'Genere Dropdown Image'
+Nov 01,2016 16:57:36 [info]  Clicked on the 'Genere Dropdown value'
+Nov 01,2016 16:57:36 [info]  Clicked on the 'Add Button of Note' using JS Executor
+Nov 01,2016 16:57:39 [info]  Entered "Medium" in field 'Asset Priority'
+Nov 01,2016 16:57:40 [info]  Entered "Subject For the Deal" in field 'Asset Subject'
+Nov 01,2016 16:57:40 [info]  Entered "New Asset" in field 'AssetNotes TextField'
+Nov 01,2016 16:57:41 [info]  Clicked on the 'OK button'
+Nov 01,2016 16:57:44 [info]  Clicked on the 'Save Button' using JS Executor
+Nov 01,2016 16:58:02 [info]  Verified that Expected value :[AUT_AssetSeries_1101201645134] is matched with Actual value :[AUT_AssetSeries_1101201645134]
+Nov 01,2016 16:58:02 [info]  ************************Created Asset of TypeProgram - Series************************
+Nov 01,2016 16:58:07 [info]  Clicked on the 'MODULE'
+Nov 01,2016 16:58:18 [info]  Clicked on the 'Property Entry & Maintenance'
+Nov 01,2016 16:58:22 [info]  Clicked on the 'Search Icon' using JS Executor
+Nov 01,2016 16:58:22 [info]  Clicked on the 'Property Search' using JS Executor
+Nov 01,2016 16:58:37 [info]  Entered "AUT_AssetSeries_1101201645134" in field 'AssetTitle'
+Nov 01,2016 16:58:38 [info]  Clicked on the 'Find Button' using JS Executor
+Nov 01,2016 16:59:14 [info]  Moved Mouse over 'First Asset in the Searched Asset'
+Nov 01,2016 16:59:14 [info]  Clicked on the 'First Asset in the Searched Asset'
+Nov 01,2016 16:59:15 [info]  Clicked on the 'First Asset in the Searched Asset'
+Nov 01,2016 16:59:18 [info]  Clicked on the 'View Asset' using JS Executor
+Nov 01,2016 16:59:31 [info]  Verified that Expected value :[AUT_AssetSeries_1101201645134] is matched with Actual value :[AUT_AssetSeries_1101201645134]
+Nov 01,2016 16:59:40 [info]  Clicked on the 'Episodes TAB'
+Nov 01,2016 16:59:44 [info]  Clicked on the ''Edit' Button at Episode window' using JS Executor
+Nov 01,2016 16:59:52 [info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Nov 01,2016 16:59:56 [info]  Entered "101" in field 'Add Episode input field'
+Nov 01,2016 16:59:56 [info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Nov 01,2016 17:00:09 [info]  Clicked on the 'Season Field of Episode101' using JS Executor
+Nov 01,2016 17:00:10 [info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Nov 01,2016 17:00:10 [info]  Clicked on the 'Season 1.Original Version'
+Nov 01,2016 17:00:11 [info]  Clicked on the 'Support click to select season'
+Nov 01,2016 17:00:14 [info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Nov 01,2016 17:00:15 [info]  Entered "102" in field 'Add Episode input field'
+Nov 01,2016 17:00:15 [info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Nov 01,2016 17:00:31 [info]  Clicked on the 'Season Field of Episode102' using JS Executor
+Nov 01,2016 17:00:32 [info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Nov 01,2016 17:00:32 [info]  Clicked on the 'Season 1.Original Version'
+Nov 01,2016 17:00:33 [info]  Clicked on the 'Support click to select season'
+Nov 01,2016 17:00:33 [info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Nov 01,2016 17:00:34 [info]  Entered "201" in field 'Add Episode input field'
+Nov 01,2016 17:00:34 [info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Nov 01,2016 17:00:50 [info]  Clicked on the 'Season Field of Episode201' using JS Executor
+Nov 01,2016 17:00:51 [info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Nov 01,2016 17:00:51 [info]  Clicked on the 'Season 2.Original Version'
+Nov 01,2016 17:00:52 [info]  Clicked on the 'Support click to select season'
+Nov 01,2016 17:00:55 [info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Nov 01,2016 17:00:56 [info]  Entered "202" in field 'Add Episode input field'
+Nov 01,2016 17:00:56 [info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Nov 01,2016 17:01:09 [info]  Clicked on the 'Support click to select season'
+Nov 01,2016 17:01:12 [info]  Clicked on the 'Season Field of Episode201' using JS Executor
+Nov 01,2016 17:01:13 [info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Nov 01,2016 17:01:14 [info]  Clicked on the 'Season 2.Original Version'
+Nov 01,2016 17:01:14 [info]  Clicked on the 'Support click to select season'
+Nov 01,2016 17:01:17 [info]  Clicked on the 'Save Button at 'Episode Edit Window'' using JS Executor
+Nov 01,2016 17:01:35 [info]  Clicked on the 'Close Button at 'Episode Edit Window'' using JS Executor
+Nov 01,2016 17:01:42 [info]  Clicked on the 'Navigator' using JS Executor
+Nov 01,2016 17:01:58 [info]  ====Failed==== " Could not find the Frame: div[id*='WebDialogWindow1'][style*=visible]
+Nov 01,2016 17:01:59 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Nov2016\\01\FrameSwitchingFailed0_CheckpointFailure_11-01-2016 5-01-58 PM.jpg
+Nov 01,2016 17:01:59 [info]  Unable to find element with css selector == div[id*='WebDialogWindow1'][style*=visible] (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.23 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: '9P4G6BS', ip: '10.10.22.71', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=true, ie.forceCreateProcessApi=false, pageLoadStrategy=normal, ie.usePerProcessProxy=false, ignoreZoomSetting=false, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=false, browserName=internet explorer, initialBrowserUrl=http://localhost:26074/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=false, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: 074fe3c1-9962-48b5-bbd7-e31cbc04bde1
+*** Element info: {Using=css selector, value=div[id*='WebDialogWindow1'][style*=visible]}
+Nov 01,2016 17:03:35 [info]  Test 'TC1_MediaRightsUI' FAILED
+Nov 01,2016 17:03:35 [info]  2
+Nov 01,2016 17:03:35 [info]  Test Case :TC1_MediaRightsUI's Screenshot of Failure Page: C:\Screenshots\Nov2016\\01\TC1_MediaRightsUI_11-01-2016 5-03-35 PM.jpg
+Nov 01,2016 17:03:37 [info]  Closed the Browser
+Nov 01,2016 17:08:35 [info]  ********************Started Executiong the Test Suite at 17:08:35******************
+Nov 01,2016 17:08:35 [info]  Client: VMN
+Nov 01,2016 17:08:35 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Nov 01,2016 17:08:36 [info]  *********************Started Executing 'testscript' Test Case*********************
+Nov 01,2016 17:08:49 [info]  Client: VMN
+Nov 01,2016 17:08:49 [info]  URL: http://rlv2wb41/login.aspx
+Nov 01,2016 17:08:49 [info]  UserName: admin
+Nov 01,2016 17:08:49 [info]  Password: admin
+Nov 01,2016 17:08:50 [info]  Entered "admin" in field 'User Name'
+Nov 01,2016 17:08:50 [info]  Clicked on the 'Temporary Check Box'
+Nov 01,2016 17:08:51 [info]  Entered "admin" in field 'Password'
+Nov 01,2016 17:08:51 [info]  Clicked on the 'LoginButton'
+Nov 01,2016 17:09:00 [info]  Test 'testscript' FAILED
+Nov 01,2016 17:09:00 [info]  2
+Nov 01,2016 17:09:02 [info]  Test Case :testscript's Screenshot of Failure Page: C:\Screenshots\Nov2016\\01\testscript_11-01-2016 5-09-00 PM.jpg
+Nov 01,2016 17:09:03 [info]  Closed the Browser
+Nov 01,2016 17:15:28 [info]  ********************Started Executiong the Test Suite at 17:15:28******************
+Nov 01,2016 17:15:28 [info]  Client: VMN
+Nov 01,2016 17:15:28 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Nov 01,2016 17:15:28 [info]  *********************Started Executing 'testscript' Test Case*********************
+Nov 01,2016 17:15:38 [info]  Client: VMN
+Nov 01,2016 17:15:38 [info]  URL: http://rlv2wb41/login.aspx
+Nov 01,2016 17:15:38 [info]  UserName: admin
+Nov 01,2016 17:15:38 [info]  Password: admin
+Nov 01,2016 17:15:39 [info]  Entered "admin" in field 'User Name'
+Nov 01,2016 17:15:39 [info]  Clicked on the 'Temporary Check Box'
+Nov 01,2016 17:15:40 [info]  Entered "admin" in field 'Password'
+Nov 01,2016 17:15:49 [info]  Clicked on the 'LoginButton'
+Nov 01,2016 17:16:14 [info]  Clicked on the 'New Button' using JS Executor
+Nov 01,2016 17:16:15 [info]  Clicked on the 'Standalone Agreement' using JS Executor
+Nov 01,2016 17:16:27 [info]  Generated Deal Id is 28542
+Nov 01,2016 17:16:27 [info]  Clicked on the 'DealTitleField' using JS Executor
+Nov 01,2016 17:16:29 [info]  Entered "AUT_Deal1_1101201645134" in field 'Deal Name Field'
+Nov 01,2016 17:16:30 [info]  Entered "AUT_Deal1_1101201645134_desc" in field 'Deal Description/ContractID'
+Nov 01,2016 17:16:31 [info]  Selected "Co-production Agreement" in "DealType_DropDownField" drop down
+Nov 01,2016 17:16:32 [info]  Entered "Fully Executed" in field 'Deal Creation Contract Status'
+Nov 01,2016 17:16:33 [info]  Entered "Finalized / Approved" in field 'DealCreationCDEStatus'
+Nov 01,2016 17:16:34 [info]  Entered "01/01/2014" in field 'DateExecuted_InputField'
+Nov 01,2016 17:16:40 [info]  Clicked on the 'SBU look up Icon' using JS Executor
+Nov 01,2016 17:16:48 [info]  Clicked on the 'Select All Button at SBU'
+Nov 01,2016 17:16:49 [info]  Clicked on the 'FirstCheckBoxAtSBU'
+Nov 01,2016 17:16:49 [info]  Clicked on the 'NinthCheckBoxAtSBU'
+Nov 01,2016 17:16:50 [info]  Clicked on the 'Apply Button'
+Nov 01,2016 17:16:50 [info]  Clicked on the 'Doc Type look up Icon' using JS Executor
+Nov 01,2016 17:16:58 [info]  Clicked on the 'Select All Button at SBU'
+Nov 01,2016 17:16:59 [info]  Clicked on the 'FirstCheckBoxAtSBU'
+Nov 01,2016 17:16:59 [info]  Clicked on the 'NinthCheckBoxAtSBU'
+Nov 01,2016 17:17:00 [info]  Clicked on the 'Apply Button'
+Nov 01,2016 17:17:03 [info]  Moved Mouse over 'Party_AddButton'
+Nov 01,2016 17:17:04 [info]  Clicked on the 'Party_AddButton'
+Nov 01,2016 17:17:04 [info]  Clicked on the 'PartyPopUp Icon' using JS Executor
+Nov 01,2016 17:17:10 [info]  Entered "AUT_VMN_RI_PRIMARY_PARTY" in field 'Search Party InputField'
+Nov 01,2016 17:17:11 [info]  Double clicked on 'RI Search Party Window Find Button'
+Nov 01,2016 17:17:24 [info]  Clicked on the 'AUT_VMN_RI_PRIMARY_PARTY'
+Nov 01,2016 17:17:25 [info]  Clicked on the 'Select Button'
+Nov 01,2016 17:17:31 [info]  Clicked on the 'Party Type Field' using JS Executor
+Nov 01,2016 17:17:32 [info]  Entered "Primary" in field 'Party Party InputField'
+Nov 01,2016 17:17:32 [info]  Clicked on the 'Support Click '
+Nov 01,2016 17:17:32 [info]  Clicked on the 'Party_AddButton' using JS Executor
+Nov 01,2016 17:17:32 [info]  Clicked on the 'PartyPopUp Icon' using JS Executor
+Nov 01,2016 17:17:40 [info]  Entered "AUT_VMN_RI_LICENSOR_PARTY" in field 'Search Party InputField'
+Nov 01,2016 17:17:41 [info]  Double clicked on 'RI Search Party Window Find Button'
+Nov 01,2016 17:17:57 [info]  Clicked on the 'Select Party'
+Nov 01,2016 17:17:58 [info]  Clicked on the 'Select Button'
+Nov 01,2016 17:18:04 [info]  Clicked on the 'Party Type Field' using JS Executor
+Nov 01,2016 17:18:05 [info]  Entered "Licensor" in field 'Party Party InputField'
+Nov 01,2016 17:18:05 [info]  Clicked on the 'Support Click '
+Nov 01,2016 17:18:09 [info]  Clicked on the 'Save Button' using JS Executor
+Nov 01,2016 17:18:28 [info]  Verify The data of CreatedDeal
+Nov 01,2016 17:18:28 [info]  Verified that Expected value :[AUT_Deal1_1101201645134] is matched with Actual value :[AUT_Deal1_1101201645134]
+Nov 01,2016 17:18:30 [info]  Clicked on the 'Modules'
+Nov 01,2016 17:18:42 [info]  Clicked on the 'RightsIN'
+Nov 01,2016 17:18:42 [info]  Clicked on the 'Search Icon' using JS Executor
+Nov 01,2016 17:18:42 [info]  Clicked on the 'Agreement Link' using JS Executor
+Nov 01,2016 17:18:53 [info]  Entered "AUT_Deal1_1101201645134" in field 'AssetTitle'
+Nov 01,2016 17:18:55 [info]  Clicked on the 'Find Button' using JS Executor
+Nov 01,2016 17:19:06 [info]  Moved Mouse over 'First Asset in the Searched Asset'
+Nov 01,2016 17:19:06 [info]  Clicked on the 'First Asset in the Searched Asset'
+Nov 01,2016 17:19:09 [info]  Clicked on the 'View Asset' using JS Executor
+Nov 01,2016 17:19:24 [info]  Verified that Expected value :[AUT_Deal1_1101201645134] is matched with Actual value :[AUT_Deal1_1101201645134]
+Nov 01,2016 17:19:25 [info]  Clicked on the 'Navigator' using JS Executor
+Nov 01,2016 17:19:31 [info]  Clicked on the 'Deal'
+Nov 01,2016 17:19:32 [info]  Double clicked on 'Associate With Exiting Asset'
+Nov 01,2016 17:19:35 [info]  Clicked on the 'Asset Status'
+Nov 01,2016 17:19:35 [info]  Clicked on the 'Asset tile' using JS Executor
+Nov 01,2016 17:19:37 [info]  Entered "AUT_AssetSeries_1101201645134" in field 'Asset title'
+Nov 01,2016 17:19:37 [info]  =====Failed====== BUG ID : 20309
+Nov 01,2016 17:19:37 [info]  Clicked on the 'Display Season checkBox' using JS Executor
+Nov 01,2016 17:19:37 [info]  Clicked on the 'Search Button' using JS Executor
+Nov 01,2016 17:19:51 [info]  Clicked on the 'Toggle'
+Nov 01,2016 17:19:55 [info]  Double clicked on 'Searched Asset'
+Nov 01,2016 17:20:05 [info]  Clicked on the 'Ok Button' using JS Executor
+Nov 01,2016 17:20:22 [info]  Test 'testscript' PASSED
+Nov 01,2016 17:20:23 [info]  Closed the Browser
+Nov 01,2016 17:53:19 [info]  ********************Started Executiong the Test Suite at 17:53:19******************
+Nov 01,2016 17:53:19 [info]  Client: TURNER
+Nov 01,2016 17:53:19 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Nov 01,2016 17:53:19 [info]  *********************Started Executing 'testscript' Test Case*********************
+Nov 01,2016 17:53:29 [info]  Client: TURNER
+Nov 01,2016 17:53:29 [info]  URL: http://rlv2wb58:81/login.aspx
+Nov 01,2016 17:53:29 [info]  UserName: admin
+Nov 01,2016 17:53:29 [info]  Password: admin
+Nov 01,2016 17:54:09 [info]  Entered "admin" in field 'User Name'
+Nov 01,2016 17:54:09 [info]  Clicked on the 'Temporary Check Box'
+Nov 01,2016 17:54:10 [info]  Entered "admin" in field 'Password'
+Nov 01,2016 17:54:40 [info]  Clicked on the 'LoginButton'
+Nov 01,2016 17:54:46 [info]  ************************Started Creating Asset of Type: Program TV/Digital - Series************************
+Nov 01,2016 17:54:50 [info]  Clicked on the 'MODULE'
+Nov 01,2016 17:55:04 [info]  Clicked on the 'Asset Maintenance'
+Nov 01,2016 17:55:12 [info]  Clicked on the 'New Button' using JS Executor
+Nov 01,2016 17:55:12 [info]  Clicked on the 'Program' using JS Executor
+Nov 01,2016 17:55:29 [info]  Clicked on the 'General TAB'
+Nov 01,2016 17:55:33 [info]  Selected "Program TV/Digital - Series" in "AssetTypeDropDown" drop down
+Nov 01,2016 17:55:41 [info]  Entered "AUT_AssetSeries_1101201655319" in field 'AssetTitle'
+Nov 01,2016 17:55:42 [info]  Clicked on the 'Vendor Img Icon' using JS Executor
+Nov 01,2016 17:55:45 [info]  Entered "AUT_TURNER_Vendor1" in field 'SearchvalueVendor'
+Nov 01,2016 17:55:47 [info]  Clicked on the 'VendorWindowButtonfind' using JS Executor
+Nov 01,2016 17:55:58 [info]  Clicked on the 'VendorName At VendorWindow'
+Nov 01,2016 17:55:58 [info]  Clicked on the 'Vendor Select Button' using JS Executor
+Nov 01,2016 17:56:02 [info]  Clicked on the 'StudioImageIcon' using JS Executor
+Nov 01,2016 17:56:03 [info]  Verified that Expected value :[Select Studio] is matched with Actual value :[Select Studio]
+Nov 01,2016 17:56:05 [info]  Entered "AUT_TURNER_Studio" in field 'Studio Name'
+Nov 01,2016 17:56:05 [info]  Clicked on the 'Find Button' using JS Executor
+Nov 01,2016 17:56:15 [info]  Clicked on the 'VendorName At VendorWindow'
+Nov 01,2016 17:56:16 [info]  Clicked on the 'Vendor Select Button' using JS Executor
+Nov 01,2016 17:56:19 [info]  Clicked on the 'SBUImage' using JS Executor
+Nov 01,2016 17:56:23 [info]  Verified that Expected value :[Source Business Unit Template] is matched with Actual value :[Source Business Unit Template]
+Nov 01,2016 17:56:24 [info]  Clicked on the ''Select All' CheckBox at SBU' using JS Executor
+Nov 01,2016 17:56:30 [info]  Clicked on the 'First CheckBox At SBU window'
+Nov 01,2016 17:56:30 [info]  Clicked on the 'Ninth CheckBox At SBU winodw'
+Nov 01,2016 17:56:33 [info]  Clicked on the 'Apply Button' using JS Executor
+Nov 01,2016 17:56:34 [info]  Entered "11:11:11" in field 'Duration'
+Nov 01,2016 17:56:44 [info]  Selected "In Negotiation" in "Asset Status" drop down
+Nov 01,2016 17:56:44 [info]  Selected "Co-Production" in "Asset Format" drop down
+Nov 01,2016 17:56:45 [info]  Selected "Group 1" in "Asset Category/Group" drop down
+Nov 01,2016 17:56:46 [info]  Entered "AUT_Series" in field 'Short Name'
+Nov 01,2016 17:56:46 [info]  Entered "Test" in field 'ProjectID'
+Nov 01,2016 17:56:47 [info]  Clicked on the 'Genre Add Button' using JS Executor
+Nov 01,2016 17:56:47 [info]  Clicked on the 'Genre Type Row Field' using JS Executor
+Nov 01,2016 17:56:47 [info]  Clicked on the 'Genere Type Dropdown Image'
+Nov 01,2016 17:56:47 [info]  Clicked on the 'First Genere Type DropDown Value in the list'
+Nov 01,2016 17:56:48 [info]  Clicked on the 'Genre Row Field' using JS Executor
+Nov 01,2016 17:56:48 [info]  Clicked on the 'Genere Dropdown Image'
+Nov 01,2016 17:56:48 [info]  Clicked on the 'Genere Dropdown value'
+Nov 01,2016 17:56:49 [info]  Clicked on the 'Add Button of Note' using JS Executor
+Nov 01,2016 17:56:51 [info]  Entered "Medium" in field 'Asset Priority'
+Nov 01,2016 17:56:52 [info]  Entered "Subject For the Deal" in field 'Asset Subject'
+Nov 01,2016 17:56:53 [info]  Entered "New Asset" in field 'AssetNotes TextField'
+Nov 01,2016 17:56:54 [info]  Clicked on the 'OK button'
+Nov 01,2016 17:56:56 [info]  Clicked on the 'Save Button' using JS Executor
+Nov 01,2016 17:57:14 [info]  Verified that Expected value :[AUT_AssetSeries_1101201655319] is matched with Actual value :[AUT_AssetSeries_1101201655319]
+Nov 01,2016 17:57:14 [info]  ************************Created Asset of TypeProgram TV/Digital - Series************************
+Nov 01,2016 17:57:18 [info]  Clicked on the 'MODULE'
+Nov 01,2016 17:57:28 [info]  Clicked on the 'Asset Maintenance'
+Nov 01,2016 17:57:32 [info]  Clicked on the 'Search Menu Icon' using JS Executor
+Nov 01,2016 17:57:32 [info]  Clicked on the 'AssetSearchUnderAsset' using JS Executor
+Nov 01,2016 17:57:52 [info]  Entered "AUT_AssetSeries_1101201655319" in field 'AssetTitle'
+Nov 01,2016 17:57:52 [info]  =====BUG ID======: 20309 >> AssetMaintenance.searchCreatedAsset()
+Nov 01,2016 17:57:52 [info]  Clicked on the 'DisplaySeasoncheckBox' using JS Executor
+Nov 01,2016 17:57:52 [info]  Clicked on the 'Find Button' using JS Executor
+Nov 01,2016 17:58:58 [info]  Moved Mouse over 'First Asset in the Searched Asset'
+Nov 01,2016 17:58:59 [info]  Clicked on the 'First Asset in the Searched Asset'
+Nov 01,2016 17:58:59 [info]  Clicked on the 'First Asset in the Searched Asset'
+Nov 01,2016 17:59:02 [info]  Clicked on the 'View Asset' using JS Executor
+Nov 01,2016 17:59:21 [info]  Verified that Expected value :[AUT_AssetSeries_1101201655319] is matched with Actual value :[AUT_AssetSeries_1101201655319]
+Nov 01,2016 17:59:29 [info]  Clicked on the 'Episodes TAB'
+Nov 01,2016 17:59:33 [info]  Clicked on the ''Edit' Button at Episode window' using JS Executor
+Nov 01,2016 17:59:39 [info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Nov 01,2016 17:59:44 [info]  Entered "101" in field 'Add Episode input field'
+Nov 01,2016 17:59:44 [info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Nov 01,2016 17:59:54 [info]  Clicked on the 'Season Field of Episode101' using JS Executor
+Nov 01,2016 17:59:55 [info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Nov 01,2016 17:59:55 [info]  Clicked on the 'Season 1'
+Nov 01,2016 17:59:56 [info]  Clicked on the 'Support click to select season'
+Nov 01,2016 17:59:59 [info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Nov 01,2016 17:59:59 [info]  Entered "102" in field 'Add Episode input field'
+Nov 01,2016 18:00:00 [info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Nov 01,2016 18:00:13 [info]  Clicked on the 'Season Field of Episode102' using JS Executor
+Nov 01,2016 18:00:14 [info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Nov 01,2016 18:00:14 [info]  Clicked on the 'Season 1'
+Nov 01,2016 18:00:15 [info]  Clicked on the 'Support click to select season'
+Nov 01,2016 18:00:15 [info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Nov 01,2016 18:00:16 [info]  Entered "201" in field 'Add Episode input field'
+Nov 01,2016 18:00:16 [info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Nov 01,2016 18:00:29 [info]  Clicked on the 'Season Field of Episode201' using JS Executor
+Nov 01,2016 18:00:30 [info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Nov 01,2016 18:00:30 [info]  Clicked on the 'Season 2'
+Nov 01,2016 18:00:31 [info]  Clicked on the 'Support click to select season'
+Nov 01,2016 18:00:34 [info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Nov 01,2016 18:00:35 [info]  Entered "202" in field 'Add Episode input field'
+Nov 01,2016 18:00:35 [info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Nov 01,2016 18:00:46 [info]  Clicked on the 'Support click to select season'
+Nov 01,2016 18:00:49 [info]  Clicked on the 'Season Field of Episode201' using JS Executor
+Nov 01,2016 18:00:49 [info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Nov 01,2016 18:00:50 [info]  Clicked on the 'Season 2'
+Nov 01,2016 18:00:50 [info]  Clicked on the 'Support click to select season'
+Nov 01,2016 18:00:53 [info]  Clicked on the 'Save Button at 'Episode Edit Window'' using JS Executor
+Nov 01,2016 18:01:10 [info]  Clicked on the 'Close Button at 'Episode Edit Window'' using JS Executor
+Nov 01,2016 18:01:34 [info]  Clicked on the 'New Button' using JS Executor
+Nov 01,2016 18:01:35 [info]  Clicked on the 'Standalone Agreement' using JS Executor
+Nov 01,2016 18:02:00 [info]  Field Deal Id does not exist.
+Nov 01,2016 18:02:01 [info]  Clicked on the 'DealTitleField' using JS Executor
+Nov 01,2016 18:02:02 [info]  Entered "AUT_Deal1_1101201645134" in field 'Deal Name Field'
+Nov 01,2016 18:02:04 [info]  Entered "AUT_Deal1_1101201645134_desc" in field 'Deal Description/ContractID'
+Nov 01,2016 18:02:04 [info]  Selected "Co-Production" in "DealType_DropDownField" drop down
+Nov 01,2016 18:02:05 [info]  Entered "Fully Executed" in field 'Deal Creation Contract Status'
+Nov 01,2016 18:02:06 [info]  Entered "In Progress" in field 'DealCreationCDEStatus'
+Nov 01,2016 18:02:07 [info]  Entered "01/01/2014" in field 'DateExecuted_InputField'
+Nov 01,2016 18:02:08 [info]  Entered "01/01/2015" in field 'DateEffective_InputField'
+Nov 01,2016 18:02:09 [info]  Entered "USD" in field 'DealCreationCurrency'
+Nov 01,2016 18:02:10 [info]  Entered "" in field 'ProjectStatus'
+Nov 01,2016 18:02:11 [info]  Entered "" in field 'ProjectID_InputField'
+Nov 01,2016 18:02:21 [info]  ====Failed==== "External Entity - VERSION1" is not present in 'ProfitCenter_InputFieldDrop Down'
+Nov 01,2016 18:02:21 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Nov2016\\01\ProfitCenter_InputField_CheckpointFailure_11-01-2016 6-02-21 PM.jpg
+Nov 01,2016 18:02:47 [info]  ====Failed==== "SBU" field is not present'SBU'
+Nov 01,2016 18:02:47 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Nov2016\\01\SBU_CheckpointFailure_11-01-2016 6-02-47 PM.jpg
+Nov 01,2016 18:03:00 [info]  ====Failed==== "Doc Type look up Icon" field is not present'
+Nov 01,2016 18:03:01 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Nov2016\\01\Doc Type look up Icon_CheckpointFailure_11-01-2016 6-03-00 PM.jpg
+Nov 01,2016 18:03:17 [info]  ====Failed==== " Could not find the Frame: div[id*='WebDialogWindow1'][style*=visible]
+Nov 01,2016 18:03:17 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Nov2016\\01\FrameSwitchingFailed0_CheckpointFailure_11-01-2016 6-03-17 PM.jpg
+Nov 01,2016 18:03:27 [info]  ====Failed==== "Select All Button at SBU" field is not present'
+Nov 01,2016 18:03:27 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Nov2016\\01\Select All Button at SBU_CheckpointFailure_11-01-2016 6-03-27 PM.jpg
+Nov 01,2016 18:19:40 [info]  ********************Started Executiong the Test Suite at 18:19:40******************
+Nov 01,2016 18:19:40 [info]  Client: TURNER
+Nov 01,2016 18:19:40 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Nov 01,2016 18:19:40 [info]  *********************Started Executing 'testscript' Test Case*********************
+Nov 01,2016 18:19:49 [info]  Client: TURNER
+Nov 01,2016 18:19:49 [info]  URL: http://rlv2wb58:81/login.aspx
+Nov 01,2016 18:19:49 [info]  UserName: admin
+Nov 01,2016 18:19:49 [info]  Password: admin
+Nov 01,2016 18:19:51 [info]  Entered "admin" in field 'User Name'
+Nov 01,2016 18:19:51 [info]  Clicked on the 'Temporary Check Box'
+Nov 01,2016 18:19:52 [info]  Entered "admin" in field 'Password'
+Nov 01,2016 18:19:59 [info]  Clicked on the 'LoginButton'
+Nov 01,2016 18:20:05 [info]  ************************Started Creating Asset of Type: Program TV/Digital - Series************************
+Nov 01,2016 18:20:09 [info]  Clicked on the 'MODULE'
+Nov 01,2016 18:20:19 [info]  Clicked on the 'Asset Maintenance'
+Nov 01,2016 18:20:26 [info]  Clicked on the 'New Button' using JS Executor
+Nov 01,2016 18:20:26 [info]  Clicked on the 'Program' using JS Executor
+Nov 01,2016 18:20:35 [info]  Clicked on the 'General TAB'
+Nov 01,2016 18:20:39 [info]  Selected "Program TV/Digital - Series" in "AssetTypeDropDown" drop down
+Nov 01,2016 18:20:47 [info]  Entered "AUT_AssetSeries_1101201661940" in field 'AssetTitle'
+Nov 01,2016 18:20:47 [info]  Clicked on the 'Vendor Img Icon' using JS Executor
+Nov 01,2016 18:20:49 [info]  Entered "AUT_TURNER_Vendor1" in field 'SearchvalueVendor'
+Nov 01,2016 18:20:51 [info]  Clicked on the 'VendorWindowButtonfind' using JS Executor
+Nov 01,2016 18:20:59 [info]  Clicked on the 'VendorName At VendorWindow'
+Nov 01,2016 18:20:59 [info]  Clicked on the 'Vendor Select Button' using JS Executor
+Nov 01,2016 18:21:04 [info]  Clicked on the 'StudioImageIcon' using JS Executor
+Nov 01,2016 18:21:05 [info]  Verified that Expected value :[Select Studio] is matched with Actual value :[Select Studio]
+Nov 01,2016 18:21:07 [info]  Entered "AUT_TURNER_Studio" in field 'Studio Name'
+Nov 01,2016 18:21:07 [info]  Clicked on the 'Find Button' using JS Executor
+Nov 01,2016 18:21:17 [info]  Clicked on the 'VendorName At VendorWindow'
+Nov 01,2016 18:21:17 [info]  Clicked on the 'Vendor Select Button' using JS Executor
+Nov 01,2016 18:21:21 [info]  Clicked on the 'SBUImage' using JS Executor
+Nov 01,2016 18:21:22 [info]  Verified that Expected value :[Source Business Unit Template] is matched with Actual value :[Source Business Unit Template]
+Nov 01,2016 18:21:22 [info]  Clicked on the ''Select All' CheckBox at SBU' using JS Executor
+Nov 01,2016 18:21:29 [info]  Clicked on the 'First CheckBox At SBU window'
+Nov 01,2016 18:21:29 [info]  Clicked on the 'Ninth CheckBox At SBU winodw'
+Nov 01,2016 18:21:31 [info]  Clicked on the 'Apply Button' using JS Executor
+Nov 01,2016 18:21:32 [info]  Entered "11:11:11" in field 'Duration'
+Nov 01,2016 18:21:43 [info]  Selected "In Negotiation" in "Asset Status" drop down
+Nov 01,2016 18:21:43 [info]  Selected "Co-Production" in "Asset Format" drop down
+Nov 01,2016 18:21:44 [info]  Selected "Group 1" in "Asset Category/Group" drop down
+Nov 01,2016 18:21:45 [info]  Entered "AUT_Series" in field 'Short Name'
+Nov 01,2016 18:21:45 [info]  Entered "Test" in field 'ProjectID'
+Nov 01,2016 18:21:45 [info]  Clicked on the 'Genre Add Button' using JS Executor
+Nov 01,2016 18:21:46 [info]  Clicked on the 'Genre Type Row Field' using JS Executor
+Nov 01,2016 18:21:46 [info]  Clicked on the 'Genere Type Dropdown Image'
+Nov 01,2016 18:21:46 [info]  Clicked on the 'First Genere Type DropDown Value in the list'
+Nov 01,2016 18:21:47 [info]  Clicked on the 'Genre Row Field' using JS Executor
+Nov 01,2016 18:21:47 [info]  Clicked on the 'Genere Dropdown Image'
+Nov 01,2016 18:21:47 [info]  Clicked on the 'Genere Dropdown value'
+Nov 01,2016 18:21:47 [info]  Clicked on the 'Add Button of Note' using JS Executor
+Nov 01,2016 18:21:50 [info]  Entered "Medium" in field 'Asset Priority'
+Nov 01,2016 18:21:51 [info]  Entered "Subject For the Deal" in field 'Asset Subject'
+Nov 01,2016 18:21:51 [info]  Entered "New Asset" in field 'AssetNotes TextField'
+Nov 01,2016 18:21:52 [info]  Clicked on the 'OK button'
+Nov 01,2016 18:21:54 [info]  Clicked on the 'Save Button' using JS Executor
+Nov 01,2016 18:22:06 [info]  Verified that Expected value :[AUT_AssetSeries_1101201661940] is matched with Actual value :[AUT_AssetSeries_1101201661940]
+Nov 01,2016 18:22:06 [info]  ************************Created Asset of TypeProgram TV/Digital - Series************************
+Nov 01,2016 18:22:09 [info]  Clicked on the 'MODULE'
+Nov 01,2016 18:22:20 [info]  Clicked on the 'Asset Maintenance'
+Nov 01,2016 18:22:23 [info]  Clicked on the 'Search Menu Icon' using JS Executor
+Nov 01,2016 18:22:23 [info]  Clicked on the 'AssetSearchUnderAsset' using JS Executor
+Nov 01,2016 18:22:35 [info]  Entered "AUT_AssetSeries_1101201661940" in field 'AssetTitle'
+Nov 01,2016 18:22:35 [info]  =====BUG ID======: 20309 >> AssetMaintenance.searchCreatedAsset()
+Nov 01,2016 18:22:36 [info]  Clicked on the 'DisplaySeasoncheckBox' using JS Executor
+Nov 01,2016 18:22:36 [info]  Clicked on the 'Find Button' using JS Executor
+Nov 01,2016 18:23:16 [info]  Moved Mouse over 'First Asset in the Searched Asset'
+Nov 01,2016 18:23:16 [info]  Clicked on the 'First Asset in the Searched Asset'
+Nov 01,2016 18:23:17 [info]  Clicked on the 'First Asset in the Searched Asset'
+Nov 01,2016 18:23:20 [info]  Clicked on the 'View Asset' using JS Executor
+Nov 01,2016 18:23:33 [info]  Verified that Expected value :[AUT_AssetSeries_1101201661940] is matched with Actual value :[AUT_AssetSeries_1101201661940]
+Nov 01,2016 18:23:40 [info]  Clicked on the 'Episodes TAB'
+Nov 01,2016 18:23:44 [info]  Clicked on the ''Edit' Button at Episode window' using JS Executor
+Nov 01,2016 18:23:51 [info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Nov 01,2016 18:23:55 [info]  Entered "101" in field 'Add Episode input field'
+Nov 01,2016 18:23:55 [info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Nov 01,2016 18:24:05 [info]  Clicked on the 'Season Field of Episode101' using JS Executor
+Nov 01,2016 18:24:05 [info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Nov 01,2016 18:24:06 [info]  Clicked on the 'Season 1'
+Nov 01,2016 18:24:06 [info]  Clicked on the 'Support click to select season'
+Nov 01,2016 18:24:09 [info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Nov 01,2016 18:24:10 [info]  Entered "102" in field 'Add Episode input field'
+Nov 01,2016 18:24:10 [info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Nov 01,2016 18:24:24 [info]  Clicked on the 'Season Field of Episode102' using JS Executor
+Nov 01,2016 18:24:24 [info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Nov 01,2016 18:24:24 [info]  Clicked on the 'Season 1'
+Nov 01,2016 18:24:25 [info]  Clicked on the 'Support click to select season'
+Nov 01,2016 18:24:25 [info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Nov 01,2016 18:24:26 [info]  Entered "201" in field 'Add Episode input field'
+Nov 01,2016 18:24:26 [info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Nov 01,2016 18:24:39 [info]  Clicked on the 'Season Field of Episode201' using JS Executor
+Nov 01,2016 18:24:40 [info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Nov 01,2016 18:24:40 [info]  Clicked on the 'Season 2'
+Nov 01,2016 18:24:41 [info]  Clicked on the 'Support click to select season'
+Nov 01,2016 18:24:44 [info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Nov 01,2016 18:24:44 [info]  Entered "202" in field 'Add Episode input field'
+Nov 01,2016 18:24:45 [info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Nov 01,2016 18:24:55 [info]  Clicked on the 'Support click to select season'
+Nov 01,2016 18:24:58 [info]  Clicked on the 'Season Field of Episode201' using JS Executor
+Nov 01,2016 18:24:59 [info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Nov 01,2016 18:24:59 [info]  Clicked on the 'Season 2'
+Nov 01,2016 18:24:59 [info]  Clicked on the 'Support click to select season'
+Nov 01,2016 18:25:02 [info]  Clicked on the 'Save Button at 'Episode Edit Window'' using JS Executor
+Nov 01,2016 18:25:14 [info]  Clicked on the 'Close Button at 'Episode Edit Window'' using JS Executor
+Nov 01,2016 18:25:37 [info]  Clicked on the 'New Button' using JS Executor
+Nov 01,2016 18:25:38 [info]  Clicked on the 'Standalone Agreement' using JS Executor
+Nov 01,2016 18:25:57 [info]  Field Deal Id does not exist.
+Nov 01,2016 18:25:57 [info]  Clicked on the 'DealTitleField' using JS Executor
+Nov 01,2016 18:25:58 [info]  Entered "AUT_Deal1_1101201645134" in field 'Deal Name Field'
+Nov 01,2016 18:25:59 [info]  Entered "AUT_Deal1_1101201645134_desc" in field 'Deal Description/ContractID'
+Nov 01,2016 18:26:00 [info]  Selected "Co-Production" in "DealType_DropDownField" drop down
+Nov 01,2016 18:26:00 [info]  Entered "Fully Executed" in field 'Deal Creation Contract Status'
+Nov 01,2016 18:26:01 [info]  Entered "In Progress" in field 'DealCreationCDEStatus'
+Nov 01,2016 18:26:01 [info]  Entered "01/01/2014" in field 'DateExecuted_InputField'
+Nov 01,2016 18:26:02 [info]  Entered "01/01/2015" in field 'DateEffective_InputField'
+Nov 01,2016 18:26:02 [info]  Entered "" in field 'ProjectStatus'
+Nov 01,2016 18:26:12 [info]  ====Failed==== "" is not present in 'ProfitCenter_InputFieldDrop Down'
+Nov 01,2016 18:26:12 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Nov2016\\01\ProfitCenter_InputField_CheckpointFailure_11-01-2016 6-26-12 PM.jpg
+Nov 01,2016 18:26:41 [info]  ====Failed==== "Doc Type look up Icon" field is not present'
+Nov 01,2016 18:26:42 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Nov2016\\01\Doc Type look up Icon_CheckpointFailure_11-01-2016 6-26-41 PM.jpg
+Nov 01,2016 18:26:58 [info]  ====Failed==== " Could not find the Frame: div[id*='WebDialogWindow1'][style*=visible]
+Nov 01,2016 18:26:58 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Nov2016\\01\FrameSwitchingFailed0_CheckpointFailure_11-01-2016 6-26-58 PM.jpg
+Nov 01,2016 18:27:08 [info]  ====Failed==== "Select All Button at SBU" field is not present'
+Nov 01,2016 18:27:08 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Nov2016\\01\Select All Button at SBU_CheckpointFailure_11-01-2016 6-27-08 PM.jpg
+Nov 01,2016 18:27:18 [info]  ====Failed==== "FirstCheckBoxAtSBU" field is not present'
+Nov 01,2016 18:27:18 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Nov2016\\01\FirstCheckBoxAtSBU_CheckpointFailure_11-01-2016 6-27-18 PM.jpg
+Nov 01,2016 18:27:29 [info]  ====Failed==== "NinthCheckBoxAtSBU" field is not present'
+Nov 01,2016 18:27:29 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Nov2016\\01\NinthCheckBoxAtSBU_CheckpointFailure_11-01-2016 6-27-29 PM.jpg
+Nov 01,2016 18:27:39 [info]  ====Failed==== "Apply Button" field is not present'
+Nov 01,2016 18:27:39 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Nov2016\\01\Apply Button_CheckpointFailure_11-01-2016 6-27-39 PM.jpg
+Nov 01,2016 18:27:43 [info]  Moved Mouse over 'Party_AddButton'
+Nov 01,2016 18:27:43 [info]  Clicked on the 'Party_AddButton'
+Nov 01,2016 18:27:43 [info]  Clicked on the 'PartyPopUp Icon' using JS Executor
+Nov 01,2016 18:27:48 [info]  Entered "A&B Film Enterprises Limited" in field 'Search Party InputField'
+Nov 01,2016 18:27:48 [info]  Double clicked on 'RI Search Party Window Find Button'
+Nov 01,2016 18:28:05 [info]  Verify The data of Alert Message
+Nov 01,2016 18:28:05 [info]  Verified that Expected value :[No search results were found for this query. Please try again using different criteria.] is matched with Actual value :[No search results were found for this query. Please try again using different criteria.]
+Nov 01,2016 18:28:06 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Nov 01,2016 18:28:10 [info]  Clicked on the 'Add Party Button'
+Nov 01,2016 18:28:10 [info]  Selected "Outlet" in "Party Type Drop Down" drop down
+Nov 01,2016 18:28:20 [info]  ====Failed==== "" is not present in 'Outlets_PartiesAddPartyDrop Down'
+Nov 01,2016 18:28:21 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Nov2016\\01\Outlets_PartiesAddParty_CheckpointFailure_11-01-2016 6-28-20 PM.jpg
+Nov 01,2016 18:28:22 [info]  Entered "A&B Film Enterprises Limited" in field 'Party Name'
+Nov 01,2016 18:28:22 [info]  Verified that Expected value :[Primary] is matched with Actual value :[Primary]
+Nov 01,2016 18:28:22 [info]  Clicked on the 'Contributor_ContributorSearch_Add_AddressLine1InputField' using JS Executor
+Nov 01,2016 18:28:23 [info]  Entered "AddressLine1" in field 'ConrtibutorsEdit_ConrtibutorsSearch_AddWindow_AddressLine1 Field'
+Nov 01,2016 18:28:23 [info]  Clicked on the 'Contributor_ContributorSearch_Add_AddressLine2InputField' using JS Executor
+Nov 01,2016 18:28:23 [info]  Entered "AddressLine2" in field 'ConrtibutorsEdit_ConrtibutorsSearch_AddWindow_AddressLine2 Field'
+Nov 01,2016 18:28:23 [info]  Clicked on the 'ConrtibutorsEdit_ConrtibutorsSearch_AddWindow_City' using JS Executor
+Nov 01,2016 18:28:24 [info]  Entered "City" in field 'ConrtibutorsEdit_ConrtibutorsSearch_AddWindow_City Field'
+Nov 01,2016 18:28:24 [info]  Selected "Canada" in "Country Input Field" drop down
+Nov 01,2016 18:28:24 [info]  Selected "Alberta" in "Contributor_ContributorSearch_Add_StateInputField" drop down
+Nov 01,2016 18:28:24 [info]  Clicked on the 'Contributor_ContributorSearch_Add_ZipCodeField' using JS Executor
+Nov 01,2016 18:28:25 [info]  Entered "12345" in field 'ConrtibutorsEdit_ConrtibutorsSearch_AddWindow_ZipCode Field'
+Nov 01,2016 18:28:25 [info]  Clicked on the ''Save Button' Contributor_ContributorSearch_Add_SaveGeneralInfoButton' using JS Executor
+Nov 01,2016 18:28:34 [info]  Verified that Expected value :[Changes have been saved successfully.] is matched with Actual value :[Changes have been saved successfully.]
+Nov 01,2016 18:28:35 [info]  Clicked on the 'close Add Party Window'
+Nov 01,2016 18:28:36 [info]  Entered "A&B Film Enterprises Limited" in field 'Search Party InputField'
+Nov 01,2016 18:28:36 [info]  Double clicked on 'RI Search Party Window Find Button'
+Nov 01,2016 18:28:41 [info]  Clicked on the 'A&B Film Enterprises Limited'
+Nov 01,2016 18:28:42 [info]  Clicked on the 'Select Button'
+Nov 01,2016 18:28:45 [info]  Clicked on the 'Party Type Field' using JS Executor
+Nov 01,2016 18:28:46 [info]  Entered "Distributor" in field 'Party Party InputField'
+Nov 01,2016 18:28:46 [info]  Clicked on the 'Support Click '
+Nov 01,2016 18:28:46 [info]  Clicked on the 'Party_AddButton' using JS Executor
+Nov 01,2016 18:28:46 [info]  Clicked on the 'PartyPopUp Icon' using JS Executor
+Nov 01,2016 18:28:52 [info]  Entered "Primary" in field 'Search Party InputField'
+Nov 01,2016 18:28:53 [info]  Double clicked on 'RI Search Party Window Find Button'
+Nov 01,2016 18:29:13 [info]  Verify The data of Alert Message
+Nov 01,2016 18:29:13 [info]  Verified that Expected value :[No search results were found for this query. Please try again using different criteria.] is matched with Actual value :[No search results were found for this query. Please try again using different criteria.]
+Nov 01,2016 18:29:13 [info]  Clicked on the 'OK Button at Alert' using JS Executor
+Nov 01,2016 18:29:16 [info]  Clicked on the 'Add Party Button'
+Nov 01,2016 18:29:26 [info]  ====Failed==== "External Entity - VERSION1" is not present in 'Party Type Drop DownDrop Down'
+Nov 01,2016 18:29:26 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Nov2016\\01\Party Type Drop Down_CheckpointFailure_11-01-2016 6-29-26 PM.jpg
+Nov 01,2016 18:29:27 [info]  Entered "Primary" in field 'Party Name'
+Nov 01,2016 18:29:27 [info]  Verified that Expected value :[Primary] is matched with Actual value :[Primary]
+Nov 01,2016 18:29:27 [info]  Clicked on the 'Contributor_ContributorSearch_Add_AddressLine1InputField' using JS Executor
+Nov 01,2016 18:29:27 [info]  Entered "AddressLine1" in field 'ConrtibutorsEdit_ConrtibutorsSearch_AddWindow_AddressLine1 Field'
+Nov 01,2016 18:29:27 [info]  Clicked on the 'Contributor_ContributorSearch_Add_AddressLine2InputField' using JS Executor
+Nov 01,2016 18:29:28 [info]  Entered "AddressLine2" in field 'ConrtibutorsEdit_ConrtibutorsSearch_AddWindow_AddressLine2 Field'
+Nov 01,2016 18:29:28 [info]  Clicked on the 'ConrtibutorsEdit_ConrtibutorsSearch_AddWindow_City' using JS Executor
+Nov 01,2016 18:29:29 [info]  Entered "City" in field 'ConrtibutorsEdit_ConrtibutorsSearch_AddWindow_City Field'
+Nov 01,2016 18:29:29 [info]  Selected "Canada" in "Country Input Field" drop down
+Nov 01,2016 18:29:29 [info]  Selected "Alberta" in "Contributor_ContributorSearch_Add_StateInputField" drop down
+Nov 01,2016 18:29:29 [info]  Clicked on the 'Contributor_ContributorSearch_Add_ZipCodeField' using JS Executor
+Nov 01,2016 18:29:30 [info]  Entered "12345" in field 'ConrtibutorsEdit_ConrtibutorsSearch_AddWindow_ZipCode Field'
+Nov 01,2016 18:29:30 [info]  Clicked on the ''Save Button' Contributor_ContributorSearch_Add_SaveGeneralInfoButton' using JS Executor
+Nov 01,2016 18:29:38 [info]  ====Failed==== Expected value is:[Changes have been saved successfully.] but Actual value is[Please enter values for required (*) fields.]. Please check the screenshot with name: Contributor_ContributorSearch_Add_SaveGeneralInfo_EnterAleternate_ValidationMessagefor more details
+Nov 01,2016 18:29:38 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Nov2016\\01\Contributor_ContributorSearch_Add_SaveGeneralInfo_EnterAleternate_ValidationMessage_CheckpointFailure_11-01-2016 6-29-38 PM.jpg
+Nov 01,2016 18:29:39 [info]  Clicked on the 'close Add Party Window'
+Nov 01,2016 18:29:45 [info]  Entered "Primary" in field 'Search Party InputField'
+Nov 01,2016 18:29:45 [info]  Double clicked on 'RI Search Party Window Find Button'
+Nov 01,2016 18:30:05 [info]  ====Failed==== "Select Party" field is not present'
+Nov 01,2016 18:30:05 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Nov2016\\01\Select Party_CheckpointFailure_11-01-2016 6-30-05 PM.jpg
+Nov 01,2016 18:30:05 [info]  Clicked on the 'Select Button'
+Nov 01,2016 18:30:08 [info]  Clicked on the 'Party Type Field' using JS Executor
+Nov 01,2016 18:30:09 [info]  Entered "Outlet" in field 'Party Party InputField'
+Nov 01,2016 18:30:09 [info]  Clicked on the 'Support Click '
+Nov 01,2016 18:32:07 [info]  ********************Started Executiong the Test Suite at 18:32:07******************
+Nov 01,2016 18:32:07 [info]  Client: TURNER
+Nov 01,2016 18:32:07 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Nov 01,2016 18:32:07 [info]  *********************Started Executing 'testscript' Test Case*********************
+Nov 01,2016 18:32:16 [info]  Client: TURNER
+Nov 01,2016 18:32:16 [info]  URL: http://rlv2wb58:81/login.aspx
+Nov 01,2016 18:32:16 [info]  UserName: admin
+Nov 01,2016 18:32:16 [info]  Password: admin
+Nov 01,2016 18:32:17 [info]  Entered "admin" in field 'User Name'
+Nov 01,2016 18:32:18 [info]  Clicked on the 'Temporary Check Box'
+Nov 01,2016 18:32:18 [info]  Entered "admin" in field 'Password'
+Nov 01,2016 18:32:24 [info]  Clicked on the 'LoginButton'
+Nov 01,2016 18:32:31 [info]  ************************Started Creating Asset of Type: Program TV/Digital - Series************************
+Nov 01,2016 18:32:34 [info]  Clicked on the 'MODULE'
+Nov 01,2016 18:32:45 [info]  Clicked on the 'Asset Maintenance'
+Nov 01,2016 18:32:53 [info]  Clicked on the 'New Button' using JS Executor
+Nov 01,2016 18:32:53 [info]  Clicked on the 'Program' using JS Executor
+Nov 01,2016 18:33:02 [info]  Clicked on the 'General TAB'
+Nov 01,2016 18:33:06 [info]  Selected "Program TV/Digital - Series" in "AssetTypeDropDown" drop down
+Nov 01,2016 18:33:14 [info]  Entered "AUT_AssetSeries_1101201663207" in field 'AssetTitle'
+Nov 01,2016 18:33:14 [info]  Clicked on the 'Vendor Img Icon' using JS Executor
+Nov 01,2016 18:33:17 [info]  Entered "AUT_TURNER_Vendor1" in field 'SearchvalueVendor'
+Nov 01,2016 18:33:19 [info]  Clicked on the 'VendorWindowButtonfind' using JS Executor
+Nov 01,2016 18:33:27 [info]  Clicked on the 'VendorName At VendorWindow'
+Nov 01,2016 18:33:27 [info]  Clicked on the 'Vendor Select Button' using JS Executor
+Nov 01,2016 18:33:32 [info]  Clicked on the 'StudioImageIcon' using JS Executor
+Nov 01,2016 18:33:33 [info]  Verified that Expected value :[Select Studio] is matched with Actual value :[Select Studio]
+Nov 01,2016 18:33:35 [info]  Entered "AUT_TURNER_Studio" in field 'Studio Name'
+Nov 01,2016 18:33:35 [info]  Clicked on the 'Find Button' using JS Executor
+Nov 01,2016 18:33:45 [info]  Clicked on the 'VendorName At VendorWindow'
+Nov 01,2016 18:33:45 [info]  Clicked on the 'Vendor Select Button' using JS Executor
+Nov 01,2016 18:33:49 [info]  Clicked on the 'SBUImage' using JS Executor
+Nov 01,2016 18:33:51 [info]  Verified that Expected value :[Source Business Unit Template] is matched with Actual value :[Source Business Unit Template]
+Nov 01,2016 18:33:51 [info]  Clicked on the ''Select All' CheckBox at SBU' using JS Executor
+Nov 01,2016 18:33:57 [info]  Clicked on the 'First CheckBox At SBU window'
+Nov 01,2016 18:33:58 [info]  Clicked on the 'Ninth CheckBox At SBU winodw'
+Nov 01,2016 18:34:00 [info]  Clicked on the 'Apply Button' using JS Executor
+Nov 01,2016 18:34:01 [info]  Entered "11:11:11" in field 'Duration'
+Nov 01,2016 18:34:12 [info]  Selected "In Negotiation" in "Asset Status" drop down
+Nov 01,2016 18:34:12 [info]  Selected "Co-Production" in "Asset Format" drop down
+Nov 01,2016 18:34:12 [info]  Selected "Group 1" in "Asset Category/Group" drop down
+Nov 01,2016 18:34:13 [info]  Entered "AUT_Series" in field 'Short Name'
+Nov 01,2016 18:34:14 [info]  Entered "Test" in field 'ProjectID'
+Nov 01,2016 18:34:14 [info]  Clicked on the 'Genre Add Button' using JS Executor
+Nov 01,2016 18:34:15 [info]  Clicked on the 'Genre Type Row Field' using JS Executor
+Nov 01,2016 18:34:15 [info]  Clicked on the 'Genere Type Dropdown Image'
+Nov 01,2016 18:34:15 [info]  Clicked on the 'First Genere Type DropDown Value in the list'
+Nov 01,2016 18:34:15 [info]  Clicked on the 'Genre Row Field' using JS Executor
+Nov 01,2016 18:34:16 [info]  Clicked on the 'Genere Dropdown Image'
+Nov 01,2016 18:34:16 [info]  Clicked on the 'Genere Dropdown value'
+Nov 01,2016 18:34:17 [info]  Clicked on the 'Add Button of Note' using JS Executor
+Nov 01,2016 18:34:19 [info]  Entered "Medium" in field 'Asset Priority'
+Nov 01,2016 18:34:20 [info]  Entered "Subject For the Deal" in field 'Asset Subject'
+Nov 01,2016 18:34:21 [info]  Entered "New Asset" in field 'AssetNotes TextField'
+Nov 01,2016 18:34:21 [info]  Clicked on the 'OK button'
+Nov 01,2016 18:34:24 [info]  Clicked on the 'Save Button' using JS Executor
+Nov 01,2016 18:34:33 [info]  Verified that Expected value :[AUT_AssetSeries_1101201663207] is matched with Actual value :[AUT_AssetSeries_1101201663207]
+Nov 01,2016 18:34:33 [info]  ************************Created Asset of TypeProgram TV/Digital - Series************************
+Nov 01,2016 18:34:37 [info]  Clicked on the 'MODULE'
+Nov 01,2016 18:34:47 [info]  Clicked on the 'Asset Maintenance'
+Nov 01,2016 18:34:50 [info]  Clicked on the 'Search Menu Icon' using JS Executor
+Nov 01,2016 18:34:50 [info]  Clicked on the 'AssetSearchUnderAsset' using JS Executor
+Nov 01,2016 18:35:02 [info]  Entered "AUT_AssetSeries_1101201663207" in field 'AssetTitle'
+Nov 01,2016 18:35:02 [info]  =====BUG ID======: 20309 >> AssetMaintenance.searchCreatedAsset()
+Nov 01,2016 18:35:02 [info]  Clicked on the 'DisplaySeasoncheckBox' using JS Executor
+Nov 01,2016 18:35:02 [info]  Clicked on the 'Find Button' using JS Executor
+Nov 01,2016 18:35:42 [info]  Moved Mouse over 'First Asset in the Searched Asset'
+Nov 01,2016 18:35:42 [info]  Clicked on the 'First Asset in the Searched Asset'
+Nov 01,2016 18:35:43 [info]  Clicked on the 'First Asset in the Searched Asset'
+Nov 01,2016 18:35:46 [info]  Clicked on the 'View Asset' using JS Executor
+Nov 01,2016 18:36:03 [info]  Verified that Expected value :[AUT_AssetSeries_1101201663207] is matched with Actual value :[AUT_AssetSeries_1101201663207]
+Nov 01,2016 18:36:11 [info]  Clicked on the 'Episodes TAB'
+Nov 01,2016 18:36:14 [info]  Clicked on the ''Edit' Button at Episode window' using JS Executor
+Nov 01,2016 18:36:21 [info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Nov 01,2016 18:36:25 [info]  Entered "101" in field 'Add Episode input field'
+Nov 01,2016 18:36:25 [info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Nov 01,2016 18:36:35 [info]  Clicked on the 'Season Field of Episode101' using JS Executor
+Nov 01,2016 18:36:36 [info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Nov 01,2016 18:36:36 [info]  Clicked on the 'Season 1'
+Nov 01,2016 18:36:37 [info]  Clicked on the 'Support click to select season'
+Nov 01,2016 18:36:40 [info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Nov 01,2016 18:36:41 [info]  Entered "102" in field 'Add Episode input field'
+Nov 01,2016 18:36:41 [info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Nov 01,2016 18:36:54 [info]  Clicked on the 'Season Field of Episode102' using JS Executor
+Nov 01,2016 18:36:54 [info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Nov 01,2016 18:36:55 [info]  Clicked on the 'Season 1'
+Nov 01,2016 18:36:55 [info]  Clicked on the 'Support click to select season'
+Nov 01,2016 18:36:55 [info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Nov 01,2016 18:36:56 [info]  Entered "201" in field 'Add Episode input field'
+Nov 01,2016 18:36:56 [info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Nov 01,2016 18:37:10 [info]  Clicked on the 'Season Field of Episode201' using JS Executor
+Nov 01,2016 18:37:10 [info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Nov 01,2016 18:37:10 [info]  Clicked on the 'Season 2'
+Nov 01,2016 18:37:11 [info]  Clicked on the 'Support click to select season'
+Nov 01,2016 18:37:14 [info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Nov 01,2016 18:37:15 [info]  Entered "202" in field 'Add Episode input field'
+Nov 01,2016 18:37:15 [info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Nov 01,2016 18:37:25 [info]  Clicked on the 'Support click to select season'
+Nov 01,2016 18:37:28 [info]  Clicked on the 'Season Field of Episode201' using JS Executor
+Nov 01,2016 18:37:29 [info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Nov 01,2016 18:37:29 [info]  Clicked on the 'Season 2'
+Nov 01,2016 18:37:30 [info]  Clicked on the 'Support click to select season'
+Nov 01,2016 18:37:33 [info]  Clicked on the 'Save Button at 'Episode Edit Window'' using JS Executor
+Nov 01,2016 18:37:43 [info]  Clicked on the 'Close Button at 'Episode Edit Window'' using JS Executor
+Nov 01,2016 18:38:07 [info]  Clicked on the 'New Button' using JS Executor
+Nov 01,2016 18:38:07 [info]  Clicked on the 'Standalone Agreement' using JS Executor
+Nov 01,2016 18:38:26 [info]  Field Deal Id does not exist.
+Nov 01,2016 18:38:26 [info]  Clicked on the 'DealTitleField' using JS Executor
+Nov 01,2016 18:38:28 [info]  Entered "AUT_Deal1_1101201645134" in field 'Deal Name Field'
+Nov 01,2016 18:38:29 [info]  Entered "AUT_Deal1_1101201645134_desc" in field 'Deal Description/ContractID'
+Nov 01,2016 18:38:30 [info]  Selected "Co-Production" in "DealType_DropDownField" drop down
+Nov 01,2016 18:38:30 [info]  Entered "Fully Executed" in field 'Deal Creation Contract Status'
+Nov 01,2016 18:38:31 [info]  Entered "In Progress" in field 'DealCreationCDEStatus'
+Nov 01,2016 18:38:31 [info]  Entered "01/01/2014" in field 'DateExecuted_InputField'
+Nov 01,2016 18:38:35 [info]  Entered "01/01/2015" in field 'DateEffective_InputField'
+Nov 01,2016 18:38:35 [info]  Entered "USD" in field 'DealCreationCurrency'
+Nov 01,2016 18:38:36 [info]  Entered "" in field 'ProjectStatus'
+Nov 01,2016 18:38:36 [info]  Entered "" in field 'ProjectID_InputField'
+Nov 01,2016 18:39:05 [info]  Moved Mouse over 'Party_AddButton'
+Nov 01,2016 18:39:05 [info]  ====Failed==== "Party_AddButton" field is not present'
+Nov 01,2016 18:39:06 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Nov2016\\01\Party_AddButton_CheckpointFailure_11-01-2016 6-39-05 PM.jpg
+Nov 01,2016 18:39:16 [info]  ====Failed==== "PartyPopUp Icon" field is not present'
+Nov 01,2016 18:39:17 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Nov2016\\01\PartyPopUp Icon_CheckpointFailure_11-01-2016 6-39-16 PM.jpg
+Nov 01,2016 18:39:30 [info]  ====Failed==== " Could not find the Frame: div[id*='WebDialogWindow1'][style*=visible]
+Nov 01,2016 18:39:31 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Nov2016\\01\FrameSwitchingFailed0_CheckpointFailure_11-01-2016 6-39-30 PM.jpg
+Nov 01,2016 18:39:31 [info]  Unable to find element with css selector == div[id*='WebDialogWindow1'][style*=visible] (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.34 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: '9P4G6BS', ip: '10.10.22.71', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=true, ie.forceCreateProcessApi=false, pageLoadStrategy=normal, ie.usePerProcessProxy=false, ignoreZoomSetting=false, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=false, browserName=internet explorer, initialBrowserUrl=http://localhost:31384/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=false, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: dc3a0d78-c9f2-4739-aa23-f40a7cb850ff
+*** Element info: {Using=css selector, value=div[id*='WebDialogWindow1'][style*=visible]}
+Nov 01,2016 18:39:41 [info]  ====Failed==== "Search Party InputField" field is not present'Search Party InputField'
+Nov 01,2016 18:39:42 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Nov2016\\01\Search Party InputField_CheckpointFailure_11-01-2016 6-39-41 PM.jpg
+Nov 01,2016 18:39:53 [info]  Could not find the locator: RI Search Party Window Find Button'
+Nov 01,2016 18:39:53 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Nov2016\\01\RI Search Party Window Find Button_CheckpointFailure_11-01-2016 6-39-53 PM.jpg
+Nov 01,2016 18:40:08 [info]  ====Failed==== " Could not find the Frame: div[id*='WebDialogWindow1'][style*=visible]
+Nov 01,2016 18:40:08 [info]  ScreenShot of CheckPoint Failure: C:\Screenshots\Nov2016\\01\FrameSwitchingFailed1_CheckpointFailure_11-01-2016 6-40-08 PM.jpg
+Nov 01,2016 18:40:08 [info]  Unable to find element with css selector == div[id*='WebDialogWindow1'][style*=visible] (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.29 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: '9P4G6BS', ip: '10.10.22.71', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=true, ie.forceCreateProcessApi=false, pageLoadStrategy=normal, ie.usePerProcessProxy=false, ignoreZoomSetting=false, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=false, browserName=internet explorer, initialBrowserUrl=http://localhost:31384/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=false, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: dc3a0d78-c9f2-4739-aa23-f40a7cb850ff
+*** Element info: {Using=css selector, value=div[id*='WebDialogWindow1'][style*=visible]}
+Nov 01,2016 18:41:50 [info]  Test 'testscript' FAILED
+Nov 01,2016 18:41:51 [info]  2
+Nov 01,2016 18:42:06 [info]  Test Case :testscript's Screenshot of Failure Page: C:\Screenshots\Nov2016\\01\testscript_11-01-2016 6-41-51 PM.jpg
+Nov 01,2016 18:42:07 [info]  ==================Info============ The Test Method left an Alert at the End of execution of the Test Case
+Nov 01,2016 18:42:11 [info]  Closed the Browser
+Nov 01,2016 18:42:21 [info]  ********************Started Executiong the Test Suite at 18:42:21******************
+Nov 01,2016 18:42:21 [info]  Client: TURNER
+Nov 01,2016 18:42:21 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Nov 01,2016 18:42:21 [info]  *********************Started Executing 'testscript' Test Case*********************
+Nov 01,2016 18:42:33 [info]  ************************Started Creating Asset of Type: Program TV/Digital - Series************************
+Nov 01,2016 18:42:33 [info]  ====Failed==== " Could not find the Frame: //div[@clientid='RL_SplitterPane_Navigation']
+Nov 01,2016 18:42:33 [info]  Test 'testscript' FAILED
+Nov 01,2016 18:42:33 [info]  2
+Nov 01,2016 18:42:33 [info]  Test 'testscript' FAILED
+Nov 01,2016 18:42:33 [info]  2

@@ -1,0 +1,680 @@
+Sep 18,2016 10:43:09 [info]  ********************Started Executiong the Test Suite at 10:43:09******************
+Sep 18,2016 10:43:09 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Sep 18,2016 10:43:09 [info]  *********************Started Executing 'testscript' Test Case*********************
+Sep 18,2016 10:43:20 [info]  Client: AMCN
+Sep 18,2016 10:43:20 [info]  URL: http://rlv2wb79/login.aspx
+Sep 18,2016 10:43:20 [info]  UserName: automation
+Sep 18,2016 10:43:20 [info]  Password: automation
+Sep 18,2016 10:43:23 [info]  Entered "automation" in field 'User Name'
+Sep 18,2016 10:43:24 [info]  Clicked on the 'Temporary Check Box'
+Sep 18,2016 10:43:24 [info]  Entered "automation" in field 'Password'
+Sep 18,2016 10:43:36 [info]  Clicked on the 'LoginButton'
+Sep 18,2016 10:44:28 [info]  Entered "" in field 'Document_AddDoc_DocNameField'
+Sep 18,2016 10:44:28 [info]  Clicked on the 'Save Button at 'Add Document Window'' using JS Executor
+Sep 18,2016 10:44:29 [info]  Test 'testscript' FAILED
+Sep 18,2016 10:44:29 [info]  2
+Sep 18,2016 10:44:29 [info]  Test Case :testscript's Screenshot of Failure Page: C:\SeleniumProject\Screenshots\Sep2016\\18\testscript_09-18-2016 10-44-29 AM.jpg
+Sep 18,2016 10:44:30 [info]  Closed the Browser
+Sep 18,2016 10:45:57 [info]  ********************Started Executiong the Test Suite at 10:45:57******************
+Sep 18,2016 10:45:57 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Sep 18,2016 10:45:57 [info]  *********************Started Executing 'testscript' Test Case*********************
+Sep 18,2016 10:46:07 [info]  Client: AMCN
+Sep 18,2016 10:46:07 [info]  URL: http://rlv2wb79/login.aspx
+Sep 18,2016 10:46:07 [info]  UserName: automation
+Sep 18,2016 10:46:07 [info]  Password: automation
+Sep 18,2016 10:46:08 [info]  Entered "automation" in field 'User Name'
+Sep 18,2016 10:46:08 [info]  Clicked on the 'Temporary Check Box'
+Sep 18,2016 10:46:09 [info]  Entered "automation" in field 'Password'
+Sep 18,2016 10:46:16 [info]  Clicked on the 'LoginButton'
+Sep 18,2016 10:46:33 [info]  Test 'testscript' FAILED
+Sep 18,2016 10:46:33 [info]  2
+Sep 18,2016 10:46:33 [info]  Test Case :testscript's Screenshot of Failure Page: C:\SeleniumProject\Screenshots\Sep2016\\18\testscript_09-18-2016 10-46-33 AM.jpg
+Sep 18,2016 10:46:34 [info]  Closed the Browser
+Sep 18,2016 10:46:47 [info]  ********************Started Executiong the Test Suite at 10:46:47******************
+Sep 18,2016 10:46:47 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Sep 18,2016 10:46:47 [info]  *********************Started Executing 'testscript' Test Case*********************
+Sep 18,2016 10:46:56 [info]  Client: AMCN
+Sep 18,2016 10:46:56 [info]  URL: http://rlv2wb79/login.aspx
+Sep 18,2016 10:46:56 [info]  UserName: automation
+Sep 18,2016 10:46:56 [info]  Password: automation
+Sep 18,2016 10:46:57 [info]  Entered "automation" in field 'User Name'
+Sep 18,2016 10:46:58 [info]  Clicked on the 'Temporary Check Box'
+Sep 18,2016 10:46:59 [info]  Entered "automation" in field 'Password'
+Sep 18,2016 10:47:06 [info]  Clicked on the 'LoginButton'
+Sep 18,2016 10:47:54 [info]  Test 'testscript' FAILED
+Sep 18,2016 10:47:54 [info]  2
+Sep 18,2016 10:47:54 [info]  Test Case :testscript's Screenshot of Failure Page: C:\SeleniumProject\Screenshots\Sep2016\\18\testscript_09-18-2016 10-47-54 AM.jpg
+Sep 18,2016 10:47:55 [info]  Closed the Browser
+Sep 18,2016 10:48:36 [info]  ********************Started Executiong the Test Suite at 10:48:36******************
+Sep 18,2016 10:48:36 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Sep 18,2016 10:48:36 [info]  *********************Started Executing 'testscript' Test Case*********************
+Sep 18,2016 10:48:45 [info]  Client: AMCN
+Sep 18,2016 10:48:45 [info]  URL: http://rlv2wb79/login.aspx
+Sep 18,2016 10:48:45 [info]  UserName: automation
+Sep 18,2016 10:48:45 [info]  Password: automation
+Sep 18,2016 10:48:46 [info]  Entered "automation" in field 'User Name'
+Sep 18,2016 10:48:47 [info]  Clicked on the 'Temporary Check Box'
+Sep 18,2016 10:48:48 [info]  Entered "automation" in field 'Password'
+Sep 18,2016 10:48:55 [info]  Clicked on the 'LoginButton'
+Sep 18,2016 10:51:20 [info]  Entered "" in field 'Document_AddDoc_DocNameField'
+Sep 18,2016 10:51:20 [info]  Clicked on the 'Save Button at 'Add Document Window'' using JS Executor
+Sep 18,2016 10:51:25 [info]  ====Failed==== Expected value is:[Please select a document to upload.] but Actual value is[  Please enter Document Name.  ]. Please check the screenshot with name: Please select a document to upload.for more details
+Sep 18,2016 10:51:25 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Sep2016\\18\'Add Document'Validation Message_CheckpointFailure_09-18-2016 10-51-25 AM.jpg
+Sep 18,2016 10:54:57 [info]  ********************Started Executiong the Test Suite at 10:54:57******************
+Sep 18,2016 10:54:57 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Sep 18,2016 10:54:57 [info]  *********************Started Executing 'testscript' Test Case*********************
+Sep 18,2016 10:55:06 [info]  Client: AMCN
+Sep 18,2016 10:55:06 [info]  URL: http://rlv2wb79/login.aspx
+Sep 18,2016 10:55:06 [info]  UserName: automation
+Sep 18,2016 10:55:06 [info]  Password: automation
+Sep 18,2016 10:55:08 [info]  Entered "automation" in field 'User Name'
+Sep 18,2016 10:55:08 [info]  Clicked on the 'Temporary Check Box'
+Sep 18,2016 10:55:09 [info]  Entered "automation" in field 'Password'
+Sep 18,2016 10:55:16 [info]  Clicked on the 'LoginButton'
+Sep 18,2016 11:04:34 [info]  ********************Started Executiong the Test Suite at 11:04:34******************
+Sep 18,2016 11:04:34 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Sep 18,2016 11:04:34 [info]  *********************Started Executing 'testscript' Test Case*********************
+Sep 18,2016 11:04:44 [info]  Client: AMCN
+Sep 18,2016 11:04:44 [info]  URL: http://rlv2wb79/login.aspx
+Sep 18,2016 11:04:44 [info]  UserName: automation
+Sep 18,2016 11:04:44 [info]  Password: automation
+Sep 18,2016 11:04:45 [info]  Entered "automation" in field 'User Name'
+Sep 18,2016 11:04:45 [info]  Clicked on the 'Temporary Check Box'
+Sep 18,2016 11:04:46 [info]  Entered "automation" in field 'Password'
+Sep 18,2016 11:04:54 [info]  Clicked on the 'LoginButton'
+Sep 18,2016 11:09:36 [info]  ********************Started Executiong the Test Suite at 11:09:36******************
+Sep 18,2016 11:09:36 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Sep 18,2016 11:09:36 [info]  *********************Started Executing 'testscript' Test Case*********************
+Sep 18,2016 11:09:46 [info]  Client: AMCN
+Sep 18,2016 11:09:46 [info]  URL: http://rlv2wb79/login.aspx
+Sep 18,2016 11:09:46 [info]  UserName: automation
+Sep 18,2016 11:09:46 [info]  Password: automation
+Sep 18,2016 11:09:47 [info]  Entered "automation" in field 'User Name'
+Sep 18,2016 11:09:47 [info]  Clicked on the 'Temporary Check Box'
+Sep 18,2016 11:09:48 [info]  Entered "automation" in field 'Password'
+Sep 18,2016 11:09:56 [info]  Clicked on the 'LoginButton'
+Sep 18,2016 11:14:33 [info]  Selected "Amendment" in "Document_AddDoc_DocTypeDropDown" drop down
+Sep 18,2016 11:14:39 [info]  Verified that Expected value :[Amendment] is matched with Actual value :[Amendment]
+Sep 18,2016 11:14:40 [info]  Entered "" in field 'Document_AddDoc_DocNameField'
+Sep 18,2016 11:14:41 [info]  Clicked on the 'Save Button at 'Add Document Window'' using JS Executor
+Sep 18,2016 11:14:54 [info]  ====Failed==== Expected value is:[Please select a document to upload.] but Actual value is[  Please enter Document Name.  ]. Please check the screenshot with name: Please select a document to upload.for more details
+Sep 18,2016 11:14:54 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Sep2016\\18\'Add Document'Validation Message_CheckpointFailure_09-18-2016 11-14-54 AM.jpg
+Sep 18,2016 11:22:05 [info]  ********************Started Executiong the Test Suite at 11:22:05******************
+Sep 18,2016 11:22:05 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Sep 18,2016 11:22:05 [info]  *********************Started Executing 'testscript' Test Case*********************
+Sep 18,2016 11:22:14 [info]  Client: AMCN
+Sep 18,2016 11:22:14 [info]  URL: http://rlv2wb79/login.aspx
+Sep 18,2016 11:22:14 [info]  UserName: automation
+Sep 18,2016 11:22:14 [info]  Password: automation
+Sep 18,2016 11:22:16 [info]  Entered "automation" in field 'User Name'
+Sep 18,2016 11:22:16 [info]  Clicked on the 'Temporary Check Box'
+Sep 18,2016 11:22:17 [info]  Entered "automation" in field 'Password'
+Sep 18,2016 11:22:25 [info]  Clicked on the 'LoginButton'
+Sep 18,2016 11:23:57 [info]  ********************Started Executiong the Test Suite at 11:23:57******************
+Sep 18,2016 11:23:57 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Sep 18,2016 11:23:57 [info]  *********************Started Executing 'testscript' Test Case*********************
+Sep 18,2016 11:24:07 [info]  Client: AMCN
+Sep 18,2016 11:24:07 [info]  URL: http://rlv2wb79/login.aspx
+Sep 18,2016 11:24:07 [info]  UserName: automation
+Sep 18,2016 11:24:07 [info]  Password: automation
+Sep 18,2016 11:24:08 [info]  Entered "automation" in field 'User Name'
+Sep 18,2016 11:24:08 [info]  Clicked on the 'Temporary Check Box'
+Sep 18,2016 11:24:09 [info]  Entered "automation" in field 'Password'
+Sep 18,2016 11:24:16 [info]  Clicked on the 'LoginButton'
+Sep 18,2016 11:25:37 [info]  *****Verifying all Associated Assets
+Sep 18,2016 11:25:38 [info]  ====Failed==== Expected value is:[AUT_AssetSeries_09092016120716] but Actual value is[AUT_AssetSeries_0918201683932]. Please check the screenshot with name: AUT_AssetSeries_09092016120716for more details
+Sep 18,2016 11:25:38 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Sep2016\\18\AUT_AssetSeries_09092016120716_CheckpointFailure_09-18-2016 11-25-38 AM.jpg
+Sep 18,2016 11:25:39 [info]  Drop Down values of Applies TO DropDown Values
+Sep 18,2016 11:25:39 [info]  Actual Drop Down Values are: 
+[AUT_AssetSeries_0918201683932, Season 1, Ep.101: Episode101, Ep.102: Episode102, Ep.104.0: Episode104, Season 2, Ep.201: Episode201, Ep.202: Episode202]
+Sep 18,2016 11:25:39 [info]  Expected Drop Down Values are: 
+[AUT_AssetSeries_09172016123703, Season 1, Ep.101: Episode101, Ep.102: Episode102, Season 2, Ep.201: Episode201, Ep.202: Episode202]
+Sep 18,2016 11:25:57 [info]  Test 'testscript' FAILED
+Sep 18,2016 11:25:57 [info]  2
+Sep 18,2016 11:25:57 [info]  Test Case :testscript's Screenshot of Failure Page: C:\SeleniumProject\Screenshots\Sep2016\\18\testscript_09-18-2016 11-25-57 AM.jpg
+Sep 18,2016 11:25:58 [info]  Closed the Browser
+Sep 18,2016 11:32:31 [info]  ********************Started Executiong the Test Suite at 11:32:31******************
+Sep 18,2016 11:32:31 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Sep 18,2016 11:32:32 [info]  *********************Started Executing 'testscript' Test Case*********************
+Sep 18,2016 11:32:41 [info]  Client: AMCN
+Sep 18,2016 11:32:41 [info]  URL: http://rlv2wb79/login.aspx
+Sep 18,2016 11:32:41 [info]  UserName: automation
+Sep 18,2016 11:32:41 [info]  Password: automation
+Sep 18,2016 11:32:42 [info]  Entered "automation" in field 'User Name'
+Sep 18,2016 11:32:42 [info]  Clicked on the 'Temporary Check Box'
+Sep 18,2016 11:32:43 [info]  Entered "automation" in field 'Password'
+Sep 18,2016 11:32:51 [info]  Clicked on the 'LoginButton'
+Sep 18,2016 11:33:39 [info]  Test 'testscript' FAILED
+Sep 18,2016 11:33:39 [info]  2
+Sep 18,2016 11:33:39 [info]  Test Case :testscript's Screenshot of Failure Page: C:\SeleniumProject\Screenshots\Sep2016\\18\testscript_09-18-2016 11-33-39 AM.jpg
+Sep 18,2016 11:33:40 [info]  Closed the Browser
+Sep 18,2016 11:34:15 [info]  ********************Started Executiong the Test Suite at 11:34:15******************
+Sep 18,2016 11:34:15 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Sep 18,2016 11:34:15 [info]  *********************Started Executing 'testscript' Test Case*********************
+Sep 18,2016 11:34:24 [info]  Client: AMCN
+Sep 18,2016 11:34:24 [info]  URL: http://rlv2wb79/login.aspx
+Sep 18,2016 11:34:24 [info]  UserName: automation
+Sep 18,2016 11:34:24 [info]  Password: automation
+Sep 18,2016 11:34:25 [info]  Entered "automation" in field 'User Name'
+Sep 18,2016 11:34:25 [info]  Clicked on the 'Temporary Check Box'
+Sep 18,2016 11:34:26 [info]  Entered "automation" in field 'Password'
+Sep 18,2016 11:34:34 [info]  Clicked on the 'LoginButton'
+Sep 18,2016 11:35:14 [info]  *****Verifying all Associated Assets
+Sep 18,2016 11:35:14 [info]  ====Failed==== Expected value is:[AUT_AssetSeries_09092016120716] but Actual value is[AUT_AssetSeries_0918201683932]. Please check the screenshot with name: AUT_AssetSeries_09092016120716for more details
+Sep 18,2016 11:35:15 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Sep2016\\18\AUT_AssetSeries_09092016120716_CheckpointFailure_09-18-2016 11-35-14 AM.jpg
+Sep 18,2016 11:35:15 [info]  Drop Down values of Applies TO DropDown Values
+Sep 18,2016 11:35:15 [info]  Actual Drop Down Values are: 
+[AUT_AssetSeries_0918201683932, Season 1, Ep.101: Episode101, Ep.102: Episode102, Ep.104.0: Episode104, Season 2, Ep.201: Episode201, Ep.202: Episode202]
+Sep 18,2016 11:35:15 [info]  Expected Drop Down Values are: 
+[AUT_AssetSeries_09172016123703, Season 1, Ep.101: Episode101, Ep.102: Episode102, Season 2, Ep.201: Episode201, Ep.202: Episode202]
+Sep 18,2016 11:35:15 [info]  Test 'testscript' FAILED
+Sep 18,2016 11:35:15 [info]  2
+Sep 18,2016 11:35:15 [info]  Test Case :testscript's Screenshot of Failure Page: C:\SeleniumProject\Screenshots\Sep2016\\18\testscript_09-18-2016 11-35-15 AM.jpg
+Sep 18,2016 11:35:17 [info]  Closed the Browser
+Sep 18,2016 11:42:09 [info]  ********************Started Executiong the Test Suite at 11:42:09******************
+Sep 18,2016 11:42:09 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Sep 18,2016 11:42:09 [info]  *********************Started Executing 'testscript' Test Case*********************
+Sep 18,2016 11:42:18 [info]  Client: AMCN
+Sep 18,2016 11:42:18 [info]  URL: http://rlv2wb79/login.aspx
+Sep 18,2016 11:42:18 [info]  UserName: automation
+Sep 18,2016 11:42:18 [info]  Password: automation
+Sep 18,2016 11:42:19 [info]  Entered "automation" in field 'User Name'
+Sep 18,2016 11:42:19 [info]  Clicked on the 'Temporary Check Box'
+Sep 18,2016 11:42:20 [info]  Entered "automation" in field 'Password'
+Sep 18,2016 11:42:28 [info]  Clicked on the 'LoginButton'
+Sep 18,2016 11:51:59 [info]  Test 'testscript' FAILED
+Sep 18,2016 11:51:59 [info]  2
+Sep 18,2016 11:52:00 [info]  Test Case :testscript's Screenshot of Failure Page: C:\SeleniumProject\Screenshots\Sep2016\\18\testscript_09-18-2016 11-51-59 AM.jpg
+Sep 18,2016 11:52:00 [info]  Closed the Browser
+Sep 18,2016 11:52:32 [info]  Entered "AUTTestFile100KB.bmp" in field 'Upload File 'AUTTestFile100KB.bmp''
+Sep 18,2016 11:55:16 [info]  ********************Started Executiong the Test Suite at 11:55:16******************
+Sep 18,2016 11:55:16 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Sep 18,2016 11:55:16 [info]  *********************Started Executing 'testscript' Test Case*********************
+Sep 18,2016 11:55:25 [info]  Client: AMCN
+Sep 18,2016 11:55:25 [info]  URL: http://rlv2wb79/login.aspx
+Sep 18,2016 11:55:25 [info]  UserName: automation
+Sep 18,2016 11:55:25 [info]  Password: automation
+Sep 18,2016 11:55:26 [info]  Entered "automation" in field 'User Name'
+Sep 18,2016 11:55:27 [info]  Clicked on the 'Temporary Check Box'
+Sep 18,2016 11:55:27 [info]  Entered "automation" in field 'Password'
+Sep 18,2016 11:55:35 [info]  Clicked on the 'LoginButton'
+Sep 18,2016 13:54:47 [info]  *****Verifying all Associated Assets
+Sep 18,2016 13:54:47 [info]  ====Failed==== Expected value is:[AUT_AssetSeries_09092016120716] but Actual value is[AUT_AssetSeries_09172016123703]. Please check the screenshot with name: AUT_AssetSeries_09092016120716for more details
+Sep 18,2016 13:54:47 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Sep2016\\18\AUT_AssetSeries_09092016120716_CheckpointFailure_09-18-2016 1-54-47 PM.jpg
+Sep 18,2016 13:54:48 [info]  Drop Down values of Applies TO DropDown Values
+Sep 18,2016 13:54:48 [info]  Actual Drop Down Values are: 
+[AUT_AssetSeries_09172016123703, Season 1, Ep.101: Episode101, Ep.102: Episode102, Season 2, Ep.201: Episode201, Ep.202: Episode202]
+Sep 18,2016 13:54:48 [info]  Expected Drop Down Values are: 
+[AUT_AssetSeries_09172016123703, Season 1, Ep.101: Episode101, Ep.102: Episode102, Season 2, Ep.201: Episode201, Ep.202: Episode202]
+Sep 18,2016 13:54:48 [info]  Total Number of Dropdown Valus in Applies TO DropDown Values:7
+Sep 18,2016 13:54:55 [info]  Selected "Amendment" in "Document_AddDoc_DocTypeDropDown" drop down
+Sep 18,2016 13:54:55 [info]  Verified that Expected value :[Amendment] is matched with Actual value :[Amendment]
+Sep 18,2016 13:54:57 [info]  Entered "Declaration from the Legal HeirDeclaration 1234567890 @#$% @&*" in field 'Document_AddDoc_DocNameField'
+Sep 18,2016 13:54:57 [info]  Clicked on the 'Outside the Document Name Field'
+Sep 18,2016 13:54:58 [info]  Verified that Expected value :[Please enter a valid file name!] is matched with Actual value :[  RightsLogic Alert  
+    Please enter a valid file name!
+       ]
+Sep 18,2016 13:54:58 [info]  Clicked on the 'OK Button at Alert on Entering the invalid Names' using JS Executor
+Sep 18,2016 13:55:00 [info]  Entered "AT_Document_Name_001" in field 'Document_AddDoc_DocNameField'
+Sep 18,2016 13:55:00 [info]  Clicked on the 'Save Button at 'Add Document Window'' using JS Executor
+Sep 18,2016 13:55:00 [info]  Test 'testscript' FAILED
+Sep 18,2016 13:55:00 [info]  2
+Sep 18,2016 13:55:01 [info]  Test Case :testscript's Screenshot of Failure Page: C:\SeleniumProject\Screenshots\Sep2016\\18\testscript_09-18-2016 1-55-00 PM.jpg
+Sep 18,2016 13:55:02 [info]  Closed the Browser
+Sep 18,2016 15:29:17 [info]  ********************Started Executiong the Test Suite at 15:29:17******************
+Sep 18,2016 15:29:17 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Sep 18,2016 15:29:17 [info]  *********************Started Executing 'TC1_DocumentUI' Test Case*********************
+Sep 18,2016 15:29:27 [info]  Client: AMCN
+Sep 18,2016 15:29:27 [info]  URL: http://rlv2wb79/login.aspx
+Sep 18,2016 15:29:27 [info]  UserName: automation
+Sep 18,2016 15:29:27 [info]  Password: automation
+Sep 18,2016 15:29:28 [info]  Entered "automation" in field 'User Name'
+Sep 18,2016 15:29:28 [info]  Clicked on the 'Temporary Check Box'
+Sep 18,2016 15:29:29 [info]  Entered "automation" in field 'Password'
+Sep 18,2016 15:29:37 [info]  Clicked on the 'LoginButton'
+Sep 18,2016 15:29:43 [info]  AUT_AssetSeries_09172016123703
+Sep 18,2016 15:29:44 [info]  Clicked on the 'MODULE'
+Sep 18,2016 15:29:55 [info]  Clicked on the 'Asset Maintenance'
+Sep 18,2016 15:30:00 [info]  Clicked on the 'Search Menu Icon' using JS Executor
+Sep 18,2016 15:30:00 [info]  Clicked on the 'AssetSearchUnderAsset' using JS Executor
+Sep 18,2016 15:30:17 [info]  Entered "AUT_AssetSeries_09172016123703" in field 'AssetTitle'
+Sep 18,2016 15:30:18 [info]  Clicked on the 'All Check Box' using JS Executor
+Sep 18,2016 15:30:18 [info]  Clicked on the 'Find Button' using JS Executor
+Sep 18,2016 15:30:47 [info]  Moved Mouse over 'First Asset in the Searched Asset'
+Sep 18,2016 15:30:48 [info]  Clicked on the 'First Asset in the Searched Asset'
+Sep 18,2016 15:30:51 [info]  Clicked on the 'View Asset' using JS Executor
+Sep 18,2016 15:31:11 [info]  Verified that Expected value :[AUT_AssetSeries_09172016123703] is matched with Actual value :[AUT_AssetSeries_09172016123703]
+Sep 18,2016 15:31:14 [info]  Clicked on the 'Documents TAB'
+Sep 18,2016 15:31:18 [info]  ***********Verifying AllButtons Present on the Document TAB in view Mode***********
+Sep 18,2016 15:31:19 [info]  Verified that Expected value :[View Document] is matched with Actual value :[View Document]
+Sep 18,2016 15:31:19 [info]  Verified that Expected value :[Add...] is matched with Actual value :[Add...]
+Sep 18,2016 15:31:19 [info]  Verified that Expected value :[Edit Profile] is matched with Actual value :[Edit Profile]
+Sep 18,2016 15:31:20 [info]  Verified that Expected value :[Delete] is matched with Actual value :[Delete]
+Sep 18,2016 15:31:20 [info]  Verified that Expected value :[Edit Documents] is matched with Actual value :[Edit Documents]
+Sep 18,2016 15:31:30 [info]  ====Failed===="Applies TO" is not Present
+Sep 18,2016 15:31:30 [info]  ******Verifying the Fields and Buttons on the Add Document Window******
+Sep 18,2016 15:31:30 [info]  Clicked on the 'Document_AddDocumentButton' using JS Executor
+Sep 18,2016 15:31:33 [info]  Verified that Expected value :[*Applies To] is matched with Actual value :[*Applies To]
+Sep 18,2016 15:31:33 [info]  Verified that Expected value :[*Document Name] is matched with Actual value :[*Document Name]
+Sep 18,2016 15:31:34 [info]  Verified that Expected value :[*Document Type] is matched with Actual value :[*Document Type]
+Sep 18,2016 15:31:34 [info]  Verified that Expected value :[Document Date] is matched with Actual value :[Document Date]
+Sep 18,2016 15:31:34 [info]  Verified that Expected value :[Description] is matched with Actual value :[Description]
+Sep 18,2016 15:31:34 [info]  Buttons
+Sep 18,2016 15:31:34 [info]  =======
+Sep 18,2016 15:31:34 [info]  Save
+Sep 18,2016 15:31:34 [info]  Cancel
+Sep 18,2016 15:31:34 [info]  *****Verifying all Associated Assets
+Sep 18,2016 15:31:34 [info]  Verified that Expected value :[AUT_AssetSeries_09172016123703] is matched with Actual value :[AUT_AssetSeries_09172016123703]
+Sep 18,2016 15:31:35 [info]  Drop Down values of Applies TO DropDown Values
+Sep 18,2016 15:31:35 [info]  Actual Drop Down Values are: 
+[AUT_AssetSeries_09172016123703, Season 1, Ep.101: Episode101, Ep.102: Episode102, Season 2, Ep.201: Episode201, Ep.202: Episode202]
+Sep 18,2016 15:31:35 [info]  Expected Drop Down Values are: 
+[AUT_AssetSeries_09172016123703, Season 1, Ep.101: Episode101, Ep.102: Episode102, Season 2, Ep.201: Episode201, Ep.202: Episode202]
+Sep 18,2016 15:31:35 [info]  Total Number of Dropdown Valus in Applies TO DropDown Values:7
+Sep 18,2016 16:13:47 [info]  Selected "Amendment" in "Document_AddDoc_DocTypeDropDown" drop down
+Sep 18,2016 16:13:47 [info]  Verified that Expected value :[Amendment] is matched with Actual value :[Amendment]
+Sep 18,2016 16:13:49 [info]  Entered "Declaration from the Legal HeirDeclaration 1234567890 @#$% @&*" in field 'Document_AddDoc_DocNameField'
+Sep 18,2016 16:13:49 [info]  Clicked on the 'Outside the Document Name Field'
+Sep 18,2016 16:13:50 [info]  Verified that Expected value :[Please enter a valid file name!] is matched with Actual value :[  RightsLogic Alert  
+    Please enter a valid file name!
+       ]
+Sep 18,2016 16:13:55 [info]  Clicked on the 'OK Button at Alert on Entering the invalid Names' using JS Executor
+Sep 18,2016 16:13:56 [info]  Entered "AT_Document_Name_001" in field 'Document_AddDoc_DocNameField'
+Sep 18,2016 16:13:56 [info]  Clicked on the 'Save Button at 'Add Document Window'' using JS Executor
+Sep 18,2016 16:14:01 [info]  ====Failed==== Expected value is:[Please select a document to upload.] but Actual value is[  Please select a document to upload.  ]. Please check the screenshot with name: Please select a document to upload.for more details
+Sep 18,2016 16:14:01 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Sep2016\\18\'Add Document'Validation Message_CheckpointFailure_09-18-2016 4-14-01 PM.jpg
+Sep 18,2016 16:14:04 [info]  Entered "C:\SeleniumProject\Inputdata\Inputfiles\AUTTestFile100KB.bmp" in field 'Upload File 'AUTTestFile100KB.bmp''
+Sep 18,2016 16:14:07 [info]  Entered "12/31/2010" in field 'Document Date'
+Sep 18,2016 16:14:11 [info]  Entered "Amendment" in field 'Document Discription'
+Sep 18,2016 16:14:11 [info]  Clicked on the 'Save Button at 'Add Document Window'' using JS Executor
+Sep 18,2016 16:14:11 [info]  ****Verifying all the Headers Name shown in View Mode After adding the Document****
+Sep 18,2016 16:14:12 [info]  Verified that Expected value :[Document Type] is matched with Actual value :[Document Type]
+Sep 18,2016 16:14:12 [info]  Test 'TC1_DocumentUI' FAILED
+Sep 18,2016 16:14:12 [info]  2
+Sep 18,2016 16:14:15 [info]  Test Case :TC1_DocumentUI's Screenshot of Failure Page: C:\SeleniumProject\Screenshots\Sep2016\\18\TC1_DocumentUI_09-18-2016 4-14-12 PM.jpg
+Sep 18,2016 16:14:16 [info]  Closed the Browser
+Sep 18,2016 16:20:35 [info]  ********************Started Executiong the Test Suite at 16:20:35******************
+Sep 18,2016 16:20:35 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Sep 18,2016 16:20:35 [info]  *********************Started Executing 'TC1_DocumentUI' Test Case*********************
+Sep 18,2016 16:20:44 [info]  Client: AMCN
+Sep 18,2016 16:20:44 [info]  URL: http://rlv2wb79/login.aspx
+Sep 18,2016 16:20:44 [info]  UserName: automation
+Sep 18,2016 16:20:44 [info]  Password: automation
+Sep 18,2016 16:20:45 [info]  Entered "automation" in field 'User Name'
+Sep 18,2016 16:20:45 [info]  Clicked on the 'Temporary Check Box'
+Sep 18,2016 16:20:46 [info]  Entered "automation" in field 'Password'
+Sep 18,2016 16:20:53 [info]  Clicked on the 'LoginButton'
+Sep 18,2016 16:20:59 [info]  AUT_AssetSeries_09172016123703
+Sep 18,2016 16:21:00 [info]  Clicked on the 'MODULE'
+Sep 18,2016 16:21:11 [info]  Clicked on the 'Asset Maintenance'
+Sep 18,2016 16:21:15 [info]  Clicked on the 'Search Menu Icon' using JS Executor
+Sep 18,2016 16:21:15 [info]  Clicked on the 'AssetSearchUnderAsset' using JS Executor
+Sep 18,2016 16:21:28 [info]  Entered "AUT_AssetSeries_09172016123703" in field 'AssetTitle'
+Sep 18,2016 16:21:29 [info]  Clicked on the 'All Check Box' using JS Executor
+Sep 18,2016 16:21:29 [info]  Clicked on the 'Find Button' using JS Executor
+Sep 18,2016 16:21:48 [info]  Moved Mouse over 'First Asset in the Searched Asset'
+Sep 18,2016 16:21:49 [info]  Clicked on the 'First Asset in the Searched Asset'
+Sep 18,2016 16:21:52 [info]  Clicked on the 'View Asset' using JS Executor
+Sep 18,2016 16:22:09 [info]  Verified that Expected value :[AUT_AssetSeries_09172016123703] is matched with Actual value :[AUT_AssetSeries_09172016123703]
+Sep 18,2016 16:22:11 [info]  Clicked on the 'Documents TAB'
+Sep 18,2016 16:22:15 [info]  ***********Verifying AllButtons Present on the Document TAB in view Mode***********
+Sep 18,2016 16:22:16 [info]  Verified that Expected value :[View Document] is matched with Actual value :[View Document]
+Sep 18,2016 16:22:16 [info]  Verified that Expected value :[Add...] is matched with Actual value :[Add...]
+Sep 18,2016 16:22:16 [info]  Verified that Expected value :[Edit Profile] is matched with Actual value :[Edit Profile]
+Sep 18,2016 16:22:16 [info]  Verified that Expected value :[Delete] is matched with Actual value :[Delete]
+Sep 18,2016 16:22:16 [info]  Verified that Expected value :[Edit Documents] is matched with Actual value :[Edit Documents]
+Sep 18,2016 16:22:26 [info]  ====Failed===="Applies TO" is not Present
+Sep 18,2016 16:22:26 [info]  ******Verifying the Fields and Buttons on the Add Document Window******
+Sep 18,2016 16:22:26 [info]  Clicked on the 'Document_AddDocumentButton' using JS Executor
+Sep 18,2016 16:22:30 [info]  Verified that Expected value :[*Applies To] is matched with Actual value :[*Applies To]
+Sep 18,2016 16:22:30 [info]  Verified that Expected value :[*Document Name] is matched with Actual value :[*Document Name]
+Sep 18,2016 16:22:30 [info]  Verified that Expected value :[*Document Type] is matched with Actual value :[*Document Type]
+Sep 18,2016 16:22:30 [info]  Verified that Expected value :[Document Date] is matched with Actual value :[Document Date]
+Sep 18,2016 16:22:31 [info]  Verified that Expected value :[Description] is matched with Actual value :[Description]
+Sep 18,2016 16:22:31 [info]  Buttons
+Sep 18,2016 16:22:31 [info]  =======
+Sep 18,2016 16:22:31 [info]  Save
+Sep 18,2016 16:22:31 [info]  Cancel
+Sep 18,2016 16:22:31 [info]  *****Verifying all Associated Assets
+Sep 18,2016 16:22:31 [info]  Verified that Expected value :[AUT_AssetSeries_09172016123703] is matched with Actual value :[AUT_AssetSeries_09172016123703]
+Sep 18,2016 16:22:31 [info]  Drop Down values of Applies TO DropDown Values
+Sep 18,2016 16:22:31 [info]  Actual Drop Down Values are: 
+[AUT_AssetSeries_09172016123703, Season 1, Ep.101: Episode101, Ep.102: Episode102, Season 2, Ep.201: Episode201, Ep.202: Episode202]
+Sep 18,2016 16:22:31 [info]  Expected Drop Down Values are: 
+[AUT_AssetSeries_09172016123703, Season 1, Ep.101: Episode101, Ep.102: Episode102, Season 2, Ep.201: Episode201, Ep.202: Episode202]
+Sep 18,2016 16:22:31 [info]  Total Number of Dropdown Valus in Applies TO DropDown Values:7
+Sep 18,2016 16:22:32 [info]  Selected "Amendment" in "Document_AddDoc_DocTypeDropDown" drop down
+Sep 18,2016 16:22:32 [info]  Verified that Expected value :[Amendment] is matched with Actual value :[Amendment]
+Sep 18,2016 16:22:34 [info]  Entered "Declaration from the Legal HeirDeclaration 1234567890 @#$% @&*" in field 'Document_AddDoc_DocNameField'
+Sep 18,2016 16:22:34 [info]  Clicked on the 'Outside the Document Name Field'
+Sep 18,2016 16:22:35 [info]  Verified that Expected value :[Please enter a valid file name!] is matched with Actual value :[  RightsLogic Alert  
+    Please enter a valid file name!
+       ]
+Sep 18,2016 16:22:35 [info]  Clicked on the 'OK Button at Alert on Entering the invalid Names' using JS Executor
+Sep 18,2016 16:22:36 [info]  Entered "AT_Document_Name_001" in field 'Document_AddDoc_DocNameField'
+Sep 18,2016 16:22:36 [info]  Clicked on the 'Save Button at 'Add Document Window'' using JS Executor
+Sep 18,2016 16:22:37 [info]  Test 'TC1_DocumentUI' FAILED
+Sep 18,2016 16:22:37 [info]  2
+Sep 18,2016 16:22:37 [info]  Test Case :TC1_DocumentUI's Screenshot of Failure Page: C:\SeleniumProject\Screenshots\Sep2016\\18\TC1_DocumentUI_09-18-2016 4-22-37 PM.jpg
+Sep 18,2016 16:22:38 [info]  Closed the Browser
+Sep 18,2016 16:42:58 [info]  ********************Started Executiong the Test Suite at 16:42:58******************
+Sep 18,2016 16:42:58 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Sep 18,2016 16:42:58 [info]  *********************Started Executing 'TC1_DocumentUI' Test Case*********************
+Sep 18,2016 16:43:08 [info]  Client: AMCN
+Sep 18,2016 16:43:08 [info]  URL: http://rlv2wb79/login.aspx
+Sep 18,2016 16:43:08 [info]  UserName: automation
+Sep 18,2016 16:43:08 [info]  Password: automation
+Sep 18,2016 16:43:08 [info]  Entered "automation" in field 'User Name'
+Sep 18,2016 16:43:09 [info]  Clicked on the 'Temporary Check Box'
+Sep 18,2016 16:43:09 [info]  Entered "automation" in field 'Password'
+Sep 18,2016 16:43:18 [info]  Clicked on the 'LoginButton'
+Sep 18,2016 16:43:24 [info]  AUT_AssetSeries_09172016123703
+Sep 18,2016 16:43:25 [info]  Clicked on the 'MODULE'
+Sep 18,2016 16:43:35 [info]  Clicked on the 'Asset Maintenance'
+Sep 18,2016 16:43:39 [info]  Clicked on the 'Search Menu Icon' using JS Executor
+Sep 18,2016 16:43:39 [info]  Clicked on the 'AssetSearchUnderAsset' using JS Executor
+Sep 18,2016 16:43:51 [info]  Entered "AUT_AssetSeries_09172016123703" in field 'AssetTitle'
+Sep 18,2016 16:43:51 [info]  Clicked on the 'All Check Box' using JS Executor
+Sep 18,2016 16:43:51 [info]  Clicked on the 'Find Button' using JS Executor
+Sep 18,2016 16:44:07 [info]  Moved Mouse over 'First Asset in the Searched Asset'
+Sep 18,2016 16:44:08 [info]  Clicked on the 'First Asset in the Searched Asset'
+Sep 18,2016 16:44:11 [info]  Clicked on the 'View Asset' using JS Executor
+Sep 18,2016 16:44:29 [info]  Verified that Expected value :[AUT_AssetSeries_09172016123703] is matched with Actual value :[AUT_AssetSeries_09172016123703]
+Sep 18,2016 16:44:30 [info]  Clicked on the 'Documents TAB'
+Sep 18,2016 16:44:34 [info]  ***********Verifying AllButtons Present on the Document TAB in view Mode***********
+Sep 18,2016 16:44:35 [info]  Verified that Expected value :[View Document] is matched with Actual value :[View Document]
+Sep 18,2016 16:44:35 [info]  Verified that Expected value :[Add...] is matched with Actual value :[Add...]
+Sep 18,2016 16:44:35 [info]  Verified that Expected value :[Edit Profile] is matched with Actual value :[Edit Profile]
+Sep 18,2016 16:44:36 [info]  Verified that Expected value :[Delete] is matched with Actual value :[Delete]
+Sep 18,2016 16:44:36 [info]  Verified that Expected value :[Edit Documents] is matched with Actual value :[Edit Documents]
+Sep 18,2016 16:44:46 [info]  ====Failed===="Applies TO" is not Present
+Sep 18,2016 16:44:46 [info]  ******Verifying the Fields and Buttons on the Add Document Window******
+Sep 18,2016 16:44:46 [info]  Clicked on the 'Document_AddDocumentButton' using JS Executor
+Sep 18,2016 16:44:49 [info]  Verified that Expected value :[*Applies To] is matched with Actual value :[*Applies To]
+Sep 18,2016 16:44:49 [info]  Verified that Expected value :[*Document Name] is matched with Actual value :[*Document Name]
+Sep 18,2016 16:44:50 [info]  Verified that Expected value :[*Document Type] is matched with Actual value :[*Document Type]
+Sep 18,2016 16:44:50 [info]  Verified that Expected value :[Document Date] is matched with Actual value :[Document Date]
+Sep 18,2016 16:44:50 [info]  Verified that Expected value :[Description] is matched with Actual value :[Description]
+Sep 18,2016 16:44:50 [info]  Buttons
+Sep 18,2016 16:44:50 [info]  =======
+Sep 18,2016 16:44:50 [info]  Save
+Sep 18,2016 16:44:50 [info]  Cancel
+Sep 18,2016 16:44:50 [info]  *****Verifying all Associated Assets
+Sep 18,2016 16:44:50 [info]  Verified that Expected value :[AUT_AssetSeries_09172016123703] is matched with Actual value :[AUT_AssetSeries_09172016123703]
+Sep 18,2016 16:44:51 [info]  Drop Down values of Applies TO DropDown Values
+Sep 18,2016 16:44:51 [info]  Actual Drop Down Values are: 
+[AUT_AssetSeries_09172016123703, Season 1, Ep.101: Episode101, Ep.102: Episode102, Season 2, Ep.201: Episode201, Ep.202: Episode202]
+Sep 18,2016 16:44:51 [info]  Expected Drop Down Values are: 
+[AUT_AssetSeries_09172016123703, Season 1, Ep.101: Episode101, Ep.102: Episode102, Season 2, Ep.201: Episode201, Ep.202: Episode202]
+Sep 18,2016 16:44:51 [info]  Total Number of Dropdown Valus in Applies TO DropDown Values:7
+Sep 18,2016 16:44:51 [info]  Selected "Amendment" in "Document_AddDoc_DocTypeDropDown" drop down
+Sep 18,2016 16:44:51 [info]  Verified that Expected value :[Amendment] is matched with Actual value :[Amendment]
+Sep 18,2016 16:44:53 [info]  Entered "Declaration from the Legal HeirDeclaration 1234567890 @#$% @&*" in field 'Document_AddDoc_DocNameField'
+Sep 18,2016 16:44:53 [info]  Clicked on the 'Outside the Document Name Field'
+Sep 18,2016 16:44:54 [info]  Verified that Expected value :[Please enter a valid file name!] is matched with Actual value :[  RightsLogic Alert  
+    Please enter a valid file name!
+       ]
+Sep 18,2016 16:44:54 [info]  Clicked on the 'OK Button at Alert on Entering the invalid Names' using JS Executor
+Sep 18,2016 16:44:55 [info]  Entered "AT_Document_Name_001" in field 'Document_AddDoc_DocNameField'
+Sep 18,2016 16:44:55 [info]  Clicked on the 'Save Button at 'Add Document Window'' using JS Executor
+Sep 18,2016 16:44:58 [info]  Verified that Expected value :[  Please select a document to upload.  ] is matched with Actual value :[  Please select a document to upload.  ]
+Sep 18,2016 16:45:01 [info]  Entered "C:\SeleniumProject\Inputdata\Inputfiles\AUTTestFile100KB.bmp" in field 'Upload File 'AUTTestFile100KB.bmp''
+Sep 18,2016 16:45:05 [info]  Entered "12/31/2010" in field 'Document Date'
+Sep 18,2016 16:45:08 [info]  Entered "Amendment" in field 'Document Discription'
+Sep 18,2016 16:45:08 [info]  Clicked on the 'Save Button at 'Add Document Window'' using JS Executor
+Sep 18,2016 16:45:11 [info]  ****Verifying all the Headers Name shown in View Mode After adding the Document****
+Sep 18,2016 16:45:15 [info]  Verified that Expected value :[Document Type] is matched with Actual value :[Document Type]
+Sep 18,2016 16:45:15 [info]  Verified that Expected value :[Document Name] is matched with Actual value :[Document Name]
+Sep 18,2016 16:45:15 [info]  Verified that Expected value :[Document Date] is matched with Actual value :[Document Date]
+Sep 18,2016 16:45:15 [info]  Verified that Expected value :[Description] is matched with Actual value :[Description]
+Sep 18,2016 16:45:15 [info]  Verified that Expected value :[Description] is matched with Actual value :[Description]
+Sep 18,2016 16:45:15 [info]  Verified that Expected value :[Description] is matched with Actual value :[Description]
+Sep 18,2016 16:45:15 [info]  ****Verifying all the Header's Values are shown orrectly in View Mode After adding the Document****
+Sep 18,2016 16:45:15 [info]  Verified that Expected value :[Amendment] is matched with Actual value :[Amendment]
+Sep 18,2016 16:45:16 [info]  Verified that Expected value :[AT_Document_Name_001] is matched with Actual value :[AT_Document_Name_001.bmp]
+Sep 18,2016 16:45:16 [info]  Verified that Expected value :[12/31/2010] is matched with Actual value :[12/31/2010]
+Sep 18,2016 16:45:16 [info]  Verified that Expected value :[Amendment] is matched with Actual value :[                                                <img title="Amendment" align="middle" class="businessTM" id="uwgDocuments_ctl00_0_0_it18_0_ImgBusinessTerm" style="" alt="Desciption" src="/images/new/comment.png">                                            ]
+Sep 18,2016 16:45:16 [info]  ******Click on View Button without selecting the row******
+Sep 18,2016 16:45:16 [info]  Clicked on the 'View Button' using JS Executor
+Sep 18,2016 16:45:17 [info]  Verified that Expected value :[Please select a row which contains document before clicking View Document.] is matched with Actual value :[  RightsLogic Alert  
+    Please select a row which contains document before clicking View Document.
+       ]
+Sep 18,2016 16:45:17 [info]  Clicked on the 'OK Button at Alert on clicking 'View Button'' using JS Executor
+Sep 18,2016 16:45:17 [info]  ******Click on Edit Button without selecting the row******
+Sep 18,2016 16:45:17 [info]  Clicked on the 'Edit Button' using JS Executor
+Sep 18,2016 16:45:18 [info]  Verified that Expected value :[Please select a row which contains document before clicking Edit Profile] is matched with Actual value :[  RightsLogic Alert  
+    Please select a row which contains document before clicking Edit Profile.
+       ]
+Sep 18,2016 16:45:18 [info]  Clicked on the 'OK Button at Alert on clicking 'View Button'' using JS Executor
+Sep 18,2016 16:45:18 [info]  ******Click on Edit Button without selecting the row******
+Sep 18,2016 16:45:18 [info]  Clicked on the 'Select the Row in View Mode'
+Sep 18,2016 16:45:18 [info]  Clicked on the 'Edit Button' using JS Executor
+Sep 18,2016 16:45:19 [info]  *****************************************************
+Sep 18,2016 16:45:33 [info]  Failed:The Validation message is not taken place
+Sep 18,2016 16:45:33 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Sep2016\\18\TC1_DocumentUI_CheckpointFailure_09-18-2016 4-45-33 PM.jpg
+Sep 18,2016 16:45:43 [info]  The Field AppliesTO is not exists
+Sep 18,2016 16:46:24 [info]  Test 'TC1_DocumentUI' FAILED
+Sep 18,2016 16:46:24 [info]  2
+Sep 18,2016 16:46:24 [info]  Test Case :TC1_DocumentUI's Screenshot of Failure Page: C:\SeleniumProject\Screenshots\Sep2016\\18\TC1_DocumentUI_09-18-2016 4-46-24 PM.jpg
+Sep 18,2016 16:46:25 [info]  Closed the Browser
+Sep 18,2016 20:51:59 [info]  ********************Started Executiong the Test Suite at 20:51:59******************
+Sep 18,2016 20:52:00 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Sep 18,2016 20:52:00 [info]  *********************Started Executing 'TC1_DocumentUI' Test Case*********************
+Sep 18,2016 20:52:16 [info]  Client: AMCN
+Sep 18,2016 20:52:16 [info]  URL: http://rlv2wb79/login.aspx
+Sep 18,2016 20:52:16 [info]  UserName: automation
+Sep 18,2016 20:52:16 [info]  Password: automation
+Sep 18,2016 20:52:19 [info]  Entered "automation" in field 'User Name'
+Sep 18,2016 20:52:19 [info]  Clicked on the 'Temporary Check Box'
+Sep 18,2016 20:52:20 [info]  Entered "automation" in field 'Password'
+Sep 18,2016 20:52:29 [info]  Clicked on the 'LoginButton'
+Sep 18,2016 20:52:35 [info]  AUT_AssetSeries_0918201685235
+Sep 18,2016 20:52:36 [info]  ************************Started Creating Asset of Type: Program - Series************************
+Sep 18,2016 20:52:37 [info]  Clicked on the 'MODULE'
+Sep 18,2016 20:52:48 [info]  Clicked on the 'Asset Maintenance'
+Sep 18,2016 20:52:56 [info]  Clicked on the 'New Button' using JS Executor
+Sep 18,2016 20:52:56 [info]  Clicked on the 'Program' using JS Executor
+Sep 18,2016 20:53:05 [info]  Clicked on the 'General TAB'
+Sep 18,2016 20:53:08 [info]  Selected "Program - Series" in "AssetTypeDropDown" drop down
+Sep 18,2016 20:53:19 [info]  Entered "AUT_AssetSeries_0918201685235" in field 'AssetTitle'
+Sep 18,2016 20:53:28 [info]  Clicked on the 'Vendor Img Icon' using JS Executor
+Sep 18,2016 20:53:30 [info]  Entered "AMCN_Vendor1" in field 'SearchvalueVendor'
+Sep 18,2016 20:53:32 [info]  Clicked on the 'VendorWindowButtonfind' using JS Executor
+Sep 18,2016 20:53:35 [info]  Clicked on the 'VendorName At VendorWindow'
+Sep 18,2016 20:53:36 [info]  Clicked on the 'Vendor Select Button' using JS Executor
+Sep 18,2016 20:53:40 [info]  Clicked on the 'StudioImageIcon' using JS Executor
+Sep 18,2016 20:53:41 [info]  Verified that Expected value :[Studio] is matched with Actual value :[Studio]
+Sep 18,2016 20:53:43 [info]  Entered "AMCN_Studio" in field 'Studio Name'
+Sep 18,2016 20:53:43 [info]  Clicked on the 'Find Button' using JS Executor
+Sep 18,2016 20:53:44 [info]  Clicked on the 'Searched Studio: 'AMCN_Studio''
+Sep 18,2016 20:53:44 [info]  Clicked on the 'Select Button at Studio Window' using JS Executor
+Sep 18,2016 20:53:51 [info]  Clicked on the 'SBUImage' using JS Executor
+Sep 18,2016 20:53:53 [info]  Verified that Expected value :[Source Business Unit Template] is matched with Actual value :[Source Business Unit Template]
+Sep 18,2016 20:53:54 [info]  Clicked on the ''Select All' CheckBox at SBU' using JS Executor
+Sep 18,2016 20:54:00 [info]  Clicked on the 'First CheckBox At SBU window'
+Sep 18,2016 20:54:00 [info]  Clicked on the 'Ninth CheckBox At SBU winodw'
+Sep 18,2016 20:54:02 [info]  Clicked on the 'Apply Button' using JS Executor
+Sep 18,2016 20:54:03 [info]  Entered "11:11:11" in field 'Duration'
+Sep 18,2016 20:54:14 [info]  Selected "Production" in "Asset Status" drop down
+Sep 18,2016 20:54:14 [info]  Selected "Licensed Acquired" in "Asset Source" drop down
+Sep 18,2016 20:54:15 [info]  Selected "TBD" in "Asset Category/Group" drop down
+Sep 18,2016 20:54:16 [info]  Entered "AUT_Series" in field 'Short Name'
+Sep 18,2016 20:54:16 [info]  Entered "Test" in field 'ProjectID'
+Sep 18,2016 20:54:17 [info]  Clicked on the 'Genre Add Button' using JS Executor
+Sep 18,2016 20:54:17 [info]  Clicked on the 'Genre Type Row Field' using JS Executor
+Sep 18,2016 20:54:17 [info]  Clicked on the 'Genere Type Dropdown Image'
+Sep 18,2016 20:54:18 [info]  Clicked on the 'First Genere Type DropDown Value in the list'
+Sep 18,2016 20:54:18 [info]  Clicked on the 'Genre Row Field' using JS Executor
+Sep 18,2016 20:54:18 [info]  Clicked on the 'Genere Dropdown Image'
+Sep 18,2016 20:54:19 [info]  Clicked on the 'Genere Dropdown value'
+Sep 18,2016 20:54:19 [info]  Clicked on the 'Add Button of Note' using JS Executor
+Sep 18,2016 20:54:22 [info]  Entered "Medium" in field 'Asset Priority'
+Sep 18,2016 20:54:22 [info]  Entered "Subject For the Deal" in field 'Asset Subject'
+Sep 18,2016 20:54:23 [info]  Entered "New Asset" in field 'AssetNotes TextField'
+Sep 18,2016 20:54:24 [info]  Clicked on the 'OK button'
+Sep 18,2016 20:54:26 [info]  Clicked on the 'Save Button' using JS Executor
+Sep 18,2016 20:54:44 [info]  Verified that Expected value :[AUT_AssetSeries_0918201685235] is matched with Actual value :[AUT_AssetSeries_0918201685235]
+Sep 18,2016 20:54:44 [info]  ************************Created Asset of TypeProgram - Series************************
+Sep 18,2016 20:54:45 [info]  Clicked on the 'MODULE'
+Sep 18,2016 20:54:56 [info]  Clicked on the 'Asset Maintenance'
+Sep 18,2016 20:54:59 [info]  Clicked on the 'Search Menu Icon' using JS Executor
+Sep 18,2016 20:54:59 [info]  Clicked on the 'AssetSearchUnderAsset' using JS Executor
+Sep 18,2016 20:55:14 [info]  Entered "AUT_AssetSeries_0918201685235" in field 'AssetTitle'
+Sep 18,2016 20:55:14 [info]  Clicked on the 'All Check Box' using JS Executor
+Sep 18,2016 20:55:14 [info]  Clicked on the 'Find Button' using JS Executor
+Sep 18,2016 20:55:36 [info]  Moved Mouse over 'First Asset in the Searched Asset'
+Sep 18,2016 20:55:36 [info]  Clicked on the 'First Asset in the Searched Asset'
+Sep 18,2016 20:55:39 [info]  Clicked on the 'View Asset' using JS Executor
+Sep 18,2016 20:55:57 [info]  Verified that Expected value :[AUT_AssetSeries_0918201685235] is matched with Actual value :[AUT_AssetSeries_0918201685235]
+Sep 18,2016 20:56:06 [info]  Clicked on the 'Episodes TAB'
+Sep 18,2016 20:56:09 [info]  Clicked on the ''Edit' Button at Episode window' using JS Executor
+Sep 18,2016 20:56:12 [info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Sep 18,2016 20:56:13 [info]  Entered "101" in field 'Add Episode input field'
+Sep 18,2016 20:56:14 [info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Sep 18,2016 20:56:17 [info]  Clicked on the 'Season Field of Episode101' using JS Executor
+Sep 18,2016 20:56:17 [info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Sep 18,2016 20:56:18 [info]  Clicked on the 'Season 1'
+Sep 18,2016 20:56:18 [info]  Clicked on the 'Support click to select season'
+Sep 18,2016 20:56:22 [info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Sep 18,2016 20:56:23 [info]  Entered "102" in field 'Add Episode input field'
+Sep 18,2016 20:56:23 [info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Sep 18,2016 20:56:26 [info]  Clicked on the 'Season Field of Episode102' using JS Executor
+Sep 18,2016 20:56:27 [info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Sep 18,2016 20:56:27 [info]  Clicked on the 'Season 1'
+Sep 18,2016 20:56:28 [info]  Clicked on the 'Support click to select season'
+Sep 18,2016 20:56:28 [info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Sep 18,2016 20:56:29 [info]  Entered "201" in field 'Add Episode input field'
+Sep 18,2016 20:56:29 [info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Sep 18,2016 20:56:33 [info]  Clicked on the 'Season Field of Episode201' using JS Executor
+Sep 18,2016 20:56:33 [info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Sep 18,2016 20:56:34 [info]  Clicked on the 'Season 2'
+Sep 18,2016 20:56:34 [info]  Clicked on the 'Support click to select season'
+Sep 18,2016 20:56:37 [info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Sep 18,2016 20:56:38 [info]  Entered "202" in field 'Add Episode input field'
+Sep 18,2016 20:56:38 [info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Sep 18,2016 20:56:44 [info]  Clicked on the 'Support click to select season'
+Sep 18,2016 20:56:44 [info]  Clicked on the 'Season Field of Episode201' using JS Executor
+Sep 18,2016 20:56:45 [info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Sep 18,2016 20:56:45 [info]  Clicked on the 'Season 2'
+Sep 18,2016 20:56:46 [info]  Clicked on the 'Support click to select season'
+Sep 18,2016 20:56:49 [info]  Clicked on the 'Save Button at 'Episode Edit Window'' using JS Executor
+Sep 18,2016 20:57:04 [info]  Clicked on the 'Close Button at 'Episode Edit Window'' using JS Executor
+Sep 18,2016 20:57:11 [info]  Clicked on the 'MODULE'
+Sep 18,2016 20:57:23 [info]  Clicked on the 'Asset Maintenance'
+Sep 18,2016 20:57:26 [info]  Clicked on the 'Search Menu Icon' using JS Executor
+Sep 18,2016 20:57:26 [info]  Clicked on the 'AssetSearchUnderAsset' using JS Executor
+Sep 18,2016 20:57:39 [info]  Entered "AUT_AssetSeries_0918201685235" in field 'AssetTitle'
+Sep 18,2016 20:57:39 [info]  Clicked on the 'All Check Box' using JS Executor
+Sep 18,2016 20:57:39 [info]  Clicked on the 'Find Button' using JS Executor
+Sep 18,2016 20:57:55 [info]  Moved Mouse over 'First Asset in the Searched Asset'
+Sep 18,2016 20:57:56 [info]  Clicked on the 'First Asset in the Searched Asset'
+Sep 18,2016 20:57:59 [info]  Clicked on the 'View Asset' using JS Executor
+Sep 18,2016 20:58:17 [info]  Verified that Expected value :[AUT_AssetSeries_0918201685235] is matched with Actual value :[AUT_AssetSeries_0918201685235]
+Sep 18,2016 20:58:19 [info]  Clicked on the 'Documents TAB'
+Sep 18,2016 20:58:23 [info]  ***********Verifying AllButtons Present on the Document TAB in view Mode***********
+Sep 18,2016 20:58:23 [info]  Verified that Expected value :[View Document] is matched with Actual value :[View Document]
+Sep 18,2016 20:58:23 [info]  Verified that Expected value :[Add...] is matched with Actual value :[Add...]
+Sep 18,2016 20:58:23 [info]  Verified that Expected value :[Edit Profile] is matched with Actual value :[Edit Profile]
+Sep 18,2016 20:58:23 [info]  Verified that Expected value :[Delete] is matched with Actual value :[Delete]
+Sep 18,2016 20:58:23 [info]  Verified that Expected value :[Edit Documents] is matched with Actual value :[Edit Documents]
+Sep 18,2016 20:58:34 [info]  ====Failed===="Applies TO" is not Present
+Sep 18,2016 20:58:34 [info]  ******Verifying the Fields and Buttons on the Add Document Window******
+Sep 18,2016 20:58:34 [info]  Clicked on the 'Document_AddDocumentButton' using JS Executor
+Sep 18,2016 20:58:37 [info]  Verified that Expected value :[*Applies To] is matched with Actual value :[*Applies To]
+Sep 18,2016 20:58:37 [info]  Verified that Expected value :[*Document Name] is matched with Actual value :[*Document Name]
+Sep 18,2016 20:58:38 [info]  Verified that Expected value :[*Document Type] is matched with Actual value :[*Document Type]
+Sep 18,2016 20:58:38 [info]  Verified that Expected value :[Document Date] is matched with Actual value :[Document Date]
+Sep 18,2016 20:58:38 [info]  Verified that Expected value :[Description] is matched with Actual value :[Description]
+Sep 18,2016 20:58:38 [info]  Buttons
+Sep 18,2016 20:58:38 [info]  =======
+Sep 18,2016 20:58:38 [info]  Save
+Sep 18,2016 20:58:38 [info]  Cancel
+Sep 18,2016 20:58:38 [info]  *****Verifying all Associated Assets*****
+Sep 18,2016 20:58:38 [info]  Verified that Expected value :[AUT_AssetSeries_0918201685235] is matched with Actual value :[AUT_AssetSeries_0918201685235]
+Sep 18,2016 20:58:39 [info]  Drop Down values of Applies TO DropDown Values
+Sep 18,2016 20:58:39 [info]  Actual Drop Down Values are: 
+[AUT_AssetSeries_0918201685235, Season 1, Ep.101: Episode101, Ep.102: Episode102, Season 2, Ep.201: Episode201, Ep.202: Episode202]
+Sep 18,2016 20:58:39 [info]  Expected Drop Down Values are: 
+[AUT_AssetSeries_09172016123703, Season 1, Ep.101: Episode101, Ep.102: Episode102, Season 2, Ep.201: Episode201, Ep.202: Episode202]
+Sep 18,2016 20:58:39 [info]  Total Number of Dropdown Valus in Applies TO DropDown Values:7
+Sep 18,2016 20:58:39 [info]  =========Failed=======Actual Dropdown values of Applies TO DropDown ValuesDoes not match Expected [AUT_AssetSeries_09172016123703]ButActual is [AUT_AssetSeries_0918201685235]
+Sep 18,2016 20:58:39 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Sep2016\\18\Applies TO DropDown Values_CheckpointFailure_09-18-2016 8-58-39 PM.jpg
+Sep 18,2016 20:58:40 [info]  Selected "Amendment" in "Document_AddDoc_DocTypeDropDown" drop down
+Sep 18,2016 20:58:40 [info]  Verified that Expected value :[Amendment] is matched with Actual value :[Amendment]
+Sep 18,2016 20:58:42 [info]  Entered "Declaration from the Legal HeirDeclaration 1234567890 @#$% @&*" in field 'Document_AddDoc_DocNameField'
+Sep 18,2016 20:58:42 [info]  Clicked on the 'Outside the Document Name Field'
+Sep 18,2016 20:58:43 [info]  Verified that Expected value :[Please enter a valid file name!] is matched with Actual value :[  RightsLogic Alert  
+    Please enter a valid file name!
+       ]
+Sep 18,2016 20:58:43 [info]  Clicked on the 'OK Button at Alert on Entering the invalid Names' using JS Executor
+Sep 18,2016 20:58:44 [info]  Entered "AT_Document_Name_001" in field 'Document_AddDoc_DocNameField'
+Sep 18,2016 20:58:44 [info]  Clicked on the 'Save Button at 'Add Document Window'' using JS Executor
+Sep 18,2016 20:58:48 [info]  Verified that Expected value :[  Please select a document to upload.  ] is matched with Actual value :[  Please select a document to upload.  ]
+Sep 18,2016 20:58:51 [info]  Entered "C:\SeleniumProject\Inputdata\Inputfiles\AUTTestFile100KB.bmp" in field 'Upload File 'AUTTestFile100KB.bmp''
+Sep 18,2016 20:58:54 [info]  Entered "12/31/2010" in field 'Document Date'
+Sep 18,2016 20:58:58 [info]  Entered "Amendment" in field 'Document Discription'
+Sep 18,2016 20:58:58 [info]  Clicked on the 'Save Button at 'Add Document Window'' using JS Executor
+Sep 18,2016 20:59:01 [info]  ****Verifying all the Headers Name shown in View Mode After adding the Document****
+Sep 18,2016 20:59:05 [info]  Verified that Expected value :[Document Type] is matched with Actual value :[Document Type]
+Sep 18,2016 20:59:05 [info]  Verified that Expected value :[Document Name] is matched with Actual value :[Document Name]
+Sep 18,2016 20:59:05 [info]  Verified that Expected value :[Document Date] is matched with Actual value :[Document Date]
+Sep 18,2016 20:59:05 [info]  Verified that Expected value :[Description] is matched with Actual value :[Description]
+Sep 18,2016 20:59:05 [info]  Verified that Expected value :[Description] is matched with Actual value :[Description]
+Sep 18,2016 20:59:05 [info]  Verified that Expected value :[Description] is matched with Actual value :[Description]
+Sep 18,2016 20:59:05 [info]  ****Verifying all the Header's Values are shown orrectly in View Mode After adding the Document****
+Sep 18,2016 20:59:06 [info]  Verified that Expected value :[Amendment] is matched with Actual value :[Amendment]
+Sep 18,2016 20:59:06 [info]  Verified that Expected value :[AT_Document_Name_001] is matched with Actual value :[AT_Document_Name_001.bmp]
+Sep 18,2016 20:59:06 [info]  Verified that Expected value :[12/31/2010] is matched with Actual value :[12/31/2010]
+Sep 18,2016 20:59:06 [info]  Verified that Expected value :[Amendment] is matched with Actual value :[                                                <img title="Amendment" align="middle" class="businessTM" id="uwgDocuments_ctl00_0_0_it18_0_ImgBusinessTerm" style="" alt="Desciption" src="/images/new/comment.png">                                            ]
+Sep 18,2016 20:59:06 [info]  ******Click on View Button without selecting the row******
+Sep 18,2016 20:59:06 [info]  Clicked on the 'View Button' using JS Executor
+Sep 18,2016 20:59:07 [info]  Verified that Expected value :[Please select a row which contains document before clicking View Document.] is matched with Actual value :[  RightsLogic Alert  
+    Please select a row which contains document before clicking View Document.
+       ]
+Sep 18,2016 20:59:07 [info]  Clicked on the 'OK Button at Alert on clicking 'View Button'' using JS Executor
+Sep 18,2016 20:59:07 [info]  ******Click on Edit Button without selecting the row******
+Sep 18,2016 20:59:08 [info]  Clicked on the 'Edit Button' using JS Executor
+Sep 18,2016 20:59:08 [info]  Verified that Expected value :[Please select a row which contains document before clicking Edit Profile] is matched with Actual value :[  RightsLogic Alert  
+    Please select a row which contains document before clicking Edit Profile.
+       ]
+Sep 18,2016 20:59:09 [info]  Clicked on the 'OK Button at Alert on clicking 'View Button'' using JS Executor
+Sep 18,2016 20:59:09 [info]  ******Click on Edit Document Button and change the data and verify in view mode******
+Sep 18,2016 20:59:09 [info]  Clicked on the 'Select the Row in View Mode'
+Sep 18,2016 20:59:09 [info]  Clicked on the 'Edit Button' using JS Executor
+Sep 18,2016 20:59:11 [info]  Selected "CSF" in "Document_AddDoc_DocTypeDropDown" drop down
+Sep 18,2016 20:59:11 [info]  Verified that Expected value :[CSF] is matched with Actual value :[CSF]
+Sep 18,2016 20:59:13 [info]  Entered "AT_Document_Name_001_Changed" in field 'Document_AddDoc_DocNameField'
+Sep 18,2016 20:59:16 [info]  Entered "Amendment" in field 'Document Discription'
+Sep 18,2016 20:59:16 [info]  Clicked on the 'Save Button at 'Add Document Window'' using JS Executor
+Sep 18,2016 20:59:20 [info]  Verified that Expected value :[CSF] is matched with Actual value :[CSF]
+Sep 18,2016 20:59:20 [info]  Verified that Expected value :[AT_Document_Name_001_Changed] is matched with Actual value :[AT_Document_Name_001_Changed.bmp]
+Sep 18,2016 20:59:20 [info]  ******Click on Edit Button without selecting the row******
+Sep 18,2016 20:59:20 [info]  Clicked on the 'Delete Document Button' using JS Executor
+Sep 18,2016 20:59:21 [info]  Verified that Expected value :[Please select a row before clicking Delete.] is matched with Actual value :[  RightsLogic Alert  
+    Please select a row before clicking Delete.
+       ]
+Sep 18,2016 20:59:21 [info]  Clicked on the 'OK Button at Alert on clicking 'View Button'' using JS Executor
+Sep 18,2016 20:59:21 [info]  ******Remove/Delete the Document row******
+Sep 18,2016 20:59:22 [info]  Clicked on the 'Select the Row in View Mode'
+Sep 18,2016 20:59:22 [info]  Clicked on the 'Delete Document Button' using JS Executor
+Sep 18,2016 20:59:32 [info]  ====Failed===="Alert Message on clicking 'Remove Button'" is not Present
+Sep 18,2016 20:59:32 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Sep2016\\18\Alert Message on clicking 'Remove Button'_CheckpointFailure_09-18-2016 8-59-32 PM.jpg
+Sep 18,2016 20:59:43 [info]  Test 'TC1_DocumentUI' FAILED
+Sep 18,2016 20:59:43 [info]  2
+Sep 18,2016 20:59:43 [info]  Test Case :TC1_DocumentUI's Screenshot of Failure Page: C:\SeleniumProject\Screenshots\Sep2016\\18\TC1_DocumentUI_09-18-2016 8-59-43 PM.jpg
+Sep 18,2016 20:59:44 [info]  Closed the Browser
+Sep 18,2016 22:24:28 [info]  ********************Started Executiong the Test Suite at 22:24:28******************
+Sep 18,2016 22:24:28 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Sep 18,2016 22:24:28 [info]  *********************Started Executing 'TC1_ContibutorUI' Test Case*********************
+Sep 18,2016 22:24:37 [info]  Client: AMCN
+Sep 18,2016 22:24:37 [info]  URL: http://rlv2wb79/login.aspx
+Sep 18,2016 22:24:37 [info]  UserName: automation
+Sep 18,2016 22:24:37 [info]  Password: automation
+Sep 18,2016 22:24:41 [info]  Entered "automation" in field 'User Name'
+Sep 18,2016 22:24:42 [info]  Clicked on the 'Temporary Check Box'
+Sep 18,2016 22:24:42 [info]  Entered "automation" in field 'Password'
+Sep 18,2016 22:24:53 [info]  Clicked on the 'LoginButton'
+Sep 18,2016 22:25:34 [info]  Test 'TC1_ContibutorUI' FAILED
+Sep 18,2016 22:25:34 [info]  2
+Sep 18,2016 22:25:35 [info]  Test Case :TC1_ContibutorUI's Screenshot of Failure Page: C:\SeleniumProject\Screenshots\Sep2016\\18\TC1_ContibutorUI_09-18-2016 10-25-34 PM.jpg
+Sep 18,2016 22:25:41 [info]  Closed the Browser

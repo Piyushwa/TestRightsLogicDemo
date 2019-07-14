@@ -1,0 +1,925 @@
+<span style="color:red;">Mar 27,2017 00:51:31 [Fail]  ====Failed==== "Agreement Link" field is not present'</span>
+Mar 27,2017 03:51:31 [Info]  Test 'TC5_InternalDealforSeriesassets' FAILED
+Mar 27,2017 03:51:31 [Info]  2
+Mar 27,2017 06:51:31 [Info]  Test 'TC5_InternalDealforSeriesassets' FAILED
+Mar 27,2017 06:51:31 [Info]  2
+Mar 27,2017 09:55:36 [Info]  ********************Started Executiong the Test Suite at 09:55:36******************
+Mar 27,2017 09:55:36 [Info]  Client: SKY
+Mar 27,2017 09:55:36 [Info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Mar 27,2017 09:55:36 [Info]  *********************Started Executing 'TC1_AssetCreationTest' Test Case*********************
+Mar 27,2017 09:55:49 [Info]  Client: SKY
+Mar 27,2017 09:55:49 [Info]  URL: http://rlv2wb85/Home.aspx
+Mar 27,2017 09:55:49 [Info]  UserName: admin
+Mar 27,2017 09:55:49 [Info]  Password: admin
+Mar 27,2017 09:56:35 [Info]  Entered "admin" in field 'User Name'
+Mar 27,2017 09:56:35 [Info]  Clicked on the 'Temporary Check Box'
+Mar 27,2017 09:56:36 [Info]  Entered "admin" in field 'Password'
+Mar 27,2017 09:57:03 [Info]  Clicked on the 'LoginButton'
+Mar 27,2017 09:57:19 [Info]  Clicked on the 'MODULE'
+Mar 27,2017 09:57:26 [Info]  Clicked on the 'Title Maintenance'
+Mar 27,2017 09:57:37 [Info]  Clicked on the 'New Button' using JS Executor
+Mar 27,2017 09:57:56 [Info]  Clicked on the 'Program' using JS Executor
+Mar 27,2017 09:58:04 [Info]  Clicked on the 'General TAB'
+Mar 27,2017 09:58:04 [Info]  Verify The data of Asset Type
+<span style="color:green;">Mar 27,2017 09:58:04 [Verification]  Verified that Expected value :[*Title Type] is matched with Actual value :[*Title Type]</span>
+Mar 27,2017 09:58:04 [Info]  Verify The data of Asset Title
+<span style="color:green;">Mar 27,2017 09:58:04 [Verification]  Verified that Expected value :[*Title Name] is matched with Actual value :[*Title Name]</span>
+Mar 27,2017 09:58:04 [Info]  Verify The data of Series Title
+<span style="color:green;">Mar 27,2017 09:58:04 [Verification]  Verified that Expected value :[Series Title] is matched with Actual value :[Series Title]</span>
+Mar 27,2017 09:58:04 [Info]  Verify The data of SourceBusinessUnit
+<span style="color:green;">Mar 27,2017 09:58:04 [Verification]  Verified that Expected value :[*Source Business Unit] is matched with Actual value :[*Source Business Unit]</span>
+Mar 27,2017 09:58:05 [Info]  Verify The data of Duration
+<span style="color:green;">Mar 27,2017 09:58:05 [Verification]  Verified that Expected value :[Duration] is matched with Actual value :[Duration]</span>
+Mar 27,2017 09:58:05 [Info]  Verify The data of ShortName
+<span style="color:green;">Mar 27,2017 09:58:05 [Verification]  Verified that Expected value :[*EPG Name] is matched with Actual value :[*EPG Name]</span>
+Mar 27,2017 09:58:05 [Info]  Verify The data of AssetStatusLabel
+<span style="color:green;">Mar 27,2017 09:58:05 [Verification]  Verified that Expected value :[Title Status] is matched with Actual value :[Title Status]</span>
+Mar 27,2017 09:58:05 [Info]  Verify The data of Asset Source
+<span style="color:green;">Mar 27,2017 09:58:05 [Verification]  Verified that Expected value :[Title Source] is matched with Actual value :[Title Source]</span>
+Mar 27,2017 09:58:05 [Info]  Verify The data of Asset Format
+<span style="color:green;">Mar 27,2017 09:58:05 [Verification]  Verified that Expected value :[Title Category] is matched with Actual value :[Title Category]</span>
+Mar 27,2017 09:58:05 [Info]  Drop Down values of 'Program' Asset Type Drop Down are: 
+Mar 27,2017 09:58:05 [Info]  Actual Drop Down Values are: 
+[Program - Movie, Program - Series, Program - Special, Program - Event Standalone, Program - Event, Program - Interstitial]
+Mar 27,2017 09:58:05 [Info]  Expected Drop Down Values are: 
+[Program - Movie, Program - Series, Program - Special, Program - Event Standalone, Program - Event, Program - Interstitial]
+Mar 27,2017 09:58:05 [Info]  Total Number of Dropdown Valus in 'Program' Asset Type Drop Down:6
+<span style="color:green;">Mar 27,2017 09:58:05 [Verification]  Verified that [Program - Movie] is present in the dropdown 'Program' Asset Type Drop Down</span>
+<span style="color:green;">Mar 27,2017 09:58:05 [Verification]  Verified that [Program - Series] is present in the dropdown 'Program' Asset Type Drop Down</span>
+<span style="color:green;">Mar 27,2017 09:58:05 [Verification]  Verified that [Program - Special] is present in the dropdown 'Program' Asset Type Drop Down</span>
+<span style="color:green;">Mar 27,2017 09:58:05 [Verification]  Verified that [Program - Event Standalone] is present in the dropdown 'Program' Asset Type Drop Down</span>
+<span style="color:green;">Mar 27,2017 09:58:05 [Verification]  Verified that [Program - Event] is present in the dropdown 'Program' Asset Type Drop Down</span>
+<span style="color:green;">Mar 27,2017 09:58:05 [Verification]  Verified that [Program - Interstitial] is present in the dropdown 'Program' Asset Type Drop Down</span>
+Mar 27,2017 09:58:05 [Info]  Generated Asset Id is 1162985
+Mar 27,2017 09:58:17 [Info]  Clicked on the 'Save Button' using JS Executor
+Mar 27,2017 09:58:26 [Info]  Verify The data of AssertCreationValidationMessage
+<span style="color:green;">Mar 27,2017 09:58:26 [Verification]  Verified that Expected value :[Please enter values for required(*) fields.] is matched with Actual value :[Please enter values for required(*) fields.]</span>
+Mar 27,2017 09:58:39 [Info]  Selected "Program - Series" in "Asset Type Drop Down" drop down
+Mar 27,2017 09:58:42 [Info]  Entered "AUT_AssetSeries_0327201795709" in field 'AssetTitle'
+Mar 27,2017 09:58:42 [Info]  IP field is not available for "SKY"
+
+<span style="color:blue;"> [Manual Test Step] : TC_AM_GT_038</span>
+Mar 27,2017 09:58:43 [Info]  Selected "Sky Cinema Channels" in "SBU" drop down
+
+<span style="color:blue;"> [Manual Test Step] : TC_AM_GT_058</span>
+Mar 27,2017 09:58:43 [Info]  Entered "003000" in field 'Duration'
+Mar 27,2017 09:58:43 [Info]  Selected "Active" in "Asset Status" drop down
+Mar 27,2017 09:58:43 [Info]  Selected "Event" in "Asset Format" drop down
+Mar 27,2017 09:58:43 [Info]  Selected "License Acquired" in "Asset Source" drop down
+Mar 27,2017 09:58:44 [Info]  Entered "AUT_Series" in field 'Short Name'
+
+<span style="color:blue;"> [Manual Test Step] : TC_AM_GT_067</span>
+Mar 27,2017 09:58:44 [Info]  Clicked on the '*EPG Genre' using JS Executor
+Mar 27,2017 09:58:44 [Info]  Clicked on the 'Genere Type Dropdown Image'
+Mar 27,2017 09:58:44 [Info]  Clicked on the 'First Genere Type DropDown Value in the list'
+Mar 27,2017 09:58:44 [Info]  Clicked on the '*EPG Sub Genre' using JS Executor
+Mar 27,2017 09:58:44 [Info]  Clicked on the 'Genere Dropdown Image'
+Mar 27,2017 09:58:44 [Info]  Clicked on the 'Genere Dropdown value'
+Mar 27,2017 09:58:49 [Info]  Clicked on the 'Ok Button At Confirm Pop-Up' using JS Executor
+
+<span style="color:blue;"> [Manual Test Step] : TC_AM_GT_072</span>
+Mar 27,2017 09:59:01 [Info]  Clicked on the 'Add Button of Note' using JS Executor
+Mar 27,2017 09:59:04 [Info]  Entered "Medium" in field 'Asset Priority'
+Mar 27,2017 09:59:04 [Info]  Entered "Subject For the Deal" in field 'Asset Subject'
+Mar 27,2017 09:59:04 [Info]  Entered "New Asset" in field 'AssetNotes TextField'
+Mar 27,2017 09:59:04 [Info]  Clicked on the 'OK button'
+Mar 27,2017 09:59:09 [Info]  Clicked on the 'Note Complete Row' using JS Executor
+Mar 27,2017 09:59:09 [Info]  Clicked on the 'Remove Note' using JS Executor
+Mar 27,2017 09:59:09 [Info]  Verify The data of Alert Message
+<span style="color:green;">Mar 27,2017 09:59:09 [Verification]  Verified that Expected value :[Are you sure you want to Delete selected Notes?] is matched with Actual value :[Are you sure you want to Delete selected Notes?]</span>
+Mar 27,2017 09:59:09 [Info]  Clicked on the 'Ok Button At Confirm Pop-Up' using JS Executor
+Mar 27,2017 09:59:16 [Info]  Clicked on the 'Add Button of Note' using JS Executor
+Mar 27,2017 09:59:18 [Info]  Entered "Medium" in field 'Asset Priority'
+Mar 27,2017 09:59:18 [Info]  Entered "Subject For the Deal" in field 'Asset Subject'
+Mar 27,2017 09:59:18 [Info]  Entered "New Asset" in field 'AssetNotes TextField'
+Mar 27,2017 09:59:19 [Info]  Clicked on the 'OK button'
+Mar 27,2017 09:59:21 [Info]  Clicked on the 'Save Button' using JS Executor
+Mar 27,2017 09:59:47 [Info]  Verify The data of Created Asset
+<span style="color:green;">Mar 27,2017 09:59:47 [Verification]  Verified that Expected value :[AUT_AssetSeries_0327201795709] is matched with Actual value :[AUT_AssetSeries_0327201795709]</span>
+Mar 27,2017 09:59:47 [Info]  Test 'TC1_AssetCreationTest' PASSED
+Mar 27,2017 09:59:48 [Info]  Closed the Browser
+Mar 27,2017 09:59:48 [Info]  *********************Started Executing 'TC2_ProgramSummary' Test Case*********************
+Mar 27,2017 09:59:58 [Info]  Client: SKY
+Mar 27,2017 09:59:58 [Info]  URL: http://rlv2wb85/Home.aspx
+Mar 27,2017 09:59:58 [Info]  UserName: admin
+Mar 27,2017 09:59:58 [Info]  Password: admin
+Mar 27,2017 09:59:59 [Info]  Entered "admin" in field 'User Name'
+Mar 27,2017 09:59:59 [Info]  Clicked on the 'Temporary Check Box'
+Mar 27,2017 09:59:59 [Info]  Entered "admin" in field 'Password'
+Mar 27,2017 10:00:12 [Info]  Clicked on the 'LoginButton'
+Mar 27,2017 10:00:28 [Info]  Clicked on the 'MODULE'
+Mar 27,2017 10:00:34 [Info]  Clicked on the 'Title Maintenance'
+Mar 27,2017 10:00:48 [Info]  Double clicked on 'AUT_AssetSeries_0327201795709AssetName'
+Mar 27,2017 10:00:48 [Info]  *******************Program Summary*******************
+Mar 27,2017 10:00:51 [Info]  Verify The data of Program Summary Header
+<span style="color:green;">Mar 27,2017 10:00:51 [Verification]  Verified that Expected value :[Program Summary] is matched with Actual value :[Program Summary]</span>
+Mar 27,2017 10:00:51 [Info]  =====Source Id is===== 1162985
+Mar 27,2017 10:01:02 [Info]  =====CastORContacts is===== No element is present on Web Page (DriverHelper.getAttribute())
+Mar 27,2017 10:01:12 [Info]  =====Premier Date At ProgramSummary is===== No element is present on Web Page (DriverHelper.getAttribute())
+Mar 27,2017 10:01:12 [Info]  Test 'TC2_ProgramSummary' PASSED
+Mar 27,2017 10:01:12 [Info]  Closed the Browser
+Mar 27,2017 10:01:12 [Info]  *********************Started Executing 'TC3_VerifyProgSum' Test Case*********************
+Mar 27,2017 10:01:22 [Info]  Client: SKY
+Mar 27,2017 10:01:22 [Info]  URL: http://rlv2wb85/Home.aspx
+Mar 27,2017 10:01:22 [Info]  UserName: admin
+Mar 27,2017 10:01:22 [Info]  Password: admin
+Mar 27,2017 10:01:23 [Info]  Entered "admin" in field 'User Name'
+Mar 27,2017 10:01:23 [Info]  Clicked on the 'Temporary Check Box'
+Mar 27,2017 10:01:23 [Info]  Entered "admin" in field 'Password'
+Mar 27,2017 10:01:37 [Info]  Clicked on the 'LoginButton'
+Mar 27,2017 10:01:53 [Info]  Clicked on the 'MODULE'
+Mar 27,2017 10:01:59 [Info]  Clicked on the 'Title Maintenance'
+Mar 27,2017 10:02:09 [Info]  *************Checking Totals Hrs is updated with Episodes time*******************
+Mar 27,2017 10:02:19 [Info]  Clicked on the 'MODULE'
+Mar 27,2017 10:02:25 [Info]  Clicked on the 'Title Maintenance'
+Mar 27,2017 10:02:39 [Info]  Double clicked on 'AUT_AssetSeries_0327201795709AssetName'
+Mar 27,2017 10:02:49 [Info]  ======Total Hrs shown in Program Summary is===== No element is present on Web Page (DriverHelper.getAttribute())
+Mar 27,2017 10:02:49 [Info]  Test 'TC3_VerifyProgSum' PASSED
+Mar 27,2017 10:02:50 [Info]  Closed the Browser
+Mar 27,2017 10:02:50 [Info]  *********************Started Executing 'TC4_ChangeAssetSubType' Test Case*********************
+Mar 27,2017 10:03:00 [Info]  Client: SKY
+Mar 27,2017 10:03:00 [Info]  URL: http://rlv2wb85/Home.aspx
+Mar 27,2017 10:03:00 [Info]  UserName: admin
+Mar 27,2017 10:03:00 [Info]  Password: admin
+Mar 27,2017 10:03:01 [Info]  Entered "admin" in field 'User Name'
+Mar 27,2017 10:03:01 [Info]  Clicked on the 'Temporary Check Box'
+Mar 27,2017 10:03:01 [Info]  Entered "admin" in field 'Password'
+Mar 27,2017 10:03:10 [Info]  Clicked on the 'LoginButton'
+Mar 27,2017 10:03:16 [Info]  **************Started Creating Movie Asset**************
+Mar 27,2017 10:03:27 [Info]  Clicked on the 'MODULE'
+Mar 27,2017 10:03:33 [Info]  Clicked on the 'Title Maintenance'
+Mar 27,2017 10:03:43 [Info]  Clicked on the 'New Button' using JS Executor
+Mar 27,2017 10:03:52 [Info]  Clicked on the 'Program' using JS Executor
+Mar 27,2017 10:04:00 [Info]  Clicked on the 'General TAB'
+Mar 27,2017 10:04:00 [Info]  Selected "Program - Movie" in "AssetTypeDropDown" drop down
+Mar 27,2017 10:04:01 [Info]  Entered "AUT_Assetmovie_03272017100316" in field 'AssetTitle'
+Mar 27,2017 10:04:01 [Info]  Clicked on the 'SBUImage' using JS Executor
+Mar 27,2017 10:04:08 [Info]  Clicked on the 'First CheckBox At SBU window'
+Mar 27,2017 10:04:10 [Info]  Clicked on the 'Apply Button' using JS Executor
+Mar 27,2017 10:04:10 [Info]  Entered "11:11:11" in field 'Duration'
+Mar 27,2017 10:04:10 [Info]  Selected "Active" in "Asset Status" drop down
+Mar 27,2017 10:04:10 [Info]  Selected "Event" in "Asset Format" drop down
+Mar 27,2017 10:04:10 [Info]  Selected "License Acquired" in "Asset Source" drop down
+Mar 27,2017 10:04:11 [Info]  Entered "AUT_Series" in field 'Short Name'
+Mar 27,2017 10:04:11 [Info]  Clicked on the '*EPG Genre' using JS Executor
+Mar 27,2017 10:04:11 [Info]  Clicked on the 'Genere Type Dropdown Image'
+Mar 27,2017 10:04:11 [Info]  Clicked on the 'First Genere Type DropDown Value in the list'
+Mar 27,2017 10:04:11 [Info]  Clicked on the '*EPG Sub Genre' using JS Executor
+Mar 27,2017 10:04:11 [Info]  Clicked on the 'Genere Dropdown Image'
+Mar 27,2017 10:04:11 [Info]  Clicked on the 'Genere Dropdown value'
+Mar 27,2017 10:04:17 [Info]  Clicked on the 'Add Button of Note' using JS Executor
+Mar 27,2017 10:04:19 [Info]  Entered "Medium" in field 'Asset Priority'
+Mar 27,2017 10:04:19 [Info]  Entered "Subject For the Deal" in field 'Asset Subject'
+Mar 27,2017 10:04:19 [Info]  Entered "New Asset" in field 'AssetNotes TextField'
+Mar 27,2017 10:04:20 [Info]  Clicked on the 'OK button'
+Mar 27,2017 10:04:22 [Info]  Clicked on the 'Save Button' using JS Executor
+Mar 27,2017 10:04:39 [Info]  Verify The data of Created AssetAUT_Assetmovie_03272017100316
+<span style="color:green;">Mar 27,2017 10:04:39 [Verification]  Verified that Expected value :[AUT_Assetmovie_03272017100316] is matched with Actual value :[AUT_Assetmovie_03272017100316]</span>
+Mar 27,2017 10:04:39 [Info]  **************Changing the Asset Type from 'Program - One-Off' to 'Program - Special'**************
+
+<span style="color:blue;"> [Manual Test Step] : TC_AM_GT_004</span>
+Mar 27,2017 10:04:49 [Info]  Clicked on the 'MODULE'
+Mar 27,2017 10:04:55 [Info]  Clicked on the 'Title Maintenance'
+Mar 27,2017 10:05:21 [Info]  Clicked on the 'MODULE'
+Mar 27,2017 10:05:27 [Info]  Clicked on the 'Title Maintenance'
+Mar 27,2017 10:05:41 [Info]  Double clicked on 'AUT_Assetmovie_03272017100316AssetName'
+Mar 27,2017 10:05:44 [Info]  Selected "Program - Episode" in "Asset Type" drop down
+Mar 27,2017 10:05:45 [Info]  Verify The data of Validation Messge changing the Asset Type
+<span style="color:green;">Mar 27,2017 10:05:45 [Verification]  Verified that Expected value :[You are changing the title subtype. Data that is not relevant to the new subtype Assignment will be deleted. You cannot undo this change.] is matched with Actual value :[You are changing the title subtype. Data that is not relevant to the new subtype Assignment will be deleted. You cannot undo this change.]</span>
+Mar 27,2017 10:05:47 [Info]  Clicked on the 'Confirm Alert Ok' using JS Executor
+Mar 27,2017 10:05:52 [Info]  Clicked on the 'Save Button' using JS Executor
+<span style="color:green;">Mar 27,2017 10:05:53 [Verification]  Verified that Expected value :[Program - Episode] is matched with Actual value :[Program - Episode]</span>
+<span style="color:green;">Mar 27,2017 10:05:53 [Verification]  Verified that the subtupe of Movie Asset: AUT_Assetmovie_03272017100316 is changed from 'Program - Movie' to 'Program - Episode' successfully</span>
+Mar 27,2017 10:05:53 [Info]  Test 'TC4_ChangeAssetSubType' PASSED
+Mar 27,2017 10:05:54 [Info]  Closed the Browser
+Mar 27,2017 10:05:54 [Info]  *********************Started Executing 'TC5_InternalDealforSeriesassets' Test Case*********************
+Mar 27,2017 10:06:03 [Info]  Client: SKY
+Mar 27,2017 10:06:03 [Info]  URL: http://rlv2wb85/Home.aspx
+Mar 27,2017 10:06:03 [Info]  UserName: admin
+Mar 27,2017 10:06:03 [Info]  Password: admin
+Mar 27,2017 10:06:04 [Info]  Entered "admin" in field 'User Name'
+Mar 27,2017 10:06:04 [Info]  Clicked on the 'Temporary Check Box'
+Mar 27,2017 10:06:04 [Info]  Entered "admin" in field 'Password'
+Mar 27,2017 10:06:13 [Info]  Clicked on the 'LoginButton'
+Mar 27,2017 10:06:20 [Info]  *****Test 'TC5_InternalDealforSeriesassets'*****: SKIPPED
+Mar 27,2017 10:06:21 [Info]  Closed the Browser
+Mar 27,2017 10:06:21 [Info]  *********************Started Executing 'TC6_Series_handling' Test Case*********************
+Mar 27,2017 10:06:31 [Info]  Client: SKY
+Mar 27,2017 10:06:31 [Info]  URL: http://rlv2wb85/Home.aspx
+Mar 27,2017 10:06:31 [Info]  UserName: admin
+Mar 27,2017 10:06:31 [Info]  Password: admin
+Mar 27,2017 10:06:31 [Info]  Entered "admin" in field 'User Name'
+Mar 27,2017 10:06:31 [Info]  Clicked on the 'Temporary Check Box'
+Mar 27,2017 10:06:31 [Info]  Entered "admin" in field 'Password'
+Mar 27,2017 10:06:41 [Info]  Clicked on the 'LoginButton'
+Mar 27,2017 10:06:47 [Info]  ************************Started Creating Asset of Type: Program - Series************************
+Mar 27,2017 10:06:57 [Info]  Clicked on the 'MODULE'
+Mar 27,2017 10:07:03 [Info]  Clicked on the 'Title Maintenance'
+Mar 27,2017 10:07:13 [Info]  Clicked on the 'New Button' using JS Executor
+Mar 27,2017 10:07:25 [Info]  Clicked on the 'Program' using JS Executor
+Mar 27,2017 10:07:33 [Info]  Clicked on the 'General TAB'
+Mar 27,2017 10:07:44 [Info]  Selected "Program - Series" in "AssetTypeDropDown" drop down
+Mar 27,2017 10:07:44 [Info]  Entered "AUT_AssetSeries_03272017100647" in field 'AssetTitle'
+Mar 27,2017 10:07:45 [Info]  Clicked on the 'SBUImage' using JS Executor
+Mar 27,2017 10:07:51 [Info]  Clicked on the 'First CheckBox At SBU window'
+Mar 27,2017 10:07:53 [Info]  Clicked on the 'Apply Button' using JS Executor
+Mar 27,2017 10:07:53 [Info]  Entered "11:11:11" in field 'Duration'
+Mar 27,2017 10:08:04 [Info]  Selected "Active" in "Asset Status" drop down
+Mar 27,2017 10:08:04 [Info]  Selected "Event" in "Asset Format" drop down
+Mar 27,2017 10:08:04 [Info]  Selected "License Acquired" in "Asset Source" drop down
+Mar 27,2017 10:08:04 [Info]  Entered "AUT_Series" in field 'Short Name'
+Mar 27,2017 10:08:04 [Info]  Clicked on the 'Save Button' using JS Executor
+Mar 27,2017 10:08:19 [Info]  Verify The data of Created AssetAUT_AssetSeries_03272017100647
+<span style="color:green;">Mar 27,2017 10:08:19 [Verification]  Verified that Expected value :[AUT_AssetSeries_03272017100647] is matched with Actual value :[AUT_AssetSeries_03272017100647]</span>
+Mar 27,2017 10:08:19 [Info]  ************************Created Asset of TypeProgram - Series************************
+Mar 27,2017 10:08:29 [Info]  Clicked on the 'MODULE'
+Mar 27,2017 10:08:35 [Info]  Clicked on the 'Title Maintenance'
+Mar 27,2017 10:08:55 [Info]  Clicked on the 'MODULE'
+Mar 27,2017 10:09:01 [Info]  Clicked on the 'Title Maintenance'
+Mar 27,2017 10:09:21 [Info]  Double clicked on 'AUT_AssetSeries_03272017100647AssetName'
+
+<span style="color:blue;"> [Manual Test Step] : TC_AM_GT_002</span>
+Mar 27,2017 10:09:26 [Info]  Clicked on the 'Episodes TAB'
+Mar 27,2017 10:09:29 [Info]  Clicked on the 'Edit Button' using JS Executor
+Mar 27,2017 10:09:30 [Info]  Clicked on the 'Add Episode Button' using JS Executor
+Mar 27,2017 10:09:30 [Info]  Entered "101" in field 'Add Episode Window'
+Mar 27,2017 10:09:34 [Info]  Clicked on the 'OK Button' using JS Executor
+Mar 27,2017 10:09:37 [Info]  Clicked on the 'Season Field of First Row' using JS Executor
+Mar 27,2017 10:09:38 [Info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Mar 27,2017 10:09:38 [Info]  Clicked on the 'Season 1'
+Mar 27,2017 10:09:38 [Info]  Clicked on the 'Season Field of First Row' using JS Executor
+Mar 27,2017 10:09:39 [Info]  Clicked on the 'Add Episode Button' using JS Executor
+Mar 27,2017 10:09:39 [Info]  Entered "102" in field 'Add Episode Window'
+Mar 27,2017 10:09:40 [Info]  Clicked on the 'OK Button' using JS Executor
+Mar 27,2017 10:09:43 [Info]  Clicked on the 'Season Field of Second Row' using JS Executor
+Mar 27,2017 10:09:44 [Info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Mar 27,2017 10:09:44 [Info]  Clicked on the 'Season 1'
+Mar 27,2017 10:09:54 [Info]  Clicked on the 'Save Button' using JS Executor
+Mar 27,2017 10:09:58 [Info]  Clicked on the 'Close Button at Episode Window' using JS Executor
+
+<span style="color:blue;"> [Manual Test Step] : TC_AM_GT_004</span>
+Mar 27,2017 10:10:04 [Info]  Clicked on the 'General TAB'
+Mar 27,2017 10:10:04 [Info]  *******changing the values in the SBU field and verify >> Save >> verify values in " Series-episodes update window" >> Select First Radio Button "All Associated Episodes" >> 
+Mar 27,2017 10:10:04 [Info]  Selected "2" number's value in "SBU" drop down
+Mar 27,2017 10:10:04 [Info]  Clicked on the 'Save Button' using JS Executor
+Mar 27,2017 10:10:06 [Info]  Verify The data of 'AllAssociatedEpisodes' Radio button
+<span style="color:green;">Mar 27,2017 10:10:06 [Verification]  Verified that Expected value :[Apply changes to all associated Episodes] is matched with Actual value :[Apply changes to all associated Episodes]</span>
+Mar 27,2017 10:10:06 [Info]  Verify The data of 'Do not change Episode data' Radio Button
+<span style="color:green;">Mar 27,2017 10:10:06 [Verification]  Verified that Expected value :[Do not change Episode data] is matched with Actual value :[Do not change Episode data]</span>
+Mar 27,2017 10:10:06 [Info]  Verify The data of 'Apply changes to selected Episodes' Radio button
+<span style="color:green;">Mar 27,2017 10:10:06 [Verification]  Verified that Expected value :[Apply changes to selected Episodes:] is matched with Actual value :[Apply changes to selected Episodes:]</span>
+Mar 27,2017 10:10:06 [Info]  ************Verify Buttons at 'Series Episode Window'************
+Mar 27,2017 10:10:06 [Info]  Verify The data of Select All
+<span style="color:green;">Mar 27,2017 10:10:06 [Verification]  Verified that Expected value :[Select All] is matched with Actual value :[Select All]</span>
+Mar 27,2017 10:10:06 [Info]  Verify The data of Ok Button
+<span style="color:green;">Mar 27,2017 10:10:06 [Verification]  Verified that Expected value :[OK] is matched with Actual value :[OK]</span>
+Mar 27,2017 10:10:06 [Info]  Verify The data of Cancel Button
+<span style="color:green;">Mar 27,2017 10:10:06 [Verification]  Verified that Expected value :[Cancel] is matched with Actual value :[Cancel]</span>
+Mar 27,2017 10:10:07 [Info]  Clicked on the 'Cancel Button at 'Series Episode Window'' using JS Executor
+Mar 27,2017 10:10:07 [Info]  Clicked on the 'Save Button' using JS Executor
+Mar 27,2017 10:10:07 [Info]  Clicked on the ''All Associated Episodes' Radio button at 'Series Episode Window'' using JS Executor
+Mar 27,2017 10:10:16 [Info]  Clicked on the 'OK button at 'Series Episode Window'' using JS Executor
+Mar 27,2017 10:10:16 [Info]  *******Changing the values in the SBU field and verify >> Save >> verify values in " Series-episodes update window" >> Select Second Radio Button "Do not change Episode data" >> 
+Mar 27,2017 10:10:16 [Info]  Selected "3" number's value in "SBU" drop down
+Mar 27,2017 10:10:16 [Info]  Clicked on the 'Save Button' using JS Executor
+Mar 27,2017 10:10:17 [Info]  Verify The data of 'AllAssociatedEpisodes' Radio button
+<span style="color:green;">Mar 27,2017 10:10:17 [Verification]  Verified that Expected value :[Apply changes to all associated Episodes] is matched with Actual value :[Apply changes to all associated Episodes]</span>
+Mar 27,2017 10:10:17 [Info]  Verify The data of 'Do not change Episode data' Radio Button
+<span style="color:green;">Mar 27,2017 10:10:17 [Verification]  Verified that Expected value :[Do not change Episode data] is matched with Actual value :[Do not change Episode data]</span>
+Mar 27,2017 10:10:17 [Info]  Verify The data of 'Apply changes to selected Episodes' Radio button
+<span style="color:green;">Mar 27,2017 10:10:17 [Verification]  Verified that Expected value :[Apply changes to selected Episodes:] is matched with Actual value :[Apply changes to selected Episodes:]</span>
+Mar 27,2017 10:10:17 [Info]  ************Verify Buttons at 'Series Episode Window'************
+Mar 27,2017 10:10:17 [Info]  Verify The data of Select All
+<span style="color:green;">Mar 27,2017 10:10:17 [Verification]  Verified that Expected value :[Select All] is matched with Actual value :[Select All]</span>
+Mar 27,2017 10:10:17 [Info]  Verify The data of Ok Button
+<span style="color:green;">Mar 27,2017 10:10:17 [Verification]  Verified that Expected value :[OK] is matched with Actual value :[OK]</span>
+Mar 27,2017 10:10:17 [Info]  Verify The data of Cancel Button
+<span style="color:green;">Mar 27,2017 10:10:17 [Verification]  Verified that Expected value :[Cancel] is matched with Actual value :[Cancel]</span>
+Mar 27,2017 10:10:17 [Info]  ****************Verify Radio buttons and OK,Select and Cancel Buttons after 'Do not change Episode data'is checked**************
+Mar 27,2017 10:10:18 [Info]  Clicked on the ''Do not change Episode data' Radio Button'
+Mar 27,2017 10:10:26 [Info]  Clicked on the 'OK Button' using JS Executor
+Mar 27,2017 10:10:26 [Info]  *******Changing the values in the SBU field and verify >> Save >> verify values in " Series-episodes update window" >> Click Apply >> verify validation Message 
+Mar 27,2017 10:10:26 [Info]  Selected "4" number's value in "SBU" drop down
+Mar 27,2017 10:10:26 [Info]  Clicked on the 'Save Button' using JS Executor
+Mar 27,2017 10:10:27 [Info]  Verify The data of 'AllAssociatedEpisodes' Radio button
+<span style="color:green;">Mar 27,2017 10:10:27 [Verification]  Verified that Expected value :[Apply changes to all associated Episodes] is matched with Actual value :[Apply changes to all associated Episodes]</span>
+Mar 27,2017 10:10:27 [Info]  Verify The data of 'Do not change Episode data' Radio Button
+<span style="color:green;">Mar 27,2017 10:10:27 [Verification]  Verified that Expected value :[Do not change Episode data] is matched with Actual value :[Do not change Episode data]</span>
+Mar 27,2017 10:10:27 [Info]  Verify The data of 'Apply changes to selected Episodes' Radio button
+<span style="color:green;">Mar 27,2017 10:10:27 [Verification]  Verified that Expected value :[Apply changes to selected Episodes:] is matched with Actual value :[Apply changes to selected Episodes:]</span>
+Mar 27,2017 10:10:27 [Info]  ************Verify Buttons at 'Series Episode Window'************
+Mar 27,2017 10:10:27 [Info]  Verify The data of Select All
+<span style="color:green;">Mar 27,2017 10:10:27 [Verification]  Verified that Expected value :[Select All] is matched with Actual value :[Select All]</span>
+Mar 27,2017 10:10:27 [Info]  Verify The data of Ok Button
+<span style="color:green;">Mar 27,2017 10:10:27 [Verification]  Verified that Expected value :[OK] is matched with Actual value :[OK]</span>
+Mar 27,2017 10:10:27 [Info]  Verify The data of Cancel Button
+<span style="color:green;">Mar 27,2017 10:10:27 [Verification]  Verified that Expected value :[Cancel] is matched with Actual value :[Cancel]</span>
+Mar 27,2017 10:10:28 [Info]  Clicked on the 'OK Button' using JS Executor
+Mar 27,2017 10:10:28 [Info]  Verify The data of Alert Msg at SBU window
+<span style="color:green;">Mar 27,2017 10:10:28 [Verification]  Verified that Expected value :[Please select at least one item from the tree before clicking on the OK button.] is matched with Actual value :[Please select at least one item from the tree before clicking on the OK button.]</span>
+Mar 27,2017 10:10:28 [Info]  Clicked on the 'OK Button at Alert' using JS Executor
+Mar 27,2017 10:10:29 [Info]  Clicked on the 'Episodes 002'
+Mar 27,2017 10:10:35 [Info]  Clicked on the 'OK Button' using JS Executor
+Mar 27,2017 10:10:35 [Info]  *******Changing the values in the SBU field and verify >> Save >> verify values in " Series-episodes update window" >> Select All Button
+Mar 27,2017 10:10:36 [Info]  Selected "5" number's value in "SBU" drop down
+Mar 27,2017 10:10:36 [Info]  Clicked on the 'Save Button' using JS Executor
+Mar 27,2017 10:10:36 [Info]  Verify The data of 'AllAssociatedEpisodes' Radio button
+<span style="color:green;">Mar 27,2017 10:10:36 [Verification]  Verified that Expected value :[Apply changes to all associated Episodes] is matched with Actual value :[Apply changes to all associated Episodes]</span>
+Mar 27,2017 10:10:36 [Info]  Verify The data of 'Do not change Episode data' Radio Button
+<span style="color:green;">Mar 27,2017 10:10:36 [Verification]  Verified that Expected value :[Do not change Episode data] is matched with Actual value :[Do not change Episode data]</span>
+Mar 27,2017 10:10:36 [Info]  Verify The data of 'Apply changes to selected Episodes' Radio button
+<span style="color:green;">Mar 27,2017 10:10:36 [Verification]  Verified that Expected value :[Apply changes to selected Episodes:] is matched with Actual value :[Apply changes to selected Episodes:]</span>
+Mar 27,2017 10:10:36 [Info]  ************Verify Buttons at 'Series Episode Window'************
+Mar 27,2017 10:10:36 [Info]  Verify The data of Select All
+<span style="color:green;">Mar 27,2017 10:10:36 [Verification]  Verified that Expected value :[Select All] is matched with Actual value :[Select All]</span>
+Mar 27,2017 10:10:36 [Info]  Verify The data of Ok Button
+<span style="color:green;">Mar 27,2017 10:10:36 [Verification]  Verified that Expected value :[OK] is matched with Actual value :[OK]</span>
+Mar 27,2017 10:10:36 [Info]  Verify The data of Cancel Button
+<span style="color:green;">Mar 27,2017 10:10:36 [Verification]  Verified that Expected value :[Cancel] is matched with Actual value :[Cancel]</span>
+Mar 27,2017 10:10:37 [Info]  Clicked on the 'SelectAll'
+Mar 27,2017 10:10:44 [Info]  Clicked on the 'OK Button' using JS Executor
+Mar 27,2017 10:10:44 [Info]  Test 'TC6_Series_handling' PASSED
+Mar 27,2017 10:10:45 [Info]  Closed the Browser
+Mar 27,2017 10:10:45 [Info]  *********************Started Executing 'TC7_Validate_duplicate_Asset' Test Case*********************
+Mar 27,2017 10:10:55 [Info]  Client: SKY
+Mar 27,2017 10:10:55 [Info]  URL: http://rlv2wb85/Home.aspx
+Mar 27,2017 10:10:55 [Info]  UserName: admin
+Mar 27,2017 10:10:55 [Info]  Password: admin
+Mar 27,2017 10:10:56 [Info]  Entered "admin" in field 'User Name'
+Mar 27,2017 10:10:56 [Info]  Clicked on the 'Temporary Check Box'
+Mar 27,2017 10:10:56 [Info]  Entered "admin" in field 'Password'
+Mar 27,2017 10:11:05 [Info]  Clicked on the 'LoginButton'
+Mar 27,2017 10:11:11 [Info]  Asset01 with prefix 'AUT_AssetSeries_':AUT_AssetSeries_03272017101111
+Mar 27,2017 10:11:11 [Info]  ************************Started Creating Asset of Type: Program - Series************************
+Mar 27,2017 10:11:21 [Info]  Clicked on the 'MODULE'
+Mar 27,2017 10:11:27 [Info]  Clicked on the 'Title Maintenance'
+Mar 27,2017 10:11:37 [Info]  Clicked on the 'New Button' using JS Executor
+Mar 27,2017 10:11:49 [Info]  Clicked on the 'Program' using JS Executor
+Mar 27,2017 10:11:57 [Info]  Clicked on the 'General TAB'
+Mar 27,2017 10:12:08 [Info]  Selected "Program - Series" in "AssetTypeDropDown" drop down
+Mar 27,2017 10:12:09 [Info]  Entered "AUT_AssetSeries_03272017101111" in field 'AssetTitle'
+Mar 27,2017 10:12:09 [Info]  Clicked on the 'SBUImage' using JS Executor
+Mar 27,2017 10:12:15 [Info]  Clicked on the 'First CheckBox At SBU window'
+Mar 27,2017 10:12:18 [Info]  Clicked on the 'Apply Button' using JS Executor
+Mar 27,2017 10:12:18 [Info]  Entered "11:11:11" in field 'Duration'
+Mar 27,2017 10:12:28 [Info]  Selected "Active" in "Asset Status" drop down
+Mar 27,2017 10:12:28 [Info]  Selected "Event" in "Asset Format" drop down
+Mar 27,2017 10:12:28 [Info]  Selected "License Acquired" in "Asset Source" drop down
+Mar 27,2017 10:12:28 [Info]  Entered "AUT_Series" in field 'Short Name'
+Mar 27,2017 10:12:29 [Info]  Clicked on the 'Save Button' using JS Executor
+Mar 27,2017 10:12:43 [Info]  Verify The data of Created AssetAUT_AssetSeries_03272017101111
+<span style="color:green;">Mar 27,2017 10:12:43 [Verification]  Verified that Expected value :[AUT_AssetSeries_03272017101111] is matched with Actual value :[AUT_AssetSeries_03272017101111]</span>
+Mar 27,2017 10:12:43 [Info]  ************************Created Asset of TypeProgram - Series************************
+Mar 27,2017 10:12:43 [Info]  Asset01 with prefix 'RSGA_': RSGA_03272017101111
+Mar 27,2017 10:12:43 [Info]  ************************Started Creating Asset of Type: Program - Series************************
+Mar 27,2017 10:12:54 [Info]  Clicked on the 'MODULE'
+Mar 27,2017 10:13:00 [Info]  Clicked on the 'Title Maintenance'
+Mar 27,2017 10:13:10 [Info]  Clicked on the 'New Button' using JS Executor
+Mar 27,2017 10:13:22 [Info]  Clicked on the 'Program' using JS Executor
+Mar 27,2017 10:13:30 [Info]  Clicked on the 'General TAB'
+Mar 27,2017 10:13:41 [Info]  Selected "Program - Series" in "AssetTypeDropDown" drop down
+Mar 27,2017 10:13:41 [Info]  Entered "RSGA_03272017101111" in field 'AssetTitle'
+Mar 27,2017 10:13:42 [Info]  Clicked on the 'SBUImage' using JS Executor
+Mar 27,2017 10:13:48 [Info]  Clicked on the 'First CheckBox At SBU window'
+Mar 27,2017 10:13:50 [Info]  Clicked on the 'Apply Button' using JS Executor
+Mar 27,2017 10:13:50 [Info]  Entered "11:11:11" in field 'Duration'
+Mar 27,2017 10:14:01 [Info]  Selected "Active" in "Asset Status" drop down
+Mar 27,2017 10:14:01 [Info]  Selected "Event" in "Asset Format" drop down
+Mar 27,2017 10:14:01 [Info]  Selected "License Acquired" in "Asset Source" drop down
+Mar 27,2017 10:14:01 [Info]  Entered "AUT_Series" in field 'Short Name'
+Mar 27,2017 10:14:01 [Info]  Clicked on the 'Save Button' using JS Executor
+Mar 27,2017 10:14:16 [Info]  Verify The data of Created AssetRSGA_03272017101111
+<span style="color:green;">Mar 27,2017 10:14:16 [Verification]  Verified that Expected value :[RSGA_03272017101111] is matched with Actual value :[RSGA_03272017101111]</span>
+Mar 27,2017 10:14:16 [Info]  ************************Created Asset of TypeProgram - Series************************
+Mar 27,2017 10:14:16 [Info]  Asset02 with prefix 'The RSGB_': The RSGB_03272017101111
+Mar 27,2017 10:14:16 [Info]  ************************Started Creating Asset of Type: Program - Series************************
+Mar 27,2017 10:14:26 [Info]  Clicked on the 'MODULE'
+Mar 27,2017 10:14:33 [Info]  Clicked on the 'Title Maintenance'
+Mar 27,2017 10:14:43 [Info]  Clicked on the 'New Button' using JS Executor
+Mar 27,2017 10:14:55 [Info]  Clicked on the 'Program' using JS Executor
+Mar 27,2017 10:15:03 [Info]  Clicked on the 'General TAB'
+Mar 27,2017 10:15:14 [Info]  Selected "Program - Series" in "AssetTypeDropDown" drop down
+Mar 27,2017 10:15:14 [Info]  Entered "The RSGB_03272017101111" in field 'AssetTitle'
+Mar 27,2017 10:15:15 [Info]  Clicked on the 'SBUImage' using JS Executor
+Mar 27,2017 10:15:21 [Info]  Clicked on the 'First CheckBox At SBU window'
+Mar 27,2017 10:15:23 [Info]  Clicked on the 'Apply Button' using JS Executor
+Mar 27,2017 10:15:23 [Info]  Entered "11:11:11" in field 'Duration'
+Mar 27,2017 10:15:33 [Info]  Selected "Active" in "Asset Status" drop down
+Mar 27,2017 10:15:33 [Info]  Selected "Event" in "Asset Format" drop down
+Mar 27,2017 10:15:34 [Info]  Selected "License Acquired" in "Asset Source" drop down
+Mar 27,2017 10:15:34 [Info]  Entered "AUT_Series" in field 'Short Name'
+Mar 27,2017 10:15:34 [Info]  Clicked on the 'Save Button' using JS Executor
+Mar 27,2017 10:15:48 [Info]  Verify The data of Created AssetThe RSGB_03272017101111
+<span style="color:green;">Mar 27,2017 10:15:48 [Verification]  Verified that Expected value :[The RSGB_03272017101111] is matched with Actual value :[The RSGB_03272017101111]</span>
+Mar 27,2017 10:15:48 [Info]  ************************Created Asset of TypeProgram - Series************************
+Mar 27,2017 10:15:48 [Info]  Asset03 with prefix 'An_RSGC_': An_RSGC_03272017101111
+Mar 27,2017 10:15:48 [Info]  ************************Started Creating Asset of Type: Program - Series************************
+Mar 27,2017 10:15:59 [Info]  Clicked on the 'MODULE'
+Mar 27,2017 10:16:05 [Info]  Clicked on the 'Title Maintenance'
+Mar 27,2017 10:16:15 [Info]  Clicked on the 'New Button' using JS Executor
+Mar 27,2017 10:16:24 [Info]  Clicked on the 'Program' using JS Executor
+Mar 27,2017 10:16:33 [Info]  Clicked on the 'General TAB'
+Mar 27,2017 10:16:44 [Info]  Selected "Program - Series" in "AssetTypeDropDown" drop down
+Mar 27,2017 10:16:44 [Info]  Entered "An_RSGC_03272017101111" in field 'AssetTitle'
+Mar 27,2017 10:16:44 [Info]  Clicked on the 'SBUImage' using JS Executor
+Mar 27,2017 10:16:51 [Info]  Clicked on the 'First CheckBox At SBU window'
+Mar 27,2017 10:16:53 [Info]  Clicked on the 'Apply Button' using JS Executor
+Mar 27,2017 10:16:53 [Info]  Entered "11:11:11" in field 'Duration'
+Mar 27,2017 10:17:03 [Info]  Selected "Active" in "Asset Status" drop down
+Mar 27,2017 10:17:03 [Info]  Selected "Event" in "Asset Format" drop down
+Mar 27,2017 10:17:03 [Info]  Selected "License Acquired" in "Asset Source" drop down
+Mar 27,2017 10:17:04 [Info]  Entered "AUT_Series" in field 'Short Name'
+Mar 27,2017 10:17:04 [Info]  Clicked on the 'Save Button' using JS Executor
+Mar 27,2017 10:17:18 [Info]  Verify The data of Created AssetAn_RSGC_03272017101111
+<span style="color:green;">Mar 27,2017 10:17:18 [Verification]  Verified that Expected value :[An_RSGC_03272017101111] is matched with Actual value :[An_RSGC_03272017101111]</span>
+Mar 27,2017 10:17:18 [Info]  ************************Created Asset of TypeProgram - Series************************
+Mar 27,2017 10:17:18 [Info]  Asset04 with prefix '@ RSGD_': @ RSGD_03272017101111
+Mar 27,2017 10:17:18 [Info]  ************************Started Creating Asset of Type: Program - Series************************
+Mar 27,2017 10:17:28 [Info]  Clicked on the 'MODULE'
+Mar 27,2017 10:17:34 [Info]  Clicked on the 'Title Maintenance'
+Mar 27,2017 10:17:44 [Info]  Clicked on the 'New Button' using JS Executor
+Mar 27,2017 10:17:55 [Info]  Clicked on the 'Program' using JS Executor
+Mar 27,2017 10:18:03 [Info]  Clicked on the 'General TAB'
+Mar 27,2017 10:18:13 [Info]  Selected "Program - Series" in "AssetTypeDropDown" drop down
+Mar 27,2017 10:18:14 [Info]  Entered "@ RSGD_03272017101111" in field 'AssetTitle'
+Mar 27,2017 10:18:14 [Info]  Clicked on the 'SBUImage' using JS Executor
+Mar 27,2017 10:18:20 [Info]  Clicked on the 'First CheckBox At SBU window'
+Mar 27,2017 10:18:23 [Info]  Clicked on the 'Apply Button' using JS Executor
+Mar 27,2017 10:18:23 [Info]  Entered "11:11:11" in field 'Duration'
+Mar 27,2017 10:18:33 [Info]  Selected "Active" in "Asset Status" drop down
+Mar 27,2017 10:18:33 [Info]  Selected "Event" in "Asset Format" drop down
+Mar 27,2017 10:18:33 [Info]  Selected "License Acquired" in "Asset Source" drop down
+Mar 27,2017 10:18:33 [Info]  Entered "AUT_Series" in field 'Short Name'
+Mar 27,2017 10:18:34 [Info]  Clicked on the 'Save Button' using JS Executor
+Mar 27,2017 10:18:49 [Info]  Verify The data of Created Asset@ RSGD_03272017101111
+<span style="color:green;">Mar 27,2017 10:18:49 [Verification]  Verified that Expected value :[@ RSGD_03272017101111] is matched with Actual value :[@ RSGD_03272017101111]</span>
+Mar 27,2017 10:18:49 [Info]  ************************Created Asset of TypeProgram - Series************************
+Mar 27,2017 10:18:59 [Info]  Clicked on the 'MODULE'
+Mar 27,2017 10:19:05 [Info]  Clicked on the 'Title Maintenance'
+Mar 27,2017 10:19:19 [Info]  Double clicked on 'AUT_AssetSeries_03272017101111AssetName'
+Mar 27,2017 10:19:19 [Info]  Entered "RSGA_03272017101111" in field 'Asset Title Field'
+Mar 27,2017 10:19:19 [Info]  Clicked on the 'AssetTitleImageIcon'
+Mar 27,2017 10:19:19 [Info]  Accepted Alert
+Mar 27,2017 10:19:21 [Info]  Verify The data of TitleHeader at Asset Title Window
+<span style="color:green;">Mar 27,2017 10:19:21 [Verification]  Verified that Expected value :[Title] is matched with Actual value :[Title]</span>
+Mar 27,2017 10:19:21 [Info]  Verify The data of AKA Titles at Asset Title Window
+<span style="color:green;">Mar 27,2017 10:19:21 [Verification]  Verified that Expected value :[AKA Titles] is matched with Actual value :[AKA Titles]</span>
+Mar 27,2017 10:19:21 [Info]  Verify The data of Asset Type at Asset Title Window
+<span style="color:green;">Mar 27,2017 10:19:21 [Verification]  Verified that Expected value :[Title Type] is matched with Actual value :[Title Type]</span>
+Mar 27,2017 10:19:21 [Info]  Verify The data of Release Yr at Asset Title Window
+<span style="color:green;">Mar 27,2017 10:19:21 [Verification]  Verified that Expected value :[Release Yr] is matched with Actual value :[Release Yr]</span>
+Mar 27,2017 10:19:21 [Info]  Verify The data of Director/Artist at Asset Title Window
+<span style="color:green;">Mar 27,2017 10:19:21 [Verification]  Verified that Expected value :[Director/Artist] is matched with Actual value :[Director/Artist]</span>
+Mar 27,2017 10:19:21 [Info]  Verify The data of Save Button at Asset Title Window
+<span style="color:green;">Mar 27,2017 10:19:21 [Verification]  Verified that Expected value :[Save] is matched with Actual value :[Save]</span>
+Mar 27,2017 10:19:21 [Info]  Verify The data of Cancel Button at Asset Title Window
+<span style="color:green;">Mar 27,2017 10:19:21 [Verification]  Verified that Expected value :[Cancel] is matched with Actual value :[Cancel]</span>
+Mar 27,2017 10:19:21 [Info]  Verify The data of Asset Title in Asset title Window Box
+<span style="color:green;">Mar 27,2017 10:19:21 [Verification]  Verified that Expected value :[RSGA_03272017101111 Program - Series] is matched with Actual value :[RSGA_03272017101111 Program - Series]</span>
+Mar 27,2017 10:19:21 [Info]  Clicked on the 'Cancel Button at Asset Title Window' using JS Executor
+Mar 27,2017 10:19:21 [Info]  Enter the Asset Name The RSGB_03272017101111 >> click on "Validate Asset Title" Icon >> Verify Asset Name in the opened window
+Mar 27,2017 10:19:21 [Info]  Entered "The RSGB_03272017101111" in field 'Asset Title Field'
+Mar 27,2017 10:19:22 [Info]  Clicked on the 'AssetTitleImageIcon'
+Mar 27,2017 10:19:22 [Info]  Accepted Alert
+Mar 27,2017 10:19:22 [Info]  Verify The data of Asset Title in Asset title Window Box
+<span style="color:green;">Mar 27,2017 10:19:22 [Verification]  Verified that Expected value :[The RSGB_03272017101111 Program - Series] is matched with Actual value :[The RSGB_03272017101111 Program - Series]</span>
+Mar 27,2017 10:19:23 [Info]  Clicked on the 'Cancel Button at Asset Title Window' using JS Executor
+Mar 27,2017 10:19:23 [Info]  Enter the Asset Name An_RSGC_03272017101111 >> click on "Validate Asset Title" Icon >> Verify Asset Name in the opened window
+Mar 27,2017 10:19:23 [Info]  Entered "An_RSGC_03272017101111" in field 'Asset Title Field'
+Mar 27,2017 10:19:23 [Info]  Clicked on the 'AssetTitleImageIcon'
+Mar 27,2017 10:19:23 [Info]  Accepted Alert
+Mar 27,2017 10:19:24 [Info]  Verify The data of Asset Title in Asset title Window Box
+<span style="color:green;">Mar 27,2017 10:19:24 [Verification]  Verified that Expected value :[An_RSGC_03272017101111 Program - Series] is matched with Actual value :[An_RSGC_03272017101111 Program - Series]</span>
+Mar 27,2017 10:19:24 [Info]  Clicked on the 'Cancel Button at Asset Title Window' using JS Executor
+Mar 27,2017 10:19:24 [Info]  Enter the Asset Name @ RSGD_03272017101111 >> click on "Validate Asset Title" Icon >> Verify Asset Name in the opened window
+Mar 27,2017 10:19:24 [Info]  Entered "@ RSGD_03272017101111" in field 'Asset Title Field'
+Mar 27,2017 10:19:24 [Info]  Clicked on the 'AssetTitleImageIcon'
+Mar 27,2017 10:19:24 [Info]  Accepted Alert
+Mar 27,2017 10:19:25 [Info]  Verify The data of Asset Title in Asset title Window Box
+<span style="color:green;">Mar 27,2017 10:19:25 [Verification]  Verified that Expected value :[@ RSGD_03272017101111 Program - Series] is matched with Actual value :[@ RSGD_03272017101111 Program - Series]</span>
+Mar 27,2017 10:19:25 [Info]  Clicked on the 'Cancel Button at Asset Title Window' using JS Executor
+Mar 27,2017 10:19:25 [Info]  Test 'TC7_Validate_duplicate_Asset' PASSED
+Mar 27,2017 10:19:26 [Info]  Closed the Browser
+Mar 27,2017 10:32:01 [Info]  ********************Started Executiong the Test Suite at 10:32:01******************
+Mar 27,2017 10:32:01 [Info]  Client: SKY
+Mar 27,2017 10:32:01 [Info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Mar 27,2017 10:32:01 [Info]  *********************Started Executing 'TC5_EpisodeCopy' Test Case*********************
+Mar 27,2017 10:32:12 [Info]  Client: SKY
+Mar 27,2017 10:32:12 [Info]  URL: http://rlv2wb85/Home.aspx
+Mar 27,2017 10:32:12 [Info]  UserName: admin
+Mar 27,2017 10:32:12 [Info]  Password: admin
+Mar 27,2017 10:32:13 [Info]  Entered "admin" in field 'User Name'
+Mar 27,2017 10:32:13 [Info]  Clicked on the 'Temporary Check Box'
+Mar 27,2017 10:32:13 [Info]  Entered "admin" in field 'Password'
+Mar 27,2017 10:32:21 [Info]  Clicked on the 'LoginButton'
+Mar 27,2017 10:32:27 [Info]  ************************Started Creating Asset of Type: Program - Series************************
+Mar 27,2017 10:32:38 [Info]  Clicked on the 'MODULE'
+Mar 27,2017 10:32:44 [Info]  Clicked on the 'Title Maintenance'
+Mar 27,2017 10:32:54 [Info]  Clicked on the 'New Button' using JS Executor
+Mar 27,2017 10:33:06 [Info]  Clicked on the 'Program' using JS Executor
+Mar 27,2017 10:33:14 [Info]  Clicked on the 'General TAB'
+Mar 27,2017 10:33:25 [Info]  Selected "Program - Series" in "AssetTypeDropDown" drop down
+Mar 27,2017 10:33:25 [Info]  Entered "AUT_AssetSeries_03272017103227" in field 'AssetTitle'
+Mar 27,2017 10:33:26 [Info]  Clicked on the 'SBUImage' using JS Executor
+Mar 27,2017 10:33:32 [Info]  Clicked on the 'First CheckBox At SBU window'
+Mar 27,2017 10:33:34 [Info]  Clicked on the 'Apply Button' using JS Executor
+Mar 27,2017 10:33:34 [Info]  Entered "11:11:11" in field 'Duration'
+Mar 27,2017 10:33:45 [Info]  Selected "Active" in "Asset Status" drop down
+Mar 27,2017 10:33:45 [Info]  Selected "Event" in "Asset Format" drop down
+Mar 27,2017 10:33:45 [Info]  Selected "License Acquired" in "Asset Source" drop down
+Mar 27,2017 10:33:45 [Info]  Entered "AUT_Series" in field 'Short Name'
+Mar 27,2017 10:33:45 [Info]  Clicked on the 'Save Button' using JS Executor
+Mar 27,2017 10:34:00 [Info]  Verify The data of Created AssetAUT_AssetSeries_03272017103227
+<span style="color:green;">Mar 27,2017 10:34:00 [Verification]  Verified that Expected value :[AUT_AssetSeries_03272017103227] is matched with Actual value :[AUT_AssetSeries_03272017103227]</span>
+Mar 27,2017 10:34:00 [Info]  ************************Created Asset of TypeProgram - Series************************
+Mar 27,2017 10:34:10 [Info]  Clicked on the 'MODULE'
+Mar 27,2017 10:34:16 [Info]  Clicked on the 'Title Maintenance'
+Mar 27,2017 10:34:30 [Info]  Double clicked on 'AUT_AssetSeries_03272017103227AssetName'
+Mar 27,2017 10:34:36 [Info]  Clicked on the 'Episodes TAB'
+Mar 27,2017 10:34:40 [Info]  Clicked on the ''Edit' Button at Episode window' using JS Executor
+Mar 27,2017 10:34:43 [Info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Mar 27,2017 10:34:44 [Info]  Entered "101" in field 'Add Episode input field'
+Mar 27,2017 10:34:45 [Info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Mar 27,2017 10:34:50 [Info]  Clicked on the 'Season Field of Episode101' using JS Executor
+Mar 27,2017 10:34:50 [Info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Mar 27,2017 10:34:50 [Info]  Clicked on the 'Season 1'
+Mar 27,2017 10:34:50 [Info]  Clicked on the 'Support click to select season'
+Mar 27,2017 10:34:50 [Info]  Entered "00:30:00" in field 'duration Program'
+Mar 27,2017 10:34:50 [Info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Mar 27,2017 10:34:51 [Info]  Entered "102" in field 'Add Episode input field'
+Mar 27,2017 10:34:52 [Info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Mar 27,2017 10:34:57 [Info]  Clicked on the 'Season Field of Episode101' using JS Executor
+Mar 27,2017 10:34:57 [Info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Mar 27,2017 10:34:57 [Info]  Clicked on the 'Season 1'
+Mar 27,2017 10:34:57 [Info]  Clicked on the 'Support click to select season'
+Mar 27,2017 10:34:57 [Info]  Entered "00:30:00" in field 'duration Program'
+Mar 27,2017 10:34:57 [Info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Mar 27,2017 10:34:57 [Info]  Entered "201" in field 'Add Episode input field'
+Mar 27,2017 10:34:59 [Info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Mar 27,2017 10:35:04 [Info]  Clicked on the 'Season Field of Episode101' using JS Executor
+Mar 27,2017 10:35:04 [Info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Mar 27,2017 10:35:04 [Info]  Clicked on the 'Season 1'
+Mar 27,2017 10:35:04 [Info]  Clicked on the 'Support click to select season'
+Mar 27,2017 10:35:04 [Info]  Entered "00:30:00" in field 'duration Program'
+Mar 27,2017 10:35:04 [Info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Mar 27,2017 10:35:04 [Info]  Entered "202" in field 'Add Episode input field'
+Mar 27,2017 10:35:05 [Info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Mar 27,2017 10:35:11 [Info]  Clicked on the 'Season Field of Episode101' using JS Executor
+Mar 27,2017 10:35:11 [Info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Mar 27,2017 10:35:11 [Info]  Clicked on the 'Season 1'
+Mar 27,2017 10:35:11 [Info]  Clicked on the 'Support click to select season'
+Mar 27,2017 10:35:11 [Info]  Entered "00:30:00" in field 'duration Program'
+Mar 27,2017 10:35:18 [Info]  Clicked on the 'Save Button at 'Episode Edit Window'' using JS Executor
+Mar 27,2017 10:35:22 [Info]  Clicked on the 'Close Button at 'Episode Edit Window'' using JS Executor
+Mar 27,2017 10:35:28 [Info]  Clicked on the 'Module '
+Mar 27,2017 10:35:39 [Info]  Clicked on the 'Rights IN TAB '
+Mar 27,2017 10:35:45 [Info]  Clicked on the 'New Button' using JS Executor
+Mar 27,2017 10:35:49 [Info]  Clicked on the 'Master Agreement' using JS Executor
+Mar 27,2017 10:35:52 [Info]  Generated Deal Id is:  7448
+Mar 27,2017 10:35:52 [Info]  Clicked on the 'DealTitleField' using JS Executor
+Mar 27,2017 10:35:53 [Info]  Entered "AUT_Deal_03272017103227_Master" in field 'Deal Name Field'
+Mar 27,2017 10:35:53 [Info]  Entered "03272" in field 'Deal Code'
+Mar 27,2017 10:35:53 [Info]  Selected "Acquisition-Program" in "DealType_DropDownField" drop down
+Mar 27,2017 10:35:53 [Info]  Selected "Events" in "Deal/Agreement Sub Type" drop down
+Mar 27,2017 10:35:54 [Info]  Entered "Fully Executed" in field 'Deal Creation Contract Status'
+Mar 27,2017 10:35:54 [Info]  Entered "In Progress" in field 'DealCreationCDEStatus'
+Mar 27,2017 10:35:54 [Info]  Entered "01/01/2014" in field 'DateExecuted_InputField'
+Mar 27,2017 10:35:54 [Info]  Entered "USD" in field 'DealCreationCurrency'
+Mar 27,2017 10:35:54 [Info]  Selected "Sky Movies" in "ProfitCenter_InputField" drop down
+Mar 27,2017 10:36:00 [Info]  Selected "Sky Movies" in "BudgetLine_InputField" drop down
+Mar 27,2017 10:36:22 [Info]  Moved Mouse over 'Party_AddButton'
+Mar 27,2017 10:36:23 [Info]  Clicked on the 'Party_AddButton'
+Mar 27,2017 10:36:26 [Info]  Entered "AUT_SKY_RI_PRIMARY_PARTY" in field 'Search Party InputField'
+Mar 27,2017 10:36:29 [Info]  Double clicked on 'RI Search Party Window Find Button'
+Mar 27,2017 10:36:30 [Info]  Clicked on the 'AUT_SKY_RI_PRIMARY_PARTY'
+Mar 27,2017 10:36:30 [Info]  Clicked on the 'Select Button'
+Mar 27,2017 10:36:36 [Info]  Clicked on the 'Party Type Field' using JS Executor
+Mar 27,2017 10:36:37 [Info]  Entered "Primary" in field 'Party Party InputField'
+Mar 27,2017 10:36:37 [Info]  Clicked on the 'Support Click '
+Mar 27,2017 10:36:37 [Info]  Clicked on the 'Party_AddButton' using JS Executor
+Mar 27,2017 10:36:42 [Info]  Entered "AUT_SKY_RI_LICENSOR_PARTY" in field 'Search Party InputField'
+Mar 27,2017 10:36:44 [Info]  Double clicked on 'RI Search Party Window Find Button'
+Mar 27,2017 10:36:49 [Info]  Clicked on the 'Select Party'
+Mar 27,2017 10:36:49 [Info]  Clicked on the 'Select Button'
+Mar 27,2017 10:36:55 [Info]  Clicked on the 'Party Type Field' using JS Executor
+Mar 27,2017 10:36:55 [Info]  Entered "Licensor" in field 'Party Party InputField'
+Mar 27,2017 10:36:56 [Info]  Clicked on the 'Support Click '
+Mar 27,2017 10:37:07 [Info]  Clicked on the 'Save Button' using JS Executor
+Mar 27,2017 10:37:07 [Info]  Clicked on the 'OK Button' using JS Executor
+Mar 27,2017 10:37:07 [Info]  Verify The data of CreatedDeal
+<span style="color:green;">Mar 27,2017 10:37:07 [Verification]  Verified that Expected value :[AUT_Deal_03272017103227_Master] is matched with Actual value :[AUT_Deal_03272017103227_Master]</span>
+Mar 27,2017 10:37:07 [Info]  Clicked on the 'Module '
+Mar 27,2017 10:37:19 [Info]  Clicked on the 'Rights IN TAB '
+Mar 27,2017 10:37:25 [Info]  Clicked on the 'New Button' using JS Executor
+Mar 27,2017 10:37:31 [Info]  Clicked on the 'Attachment & Link to Master' using JS Executor
+Mar 27,2017 10:37:31 [Info]  Entered "AUT_Deal_03272017103227_Master" in field 'Deal Name'
+Mar 27,2017 10:37:44 [Info]  Clicked on the 'Find Button' using JS Executor
+Mar 27,2017 10:37:44 [Info]  Moved Mouse over 'First Deal in the Searched Deal'
+Mar 27,2017 10:37:45 [Info]  Clicked on the 'First Deal in the Searched Deal'
+Mar 27,2017 10:37:48 [Info]  Clicked on the 'View Deal' using JS Executor
+Mar 27,2017 10:37:54 [Info]  Generated Deal Id is:  7449
+Mar 27,2017 10:37:54 [Info]  Clicked on the 'DealTitleField' using JS Executor
+Mar 27,2017 10:37:54 [Info]  Entered "AUT_Deal_03272017103227" in field 'Deal Name Field'
+Mar 27,2017 10:37:54 [Info]  Entered "03272" in field 'Deal Code'
+Mar 27,2017 10:37:54 [Info]  Selected "Acquisition-Program" in "DealType_DropDownField" drop down
+Mar 27,2017 10:37:54 [Info]  Selected "Events" in "Deal/Agreement Sub Type" drop down
+Mar 27,2017 10:37:54 [Info]  Entered "Fully Executed" in field 'Deal Creation Contract Status'
+Mar 27,2017 10:37:55 [Info]  Entered "In Progress" in field 'DealCreationCDEStatus'
+Mar 27,2017 10:37:55 [Info]  Entered "01/01/2014" in field 'DateExecuted_InputField'
+Mar 27,2017 10:37:55 [Info]  Entered "USD" in field 'DealCreationCurrency'
+Mar 27,2017 10:37:55 [Info]  Selected "Sky Movies" in "ProfitCenter_InputField" drop down
+Mar 27,2017 10:38:01 [Info]  Selected "Sky Movies" in "BudgetLine_InputField" drop down
+Mar 27,2017 10:38:25 [Info]  Clicked on the 'Save Button' using JS Executor
+Mar 27,2017 10:38:30 [Info]  Clicked on the 'OK Button' using JS Executor
+Mar 27,2017 10:38:30 [Info]  Verify The data of CreatedDeal
+<span style="color:green;">Mar 27,2017 10:38:30 [Verification]  Verified that Expected value :[AUT_Deal_03272017103227] is matched with Actual value :[AUT_Deal_03272017103227]</span>
+Mar 27,2017 10:38:34 [Info]  Clicked on the 'Navigator' using JS Executor
+Mar 27,2017 10:38:52 [Info]  Clicked on the 'Associate With Exiting Asset' using JS Executor
+Mar 27,2017 10:38:52 [Info]  Clicked on the 'Asset Status'
+Mar 27,2017 10:38:52 [Info]  Clicked on the 'Asset tile' using JS Executor
+Mar 27,2017 10:38:52 [Info]  Entered "AUT_AssetSeries_03272017103227" in field 'Asset title'
+<span style="color:red;">Mar 27,2017 10:38:52 [Fail]  <span style="color:red;">=====BUG ID======: 20309</span></span>
+Mar 27,2017 10:38:52 [Info]  Clicked on the 'Display Season checkBox' using JS Executor
+Mar 27,2017 10:39:07 [Info]  Clicked on the 'Search Button' using JS Executor
+Mar 27,2017 10:39:10 [Info]  Clicked on the 'Toggle'
+Mar 27,2017 10:39:13 [Info]  Double clicked on 'Searched Asset'
+Mar 27,2017 10:39:23 [Info]  Clicked on the 'Ok Button'
+Mar 27,2017 10:39:36 [Info]  Clicked on the 'MODULE'
+Mar 27,2017 10:39:43 [Info]  Clicked on the 'Title Maintenance'
+Mar 27,2017 10:39:57 [Info]  Double clicked on 'AUT_AssetSeries_03272017103227AssetName'
+Mar 27,2017 10:39:57 [Info]  Clicked on the 'Episodes TAB'
+Mar 27,2017 10:39:59 [Info]  Clicked on the ''Edit' Button at Episode window' using JS Executor
+Mar 27,2017 10:40:04 [Info]  Clicked on the ''ClearFilter' at Episode window' using JS Executor
+
+<span style="color:blue;"> [Manual Test Step] : TC_2.5_Episode Tab_6</span>
+Mar 27,2017 10:40:04 [Info]  *****Select the Episode and check functionality of Copy Episode******
+Mar 27,2017 10:40:04 [Info]  Clicked on the 'Select First Row of Episodes'
+Mar 27,2017 10:40:04 [Info]  Double clicked on 'Select First Row of Episodes'
+Mar 27,2017 10:40:05 [Info]  Clicked on the ''CopyEpisodes' Button at Episode window' using JS Executor
+
+<span style="color:blue;"> [Manual Test Step] : TC_2.5_Episode Tab_9 to TC_2.5_Episode Tab_11</span>
+Mar 27,2017 10:40:05 [Info]  *****Verify the Episode Name, Season Name and Episode Number of the copied Episode*****
+Mar 27,2017 10:40:06 [Info]  Verifying the data of Copied Episodedoes not match
+<span style="color:green;">Mar 27,2017 10:40:06 [Verification]  Verified that Expected value :[Copy of Episode101] is matched with Actual value :[Copy of Episode101]</span>
+Mar 27,2017 10:40:06 [Info]  Verifying the data of Season Name of Copied Episode 'Copy of Episodes101'does not match
+<span style="color:green;">Mar 27,2017 10:40:06 [Verification]  Verified that Expected value :[Season 1] is matched with Actual value :[Season 1]</span>
+Mar 27,2017 10:40:06 [Info]  Verifying the data of Episode Number of Copied Episode 'Copy of Episodes101'does not match
+<span style="color:green;">Mar 27,2017 10:40:06 [Verification]  Verified that Expected value :[101] is matched with Actual value :[101]</span>
+Mar 27,2017 10:40:06 [Info]  ******************************(Select All) in the Filter Drop down**************************************************
+Mar 27,2017 10:40:11 [Info]  Clicked on the 'Save Button at 'Episode Edit Window'' using JS Executor
+Mar 27,2017 10:40:12 [Info]  Entered "(Select All)" in field 'Episodes_Filter1DropDown'
+Mar 27,2017 10:40:15 [Info]  *****Change the Airing Order so that Copied Episodes can be saved*****
+Mar 27,2017 10:40:15 [Info]  Double clicked on 'Airing Order'
+Mar 27,2017 10:40:18 [Info]  Entered "7" in field 'Airing Order for Row 5'
+Mar 27,2017 10:40:18 [Info]  Clicked on the 'Support click to select season'
+Mar 27,2017 10:40:18 [Info]  Clicked on the 'TBA Check Box'
+
+<span style="color:blue;"> [Manual Test Step] : TC_2.5_Episode Tab_13</span>
+Mar 27,2017 10:40:18 [Info]  *****Change Episode Number of Copied Episode and verify that changes are applied successfully******
+Mar 27,2017 10:40:18 [Info]  Clicked on the 'Episode Number in row 5'
+Mar 27,2017 10:40:18 [Info]  Entered "301" in field 'Episodes Number'
+Mar 27,2017 10:40:18 [Info]  Clicked on the 'Support click'
+Mar 27,2017 10:40:18 [Info]  Clicked on the 'Save Button at 'Episode Edit Window'' using JS Executor
+Mar 27,2017 10:40:33 [Info]  Entered "(Select All)" in field 'Episodes_Filter1DropDown'
+Mar 27,2017 10:40:35 [Info]  *****Verify #Episode Number has been changed******
+Mar 27,2017 10:40:35 [Info]  Verify The data of Episode Number of Newly copied Episode
+<span style="color:green;">Mar 27,2017 10:40:35 [Verification]  Verified that Expected value :[301] is matched with Actual value :[301]</span>
+Mar 27,2017 10:40:36 [Info]  Clicked on the 'Close Button at 'Episode Edit Window'' using JS Executor
+Mar 27,2017 10:40:45 [Info]  Clicked on the 'Home Icon' using JS Executor
+
+<span style="color:blue;"> [Manual Test Step] : TC_2.5_Episode Tab_16</span>
+Mar 27,2017 10:40:49 [Info]  ******Verify that Copied Episode is not shown in Deal Navigator*****
+Mar 27,2017 10:40:51 [Info]  Clicked on the 'Modules'
+Mar 27,2017 10:40:51 [Info]  Clicked on the 'Modules'
+Mar 27,2017 10:41:02 [Info]  Clicked on the 'RightsIN'
+Mar 27,2017 10:41:04 [Info]  Clicked on the 'Modules'
+Mar 27,2017 10:41:04 [Info]  Clicked on the 'Modules'
+Mar 27,2017 10:41:15 [Info]  Clicked on the 'RightsIN'
+Mar 27,2017 10:41:15 [Info]  Clicked on the 'Search Icon' using JS Executor
+Mar 27,2017 10:41:16 [Info]  Clicked on the 'Agreement Link' using JS Executor
+Mar 27,2017 10:41:16 [Info]  Entered "AUT_Deal_03272017103227" in field 'Deal Name'
+Mar 27,2017 10:41:21 [Info]  Clicked on the 'Find Button' using JS Executor
+Mar 27,2017 10:41:21 [Info]  Moved Mouse over 'First Deal in the Searched Deal'
+Mar 27,2017 10:41:21 [Info]  Clicked on the 'First Deal in the Searched Deal'
+Mar 27,2017 10:41:24 [Info]  Clicked on the 'View Deal' using JS Executor
+Mar 27,2017 10:41:27 [Info]  Verify The data of Deal Name
+<span style="color:green;">Mar 27,2017 10:41:27 [Verification]  Verified that Expected value :[AUT_Deal_03272017103227] is matched with Actual value :[AUT_Deal_03272017103227]</span>
+Mar 27,2017 10:41:29 [Info]  Clicked on the 'Deal Navigator' using JS Executor
+<span style="color:red;">Mar 27,2017 10:41:45 [Fail]  ====Failed==== "DealNavigatorWindow_AssetSeriesExpandIcon" field is not present'</span>
+Mar 27,2017 10:41:46 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\27\DealNavigatorWindow_AssetSeriesExpandIcon_CheckpointFailure_03-27-2017 10-41-45 AM.jpg
+<span style="color:red;">Mar 27,2017 10:41:56 [Fail]  ====Failed==== "DealNavigatorWindow_1stSeason_ExpandIcon" field is not present'</span>
+Mar 27,2017 10:41:56 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\27\DealNavigatorWindow_1stSeason_ExpandIcon_CheckpointFailure_03-27-2017 10-41-56 AM.jpg
+<span style="color:red;">Mar 27,2017 10:42:06 [Fail]  ====Failed==== "DealNavigatorWindow_2ndSeason_ExpandIcon" field is not present'</span>
+Mar 27,2017 10:42:06 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\27\DealNavigatorWindow_2ndSeason_ExpandIcon_CheckpointFailure_03-27-2017 10-42-06 AM.jpg
+Mar 27,2017 10:42:06 [Info]  Verifying that Copied Episode is not shown at the Deal Navigator
+Mar 27,2017 10:42:16 [Info]  "Ep.301: Copy of Episode101" is not shown at the Deal Navigator
+Mar 27,2017 10:42:19 [Info]  Clicked on the 'OKButton' using JS Executor
+Mar 27,2017 10:42:25 [Info]  Clicked on the 'Home Icon' using JS Executor
+Mar 27,2017 10:42:35 [Info]  Clicked on the 'MODULE'
+Mar 27,2017 10:42:41 [Info]  Clicked on the 'Title Maintenance'
+Mar 27,2017 10:43:01 [Info]  Clicked on the 'MODULE'
+Mar 27,2017 10:43:04 [Info]  Clicked on the 'Title Maintenance'
+Mar 27,2017 10:43:19 [Info]  Double clicked on 'AUT_AssetSeries_03272017103227AssetName'
+Mar 27,2017 10:43:20 [Info]  Clicked on the 'Episodes TAB'
+Mar 27,2017 10:43:22 [Info]  Clicked on the ''Edit' Button' using JS Executor
+Mar 27,2017 10:43:22 [Info]  Test 'TC5_EpisodeCopy' PASSED
+Mar 27,2017 10:43:23 [Info]  Closed the Browser
+Mar 27,2017 11:43:35 [Info]  ********************Started Executiong the Test Suite at 11:43:35******************
+Mar 27,2017 11:43:35 [Info]  Client: SKY
+Mar 27,2017 11:43:35 [Info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Mar 27,2017 11:43:35 [Info]  *********************Started Executing 'TC5_EpisodeCopy' Test Case*********************
+Mar 27,2017 11:43:46 [Info]  Client: SKY
+Mar 27,2017 11:43:46 [Info]  URL: http://rlv2wb85/Home.aspx
+Mar 27,2017 11:43:46 [Info]  UserName: admin
+Mar 27,2017 11:43:46 [Info]  Password: admin
+Mar 27,2017 11:43:46 [Info]  Entered "admin" in field 'User Name'
+Mar 27,2017 11:43:46 [Info]  Clicked on the 'Temporary Check Box'
+Mar 27,2017 11:43:46 [Info]  Entered "admin" in field 'Password'
+Mar 27,2017 11:43:54 [Info]  Clicked on the 'LoginButton'
+Mar 27,2017 11:44:00 [Info]  ************************Started Creating Asset of Type: Program - Series************************
+Mar 27,2017 11:44:10 [Info]  Clicked on the 'MODULE'
+Mar 27,2017 11:44:17 [Info]  Clicked on the 'Title Maintenance'
+Mar 27,2017 11:44:27 [Info]  Clicked on the 'New Button' using JS Executor
+Mar 27,2017 11:44:39 [Info]  Clicked on the 'Program' using JS Executor
+Mar 27,2017 11:44:47 [Info]  Clicked on the 'General TAB'
+Mar 27,2017 11:45:05 [Info]  Selected "Program - Series" in "AssetTypeDropDown" drop down
+Mar 27,2017 11:45:06 [Info]  Entered "AUT_AssetSeries_03272017114400" in field 'AssetTitle'
+Mar 27,2017 11:45:06 [Info]  Clicked on the 'SBUImage' using JS Executor
+Mar 27,2017 11:45:12 [Info]  Clicked on the 'First CheckBox At SBU window'
+Mar 27,2017 11:45:14 [Info]  Clicked on the 'Apply Button' using JS Executor
+Mar 27,2017 11:45:15 [Info]  Entered "11:11:11" in field 'Duration'
+Mar 27,2017 11:45:25 [Info]  Selected "Active" in "Asset Status" drop down
+Mar 27,2017 11:45:25 [Info]  Selected "Event" in "Asset Format" drop down
+Mar 27,2017 11:45:25 [Info]  Selected "License Acquired" in "Asset Source" drop down
+Mar 27,2017 11:45:25 [Info]  Entered "AUT_Series" in field 'Short Name'
+Mar 27,2017 11:45:25 [Info]  Clicked on the 'Save Button' using JS Executor
+Mar 27,2017 11:45:40 [Info]  Verify The data of Created AssetAUT_AssetSeries_03272017114400
+<span style="color:green;">Mar 27,2017 11:45:40 [Verification]  Verified that Expected value :[AUT_AssetSeries_03272017114400] is matched with Actual value :[AUT_AssetSeries_03272017114400]</span>
+Mar 27,2017 11:45:40 [Info]  ************************Created Asset of TypeProgram - Series************************
+Mar 27,2017 11:45:50 [Info]  Clicked on the 'MODULE'
+Mar 27,2017 11:45:57 [Info]  Clicked on the 'Title Maintenance'
+Mar 27,2017 11:46:10 [Info]  Double clicked on 'AUT_AssetSeries_03272017114400AssetName'
+Mar 27,2017 11:46:17 [Info]  Clicked on the 'Episodes TAB'
+Mar 27,2017 11:46:21 [Info]  Clicked on the ''Edit' Button at Episode window' using JS Executor
+Mar 27,2017 11:46:24 [Info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Mar 27,2017 11:46:24 [Info]  Entered "101" in field 'Add Episode input field'
+Mar 27,2017 11:46:25 [Info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Mar 27,2017 11:46:30 [Info]  Clicked on the 'Season Field of Episode101' using JS Executor
+Mar 27,2017 11:46:30 [Info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Mar 27,2017 11:46:30 [Info]  Clicked on the 'Season 1'
+Mar 27,2017 11:46:31 [Info]  Clicked on the 'Support click to select season'
+Mar 27,2017 11:46:31 [Info]  Entered "00:30:00" in field 'duration Program'
+Mar 27,2017 11:46:31 [Info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Mar 27,2017 11:46:31 [Info]  Entered "102" in field 'Add Episode input field'
+Mar 27,2017 11:46:32 [Info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Mar 27,2017 11:46:37 [Info]  Clicked on the 'Season Field of Episode101' using JS Executor
+Mar 27,2017 11:46:37 [Info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Mar 27,2017 11:46:37 [Info]  Clicked on the 'Season 1'
+Mar 27,2017 11:46:37 [Info]  Clicked on the 'Support click to select season'
+Mar 27,2017 11:46:37 [Info]  Entered "00:30:00" in field 'duration Program'
+Mar 27,2017 11:46:37 [Info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Mar 27,2017 11:46:38 [Info]  Entered "201" in field 'Add Episode input field'
+Mar 27,2017 11:46:39 [Info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Mar 27,2017 11:46:44 [Info]  Clicked on the 'Season Field of Episode101' using JS Executor
+Mar 27,2017 11:46:44 [Info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Mar 27,2017 11:46:44 [Info]  Clicked on the 'Season 1'
+Mar 27,2017 11:46:44 [Info]  Clicked on the 'Support click to select season'
+Mar 27,2017 11:46:44 [Info]  Entered "00:30:00" in field 'duration Program'
+Mar 27,2017 11:46:44 [Info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Mar 27,2017 11:46:44 [Info]  Entered "202" in field 'Add Episode input field'
+Mar 27,2017 11:46:46 [Info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Mar 27,2017 11:46:51 [Info]  Clicked on the 'Season Field of Episode101' using JS Executor
+Mar 27,2017 11:46:51 [Info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Mar 27,2017 11:46:51 [Info]  Clicked on the 'Season 1'
+Mar 27,2017 11:46:51 [Info]  Clicked on the 'Support click to select season'
+Mar 27,2017 11:46:51 [Info]  Entered "00:30:00" in field 'duration Program'
+Mar 27,2017 11:46:58 [Info]  Clicked on the 'Save Button at 'Episode Edit Window'' using JS Executor
+Mar 27,2017 11:47:02 [Info]  Clicked on the 'Close Button at 'Episode Edit Window'' using JS Executor
+Mar 27,2017 11:47:09 [Info]  Clicked on the 'Module '
+Mar 27,2017 11:47:19 [Info]  Clicked on the 'Rights IN TAB '
+Mar 27,2017 11:47:25 [Info]  Clicked on the 'New Button' using JS Executor
+Mar 27,2017 11:47:26 [Info]  Clicked on the 'Master Agreement' using JS Executor
+Mar 27,2017 11:47:29 [Info]  Generated Deal Id is:  7451
+Mar 27,2017 11:47:29 [Info]  Clicked on the 'DealTitleField' using JS Executor
+Mar 27,2017 11:47:30 [Info]  Entered "AUT_Deal_03272017114400_Master" in field 'Deal Name Field'
+Mar 27,2017 11:47:30 [Info]  Entered "03272" in field 'Deal Code'
+Mar 27,2017 11:47:30 [Info]  Selected "Acquisition-Program" in "DealType_DropDownField" drop down
+Mar 27,2017 11:47:30 [Info]  Selected "Events" in "Deal/Agreement Sub Type" drop down
+Mar 27,2017 11:47:30 [Info]  Entered "Fully Executed" in field 'Deal Creation Contract Status'
+Mar 27,2017 11:47:31 [Info]  Entered "In Progress" in field 'DealCreationCDEStatus'
+Mar 27,2017 11:47:31 [Info]  Entered "01/01/2014" in field 'DateExecuted_InputField'
+Mar 27,2017 11:47:31 [Info]  Entered "USD" in field 'DealCreationCurrency'
+Mar 27,2017 11:47:31 [Info]  Selected "Sky Movies" in "ProfitCenter_InputField" drop down
+Mar 27,2017 11:47:37 [Info]  Selected "Sky Movies" in "BudgetLine_InputField" drop down
+Mar 27,2017 11:47:59 [Info]  Moved Mouse over 'Party_AddButton'
+Mar 27,2017 11:47:59 [Info]  Clicked on the 'Party_AddButton'
+Mar 27,2017 11:48:03 [Info]  Entered "AUT_SKY_RI_PRIMARY_PARTY" in field 'Search Party InputField'
+Mar 27,2017 11:48:03 [Info]  Double clicked on 'RI Search Party Window Find Button'
+Mar 27,2017 11:48:04 [Info]  Clicked on the 'AUT_SKY_RI_PRIMARY_PARTY'
+Mar 27,2017 11:48:05 [Info]  Clicked on the 'Select Button'
+Mar 27,2017 11:48:11 [Info]  Clicked on the 'Party Type Field' using JS Executor
+Mar 27,2017 11:48:11 [Info]  Entered "Primary" in field 'Party Party InputField'
+Mar 27,2017 11:48:11 [Info]  Clicked on the 'Support Click '
+Mar 27,2017 11:48:11 [Info]  Clicked on the 'Party_AddButton' using JS Executor
+Mar 27,2017 11:48:17 [Info]  Entered "AUT_SKY_RI_LICENSOR_PARTY" in field 'Search Party InputField'
+Mar 27,2017 11:48:17 [Info]  Double clicked on 'RI Search Party Window Find Button'
+Mar 27,2017 11:48:22 [Info]  Clicked on the 'Select Party'
+Mar 27,2017 11:48:22 [Info]  Clicked on the 'Select Button'
+Mar 27,2017 11:48:29 [Info]  Clicked on the 'Party Type Field' using JS Executor
+Mar 27,2017 11:48:29 [Info]  Entered "Licensor" in field 'Party Party InputField'
+Mar 27,2017 11:48:29 [Info]  Clicked on the 'Support Click '
+Mar 27,2017 11:48:34 [Info]  Clicked on the 'Save Button' using JS Executor
+Mar 27,2017 11:48:38 [Info]  Clicked on the 'OK Button' using JS Executor
+Mar 27,2017 11:48:38 [Info]  Verify The data of CreatedDeal
+<span style="color:green;">Mar 27,2017 11:48:38 [Verification]  Verified that Expected value :[AUT_Deal_03272017114400_Master] is matched with Actual value :[AUT_Deal_03272017114400_Master]</span>
+Mar 27,2017 11:48:39 [Info]  Clicked on the 'Module '
+Mar 27,2017 11:48:49 [Info]  Clicked on the 'Rights IN TAB '
+Mar 27,2017 11:48:55 [Info]  Clicked on the 'New Button' using JS Executor
+Mar 27,2017 11:48:56 [Info]  Clicked on the 'Attachment & Link to Master' using JS Executor
+Mar 27,2017 11:48:57 [Info]  Entered "AUT_Deal_03272017114400_Master" in field 'Deal Name'
+Mar 27,2017 11:49:01 [Info]  Clicked on the 'Find Button' using JS Executor
+Mar 27,2017 11:49:01 [Info]  Moved Mouse over 'First Deal in the Searched Deal'
+Mar 27,2017 11:49:01 [Info]  Clicked on the 'First Deal in the Searched Deal'
+Mar 27,2017 11:49:04 [Info]  Clicked on the 'View Deal' using JS Executor
+Mar 27,2017 11:49:10 [Info]  Generated Deal Id is:  7452
+Mar 27,2017 11:49:10 [Info]  Clicked on the 'DealTitleField' using JS Executor
+Mar 27,2017 11:49:10 [Info]  Entered "AUT_Deal_03272017114400" in field 'Deal Name Field'
+Mar 27,2017 11:49:11 [Info]  Entered "03272" in field 'Deal Code'
+Mar 27,2017 11:49:11 [Info]  Selected "Acquisition-Program" in "DealType_DropDownField" drop down
+Mar 27,2017 11:49:11 [Info]  Selected "Events" in "Deal/Agreement Sub Type" drop down
+Mar 27,2017 11:49:11 [Info]  Entered "Fully Executed" in field 'Deal Creation Contract Status'
+Mar 27,2017 11:49:11 [Info]  Entered "In Progress" in field 'DealCreationCDEStatus'
+Mar 27,2017 11:49:11 [Info]  Entered "01/01/2014" in field 'DateExecuted_InputField'
+Mar 27,2017 11:49:11 [Info]  Entered "USD" in field 'DealCreationCurrency'
+Mar 27,2017 11:49:11 [Info]  Selected "Sky Movies" in "ProfitCenter_InputField" drop down
+Mar 27,2017 11:49:18 [Info]  Selected "Sky Movies" in "BudgetLine_InputField" drop down
+Mar 27,2017 11:49:42 [Info]  Clicked on the 'Save Button' using JS Executor
+Mar 27,2017 11:49:46 [Info]  Clicked on the 'OK Button' using JS Executor
+Mar 27,2017 11:49:46 [Info]  Verify The data of CreatedDeal
+<span style="color:green;">Mar 27,2017 11:49:46 [Verification]  Verified that Expected value :[AUT_Deal_03272017114400] is matched with Actual value :[AUT_Deal_03272017114400]</span>
+Mar 27,2017 11:49:46 [Info]  Clicked on the 'Navigator' using JS Executor
+Mar 27,2017 11:50:03 [Info]  Clicked on the 'Associate With Exiting Asset' using JS Executor
+Mar 27,2017 11:50:04 [Info]  Clicked on the 'Asset Status'
+Mar 27,2017 11:50:04 [Info]  Clicked on the 'Asset tile' using JS Executor
+Mar 27,2017 11:50:04 [Info]  Entered "AUT_AssetSeries_03272017114400" in field 'Asset title'
+<span style="color:red;">Mar 27,2017 11:50:04 [Fail]  <span style="color:red;">=====BUG ID======: 20309</span></span>
+Mar 27,2017 11:50:04 [Info]  Clicked on the 'Display Season checkBox' using JS Executor
+Mar 27,2017 11:50:08 [Info]  Clicked on the 'Search Button' using JS Executor
+Mar 27,2017 11:50:11 [Info]  Clicked on the 'Toggle'
+Mar 27,2017 11:50:14 [Info]  Double clicked on 'Searched Asset'
+Mar 27,2017 11:50:24 [Info]  Clicked on the 'Ok Button'
+Mar 27,2017 11:50:37 [Info]  Clicked on the 'MODULE'
+Mar 27,2017 11:50:43 [Info]  Clicked on the 'Title Maintenance'
+Mar 27,2017 11:50:57 [Info]  Double clicked on 'AUT_AssetSeries_03272017114400AssetName'
+Mar 27,2017 11:50:58 [Info]  Clicked on the 'Episodes TAB'
+Mar 27,2017 11:51:00 [Info]  Clicked on the ''Edit' Button at Episode window' using JS Executor
+Mar 27,2017 11:51:04 [Info]  Clicked on the ''ClearFilter' at Episode window' using JS Executor
+
+<span style="color:blue;"> [Manual Test Step] : TC_2.5_Episode Tab_6</span>
+Mar 27,2017 11:51:04 [Info]  *****Select the Episode and check functionality of Copy Episode******
+Mar 27,2017 11:51:04 [Info]  Clicked on the 'Select First Row of Episodes'
+Mar 27,2017 11:51:04 [Info]  Double clicked on 'Select First Row of Episodes'
+Mar 27,2017 11:51:06 [Info]  Clicked on the ''CopyEpisodes' Button at Episode window' using JS Executor
+
+<span style="color:blue;"> [Manual Test Step] : TC_2.5_Episode Tab_9 to TC_2.5_Episode Tab_11</span>
+Mar 27,2017 11:51:06 [Info]  *****Verify the Episode Name, Season Name and Episode Number of the copied Episode*****
+Mar 27,2017 11:51:06 [Info]  Verifying the data of Copied Episodedoes not match
+<span style="color:green;">Mar 27,2017 11:51:06 [Verification]  Verified that Expected value :[Copy of Episode101] is matched with Actual value :[Copy of Episode101]</span>
+Mar 27,2017 11:51:06 [Info]  Verifying the data of Season Name of Copied Episode 'Copy of Episodes101'does not match
+<span style="color:green;">Mar 27,2017 11:51:06 [Verification]  Verified that Expected value :[Season 1] is matched with Actual value :[Season 1]</span>
+Mar 27,2017 11:51:06 [Info]  Verifying the data of Episode Number of Copied Episode 'Copy of Episodes101'does not match
+<span style="color:green;">Mar 27,2017 11:51:06 [Verification]  Verified that Expected value :[101] is matched with Actual value :[101]</span>
+Mar 27,2017 11:51:06 [Info]  ******************************(Select All) in the Filter Drop down**************************************************
+Mar 27,2017 11:51:11 [Info]  Clicked on the 'Save Button at 'Episode Edit Window'' using JS Executor
+Mar 27,2017 11:51:13 [Info]  Entered "(Select All)" in field 'Episodes_Filter1DropDown'
+Mar 27,2017 11:51:15 [Info]  *****Change the Airing Order so that Copied Episodes can be saved*****
+Mar 27,2017 11:51:15 [Info]  Double clicked on 'Airing Order'
+Mar 27,2017 11:51:18 [Info]  Entered "7" in field 'Airing Order for Row 5'
+Mar 27,2017 11:51:18 [Info]  Clicked on the 'Support click to select season'
+Mar 27,2017 11:51:18 [Info]  Clicked on the 'TBA Check Box'
+
+<span style="color:blue;"> [Manual Test Step] : TC_2.5_Episode Tab_13</span>
+Mar 27,2017 11:51:18 [Info]  *****Change Episode Number of Copied Episode and verify that changes are applied successfully******
+Mar 27,2017 11:51:18 [Info]  Clicked on the 'Episode Number in row 5'
+Mar 27,2017 11:51:18 [Info]  Entered "301" in field 'Episodes Number'
+Mar 27,2017 11:51:18 [Info]  Clicked on the 'Support click'
+Mar 27,2017 11:51:18 [Info]  Clicked on the 'Save Button at 'Episode Edit Window'' using JS Executor
+Mar 27,2017 11:51:32 [Info]  Entered "(Select All)" in field 'Episodes_Filter1DropDown'
+Mar 27,2017 11:51:34 [Info]  *****Verify #Episode Number has been changed******
+Mar 27,2017 11:51:34 [Info]  Verify The data of Episode Number of Newly copied Episode
+<span style="color:green;">Mar 27,2017 11:51:34 [Verification]  Verified that Expected value :[301] is matched with Actual value :[301]</span>
+Mar 27,2017 11:51:35 [Info]  Clicked on the 'Close Button at 'Episode Edit Window'' using JS Executor
+Mar 27,2017 11:51:42 [Info]  Clicked on the 'Home Icon' using JS Executor
+
+<span style="color:blue;"> [Manual Test Step] : TC_2.5_Episode Tab_16</span>
+Mar 27,2017 11:53:45 [Info]  ******Verify that Copied Episode is not shown in Deal Navigator*****
+<span style="color:red;">Mar 27,2017 11:53:47 [Fail]  ====Failed==== "Modules" field is not present'</span>
+Mar 27,2017 11:53:48 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\27\Modules_CheckpointFailure_03-27-2017 11-53-47 AM.jpg
+<span style="color:red;">Mar 27,2017 11:53:48 [Fail]  ====Failed==== "Modules" field is not present'</span>
+Mar 27,2017 11:53:48 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\27\Modules_CheckpointFailure_03-27-2017 11-53-48 AM.jpg
+<span style="color:red;">Mar 27,2017 11:53:55 [Fail]  ====Failed==== "RightsIN" field is not present'</span>
+Mar 27,2017 11:53:55 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\27\RightsIN_CheckpointFailure_03-27-2017 11-53-55 AM.jpg
+<span style="color:red;">Mar 27,2017 11:53:57 [Fail]  ====Failed==== "Modules" field is not present'</span>
+Mar 27,2017 11:53:58 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\27\Modules_CheckpointFailure_03-27-2017 11-53-57 AM.jpg
+<span style="color:red;">Mar 27,2017 11:53:58 [Fail]  ====Failed==== "Modules" field is not present'</span>
+Mar 27,2017 11:53:58 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Mar2017\\27\Modules_CheckpointFailure_03-27-2017 11-53-58 AM.jpg

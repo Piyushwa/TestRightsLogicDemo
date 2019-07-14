@@ -1,0 +1,117 @@
+Mar 29,2017 19:33:18 [Info]  ********************Started Executiong the Test Suite at 19:33:18******************
+Mar 29,2017 19:33:18 [Info]  Client: VMN
+Mar 29,2017 19:33:18 [Info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Mar 29,2017 19:33:18 [Info]  *********************Started Executing 'TC1_MediaRightsRow' Test Case*********************
+Mar 29,2017 19:33:31 [Info]  Client: VMN
+Mar 29,2017 19:33:31 [Info]  URL: http://rlv3wb53/Home.aspx
+Mar 29,2017 19:33:31 [Info]  UserName: admin
+Mar 29,2017 19:33:31 [Info]  Password: admin
+Mar 29,2017 19:33:31 [Info]  ************************Started Creating Asset of Type: Program - Series************************
+<span style="color:red;">Mar 29,2017 19:33:42 [Fail]  ====Failed==== " Could not find the Frame: //div[@clientid='RL_SplitterPane_Navigation']</span>
+Mar 29,2017 19:33:42 [Info]  File created C:\SeleniumProject\Workspace\Rightslogic New\Screenshots\Mar2017
+Mar 29,2017 19:33:42 [Info]  File created C:\SeleniumProject\Workspace\Rightslogic New\Screenshots\Mar2017\29
+<span style="color:red;">Mar 29,2017 19:33:42 [Fail]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\Rightslogic New\Screenshots\Mar2017\\29\FrameSwitchingFailed0_CheckpointFailure_03-29-2017 7-33-42 PM.jpg</span>
+Mar 29,2017 19:33:42 [Info]  Unable to find element with xpath == //div[@clientid='RL_SplitterPane_Navigation'] (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.13 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: '8VYR7BS', ip: '10.10.22.164', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=true, ie.forceCreateProcessApi=false, pageLoadStrategy=normal, ie.usePerProcessProxy=false, ignoreZoomSetting=false, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=false, browserName=internet explorer, initialBrowserUrl=http://localhost:14722/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=false, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: 00a8ff96-648d-452b-a872-61d995149c4a
+*** Element info: {Using=xpath, value=//div[@clientid='RL_SplitterPane_Navigation']}
+<span style="color:red;">Mar 29,2017 19:34:02 [Fail]  ====Failed==== " Could not find the Frame: //div[@clientid='RL_SplitterPane_Navigation']</span>
+<span style="color:red;">Mar 29,2017 19:34:02 [Fail]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\Rightslogic New\Screenshots\Mar2017\\29\FrameSwitchingFailed1_CheckpointFailure_03-29-2017 7-34-02 PM.jpg</span>
+Mar 29,2017 19:34:02 [Info]  Unable to find element with xpath == //div[@clientid='RL_SplitterPane_Navigation'] (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.17 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: '8VYR7BS', ip: '10.10.22.164', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=true, ie.forceCreateProcessApi=false, pageLoadStrategy=normal, ie.usePerProcessProxy=false, ignoreZoomSetting=false, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=false, browserName=internet explorer, initialBrowserUrl=http://localhost:14722/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=false, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: 00a8ff96-648d-452b-a872-61d995149c4a
+*** Element info: {Using=xpath, value=//div[@clientid='RL_SplitterPane_Navigation']}
+Mar 29,2017 19:34:23 [Info]  ********************Started Executiong the Test Suite at 19:34:23******************
+Mar 29,2017 19:34:23 [Info]  Client: VMN
+Mar 29,2017 19:34:23 [Info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Mar 29,2017 19:34:23 [Info]  *********************Started Executing 'TC1_MediaRightsRow' Test Case*********************
+Mar 29,2017 19:34:33 [Info]  Client: VMN
+Mar 29,2017 19:34:33 [Info]  URL: http://rlv3wb53/Home.aspx
+Mar 29,2017 19:34:33 [Info]  UserName: admin
+Mar 29,2017 19:34:33 [Info]  Password: admin
+Mar 29,2017 19:34:34 [Info]  Entered "admin" in field 'User Name'
+Mar 29,2017 19:34:34 [Info]  Clicked on the 'Temporary Check Box'
+Mar 29,2017 19:34:35 [Info]  Entered "admin" in field 'Password'
+Mar 29,2017 19:34:42 [Info]  Clicked on the 'LoginButton'
+Mar 29,2017 19:34:49 [Info]  ************************Started Creating Asset of Type: Program - Series************************
+Mar 29,2017 19:34:59 [Info]  Clicked on the 'MODULE'
+Mar 29,2017 19:35:10 [Info]  Clicked on the 'Property Entry & Maintenance'
+Mar 29,2017 19:35:21 [Info]  Clicked on the 'SearchLink' using JS Executor
+Mar 29,2017 19:35:21 [Info]  Clicked on the 'Property Search' using JS Executor
+Mar 29,2017 19:35:30 [Info]  Clicked on the 'TR_Asset_Search_Params' using JS Executor
+Mar 29,2017 19:35:31 [Info]  Entered "RAR_Collision Series_TC30_0329201773423" in field 'Asset Title'
+Mar 29,2017 19:35:33 [Info]  Clicked on the 'Find Button' using JS Executor
+Mar 29,2017 19:35:48 [Info]  Verify The data of Alert Message
+<span style="color:green;">Mar 29,2017 19:35:48 [Verification]  Verified that Expected value :[No search results were found for this query. Please try again using different criteria.] is matched with Actual value :[No search results were found for this query. Please try again using different criteria.]</span>
+Mar 29,2017 19:35:49 [Info]  Clicked on the 'OK Button at Alert' using JS Executor
+Mar 29,2017 19:35:49 [Info]  Clicked on the 'Ok button At Alert' using JS Executor
+Mar 29,2017 19:35:55 [Info]  Clicked on the 'Add Asset Button' using JS Executor
+Mar 29,2017 19:35:56 [Info]  Program
+Promo & Marketing
+Element
+Musical / Audio Product
+IP
+
+Mar 29,2017 19:35:56 [Info]  Selected "Program" in "AssetTypeDropDown Pop upn VMN" drop down
+Mar 29,2017 19:35:57 [Info]  Double clicked on 'OK Button'
+Mar 29,2017 19:36:16 [Info]  Asset id is 189819
+Mar 29,2017 19:36:19 [Info]  Selected "Program - Series" in "AssetTypeDropDown" drop down
+Mar 29,2017 19:36:32 [Info]  Entered "RAR_Collision Series_TC30_0329201773423" in field 'AssetTitle'
+Mar 29,2017 19:36:33 [Info]  Clicked on the 'IPImageIcon' using JS Executor
+Mar 29,2017 19:36:34 [Info]  Clicked on the 'Find Button' using JS Executor
+Mar 29,2017 19:36:38 [Info]  Clicked on the 'loc_IPName_AT_IPWindow'
+Mar 29,2017 19:36:38 [Info]  Clicked on the 'IP Select Button' using JS Executor
+Mar 29,2017 19:36:38 [Info]  Clicked on the 'Vendor Img Icon' using JS Executor
+Mar 29,2017 19:36:40 [Info]  Entered "AUT_VMN_Vendor1" in field 'SearchvalueVendor'
+Mar 29,2017 19:36:42 [Info]  Clicked on the 'VendorWindowButtonfind' using JS Executor
+<span style="color:red;">Mar 29,2017 19:37:00 [Fail]  ====Failed==== " Could not find the Frame: div[id*='WebDialogWindow1'][style*=visible]</span>
+<span style="color:red;">Mar 29,2017 19:37:00 [Fail]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\Rightslogic New\Screenshots\Mar2017\\29\FrameSwitchingFailed0_CheckpointFailure_03-29-2017 7-37-00 PM.jpg</span>
+Mar 29,2017 19:37:00 [Info]  Unable to find element with css selector == div[id*='WebDialogWindow1'][style*=visible] (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.29 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: '8VYR7BS', ip: '10.10.22.164', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=true, ie.forceCreateProcessApi=false, pageLoadStrategy=normal, ie.usePerProcessProxy=false, ignoreZoomSetting=false, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=false, browserName=internet explorer, initialBrowserUrl=http://localhost:10998/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=false, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: ee40e32d-4c62-452a-994e-3c324abe3b1a
+*** Element info: {Using=css selector, value=div[id*='WebDialogWindow1'][style*=visible]}
+Mar 29,2017 19:37:13 [Info]  Clicked on the 'OK Button at Alert' using JS Executor
+<span style="color:red;">Mar 29,2017 19:37:24 [Fail]  ====Failed==== " Could not find the Frame: div[id*='WebDialogWindow1'][style*=visible]</span>
+<span style="color:red;">Mar 29,2017 19:37:24 [Fail]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\Rightslogic New\Screenshots\Mar2017\\29\FrameSwitchingFailed1_CheckpointFailure_03-29-2017 7-37-24 PM.jpg</span>
+Mar 29,2017 19:37:24 [Info]  Unable to find element with css selector == div[id*='WebDialogWindow1'][style*=visible] (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.28 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: '8VYR7BS', ip: '10.10.22.164', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=true, ie.forceCreateProcessApi=false, pageLoadStrategy=normal, ie.usePerProcessProxy=false, ignoreZoomSetting=false, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=false, browserName=internet explorer, initialBrowserUrl=http://localhost:10998/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=false, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: ee40e32d-4c62-452a-994e-3c324abe3b1a
+*** Element info: {Using=css selector, value=div[id*='WebDialogWindow1'][style*=visible]}
+<span style="color:red;">Mar 29,2017 19:37:34 [Fail]  ====Failed==== "Add Button at Vendor Add Window" field is not present'</span>
+Mar 29,2017 19:37:34 [Info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\Rightslogic New\Screenshots\Mar2017\\29\AddButtonatVendorAddWindow_CheckpointFailure_03-29-2017 7-37-34 PM.jpg
+<span style="color:red;">Mar 29,2017 19:37:44 [Fail]  ====Failed==== " Could not find the Frame: div[id*='WebDialogWindow3'][style*=visible]</span>
+<span style="color:red;">Mar 29,2017 19:37:44 [Fail]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Workspace\Rightslogic New\Screenshots\Mar2017\\29\FrameSwitchingFailed2_CheckpointFailure_03-29-2017 7-37-44 PM.jpg</span>
+Mar 29,2017 19:37:44 [Info]  Unable to find element with css selector == div[id*='WebDialogWindow3'][style*=visible] (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.32 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: '8VYR7BS', ip: '10.10.22.164', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=true, ie.forceCreateProcessApi=false, pageLoadStrategy=normal, ie.usePerProcessProxy=false, ignoreZoomSetting=false, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=false, browserName=internet explorer, initialBrowserUrl=http://localhost:10998/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=false, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: ee40e32d-4c62-452a-994e-3c324abe3b1a
+*** Element info: {Using=css selector, value=div[id*='WebDialogWindow3'][style*=visible]}
+Mar 29,2017 19:37:55 [Info]  Test 'TC1_MediaRightsRow' FAILED
+Mar 29,2017 19:37:55 [Info]  2
+Mar 29,2017 19:37:55 [Info]  Test Case :TC1_MediaRightsRow's Screenshot of Failure Page: 
+C:\SeleniumProject\Workspace\Rightslogic New\Screenshots\Mar2017\\29\TC1_MediaRightsRow_03-29-2017 7-37-55 PM.jpg
+Mar 29,2017 19:38:02 [Info]  Closed the Browser

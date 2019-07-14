@@ -1,0 +1,1167 @@
+Feb 21,2017 11:52:26 [Info]  Client: SKY
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************</span>
+Feb 21,2017 11:52:26 [Info]  Test 'TC1_DocumentUI' FAILED
+Feb 21,2017 11:52:26 [Info]  2
+Feb 21,2017 11:52:26 [Info]  Test 'TC1_DocumentUI' FAILED
+Feb 21,2017 11:52:26 [Info]  2
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 11:53:00******************</span>
+Feb 21,2017 11:53:00 [Info]  Client: SKY
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************</span>
+Feb 21,2017 11:53:11 [Info]  Client: SKY
+Feb 21,2017 11:53:11 [Info]  URL: http://rlv2wb85/Home.aspx
+Feb 21,2017 11:53:11 [Info]  UserName: admin
+Feb 21,2017 11:53:11 [Info]  Password: admin
+Feb 21,2017 11:53:12 [Info]  Entered "admin" in field 'User Name'
+Feb 21,2017 11:53:13 [Info]  Clicked on the 'Temporary Check Box'
+Feb 21,2017 11:53:13 [Info]  Entered "admin" in field 'Password'
+Feb 21,2017 11:53:21 [Info]  Clicked on the 'LoginButton'
+<span style="color:blue;"> [Manual Test Step]  ************************Started Creating Asset of Type: Program - Series************************</span>
+Feb 21,2017 11:53:31 [Info]  Clicked on the 'MODULE'
+Feb 21,2017 11:53:37 [Info]  Clicked on the 'Title Maintenance'
+Feb 21,2017 11:53:43 [Info]  Clicked on the 'New Button' using JS Executor
+Feb 21,2017 11:53:47 [Info]  Clicked on the 'Program' using JS Executor
+Feb 21,2017 11:53:55 [Info]  Clicked on the 'General TAB'
+Feb 21,2017 11:53:58 [Info]  Selected "Program - Series" in "AssetTypeDropDown" drop down
+Feb 21,2017 11:54:01 [Info]  Entered "AUT_AssetSeries_Doc_TC1_02212017115300" in field 'AssetTitle'
+Feb 21,2017 11:54:03 [Info]  Clicked on the 'SBUImage' using JS Executor
+Feb 21,2017 11:54:10 [Info]  Clicked on the 'First CheckBox At SBU window'
+Feb 21,2017 11:54:12 [Info]  Clicked on the 'Apply Button' using JS Executor
+Feb 21,2017 11:54:12 [Info]  Entered "11:11:11" in field 'Duration'
+Feb 21,2017 11:54:22 [Info]  Selected "Active" in "Asset Status" drop down
+Feb 21,2017 11:54:22 [Info]  Selected "Event" in "Asset Format" drop down
+Feb 21,2017 11:54:22 [Info]  Selected "License Acquired" in "Asset Source" drop down
+Feb 21,2017 11:54:23 [Info]  Entered "AUT_Series" in field 'Short Name'
+Feb 21,2017 11:54:23 [Info]  Clicked on the 'Save Button' using JS Executor
+Feb 21,2017 11:54:32 [Info]  Clicked on the 'OK Button at Alert' using JS Executor
+Feb 21,2017 11:54:32 [Info]  Verify The data of Created AssetAUT_AssetSeries_Doc_TC1_02212017115300
+<span style="color:green;">Feb 21,2017 11:54:32 [Verification]  Verified that Expected value :[AUT_AssetSeries_Doc_TC1_02212017115300] is matched with Actual value :[AUT_AssetSeries_Doc_TC1_02212017115300]</span>
+<span style="color:blue;"> [Manual Test Step]  ************************Created Asset of TypeProgram - Series************************</span>
+Feb 21,2017 11:54:35 [Info]  Clicked on the 'MODULE'
+Feb 21,2017 11:54:41 [Info]  Clicked on the 'Title Maintenance'
+Feb 21,2017 11:54:45 [Info]  Clicked on the 'Search Menu Icon' using JS Executor
+Feb 21,2017 11:54:51 [Info]  Clicked on the 'AssetSearchUnderAsset' using JS Executor
+Feb 21,2017 11:54:59 [Info]  Entered "AUT_AssetSeries_Doc_TC1_02212017115300" in field 'AssetTitle'
+Feb 21,2017 11:55:32 [Info]  Clicked on the 'Find Button' using JS Executor
+Feb 21,2017 11:55:56 [Info]  Moved Mouse over 'First Asset in the Searched Asset'
+Feb 21,2017 11:55:56 [Info]  Clicked on the 'First Asset in the Searched Asset'
+Feb 21,2017 11:55:56 [Info]  Clicked on the 'First Asset in the Searched Asset'
+Feb 21,2017 11:55:59 [Info]  Clicked on the 'View Asset' using JS Executor
+Feb 21,2017 11:56:11 [Info]  Verify The data of Created Asset At Home
+<span style="color:green;">Feb 21,2017 11:56:11 [Verification]  Verified that Expected value :[AUT_AssetSeries_Doc_TC1_02212017115300] is matched with Actual value :[AUT_AssetSeries_Doc_TC1_02212017115300]</span>
+Feb 21,2017 11:56:18 [Info]  Clicked on the 'Episodes TAB'
+Feb 21,2017 11:56:24 [Info]  Clicked on the ''Edit' Button at Episode window' using JS Executor
+Feb 21,2017 11:56:30 [Info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Feb 21,2017 11:56:33 [Info]  Entered "101" in field 'Add Episode input field'
+Feb 21,2017 11:56:35 [Info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Feb 21,2017 11:56:44 [Info]  Clicked on the 'Season Field of Episode101' using JS Executor
+Feb 21,2017 11:56:44 [Info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Feb 21,2017 11:56:44 [Info]  Clicked on the 'Season 1'
+Feb 21,2017 11:56:44 [Info]  Clicked on the 'Support click to select season'
+Feb 21,2017 11:56:44 [Info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Feb 21,2017 11:56:47 [Info]  Entered "102" in field 'Add Episode input field'
+Feb 21,2017 11:56:49 [Info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Feb 21,2017 11:56:57 [Info]  Clicked on the 'Season Field of Episode101' using JS Executor
+Feb 21,2017 11:56:57 [Info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Feb 21,2017 11:56:58 [Info]  Clicked on the 'Season 1'
+Feb 21,2017 11:56:58 [Info]  Clicked on the 'Support click to select season'
+Feb 21,2017 11:56:58 [Info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Feb 21,2017 11:57:01 [Info]  Entered "201" in field 'Add Episode input field'
+Feb 21,2017 11:57:02 [Info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Feb 21,2017 11:57:11 [Info]  Clicked on the 'Season Field of Episode101' using JS Executor
+Feb 21,2017 11:57:11 [Info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Feb 21,2017 11:57:11 [Info]  Clicked on the 'Season 1'
+Feb 21,2017 11:57:11 [Info]  Clicked on the 'Support click to select season'
+Feb 21,2017 11:57:11 [Info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Feb 21,2017 11:57:14 [Info]  Entered "202" in field 'Add Episode input field'
+Feb 21,2017 11:57:16 [Info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Feb 21,2017 11:57:24 [Info]  Clicked on the 'Season Field of Episode101' using JS Executor
+Feb 21,2017 11:57:24 [Info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Feb 21,2017 11:57:24 [Info]  Clicked on the 'Season 1'
+Feb 21,2017 11:57:24 [Info]  Clicked on the 'Support click to select season'
+Feb 21,2017 11:57:29 [Info]  Clicked on the 'Save Button at 'Episode Edit Window'' using JS Executor
+Feb 21,2017 11:57:35 [Info]  Clicked on the 'Close Button at 'Episode Edit Window'' using JS Executor
+<span style="color:red;">Feb 21,2017 11:57:44 [Fail]  ====Failed==== "MODULE" field is not present'</span>
+<span style="color:red;">Feb 21,2017 11:57:48 [Fail]  ====Failed==== "Title Maintenance" field is not present'</span>
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 12:52:06******************</span>
+Feb 21,2017 12:52:06 [Info]  Client: SKY
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************</span>
+Feb 21,2017 12:52:18 [Info]  Client: SKY
+Feb 21,2017 12:52:18 [Info]  URL: http://rlv2wb85/Home.aspx
+Feb 21,2017 12:52:18 [Info]  UserName: admin
+Feb 21,2017 12:52:18 [Info]  Password: admin
+Feb 21,2017 12:52:19 [Info]  Entered "admin" in field 'User Name'
+Feb 21,2017 12:52:19 [Info]  Clicked on the 'Temporary Check Box'
+Feb 21,2017 12:52:19 [Info]  Entered "admin" in field 'Password'
+Feb 21,2017 12:52:27 [Info]  Clicked on the 'LoginButton'
+<span style="color:blue;"> [Manual Test Step]  ************************Started Creating Asset of Type: ************************</span>
+Feb 21,2017 12:52:37 [Info]  Clicked on the 'MODULE'
+Feb 21,2017 12:52:42 [Info]  Clicked on the 'Title Maintenance'
+Feb 21,2017 12:52:49 [Info]  Clicked on the 'New Button' using JS Executor
+Feb 21,2017 12:52:52 [Info]  Clicked on the 'Program' using JS Executor
+Feb 21,2017 12:53:00 [Info]  Clicked on the 'General TAB'
+<span style="color:red;">Feb 21,2017 12:53:10 [Fail]  ====Failed==== "" is not present in 'AssetTypeDropDownDrop Down'</span>
+Feb 21,2017 12:53:14 [Info]  Entered "AUT_AssetMovies_02212017125206" in field 'AssetTitle'
+Feb 21,2017 12:53:15 [Info]  Clicked on the 'SBUImage' using JS Executor
+Feb 21,2017 12:53:21 [Info]  Clicked on the 'First CheckBox At SBU window'
+Feb 21,2017 12:53:23 [Info]  Clicked on the 'Apply Button' using JS Executor
+Feb 21,2017 12:53:23 [Info]  Entered "11:11:11" in field 'Duration'
+Feb 21,2017 12:53:34 [Info]  Selected "Active" in "Asset Status" drop down
+Feb 21,2017 12:53:34 [Info]  Selected "Event" in "Asset Format" drop down
+Feb 21,2017 12:53:34 [Info]  Selected "License Acquired" in "Asset Source" drop down
+Feb 21,2017 12:53:34 [Info]  Entered "AUT_Series" in field 'Short Name'
+Feb 21,2017 12:53:34 [Info]  Clicked on the 'Save Button' using JS Executor
+Feb 21,2017 12:53:45 [Info]  Clicked on the 'OK Button at Alert' using JS Executor
+Feb 21,2017 12:53:45 [Info]  Verify The data of Created AssetAUT_AssetMovies_02212017125206
+<span style="color:green;">Feb 21,2017 12:53:45 [Verification]  Verified that Expected value :[AUT_AssetMovies_02212017125206] is matched with Actual value :[AUT_AssetMovies_02212017125206]</span>
+<span style="color:blue;"> [Manual Test Step]  ************************Created Asset of Type************************</span>
+Feb 21,2017 12:53:48 [Info]  Clicked on the 'MODULE'
+Feb 21,2017 12:53:54 [Info]  Clicked on the 'Title Maintenance'
+Feb 21,2017 12:53:57 [Info]  Clicked on the 'Search Menu Icon' using JS Executor
+Feb 21,2017 12:53:59 [Info]  Clicked on the 'AssetSearchUnderAsset' using JS Executor
+Feb 21,2017 12:54:08 [Info]  Entered "AUT_AssetMovies_02212017125206" in field 'AssetTitle'
+Feb 21,2017 12:54:25 [Info]  Clicked on the 'Find Button' using JS Executor
+Feb 21,2017 12:54:49 [Info]  Moved Mouse over 'First Asset in the Searched Asset'
+Feb 21,2017 12:54:49 [Info]  Clicked on the 'First Asset in the Searched Asset'
+Feb 21,2017 12:54:49 [Info]  Clicked on the 'First Asset in the Searched Asset'
+Feb 21,2017 12:54:52 [Info]  Clicked on the 'View Asset' using JS Executor
+Feb 21,2017 12:55:04 [Info]  Verify The data of Created Asset At Home
+<span style="color:green;">Feb 21,2017 12:55:04 [Verification]  Verified that Expected value :[AUT_AssetMovies_02212017125206] is matched with Actual value :[AUT_AssetMovies_02212017125206]</span>
+Feb 21,2017 12:55:05 [Info]  Clicked on the 'Versions TAB'
+Feb 21,2017 12:56:42 [Info]  Test 'TC1_VersionUI' FAILED
+Feb 21,2017 12:56:42 [Info]  2
+Feb 21,2017 12:56:42 [Info]  Test Case :TC1_VersionUI's Screenshot of Failure Page: 
+C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Feb2017\\21\TC1_VersionUI_02-21-2017 12-56-42 PM.jpg
+Feb 21,2017 12:56:43 [Info]  Closed the Browser
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 15:51:41******************</span>
+Feb 21,2017 15:51:41 [Info]  Client: SKY
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************</span>
+Feb 21,2017 15:51:53 [Info]  Client: SKY
+Feb 21,2017 15:51:53 [Info]  URL: http://rlv2wb85/Home.aspx
+Feb 21,2017 15:51:53 [Info]  UserName: admin
+Feb 21,2017 15:51:53 [Info]  Password: admin
+Feb 21,2017 15:51:54 [Info]  Entered "admin" in field 'User Name'
+Feb 21,2017 15:51:54 [Info]  Clicked on the 'Temporary Check Box'
+Feb 21,2017 15:51:54 [Info]  Entered "admin" in field 'Password'
+Feb 21,2017 15:52:03 [Info]  Clicked on the 'LoginButton'
+Feb 21,2017 15:52:09 [Info]  Test 'TC1_DocumentUI' FAILED
+Feb 21,2017 15:52:09 [Info]  2
+Feb 21,2017 15:52:09 [Info]  Test Case :TC1_DocumentUI's Screenshot of Failure Page: 
+C:\SeleniumProject\Workspace\RightsLogic\Screenshots\Feb2017\\21\TC1_DocumentUI_02-21-2017 3-52-09 PM.jpg
+Feb 21,2017 15:52:10 [Info]  Closed the Browser
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 15:52:51******************</span>
+Feb 21,2017 15:52:51 [Info]  Client: SKY
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************</span>
+Feb 21,2017 15:53:02 [Info]  Client: SKY
+Feb 21,2017 15:53:02 [Info]  URL: http://rlv2wb85/Home.aspx
+Feb 21,2017 15:53:02 [Info]  UserName: admin
+Feb 21,2017 15:53:02 [Info]  Password: admin
+Feb 21,2017 15:53:03 [Info]  Entered "admin" in field 'User Name'
+Feb 21,2017 15:53:03 [Info]  Clicked on the 'Temporary Check Box'
+Feb 21,2017 15:53:03 [Info]  Entered "admin" in field 'Password'
+Feb 21,2017 15:53:11 [Info]  Clicked on the 'LoginButton'
+Feb 21,2017 15:53:20 [Info]  Clicked on the 'MODULE'
+Feb 21,2017 15:53:25 [Info]  Clicked on the 'Title Maintenance'
+Feb 21,2017 15:53:29 [Info]  Clicked on the 'Search Menu Icon' using JS Executor
+Feb 21,2017 15:53:33 [Info]  Clicked on the 'AssetSearchUnderAsset' using JS Executor
+Feb 21,2017 15:53:42 [Info]  Entered "AUT_AssetSeries_Doc_TC1_02212017115300" in field 'AssetTitle'
+Feb 21,2017 15:54:06 [Info]  Clicked on the 'Find Button' using JS Executor
+Feb 21,2017 15:54:30 [Info]  Moved Mouse over 'First Asset in the Searched Asset'
+Feb 21,2017 15:54:30 [Info]  Clicked on the 'First Asset in the Searched Asset'
+Feb 21,2017 15:54:30 [Info]  Clicked on the 'First Asset in the Searched Asset'
+Feb 21,2017 15:54:33 [Info]  Clicked on the 'View Asset' using JS Executor
+Feb 21,2017 15:54:45 [Info]  Verify The data of Created Asset At Home
+<span style="color:green;">Feb 21,2017 15:54:45 [Verification]  Verified that Expected value :[AUT_AssetSeries_Doc_TC1_02212017115300] is matched with Actual value :[AUT_AssetSeries_Doc_TC1_02212017115300]</span>
+Feb 21,2017 15:54:52 [Info]  Clicked on the 'Episodes TAB'
+Feb 21,2017 15:54:57 [Info]  Clicked on the ''Edit' Button at Episode window' using JS Executor
+Feb 21,2017 15:55:03 [Info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Feb 21,2017 15:55:06 [Info]  Entered "101" in field 'Add Episode input field'
+Feb 21,2017 15:55:08 [Info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Feb 21,2017 15:55:16 [Info]  Clicked on the 'Season Field of Episode101' using JS Executor
+Feb 21,2017 15:55:16 [Info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Feb 21,2017 15:55:16 [Info]  Clicked on the 'Season 1'
+Feb 21,2017 15:55:16 [Info]  Clicked on the 'Support click to select season'
+Feb 21,2017 15:55:16 [Info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+<span style="color:red;">Feb 21,2017 15:55:30 [Fail]  ====Failed==== "Add Episode input field" field is not present'Add Episode input field'</span>
+Feb 21,2017 15:55:30 [Info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Feb 21,2017 15:55:38 [Info]  Clicked on the 'Season Field of Episode101' using JS Executor
+Feb 21,2017 15:55:38 [Info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Feb 21,2017 15:55:38 [Info]  Clicked on the 'Season 1'
+Feb 21,2017 15:55:39 [Info]  Clicked on the 'Support click to select season'
+Feb 21,2017 15:55:39 [Info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Feb 21,2017 15:55:42 [Info]  Entered "201" in field 'Add Episode input field'
+Feb 21,2017 15:55:43 [Info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Feb 21,2017 15:55:51 [Info]  Clicked on the 'Season Field of Episode101' using JS Executor
+Feb 21,2017 15:55:51 [Info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+<span style="color:red;">Feb 21,2017 15:55:51 [Fail]  ====Failed==== "Season 1" field is not present'</span>
+<span style="color:red;">Feb 21,2017 15:55:52 [Fail]  ====Failed==== "Support click to select season" field is not present'</span>
+Feb 21,2017 15:55:52 [Info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+<span style="color:red;">Feb 21,2017 15:56:05 [Fail]  ====Failed==== "Add Episode input field" field is not present'Add Episode input field'</span>
+Feb 21,2017 15:56:06 [Info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+<span style="color:red;">Feb 21,2017 15:56:34 [Fail]  ====Failed==== "Season Field of Episode101" field is not present'</span>
+<span style="color:red;">Feb 21,2017 15:57:08 [Fail]  ====Failed==== "Image Drop Down at 'Episode Edit Window'" field is not present'</span>
+<span style="color:red;">Feb 21,2017 15:57:18 [Fail]  ====Failed==== "Season 1" field is not present'</span>
+<span style="color:red;">Feb 21,2017 15:57:29 [Fail]  ====Failed==== "Support click to select season" field is not present'</span>
+<span style="color:red;">Feb 21,2017 15:57:42 [Fail]  ====Failed==== "Save Button at 'Episode Edit Window'" field is not present'</span>
+Feb 21,2017 15:57:49 [Info]  Clicked on the 'Close Button at 'Episode Edit Window'' using JS Executor
+Feb 21,2017 15:57:59 [Info]  Clicked on the 'MODULE'
+Feb 21,2017 15:58:05 [Info]  Clicked on the 'Title Maintenance'
+Feb 21,2017 15:58:08 [Info]  Clicked on the 'Search Menu Icon' using JS Executor
+Feb 21,2017 15:58:09 [Info]  Clicked on the 'AssetSearchUnderAsset' using JS Executor
+Feb 21,2017 15:58:17 [Info]  Entered "AUT_AssetSeries_Doc_TC1_02212017115300" in field 'AssetTitle'
+Feb 21,2017 15:58:26 [Info]  Clicked on the 'Find Button' using JS Executor
+Feb 21,2017 15:58:50 [Info]  Moved Mouse over 'First Asset in the Searched Asset'
+Feb 21,2017 15:58:50 [Info]  Clicked on the 'First Asset in the Searched Asset'
+Feb 21,2017 15:58:50 [Info]  Clicked on the 'First Asset in the Searched Asset'
+Feb 21,2017 15:58:53 [Info]  Clicked on the 'View Asset' using JS Executor
+Feb 21,2017 15:59:06 [Info]  Verify The data of Created Asset At Home
+<span style="color:green;">Feb 21,2017 15:59:06 [Verification]  Verified that Expected value :[AUT_AssetSeries_Doc_TC1_02212017115300] is matched with Actual value :[AUT_AssetSeries_Doc_TC1_02212017115300]</span>
+Feb 21,2017 15:59:06 [Info]  Clicked on the 'Documents TAB'
+<span style="color:blue;"> [Manual Test Step]  ***********Verifying AllButtons Present on the Document TAB in view Mode***********</span>
+Feb 21,2017 15:59:11 [Info]  Verify The data of Document_ViewButton
+<span style="color:green;">Feb 21,2017 15:59:11 [Verification]  Verified that Expected value :[View Document] is matched with Actual value :[View Document]</span>
+Feb 21,2017 15:59:11 [Info]  Verify The data of Document_AddDocumentButton
+<span style="color:green;">Feb 21,2017 15:59:11 [Verification]  Verified that Expected value :[Add...] is matched with Actual value :[Add...]</span>
+Feb 21,2017 15:59:11 [Info]  Verify The data of Document_EditProfileButton
+<span style="color:green;">Feb 21,2017 15:59:11 [Verification]  Verified that Expected value :[Edit Profile] is matched with Actual value :[Edit Profile]</span>
+Feb 21,2017 15:59:12 [Info]  Verify The data of Document_DeleteDocumentButton
+<span style="color:green;">Feb 21,2017 15:59:12 [Verification]  Verified that Expected value :[Delete] is matched with Actual value :[Delete]</span>
+<span style="color:red;">Feb 21,2017 15:59:12 [Fail]  ====Failed===="Document_DeleteDocumentButton" is not Present</span>
+Feb 21,2017 15:59:12 [Info]  Verify The data of Applies TO
+<span style="color:green;">Feb 21,2017 15:59:12 [Verification]  Verified that Expected value :[Applies To] is matched with Actual value :[Applies To]</span>
+Feb 21,2017 15:59:12 [Info]  ******Verifying the Fields and Buttons on the Add Document Window******
+Feb 21,2017 15:59:14 [Info]  Clicked on the 'Document_AddDocumentButton' using JS Executor
+Feb 21,2017 15:59:17 [Info]  Verify The data of Document_AddDoc_AppliesToLabel
+<span style="color:green;">Feb 21,2017 15:59:17 [Verification]  Verified that Expected value :[*Applies To] is matched with Actual value :[*Applies To]</span>
+Feb 21,2017 15:59:17 [Info]  Verify The data of Document_AddDoc_DocNameLabel
+<span style="color:green;">Feb 21,2017 15:59:17 [Verification]  Verified that Expected value :[*Document Name] is matched with Actual value :[*Document Name]</span>
+Feb 21,2017 15:59:17 [Info]  Verify The data of Document_AddDoc_DocTypeLabel
+<span style="color:green;">Feb 21,2017 15:59:17 [Verification]  Verified that Expected value :[*Document Type] is matched with Actual value :[*Document Type]</span>
+Feb 21,2017 15:59:17 [Info]  Verify The data of Document_AddDoc_DocDateLabel
+<span style="color:green;">Feb 21,2017 15:59:18 [Verification]  Verified that Expected value :[Document Date] is matched with Actual value :[Document Date]</span>
+Feb 21,2017 15:59:18 [Info]  Verify The data of Document_AddDoc_DescritionLabel
+<span style="color:green;">Feb 21,2017 15:59:18 [Verification]  Verified that Expected value :[Description] is matched with Actual value :[Description]</span>
+Feb 21,2017 15:59:18 [Info]  Verify The data of Document_AddDoc_DocuentUploadLabel
+<span style="color:green;">Feb 21,2017 15:59:18 [Verification]  Verified that Expected value :[*Select File to Upload] is matched with Actual value :[*Select File to Upload]</span>
+Feb 21,2017 15:59:18 [Info]  Verify The data of Save button
+<span style="color:green;">Feb 21,2017 15:59:18 [Verification]  Verified that Expected value :[Save] is matched with Actual value :[Save]</span>
+Feb 21,2017 15:59:18 [Info]  Verify The data of Cancel button
+<span style="color:green;">Feb 21,2017 15:59:18 [Verification]  Verified that Expected value :[Cancel] is matched with Actual value :[Cancel]</span>
+Feb 21,2017 15:59:18 [Info]  *****Verifying all Associated Assets and Episodes are prefixed with 'Ep.'*****
+<span style="color:green;">Feb 21,2017 15:59:18 [Verification]  Verified that Expected value :[AUT_AssetSeries_Doc_TC1_02212017115300] is matched with Actual value :[AUT_AssetSeries_Doc_TC1_02212017115300]</span>
+<span style="color:red;">Feb 21,2017 15:59:18 [Fail]  ====Failed==== Expected value is:[Season 1] is not present in the Applies TO DropDown Values drop down. please see the screenshot: Season 1for more details</span>
+<span style="color:red;">Feb 21,2017 15:59:19 [Fail]  ====Failed==== Expected value is:[Ep.101: Episode101] is not present in the Applies TO DropDown Values S1_Episode1 drop down. please see the screenshot: Ep.101: Episode101for more details</span>
+<span style="color:red;">Feb 21,2017 15:59:19 [Fail]  ====Failed==== Expected value is:[Ep.102: Episode102] is not present in the Applies TO DropDown Values S1_Episode2 drop down. please see the screenshot: Ep.102: Episode102for more details</span>
+<span style="color:red;">Feb 21,2017 15:59:19 [Fail]  ====Failed==== Expected value is:[Season 2] is not present in the Applies TO DropDown Values Season 2 drop down. please see the screenshot: Season 2for more details</span>
+<span style="color:red;">Feb 21,2017 15:59:20 [Fail]  ====Failed==== Expected value is:[Ep.201: Episode201] is not present in the Applies TO DropDown Values S2_Episode1 drop down. please see the screenshot: Ep.201: Episode201for more details</span>
+<span style="color:red;">Feb 21,2017 15:59:20 [Fail]  ====Failed==== Expected value is:[Ep.202: Episode202] is not present in the Applies TO DropDown Values S2_Episode2 drop down. please see the screenshot: Ep.202: Episode202for more details</span>
+Feb 21,2017 15:59:21 [Info]  Selected "Amendment" in "Document_AddDoc_DocTypeDropDown" drop down
+<span style="color:green;">Feb 21,2017 15:59:21 [Verification]  Verified that Expected value :[Amendment] is matched with Actual value :[Amendment]</span>
+Feb 21,2017 15:59:21 [Info]  Entered "Declaration from the Legal HeirDeclaration 1234567890 @#$% @&*" in field 'Document_AddDoc_DocNameField'
+Feb 21,2017 15:59:21 [Info]  Clicked on the 'Outside the Document Name Field'
+Feb 21,2017 15:59:21 [Info]  Verify The data of Alert Message on Entering the invalid Names
+<span style="color:green;">Feb 21,2017 15:59:21 [Verification]  Verified that Expected value :[Please enter a valid file name!] is matched with Actual value :[Please enter a valid file name!]</span>
+Feb 21,2017 15:59:21 [Info]  Clicked on the 'OK Button at Alert on Entering the invalid Names' using JS Executor
+Feb 21,2017 15:59:22 [Info]  Entered "AT_Document_Name_001" in field 'Document_AddDoc_DocNameField'
+Feb 21,2017 15:59:22 [Info]  Clicked on the 'Save Button at 'Add Document Window'' using JS Executor
+Feb 21,2017 15:59:25 [Info]  Verify The data of 'Add Document'Validation Message
+<span style="color:green;">Feb 21,2017 15:59:25 [Verification]  Verified that Expected value :[Please select a document to upload.] is matched with Actual value :[  Please select a document to upload.  ]</span>
+Feb 21,2017 15:59:28 [Info]  Entered "C:\SeleniumProject\Workspace\RightsLogic\TestUploadFiles\AUTTestFile100KB.bmp" in field 'Upload File 'AUTTestFile100KB.bmp''
+Feb 21,2017 15:59:31 [Info]  Entered "12/31/2010" in field 'Document Date'
+Feb 21,2017 15:59:35 [Info]  Entered "Amendment" in field 'Document Discription'
+Feb 21,2017 15:59:39 [Info]  Clicked on the 'Save Button at 'Add Document Window'' using JS Executor
+Feb 21,2017 15:59:42 [Info]  ****Verifying all the Headers Name shown in View Mode After adding the Document****
+Feb 21,2017 15:59:46 [Info]  Verify The data of AMDocumentTypeKey
+<span style="color:green;">Feb 21,2017 15:59:46 [Verification]  Verified that Expected value :[Document Type] is matched with Actual value :[Document Type]</span>
+Feb 21,2017 15:59:46 [Info]  Verify The data of AMDocumentName
+<span style="color:green;">Feb 21,2017 15:59:46 [Verification]  Verified that Expected value :[Document Name] is matched with Actual value :[Document Name]</span>
+Feb 21,2017 15:59:46 [Info]  Verify The data of AMDocumentDate
+<span style="color:green;">Feb 21,2017 15:59:46 [Verification]  Verified that Expected value :[Document Date] is matched with Actual value :[Document Date]</span>
+Feb 21,2017 15:59:46 [Info]  Verify The data of AMDocumentDesc
+<span style="color:green;">Feb 21,2017 15:59:46 [Verification]  Verified that Expected value :[Description] is matched with Actual value :[Description]</span>
+Feb 21,2017 15:59:46 [Info]  Verify The data of AMDocumentDesc
+<span style="color:green;">Feb 21,2017 15:59:46 [Verification]  Verified that Expected value :[Description] is matched with Actual value :[Description]</span>
+Feb 21,2017 15:59:46 [Info]  Verify The data of AMDocumentDesc
+<span style="color:green;">Feb 21,2017 15:59:46 [Verification]  Verified that Expected value :[Description] is matched with Actual value :[Description]</span>
+Feb 21,2017 15:59:46 [Info]  ****Verifying all the Header's Values are shown orrectly in View Mode After adding the Document****
+Feb 21,2017 15:59:46 [Info]  Verify The data of AMDocumentTypeValue
+<span style="color:green;">Feb 21,2017 15:59:46 [Verification]  Verified that Expected value :[Amendment] is matched with Actual value :[Amendment]</span>
+Feb 21,2017 15:59:46 [Info]  Verify The data of AMDocumentNameData
+<span style="color:green;">Feb 21,2017 15:59:46 [Verification]  Verified that Expected value :[AT_Document_Name_001] is matched with Actual value :[AT_Document_Name_001.bmp]</span>
+Feb 21,2017 15:59:46 [Info]  Verify The data of AMDocumentDate
+<span style="color:red;">Feb 21,2017 15:59:46 [Fail]  ====Failed==== Expected value is:[12/31/2010] but Actual value is[12/03/1201]. Please check the screenshot with name: AMDocumentDatefor more details</span>
+Feb 21,2017 15:59:47 [Info]  ******Click on View Button without selecting the row******
+Feb 21,2017 15:59:47 [Info]  Clicked on the 'View Button' using JS Executor
+Feb 21,2017 15:59:50 [Info]  Verify The data of Alert Message on clicking 'View Button'
+<span style="color:green;">Feb 21,2017 15:59:50 [Verification]  Verified that Expected value :[Please select a row which contains document before clicking View Document.] is matched with Actual value :[Please select a row which contains document before clicking View Document.]</span>
+Feb 21,2017 15:59:50 [Info]  Clicked on the 'OK Button at Alert on clicking 'View Button'' using JS Executor
+Feb 21,2017 15:59:50 [Info]  ******Click on Edit Button without selecting the row******
+Feb 21,2017 15:59:50 [Info]  Clicked on the 'Edit Button' using JS Executor
+Feb 21,2017 15:59:50 [Info]  Verify The data of Alert Message on clicking 'View Button'
+<span style="color:green;">Feb 21,2017 15:59:50 [Verification]  Verified that Expected value :[Please select a row which contains document before clicking Edit Profile] is matched with Actual value :[Please select a row which contains document before clicking Edit Profile.]</span>
+Feb 21,2017 15:59:50 [Info]  Clicked on the 'OK Button at Alert on clicking 'View Button'' using JS Executor
+Feb 21,2017 15:59:50 [Info]  ******Click on Edit Document Button and change the data and verify in view mode******
+Feb 21,2017 15:59:53 [Info]  Clicked on the 'Select the Row in View Mode' using JS Executor
+Feb 21,2017 15:59:58 [Info]  Clicked on the 'Edit Button' using JS Executor
+Feb 21,2017 16:00:01 [Info]  Selected "Cue Sheet" in "Document_AddDoc_DocTypeDropDown" drop down
+<span style="color:green;">Feb 21,2017 16:00:02 [Verification]  Verified that Expected value :[Cue Sheet] is matched with Actual value :[Cue Sheet]</span>
+Feb 21,2017 16:00:02 [Info]  Entered "AT_Document_Name_001_Changed" in field 'Document_AddDoc_DocNameField'
+Feb 21,2017 16:00:05 [Info]  Entered "Amendment" in field 'Document Discription'
+Feb 21,2017 16:00:07 [Info]  Clicked on the 'Save Button at 'Add Document Window'' using JS Executor
+Feb 21,2017 16:00:10 [Info]  Verify The data of AMDocumentTypeValue
+<span style="color:green;">Feb 21,2017 16:00:10 [Verification]  Verified that Expected value :[Cue Sheet] is matched with Actual value :[Cue Sheet]</span>
+Feb 21,2017 16:00:10 [Info]  Verify The data of AMDocumentNameData
+<span style="color:green;">Feb 21,2017 16:00:10 [Verification]  Verified that Expected value :[AT_Document_Name_001_Changed] is matched with Actual value :[AT_Document_Name_001_Changed.bmp]</span>
+Feb 21,2017 16:00:10 [Info]  ******Click on Remove Button without selecting the row******
+Feb 21,2017 16:00:10 [Info]  Clicked on the 'Delete Document Button' using JS Executor
+Feb 21,2017 16:00:10 [Info]  Verify The data of Alert Message on clicking 'Delete Button'
+<span style="color:green;">Feb 21,2017 16:00:10 [Verification]  Verified that Expected value :[Please select a row before clicking Delete.] is matched with Actual value :[Please select a row before clicking Delete.]</span>
+Feb 21,2017 16:00:11 [Info]  Clicked on the 'OK Button at Alert on clicking 'View Button'' using JS Executor
+Feb 21,2017 16:00:11 [Info]  ******Remove/Delete the Document row******
+Feb 21,2017 16:00:11 [Info]  Clicked on the 'Select the Row in View Mode'
+Feb 21,2017 16:00:11 [Info]  Clicked on the 'Delete Document Button' using JS Executor
+Feb 21,2017 16:00:14 [Info]  Verify The data of Alert Message on clicking 'Remove Button'
+<span style="color:green;">Feb 21,2017 16:00:14 [Verification]  Verified that Expected value :[Are you sure you want to delete the document?] is matched with Actual value :[Are you sure you want to delete the document?]</span>
+Feb 21,2017 16:00:15 [Info]  Clicked on the 'OK Button at Alert on clicking 'View Button'' using JS Executor
+Feb 21,2017 16:00:28 [Info]  "Document Row" is disable or not Present
+Feb 21,2017 16:00:28 [Info]  ******Verify the validation message on uploading 20480 KB file****
+Feb 21,2017 16:00:29 [Info]  Clicked on the 'Document_AddDocumentButton' using JS Executor
+Feb 21,2017 16:00:33 [Info]  Selected "Amendment" in "Document_AddDoc_DocTypeDropDown" drop down
+<span style="color:green;">Feb 21,2017 16:00:33 [Verification]  Verified that Expected value :[Amendment] is matched with Actual value :[Amendment]</span>
+Feb 21,2017 16:00:33 [Info]  Entered "AT_Document_Name_001" in field 'Document_AddDoc_DocNameField'
+Feb 21,2017 16:00:36 [Info]  Entered "12/31/2010" in field 'Document Date'
+Feb 21,2017 16:00:39 [Info]  Entered "Amendment" in field 'Document Discription'
+Feb 21,2017 16:00:39 [Info]  Entered "C:\SeleniumProject\Workspace\RightsLogic\TestUploadFiles\AUTTestFile21MB.bmp" in field 'Upload File 'AUTTestFile21MB.bmp''
+Feb 21,2017 16:00:45 [Info]  Clicked on the 'Save Button at 'Add Document Window'' using JS Executor
+Feb 21,2017 16:00:48 [Info]  Verify The data of 'Add Document' Validation Message
+<span style="color:green;">Feb 21,2017 16:00:48 [Verification]  Verified that Expected value :[The size of the file you are trying to upload exceeds the threshold limit(900KB).] is matched with Actual value :[  The size of the file you are trying to upload exceeds the threshold limit(900KB).]</span>
+Feb 21,2017 16:00:48 [Info]  *****Verify the message while uploadiing WinRAR file*****
+Feb 21,2017 16:00:48 [Info]  Entered "C:\SeleniumProject\Workspace\RightsLogic\TestUploadFiles\AUTTestFile900KB.rar" in field 'Upload File 'AUTTestFile21MB.bmp''
+Feb 21,2017 16:00:51 [Info]  Clicked on the 'Save Button at 'Add Document Window'' using JS Executor
+Feb 21,2017 16:00:54 [Info]  Verify The data of 'Add Document' Validation Message
+<span style="color:red;">Feb 21,2017 16:00:54 [Fail]  ====Failed==== Expected value is:[Cannot Upload Document of this Type.  The Valid Types are .DOC, .DOCX, .JPEG, .MPEG, .PPT, .PPTX, .TXT, .WMV, .XLS, .XLSX, .PDF, .JPG, .GIF, .RTF, .EML, .BMP only.] but Actual value is[Cannot Upload Document of this Type. The Valid Types are .DOC, .DOCX, .JPEG, .MPEG, .PPT, .PPTX, .TXT, .WMV, .XLS, .XLSX, .PDF, .JPG, .GIF, .RTF, .EML, .BMP only.]. Please check the screenshot with name: 'Add Document' Validation Messagefor more details</span>
+Feb 21,2017 16:00:55 [Info]  Test 'TC1_DocumentUI' PASSED
+Feb 21,2017 16:00:56 [Info]  Closed the Browser
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 16:20:00******************</span>
+Feb 21,2017 16:20:00 [Info]  Client: SKY
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************</span>
+Feb 21,2017 16:20:11 [Info]  Client: SKY
+Feb 21,2017 16:20:11 [Info]  URL: http://rlv2wb85/Home.aspx
+Feb 21,2017 16:20:11 [Info]  UserName: admin
+Feb 21,2017 16:20:11 [Info]  Password: admin
+Feb 21,2017 16:20:12 [Info]  Entered "admin" in field 'User Name'
+Feb 21,2017 16:20:12 [Info]  Clicked on the 'Temporary Check Box'
+Feb 21,2017 16:20:12 [Info]  Entered "admin" in field 'Password'
+Feb 21,2017 16:20:19 [Info]  Clicked on the 'LoginButton'
+<span style="color:red;">Feb 21,2017 16:20:51 [Fail]  ====Failed==== " Could not find the Frame: div[id*='WebDialogWindow1'][style*=visible]</span>
+Feb 21,2017 16:20:52 [Info]  no such element: Unable to locate element: {"method":"css selector","selector":"div[id*='WebDialogWindow1'][style*=visible]"}
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.26 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: '9P4G6BS', ip: '10.10.22.71', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed), userDataDir=C:\Users\Rajudd\AppData\Local\Temp\scoped_dir8080_27288}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=56.0.2924.87, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 3a6de440122210d1d8698f4579389b7b
+*** Element info: {Using=css selector, value=div[id*='WebDialogWindow1'][style*=visible]}
+Feb 21,2017 16:20:52 [Info]  *****Verifying all Associated Assets and Episodes are prefixed with 'Ep.'*****
+<span style="color:red;">Feb 21,2017 16:21:27 [Fail]  ====Failed==== Expected value is:[AUT_AssetSeries_Doc_TC1_02212017115300] but Actual value is[no element on the web Page]. Please check the screenshot with name: AUT_AssetSeries_Doc_TC1_02212017115300for more details</span>
+Feb 21,2017 16:21:43 [Info]  *****Verifying all Associated Assets and Episodes are prefixed with 'Ep.'*****
+<span style="color:green;">Feb 21,2017 16:21:43 [Verification]  Verified that Expected value :[AUT_AssetSeries_Doc_TC1_02212017115300] is matched with Actual value :[AUT_AssetSeries_Doc_TC1_02212017115300]</span>
+<span style="color:blue;"> [Manual Test Step]  **************************************</span>
+Feb 21,2017 16:21:51 [Info]  AUT_AssetSeries_Doc_TC1_02212017115300
+<span style="color:blue;"> [Manual Test Step]  **************************************</span>
+Feb 21,2017 16:21:51 [Info]     Season 1
+<span style="color:blue;"> [Manual Test Step]  **************************************</span>
+Feb 21,2017 16:21:51 [Info]        Ep.101: Episode101
+<span style="color:blue;"> [Manual Test Step]  **************************************</span>
+Feb 21,2017 16:21:51 [Info]        Ep.102: Episode102
+<span style="color:blue;"> [Manual Test Step]  **************************************</span>
+Feb 21,2017 16:21:51 [Info]     Season 2
+<span style="color:blue;"> [Manual Test Step]  **************************************</span>
+Feb 21,2017 16:21:51 [Info]        Ep.201: Episode201
+<span style="color:blue;"> [Manual Test Step]  **************************************</span>
+Feb 21,2017 16:21:51 [Info]        Ep.202: Episode202
+<span style="color:blue;"> [Manual Test Step]  **************************************</span>
+<span style="color:red;">Feb 21,2017 16:21:51 [Fail]  ====Failed==== Expected value is:[Season 1] is not present in the Applies TO DropDown Values drop down. please see the screenshot: Season 1for more details</span>
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 16:25:14******************</span>
+Feb 21,2017 16:25:14 [Info]  Client: SKY
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************</span>
+Feb 21,2017 16:25:26 [Info]  Client: SKY
+Feb 21,2017 16:25:26 [Info]  URL: http://rlv2wb85/Home.aspx
+Feb 21,2017 16:25:26 [Info]  UserName: admin
+Feb 21,2017 16:25:26 [Info]  Password: admin
+Feb 21,2017 16:25:27 [Info]  Entered "admin" in field 'User Name'
+Feb 21,2017 16:25:27 [Info]  Clicked on the 'Temporary Check Box'
+Feb 21,2017 16:25:27 [Info]  Entered "admin" in field 'Password'
+Feb 21,2017 16:25:34 [Info]  Clicked on the 'LoginButton'
+Feb 21,2017 16:26:11 [Info]  *****Verifying all Associated Assets and Episodes are prefixed with 'Ep.'*****
+<span style="color:green;">Feb 21,2017 16:26:12 [Verification]  Verified that Expected value :[AUT_AssetSeries_Doc_TC1_02212017115300] is matched with Actual value :[AUT_AssetSeries_Doc_TC1_02212017115300]</span>
+<span style="color:blue;"> [Manual Test Step]  **************************************</span>
+Feb 21,2017 16:26:14 [Info]  AUT_AssetSeries_Doc_TC1_02212017115300
+Feb 21,2017 16:26:14 [Info]     Season 1
+Feb 21,2017 16:26:14 [Info]        Ep.101: Episode101
+Feb 21,2017 16:26:14 [Info]        Ep.102: Episode102
+Feb 21,2017 16:26:14 [Info]     Season 2
+Feb 21,2017 16:26:14 [Info]        Ep.201: Episode201
+Feb 21,2017 16:26:14 [Info]        Ep.202: Episode202
+<span style="color:blue;"> [Manual Test Step]  **************************************</span>
+Feb 21,2017 16:26:14 [Info]  [AUT_AssetSeries_Doc_TC1_02212017115300,    Season 1,       Ep.101: Episode101,       Ep.102: Episode102,    Season 2,       Ep.201: Episode201,       Ep.202: Episode202]
+<span style="color:red;">Feb 21,2017 16:26:14 [Fail]  ====Failed==== Expected value is:[Season 1] is not present in the Applies TO DropDown Values drop down. please see the screenshot: Season 1for more details</span>
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 16:28:11******************</span>
+Feb 21,2017 16:28:11 [Info]  Client: SKY
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************</span>
+Feb 21,2017 16:28:22 [Info]  Client: SKY
+Feb 21,2017 16:28:22 [Info]  URL: http://rlv2wb85/Home.aspx
+Feb 21,2017 16:28:22 [Info]  UserName: admin
+Feb 21,2017 16:28:22 [Info]  Password: admin
+Feb 21,2017 16:28:25 [Info]  Entered "admin" in field 'User Name'
+Feb 21,2017 16:28:25 [Info]  Clicked on the 'Temporary Check Box'
+Feb 21,2017 16:28:25 [Info]  Entered "admin" in field 'Password'
+Feb 21,2017 16:28:34 [Info]  Clicked on the 'LoginButton'
+Feb 21,2017 16:30:21 [Info]  *****Verifying all Associated Assets and Episodes are prefixed with 'Ep.'*****
+<span style="color:green;">Feb 21,2017 16:30:22 [Verification]  Verified that Expected value :[AUT_AssetSeries_Doc_TC1_02212017115300] is matched with Actual value :[AUT_AssetSeries_Doc_TC1_02212017115300]</span>
+<span style="color:blue;"> [Manual Test Step]  **************************************</span>
+Feb 21,2017 16:31:51 [Info]  AUT_AssetSeries_Doc_TC1_02212017115300
+Feb 21,2017 16:31:51 [Info]     Season 1
+Feb 21,2017 16:31:51 [Info]        Ep.101: Episode101
+Feb 21,2017 16:31:51 [Info]        Ep.102: Episode102
+Feb 21,2017 16:31:51 [Info]     Season 2
+Feb 21,2017 16:31:51 [Info]        Ep.201: Episode201
+Feb 21,2017 16:31:51 [Info]        Ep.202: Episode202
+<span style="color:blue;"> [Manual Test Step]  **************************************</span>
+Feb 21,2017 16:31:51 [Info]  [AUT_AssetSeries_Doc_TC1_02212017115300,    Season 1,       Ep.101: Episode101,       Ep.102: Episode102,    Season 2,       Ep.201: Episode201,       Ep.202: Episode202]
+<span style="color:red;">Feb 21,2017 16:31:51 [Fail]  ====Failed==== Expected value is:[Season 1] is not present in the Applies TO DropDown Values drop down. please see the screenshot: Season 1for more details</span>
+Feb 21,2017 16:32:19 [Info]  *****Verifying all Associated Assets and Episodes are prefixed with 'Ep.'*****
+<span style="color:green;">Feb 21,2017 16:32:19 [Verification]  Verified that Expected value :[AUT_AssetSeries_Doc_TC1_02212017115300] is matched with Actual value :[AUT_AssetSeries_Doc_TC1_02212017115300]</span>
+<span style="color:blue;"> [Manual Test Step]  **************************************</span>
+Feb 21,2017 16:32:19 [Info]  AUT_AssetSeries_Doc_TC1_02212017115300
+Feb 21,2017 16:32:19 [Info]     Season 1
+Feb 21,2017 16:32:19 [Info]        Ep.101: Episode101
+Feb 21,2017 16:32:19 [Info]        Ep.102: Episode102
+Feb 21,2017 16:32:19 [Info]     Season 2
+Feb 21,2017 16:32:19 [Info]        Ep.201: Episode201
+Feb 21,2017 16:32:19 [Info]        Ep.202: Episode202
+<span style="color:blue;"> [Manual Test Step]  **************************************</span>
+Feb 21,2017 16:32:19 [Info]  [AUT_AssetSeries_Doc_TC1_02212017115300,    Season 1,       Ep.101: Episode101,       Ep.102: Episode102,    Season 2,       Ep.201: Episode201,       Ep.202: Episode202]
+<span style="color:red;">Feb 21,2017 16:32:19 [Fail]  ====Failed==== Expected value is:[    Season 1] is not present in the Applies TO DropDown Values drop down. please see the screenshot:     Season 1for more details</span>
+Feb 21,2017 16:32:36 [Info]  *****Verifying all Associated Assets and Episodes are prefixed with 'Ep.'*****
+<span style="color:green;">Feb 21,2017 16:32:36 [Verification]  Verified that Expected value :[AUT_AssetSeries_Doc_TC1_02212017115300] is matched with Actual value :[AUT_AssetSeries_Doc_TC1_02212017115300]</span>
+<span style="color:blue;"> [Manual Test Step]  **************************************</span>
+Feb 21,2017 16:32:36 [Info]  AUT_AssetSeries_Doc_TC1_02212017115300
+Feb 21,2017 16:32:36 [Info]     Season 1
+Feb 21,2017 16:32:36 [Info]        Ep.101: Episode101
+Feb 21,2017 16:32:36 [Info]        Ep.102: Episode102
+Feb 21,2017 16:32:36 [Info]     Season 2
+Feb 21,2017 16:32:36 [Info]        Ep.201: Episode201
+Feb 21,2017 16:32:36 [Info]        Ep.202: Episode202
+<span style="color:blue;"> [Manual Test Step]  **************************************</span>
+Feb 21,2017 16:32:36 [Info]  [AUT_AssetSeries_Doc_TC1_02212017115300,    Season 1,       Ep.101: Episode101,       Ep.102: Episode102,    Season 2,       Ep.201: Episode201,       Ep.202: Episode202]
+<span style="color:red;">Feb 21,2017 16:32:36 [Fail]  ====Failed==== Expected value is:[AUT_AssetSeries_Doc_TC1_02212017115300,    Season 1,       Ep.101: Episode101,       Ep.102: Episode102,    Season 2,       Ep.201: Episode201,       Ep.202: Episode202] is not present in the Applies TO DropDown Values drop down. please see the screenshot: AUT_AssetSeries_Doc_TC1_02212017115300,    Season 1,       Ep.101: Episode101,       Ep.102: Episode102,    Season 2,       Ep.201: Episode201,       Ep.202: Episode202for more details</span>
+<span style="color:blue;"> [Manual Test Step]  **************************************</span>
+Feb 21,2017 16:34:45 [Info]  AUT_AssetSeries_Doc_TC1_02212017115300
+Feb 21,2017 16:34:45 [Info]     Season 1
+Feb 21,2017 16:34:45 [Info]        Ep.101: Episode101
+Feb 21,2017 16:34:45 [Info]        Ep.102: Episode102
+Feb 21,2017 16:34:45 [Info]     Season 2
+Feb 21,2017 16:34:45 [Info]        Ep.201: Episode201
+Feb 21,2017 16:34:45 [Info]        Ep.202: Episode202
+<span style="color:blue;"> [Manual Test Step]  **************************************</span>
+Feb 21,2017 16:34:45 [Info]  [AUT_AssetSeries_Doc_TC1_02212017115300,    Season 1,       Ep.101: Episode101,       Ep.102: Episode102,    Season 2,       Ep.201: Episode201,       Ep.202: Episode202]
+<span style="color:red;">Feb 21,2017 16:34:45 [Fail]  ====Failed==== Expected value is:[Ep.101: Episode101] is not present in the Applies TO DropDown Values S1_Episode1 drop down. please see the screenshot: Ep.101: Episode101for more details</span>
+<span style="color:blue;"> [Manual Test Step]  **************************************</span>
+Feb 21,2017 16:34:46 [Info]  AUT_AssetSeries_Doc_TC1_02212017115300
+Feb 21,2017 16:34:46 [Info]     Season 1
+Feb 21,2017 16:34:46 [Info]        Ep.101: Episode101
+Feb 21,2017 16:34:46 [Info]        Ep.102: Episode102
+Feb 21,2017 16:34:46 [Info]     Season 2
+Feb 21,2017 16:34:46 [Info]        Ep.201: Episode201
+Feb 21,2017 16:34:46 [Info]        Ep.202: Episode202
+<span style="color:blue;"> [Manual Test Step]  **************************************</span>
+Feb 21,2017 16:34:46 [Info]  [AUT_AssetSeries_Doc_TC1_02212017115300,    Season 1,       Ep.101: Episode101,       Ep.102: Episode102,    Season 2,       Ep.201: Episode201,       Ep.202: Episode202]
+<span style="color:red;">Feb 21,2017 16:34:46 [Fail]  ====Failed==== Expected value is:[Ep.102: Episode102] is not present in the Applies TO DropDown Values S1_Episode2 drop down. please see the screenshot: Ep.102: Episode102for more details</span>
+<span style="color:blue;"> [Manual Test Step]  **************************************</span>
+Feb 21,2017 16:34:46 [Info]  AUT_AssetSeries_Doc_TC1_02212017115300
+Feb 21,2017 16:34:46 [Info]     Season 1
+Feb 21,2017 16:34:46 [Info]        Ep.101: Episode101
+Feb 21,2017 16:34:46 [Info]        Ep.102: Episode102
+Feb 21,2017 16:34:47 [Info]     Season 2
+Feb 21,2017 16:34:47 [Info]        Ep.201: Episode201
+Feb 21,2017 16:34:47 [Info]        Ep.202: Episode202
+<span style="color:blue;"> [Manual Test Step]  **************************************</span>
+Feb 21,2017 16:34:47 [Info]  [AUT_AssetSeries_Doc_TC1_02212017115300,    Season 1,       Ep.101: Episode101,       Ep.102: Episode102,    Season 2,       Ep.201: Episode201,       Ep.202: Episode202]
+<span style="color:red;">Feb 21,2017 16:34:47 [Fail]  ====Failed==== Expected value is:[Season 2] is not present in the Applies TO DropDown Values Season 2 drop down. please see the screenshot: Season 2for more details</span>
+<span style="color:blue;"> [Manual Test Step]  **************************************</span>
+Feb 21,2017 16:34:47 [Info]  AUT_AssetSeries_Doc_TC1_02212017115300
+Feb 21,2017 16:34:47 [Info]     Season 1
+Feb 21,2017 16:34:47 [Info]        Ep.101: Episode101
+Feb 21,2017 16:34:47 [Info]        Ep.102: Episode102
+Feb 21,2017 16:34:47 [Info]     Season 2
+Feb 21,2017 16:34:47 [Info]        Ep.201: Episode201
+Feb 21,2017 16:34:47 [Info]        Ep.202: Episode202
+<span style="color:blue;"> [Manual Test Step]  **************************************</span>
+Feb 21,2017 16:34:47 [Info]  [AUT_AssetSeries_Doc_TC1_02212017115300,    Season 1,       Ep.101: Episode101,       Ep.102: Episode102,    Season 2,       Ep.201: Episode201,       Ep.202: Episode202]
+<span style="color:red;">Feb 21,2017 16:34:47 [Fail]  ====Failed==== Expected value is:[Ep.201: Episode201] is not present in the Applies TO DropDown Values S2_Episode1 drop down. please see the screenshot: Ep.201: Episode201for more details</span>
+<span style="color:blue;"> [Manual Test Step]  **************************************</span>
+Feb 21,2017 16:34:48 [Info]  AUT_AssetSeries_Doc_TC1_02212017115300
+Feb 21,2017 16:34:48 [Info]     Season 1
+Feb 21,2017 16:34:48 [Info]        Ep.101: Episode101
+Feb 21,2017 16:34:48 [Info]        Ep.102: Episode102
+Feb 21,2017 16:34:48 [Info]     Season 2
+Feb 21,2017 16:34:48 [Info]        Ep.201: Episode201
+Feb 21,2017 16:34:48 [Info]        Ep.202: Episode202
+<span style="color:blue;"> [Manual Test Step]  **************************************</span>
+Feb 21,2017 16:34:48 [Info]  [AUT_AssetSeries_Doc_TC1_02212017115300,    Season 1,       Ep.101: Episode101,       Ep.102: Episode102,    Season 2,       Ep.201: Episode201,       Ep.202: Episode202]
+<span style="color:red;">Feb 21,2017 16:34:48 [Fail]  ====Failed==== Expected value is:[Ep.202: Episode202] is not present in the Applies TO DropDown Values S2_Episode2 drop down. please see the screenshot: Ep.202: Episode202for more details</span>
+Feb 21,2017 16:38:59 [Info]  *****Verifying all Associated Assets and Episodes are prefixed with 'Ep.'*****
+<span style="color:blue;"> [Manual Test Step]  **************************************</span>
+Feb 21,2017 16:38:59 [Info]  RSG TEST Series 1010
+Feb 21,2017 16:38:59 [Info]     Season 1
+Feb 21,2017 16:38:59 [Info]        Ep.101: Episode101
+Feb 21,2017 16:38:59 [Info]        Ep.102: Episode102
+<span style="color:blue;"> [Manual Test Step]  **************************************</span>
+Feb 21,2017 16:38:59 [Info]  [RSG TEST Series 1010,    Season 1,       Ep.101: Episode101,       Ep.102: Episode102]
+<span style="color:red;">Feb 21,2017 16:38:59 [Fail]  ====Failed==== Expected value is:[Season 1] is not present in the Applies TO DropDown Values drop down. please see the screenshot: Season 1for more details</span>
+Feb 21,2017 16:43:57 [Info]  *****Verifying all Associated Assets and Episodes are prefixed with 'Ep.'*****
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 16:44:22******************</span>
+Feb 21,2017 16:44:22 [Info]  Client: SKY
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************</span>
+Feb 21,2017 16:44:34 [Info]  Client: SKY
+Feb 21,2017 16:44:34 [Info]  URL: http://rlv2wb85/Home.aspx
+Feb 21,2017 16:44:34 [Info]  UserName: admin
+Feb 21,2017 16:44:34 [Info]  Password: admin
+Feb 21,2017 16:44:35 [Info]  Entered "admin" in field 'User Name'
+Feb 21,2017 16:44:35 [Info]  Clicked on the 'Temporary Check Box'
+Feb 21,2017 16:44:35 [Info]  Entered "admin" in field 'Password'
+Feb 21,2017 16:44:42 [Info]  Clicked on the 'LoginButton'
+<span style="color:red;">Feb 21,2017 16:45:27 [Fail]  ====Failed==== " Could not find the Frame: div[id*='WebDialogWindow1'][style*=visible]</span>
+Feb 21,2017 16:45:28 [Info]  no such element: Unable to locate element: {"method":"css selector","selector":"div[id*='WebDialogWindow1'][style*=visible]"}
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.06 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:37:03'
+System info: host: '9P4G6BS', ip: '10.10.22.71', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed), userDataDir=C:\Users\Rajudd\AppData\Local\Temp\scoped_dir9136_27384}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=56.0.2924.87, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: bbacf62d004e16c0243f99190a65b3a9
+*** Element info: {Using=css selector, value=div[id*='WebDialogWindow1'][style*=visible]}
+Feb 21,2017 16:45:28 [Info]  *****Verifying all Associated Assets and Episodes are prefixed with 'Ep.'*****
+<span style="color:red;">Feb 21,2017 16:45:41 [Fail]  ====Failed==== "Document Date" field is not present'Document Date'</span>
+Feb 21,2017 16:48:46 [Info]  *****Verifying all Associated Assets and Episodes are prefixed with 'Ep.'*****
+Feb 21,2017 16:48:49 [Info]  Entered "12/31/2010" in field 'Document Date'
+Feb 21,2017 16:49:01 [Info]  *****Verifying all Associated Assets and Episodes are prefixed with 'Ep.'*****
+Feb 21,2017 16:49:04 [Info]  Entered "12/31/2010" in field 'Document Date'
+Feb 21,2017 16:49:15 [Info]  *****Verifying all Associated Assets and Episodes are prefixed with 'Ep.'*****
+Feb 21,2017 16:49:18 [Info]  Entered "12/31/2010" in field 'Document Date'
+Feb 21,2017 16:49:18 [Info]  Entered "12/31/2010" in field 'Document Date'
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 16:55:28******************</span>
+Feb 21,2017 16:55:28 [Info]  Client: SKY
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************</span>
+Feb 21,2017 16:55:39 [Info]  Client: SKY
+Feb 21,2017 16:55:39 [Info]  URL: http://rlv2wb85/Home.aspx
+Feb 21,2017 16:55:39 [Info]  UserName: admin
+Feb 21,2017 16:55:39 [Info]  Password: admin
+Feb 21,2017 16:55:40 [Info]  Entered "admin" in field 'User Name'
+Feb 21,2017 16:55:40 [Info]  Clicked on the 'Temporary Check Box'
+Feb 21,2017 16:55:40 [Info]  Entered "admin" in field 'Password'
+Feb 21,2017 16:55:49 [Info]  Clicked on the 'LoginButton'
+<span style="color:blue;"> [Manual Test Step]  ************************Started Creating Asset of Type: Program - Series************************</span>
+Feb 21,2017 16:55:59 [Info]  Clicked on the 'MODULE'
+Feb 21,2017 16:56:04 [Info]  Clicked on the 'Title Maintenance'
+Feb 21,2017 16:56:11 [Info]  Clicked on the 'New Button' using JS Executor
+Feb 21,2017 16:56:14 [Info]  Clicked on the 'Program' using JS Executor
+Feb 21,2017 16:56:22 [Info]  Clicked on the 'General TAB'
+Feb 21,2017 16:56:24 [Info]  Selected "Program - Series" in "AssetTypeDropDown" drop down
+Feb 21,2017 16:56:27 [Info]  Entered "AUT_AssetSeries_Doc_TC2_02212017115300" in field 'AssetTitle'
+Feb 21,2017 16:56:28 [Info]  Clicked on the 'SBUImage' using JS Executor
+Feb 21,2017 16:56:34 [Info]  Clicked on the 'First CheckBox At SBU window'
+Feb 21,2017 16:56:37 [Info]  Clicked on the 'Apply Button' using JS Executor
+Feb 21,2017 16:56:37 [Info]  Entered "11:11:11" in field 'Duration'
+Feb 21,2017 16:56:47 [Info]  Selected "Active" in "Asset Status" drop down
+Feb 21,2017 16:56:47 [Info]  Selected "Event" in "Asset Format" drop down
+Feb 21,2017 16:56:47 [Info]  Selected "License Acquired" in "Asset Source" drop down
+Feb 21,2017 16:56:48 [Info]  Entered "AUT_Series" in field 'Short Name'
+Feb 21,2017 16:56:48 [Info]  Clicked on the 'Save Button' using JS Executor
+Feb 21,2017 16:57:00 [Info]  Clicked on the 'OK Button at Alert' using JS Executor
+Feb 21,2017 16:57:00 [Info]  Verify The data of Created AssetAUT_AssetSeries_Doc_TC2_02212017115300
+<span style="color:green;">Feb 21,2017 16:57:00 [Verification]  Verified that Expected value :[AUT_AssetSeries_Doc_TC2_02212017115300] is matched with Actual value :[AUT_AssetSeries_Doc_TC2_02212017115300]</span>
+<span style="color:blue;"> [Manual Test Step]  ************************Created Asset of TypeProgram - Series************************</span>
+Feb 21,2017 16:57:03 [Info]  Clicked on the 'MODULE'
+Feb 21,2017 16:57:09 [Info]  Clicked on the 'Title Maintenance'
+Feb 21,2017 16:57:12 [Info]  Clicked on the 'Search Menu Icon' using JS Executor
+Feb 21,2017 16:57:14 [Info]  Clicked on the 'AssetSearchUnderAsset' using JS Executor
+Feb 21,2017 16:57:22 [Info]  Entered "AUT_AssetSeries_Doc_TC2_02212017115300" in field 'AssetTitle'
+Feb 21,2017 16:57:34 [Info]  Clicked on the 'Find Button' using JS Executor
+Feb 21,2017 16:57:59 [Info]  Moved Mouse over 'First Asset in the Searched Asset'
+Feb 21,2017 16:57:59 [Info]  Clicked on the 'First Asset in the Searched Asset'
+Feb 21,2017 16:57:59 [Info]  Clicked on the 'First Asset in the Searched Asset'
+Feb 21,2017 16:58:02 [Info]  Clicked on the 'View Asset' using JS Executor
+Feb 21,2017 16:58:14 [Info]  Verify The data of Created Asset At Home
+<span style="color:green;">Feb 21,2017 16:58:14 [Verification]  Verified that Expected value :[AUT_AssetSeries_Doc_TC2_02212017115300] is matched with Actual value :[AUT_AssetSeries_Doc_TC2_02212017115300]</span>
+Feb 21,2017 16:58:20 [Info]  Clicked on the 'Episodes TAB'
+Feb 21,2017 16:58:24 [Info]  Clicked on the ''Edit' Button at Episode window' using JS Executor
+Feb 21,2017 16:58:31 [Info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Feb 21,2017 16:58:34 [Info]  Entered "101" in field 'Add Episode input field'
+Feb 21,2017 16:58:35 [Info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Feb 21,2017 16:58:44 [Info]  Clicked on the 'Season Field of Episode101' using JS Executor
+Feb 21,2017 16:58:44 [Info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Feb 21,2017 16:58:44 [Info]  Clicked on the 'Season 1'
+Feb 21,2017 16:58:44 [Info]  Clicked on the 'Support click to select season'
+Feb 21,2017 16:58:44 [Info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Feb 21,2017 16:58:47 [Info]  Entered "102" in field 'Add Episode input field'
+Feb 21,2017 16:58:48 [Info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Feb 21,2017 16:58:56 [Info]  Clicked on the 'Season Field of Episode101' using JS Executor
+Feb 21,2017 16:58:57 [Info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Feb 21,2017 16:58:57 [Info]  Clicked on the 'Season 1'
+Feb 21,2017 16:58:57 [Info]  Clicked on the 'Support click to select season'
+Feb 21,2017 16:58:57 [Info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Feb 21,2017 16:59:00 [Info]  Entered "201" in field 'Add Episode input field'
+Feb 21,2017 16:59:02 [Info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Feb 21,2017 16:59:10 [Info]  Clicked on the 'Season Field of Episode101' using JS Executor
+Feb 21,2017 16:59:10 [Info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Feb 21,2017 16:59:10 [Info]  Clicked on the 'Season 1'
+Feb 21,2017 16:59:10 [Info]  Clicked on the 'Support click to select season'
+Feb 21,2017 16:59:10 [Info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Feb 21,2017 16:59:13 [Info]  Entered "202" in field 'Add Episode input field'
+Feb 21,2017 16:59:15 [Info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Feb 21,2017 16:59:23 [Info]  Clicked on the 'Season Field of Episode101' using JS Executor
+Feb 21,2017 16:59:23 [Info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Feb 21,2017 16:59:23 [Info]  Clicked on the 'Season 1'
+Feb 21,2017 16:59:23 [Info]  Clicked on the 'Support click to select season'
+Feb 21,2017 16:59:28 [Info]  Clicked on the 'Save Button at 'Episode Edit Window'' using JS Executor
+Feb 21,2017 16:59:34 [Info]  Clicked on the 'Close Button at 'Episode Edit Window'' using JS Executor
+<span style="color:red;">Feb 21,2017 16:59:43 [Fail]  ====Failed==== "MODULE" field is not present'</span>
+<span style="color:red;">Feb 21,2017 16:59:47 [Fail]  ====Failed==== "Title Maintenance" field is not present'</span>
+Feb 21,2017 16:59:50 [Info]  Clicked on the 'Search Menu Icon' using JS Executor
+Feb 21,2017 16:59:51 [Info]  Clicked on the 'AssetSearchUnderAsset' using JS Executor
+Feb 21,2017 17:00:00 [Info]  Entered "AUT_AssetSeries_Doc_TC2_02212017115300" in field 'AssetTitle'
+Feb 21,2017 17:00:09 [Info]  Clicked on the 'Find Button' using JS Executor
+Feb 21,2017 17:00:47 [Info]  Moved Mouse over 'First Asset in the Searched Asset'
+Feb 21,2017 17:00:47 [Info]  Clicked on the 'First Asset in the Searched Asset'
+Feb 21,2017 17:00:47 [Info]  Clicked on the 'First Asset in the Searched Asset'
+Feb 21,2017 17:00:50 [Info]  Clicked on the 'View Asset' using JS Executor
+Feb 21,2017 17:01:02 [Info]  Verify The data of Created Asset At Home
+<span style="color:green;">Feb 21,2017 17:01:02 [Verification]  Verified that Expected value :[AUT_AssetSeries_Doc_TC2_02212017115300] is matched with Actual value :[AUT_AssetSeries_Doc_TC2_02212017115300]</span>
+Feb 21,2017 17:01:02 [Info]  Clicked on the 'Documents TAB'
+Feb 21,2017 17:01:03 [Info]  ******Add the Document Row****
+Feb 21,2017 17:01:04 [Info]  Clicked on the 'Document_AddDocumentButton' using JS Executor
+Feb 21,2017 17:01:07 [Info]  Selected "Amendment" in "Document_AddDoc_DocTypeDropDown" drop down
+<span style="color:green;">Feb 21,2017 17:01:08 [Verification]  Verified that Expected value :[Amendment] is matched with Actual value :[Amendment]</span>
+Feb 21,2017 17:01:08 [Info]  Entered "AT_Document_Name_001" in field 'Document_AddDoc_DocNameField'
+Feb 21,2017 17:01:11 [Info]  Entered "31/12/2010" in field 'Document Date'
+Feb 21,2017 17:01:20 [Info]  Entered "Amendment" in field 'Document Discription'
+Feb 21,2017 17:01:20 [Info]  Entered "C:\SeleniumProject\Workspace\RightsLogic\TestUploadFiles\AUTTestFile100KB.bmp" in field 'Upload File 'AUTTestFile100KB.bmp''
+Feb 21,2017 17:01:25 [Info]  Clicked on the 'Save Button at 'Add Document Window'' using JS Executor
+Feb 21,2017 17:01:28 [Info]  ****Verifying all the Header's Values are shown orrectly in View Mode After adding the Document****
+Feb 21,2017 17:01:28 [Info]  Verify The data of AMDocumentTypeValue
+<span style="color:green;">Feb 21,2017 17:01:28 [Verification]  Verified that Expected value :[Amendment] is matched with Actual value :[Amendment]</span>
+Feb 21,2017 17:01:29 [Info]  Verify The data of AMDocumentNameData
+<span style="color:green;">Feb 21,2017 17:01:29 [Verification]  Verified that Expected value :[AT_Document_Name_001] is matched with Actual value :[AT_Document_Name_001.bmp]</span>
+Feb 21,2017 17:01:29 [Info]  Verify The data of AMDocumentDate
+<span style="color:green;">Feb 21,2017 17:01:29 [Verification]  Verified that Expected value :[31/12/2010] is matched with Actual value :[31/12/2010]</span>
+Feb 21,2017 17:01:29 [Info]  
+Feb 21,2017 17:01:29 [Info]  *******Verify the Document details for Ep.101: Episode101*******
+Feb 21,2017 17:01:30 [Info]  Clicked on the 'Asset Navigator' using JS Executor
+Feb 21,2017 17:01:30 [Info]  Clicked on the 'Select Ep.101: Episode101 at Asset Navigator'
+Feb 21,2017 17:01:33 [Info]  Double clicked on 'Select Ep.101: Episode101 at Asset Navigator'
+Feb 21,2017 17:01:48 [Info]  Verify The data of Created Asset At Home
+<span style="color:green;">Feb 21,2017 17:01:48 [Verification]  Verified that Expected value :[Episode101] is matched with Actual value :[Episode101]</span>
+Feb 21,2017 17:01:49 [Info]  Clicked on the 'Documents TAB'
+Feb 21,2017 17:01:50 [Info]  ****Verifying all the Header's Values are shown correctly in View Mode For Episode101****
+Feb 21,2017 17:01:50 [Info]  Verify The data of AMDocumentTypeValue
+<span style="color:green;">Feb 21,2017 17:01:50 [Verification]  Verified that Expected value :[Amendment] is matched with Actual value :[Amendment]</span>
+Feb 21,2017 17:01:50 [Info]  Verify The data of AMDocumentNameData
+<span style="color:green;">Feb 21,2017 17:01:50 [Verification]  Verified that Expected value :[AT_Document_Name_001] is matched with Actual value :[AT_Document_Name_001.bmp]</span>
+Feb 21,2017 17:01:51 [Info]  Verify The data of AMDocumentDate
+<span style="color:green;">Feb 21,2017 17:01:51 [Verification]  Verified that Expected value :[31/12/2010] is matched with Actual value :[31/12/2010]</span>
+Feb 21,2017 17:01:51 [Info]  
+Feb 21,2017 17:01:51 [Info]  *******Verify the Document details for Ep.102: Episode102*******
+Feb 21,2017 17:01:52 [Info]  Clicked on the 'Asset Navigator' using JS Executor
+Feb 21,2017 17:01:52 [Info]  Clicked on the 'Select Ep.102: Episode102 at Asset Navigator'
+Feb 21,2017 17:01:56 [Info]  Double clicked on 'Select Ep.102: Episode102 at Asset Navigator'
+Feb 21,2017 17:02:11 [Info]  Verify The data of Created Asset At Home
+<span style="color:green;">Feb 21,2017 17:02:11 [Verification]  Verified that Expected value :[Episode102] is matched with Actual value :[Episode102]</span>
+Feb 21,2017 17:02:11 [Info]  Clicked on the 'Documents TAB'
+Feb 21,2017 17:02:12 [Info]  ****Verifying all the Header's Values are shown correctly in View Mode For Episode102****
+Feb 21,2017 17:02:12 [Info]  Verify The data of AMDocumentTypeValue
+<span style="color:green;">Feb 21,2017 17:02:12 [Verification]  Verified that Expected value :[Amendment] is matched with Actual value :[Amendment]</span>
+Feb 21,2017 17:02:12 [Info]  Verify The data of AMDocumentNameData
+<span style="color:green;">Feb 21,2017 17:02:12 [Verification]  Verified that Expected value :[AT_Document_Name_001] is matched with Actual value :[AT_Document_Name_001.bmp]</span>
+Feb 21,2017 17:02:12 [Info]  Verify The data of AMDocumentDate
+<span style="color:green;">Feb 21,2017 17:02:12 [Verification]  Verified that Expected value :[31/12/2010] is matched with Actual value :[31/12/2010]</span>
+Feb 21,2017 17:02:12 [Info]  
+Feb 21,2017 17:02:12 [Info]  *******Verify the Document details for Ep.201: Episode201*******
+Feb 21,2017 17:02:14 [Info]  Clicked on the 'Asset Navigator' using JS Executor
+Feb 21,2017 17:02:14 [Info]  Clicked on the 'Select Ep.201: Episode201 at Asset Navigator'
+Feb 21,2017 17:02:18 [Info]  Double clicked on 'Select Ep.201: Episode201 at Asset Navigator'
+Feb 21,2017 17:02:33 [Info]  Verify The data of Created Asset At Home
+<span style="color:green;">Feb 21,2017 17:02:33 [Verification]  Verified that Expected value :[Episode201] is matched with Actual value :[Episode201]</span>
+Feb 21,2017 17:02:33 [Info]  Clicked on the 'Documents TAB'
+Feb 21,2017 17:02:34 [Info]  ****Verifying all the Header's Values are shown correctly in View Mode For Episode201****
+Feb 21,2017 17:02:35 [Info]  Verify The data of AMDocumentTypeValue
+<span style="color:green;">Feb 21,2017 17:02:35 [Verification]  Verified that Expected value :[Amendment] is matched with Actual value :[Amendment]</span>
+Feb 21,2017 17:02:35 [Info]  Verify The data of AMDocumentNameData
+<span style="color:green;">Feb 21,2017 17:02:35 [Verification]  Verified that Expected value :[AT_Document_Name_001] is matched with Actual value :[AT_Document_Name_001.bmp]</span>
+Feb 21,2017 17:02:35 [Info]  Verify The data of AMDocumentDate
+<span style="color:green;">Feb 21,2017 17:02:35 [Verification]  Verified that Expected value :[31/12/2010] is matched with Actual value :[31/12/2010]</span>
+Feb 21,2017 17:02:35 [Info]  
+Feb 21,2017 17:02:35 [Info]  *******Verify the Document details for Ep.202: Episode202*******
+Feb 21,2017 17:02:36 [Info]  Clicked on the 'Asset Navigator' using JS Executor
+Feb 21,2017 17:02:36 [Info]  Clicked on the 'Select Ep.202: Episode202 at Asset Navigator'
+Feb 21,2017 17:02:39 [Info]  Double clicked on 'Select Ep.202: Episode202 at Asset Navigator'
+Feb 21,2017 17:02:55 [Info]  Verify The data of Created Asset At Home
+<span style="color:green;">Feb 21,2017 17:02:55 [Verification]  Verified that Expected value :[Episode202] is matched with Actual value :[Episode202]</span>
+Feb 21,2017 17:02:55 [Info]  Clicked on the 'Documents TAB'
+Feb 21,2017 17:02:56 [Info]  ****Verifying all the Header's Values are shown correctly in View Mode For Episode202****
+Feb 21,2017 17:02:56 [Info]  Verify The data of AMDocumentTypeValue
+<span style="color:green;">Feb 21,2017 17:02:56 [Verification]  Verified that Expected value :[Amendment] is matched with Actual value :[Amendment]</span>
+Feb 21,2017 17:02:56 [Info]  Verify The data of AMDocumentNameData
+<span style="color:green;">Feb 21,2017 17:02:56 [Verification]  Verified that Expected value :[AT_Document_Name_001] is matched with Actual value :[AT_Document_Name_001.bmp]</span>
+Feb 21,2017 17:02:56 [Info]  Verify The data of AMDocumentDate
+<span style="color:green;">Feb 21,2017 17:02:56 [Verification]  Verified that Expected value :[31/12/2010] is matched with Actual value :[31/12/2010]</span>
+Feb 21,2017 17:02:56 [Info]  Test 'TC2_DocumentTAB_AcrossEpisodesAsset' PASSED
+Feb 21,2017 17:02:57 [Info]  Closed the Browser
+Feb 21,2017 17:07:15 [Info]  Client: SKY
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************</span>
+Feb 21,2017 17:07:15 [Info]  Test 'createCustomAttributes_Prerequisites' FAILED
+Feb 21,2017 17:07:15 [Info]  2
+Feb 21,2017 17:07:15 [Info]  Test 'createCustomAttributes_Prerequisites' FAILED
+Feb 21,2017 17:07:15 [Info]  2
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 17:08:55******************</span>
+Feb 21,2017 17:08:55 [Info]  Client: SKY
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************</span>
+Feb 21,2017 17:09:06 [Info]  Client: SKY
+Feb 21,2017 17:09:06 [Info]  URL: http://rlv2wb85/Home.aspx
+Feb 21,2017 17:09:06 [Info]  UserName: admin
+Feb 21,2017 17:09:06 [Info]  Password: admin
+Feb 21,2017 17:09:07 [Info]  Entered "admin" in field 'User Name'
+Feb 21,2017 17:09:07 [Info]  Clicked on the 'Temporary Check Box'
+Feb 21,2017 17:09:07 [Info]  Entered "admin" in field 'Password'
+Feb 21,2017 17:09:15 [Info]  Clicked on the 'LoginButton'
+Feb 21,2017 17:09:21 [Info]  Clicked on the 'Administration'
+Feb 21,2017 17:09:31 [Info]  Clicked on the 'ListMaintenance'
+Feb 21,2017 17:09:37 [Info]  Clicked on the 'Link at Menu' using JS Executor
+Feb 21,2017 17:09:41 [Info]  Clicked on the ''Custom Attributes' Link under Maintain Menu Link' using JS Executor
+Feb 21,2017 17:09:44 [Info]  Clicked on the 'New Button to Add Attribute' using JS Executor
+Feb 21,2017 17:09:46 [Info]  Clicked on the 'Module Field'
+Feb 21,2017 17:09:46 [Info]  Entered "Title Maintenance" in field 'Entered Title Maintenance in Module Input Field'
+Feb 21,2017 17:09:46 [Info]  Clicked on the 'AttributeName Field'
+Feb 21,2017 17:09:47 [Info]  Entered "AUT_Attributes_Film location0221201750855" in field 'Entered AUT_Attributes_Film location0221201750855 in Attribute Name Input Field'
+Feb 21,2017 17:09:47 [Info]  Clicked on the 'DataType Field'
+Feb 21,2017 17:09:47 [Info]  Entered "Text only" in field 'Entered Text only in DataType Input Field'
+Feb 21,2017 17:09:47 [Info]  Clicked on the 'Format Field'
+Feb 21,2017 17:09:47 [Info]  Entered "Text" in field 'Entered Text in Format Input Field'
+Feb 21,2017 17:09:47 [Info]  Clicked on the 'Support Click'
+Feb 21,2017 17:10:04 [Info]  Clicked on the 'Save Button to Add Attribute' using JS Executor
+Feb 21,2017 17:10:07 [Info]  Verify the details of Created Custom Attribute
+Feb 21,2017 17:10:07 [Info]  Verify The data of ModuleName Field
+<span style="color:green;">Feb 21,2017 17:10:07 [Verification]  Verified that Expected value :[Title Maintenance] is matched with Actual value :[Title Maintenance]</span>
+Feb 21,2017 17:10:07 [Info]  Verify The data of AttributeName Field
+<span style="color:green;">Feb 21,2017 17:10:07 [Verification]  Verified that Expected value :[AUT_Attributes_Film location0221201750855] is matched with Actual value :[AUT_Attributes_Film location0221201750855]</span>
+Feb 21,2017 17:10:07 [Info]  Verify The data of DataType Field
+<span style="color:green;">Feb 21,2017 17:10:07 [Verification]  Verified that Expected value :[Text only] is matched with Actual value :[Text only]</span>
+Feb 21,2017 17:10:07 [Info]  Verify The data of Format Field
+<span style="color:green;">Feb 21,2017 17:10:07 [Verification]  Verified that Expected value :[Text] is matched with Actual value :[Text]</span>
+Feb 21,2017 17:10:07 [Info]  
+Feb 21,2017 17:10:07 [Info]  Clicked on the 'New Button to Add Attribute' using JS Executor
+Feb 21,2017 17:10:09 [Info]  Clicked on the 'Module Field'
+Feb 21,2017 17:10:10 [Info]  Entered "Title Maintenance" in field 'Entered Title Maintenance in Module Input Field'
+Feb 21,2017 17:10:10 [Info]  Clicked on the 'AttributeName Field'
+Feb 21,2017 17:10:10 [Info]  Entered "AUT_Attributes_Media_0221201750855" in field 'Entered AUT_Attributes_Media_0221201750855 in Attribute Name Input Field'
+Feb 21,2017 17:10:10 [Info]  Clicked on the 'DataType Field'
+Feb 21,2017 17:10:10 [Info]  Entered "Text only" in field 'Entered Text only in DataType Input Field'
+Feb 21,2017 17:10:10 [Info]  Clicked on the 'Format Field'
+Feb 21,2017 17:10:11 [Info]  Entered "AlphaNumeric" in field 'Entered AlphaNumeric in Format Input Field'
+Feb 21,2017 17:10:11 [Info]  Clicked on the 'Support Click'
+Feb 21,2017 17:10:28 [Info]  Clicked on the 'Save Button to Add Attribute' using JS Executor
+Feb 21,2017 17:10:31 [Info]  Verify the details of Created Custom Attribute
+Feb 21,2017 17:10:32 [Info]  Verify The data of ModuleName Field
+<span style="color:green;">Feb 21,2017 17:10:32 [Verification]  Verified that Expected value :[Title Maintenance] is matched with Actual value :[Title Maintenance]</span>
+Feb 21,2017 17:10:32 [Info]  Verify The data of AttributeName Field
+<span style="color:green;">Feb 21,2017 17:10:32 [Verification]  Verified that Expected value :[AUT_Attributes_Media_0221201750855] is matched with Actual value :[AUT_Attributes_Media_0221201750855]</span>
+Feb 21,2017 17:10:32 [Info]  Verify The data of DataType Field
+<span style="color:green;">Feb 21,2017 17:10:32 [Verification]  Verified that Expected value :[Text only] is matched with Actual value :[Text only]</span>
+Feb 21,2017 17:10:32 [Info]  Verify The data of Format Field
+<span style="color:green;">Feb 21,2017 17:10:32 [Verification]  Verified that Expected value :[AlphaNumeric] is matched with Actual value :[AlphaNumeric]</span>
+Feb 21,2017 17:10:32 [Info]  
+Feb 21,2017 17:10:32 [Info]  Clicked on the 'New Button to Add Attribute' using JS Executor
+Feb 21,2017 17:10:34 [Info]  Clicked on the 'Module Field'
+Feb 21,2017 17:10:34 [Info]  Entered "Title Maintenance" in field 'Entered Title Maintenance in Module Input Field'
+Feb 21,2017 17:10:34 [Info]  Clicked on the 'AttributeName Field'
+Feb 21,2017 17:10:35 [Info]  Entered "AUT_Attributes_ NUMERIC 1_0221201750855" in field 'Entered AUT_Attributes_ NUMERIC 1_0221201750855 in Attribute Name Input Field'
+Feb 21,2017 17:10:35 [Info]  Clicked on the 'DataType Field'
+Feb 21,2017 17:10:35 [Info]  Entered "Numeric" in field 'Entered Numeric in DataType Input Field'
+Feb 21,2017 17:10:35 [Info]  Clicked on the 'Format Field'
+Feb 21,2017 17:10:35 [Info]  Entered "Number" in field 'Entered Number in Format Input Field'
+Feb 21,2017 17:10:35 [Info]  Clicked on the 'Support Click'
+Feb 21,2017 17:10:49 [Info]  Clicked on the 'Save Button to Add Attribute' using JS Executor
+Feb 21,2017 17:10:53 [Info]  Verify the details of Created Custom Attribute
+Feb 21,2017 17:10:53 [Info]  Verify The data of ModuleName Field
+<span style="color:green;">Feb 21,2017 17:10:53 [Verification]  Verified that Expected value :[Title Maintenance] is matched with Actual value :[Title Maintenance]</span>
+Feb 21,2017 17:10:53 [Info]  Verify The data of AttributeName Field
+<span style="color:green;">Feb 21,2017 17:10:53 [Verification]  Verified that Expected value :[AUT_Attributes_ NUMERIC 1_0221201750855] is matched with Actual value :[AUT_Attributes_ NUMERIC 1_0221201750855]</span>
+Feb 21,2017 17:10:53 [Info]  Verify The data of DataType Field
+<span style="color:green;">Feb 21,2017 17:10:53 [Verification]  Verified that Expected value :[Numeric] is matched with Actual value :[Numeric]</span>
+Feb 21,2017 17:10:53 [Info]  Verify The data of Format Field
+<span style="color:green;">Feb 21,2017 17:10:53 [Verification]  Verified that Expected value :[Number] is matched with Actual value :[Number]</span>
+Feb 21,2017 17:10:53 [Info]  
+Feb 21,2017 17:10:53 [Info]  Clicked on the 'New Button to Add Attribute' using JS Executor
+Feb 21,2017 17:10:55 [Info]  Clicked on the 'Module Field'
+Feb 21,2017 17:10:55 [Info]  Entered "Title Maintenance" in field 'Entered Title Maintenance in Module Input Field'
+Feb 21,2017 17:10:55 [Info]  Clicked on the 'AttributeName Field'
+Feb 21,2017 17:10:56 [Info]  Entered "AUT_Attributes_NUMERIC 2_0221201750855" in field 'Entered AUT_Attributes_NUMERIC 2_0221201750855 in Attribute Name Input Field'
+Feb 21,2017 17:10:56 [Info]  Clicked on the 'DataType Field'
+Feb 21,2017 17:10:56 [Info]  Entered "Numeric" in field 'Entered Numeric in DataType Input Field'
+Feb 21,2017 17:10:56 [Info]  Clicked on the 'Format Field'
+Feb 21,2017 17:10:56 [Info]  Entered "Decimal" in field 'Entered Decimal in Format Input Field'
+Feb 21,2017 17:10:56 [Info]  Clicked on the 'Support Click'
+Feb 21,2017 17:11:10 [Info]  Clicked on the 'Save Button to Add Attribute' using JS Executor
+Feb 21,2017 17:11:13 [Info]  Verify the details of Created Custom Attribute
+Feb 21,2017 17:11:13 [Info]  Verify The data of ModuleName Field
+<span style="color:green;">Feb 21,2017 17:11:13 [Verification]  Verified that Expected value :[Title Maintenance] is matched with Actual value :[Title Maintenance]</span>
+Feb 21,2017 17:11:14 [Info]  Verify The data of AttributeName Field
+<span style="color:green;">Feb 21,2017 17:11:14 [Verification]  Verified that Expected value :[AUT_Attributes_NUMERIC 2_0221201750855] is matched with Actual value :[AUT_Attributes_NUMERIC 2_0221201750855]</span>
+Feb 21,2017 17:11:14 [Info]  Verify The data of DataType Field
+<span style="color:green;">Feb 21,2017 17:11:14 [Verification]  Verified that Expected value :[Numeric] is matched with Actual value :[Numeric]</span>
+Feb 21,2017 17:11:14 [Info]  Verify The data of Format Field
+<span style="color:green;">Feb 21,2017 17:11:14 [Verification]  Verified that Expected value :[Decimal] is matched with Actual value :[Decimal]</span>
+Feb 21,2017 17:11:14 [Info]  
+Feb 21,2017 17:11:14 [Info]  Clicked on the 'New Button to Add Attribute' using JS Executor
+Feb 21,2017 17:11:16 [Info]  Clicked on the 'Module Field'
+Feb 21,2017 17:11:16 [Info]  Entered "Title Maintenance" in field 'Entered Title Maintenance in Module Input Field'
+Feb 21,2017 17:11:16 [Info]  Clicked on the 'AttributeName Field'
+Feb 21,2017 17:11:17 [Info]  Entered "AUT_Attributes_CURRENCY 1_0221201750855" in field 'Entered AUT_Attributes_CURRENCY 1_0221201750855 in Attribute Name Input Field'
+Feb 21,2017 17:11:17 [Info]  Clicked on the 'DataType Field'
+Feb 21,2017 17:11:17 [Info]  Entered "Currency" in field 'Entered Currency in DataType Input Field'
+Feb 21,2017 17:11:17 [Info]  Clicked on the 'Format Field'
+Feb 21,2017 17:11:17 [Info]  Entered "$$$$$" in field 'Entered $$$$$ in Format Input Field'
+Feb 21,2017 17:11:17 [Info]  Clicked on the 'Support Click'
+Feb 21,2017 17:11:30 [Info]  Clicked on the 'Save Button to Add Attribute' using JS Executor
+Feb 21,2017 17:11:33 [Info]  Verify the details of Created Custom Attribute
+Feb 21,2017 17:11:33 [Info]  Verify The data of ModuleName Field
+<span style="color:green;">Feb 21,2017 17:11:33 [Verification]  Verified that Expected value :[Title Maintenance] is matched with Actual value :[Title Maintenance]</span>
+Feb 21,2017 17:11:33 [Info]  Verify The data of AttributeName Field
+<span style="color:green;">Feb 21,2017 17:11:33 [Verification]  Verified that Expected value :[AUT_Attributes_CURRENCY 1_0221201750855] is matched with Actual value :[AUT_Attributes_CURRENCY 1_0221201750855]</span>
+Feb 21,2017 17:11:33 [Info]  Verify The data of DataType Field
+<span style="color:green;">Feb 21,2017 17:11:33 [Verification]  Verified that Expected value :[Currency] is matched with Actual value :[Currency]</span>
+Feb 21,2017 17:11:33 [Info]  Verify The data of Format Field
+<span style="color:green;">Feb 21,2017 17:11:33 [Verification]  Verified that Expected value :[$$$$$] is matched with Actual value :[$$$$$]</span>
+Feb 21,2017 17:11:33 [Info]  
+Feb 21,2017 17:11:33 [Info]  Clicked on the 'New Button to Add Attribute' using JS Executor
+Feb 21,2017 17:11:35 [Info]  Clicked on the 'Module Field'
+Feb 21,2017 17:11:36 [Info]  Entered "Title Maintenance" in field 'Entered Title Maintenance in Module Input Field'
+Feb 21,2017 17:11:36 [Info]  Clicked on the 'AttributeName Field'
+Feb 21,2017 17:11:36 [Info]  Entered "AUT_Attributes_CURRENCY 2_0221201750855" in field 'Entered AUT_Attributes_CURRENCY 2_0221201750855 in Attribute Name Input Field'
+Feb 21,2017 17:11:36 [Info]  Clicked on the 'DataType Field'
+Feb 21,2017 17:11:36 [Info]  Entered "Currency" in field 'Entered Currency in DataType Input Field'
+Feb 21,2017 17:11:36 [Info]  Clicked on the 'Format Field'
+Feb 21,2017 17:11:37 [Info]  Entered "$$$$$.cc" in field 'Entered $$$$$.cc in Format Input Field'
+Feb 21,2017 17:11:37 [Info]  Clicked on the 'Support Click'
+Feb 21,2017 17:11:50 [Info]  Clicked on the 'Save Button to Add Attribute' using JS Executor
+Feb 21,2017 17:11:53 [Info]  Verify the details of Created Custom Attribute
+Feb 21,2017 17:11:54 [Info]  Verify The data of ModuleName Field
+<span style="color:green;">Feb 21,2017 17:11:54 [Verification]  Verified that Expected value :[Title Maintenance] is matched with Actual value :[Title Maintenance]</span>
+Feb 21,2017 17:11:54 [Info]  Verify The data of AttributeName Field
+<span style="color:green;">Feb 21,2017 17:11:54 [Verification]  Verified that Expected value :[AUT_Attributes_CURRENCY 2_0221201750855] is matched with Actual value :[AUT_Attributes_CURRENCY 2_0221201750855]</span>
+Feb 21,2017 17:11:54 [Info]  Verify The data of DataType Field
+<span style="color:green;">Feb 21,2017 17:11:54 [Verification]  Verified that Expected value :[Currency] is matched with Actual value :[Currency]</span>
+Feb 21,2017 17:11:54 [Info]  Verify The data of Format Field
+<span style="color:green;">Feb 21,2017 17:11:54 [Verification]  Verified that Expected value :[$$$$$.cc] is matched with Actual value :[$$$$$.cc]</span>
+Feb 21,2017 17:11:54 [Info]  
+Feb 21,2017 17:11:54 [Info]  Clicked on the 'New Button to Add Attribute' using JS Executor
+Feb 21,2017 17:11:56 [Info]  Clicked on the 'Module Field'
+Feb 21,2017 17:11:56 [Info]  Entered "Title Maintenance" in field 'Entered Title Maintenance in Module Input Field'
+Feb 21,2017 17:11:56 [Info]  Clicked on the 'AttributeName Field'
+Feb 21,2017 17:11:57 [Info]  Entered "AUT_Attributes_RANGE 1_0221201750855" in field 'Entered AUT_Attributes_RANGE 1_0221201750855 in Attribute Name Input Field'
+Feb 21,2017 17:11:57 [Info]  Clicked on the 'DataType Field'
+Feb 21,2017 17:11:57 [Info]  Entered "Range" in field 'Entered Range in DataType Input Field'
+Feb 21,2017 17:11:57 [Info]  Clicked on the 'Format Field'
+Feb 21,2017 17:11:57 [Info]  Entered "AlphaNumeric" in field 'Entered AlphaNumeric in Format Input Field'
+Feb 21,2017 17:11:57 [Info]  Clicked on the 'Support Click'
+Feb 21,2017 17:12:11 [Info]  Clicked on the 'Save Button to Add Attribute' using JS Executor
+Feb 21,2017 17:12:14 [Info]  Verify the details of Created Custom Attribute
+Feb 21,2017 17:12:14 [Info]  Verify The data of ModuleName Field
+<span style="color:green;">Feb 21,2017 17:12:14 [Verification]  Verified that Expected value :[Title Maintenance] is matched with Actual value :[Title Maintenance]</span>
+Feb 21,2017 17:12:14 [Info]  Verify The data of AttributeName Field
+<span style="color:green;">Feb 21,2017 17:12:14 [Verification]  Verified that Expected value :[AUT_Attributes_RANGE 1_0221201750855] is matched with Actual value :[AUT_Attributes_RANGE 1_0221201750855]</span>
+Feb 21,2017 17:12:14 [Info]  Verify The data of DataType Field
+<span style="color:green;">Feb 21,2017 17:12:14 [Verification]  Verified that Expected value :[Range] is matched with Actual value :[Range]</span>
+Feb 21,2017 17:12:15 [Info]  Verify The data of Format Field
+<span style="color:green;">Feb 21,2017 17:12:15 [Verification]  Verified that Expected value :[AlphaNumeric] is matched with Actual value :[AlphaNumeric]</span>
+Feb 21,2017 17:12:15 [Info]  
+Feb 21,2017 17:12:15 [Info]  Clicked on the 'New Button to Add Attribute' using JS Executor
+Feb 21,2017 17:12:17 [Info]  Clicked on the 'Module Field'
+Feb 21,2017 17:12:17 [Info]  Entered "Title Maintenance" in field 'Entered Title Maintenance in Module Input Field'
+Feb 21,2017 17:12:17 [Info]  Clicked on the 'AttributeName Field'
+Feb 21,2017 17:12:17 [Info]  Entered "AUT_Attributes_RANGE 2_0221201750855" in field 'Entered AUT_Attributes_RANGE 2_0221201750855 in Attribute Name Input Field'
+Feb 21,2017 17:12:17 [Info]  Clicked on the 'DataType Field'
+Feb 21,2017 17:12:18 [Info]  Entered "Range" in field 'Entered Range in DataType Input Field'
+Feb 21,2017 17:12:18 [Info]  Clicked on the 'Format Field'
+Feb 21,2017 17:12:18 [Info]  Entered "Number" in field 'Entered Number in Format Input Field'
+Feb 21,2017 17:12:18 [Info]  Clicked on the 'Support Click'
+Feb 21,2017 17:12:32 [Info]  Clicked on the 'Save Button to Add Attribute' using JS Executor
+Feb 21,2017 17:12:35 [Info]  Verify the details of Created Custom Attribute
+Feb 21,2017 17:12:35 [Info]  Verify The data of ModuleName Field
+<span style="color:green;">Feb 21,2017 17:12:35 [Verification]  Verified that Expected value :[Title Maintenance] is matched with Actual value :[Title Maintenance]</span>
+Feb 21,2017 17:12:35 [Info]  Verify The data of AttributeName Field
+<span style="color:green;">Feb 21,2017 17:12:35 [Verification]  Verified that Expected value :[AUT_Attributes_RANGE 2_0221201750855] is matched with Actual value :[AUT_Attributes_RANGE 2_0221201750855]</span>
+Feb 21,2017 17:12:35 [Info]  Verify The data of DataType Field
+<span style="color:green;">Feb 21,2017 17:12:35 [Verification]  Verified that Expected value :[Range] is matched with Actual value :[Range]</span>
+Feb 21,2017 17:12:35 [Info]  Verify The data of Format Field
+<span style="color:green;">Feb 21,2017 17:12:35 [Verification]  Verified that Expected value :[Number] is matched with Actual value :[Number]</span>
+Feb 21,2017 17:12:35 [Info]  
+Feb 21,2017 17:12:35 [Info]  Clicked on the 'New Button to Add Attribute' using JS Executor
+Feb 21,2017 17:12:37 [Info]  Clicked on the 'Module Field'
+Feb 21,2017 17:12:38 [Info]  Entered "Title Maintenance" in field 'Entered Title Maintenance in Module Input Field'
+Feb 21,2017 17:12:38 [Info]  Clicked on the 'AttributeName Field'
+Feb 21,2017 17:12:38 [Info]  Entered "AUT_Attributes_RANGE 3_0221201750855" in field 'Entered AUT_Attributes_RANGE 3_0221201750855 in Attribute Name Input Field'
+Feb 21,2017 17:12:38 [Info]  Clicked on the 'DataType Field'
+Feb 21,2017 17:12:38 [Info]  Entered "Range" in field 'Entered Range in DataType Input Field'
+Feb 21,2017 17:12:38 [Info]  Clicked on the 'Format Field'
+Feb 21,2017 17:12:39 [Info]  Entered "Decimal" in field 'Entered Decimal in Format Input Field'
+Feb 21,2017 17:12:39 [Info]  Clicked on the 'Support Click'
+Feb 21,2017 17:12:52 [Info]  Clicked on the 'Save Button to Add Attribute' using JS Executor
+Feb 21,2017 17:12:55 [Info]  Verify the details of Created Custom Attribute
+Feb 21,2017 17:12:56 [Info]  Verify The data of ModuleName Field
+<span style="color:green;">Feb 21,2017 17:12:56 [Verification]  Verified that Expected value :[Title Maintenance] is matched with Actual value :[Title Maintenance]</span>
+Feb 21,2017 17:12:56 [Info]  Verify The data of AttributeName Field
+<span style="color:green;">Feb 21,2017 17:12:56 [Verification]  Verified that Expected value :[AUT_Attributes_RANGE 3_0221201750855] is matched with Actual value :[AUT_Attributes_RANGE 3_0221201750855]</span>
+Feb 21,2017 17:12:56 [Info]  Verify The data of DataType Field
+<span style="color:green;">Feb 21,2017 17:12:56 [Verification]  Verified that Expected value :[Range] is matched with Actual value :[Range]</span>
+Feb 21,2017 17:12:56 [Info]  Verify The data of Format Field
+<span style="color:green;">Feb 21,2017 17:12:56 [Verification]  Verified that Expected value :[Decimal] is matched with Actual value :[Decimal]</span>
+Feb 21,2017 17:12:56 [Info]  
+Feb 21,2017 17:12:56 [Info]  Clicked on the 'New Button to Add Attribute' using JS Executor
+Feb 21,2017 17:12:58 [Info]  Clicked on the 'Module Field'
+Feb 21,2017 17:12:58 [Info]  Entered "Title Maintenance" in field 'Entered Title Maintenance in Module Input Field'
+Feb 21,2017 17:12:58 [Info]  Clicked on the 'AttributeName Field'
+Feb 21,2017 17:12:59 [Info]  Entered "AUT_Attributes_RANGE 4_0221201750855" in field 'Entered AUT_Attributes_RANGE 4_0221201750855 in Attribute Name Input Field'
+Feb 21,2017 17:12:59 [Info]  Clicked on the 'DataType Field'
+Feb 21,2017 17:12:59 [Info]  Entered "Range" in field 'Entered Range in DataType Input Field'
+Feb 21,2017 17:12:59 [Info]  Clicked on the 'Format Field'
+Feb 21,2017 17:12:59 [Info]  Entered "$$$$$" in field 'Entered $$$$$ in Format Input Field'
+Feb 21,2017 17:12:59 [Info]  Clicked on the 'Support Click'
+Feb 21,2017 17:13:13 [Info]  Clicked on the 'Save Button to Add Attribute' using JS Executor
+Feb 21,2017 17:13:16 [Info]  Verify the details of Created Custom Attribute
+Feb 21,2017 17:13:16 [Info]  Verify The data of ModuleName Field
+<span style="color:green;">Feb 21,2017 17:13:16 [Verification]  Verified that Expected value :[Title Maintenance] is matched with Actual value :[Title Maintenance]</span>
+Feb 21,2017 17:13:17 [Info]  Verify The data of AttributeName Field
+<span style="color:green;">Feb 21,2017 17:13:17 [Verification]  Verified that Expected value :[AUT_Attributes_RANGE 4_0221201750855] is matched with Actual value :[AUT_Attributes_RANGE 4_0221201750855]</span>
+Feb 21,2017 17:13:17 [Info]  Verify The data of DataType Field
+<span style="color:green;">Feb 21,2017 17:13:17 [Verification]  Verified that Expected value :[Range] is matched with Actual value :[Range]</span>
+Feb 21,2017 17:13:17 [Info]  Verify The data of Format Field
+<span style="color:green;">Feb 21,2017 17:13:17 [Verification]  Verified that Expected value :[$$$$$] is matched with Actual value :[$$$$$]</span>
+Feb 21,2017 17:13:17 [Info]  
+Feb 21,2017 17:13:17 [Info]  Clicked on the 'New Button to Add Attribute' using JS Executor
+Feb 21,2017 17:13:19 [Info]  Clicked on the 'Module Field'
+Feb 21,2017 17:13:19 [Info]  Entered "Title Maintenance" in field 'Entered Title Maintenance in Module Input Field'
+Feb 21,2017 17:13:19 [Info]  Clicked on the 'AttributeName Field'
+Feb 21,2017 17:13:20 [Info]  Entered "AUT_Attributes_RANGE 5_0221201750855" in field 'Entered AUT_Attributes_RANGE 5_0221201750855 in Attribute Name Input Field'
+Feb 21,2017 17:13:20 [Info]  Clicked on the 'DataType Field'
+Feb 21,2017 17:13:20 [Info]  Entered "Range" in field 'Entered Range in DataType Input Field'
+Feb 21,2017 17:13:20 [Info]  Clicked on the 'Format Field'
+Feb 21,2017 17:13:20 [Info]  Entered "$$$$$.cc" in field 'Entered $$$$$.cc in Format Input Field'
+Feb 21,2017 17:13:20 [Info]  Clicked on the 'Support Click'
+Feb 21,2017 17:13:33 [Info]  Clicked on the 'Save Button to Add Attribute' using JS Executor
+Feb 21,2017 17:13:36 [Info]  Verify the details of Created Custom Attribute
+Feb 21,2017 17:13:36 [Info]  Verify The data of ModuleName Field
+<span style="color:green;">Feb 21,2017 17:13:36 [Verification]  Verified that Expected value :[Title Maintenance] is matched with Actual value :[Title Maintenance]</span>
+Feb 21,2017 17:13:36 [Info]  Verify The data of AttributeName Field
+<span style="color:green;">Feb 21,2017 17:13:36 [Verification]  Verified that Expected value :[AUT_Attributes_RANGE 5_0221201750855] is matched with Actual value :[AUT_Attributes_RANGE 5_0221201750855]</span>
+Feb 21,2017 17:13:36 [Info]  Verify The data of DataType Field
+<span style="color:green;">Feb 21,2017 17:13:36 [Verification]  Verified that Expected value :[Range] is matched with Actual value :[Range]</span>
+Feb 21,2017 17:13:36 [Info]  Verify The data of Format Field
+<span style="color:green;">Feb 21,2017 17:13:36 [Verification]  Verified that Expected value :[$$$$$.cc] is matched with Actual value :[$$$$$.cc]</span>
+Feb 21,2017 17:13:36 [Info]  
+Feb 21,2017 17:13:36 [Info]  Clicked on the 'New Button to Add Attribute' using JS Executor
+Feb 21,2017 17:13:38 [Info]  Clicked on the 'Module Field'
+Feb 21,2017 17:13:38 [Info]  Entered "Title Maintenance" in field 'Entered Title Maintenance in Module Input Field'
+Feb 21,2017 17:13:39 [Info]  Clicked on the 'AttributeName Field'
+Feb 21,2017 17:13:39 [Info]  Entered "AUT_Attributes_RANGE 6_0221201750855" in field 'Entered AUT_Attributes_RANGE 6_0221201750855 in Attribute Name Input Field'
+Feb 21,2017 17:13:39 [Info]  Clicked on the 'DataType Field'
+Feb 21,2017 17:13:39 [Info]  Entered "Range" in field 'Entered Range in DataType Input Field'
+Feb 21,2017 17:13:39 [Info]  Clicked on the 'Format Field'
+Feb 21,2017 17:13:39 [Info]  Entered "No Format" in field 'Entered No Format in Format Input Field'
+Feb 21,2017 17:13:40 [Info]  Clicked on the 'Support Click'
+Feb 21,2017 17:13:52 [Info]  Clicked on the 'Save Button to Add Attribute' using JS Executor
+Feb 21,2017 17:13:55 [Info]  Verify the details of Created Custom Attribute
+Feb 21,2017 17:13:55 [Info]  Verify The data of ModuleName Field
+<span style="color:green;">Feb 21,2017 17:13:55 [Verification]  Verified that Expected value :[Title Maintenance] is matched with Actual value :[Title Maintenance]</span>
+Feb 21,2017 17:13:55 [Info]  Verify The data of AttributeName Field
+<span style="color:green;">Feb 21,2017 17:13:55 [Verification]  Verified that Expected value :[AUT_Attributes_RANGE 6_0221201750855] is matched with Actual value :[AUT_Attributes_RANGE 6_0221201750855]</span>
+Feb 21,2017 17:13:55 [Info]  Verify The data of DataType Field
+<span style="color:green;">Feb 21,2017 17:13:55 [Verification]  Verified that Expected value :[Range] is matched with Actual value :[Range]</span>
+Feb 21,2017 17:13:55 [Info]  Verify The data of Format Field
+<span style="color:green;">Feb 21,2017 17:13:55 [Verification]  Verified that Expected value :[No Format] is matched with Actual value :[No Format]</span>
+Feb 21,2017 17:13:55 [Info]  
+Feb 21,2017 17:13:55 [Info]  Clicked on the 'New Button to Add Attribute' using JS Executor
+Feb 21,2017 17:13:58 [Info]  Clicked on the 'Module Field'
+Feb 21,2017 17:13:58 [Info]  Entered "Title Maintenance" in field 'Entered Title Maintenance in Module Input Field'
+Feb 21,2017 17:13:58 [Info]  Clicked on the 'AttributeName Field'
+Feb 21,2017 17:13:58 [Info]  Entered "AUT_Attributes_RANGE 7_0221201750855" in field 'Entered AUT_Attributes_RANGE 7_0221201750855 in Attribute Name Input Field'
+Feb 21,2017 17:13:58 [Info]  Clicked on the 'DataType Field'
+Feb 21,2017 17:13:58 [Info]  Entered "Range" in field 'Entered Range in DataType Input Field'
+Feb 21,2017 17:13:59 [Info]  Clicked on the 'Format Field'
+Feb 21,2017 17:13:59 [Info]  Entered "Text" in field 'Entered Text in Format Input Field'
+Feb 21,2017 17:13:59 [Info]  Clicked on the 'Support Click'
+Feb 21,2017 17:14:12 [Info]  Clicked on the 'Save Button to Add Attribute' using JS Executor
+Feb 21,2017 17:14:15 [Info]  Verify the details of Created Custom Attribute
+Feb 21,2017 17:14:15 [Info]  Verify The data of ModuleName Field
+<span style="color:green;">Feb 21,2017 17:14:15 [Verification]  Verified that Expected value :[Title Maintenance] is matched with Actual value :[Title Maintenance]</span>
+Feb 21,2017 17:14:15 [Info]  Verify The data of AttributeName Field
+<span style="color:green;">Feb 21,2017 17:14:15 [Verification]  Verified that Expected value :[AUT_Attributes_RANGE 7_0221201750855] is matched with Actual value :[AUT_Attributes_RANGE 7_0221201750855]</span>
+Feb 21,2017 17:14:16 [Info]  Verify The data of DataType Field
+<span style="color:green;">Feb 21,2017 17:14:16 [Verification]  Verified that Expected value :[Range] is matched with Actual value :[Range]</span>
+Feb 21,2017 17:14:16 [Info]  Verify The data of Format Field
+<span style="color:green;">Feb 21,2017 17:14:16 [Verification]  Verified that Expected value :[Text] is matched with Actual value :[Text]</span>
+Feb 21,2017 17:14:16 [Info]  
+Feb 21,2017 17:14:16 [Info]  Clicked on the 'New Button to Add Attribute' using JS Executor
+Feb 21,2017 17:14:18 [Info]  Clicked on the 'Module Field'
+Feb 21,2017 17:14:18 [Info]  Entered "Title Maintenance" in field 'Entered Title Maintenance in Module Input Field'
+Feb 21,2017 17:14:18 [Info]  Clicked on the 'AttributeName Field'
+Feb 21,2017 17:14:18 [Info]  Entered "AUT_Attributes_List_0221201750855" in field 'Entered AUT_Attributes_List_0221201750855 in Attribute Name Input Field'
+Feb 21,2017 17:14:19 [Info]  Clicked on the 'DataType Field'
+Feb 21,2017 17:14:19 [Info]  Entered "List" in field 'Entered List in DataType Input Field'
+Feb 21,2017 17:14:19 [Info]  Clicked on the 'Format Field'
+Feb 21,2017 17:14:19 [Info]  Entered "No Format" in field 'Entered No Format in Format Input Field'
+Feb 21,2017 17:14:19 [Info]  Clicked on the 'Support Click'
+Feb 21,2017 17:14:19 [Info]  Clicked on the 'ListElement Field'
+Feb 21,2017 17:14:20 [Info]  Entered "Volume 1,Volume 2,Volume 3,Volume 4,Volume 5,Volume 6,Volume 7,Volume 8,Volume 9,Volume 10,Special" in field 'Entered Volume 1,Volume 2,Volume 3,Volume 4,Volume 5,Volume 6,Volume 7,Volume 8,Volume 9,Volume 10,Special in DataType Input Field'
+Feb 21,2017 17:14:20 [Info]  Clicked on the 'Support Click'
+Feb 21,2017 17:14:34 [Info]  Clicked on the 'Save Button to Add Attribute' using JS Executor
+Feb 21,2017 17:14:37 [Info]  Verify the details of Created Custom Attribute
+Feb 21,2017 17:14:37 [Info]  Verify The data of ModuleName Field
+<span style="color:green;">Feb 21,2017 17:14:37 [Verification]  Verified that Expected value :[Title Maintenance] is matched with Actual value :[Title Maintenance]</span>
+Feb 21,2017 17:14:38 [Info]  Verify The data of AttributeName Field
+<span style="color:green;">Feb 21,2017 17:14:38 [Verification]  Verified that Expected value :[AUT_Attributes_List_0221201750855] is matched with Actual value :[AUT_Attributes_List_0221201750855]</span>
+Feb 21,2017 17:14:38 [Info]  Verify The data of DataType Field
+<span style="color:green;">Feb 21,2017 17:14:38 [Verification]  Verified that Expected value :[List] is matched with Actual value :[List]</span>
+Feb 21,2017 17:14:38 [Info]  Verify The data of Format Field
+<span style="color:green;">Feb 21,2017 17:14:38 [Verification]  Verified that Expected value :[No Format] is matched with Actual value :[No Format]</span>
+Feb 21,2017 17:14:38 [Info]  Verify The data of ListElement
+<span style="color:green;">Feb 21,2017 17:14:38 [Verification]  Verified that Expected value :[Volume 1,Volume 2,Volume 3,Volume 4,Volume 5,Volume 6,Volume 7,Volume 8,Volume 9,Volume 10,Special] is matched with Actual value :[Volume 1,Volume 2,Volume 3,Volume 4,Volume 5,Volume 6,Volume 7,Volume 8,Volume 9,Volume 10,Special]</span>
+Feb 21,2017 17:14:38 [Info]  
+Feb 21,2017 17:14:38 [Info]  Clicked on the 'New Button to Add Attribute' using JS Executor
+Feb 21,2017 17:14:40 [Info]  Clicked on the 'Module Field'
+Feb 21,2017 17:14:40 [Info]  Entered "Title Maintenance" in field 'Entered Title Maintenance in Module Input Field'
+Feb 21,2017 17:14:40 [Info]  Clicked on the 'AttributeName Field'
+Feb 21,2017 17:14:41 [Info]  Entered "AUT_Attributes_Date1_0221201750855" in field 'Entered AUT_Attributes_Date1_0221201750855 in Attribute Name Input Field'
+Feb 21,2017 17:14:41 [Info]  Clicked on the 'DataType Field'
+Feb 21,2017 17:14:41 [Info]  Entered "Date" in field 'Entered Date in DataType Input Field'
+Feb 21,2017 17:14:41 [Info]  Clicked on the 'Format Field'
+Feb 21,2017 17:14:41 [Info]  Entered "Custom" in field 'Entered Custom in Format Input Field'
+Feb 21,2017 17:14:41 [Info]  Clicked on the 'Support Click'
+Feb 21,2017 17:14:56 [Info]  Clicked on the 'Save Button to Add Attribute' using JS Executor
+Feb 21,2017 17:14:59 [Info]  Verify the details of Created Custom Attribute
+Feb 21,2017 17:15:00 [Info]  Verify The data of ModuleName Field
+<span style="color:green;">Feb 21,2017 17:15:00 [Verification]  Verified that Expected value :[Title Maintenance] is matched with Actual value :[Title Maintenance]</span>
+Feb 21,2017 17:15:00 [Info]  Verify The data of AttributeName Field
+<span style="color:green;">Feb 21,2017 17:15:00 [Verification]  Verified that Expected value :[AUT_Attributes_Date1_0221201750855] is matched with Actual value :[AUT_Attributes_Date1_0221201750855]</span>
+Feb 21,2017 17:15:00 [Info]  Verify The data of DataType Field
+<span style="color:green;">Feb 21,2017 17:15:00 [Verification]  Verified that Expected value :[Date] is matched with Actual value :[Date]</span>
+Feb 21,2017 17:15:00 [Info]  Verify The data of Format Field
+<span style="color:green;">Feb 21,2017 17:15:00 [Verification]  Verified that Expected value :[Custom] is matched with Actual value :[Custom]</span>
+Feb 21,2017 17:15:00 [Info]  
+Feb 21,2017 17:15:00 [Info]  Test 'createCustomAttributes_Prerequisites' PASSED
+Feb 21,2017 17:15:01 [Info]  Closed the Browser
+<span style="color:blue;"> [Manual Test Step]  ********************Started Executiong the Test Suite at 17:47:34******************</span>
+Feb 21,2017 17:47:34 [Info]  Client: SKY
+<span style="color:blue;"> [Manual Test Step]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************</span>
+Feb 21,2017 17:47:45 [Info]  Client: SKY
+Feb 21,2017 17:47:45 [Info]  URL: http://rlv2wb85/Home.aspx
+Feb 21,2017 17:47:45 [Info]  UserName: admin
+Feb 21,2017 17:47:45 [Info]  Password: admin
+Feb 21,2017 17:47:46 [Info]  Entered "admin" in field 'User Name'
+Feb 21,2017 17:47:46 [Info]  Clicked on the 'Temporary Check Box'
+Feb 21,2017 17:47:46 [Info]  Entered "admin" in field 'Password'
+Feb 21,2017 17:47:54 [Info]  Clicked on the 'LoginButton'
+<span style="color:blue;"> [Manual Test Step]  ************************Started Creating Asset of Type: Program - Series************************</span>
+Feb 21,2017 17:48:04 [Info]  Clicked on the 'MODULE'
+Feb 21,2017 17:48:10 [Info]  Clicked on the 'Title Maintenance'
+Feb 21,2017 17:48:16 [Info]  Clicked on the 'New Button' using JS Executor
+Feb 21,2017 17:48:20 [Info]  Clicked on the 'Program' using JS Executor
+Feb 21,2017 17:48:28 [Info]  Clicked on the 'General TAB'
+Feb 21,2017 17:48:30 [Info]  Selected "Program - Series" in "AssetTypeDropDown" drop down
+Feb 21,2017 17:48:33 [Info]  Entered "AUT_AssetSeries_Attri_0221201750855" in field 'AssetTitle'
+Feb 21,2017 17:48:34 [Info]  Clicked on the 'SBUImage' using JS Executor
+Feb 21,2017 17:48:40 [Info]  Clicked on the 'First CheckBox At SBU window'
+Feb 21,2017 17:48:42 [Info]  Clicked on the 'Apply Button' using JS Executor
+Feb 21,2017 17:48:43 [Info]  Entered "11:11:11" in field 'Duration'
+Feb 21,2017 17:48:53 [Info]  Selected "Active" in "Asset Status" drop down
+Feb 21,2017 17:48:53 [Info]  Selected "Event" in "Asset Format" drop down
+Feb 21,2017 17:48:54 [Info]  Selected "License Acquired" in "Asset Source" drop down
+Feb 21,2017 17:48:54 [Info]  Entered "AUT_Series" in field 'Short Name'
+Feb 21,2017 17:48:54 [Info]  Clicked on the 'Save Button' using JS Executor
+Feb 21,2017 17:49:06 [Info]  Clicked on the 'OK Button at Alert' using JS Executor
+Feb 21,2017 17:49:06 [Info]  Verify The data of Created AssetAUT_AssetSeries_Attri_0221201750855
+<span style="color:green;">Feb 21,2017 17:49:06 [Verification]  Verified that Expected value :[AUT_AssetSeries_Attri_0221201750855] is matched with Actual value :[AUT_AssetSeries_Attri_0221201750855]</span>
+<span style="color:blue;"> [Manual Test Step]  ************************Created Asset of TypeProgram - Series************************</span>
+Feb 21,2017 17:49:09 [Info]  Clicked on the 'MODULE'
+Feb 21,2017 17:49:15 [Info]  Clicked on the 'Title Maintenance'
+Feb 21,2017 17:49:19 [Info]  Clicked on the 'Search Menu Icon' using JS Executor
+Feb 21,2017 17:49:22 [Info]  Clicked on the 'AssetSearchUnderAsset' using JS Executor
+Feb 21,2017 17:49:30 [Info]  Entered "AUT_AssetSeries_Attri_0221201750855" in field 'AssetTitle'
+Feb 21,2017 17:49:50 [Info]  Clicked on the 'Find Button' using JS Executor
+Feb 21,2017 17:50:14 [Info]  Moved Mouse over 'First Asset in the Searched Asset'
+Feb 21,2017 17:50:14 [Info]  Clicked on the 'First Asset in the Searched Asset'
+Feb 21,2017 17:50:14 [Info]  Clicked on the 'First Asset in the Searched Asset'
+Feb 21,2017 17:50:17 [Info]  Clicked on the 'View Asset' using JS Executor
+Feb 21,2017 17:50:29 [Info]  Verify The data of Created Asset At Home
+<span style="color:green;">Feb 21,2017 17:50:29 [Verification]  Verified that Expected value :[AUT_AssetSeries_Attri_0221201750855] is matched with Actual value :[AUT_AssetSeries_Attri_0221201750855]</span>
+Feb 21,2017 17:50:30 [Info]  Clicked on the 'Attributes TAB'
+Feb 21,2017 17:50:35 [Info]  *****Verify Headers of Attribute TAB in View mode*****
+Feb 21,2017 17:50:35 [Info]  Verify The data of AM_Attributes Header
+<span style="color:green;">Feb 21,2017 17:50:35 [Verification]  Verified that Expected value :[Attribute] is matched with Actual value :[Attribute]</span>
+Feb 21,2017 17:50:35 [Info]  Verify The data of AttributesValue1
+<span style="color:green;">Feb 21,2017 17:50:35 [Verification]  Verified that Expected value :[Value] is matched with Actual value :[Value]</span>
+Feb 21,2017 17:50:35 [Info]  
+Feb 21,2017 17:50:35 [Info]  *****Verify Attribute in View mode*****
+Feb 21,2017 17:50:35 [Info]  Verify The data of AM_Attributes Name
+<span style="color:green;">Feb 21,2017 17:50:35 [Verification]  Verified that Expected value :[AUT_Attributes_Film location0221201750855] is matched with Actual value :[AUT_Attributes_Film location0221201750855]</span>
+Feb 21,2017 17:50:36 [Info]  Verify The data of AM_Attributes Name
+<span style="color:green;">Feb 21,2017 17:50:36 [Verification]  Verified that Expected value :[AUT_Attributes_Media_0221201750855] is matched with Actual value :[AUT_Attributes_Media_0221201750855]</span>
+Feb 21,2017 17:50:36 [Info]  Verify The data of AM_Attributes Name
+<span style="color:green;">Feb 21,2017 17:50:36 [Verification]  Verified that Expected value :[AUT_Attributes_ NUMERIC 1_0221201750855] is matched with Actual value :[AUT_Attributes_ NUMERIC 1_0221201750855]</span>
+Feb 21,2017 17:50:36 [Info]  Verify The data of AM_Attributes Name
+<span style="color:green;">Feb 21,2017 17:50:36 [Verification]  Verified that Expected value :[AUT_Attributes_NUMERIC 2_0221201750855] is matched with Actual value :[AUT_Attributes_NUMERIC 2_0221201750855]</span>
+Feb 21,2017 17:50:36 [Info]  Verify The data of AM_Attributes Name
+<span style="color:green;">Feb 21,2017 17:50:36 [Verification]  Verified that Expected value :[AUT_Attributes_CURRENCY 1_0221201750855] is matched with Actual value :[AUT_Attributes_CURRENCY 1_0221201750855]</span>
+Feb 21,2017 17:50:36 [Info]  Verify The data of AM_Attributes Name
+<span style="color:green;">Feb 21,2017 17:50:36 [Verification]  Verified that Expected value :[AUT_Attributes_CURRENCY 2_0221201750855] is matched with Actual value :[AUT_Attributes_CURRENCY 2_0221201750855]</span>
+Feb 21,2017 17:50:36 [Info]  Verify The data of AM_Attributes Name
+<span style="color:green;">Feb 21,2017 17:50:36 [Verification]  Verified that Expected value :[AUT_Attributes_RANGE 1_0221201750855] is matched with Actual value :[AUT_Attributes_RANGE 1_0221201750855]</span>
+Feb 21,2017 17:50:36 [Info]  Verify The data of AM_Attributes Name
+<span style="color:green;">Feb 21,2017 17:50:36 [Verification]  Verified that Expected value :[AUT_Attributes_RANGE 2_0221201750855] is matched with Actual value :[AUT_Attributes_RANGE 2_0221201750855]</span>
+Feb 21,2017 17:50:36 [Info]  Verify The data of AM_Attributes Name
+<span style="color:green;">Feb 21,2017 17:50:36 [Verification]  Verified that Expected value :[AUT_Attributes_RANGE 3_0221201750855] is matched with Actual value :[AUT_Attributes_RANGE 3_0221201750855]</span>
+Feb 21,2017 17:50:36 [Info]  Verify The data of AM_Attributes Name
+<span style="color:green;">Feb 21,2017 17:50:36 [Verification]  Verified that Expected value :[AUT_Attributes_RANGE 4_0221201750855] is matched with Actual value :[AUT_Attributes_RANGE 4_0221201750855]</span>
+Feb 21,2017 17:50:36 [Info]  Verify The data of AM_Attributes Name
+<span style="color:green;">Feb 21,2017 17:50:36 [Verification]  Verified that Expected value :[AUT_Attributes_RANGE 5_0221201750855] is matched with Actual value :[AUT_Attributes_RANGE 5_0221201750855]</span>
+Feb 21,2017 17:50:36 [Info]  Verify The data of AM_Attributes Name
+<span style="color:green;">Feb 21,2017 17:50:36 [Verification]  Verified that Expected value :[AUT_Attributes_RANGE 6_0221201750855] is matched with Actual value :[AUT_Attributes_RANGE 6_0221201750855]</span>
+Feb 21,2017 17:50:36 [Info]  Verify The data of AM_Attributes Name
+<span style="color:green;">Feb 21,2017 17:50:36 [Verification]  Verified that Expected value :[AUT_Attributes_RANGE 7_0221201750855] is matched with Actual value :[AUT_Attributes_RANGE 7_0221201750855]</span>
+Feb 21,2017 17:50:36 [Info]  Verify The data of AM_Attributes Name
+<span style="color:green;">Feb 21,2017 17:50:37 [Verification]  Verified that Expected value :[AUT_Attributes_List_0221201750855] is matched with Actual value :[AUT_Attributes_List_0221201750855]</span>
+Feb 21,2017 17:50:37 [Info]  Verify The data of AM_Attributes Name
+<span style="color:green;">Feb 21,2017 17:50:37 [Verification]  Verified that Expected value :[AUT_Attributes_Date1_0221201750855] is matched with Actual value :[AUT_Attributes_Date1_0221201750855]</span>
+Feb 21,2017 17:50:37 [Info]  
+Feb 21,2017 17:50:38 [Info]  Clicked on the 'Edit Button' using JS Executor
+Feb 21,2017 17:50:38 [Info]  *****Verify Headers of Attribute TAB in Edit mode*****
+Feb 21,2017 17:50:39 [Info]  Verify The data of AM_Attributes Header
+<span style="color:green;">Feb 21,2017 17:50:39 [Verification]  Verified that Expected value :[*Attribute] is matched with Actual value :[*Attribute]</span>
+Feb 21,2017 17:50:39 [Info]  Verify The data of AttributesValue1
+<span style="color:green;">Feb 21,2017 17:50:39 [Verification]  Verified that Expected value :[Value] is matched with Actual value :[Value]</span>
+Feb 21,2017 17:50:39 [Info]  *****Verify Button available in Edit mode*****
+Feb 21,2017 17:50:39 [Info]  Verify The data of Save button
+<span style="color:green;">Feb 21,2017 17:50:39 [Verification]  Verified that Expected value :[Save] is matched with Actual value :[Save]</span>
+Feb 21,2017 17:50:39 [Info]  Verify The data of Cancel button
+<span style="color:green;">Feb 21,2017 17:50:39 [Verification]  Verified that Expected value :[Cancel] is matched with Actual value :[Cancel]</span>
+Feb 21,2017 17:50:39 [Info]  
+Feb 21,2017 17:50:39 [Info]  *****Verify Attributes in Edit mode*****
+Feb 21,2017 17:50:39 [Info]  
+Feb 21,2017 17:50:39 [Info]  Clicked on the 'Cancel button' using JS Executor
+Feb 21,2017 17:50:39 [Info]  Test 'TC1_AttributeUI' PASSED
+Feb 21,2017 17:50:40 [Info]  Closed the Browser

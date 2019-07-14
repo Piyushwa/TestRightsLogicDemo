@@ -1,0 +1,1245 @@
+Sep 15,2016 12:26:24 [info]  ********************Started Executiong the Test Suite at 12:26:24******************
+Sep 15,2016 12:26:24 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Sep 15,2016 12:26:24 [info]  *********************Started Executing 'TC1_ContibutorUI' Test Case*********************
+Sep 15,2016 12:26:41 [info]  Client: AMCN
+Sep 15,2016 12:26:41 [info]  URL: http://rlv2wb79/login.aspx
+Sep 15,2016 12:26:41 [info]  UserName: automation
+Sep 15,2016 12:26:41 [info]  Password: automation
+Sep 15,2016 12:26:43 [info]  Entered "automation" in field 'User Name'
+Sep 15,2016 12:26:43 [info]  Clicked on the 'Temporary Check Box'
+Sep 15,2016 12:26:44 [info]  Entered "automation" in field 'Password'
+Sep 15,2016 12:26:53 [info]  Clicked on the 'LoginButton'
+Sep 15,2016 12:31:22 [info]  ********************Started Executiong the Test Suite at 12:31:22******************
+Sep 15,2016 12:31:22 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Sep 15,2016 12:31:22 [info]  *********************Started Executing 'TC1_ContibutorUI' Test Case*********************
+Sep 15,2016 12:31:32 [info]  Client: AMCN
+Sep 15,2016 12:31:32 [info]  URL: http://rlv2wb79/login.aspx
+Sep 15,2016 12:31:32 [info]  UserName: automation
+Sep 15,2016 12:31:32 [info]  Password: automation
+Sep 15,2016 12:31:33 [info]  Entered "automation" in field 'User Name'
+Sep 15,2016 12:31:33 [info]  Clicked on the 'Temporary Check Box'
+Sep 15,2016 12:31:34 [info]  Entered "automation" in field 'Password'
+Sep 15,2016 12:31:42 [info]  Clicked on the 'LoginButton'
+Sep 15,2016 12:31:49 [info]  Clicked on the 'MODULE'
+Sep 15,2016 12:32:01 [info]  Clicked on the 'Asset Maintenance'
+Sep 15,2016 12:32:04 [info]  Clicked on the 'Search Menu Icon' using JS Executor
+Sep 15,2016 12:32:04 [info]  Clicked on the 'AssetSearchUnderAsset' using JS Executor
+Sep 15,2016 12:32:18 [info]  Entered "AUT_AssetSeries_0914201614204" in field 'AssetTitle'
+Sep 15,2016 12:32:19 [info]  Clicked on the 'All Check Box' using JS Executor
+Sep 15,2016 12:32:19 [info]  Clicked on the 'Find Button' using JS Executor
+Sep 15,2016 12:32:37 [info]  Moved Mouse over 'First Asset in the Searched Asset'
+Sep 15,2016 12:32:38 [info]  Clicked on the 'First Asset in the Searched Asset'
+Sep 15,2016 12:32:41 [info]  Clicked on the 'View Asset' using JS Executor
+Sep 15,2016 12:33:00 [info]  Verified that Expected value :[AUT_AssetSeries_0914201614204] is matched with Actual value :[AUT_AssetSeries_0914201614204]
+Sep 15,2016 12:33:13 [info]  Clicked on the 'Contributors OR Contacts TAB'
+Sep 15,2016 12:33:23 [info]  **********The below are columns in the window************
+Sep 15,2016 12:35:41 [info]  Verified that Expected value :[Applies To] is matched with Actual value :[Applies To]
+Sep 15,2016 12:36:11 [info]  Verified that Expected value :[Rank Order] is matched with Actual value :[Rank Order]
+Sep 15,2016 12:36:11 [info]  Verified that Expected value :[Promotable Star] is matched with Actual value :[Promotable Star]
+Sep 15,2016 12:36:11 [info]  Verified that Expected value :[Name] is matched with Actual value :[Name]
+Sep 15,2016 12:36:12 [info]  Verified that Expected value :[Role] is matched with Actual value :[Role]
+Sep 15,2016 12:36:12 [info]  Verified that Expected value :[Character] is matched with Actual value :[Character]
+Sep 15,2016 12:36:12 [info]  Verified that Expected value :[Contact Information] is matched with Actual value :[Contact Information]
+Sep 15,2016 12:36:12 [info]  Verified that Expected value :[Guild] is matched with Actual value :[Guild]
+Sep 15,2016 12:36:12 [info]  Verified that Expected value :[Notes] is matched with Actual value :[Notes]
+Sep 15,2016 12:36:12 [info]  *******************************************************
+Sep 15,2016 12:36:12 [info]  Clicked on the ''Edit' Button at Contributor TAB' using JS Executor
+Sep 15,2016 12:36:39 [info]  **********The below are columns and button in the window************
+Sep 15,2016 12:37:43 [info]  Verified that Expected value :[*Applies To] is matched with Actual value :[*Applies To]
+Sep 15,2016 12:37:44 [info]  Verified that Expected value :[Rank Order] is matched with Actual value :[Rank Order]
+Sep 15,2016 12:37:44 [info]  Verified that Expected value :[Promotable Star] is matched with Actual value :[Promotable Star]
+Sep 15,2016 12:37:44 [info]  Verified that Expected value :[*Name] is matched with Actual value :[*Name]
+Sep 15,2016 12:37:44 [info]  Verified that Expected value :[*Role] is matched with Actual value :[*Role]
+Sep 15,2016 12:37:44 [info]  Verified that Expected value :[Character] is matched with Actual value :[Character]
+Sep 15,2016 12:37:44 [info]  Verified that Expected value :[Contact Information] is matched with Actual value :[Contact Information]
+Sep 15,2016 12:37:44 [info]  Verified that Expected value :[Guild] is matched with Actual value :[Guild]
+Sep 15,2016 12:37:44 [info]  Verified that Expected value :[Notes] is matched with Actual value :[Notes]
+Sep 15,2016 12:37:44 [info]  *****Verifying the available Buttons at 'Edit Contributor window'*****
+Sep 15,2016 12:38:18 [info]  Verified that Expected value :[Add] is matched with Actual value :[Add]
+Sep 15,2016 12:38:19 [info]  Verified that Expected value :[Delete] is matched with Actual value :[Delete]
+Sep 15,2016 12:38:19 [info]  Verified that Expected value :[Save] is matched with Actual value :[Save]
+Sep 15,2016 12:38:19 [info]  Verified that Expected value :[Cancel] is matched with Actual value :[Cancel]
+Sep 15,2016 12:38:22 [info]  *******************************************************
+Sep 15,2016 12:38:23 [info]  Clicked on the 'Delete Button at Edit Contributor Window' using JS Executor
+Sep 15,2016 12:38:30 [info]  Verified that Expected value :[Please select a row before clicking Delete] is matched with Actual value :[  RightsLogic Alert  
+    Please select a row before clicking Delete.
+       ]
+Sep 15,2016 12:38:37 [info]  Clicked on the 'OK Button at Alert While deleting the Episode' using JS Executor
+Sep 15,2016 12:39:36 [info]  Clicked on the ''Add' Button at Contributor window' using JS Executor
+Sep 15,2016 12:39:50 [info]  **********The dropdown values on search names************
+Sep 15,2016 12:39:55 [info]  External Contributors
+Sep 15,2016 12:39:57 [info]  Companies/Individual Parties
+Sep 15,2016 12:40:09 [info]  Internal Parties
+Sep 15,2016 12:40:11 [info]  ***************************
+Sep 15,2016 12:41:17 [info]  Verified that Expected value :[External Contributors] is matched with Actual value :[External Contributors]
+Sep 15,2016 12:41:17 [info]  **********The default values & columns in the window based on search names -Internal Parties ************
+Sep 15,2016 12:41:18 [info]  Verified that Expected value :[Last Name] is matched with Actual value :[Last Name]
+Sep 15,2016 12:41:18 [info]  Verifying The Header for 'Internal Parties'
+Sep 15,2016 12:41:18 [info]  Verified that Expected value :[First Name] is matched with Actual value :[First Name]
+Sep 15,2016 12:41:18 [info]  Verified that Expected value :[Last Name] is matched with Actual value :[Last Name]
+Sep 15,2016 12:41:18 [info]  **********The default values & columns in the window based on search names -External Contributors ************
+Sep 15,2016 12:41:18 [info]  Selected "External Contributors" in "Contributor_PartyList_DropDown" drop down
+Sep 15,2016 12:41:19 [info]  Verifying the default value selected in 'Party list type' for 'External Contributors' PartyList' dropdown 
+Sep 15,2016 12:41:19 [info]  Verified that Expected value :[Last Name] is matched with Actual value :[Last Name]
+Sep 15,2016 12:41:19 [info]  ***********Verifying The Header for 'External Contributors'***********
+Sep 15,2016 12:41:19 [info]  Verified that Expected value :[First Name] is matched with Actual value :[First Name]
+Sep 15,2016 12:41:20 [info]  Verified that Expected value :[Last Name] is matched with Actual value :[Last Name]
+Sep 15,2016 12:41:20 [info]  **********The default values & columns in the window based on search names -Companies/Individual Parties ************
+Sep 15,2016 12:41:20 [info]  Selected "Companies/Individual Parties" in "Contributor_PartyList_DropDown" drop down
+Sep 15,2016 12:41:21 [info]  Deafult value 
+Sep 15,2016 12:41:21 [info]  Verified that Expected value :[Company Name] is matched with Actual value :[Company Name]
+Sep 15,2016 12:41:21 [info]  ***********Verifying The Header for 'Companies/Individual Parties'***********
+Sep 15,2016 12:41:21 [info]  Verified that Expected value :[Company Name] is matched with Actual value :[Company Name]
+Sep 15,2016 12:41:21 [info]  Verified that Expected value :[Type] is matched with Actual value :[Type]
+Sep 15,2016 12:41:21 [info]  **************************Drop Down Values of 'Companies/Individual Parties'********************************************************
+Sep 15,2016 12:41:21 [info]  **********Verifying All buttons in the search Contributor window ************
+Sep 15,2016 12:41:21 [info]  Verified that Expected value :[Add..] is matched with Actual value :[Add..]
+Sep 15,2016 12:41:22 [info]  Verified that Expected value :[Edit..] is matched with Actual value :[Edit..]
+Sep 15,2016 12:41:22 [info]  Verified that Expected value :[Deactivate] is matched with Actual value :[Deactivate]
+Sep 15,2016 12:41:22 [info]  Verified that Expected value :[Export] is matched with Actual value :[Export]
+Sep 15,2016 12:41:22 [info]  Verified that Expected value :[Select] is matched with Actual value :[Select]
+Sep 15,2016 12:41:22 [info]  Verified that Expected value :[Cancel] is matched with Actual value :[Cancel]
+Sep 15,2016 12:41:22 [info]  Selected "Internal Parties" in "Contributor_PartyList_DropDown" drop down
+Sep 15,2016 13:34:01 [info]  ********************Started Executiong the Test Suite at 13:34:01******************
+Sep 15,2016 13:34:01 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Sep 15,2016 13:34:01 [info]  *********************Started Executing 'TC1_ContibutorUI' Test Case*********************
+Sep 15,2016 13:34:10 [info]  Client: AMCN
+Sep 15,2016 13:34:10 [info]  URL: http://rlv2wb79/login.aspx
+Sep 15,2016 13:34:10 [info]  UserName: automation
+Sep 15,2016 13:34:10 [info]  Password: automation
+Sep 15,2016 13:34:11 [info]  Entered "automation" in field 'User Name'
+Sep 15,2016 13:34:12 [info]  Clicked on the 'Temporary Check Box'
+Sep 15,2016 13:34:13 [info]  Entered "automation" in field 'Password'
+Sep 15,2016 13:34:22 [info]  Clicked on the 'LoginButton'
+Sep 15,2016 13:34:29 [info]  Clicked on the 'MODULE'
+Sep 15,2016 13:34:40 [info]  Clicked on the 'Asset Maintenance'
+Sep 15,2016 13:34:44 [info]  Clicked on the 'Search Menu Icon' using JS Executor
+Sep 15,2016 13:34:44 [info]  Clicked on the 'AssetSearchUnderAsset' using JS Executor
+Sep 15,2016 13:34:57 [info]  Entered "AUT_AssetSeries_0914201614204" in field 'AssetTitle'
+Sep 15,2016 13:34:58 [info]  Clicked on the 'All Check Box' using JS Executor
+Sep 15,2016 13:34:58 [info]  Clicked on the 'Find Button' using JS Executor
+Sep 15,2016 13:35:17 [info]  Moved Mouse over 'First Asset in the Searched Asset'
+Sep 15,2016 13:35:18 [info]  Clicked on the 'First Asset in the Searched Asset'
+Sep 15,2016 13:35:21 [info]  Clicked on the 'View Asset' using JS Executor
+Sep 15,2016 13:35:39 [info]  Verified that Expected value :[AUT_AssetSeries_0914201614204] is matched with Actual value :[AUT_AssetSeries_0914201614204]
+Sep 15,2016 13:35:42 [info]  Clicked on the 'Contributors OR Contacts TAB'
+Sep 15,2016 13:35:42 [info]  **********Verifying the Headers of Contributor TAB in View Mode***********
+Sep 15,2016 13:35:43 [info]  Verified that Expected value :[Applies To] is matched with Actual value :[Applies To]
+Sep 15,2016 13:35:44 [info]  Verified that Expected value :[Rank Order] is matched with Actual value :[Rank Order]
+Sep 15,2016 13:35:44 [info]  Verified that Expected value :[Promotable Star] is matched with Actual value :[Promotable Star]
+Sep 15,2016 13:35:44 [info]  Verified that Expected value :[Name] is matched with Actual value :[Name]
+Sep 15,2016 13:35:44 [info]  Verified that Expected value :[Role] is matched with Actual value :[Role]
+Sep 15,2016 13:35:44 [info]  Verified that Expected value :[Character] is matched with Actual value :[Character]
+Sep 15,2016 13:35:44 [info]  Verified that Expected value :[Contact Information] is matched with Actual value :[Contact Information]
+Sep 15,2016 13:35:44 [info]  Verified that Expected value :[Guild] is matched with Actual value :[Guild]
+Sep 15,2016 13:35:44 [info]  Verified that Expected value :[Notes] is matched with Actual value :[Notes]
+Sep 15,2016 13:35:44 [info]  *******************************************************
+Sep 15,2016 13:35:45 [info]  Clicked on the ''Edit' Button at Contributor TAB' using JS Executor
+Sep 15,2016 13:44:18 [info]  **********Verifying the Headers of Contributor TAB in Edit Mode************
+Sep 15,2016 13:44:28 [info]  Verified that Expected value :[*Applies To] is matched with Actual value :[*Applies To]
+Sep 15,2016 13:44:28 [info]  Verified that Expected value :[Rank Order] is matched with Actual value :[Rank Order]
+Sep 15,2016 13:44:28 [info]  Verified that Expected value :[Promotable Star] is matched with Actual value :[Promotable Star]
+Sep 15,2016 13:44:28 [info]  Verified that Expected value :[*Name] is matched with Actual value :[*Name]
+Sep 15,2016 13:44:28 [info]  Verified that Expected value :[*Role] is matched with Actual value :[*Role]
+Sep 15,2016 13:44:28 [info]  Verified that Expected value :[Character] is matched with Actual value :[Character]
+Sep 15,2016 13:44:28 [info]  Verified that Expected value :[Contact Information] is matched with Actual value :[Contact Information]
+Sep 15,2016 13:44:29 [info]  Verified that Expected value :[Guild] is matched with Actual value :[Guild]
+Sep 15,2016 13:44:29 [info]  Verified that Expected value :[Notes] is matched with Actual value :[Notes]
+Sep 15,2016 13:44:29 [info]  *****Verifying the available Buttons at 'Edit Contributor window'*****
+Sep 15,2016 13:44:29 [info]  Verified that Expected value :[Add] is matched with Actual value :[Add]
+Sep 15,2016 13:44:29 [info]  Verified that Expected value :[Delete] is matched with Actual value :[Delete]
+Sep 15,2016 13:44:29 [info]  Verified that Expected value :[Save] is matched with Actual value :[Save]
+Sep 15,2016 13:44:29 [info]  Verified that Expected value :[Cancel] is matched with Actual value :[Cancel]
+Sep 15,2016 13:44:49 [info]  *********************click on delete button without selecting any row and verify Alert Messge**********************************
+Sep 15,2016 13:44:49 [info]  Clicked on the 'Delete Button at Edit Contributor Window' using JS Executor
+Sep 15,2016 13:44:49 [info]  Verified that Expected value :[Please select a row before clicking Delete] is matched with Actual value :[  RightsLogic Alert  
+    Please select a row before clicking Delete.
+       ]
+Sep 15,2016 13:44:52 [info]  Clicked on the 'OK Button at Alert While deleting the Episode' using JS Executor
+Sep 15,2016 13:44:53 [info]  Clicked on the ''Add' Button at Contributor window' using JS Executor
+Sep 15,2016 13:44:53 [info]  **********Verify dropdown values of 'Enter Name to search' drop down************
+Sep 15,2016 13:45:14 [info]  Drop Down values of Enter Name To Search Drop Down
+Sep 15,2016 13:45:14 [info]  Actual Drop Down Values are: 
+[External Contributors, Companies/Individual Parties, Internal Parties]
+Sep 15,2016 13:45:14 [info]  Expected Drop Down Values are: 
+[External Contributors, Companies/Individual Parties, Internal Parties]
+Sep 15,2016 13:45:14 [info]  Total Number of Dropdown Valus in Enter Name To Search Drop Down:3
+Sep 15,2016 13:45:29 [info]  ************Verify Default selected value in "Enter Name To Search Drop Down"***************
+Sep 15,2016 13:45:30 [info]  Verified that Expected value :[External Contributors] is matched with Actual value :[External Contributors]
+Sep 15,2016 13:45:30 [info]  ************Verifying the default value selected in 'Party list type' for 'External Contributors' PartyList' dropdown ************
+Sep 15,2016 13:45:30 [info]  Verified that Expected value :[Last Name] is matched with Actual value :[Last Name]
+Sep 15,2016 13:45:30 [info]  ***********Verifying The Header for 'External Contributors'***********
+Sep 15,2016 13:45:30 [info]  Verified that Expected value :[First Name] is matched with Actual value :[First Name]
+Sep 15,2016 13:45:30 [info]  Verified that Expected value :[Last Name] is matched with Actual value :[Last Name]
+Sep 15,2016 13:45:30 [info]  Selected "Internal Parties" in "Contributor_PartyList_DropDown" drop down
+Sep 15,2016 13:45:31 [info]  Verified that Expected value :[Internal Parties] is present in the Contributor_PartyList_DropDown drop down
+Sep 15,2016 13:47:34 [info]  **********The default values & columns in the window based on search names -Internal Parties ************
+Sep 15,2016 13:47:41 [info]  Verified that Expected value :[Last Name] is matched with Actual value :[Last Name]
+Sep 15,2016 13:47:57 [info]  **********Verifying The Header for 'Internal Parties'**********
+Sep 15,2016 13:47:58 [info]  Verified that Expected value :[First Name] is matched with Actual value :[First Name]
+Sep 15,2016 13:47:58 [info]  Verified that Expected value :[Last Name] is matched with Actual value :[Last Name]
+Sep 15,2016 13:47:58 [info]  **********The default values & columns in the window based on search names -Companies/Individual Parties ************
+Sep 15,2016 13:47:59 [info]  Selected "Companies/Individual Parties" in "Contributor_PartyList_DropDown" drop down
+Sep 15,2016 13:47:59 [info]  Test 'TC1_ContibutorUI' FAILED
+Sep 15,2016 13:47:59 [info]  2
+Sep 15,2016 13:47:59 [info]  Test Case :TC1_ContibutorUI's Screenshot of Failure Page: C:\SeleniumProject\Screenshots\Sep2016\\15\TC1_ContibutorUI_09-15-2016 1-47-59 PM.jpg
+Sep 15,2016 13:48:01 [info]  Closed the Browser
+Sep 15,2016 13:51:46 [info]  ********************Started Executiong the Test Suite at 13:51:46******************
+Sep 15,2016 13:51:46 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Sep 15,2016 13:51:46 [info]  *********************Started Executing 'TC1_ContibutorUI' Test Case*********************
+Sep 15,2016 13:51:55 [info]  Client: AMCN
+Sep 15,2016 13:51:55 [info]  URL: http://rlv2wb79/login.aspx
+Sep 15,2016 13:51:55 [info]  UserName: automation
+Sep 15,2016 13:51:55 [info]  Password: automation
+Sep 15,2016 13:51:56 [info]  Entered "automation" in field 'User Name'
+Sep 15,2016 13:51:57 [info]  Clicked on the 'Temporary Check Box'
+Sep 15,2016 13:51:57 [info]  Entered "automation" in field 'Password'
+Sep 15,2016 13:51:58 [info]  Clicked on the 'LoginButton'
+Sep 15,2016 13:52:07 [info]  Clicked on the 'MODULE'
+Sep 15,2016 13:52:19 [info]  Clicked on the 'Asset Maintenance'
+Sep 15,2016 13:52:23 [info]  Clicked on the 'Search Menu Icon' using JS Executor
+Sep 15,2016 13:52:23 [info]  Clicked on the 'AssetSearchUnderAsset' using JS Executor
+Sep 15,2016 13:52:37 [info]  Entered "AUT_AssetSeries_0914201614204" in field 'AssetTitle'
+Sep 15,2016 13:52:37 [info]  Clicked on the 'All Check Box' using JS Executor
+Sep 15,2016 13:52:37 [info]  Clicked on the 'Find Button' using JS Executor
+Sep 15,2016 13:52:56 [info]  Moved Mouse over 'First Asset in the Searched Asset'
+Sep 15,2016 13:52:57 [info]  Clicked on the 'First Asset in the Searched Asset'
+Sep 15,2016 13:53:00 [info]  Clicked on the 'View Asset' using JS Executor
+Sep 15,2016 13:53:18 [info]  Verified that Expected value :[AUT_AssetSeries_0914201614204] is matched with Actual value :[AUT_AssetSeries_0914201614204]
+Sep 15,2016 13:53:20 [info]  Clicked on the 'Contributors OR Contacts TAB'
+Sep 15,2016 13:53:20 [info]  **********Verifying the Headers of Contributor TAB in View Mode***********
+Sep 15,2016 13:53:21 [info]  Verified that Expected value :[Applies To] is matched with Actual value :[Applies To]
+Sep 15,2016 13:53:21 [info]  Verified that Expected value :[Rank Order] is matched with Actual value :[Rank Order]
+Sep 15,2016 13:53:21 [info]  Verified that Expected value :[Promotable Star] is matched with Actual value :[Promotable Star]
+Sep 15,2016 13:53:22 [info]  Verified that Expected value :[Name] is matched with Actual value :[Name]
+Sep 15,2016 13:53:22 [info]  Verified that Expected value :[Role] is matched with Actual value :[Role]
+Sep 15,2016 13:53:22 [info]  Verified that Expected value :[Character] is matched with Actual value :[Character]
+Sep 15,2016 13:53:22 [info]  Verified that Expected value :[Contact Information] is matched with Actual value :[Contact Information]
+Sep 15,2016 13:53:22 [info]  Verified that Expected value :[Guild] is matched with Actual value :[Guild]
+Sep 15,2016 13:53:22 [info]  Verified that Expected value :[Notes] is matched with Actual value :[Notes]
+Sep 15,2016 13:53:22 [info]  *******************************************************
+Sep 15,2016 13:53:22 [info]  Clicked on the ''Edit' Button at Contributor TAB' using JS Executor
+Sep 15,2016 13:53:26 [info]  **********Verifying the Headers of Contributor TAB in Edit Mode************
+Sep 15,2016 13:53:26 [info]  Verified that Expected value :[*Applies To] is matched with Actual value :[*Applies To]
+Sep 15,2016 13:53:26 [info]  Verified that Expected value :[Rank Order] is matched with Actual value :[Rank Order]
+Sep 15,2016 13:53:26 [info]  Verified that Expected value :[Promotable Star] is matched with Actual value :[Promotable Star]
+Sep 15,2016 13:53:26 [info]  Verified that Expected value :[*Name] is matched with Actual value :[*Name]
+Sep 15,2016 13:53:26 [info]  Verified that Expected value :[*Role] is matched with Actual value :[*Role]
+Sep 15,2016 13:53:26 [info]  Verified that Expected value :[Character] is matched with Actual value :[Character]
+Sep 15,2016 13:53:27 [info]  Verified that Expected value :[Contact Information] is matched with Actual value :[Contact Information]
+Sep 15,2016 13:53:27 [info]  Verified that Expected value :[Guild] is matched with Actual value :[Guild]
+Sep 15,2016 13:53:27 [info]  Verified that Expected value :[Notes] is matched with Actual value :[Notes]
+Sep 15,2016 13:53:27 [info]  *****Verifying the available Buttons at 'Edit Contributor window'*****
+Sep 15,2016 13:53:27 [info]  Verified that Expected value :[Add] is matched with Actual value :[Add]
+Sep 15,2016 13:53:27 [info]  Verified that Expected value :[Delete] is matched with Actual value :[Delete]
+Sep 15,2016 13:53:27 [info]  Verified that Expected value :[Save] is matched with Actual value :[Save]
+Sep 15,2016 13:53:27 [info]  Verified that Expected value :[Cancel] is matched with Actual value :[Cancel]
+Sep 15,2016 13:53:27 [info]  *********************click on delete button without selecting any row and verify Alert Messge**********************************
+Sep 15,2016 13:53:27 [info]  Clicked on the 'Delete Button at Edit Contributor Window' using JS Executor
+Sep 15,2016 13:53:28 [info]  Verified that Expected value :[Please select a row before clicking Delete] is matched with Actual value :[  RightsLogic Alert  
+    Please select a row before clicking Delete.
+       ]
+Sep 15,2016 13:53:31 [info]  Clicked on the 'OK Button at Alert While deleting the Episode' using JS Executor
+Sep 15,2016 13:53:32 [info]  Clicked on the ''Add' Button at Contributor window' using JS Executor
+Sep 15,2016 13:53:33 [info]  **********Verify dropdown values of 'Enter Name to search' drop down************
+Sep 15,2016 13:53:33 [info]  Drop Down values of Enter Name To Search Drop Down
+Sep 15,2016 13:53:33 [info]  Actual Drop Down Values are: 
+[External Contributors, Companies/Individual Parties, Internal Parties]
+Sep 15,2016 13:53:33 [info]  Expected Drop Down Values are: 
+[External Contributors, Companies/Individual Parties, Internal Parties]
+Sep 15,2016 13:53:33 [info]  Total Number of Dropdown Valus in Enter Name To Search Drop Down:3
+Sep 15,2016 13:53:33 [info]  ************Verify Default selected value in "Enter Name To Search Drop Down"***************
+Sep 15,2016 13:53:33 [info]  Verified that Expected value :[External Contributors] is matched with Actual value :[External Contributors]
+Sep 15,2016 13:53:33 [info]  ************Verifying the default value selected in 'Party list type' for 'External Contributors' PartyList' dropdown ************
+Sep 15,2016 13:53:33 [info]  Verified that Expected value :[Last Name] is matched with Actual value :[Last Name]
+Sep 15,2016 13:53:33 [info]  ***********Verifying The Header for 'External Contributors'***********
+Sep 15,2016 13:53:33 [info]  Verified that Expected value :[First Name] is matched with Actual value :[First Name]
+Sep 15,2016 13:53:34 [info]  Verified that Expected value :[Last Name] is matched with Actual value :[Last Name]
+Sep 15,2016 13:53:34 [info]  Selected "Internal Parties" in "Contributor_PartyList_DropDown" drop down
+Sep 15,2016 13:53:44 [info]  ====Failed==== Expected value is:[Internal Parties] but Actual value is[no element on the web Page]. Please check the screenshot with name: Internal Partiesfor more details
+Sep 15,2016 13:53:44 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Sep2016\\15\Internal Parties_CheckpointFailure_09-15-2016 1-53-44 PM.jpg
+Sep 15,2016 13:53:44 [info]  **********The default values & columns in the window based on search names -Internal Parties ************
+Sep 15,2016 13:53:44 [info]  Verified that Expected value :[Last Name] is matched with Actual value :[Last Name]
+Sep 15,2016 13:53:44 [info]  **********Verifying The Header for 'Internal Parties'**********
+Sep 15,2016 13:53:45 [info]  Verified that Expected value :[First Name] is matched with Actual value :[First Name]
+Sep 15,2016 13:53:45 [info]  Verified that Expected value :[Last Name] is matched with Actual value :[Last Name]
+Sep 15,2016 13:53:45 [info]  **********The default values & columns in the window based on search names -Companies/Individual Parties ************
+Sep 15,2016 13:53:45 [info]  Selected "Companies/Individual Parties" in "Contributor_PartyList_DropDown" drop down
+Sep 15,2016 13:53:46 [info]  Verified that Expected value :[Companies/Individual Parties] is matched with Actual value :[Companies/Individual Parties]
+Sep 15,2016 13:53:47 [info]  Deafult value 
+Sep 15,2016 13:53:48 [info]  Verified that Expected value :[Company Name] is matched with Actual value :[Company Name]
+Sep 15,2016 13:53:48 [info]  ***********Verifying The Header for 'Companies/Individual Parties'***********
+Sep 15,2016 13:53:48 [info]  Verified that Expected value :[Company Name] is matched with Actual value :[Company Name]
+Sep 15,2016 13:53:48 [info]  Verified that Expected value :[Type] is matched with Actual value :[Type]
+Sep 15,2016 13:53:48 [info]  **********Verifying All buttons in the search Contributor window ************
+Sep 15,2016 13:53:48 [info]  Verified that Expected value :[Add..] is matched with Actual value :[Add..]
+Sep 15,2016 13:53:48 [info]  Verified that Expected value :[Edit..] is matched with Actual value :[Edit..]
+Sep 15,2016 13:53:48 [info]  Verified that Expected value :[Deactivate] is matched with Actual value :[Deactivate]
+Sep 15,2016 13:53:48 [info]  Verified that Expected value :[Export] is matched with Actual value :[Export]
+Sep 15,2016 13:53:48 [info]  Verified that Expected value :[Select] is matched with Actual value :[Select]
+Sep 15,2016 13:53:49 [info]  Verified that Expected value :[Cancel] is matched with Actual value :[Cancel]
+Sep 15,2016 13:53:49 [info]  Selected "Internal Parties" in "Contributor_PartyList_DropDown" drop down
+Sep 15,2016 13:53:50 [info]  Clicked on the ''Add' Button at Contributor Edit window' using JS Executor
+Sep 15,2016 13:53:53 [info]  **********Fields & Buttons in the Add  dialog - Detail frame (Internal Parties)************
+Sep 15,2016 13:53:53 [info]  Verified that Expected value :[Prefix] is matched with Actual value :[Prefix]
+Sep 15,2016 13:53:53 [info]  Verified that Expected value :[First Name] is matched with Actual value :[*First Name]
+Sep 15,2016 13:53:54 [info]  Verified that Expected value :[Middle Name] is matched with Actual value :[Middle Name]
+Sep 15,2016 13:53:54 [info]  Verified that Expected value :[*Last Name] is matched with Actual value :[*Last Name]
+Sep 15,2016 13:53:54 [info]  Verified that Expected value :[Suffix] is matched with Actual value :[Suffix]
+Sep 15,2016 13:53:54 [info]  Verified that Expected value :[AKA] is matched with Actual value :[AKA]
+Sep 15,2016 13:53:54 [info]  Verified that Expected value :[Add] is matched with Actual value :[ Add ]
+Sep 15,2016 13:53:54 [info]  Verified that Expected value :[Delete] is matched with Actual value :[Delete]
+Sep 15,2016 13:53:54 [info]  Verified that Expected value :[Address Line1] is matched with Actual value :[Address Line1]
+Sep 15,2016 13:53:55 [info]  Verified that Expected value :[Address Line2] is matched with Actual value :[Address Line2]
+Sep 15,2016 13:53:55 [info]  Verified that Expected value :[City] is matched with Actual value :[City]
+Sep 15,2016 13:53:55 [info]  Verified that Expected value :[Country] is matched with Actual value :[Country]
+Sep 15,2016 13:53:55 [info]  Verified that Expected value :[State] is matched with Actual value :[State]
+Sep 15,2016 13:53:55 [info]  Verified that Expected value :[Zip] is matched with Actual value :[Zip]
+Sep 15,2016 13:53:55 [info]  		**********Fields & Buttons in the Add  dialog - Communication frame (Internal Parties or MTVN Employees)************
+Sep 15,2016 13:53:55 [info]  Verified that Expected value :[Business Phone] is matched with Actual value :[Business Phone]
+Sep 15,2016 13:53:55 [info]  Verified that Expected value :[Primary Email] is matched with Actual value :[Primary Email]
+Sep 15,2016 13:53:56 [info]  Drop Down values of Contributor_ContributorSearch_Add_ContactListDropDown
+Sep 15,2016 13:53:56 [info]  Actual Drop Down Values are: 
+[External Contributors, Companies/Individual Parties, Internal Parties, (Select One), Home Phone, Mobile Phone, Personal Email, Primary Fax, Personal Fax]
+Sep 15,2016 13:53:56 [info]  Expected Drop Down Values are: 
+[External Contributors, Companies/Individual Parties, Internal Parties, (Select One), Home Phone, Mobile Phone, Personal Email, Primary Fax, Personal Fax]
+Sep 15,2016 13:53:56 [info]  Total Number of Dropdown Valus in Contributor_ContributorSearch_Add_ContactListDropDown:9
+Sep 15,2016 13:53:56 [info]  Verified that Expected value :[Web Address] is matched with Actual value :[Web Address]
+Sep 15,2016 13:53:56 [info]  Verified that Expected value :[Clear Address] is matched with Actual value :[ Clear Address ]
+Sep 15,2016 13:53:56 [info]  Verified that Expected value :[Add Custom Address Type...] is matched with Actual value :[  Add Custom Address Type...  ]
+Sep 15,2016 13:53:56 [info]  Verified that Expected value :[Close] is matched with Actual value :[Close]
+Sep 15,2016 13:53:56 [info]  **********Adding Contributor at 'Add window' for Internal Parties************
+Sep 15,2016 13:53:57 [info]  Clicked on the 'First Name'
+Sep 15,2016 13:53:58 [info]  Entered "InternalRSG_0915201615146" in field 'ConrtibutorsEdit_ConrtibutorsSearch_AddWindow_FirstName'
+Sep 15,2016 13:53:58 [info]  Clicked on the '*Last Name'
+Sep 15,2016 13:53:59 [info]  Entered "InternalMedia_0915201615146" in field 'ConrtibutorsEdit_ConrtibutorsSearch_AddWindow_LastName'
+Sep 15,2016 13:53:59 [info]  Verified that Expected value :[Alternate Name] is matched with Actual value :[Alternate Name]
+Sep 15,2016 13:53:59 [info]  Verified that Expected value :[Type] is matched with Actual value :[Type]
+Sep 15,2016 13:53:59 [info]  Clicked on the 'Contributor_ContributorSearch_Add_AKA_TypeField'
+Sep 15,2016 13:54:00 [info]  Clicked on the 'Contributor_ContributorSearch_Add_AKA_TypeField'
+Sep 15,2016 13:54:00 [info]  ***********The below mentioned are drop down values of AKA Type****************
+Sep 15,2016 13:54:00 [info]  Verified that Expected value :[(Select One)] is matched with Actual value :[(Select One)]
+Sep 15,2016 13:54:00 [info]  Verified that Expected value :[AKA ] is matched with Actual value :[AKA ]
+Sep 15,2016 13:54:00 [info]  Verified that Expected value :[EAKA ] is matched with Actual value :[EAKA ]
+Sep 15,2016 13:54:00 [info]  Verified that Expected value :[FKA ] is matched with Actual value :[FKA ]
+Sep 15,2016 13:54:00 [info]  Verified that Expected value :[Legal ] is matched with Actual value :[Legal ]
+Sep 15,2016 13:54:00 [info]  Clicked on the 'Contributor_ContributorSearch_Add_AKA_AlternateNameField'
+Sep 15,2016 13:54:01 [info]  Entered "RSGTest_1" in field 'Contributor_ContributorSearch_Add_AKA_AlternateNameField'
+Sep 15,2016 13:54:03 [info]  Clicked on the 'Contributor_ContributorSearch_Add_AKA_AlternateTypeHeader'
+Sep 15,2016 13:54:04 [info]  Entered "AKA" in field 'Contributor_ContributorSearch_Add_AKA_AlternateTypeHeader'
+Sep 15,2016 13:54:06 [info]  Clicked on the 'Contributor_ContributorSearch_Add_AKA_AlternateNameField'
+Sep 15,2016 13:54:07 [info]  Clicked on the 'Contributor_ContributorSearch_Add_AKA_AddButton' using JS Executor
+Sep 15,2016 13:54:07 [info]  Clicked on the 'Contributor_ContributorSearch_Add_AKA_Row2_TypeField'
+Sep 15,2016 13:54:08 [info]  Entered "FKA" in field 'Contributor_ContributorSearch_Add_AKA_Row2_TypeInputField'
+Sep 15,2016 13:54:08 [info]  Clicked on the 'Support click Contributor_ContributorSearch_Add_AKA_Row2_AlternateNameField'
+Sep 15,2016 13:54:08 [info]  Clicked on the ''Save Button' Contributor_ContributorSearch_Add_SaveGeneralInfoButton' using JS Executor
+Sep 15,2016 13:54:18 [info]  Verified that Expected value :[  Please enter Alternate Name or delete Alternate Name Type in grid above.  ] is matched with Actual value :[  Please enter Alternate Name or delete Alternate Name Type in grid above.  ]
+Sep 15,2016 13:54:18 [info]  Clicked on the 'Contributor_ContributorSearch_Add_AKA_Row2_AlternateNameField'
+Sep 15,2016 13:54:19 [info]  Entered "RSGTest_2" in field 'Contributor_ContributorSearch_Add_AKA_Row2_AlternateNameInput Field'
+Sep 15,2016 13:54:20 [info]  Clicked on the 'Contributor_ContributorSearch_Add_AKA_Row2_TypeField'
+Sep 15,2016 13:54:20 [info]  Clicked on the 'Contributor_ContributorSearch_Add_LastNameField'
+Sep 15,2016 13:54:20 [info]  Clicked on the 'ConrtibutorsEdit_ConrtibutorsSearch_AddWindow_AKADelete' using JS Executor
+Sep 15,2016 13:54:21 [info]  ====Failed==== Expected value is:[Are you sure you want to delete the Alias information? You cannot undo this action.] but Actual value is[]. Please check the screenshot with name: Are you sure you want to delete the Alias information? You cannot undo this action.for more details
+Sep 15,2016 13:54:21 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Sep2016\\15\Alert Message While deleting the AKA Information_CheckpointFailure_09-15-2016 1-54-21 PM.jpg
+Sep 15,2016 13:54:24 [info]  Clicked on the 'OK Button at Alert While While deleting the AKA Information' using JS Executor
+Sep 15,2016 13:54:24 [info]  Clicked on the 'Contributor_ContributorSearch_Add_AddCustomAddressTypeLabel' using JS Executor
+Sep 15,2016 13:54:35 [info]  Test 'TC1_ContibutorUI' FAILED
+Sep 15,2016 13:54:35 [info]  2
+Sep 15,2016 13:54:35 [info]  Test Case :TC1_ContibutorUI's Screenshot of Failure Page: C:\SeleniumProject\Screenshots\Sep2016\\15\TC1_ContibutorUI_09-15-2016 1-54-35 PM.jpg
+Sep 15,2016 13:54:36 [info]  Closed the Browser
+Sep 15,2016 14:15:04 [info]  ********************Started Executiong the Test Suite at 14:15:04******************
+Sep 15,2016 14:15:04 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Sep 15,2016 14:15:04 [info]  *********************Started Executing 'TC1_ContibutorUI' Test Case*********************
+Sep 15,2016 14:15:14 [info]  Client: AMCN
+Sep 15,2016 14:15:14 [info]  URL: http://rlv2wb79/login.aspx
+Sep 15,2016 14:15:14 [info]  UserName: automation
+Sep 15,2016 14:15:14 [info]  Password: automation
+Sep 15,2016 14:15:15 [info]  Entered "automation" in field 'User Name'
+Sep 15,2016 14:15:15 [info]  Clicked on the 'Temporary Check Box'
+Sep 15,2016 14:15:16 [info]  Entered "automation" in field 'Password'
+Sep 15,2016 14:15:25 [info]  Clicked on the 'LoginButton'
+Sep 15,2016 14:15:32 [info]  Clicked on the 'MODULE'
+Sep 15,2016 14:15:44 [info]  Clicked on the 'Asset Maintenance'
+Sep 15,2016 14:15:47 [info]  Clicked on the 'Search Menu Icon' using JS Executor
+Sep 15,2016 14:15:48 [info]  Clicked on the 'AssetSearchUnderAsset' using JS Executor
+Sep 15,2016 14:16:01 [info]  Entered "AUT_AssetSeries_0914201614204" in field 'AssetTitle'
+Sep 15,2016 14:16:02 [info]  Clicked on the 'All Check Box' using JS Executor
+Sep 15,2016 14:16:02 [info]  Clicked on the 'Find Button' using JS Executor
+Sep 15,2016 14:16:20 [info]  Moved Mouse over 'First Asset in the Searched Asset'
+Sep 15,2016 14:16:21 [info]  Clicked on the 'First Asset in the Searched Asset'
+Sep 15,2016 14:16:24 [info]  Clicked on the 'View Asset' using JS Executor
+Sep 15,2016 14:16:43 [info]  Verified that Expected value :[AUT_AssetSeries_0914201614204] is matched with Actual value :[AUT_AssetSeries_0914201614204]
+Sep 15,2016 14:16:45 [info]  Clicked on the 'Contributors OR Contacts TAB'
+Sep 15,2016 14:16:45 [info]  **********Verifying the Headers of Contributor TAB in View Mode***********
+Sep 15,2016 14:16:46 [info]  Verified that Expected value :[Applies To] is matched with Actual value :[Applies To]
+Sep 15,2016 14:16:46 [info]  Verified that Expected value :[Rank Order] is matched with Actual value :[Rank Order]
+Sep 15,2016 14:16:47 [info]  Verified that Expected value :[Promotable Star] is matched with Actual value :[Promotable Star]
+Sep 15,2016 14:16:47 [info]  Verified that Expected value :[Name] is matched with Actual value :[Name]
+Sep 15,2016 14:16:47 [info]  Verified that Expected value :[Role] is matched with Actual value :[Role]
+Sep 15,2016 14:16:47 [info]  Verified that Expected value :[Character] is matched with Actual value :[Character]
+Sep 15,2016 14:16:47 [info]  Verified that Expected value :[Contact Information] is matched with Actual value :[Contact Information]
+Sep 15,2016 14:16:47 [info]  Verified that Expected value :[Guild] is matched with Actual value :[Guild]
+Sep 15,2016 14:16:47 [info]  Verified that Expected value :[Notes] is matched with Actual value :[Notes]
+Sep 15,2016 14:16:47 [info]  *******************************************************
+Sep 15,2016 14:16:47 [info]  Clicked on the ''Edit' Button at Contributor TAB' using JS Executor
+Sep 15,2016 14:16:51 [info]  **********Verifying the Headers of Contributor TAB in Edit Mode************
+Sep 15,2016 14:16:51 [info]  Verified that Expected value :[*Applies To] is matched with Actual value :[*Applies To]
+Sep 15,2016 14:16:51 [info]  Verified that Expected value :[Rank Order] is matched with Actual value :[Rank Order]
+Sep 15,2016 14:16:51 [info]  Verified that Expected value :[Promotable Star] is matched with Actual value :[Promotable Star]
+Sep 15,2016 14:16:51 [info]  Verified that Expected value :[*Name] is matched with Actual value :[*Name]
+Sep 15,2016 14:16:51 [info]  Verified that Expected value :[*Role] is matched with Actual value :[*Role]
+Sep 15,2016 14:16:52 [info]  Verified that Expected value :[Character] is matched with Actual value :[Character]
+Sep 15,2016 14:16:52 [info]  Verified that Expected value :[Contact Information] is matched with Actual value :[Contact Information]
+Sep 15,2016 14:16:52 [info]  Verified that Expected value :[Guild] is matched with Actual value :[Guild]
+Sep 15,2016 14:16:52 [info]  Verified that Expected value :[Notes] is matched with Actual value :[Notes]
+Sep 15,2016 14:16:52 [info]  *****Verifying the available Buttons at 'Edit Contributor window'*****
+Sep 15,2016 14:16:52 [info]  Verified that Expected value :[Add] is matched with Actual value :[Add]
+Sep 15,2016 14:16:52 [info]  Verified that Expected value :[Delete] is matched with Actual value :[Delete]
+Sep 15,2016 14:16:52 [info]  Verified that Expected value :[Save] is matched with Actual value :[Save]
+Sep 15,2016 14:16:52 [info]  Verified that Expected value :[Cancel] is matched with Actual value :[Cancel]
+Sep 15,2016 14:16:52 [info]  *********************click on delete button without selecting any row and verify Alert Messge**********************************
+Sep 15,2016 14:16:53 [info]  Clicked on the 'Delete Button at Edit Contributor Window' using JS Executor
+Sep 15,2016 14:16:53 [info]  Verified that Expected value :[Please select a row before clicking Delete] is matched with Actual value :[  RightsLogic Alert  
+    Please select a row before clicking Delete.
+       ]
+Sep 15,2016 14:16:56 [info]  Clicked on the 'OK Button at Alert While deleting the Episode' using JS Executor
+Sep 15,2016 14:16:57 [info]  Clicked on the ''Add' Button at Contributor window' using JS Executor
+Sep 15,2016 14:16:58 [info]  **********Verify dropdown values of 'Enter Name to search' drop down************
+Sep 15,2016 14:16:58 [info]  Drop Down values of Enter Name To Search Drop Down
+Sep 15,2016 14:16:58 [info]  Actual Drop Down Values are: 
+[External Contributors, Companies/Individual Parties, Internal Parties]
+Sep 15,2016 14:16:58 [info]  Expected Drop Down Values are: 
+[External Contributors, Companies/Individual Parties, Internal Parties]
+Sep 15,2016 14:16:58 [info]  Total Number of Dropdown Valus in Enter Name To Search Drop Down:3
+Sep 15,2016 14:16:58 [info]  ************Verify Default selected value in "Enter Name To Search Drop Down"***************
+Sep 15,2016 14:16:58 [info]  Verified that Expected value :[External Contributors] is matched with Actual value :[External Contributors]
+Sep 15,2016 14:16:58 [info]  ************Verifying the default value selected in 'Party list type' for 'External Contributors' PartyList' dropdown ************
+Sep 15,2016 14:16:58 [info]  Verified that Expected value :[Last Name] is matched with Actual value :[Last Name]
+Sep 15,2016 14:16:58 [info]  ***********Verifying The Header for 'External Contributors'***********
+Sep 15,2016 14:16:58 [info]  Verified that Expected value :[First Name] is matched with Actual value :[First Name]
+Sep 15,2016 14:16:59 [info]  Verified that Expected value :[Last Name] is matched with Actual value :[Last Name]
+Sep 15,2016 14:16:59 [info]  Selected "Internal Parties" in "Contributor_PartyList_DropDown" drop down
+Sep 15,2016 14:16:59 [info]  Verified that Expected value :[Internal Parties] is matched with Actual value :[Internal Parties]
+Sep 15,2016 14:16:59 [info]  **********The default values & columns in the window based on search names -Internal Parties ************
+Sep 15,2016 14:16:59 [info]  ====Failed==== Expected value is:[Last Name] but Actual value is[no element on the web Page]. Please check the screenshot with name: Last Namefor more details
+Sep 15,2016 14:17:00 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Sep2016\\15\Last Name_CheckpointFailure_09-15-2016 2-16-59 PM.jpg
+Sep 15,2016 14:17:00 [info]  **********Verifying The Header for 'Internal Parties'**********
+Sep 15,2016 14:17:00 [info]  Verified that Expected value :[First Name] is matched with Actual value :[First Name]
+Sep 15,2016 14:17:00 [info]  Verified that Expected value :[Last Name] is matched with Actual value :[Last Name]
+Sep 15,2016 14:17:00 [info]  **********The default values & columns in the window based on search names -Companies/Individual Parties ************
+Sep 15,2016 14:17:00 [info]  Selected "Companies/Individual Parties" in "Contributor_PartyList_DropDown" drop down
+Sep 15,2016 14:17:01 [info]  Verified that Expected value :[Companies/Individual Parties] is matched with Actual value :[Companies/Individual Parties]
+Sep 15,2016 14:17:03 [info]  Deafult value 
+Sep 15,2016 14:17:03 [info]  Verified that Expected value :[Company Name] is matched with Actual value :[Company Name]
+Sep 15,2016 14:17:03 [info]  ***********Verifying The Header for 'Companies/Individual Parties'***********
+Sep 15,2016 14:17:03 [info]  Verified that Expected value :[Company Name] is matched with Actual value :[Company Name]
+Sep 15,2016 14:17:03 [info]  Verified that Expected value :[Type] is matched with Actual value :[Type]
+Sep 15,2016 14:17:03 [info]  **********Verifying All buttons in the search Contributor window ************
+Sep 15,2016 14:17:03 [info]  Verified that Expected value :[Add..] is matched with Actual value :[Add..]
+Sep 15,2016 14:17:03 [info]  Verified that Expected value :[Edit..] is matched with Actual value :[Edit..]
+Sep 15,2016 14:17:03 [info]  Verified that Expected value :[Deactivate] is matched with Actual value :[Deactivate]
+Sep 15,2016 14:17:04 [info]  Verified that Expected value :[Export] is matched with Actual value :[Export]
+Sep 15,2016 14:17:04 [info]  Verified that Expected value :[Select] is matched with Actual value :[Select]
+Sep 15,2016 14:17:04 [info]  Verified that Expected value :[Cancel] is matched with Actual value :[Cancel]
+Sep 15,2016 14:17:04 [info]  Selected "Internal Parties" in "Contributor_PartyList_DropDown" drop down
+Sep 15,2016 14:17:05 [info]  Clicked on the ''Add' Button at Contributor Edit window' using JS Executor
+Sep 15,2016 14:17:07 [info]  **********Fields & Buttons in the Add  dialog - Detail frame (Internal Parties)************
+Sep 15,2016 14:17:07 [info]  Verified that Expected value :[Prefix] is matched with Actual value :[Prefix]
+Sep 15,2016 14:17:07 [info]  Verified that Expected value :[First Name] is matched with Actual value :[*First Name]
+Sep 15,2016 14:17:08 [info]  Verified that Expected value :[Middle Name] is matched with Actual value :[Middle Name]
+Sep 15,2016 14:17:08 [info]  Verified that Expected value :[*Last Name] is matched with Actual value :[*Last Name]
+Sep 15,2016 14:17:08 [info]  Verified that Expected value :[Suffix] is matched with Actual value :[Suffix]
+Sep 15,2016 14:17:08 [info]  Verified that Expected value :[AKA] is matched with Actual value :[AKA]
+Sep 15,2016 14:17:08 [info]  Verified that Expected value :[Add] is matched with Actual value :[ Add ]
+Sep 15,2016 14:17:08 [info]  Verified that Expected value :[Delete] is matched with Actual value :[Delete]
+Sep 15,2016 14:17:08 [info]  Verified that Expected value :[Address Line1] is matched with Actual value :[Address Line1]
+Sep 15,2016 14:17:08 [info]  Verified that Expected value :[Address Line2] is matched with Actual value :[Address Line2]
+Sep 15,2016 14:17:09 [info]  Verified that Expected value :[City] is matched with Actual value :[City]
+Sep 15,2016 14:17:09 [info]  Verified that Expected value :[Country] is matched with Actual value :[Country]
+Sep 15,2016 14:17:09 [info]  Verified that Expected value :[State] is matched with Actual value :[State]
+Sep 15,2016 14:17:09 [info]  Verified that Expected value :[Zip] is matched with Actual value :[Zip]
+Sep 15,2016 14:17:09 [info]  		**********Fields & Buttons in the Add  dialog - Communication frame (Internal Parties or MTVN Employees)************
+Sep 15,2016 14:17:09 [info]  Verified that Expected value :[Business Phone] is matched with Actual value :[Business Phone]
+Sep 15,2016 14:17:09 [info]  Verified that Expected value :[Primary Email] is matched with Actual value :[Primary Email]
+Sep 15,2016 14:17:10 [info]  Drop Down values of Contributor_ContributorSearch_Add_ContactListDropDown
+Sep 15,2016 14:17:10 [info]  Actual Drop Down Values are: 
+[External Contributors, Companies/Individual Parties, Internal Parties, (Select One), Home Phone, Mobile Phone, Personal Email, Primary Fax, Personal Fax]
+Sep 15,2016 14:17:10 [info]  Expected Drop Down Values are: 
+[External Contributors, Companies/Individual Parties, Internal Parties, (Select One), Home Phone, Mobile Phone, Personal Email, Primary Fax, Personal Fax]
+Sep 15,2016 14:17:10 [info]  Total Number of Dropdown Valus in Contributor_ContributorSearch_Add_ContactListDropDown:9
+Sep 15,2016 14:17:10 [info]  Verified that Expected value :[Web Address] is matched with Actual value :[Web Address]
+Sep 15,2016 14:17:10 [info]  Verified that Expected value :[Clear Address] is matched with Actual value :[ Clear Address ]
+Sep 15,2016 14:17:10 [info]  Verified that Expected value :[Add Custom Address Type...] is matched with Actual value :[  Add Custom Address Type...  ]
+Sep 15,2016 14:17:10 [info]  Verified that Expected value :[Close] is matched with Actual value :[Close]
+Sep 15,2016 14:17:10 [info]  **********Adding Contributor at 'Add window' for Internal Parties************
+Sep 15,2016 14:17:11 [info]  Clicked on the 'First Name'
+Sep 15,2016 14:17:12 [info]  Entered "InternalRSG_0915201621504" in field 'ConrtibutorsEdit_ConrtibutorsSearch_AddWindow_FirstName'
+Sep 15,2016 14:17:12 [info]  Clicked on the '*Last Name'
+Sep 15,2016 14:17:13 [info]  Entered "InternalMedia_0915201621504" in field 'ConrtibutorsEdit_ConrtibutorsSearch_AddWindow_LastName'
+Sep 15,2016 14:17:13 [info]  Verified that Expected value :[Alternate Name] is matched with Actual value :[Alternate Name]
+Sep 15,2016 14:17:13 [info]  Verified that Expected value :[Type] is matched with Actual value :[Type]
+Sep 15,2016 14:17:13 [info]  Clicked on the 'Contributor_ContributorSearch_Add_AKA_TypeField'
+Sep 15,2016 14:17:14 [info]  Clicked on the 'Contributor_ContributorSearch_Add_AKA_TypeField'
+Sep 15,2016 14:17:14 [info]  ***********The below mentioned are drop down values of AKA Type****************
+Sep 15,2016 14:17:14 [info]  Verified that Expected value :[(Select One)] is matched with Actual value :[(Select One)]
+Sep 15,2016 14:17:14 [info]  Verified that Expected value :[AKA ] is matched with Actual value :[AKA ]
+Sep 15,2016 14:17:14 [info]  Verified that Expected value :[EAKA ] is matched with Actual value :[EAKA ]
+Sep 15,2016 14:17:14 [info]  Verified that Expected value :[FKA ] is matched with Actual value :[FKA ]
+Sep 15,2016 14:17:14 [info]  Verified that Expected value :[Legal ] is matched with Actual value :[Legal ]
+Sep 15,2016 14:17:14 [info]  Clicked on the 'Contributor_ContributorSearch_Add_AKA_AlternateNameField'
+Sep 15,2016 14:17:15 [info]  Entered "RSGTest_1" in field 'Contributor_ContributorSearch_Add_AKA_AlternateNameField'
+Sep 15,2016 14:17:17 [info]  Clicked on the 'Contributor_ContributorSearch_Add_AKA_AlternateTypeHeader'
+Sep 15,2016 14:17:18 [info]  Entered "AKA" in field 'Contributor_ContributorSearch_Add_AKA_AlternateTypeHeader'
+Sep 15,2016 14:17:21 [info]  Clicked on the 'Contributor_ContributorSearch_Add_AKA_AlternateNameField'
+Sep 15,2016 14:17:21 [info]  Clicked on the 'Contributor_ContributorSearch_Add_AKA_AddButton' using JS Executor
+Sep 15,2016 14:17:21 [info]  Clicked on the 'Contributor_ContributorSearch_Add_AKA_Row2_TypeField'
+Sep 15,2016 14:17:22 [info]  Entered "FKA" in field 'Contributor_ContributorSearch_Add_AKA_Row2_TypeInputField'
+Sep 15,2016 14:17:22 [info]  Clicked on the 'Support click Contributor_ContributorSearch_Add_AKA_Row2_AlternateNameField'
+Sep 15,2016 14:17:22 [info]  Clicked on the ''Save Button' Contributor_ContributorSearch_Add_SaveGeneralInfoButton' using JS Executor
+Sep 15,2016 14:17:32 [info]  Verified that Expected value :[  Please enter Alternate Name or delete Alternate Name Type in grid above.  ] is matched with Actual value :[  Please enter Alternate Name or delete Alternate Name Type in grid above.  ]
+Sep 15,2016 14:17:33 [info]  Clicked on the 'Contributor_ContributorSearch_Add_AKA_Row2_AlternateNameField'
+Sep 15,2016 14:17:34 [info]  Entered "RSGTest_2" in field 'Contributor_ContributorSearch_Add_AKA_Row2_AlternateNameInput Field'
+Sep 15,2016 14:17:34 [info]  Clicked on the 'Contributor_ContributorSearch_Add_AKA_Row2_TypeField'
+Sep 15,2016 14:17:34 [info]  Clicked on the 'Contributor_ContributorSearch_Add_LastNameField'
+Sep 15,2016 14:17:35 [info]  Clicked on the 'ConrtibutorsEdit_ConrtibutorsSearch_AddWindow_AKADelete' using JS Executor
+Sep 15,2016 14:17:35 [info]  ====Failed==== Expected value is:[Are you sure you want to delete the Alias information? You cannot undo this action.] but Actual value is[]. Please check the screenshot with name: Are you sure you want to delete the Alias information? You cannot undo this action.for more details
+Sep 15,2016 14:17:35 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Sep2016\\15\Alert Message While deleting the AKA Information_CheckpointFailure_09-15-2016 2-17-35 PM.jpg
+Sep 15,2016 14:17:38 [info]  Clicked on the 'OK Button at Alert While While deleting the AKA Information' using JS Executor
+Sep 15,2016 14:17:39 [info]  Clicked on the 'Contributor_ContributorSearch_Add_AddCustomAddressTypeLabel' using JS Executor
+Sep 15,2016 14:17:40 [info]  		**********Fields & Buttons in the Custom address dialog - Detail & Attribute frame ************
+Sep 15,2016 14:17:40 [info]  Verified that Expected value :[Reference Type ID] is matched with Actual value :[Reference Type ID]
+Sep 15,2016 14:17:40 [info]  Verified that Expected value :[Reference Type] is matched with Actual value :[Reference Type]
+Sep 15,2016 14:17:40 [info]  Verified that Expected value :[*Value] is matched with Actual value :[*Value]
+Sep 15,2016 14:17:40 [info]  Verified that Expected value :[Display Value] is matched with Actual value :[Display Value]
+Sep 15,2016 14:17:40 [info]  Verified that Expected value :[Display Order] is matched with Actual value :[Display Order]
+Sep 15,2016 14:17:40 [info]  Verified that Expected value :[Select Module] is matched with Actual value :[Select Module]
+Sep 15,2016 14:17:41 [info]  Verified that Expected value :[Display] is matched with Actual value :[Display]
+Sep 15,2016 14:17:41 [info]  Verified that Expected value :[Attribute1] is matched with Actual value :[Attribute1]
+Sep 15,2016 14:17:41 [info]  Verified that Expected value :[Attribute2] is matched with Actual value :[Attribute2]
+Sep 15,2016 14:17:41 [info]  Verified that Expected value :[Attribute3] is matched with Actual value :[Attribute3]
+Sep 15,2016 14:17:41 [info]  Save
+Sep 15,2016 14:17:41 [info]  Cancel
+Sep 15,2016 14:17:41 [info]  Clicked on the 'Contributor_ContributorSearch_Add_AddReferenceValue_ValueLabel'
+Sep 15,2016 14:17:43 [info]  Entered "REFER_InternalRSG_0915201621504" in field 'Contributor_ContributorSearch_Add_AddReferenceValue_ValueLabel Field'
+Sep 15,2016 14:17:43 [info]  Clicked on the ''Save' Button at Contributor_ContributorSearch_Add_AddReferenceValue window' using JS Executor
+Sep 15,2016 14:17:43 [info]  Clicked on the ''Cancel' Button at Contributor_ContributorSearch_Add_AddReferenceValue window' using JS Executor
+Sep 15,2016 14:17:47 [info]  Verified that Expected value :[Primary] is matched with Actual value :[Primary]
+Sep 15,2016 14:17:47 [info]  Clicked on the 'Contributor_ContributorSearch_Add_AddressLine1InputField' using JS Executor
+Sep 15,2016 14:17:48 [info]  Entered "AddressLine1" in field 'ConrtibutorsEdit_ConrtibutorsSearch_AddWindow_AddressLine1 Field'
+Sep 15,2016 14:17:48 [info]  Clicked on the 'Contributor_ContributorSearch_Add_AddressLine2InputField' using JS Executor
+Sep 15,2016 14:17:49 [info]  Entered "AddressLine2" in field 'ConrtibutorsEdit_ConrtibutorsSearch_AddWindow_AddressLine2 Field'
+Sep 15,2016 14:17:50 [info]  Clicked on the 'ConrtibutorsEdit_ConrtibutorsSearch_AddWindow_City' using JS Executor
+Sep 15,2016 14:17:50 [info]  Entered "City" in field 'ConrtibutorsEdit_ConrtibutorsSearch_AddWindow_City Field'
+Sep 15,2016 14:17:50 [info]  Selected "United States" in "Country Input Field" drop down
+Sep 15,2016 14:18:00 [info]  ====Failed==== "State Input Field" Drop Down is not present'
+Sep 15,2016 14:18:11 [info]  ====Failed==== "Contributor_ContributorSearch_Add_StateInputField" Drop Down is not present'
+Sep 15,2016 14:18:11 [info]  Clicked on the 'Contributor_ContributorSearch_Add_ZipCodeField' using JS Executor
+Sep 15,2016 14:18:11 [info]  Entered "12345" in field 'ConrtibutorsEdit_ConrtibutorsSearch_AddWindow_ZipCode Field'
+Sep 15,2016 14:18:21 [info]  Clicked on the 'Contributor_ContributorSearch_Add_BusinessPhone Input Field' using JS Executor
+Sep 15,2016 14:18:22 [info]  Entered "6176828224" in field 'Contributor_ContributorSearch_Add_BusinessPhone Field'
+Sep 15,2016 14:18:22 [info]  Clicked on the 'Contributor_ContributorSearch_Add_PrimaryEmail' using JS Executor
+Sep 15,2016 14:18:22 [info]  Entered "primary1@gmail.com" in field 'Contributor_ContributorSearch_Add_PrimaryEmail Input Field'
+Sep 15,2016 14:18:22 [info]  Clicked on the 'Contributor_ContributorSearch_Add_Contact1_InputField' using JS Executor
+Sep 15,2016 14:18:23 [info]  Entered "Home Phone" in field 'Contributor_ContributorSearch_Add_Contact1_InputField'
+Sep 15,2016 14:18:23 [info]  Selected "Mobile Phone" in "Contributor_ContributorSearch_Add_ContactList2DropDown" drop down
+Sep 15,2016 14:18:23 [info]  Clicked on the 'Contributor_ContributorSearch_Add_Contact2_InputField' using JS Executor
+Sep 15,2016 14:18:23 [info]  Entered "6176828224" in field 'Contributor_ContributorSearch_Add_Contact2_InputField Field'
+Sep 15,2016 14:18:24 [info]  Selected "Personal Email" in "Contributor_ContributorSearch_Add_ContactList3DropDown" drop down
+Sep 15,2016 14:18:24 [info]  Clicked on the 'Contributor_ContributorSearch_Add_ContactList3DropDown' using JS Executor
+Sep 15,2016 14:18:24 [info]  Entered "personal1@gmail.com" in field 'Contributor_ContributorSearch_Add_ContactList3DropDown Field'
+Sep 15,2016 14:18:24 [info]  Clicked on the 'Web Address' using JS Executor
+Sep 15,2016 14:18:25 [info]  Entered "www.web.com" in field 'Contributor_ContributorSearch_Add_WebAddressField'
+Sep 15,2016 14:18:25 [info]  Clicked on the ''Save Button' Contributor_ContributorSearch_Add_SaveGeneralInfoButton' using JS Executor
+Sep 15,2016 14:18:33 [info]  ====Failed==== Expected value is:[Changes have been saved successfully.] but Actual value is[  Please enter Alternate Name or delete Alternate Name Type in grid above.  ]. Please check the screenshot with name: Changes have been saved successfully.for more details
+Sep 15,2016 14:18:33 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Sep2016\\15\Contributor_ContributorSearch_Add_SaveGeneralInfo_EnterAleternate_ValidationMessage_CheckpointFailure_09-15-2016 2-18-33 PM.jpg
+Sep 15,2016 14:18:33 [info]  Clicked on the 'close Add Reference Window'
+Sep 15,2016 14:18:37 [info]  Clicked on the 'Contributor_ContributorSearch_SearchField'
+Sep 15,2016 14:18:38 [info]  Entered "InternalMedia_0915201621504" in field 'Contributor_ContributorSearch_SearchField'
+Sep 15,2016 14:18:38 [info]  Clicked on the 'find Button at Contributor Search Window' using JS Executor
+Sep 15,2016 14:28:20 [info]  ********************Started Executiong the Test Suite at 14:28:20******************
+Sep 15,2016 14:28:20 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Sep 15,2016 14:28:20 [info]  *********************Started Executing 'TC1_ContibutorUI' Test Case*********************
+Sep 15,2016 14:28:30 [info]  Client: AMCN
+Sep 15,2016 14:28:30 [info]  URL: http://rlv2wb79/login.aspx
+Sep 15,2016 14:28:30 [info]  UserName: automation
+Sep 15,2016 14:28:30 [info]  Password: automation
+Sep 15,2016 14:28:31 [info]  Entered "automation" in field 'User Name'
+Sep 15,2016 14:28:31 [info]  Clicked on the 'Temporary Check Box'
+Sep 15,2016 14:28:32 [info]  Entered "automation" in field 'Password'
+Sep 15,2016 14:28:40 [info]  Clicked on the 'LoginButton'
+Sep 15,2016 14:28:47 [info]  ************************Started Creating Asset of Type: Program - Series************************
+Sep 15,2016 14:28:48 [info]  Clicked on the 'MODULE'
+Sep 15,2016 14:28:59 [info]  Clicked on the 'Asset Maintenance'
+Sep 15,2016 14:29:06 [info]  Clicked on the 'New Button' using JS Executor
+Sep 15,2016 14:29:06 [info]  Clicked on the 'Program' using JS Executor
+Sep 15,2016 14:29:15 [info]  Clicked on the 'General TAB'
+Sep 15,2016 14:29:16 [info]  Verified that Expected value :[*Asset Type] is matched with Actual value :[*Asset Type]
+Sep 15,2016 14:29:16 [info]  Verified that Expected value :[Asset Category] is matched with Actual value :[Asset Category]
+Sep 15,2016 14:29:16 [info]  Verified that Expected value :[*Asset Title] is matched with Actual value :[*Asset Title]
+Sep 15,2016 14:29:16 [info]  Verified that Expected value :[IP Name] is matched with Actual value :[IP Name]
+Sep 15,2016 14:29:16 [info]  Verified that Expected value :[Project ID] is matched with Actual value :[Project ID]
+Sep 15,2016 14:29:17 [info]  Verified that Expected value :[Series Title] is matched with Actual value :[Series Title]
+Sep 15,2016 14:29:17 [info]  Verified that Expected value :[*Vendor] is matched with Actual value :[*Vendor]
+Sep 15,2016 14:29:17 [info]  Verified that Expected value :[Vendor2] is matched with Actual value :[Vendor2]
+Sep 15,2016 14:29:17 [info]  Verified that Expected value :[*Source Business Unit] is matched with Actual value :[*Source Business Unit]
+Sep 15,2016 14:29:17 [info]  Verified that Expected value :[Duration] is matched with Actual value :[Duration]
+Sep 15,2016 14:29:18 [info]  Verified that Expected value :[Short Name] is matched with Actual value :[Short Name]
+Sep 15,2016 14:29:18 [info]  Verified that Expected value :[Asset Status] is matched with Actual value :[Asset Status]
+Sep 15,2016 14:29:18 [info]  Verified that Expected value :[*Asset Source] is matched with Actual value :[*Asset Source]
+Sep 15,2016 14:29:18 [info]  Verified that Expected value :[Internal] is matched with Actual value :[Internal]
+Sep 15,2016 14:29:18 [info]  Verified that Expected value :[Non-Airable] is matched with Actual value :[Non-Airable]
+Sep 15,2016 14:29:19 [info]  Verified that Expected value :[TBA] is matched with Actual value :[TBA]
+Sep 15,2016 14:29:22 [info]  Selected "Program - Series" in "AssetTypeDropDown" drop down
+Sep 15,2016 14:29:33 [info]  Entered "AUT_AssetSeries_0915201622820" in field 'AssetTitle'
+Sep 15,2016 14:29:43 [info]  Clicked on the 'Vendor Img Icon' using JS Executor
+Sep 15,2016 14:29:45 [info]  Entered "AMCN_Vendor1" in field 'SearchvalueVendor'
+Sep 15,2016 14:29:47 [info]  Clicked on the 'VendorWindowButtonfind' using JS Executor
+Sep 15,2016 14:29:49 [info]  Clicked on the 'VendorName At VendorWindow'
+Sep 15,2016 14:29:49 [info]  Clicked on the 'Vendor Select Button' using JS Executor
+Sep 15,2016 14:29:53 [info]  Clicked on the 'StudioImageIcon' using JS Executor
+Sep 15,2016 14:29:55 [info]  Verified that Expected value :[Studio] is matched with Actual value :[Studio]
+Sep 15,2016 14:29:56 [info]  Entered "AMCN_Studio" in field 'Studio Name'
+Sep 15,2016 14:29:56 [info]  Clicked on the 'Find Button' using JS Executor
+Sep 15,2016 14:29:58 [info]  Clicked on the 'Searched Studio: 'AMCN_Studio''
+Sep 15,2016 14:29:58 [info]  Clicked on the 'Select Button at Studio Window' using JS Executor
+Sep 15,2016 14:30:05 [info]  Clicked on the 'SBUImage' using JS Executor
+Sep 15,2016 14:30:06 [info]  Verified that Expected value :[Source Business Unit Template] is matched with Actual value :[Source Business Unit Template]
+Sep 15,2016 14:30:07 [info]  Clicked on the ''Select All' CheckBox at SBU' using JS Executor
+Sep 15,2016 14:30:13 [info]  Clicked on the 'First CheckBox At SBU window'
+Sep 15,2016 14:30:13 [info]  Clicked on the 'Ninth CheckBox At SBU winodw'
+Sep 15,2016 14:30:16 [info]  Clicked on the 'Apply Button' using JS Executor
+Sep 15,2016 14:30:17 [info]  Entered "11:11:11" in field 'Duration'
+Sep 15,2016 14:30:27 [info]  Selected "Production" in "Asset Status" drop down
+Sep 15,2016 14:30:27 [info]  Selected "Licensed Acquired" in "Asset Source" drop down
+Sep 15,2016 14:30:28 [info]  Selected "TBD" in "Asset Category/Group" drop down
+Sep 15,2016 14:30:29 [info]  Entered "AUT_Series" in field 'Short Name'
+Sep 15,2016 14:30:29 [info]  Entered "Test" in field 'ProjectID'
+Sep 15,2016 14:30:30 [info]  Clicked on the 'Genre Add Button' using JS Executor
+Sep 15,2016 14:30:30 [info]  Clicked on the 'Genre Type Row Field' using JS Executor
+Sep 15,2016 14:30:30 [info]  Clicked on the 'Genere Type Dropdown Image'
+Sep 15,2016 14:30:31 [info]  Clicked on the 'First Genere Type DropDown Value in the list'
+Sep 15,2016 14:30:31 [info]  Clicked on the 'Genre Row Field' using JS Executor
+Sep 15,2016 14:30:31 [info]  Clicked on the 'Genere Dropdown Image'
+Sep 15,2016 14:30:32 [info]  Clicked on the 'Genere Dropdown value'
+Sep 15,2016 14:30:32 [info]  Clicked on the 'Add Button of Note' using JS Executor
+Sep 15,2016 14:30:35 [info]  Entered "Medium" in field 'Asset Priority'
+Sep 15,2016 14:30:35 [info]  Entered "Subject For the Deal" in field 'Asset Subject'
+Sep 15,2016 14:30:36 [info]  Entered "New Asset" in field 'AssetNotes TextField'
+Sep 15,2016 14:30:37 [info]  Clicked on the 'OK button'
+Sep 15,2016 14:30:39 [info]  Clicked on the 'Save Button' using JS Executor
+Sep 15,2016 14:30:55 [info]  Verified that Expected value :[AUT_AssetSeries_0915201622820] is matched with Actual value :[AUT_AssetSeries_0915201622820]
+Sep 15,2016 14:30:55 [info]  ************************Created Asset of TypeProgram - Series************************
+Sep 15,2016 14:30:55 [info]  Clicked on the 'MODULE'
+Sep 15,2016 14:31:06 [info]  Clicked on the 'Asset Maintenance'
+Sep 15,2016 14:31:10 [info]  Clicked on the 'Search Menu Icon' using JS Executor
+Sep 15,2016 14:31:10 [info]  Clicked on the 'AssetSearchUnderAsset' using JS Executor
+Sep 15,2016 14:31:23 [info]  Entered "AUT_AssetSeries_0915201622820" in field 'AssetTitle'
+Sep 15,2016 14:31:23 [info]  Clicked on the 'All Check Box' using JS Executor
+Sep 15,2016 14:31:23 [info]  Clicked on the 'Find Button' using JS Executor
+Sep 15,2016 14:31:39 [info]  Moved Mouse over 'First Asset in the Searched Asset'
+Sep 15,2016 14:31:39 [info]  Clicked on the 'First Asset in the Searched Asset'
+Sep 15,2016 14:31:42 [info]  Clicked on the 'View Asset' using JS Executor
+Sep 15,2016 14:32:00 [info]  Verified that Expected value :[AUT_AssetSeries_0915201622820] is matched with Actual value :[AUT_AssetSeries_0915201622820]
+Sep 15,2016 14:32:08 [info]  Clicked on the 'Episodes TAB'
+Sep 15,2016 14:32:12 [info]  Clicked on the ''Edit' Button at Episode window' using JS Executor
+Sep 15,2016 14:32:15 [info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Sep 15,2016 14:32:16 [info]  Entered "101" in field 'Add Episode input field'
+Sep 15,2016 14:32:16 [info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Sep 15,2016 14:32:20 [info]  Clicked on the 'Season Field of Episode101' using JS Executor
+Sep 15,2016 14:32:20 [info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Sep 15,2016 14:32:21 [info]  Clicked on the 'Season 1'
+Sep 15,2016 14:32:21 [info]  Clicked on the 'Support click to select season'
+Sep 15,2016 14:32:24 [info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Sep 15,2016 14:32:25 [info]  Entered "102" in field 'Add Episode input field'
+Sep 15,2016 14:32:25 [info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Sep 15,2016 14:32:29 [info]  Clicked on the 'Season Field of Episode102' using JS Executor
+Sep 15,2016 14:32:29 [info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Sep 15,2016 14:32:30 [info]  Clicked on the 'Season 1'
+Sep 15,2016 14:32:30 [info]  Clicked on the 'Support click to select season'
+Sep 15,2016 14:32:30 [info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Sep 15,2016 14:32:31 [info]  Entered "201" in field 'Add Episode input field'
+Sep 15,2016 14:32:32 [info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Sep 15,2016 14:32:35 [info]  Clicked on the 'Season Field of Episode201' using JS Executor
+Sep 15,2016 14:32:35 [info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Sep 15,2016 14:32:36 [info]  Clicked on the 'Season 2'
+Sep 15,2016 14:32:36 [info]  Clicked on the 'Support click to select season'
+Sep 15,2016 14:32:40 [info]  Clicked on the ''Add' Button at Episode window' using JS Executor
+Sep 15,2016 14:32:40 [info]  Entered "202" in field 'Add Episode input field'
+Sep 15,2016 14:32:41 [info]  Clicked on the ''OK' Button at Episode window' using JS Executor
+Sep 15,2016 14:32:46 [info]  Clicked on the 'Support click to select season'
+Sep 15,2016 14:32:46 [info]  Clicked on the 'Season Field of Episode201' using JS Executor
+Sep 15,2016 14:32:47 [info]  Clicked on the 'Image Drop Down at 'Episode Edit Window''
+Sep 15,2016 14:32:47 [info]  Clicked on the 'Season 2'
+Sep 15,2016 14:32:48 [info]  Clicked on the 'Support click to select season'
+Sep 15,2016 14:32:51 [info]  Clicked on the 'Save Button at 'Episode Edit Window'' using JS Executor
+Sep 15,2016 14:33:06 [info]  Clicked on the 'Close Button at 'Episode Edit Window'' using JS Executor
+Sep 15,2016 14:33:13 [info]  Clicked on the 'MODULE'
+Sep 15,2016 14:33:24 [info]  Clicked on the 'Asset Maintenance'
+Sep 15,2016 14:33:28 [info]  Clicked on the 'Search Menu Icon' using JS Executor
+Sep 15,2016 14:33:28 [info]  Clicked on the 'AssetSearchUnderAsset' using JS Executor
+Sep 15,2016 14:33:41 [info]  Entered "AUT_AssetSeries_0915201622820" in field 'AssetTitle'
+Sep 15,2016 14:33:41 [info]  Clicked on the 'All Check Box' using JS Executor
+Sep 15,2016 14:33:41 [info]  Clicked on the 'Find Button' using JS Executor
+Sep 15,2016 14:33:57 [info]  Moved Mouse over 'First Asset in the Searched Asset'
+Sep 15,2016 14:33:57 [info]  Clicked on the 'First Asset in the Searched Asset'
+Sep 15,2016 14:34:00 [info]  Clicked on the 'View Asset' using JS Executor
+Sep 15,2016 14:34:18 [info]  Verified that Expected value :[AUT_AssetSeries_0915201622820] is matched with Actual value :[AUT_AssetSeries_0915201622820]
+Sep 15,2016 14:34:20 [info]  Clicked on the 'Contributors OR Contacts TAB'
+Sep 15,2016 14:34:21 [info]  **********Verifying the Headers of Contributor TAB in View Mode***********
+Sep 15,2016 14:34:21 [info]  Verified that Expected value :[Applies To] is matched with Actual value :[Applies To]
+Sep 15,2016 14:34:21 [info]  Verified that Expected value :[Rank Order] is matched with Actual value :[Rank Order]
+Sep 15,2016 14:34:21 [info]  Verified that Expected value :[Promotable Star] is matched with Actual value :[Promotable Star]
+Sep 15,2016 14:34:21 [info]  Verified that Expected value :[Name] is matched with Actual value :[Name]
+Sep 15,2016 14:34:21 [info]  Verified that Expected value :[Role] is matched with Actual value :[Role]
+Sep 15,2016 14:34:21 [info]  Verified that Expected value :[Character] is matched with Actual value :[Character]
+Sep 15,2016 14:34:21 [info]  Verified that Expected value :[Contact Information] is matched with Actual value :[Contact Information]
+Sep 15,2016 14:34:22 [info]  Verified that Expected value :[Guild] is matched with Actual value :[Guild]
+Sep 15,2016 14:34:22 [info]  Verified that Expected value :[Notes] is matched with Actual value :[Notes]
+Sep 15,2016 14:34:22 [info]  *******************************************************
+Sep 15,2016 14:34:22 [info]  Clicked on the ''Edit' Button at Contributor TAB' using JS Executor
+Sep 15,2016 14:34:25 [info]  **********Verifying the Headers of Contributor TAB in Edit Mode************
+Sep 15,2016 14:34:25 [info]  Verified that Expected value :[*Applies To] is matched with Actual value :[*Applies To]
+Sep 15,2016 14:34:25 [info]  Verified that Expected value :[Rank Order] is matched with Actual value :[Rank Order]
+Sep 15,2016 14:34:25 [info]  Verified that Expected value :[Promotable Star] is matched with Actual value :[Promotable Star]
+Sep 15,2016 14:34:26 [info]  Verified that Expected value :[*Name] is matched with Actual value :[*Name]
+Sep 15,2016 14:34:26 [info]  Verified that Expected value :[*Role] is matched with Actual value :[*Role]
+Sep 15,2016 14:34:26 [info]  Verified that Expected value :[Character] is matched with Actual value :[Character]
+Sep 15,2016 14:34:26 [info]  Verified that Expected value :[Contact Information] is matched with Actual value :[Contact Information]
+Sep 15,2016 14:34:26 [info]  Verified that Expected value :[Guild] is matched with Actual value :[Guild]
+Sep 15,2016 14:34:26 [info]  Verified that Expected value :[Notes] is matched with Actual value :[Notes]
+Sep 15,2016 14:34:26 [info]  *****Verifying the available Buttons at 'Edit Contributor window'*****
+Sep 15,2016 14:34:26 [info]  Verified that Expected value :[Add] is matched with Actual value :[Add]
+Sep 15,2016 14:34:27 [info]  Verified that Expected value :[Delete] is matched with Actual value :[Delete]
+Sep 15,2016 14:34:27 [info]  Verified that Expected value :[Save] is matched with Actual value :[Save]
+Sep 15,2016 14:34:27 [info]  Verified that Expected value :[Cancel] is matched with Actual value :[Cancel]
+Sep 15,2016 14:34:27 [info]  *********************click on delete button without selecting any row and verify Alert Messge**********************************
+Sep 15,2016 14:34:27 [info]  Clicked on the 'Delete Button at Edit Contributor Window' using JS Executor
+Sep 15,2016 14:34:28 [info]  Verified that Expected value :[Please select a row before clicking Delete] is matched with Actual value :[  RightsLogic Alert  
+    Please select a row before clicking Delete.
+       ]
+Sep 15,2016 14:34:31 [info]  Clicked on the 'OK Button at Alert While deleting the Episode' using JS Executor
+Sep 15,2016 14:34:31 [info]  Clicked on the ''Add' Button at Contributor window' using JS Executor
+Sep 15,2016 14:34:32 [info]  **********Verify dropdown values of 'Enter Name to search' drop down************
+Sep 15,2016 14:34:32 [info]  Drop Down values of Enter Name To Search Drop Down
+Sep 15,2016 14:34:32 [info]  Actual Drop Down Values are: 
+[External Contributors, Companies/Individual Parties, Internal Parties]
+Sep 15,2016 14:34:32 [info]  Expected Drop Down Values are: 
+[External Contributors, Companies/Individual Parties, Internal Parties]
+Sep 15,2016 14:34:32 [info]  Total Number of Dropdown Valus in Enter Name To Search Drop Down:3
+Sep 15,2016 14:34:32 [info]  ************Verify Default selected value in "Enter Name To Search Drop Down"***************
+Sep 15,2016 14:34:33 [info]  Verified that Expected value :[External Contributors] is matched with Actual value :[External Contributors]
+Sep 15,2016 14:34:33 [info]  ************Verifying the default value selected in 'Party list type' for 'External Contributors' PartyList' dropdown ************
+Sep 15,2016 14:34:33 [info]  Verified that Expected value :[Last Name] is matched with Actual value :[Last Name]
+Sep 15,2016 14:34:33 [info]  ***********Verifying The Header for 'External Contributors'***********
+Sep 15,2016 14:34:33 [info]  Verified that Expected value :[First Name] is matched with Actual value :[First Name]
+Sep 15,2016 14:34:33 [info]  Verified that Expected value :[Last Name] is matched with Actual value :[Last Name]
+Sep 15,2016 14:34:33 [info]  Selected "Internal Parties" in "Contributor_PartyList_DropDown" drop down
+Sep 15,2016 14:34:34 [info]  ====Failed==== Expected value is:[Internal Parties] but Actual value is[no element on the web Page]. Please check the screenshot with name: Internal Partiesfor more details
+Sep 15,2016 14:34:34 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Sep2016\\15\Internal Parties_CheckpointFailure_09-15-2016 2-34-34 PM.jpg
+Sep 15,2016 14:34:34 [info]  **********The default values & columns in the window based on search names -Internal Parties ************
+Sep 15,2016 14:34:35 [info]  Verified that Expected value :[Last Name] is matched with Actual value :[Last Name]
+Sep 15,2016 14:34:35 [info]  **********Verifying The Header for 'Internal Parties'**********
+Sep 15,2016 14:34:35 [info]  Verified that Expected value :[First Name] is matched with Actual value :[First Name]
+Sep 15,2016 14:34:35 [info]  Verified that Expected value :[Last Name] is matched with Actual value :[Last Name]
+Sep 15,2016 14:34:35 [info]  **********The default values & columns in the window based on search names -Companies/Individual Parties ************
+Sep 15,2016 14:34:35 [info]  Selected "Companies/Individual Parties" in "Contributor_PartyList_DropDown" drop down
+Sep 15,2016 14:34:36 [info]  Verified that Expected value :[Companies/Individual Parties] is matched with Actual value :[Companies/Individual Parties]
+Sep 15,2016 14:34:37 [info]  Deafult value 
+Sep 15,2016 14:34:38 [info]  Verified that Expected value :[Company Name] is matched with Actual value :[Company Name]
+Sep 15,2016 14:34:38 [info]  ***********Verifying The Header for 'Companies/Individual Parties'***********
+Sep 15,2016 14:34:38 [info]  Verified that Expected value :[Company Name] is matched with Actual value :[Company Name]
+Sep 15,2016 14:34:38 [info]  Verified that Expected value :[Type] is matched with Actual value :[Type]
+Sep 15,2016 14:34:38 [info]  **********Verifying All buttons in the search Contributor window ************
+Sep 15,2016 14:34:38 [info]  Verified that Expected value :[Add..] is matched with Actual value :[Add..]
+Sep 15,2016 14:34:38 [info]  Verified that Expected value :[Edit..] is matched with Actual value :[Edit..]
+Sep 15,2016 14:34:38 [info]  Verified that Expected value :[Deactivate] is matched with Actual value :[Deactivate]
+Sep 15,2016 14:34:38 [info]  Verified that Expected value :[Export] is matched with Actual value :[Export]
+Sep 15,2016 14:34:38 [info]  Verified that Expected value :[Select] is matched with Actual value :[Select]
+Sep 15,2016 14:34:39 [info]  Verified that Expected value :[Cancel] is matched with Actual value :[Cancel]
+Sep 15,2016 14:34:39 [info]  Selected "Internal Parties" in "Contributor_PartyList_DropDown" drop down
+Sep 15,2016 14:34:40 [info]  Clicked on the ''Add' Button at Contributor Edit window' using JS Executor
+Sep 15,2016 14:34:42 [info]  **********Fields & Buttons in the Add  dialog - Detail frame (Internal Parties)************
+Sep 15,2016 14:34:42 [info]  Verified that Expected value :[Prefix] is matched with Actual value :[Prefix]
+Sep 15,2016 14:34:42 [info]  Verified that Expected value :[First Name] is matched with Actual value :[*First Name]
+Sep 15,2016 14:34:42 [info]  Verified that Expected value :[Middle Name] is matched with Actual value :[Middle Name]
+Sep 15,2016 14:34:42 [info]  Verified that Expected value :[*Last Name] is matched with Actual value :[*Last Name]
+Sep 15,2016 14:34:43 [info]  Verified that Expected value :[Suffix] is matched with Actual value :[Suffix]
+Sep 15,2016 14:34:43 [info]  Verified that Expected value :[AKA] is matched with Actual value :[AKA]
+Sep 15,2016 14:34:43 [info]  Verified that Expected value :[Add] is matched with Actual value :[ Add ]
+Sep 15,2016 14:34:43 [info]  Verified that Expected value :[Delete] is matched with Actual value :[Delete]
+Sep 15,2016 14:34:43 [info]  Verified that Expected value :[Address Line1] is matched with Actual value :[Address Line1]
+Sep 15,2016 14:34:43 [info]  Verified that Expected value :[Address Line2] is matched with Actual value :[Address Line2]
+Sep 15,2016 14:34:43 [info]  Verified that Expected value :[City] is matched with Actual value :[City]
+Sep 15,2016 14:34:43 [info]  Verified that Expected value :[Country] is matched with Actual value :[Country]
+Sep 15,2016 14:34:44 [info]  Verified that Expected value :[State] is matched with Actual value :[State]
+Sep 15,2016 14:34:44 [info]  Verified that Expected value :[Zip] is matched with Actual value :[Zip]
+Sep 15,2016 14:34:44 [info]  		**********Fields & Buttons in the Add  dialog - Communication frame (Internal Parties or MTVN Employees)************
+Sep 15,2016 14:34:44 [info]  Verified that Expected value :[Business Phone] is matched with Actual value :[Business Phone]
+Sep 15,2016 14:34:44 [info]  Verified that Expected value :[Primary Email] is matched with Actual value :[Primary Email]
+Sep 15,2016 14:34:44 [info]  Drop Down values of Contributor_ContributorSearch_Add_ContactListDropDown
+Sep 15,2016 14:34:44 [info]  Actual Drop Down Values are: 
+[External Contributors, Companies/Individual Parties, Internal Parties, (Select One), Home Phone, Mobile Phone, Personal Email, Primary Fax, Personal Fax]
+Sep 15,2016 14:34:44 [info]  Expected Drop Down Values are: 
+[External Contributors, Companies/Individual Parties, Internal Parties, (Select One), Home Phone, Mobile Phone, Personal Email, Primary Fax, Personal Fax]
+Sep 15,2016 14:34:44 [info]  Total Number of Dropdown Valus in Contributor_ContributorSearch_Add_ContactListDropDown:9
+Sep 15,2016 14:34:45 [info]  Verified that Expected value :[Web Address] is matched with Actual value :[Web Address]
+Sep 15,2016 14:34:45 [info]  Verified that Expected value :[Clear Address] is matched with Actual value :[ Clear Address ]
+Sep 15,2016 14:34:45 [info]  Verified that Expected value :[Add Custom Address Type...] is matched with Actual value :[  Add Custom Address Type...  ]
+Sep 15,2016 14:34:45 [info]  Verified that Expected value :[Close] is matched with Actual value :[Close]
+Sep 15,2016 14:34:45 [info]  **********Adding Contributor at 'Add window' for Internal Parties************
+Sep 15,2016 14:34:45 [info]  Clicked on the 'First Name'
+Sep 15,2016 14:34:46 [info]  Entered "InternalRSG_0915201622820" in field 'ConrtibutorsEdit_ConrtibutorsSearch_AddWindow_FirstName'
+Sep 15,2016 14:34:47 [info]  Clicked on the '*Last Name'
+Sep 15,2016 14:34:47 [info]  Entered "InternalMedia_0915201622820" in field 'ConrtibutorsEdit_ConrtibutorsSearch_AddWindow_LastName'
+Sep 15,2016 14:34:47 [info]  Verified that Expected value :[Alternate Name] is matched with Actual value :[Alternate Name]
+Sep 15,2016 14:34:48 [info]  Verified that Expected value :[Type] is matched with Actual value :[Type]
+Sep 15,2016 14:34:48 [info]  Clicked on the 'Contributor_ContributorSearch_Add_AKA_TypeField'
+Sep 15,2016 14:34:49 [info]  Clicked on the 'Contributor_ContributorSearch_Add_AKA_TypeField'
+Sep 15,2016 14:34:49 [info]  ***********The below mentioned are drop down values of AKA Type****************
+Sep 15,2016 14:34:49 [info]  Verified that Expected value :[(Select One)] is matched with Actual value :[(Select One)]
+Sep 15,2016 14:34:49 [info]  Verified that Expected value :[AKA ] is matched with Actual value :[AKA ]
+Sep 15,2016 14:34:49 [info]  Verified that Expected value :[EAKA ] is matched with Actual value :[EAKA ]
+Sep 15,2016 14:34:49 [info]  Verified that Expected value :[FKA ] is matched with Actual value :[FKA ]
+Sep 15,2016 14:34:49 [info]  Verified that Expected value :[Legal ] is matched with Actual value :[Legal ]
+Sep 15,2016 14:34:49 [info]  Clicked on the 'Contributor_ContributorSearch_Add_AKA_AlternateNameField'
+Sep 15,2016 14:34:50 [info]  Entered "RSGTest_1" in field 'Contributor_ContributorSearch_Add_AKA_AlternateNameField'
+Sep 15,2016 14:34:52 [info]  Clicked on the 'Contributor_ContributorSearch_Add_AKA_AlternateTypeHeader'
+Sep 15,2016 14:34:53 [info]  Entered "AKA" in field 'Contributor_ContributorSearch_Add_AKA_AlternateTypeHeader'
+Sep 15,2016 14:34:55 [info]  Clicked on the 'Contributor_ContributorSearch_Add_AKA_AlternateNameField'
+Sep 15,2016 14:34:56 [info]  Clicked on the 'Contributor_ContributorSearch_Add_AKA_AddButton' using JS Executor
+Sep 15,2016 14:34:56 [info]  Clicked on the 'Contributor_ContributorSearch_Add_AKA_Row2_TypeField'
+Sep 15,2016 14:34:57 [info]  Entered "FKA" in field 'Contributor_ContributorSearch_Add_AKA_Row2_TypeInputField'
+Sep 15,2016 14:34:57 [info]  Clicked on the 'Support click Contributor_ContributorSearch_Add_AKA_Row2_AlternateNameField'
+Sep 15,2016 14:34:57 [info]  Clicked on the ''Save Button' Contributor_ContributorSearch_Add_SaveGeneralInfoButton' using JS Executor
+Sep 15,2016 14:35:07 [info]  Verified that Expected value :[  Please enter Alternate Name or delete Alternate Name Type in grid above.  ] is matched with Actual value :[  Please enter Alternate Name or delete Alternate Name Type in grid above.  ]
+Sep 15,2016 14:35:08 [info]  Clicked on the 'Contributor_ContributorSearch_Add_AKA_Row2_AlternateNameField'
+Sep 15,2016 14:35:09 [info]  Entered "RSGTest_2" in field 'Contributor_ContributorSearch_Add_AKA_Row2_AlternateNameInput Field'
+Sep 15,2016 14:35:09 [info]  Clicked on the 'Contributor_ContributorSearch_Add_AKA_Row2_TypeField'
+Sep 15,2016 14:35:09 [info]  Clicked on the 'Contributor_ContributorSearch_Add_LastNameField'
+Sep 15,2016 14:35:09 [info]  Clicked on the 'ConrtibutorsEdit_ConrtibutorsSearch_AddWindow_AKADelete' using JS Executor
+Sep 15,2016 14:35:10 [info]  ====Failed==== Expected value is:[Are you sure you want to delete the Alias information? You cannot undo this action.] but Actual value is[]. Please check the screenshot with name: Are you sure you want to delete the Alias information? You cannot undo this action.for more details
+Sep 15,2016 14:35:10 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Sep2016\\15\Alert Message While deleting the AKA Information_CheckpointFailure_09-15-2016 2-35-10 PM.jpg
+Sep 15,2016 14:35:13 [info]  Clicked on the 'OK Button at Alert While While deleting the AKA Information' using JS Executor
+Sep 15,2016 14:35:14 [info]  Clicked on the 'Contributor_ContributorSearch_Add_AddCustomAddressTypeLabel' using JS Executor
+Sep 15,2016 14:35:15 [info]  		**********Fields & Buttons in the Custom address dialog - Detail & Attribute frame ************
+Sep 15,2016 14:35:15 [info]  Verified that Expected value :[Reference Type ID] is matched with Actual value :[Reference Type ID]
+Sep 15,2016 14:35:15 [info]  Verified that Expected value :[Reference Type] is matched with Actual value :[Reference Type]
+Sep 15,2016 14:35:15 [info]  Verified that Expected value :[*Value] is matched with Actual value :[*Value]
+Sep 15,2016 14:35:15 [info]  Verified that Expected value :[Display Value] is matched with Actual value :[Display Value]
+Sep 15,2016 14:35:15 [info]  Verified that Expected value :[Display Order] is matched with Actual value :[Display Order]
+Sep 15,2016 14:35:15 [info]  Verified that Expected value :[Select Module] is matched with Actual value :[Select Module]
+Sep 15,2016 14:35:16 [info]  Verified that Expected value :[Display] is matched with Actual value :[Display]
+Sep 15,2016 14:35:16 [info]  Verified that Expected value :[Attribute1] is matched with Actual value :[Attribute1]
+Sep 15,2016 14:35:16 [info]  Verified that Expected value :[Attribute2] is matched with Actual value :[Attribute2]
+Sep 15,2016 14:35:16 [info]  Verified that Expected value :[Attribute3] is matched with Actual value :[Attribute3]
+Sep 15,2016 14:35:16 [info]  Save
+Sep 15,2016 14:35:16 [info]  Cancel
+Sep 15,2016 14:35:16 [info]  Clicked on the 'Contributor_ContributorSearch_Add_AddReferenceValue_ValueLabel'
+Sep 15,2016 14:35:18 [info]  Entered "REFER_InternalRSG_0915201622820" in field 'Contributor_ContributorSearch_Add_AddReferenceValue_ValueLabel Field'
+Sep 15,2016 14:35:18 [info]  Clicked on the ''Save' Button at Contributor_ContributorSearch_Add_AddReferenceValue window' using JS Executor
+Sep 15,2016 14:35:18 [info]  Clicked on the ''Cancel' Button at Contributor_ContributorSearch_Add_AddReferenceValue window' using JS Executor
+Sep 15,2016 14:35:23 [info]  Verified that Expected value :[Primary] is matched with Actual value :[Primary]
+Sep 15,2016 14:35:23 [info]  Clicked on the 'Contributor_ContributorSearch_Add_AddressLine1InputField' using JS Executor
+Sep 15,2016 14:35:23 [info]  Entered "AddressLine1" in field 'ConrtibutorsEdit_ConrtibutorsSearch_AddWindow_AddressLine1 Field'
+Sep 15,2016 14:35:24 [info]  Clicked on the 'Contributor_ContributorSearch_Add_AddressLine2InputField' using JS Executor
+Sep 15,2016 14:35:25 [info]  Entered "AddressLine2" in field 'ConrtibutorsEdit_ConrtibutorsSearch_AddWindow_AddressLine2 Field'
+Sep 15,2016 14:35:25 [info]  Clicked on the 'ConrtibutorsEdit_ConrtibutorsSearch_AddWindow_City' using JS Executor
+Sep 15,2016 14:35:26 [info]  Entered "City" in field 'ConrtibutorsEdit_ConrtibutorsSearch_AddWindow_City Field'
+Sep 15,2016 14:35:26 [info]  Selected "United States" in "Country Input Field" drop down
+Sep 15,2016 14:35:26 [info]  Selected "New York" in "Contributor_ContributorSearch_Add_StateInputField" drop down
+Sep 15,2016 14:35:26 [info]  Clicked on the 'Contributor_ContributorSearch_Add_ZipCodeField' using JS Executor
+Sep 15,2016 14:35:27 [info]  Entered "12345" in field 'ConrtibutorsEdit_ConrtibutorsSearch_AddWindow_ZipCode Field'
+Sep 15,2016 14:35:37 [info]  Clicked on the 'Contributor_ContributorSearch_Add_BusinessPhone Input Field' using JS Executor
+Sep 15,2016 14:35:37 [info]  Entered "6176828224" in field 'Contributor_ContributorSearch_Add_BusinessPhone Field'
+Sep 15,2016 14:35:37 [info]  Clicked on the 'Contributor_ContributorSearch_Add_PrimaryEmail' using JS Executor
+Sep 15,2016 14:35:38 [info]  Entered "primary1@gmail.com" in field 'Contributor_ContributorSearch_Add_PrimaryEmail Input Field'
+Sep 15,2016 14:35:38 [info]  Clicked on the 'Contributor_ContributorSearch_Add_Contact1_InputField' using JS Executor
+Sep 15,2016 14:35:38 [info]  Entered "Home Phone" in field 'Contributor_ContributorSearch_Add_Contact1_InputField'
+Sep 15,2016 14:35:39 [info]  Selected "Mobile Phone" in "Contributor_ContributorSearch_Add_ContactList2DropDown" drop down
+Sep 15,2016 14:35:39 [info]  Clicked on the 'Contributor_ContributorSearch_Add_Contact2_InputField' using JS Executor
+Sep 15,2016 14:35:39 [info]  Entered "6176828224" in field 'Contributor_ContributorSearch_Add_Contact2_InputField Field'
+Sep 15,2016 14:35:39 [info]  Selected "Personal Email" in "Contributor_ContributorSearch_Add_ContactList3DropDown" drop down
+Sep 15,2016 14:35:39 [info]  Clicked on the 'Contributor_ContributorSearch_Add_ContactList3DropDown' using JS Executor
+Sep 15,2016 14:35:40 [info]  Entered "personal1@gmail.com" in field 'Contributor_ContributorSearch_Add_ContactList3DropDown Field'
+Sep 15,2016 14:35:40 [info]  Clicked on the 'Web Address' using JS Executor
+Sep 15,2016 14:35:40 [info]  Entered "www.web.com" in field 'Contributor_ContributorSearch_Add_WebAddressField'
+Sep 15,2016 14:35:41 [info]  Clicked on the ''Save Button' Contributor_ContributorSearch_Add_SaveGeneralInfoButton' using JS Executor
+Sep 15,2016 14:35:49 [info]  ====Failed==== Expected value is:[Changes have been saved successfully.] but Actual value is[  Please enter Alternate Name or delete Alternate Name Type in grid above.  ]. Please check the screenshot with name: Changes have been saved successfully.for more details
+Sep 15,2016 14:35:49 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Sep2016\\15\Contributor_ContributorSearch_Add_SaveGeneralInfo_EnterAleternate_ValidationMessage_CheckpointFailure_09-15-2016 2-35-49 PM.jpg
+Sep 15,2016 14:35:49 [info]  Clicked on the 'close Add Reference Window'
+Sep 15,2016 14:35:53 [info]  Clicked on the 'Contributor_ContributorSearch_SearchField'
+Sep 15,2016 14:35:54 [info]  Entered "InternalMedia_0915201622820" in field 'Contributor_ContributorSearch_SearchField'
+Sep 15,2016 14:35:54 [info]  Clicked on the 'find Button at Contributor Search Window' using JS Executor
+Sep 15,2016 14:37:30 [info]  Test 'TC1_ContibutorUI' FAILED
+Sep 15,2016 14:37:30 [info]  2
+Sep 15,2016 14:37:30 [info]  Test Case :TC1_ContibutorUI's Screenshot of Failure Page: C:\SeleniumProject\Screenshots\Sep2016\\15\TC1_ContibutorUI_09-15-2016 2-37-30 PM.jpg
+Sep 15,2016 14:37:32 [info]  Closed the Browser
+Sep 15,2016 15:10:25 [info]  ********************Started Executiong the Test Suite at 15:10:25******************
+Sep 15,2016 15:10:25 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Sep 15,2016 15:10:25 [info]  *********************Started Executing 'testscript' Test Case*********************
+Sep 15,2016 15:10:34 [info]  Client: AMCN
+Sep 15,2016 15:10:34 [info]  URL: http://rlv2wb79/login.aspx
+Sep 15,2016 15:10:34 [info]  UserName: automation
+Sep 15,2016 15:10:34 [info]  Password: automation
+Sep 15,2016 15:10:35 [info]  Entered "automation" in field 'User Name'
+Sep 15,2016 15:10:35 [info]  Clicked on the 'Temporary Check Box'
+Sep 15,2016 15:10:36 [info]  Entered "automation" in field 'Password'
+Sep 15,2016 15:10:45 [info]  Clicked on the 'LoginButton'
+Sep 15,2016 15:14:45 [info]  Clicked on the 'Applies To field'
+Sep 15,2016 15:18:31 [info]  ====Failed==== "Applies To first Row" field is not present'Applies To first Row'
+Sep 15,2016 15:18:31 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Sep2016\\15\Applies To first Row_CheckpointFailure_09-15-2016 3-18-31 PM.jpg
+Sep 15,2016 15:18:36 [info]  Clicked on the 'Support click'
+Sep 15,2016 15:18:39 [info]  Clicked on the 'Rank Order field'
+Sep 15,2016 15:18:40 [info]  Entered "1" in field 'Rank Order Field of first Row'
+Sep 15,2016 15:18:41 [info]  Clicked on the 'Support click on Applies To Field'
+Sep 15,2016 15:18:42 [info]  Clicked on the 'Role field'
+Sep 15,2016 15:18:43 [info]  Entered "Composer" in field 'Role Field of first Row'
+Sep 15,2016 15:18:43 [info]  Clicked on the 'Support click on Applies To Field'
+Sep 15,2016 15:18:44 [info]  Clicked on the 'Character field'
+Sep 15,2016 15:18:45 [info]  Entered "qwe123!!@@" in field 'Character Field of first Row'
+Sep 15,2016 15:18:46 [info]  Clicked on the 'Support click on Applies To Field'
+Sep 15,2016 15:18:46 [info]  Clicked on the 'PromotableStar Check Box'
+Sep 15,2016 15:18:47 [info]  Clicked on the 'ContactInformation field'
+Sep 15,2016 15:18:49 [info]  Entered "qwe123!!@@" in field 'ContactInformation Field of first Row'
+Sep 15,2016 15:18:49 [info]  Clicked on the 'Support click on Applies To Field'
+Sep 15,2016 15:18:50 [info]  Clicked on the 'Note Image Icon' using JS Executor
+Sep 15,2016 15:18:51 [info]  Clicked on the 'Note_Restriction Check Box'
+Sep 15,2016 15:18:53 [info]  Entered "RSG Test" in field 'Note Body'
+Sep 15,2016 15:18:53 [info]  Clicked on the 'OK button at Note Window' using JS Executor
+Sep 15,2016 15:19:01 [info]  *******Verifying the Entered details in the Edit Contributor window*******
+Sep 15,2016 15:19:02 [info]  ====Failed==== Expected value is:[      Ep.101: Episode101] but Actual value is[]. Please check the screenshot with name:       Ep.101: Episode101for more details
+Sep 15,2016 15:19:02 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Sep2016\\15\'Applies To' of First Data Row_CheckpointFailure_09-15-2016 3-19-02 PM.jpg
+Sep 15,2016 15:19:03 [info]  Verified that Expected value :[1] is matched with Actual value :[1]
+Sep 15,2016 15:19:04 [info]  Verified that Expected value :[Composer] is matched with Actual value :[Composer]
+Sep 15,2016 15:19:05 [info]  Verified that Expected value :[qwe123!!@@] is matched with Actual value :[qwe123!!@@]
+Sep 15,2016 15:19:06 [info]  Verified that Expected value :[Checked] is matched with Actual value :[Checked]
+Sep 15,2016 15:19:07 [info]  Verified that Expected value :[qwe123!!@@] is matched with Actual value :[qwe123!!@@]
+Sep 15,2016 15:19:07 [info]  Clicked on the 'Save Button at 'Edit Window'' using JS Executor
+Sep 15,2016 15:19:23 [info]  *******Verifying the Entered details in the Contributor TAB in View Mode*******
+Sep 15,2016 15:19:26 [info]  ====Failed==== Expected value is:[      Ep.101: Episode101] but Actual value is[Ep.101: Episode101]. Please check the screenshot with name:       Ep.101: Episode101for more details
+Sep 15,2016 15:19:26 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Sep2016\\15\'Applies To' of First Data Row_CheckpointFailure_09-15-2016 3-19-26 PM.jpg
+Sep 15,2016 15:19:40 [info]  Verified that Expected value :[1] is matched with Actual value :[1]
+Sep 15,2016 15:19:41 [info]  Verified that Expected value :[Composer] is matched with Actual value :[Composer]
+Sep 15,2016 15:19:42 [info]  Verified that Expected value :[qwe123!!@@] is matched with Actual value :[qwe123!!@@]
+Sep 15,2016 15:19:43 [info]  ====Failed==== Expected value is:[Checked] but Actual value is[]. Please check the screenshot with name: Checkedfor more details
+Sep 15,2016 15:19:44 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Sep2016\\15\'Portable Star Status' of First Data Row_CheckpointFailure_09-15-2016 3-19-43 PM.jpg
+Sep 15,2016 15:19:53 [info]  Verified that Expected value :[qwe123!!@@] is matched with Actual value :[qwe123!!@@]
+Sep 15,2016 15:20:15 [info]  ====Failed==== "Network Drop Down" Drop Down is not present'
+Sep 15,2016 15:20:16 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Sep2016\\15\Network Drop Down_CheckpointFailure_09-15-2016 3-20-15 PM.jpg
+Sep 15,2016 15:21:25 [info]  ====Failed==== Expected value is:[IFC linear] but Actual value is[IFC Linear]. Please check the screenshot with name: IFC linearfor more details
+Sep 15,2016 15:21:26 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Sep2016\\15\IFC linear_CheckpointFailure_09-15-2016 3-21-25 PM.jpg
+Sep 15,2016 15:21:57 [info]  Clicked on the 'Edit Button' using JS Executor
+Sep 15,2016 15:22:05 [info]  Clicked on the 'Rank Order field'
+Sep 15,2016 15:22:06 [info]  ====Failed==== "Rank Order Field of first Row" field is not present'Rank Order Field of first Row'
+Sep 15,2016 15:22:07 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Sep2016\\15\Rank Order Field of first Row_CheckpointFailure_09-15-2016 3-22-06 PM.jpg
+Sep 15,2016 16:00:58 [info]  ********************Started Executiong the Test Suite at 16:00:58******************
+Sep 15,2016 16:00:58 [info]  *********************Started Executing the Test Area(Modules/TAB): 'Default test'*********************
+Sep 15,2016 16:00:58 [info]  *********************Started Executing 'TC1_ContibutorUI' Test Case*********************
+Sep 15,2016 16:01:08 [info]  Client: AMCN
+Sep 15,2016 16:01:08 [info]  URL: http://rlv2wb79/login.aspx
+Sep 15,2016 16:01:08 [info]  UserName: automation
+Sep 15,2016 16:01:08 [info]  Password: automation
+Sep 15,2016 16:01:09 [info]  Entered "automation" in field 'User Name'
+Sep 15,2016 16:01:09 [info]  Clicked on the 'Temporary Check Box'
+Sep 15,2016 16:01:10 [info]  Entered "automation" in field 'Password'
+Sep 15,2016 16:01:18 [info]  Clicked on the 'LoginButton'
+Sep 15,2016 16:01:25 [info]  Clicked on the 'MODULE'
+Sep 15,2016 16:01:37 [info]  Clicked on the 'Asset Maintenance'
+Sep 15,2016 16:01:40 [info]  Clicked on the 'Search Menu Icon' using JS Executor
+Sep 15,2016 16:01:41 [info]  Clicked on the 'AssetSearchUnderAsset' using JS Executor
+Sep 15,2016 16:01:54 [info]  Entered "AUT_AssetSeries_0915201622820" in field 'AssetTitle'
+Sep 15,2016 16:01:54 [info]  Clicked on the 'All Check Box' using JS Executor
+Sep 15,2016 16:01:55 [info]  Clicked on the 'Find Button' using JS Executor
+Sep 15,2016 16:02:12 [info]  Moved Mouse over 'First Asset in the Searched Asset'
+Sep 15,2016 16:02:13 [info]  Clicked on the 'First Asset in the Searched Asset'
+Sep 15,2016 16:02:16 [info]  Clicked on the 'View Asset' using JS Executor
+Sep 15,2016 16:02:34 [info]  Verified that Expected value :[AUT_AssetSeries_0915201622820] is matched with Actual value :[AUT_AssetSeries_0915201622820]
+Sep 15,2016 16:02:36 [info]  Clicked on the 'Contributors OR Contacts TAB'
+Sep 15,2016 16:02:36 [info]  **********Verifying the Headers of Contributor TAB in View Mode***********
+Sep 15,2016 16:02:37 [info]  Verified that Expected value :[Applies To] is matched with Actual value :[Applies To]
+Sep 15,2016 16:02:37 [info]  Verified that Expected value :[Rank Order] is matched with Actual value :[Rank Order]
+Sep 15,2016 16:02:37 [info]  Verified that Expected value :[Promotable Star] is matched with Actual value :[Promotable Star]
+Sep 15,2016 16:02:38 [info]  Verified that Expected value :[Name] is matched with Actual value :[Name]
+Sep 15,2016 16:02:38 [info]  Verified that Expected value :[Role] is matched with Actual value :[Role]
+Sep 15,2016 16:02:38 [info]  Verified that Expected value :[Character] is matched with Actual value :[Character]
+Sep 15,2016 16:02:38 [info]  Verified that Expected value :[Contact Information] is matched with Actual value :[Contact Information]
+Sep 15,2016 16:02:38 [info]  Verified that Expected value :[Guild] is matched with Actual value :[Guild]
+Sep 15,2016 16:02:38 [info]  Verified that Expected value :[Notes] is matched with Actual value :[Notes]
+Sep 15,2016 16:02:38 [info]  *******************************************************
+Sep 15,2016 16:02:38 [info]  Clicked on the ''Edit' Button at Contributor TAB' using JS Executor
+Sep 15,2016 16:02:42 [info]  **********Verifying the Headers of Contributor TAB in Edit Mode************
+Sep 15,2016 16:02:42 [info]  Verified that Expected value :[*Applies To] is matched with Actual value :[*Applies To]
+Sep 15,2016 16:02:42 [info]  Verified that Expected value :[Rank Order] is matched with Actual value :[Rank Order]
+Sep 15,2016 16:02:42 [info]  Verified that Expected value :[Promotable Star] is matched with Actual value :[Promotable Star]
+Sep 15,2016 16:02:42 [info]  Verified that Expected value :[*Name] is matched with Actual value :[*Name]
+Sep 15,2016 16:02:42 [info]  Verified that Expected value :[*Role] is matched with Actual value :[*Role]
+Sep 15,2016 16:02:42 [info]  Verified that Expected value :[Character] is matched with Actual value :[Character]
+Sep 15,2016 16:02:42 [info]  Verified that Expected value :[Contact Information] is matched with Actual value :[Contact Information]
+Sep 15,2016 16:02:43 [info]  Verified that Expected value :[Guild] is matched with Actual value :[Guild]
+Sep 15,2016 16:02:43 [info]  Verified that Expected value :[Notes] is matched with Actual value :[Notes]
+Sep 15,2016 16:02:43 [info]  *****Verifying the available Buttons at 'Edit Contributor window'*****
+Sep 15,2016 16:02:43 [info]  Verified that Expected value :[Add] is matched with Actual value :[Add]
+Sep 15,2016 16:02:43 [info]  Verified that Expected value :[Delete] is matched with Actual value :[Delete]
+Sep 15,2016 16:02:43 [info]  Verified that Expected value :[Save] is matched with Actual value :[Save]
+Sep 15,2016 16:02:43 [info]  Verified that Expected value :[Cancel] is matched with Actual value :[Cancel]
+Sep 15,2016 16:02:43 [info]  *********************click on delete button without selecting any row and verify Alert Messge**********************************
+Sep 15,2016 16:02:43 [info]  Clicked on the 'Delete Button at Edit Contributor Window' using JS Executor
+Sep 15,2016 16:02:44 [info]  Verified that Expected value :[Please select a row before clicking Delete] is matched with Actual value :[  RightsLogic Alert  
+    Please select a row before clicking Delete.
+       ]
+Sep 15,2016 16:02:47 [info]  Clicked on the 'OK Button at Alert While deleting the Episode' using JS Executor
+Sep 15,2016 16:02:48 [info]  Clicked on the ''Add' Button at Contributor window' using JS Executor
+Sep 15,2016 16:02:49 [info]  **********Verify dropdown values of 'Enter Name to search' drop down************
+Sep 15,2016 16:02:49 [info]  Drop Down values of Enter Name To Search Drop Down
+Sep 15,2016 16:02:49 [info]  Actual Drop Down Values are: 
+[External Contributors, Companies/Individual Parties, Internal Parties]
+Sep 15,2016 16:02:49 [info]  Expected Drop Down Values are: 
+[External Contributors, Companies/Individual Parties, Internal Parties]
+Sep 15,2016 16:02:49 [info]  Total Number of Dropdown Valus in Enter Name To Search Drop Down:3
+Sep 15,2016 16:02:49 [info]  ************Verify Default selected value in "Enter Name To Search Drop Down"***************
+Sep 15,2016 16:02:49 [info]  Verified that Expected value :[External Contributors] is matched with Actual value :[External Contributors]
+Sep 15,2016 16:02:49 [info]  ************Verifying the default value selected in 'Party list type' for 'External Contributors' PartyList' dropdown ************
+Sep 15,2016 16:02:49 [info]  Verified that Expected value :[Last Name] is matched with Actual value :[Last Name]
+Sep 15,2016 16:02:49 [info]  ***********Verifying The Header for 'External Contributors'***********
+Sep 15,2016 16:02:49 [info]  Verified that Expected value :[First Name] is matched with Actual value :[First Name]
+Sep 15,2016 16:02:49 [info]  Verified that Expected value :[Last Name] is matched with Actual value :[Last Name]
+Sep 15,2016 16:02:50 [info]  Selected "Internal Parties" in "Contributor_PartyList_DropDown" drop down
+Sep 15,2016 16:02:50 [info]  Verified that Expected value :[Internal Parties] is matched with Actual value :[Internal Parties]
+Sep 15,2016 16:02:51 [info]  **********The default values & columns in the window based on search names -Internal Parties ************
+Sep 15,2016 16:02:51 [info]  Verified that Expected value :[Last Name] is matched with Actual value :[Last Name]
+Sep 15,2016 16:02:51 [info]  **********Verifying The Header for 'Internal Parties'**********
+Sep 15,2016 16:02:51 [info]  Verified that Expected value :[First Name] is matched with Actual value :[First Name]
+Sep 15,2016 16:02:51 [info]  Verified that Expected value :[Last Name] is matched with Actual value :[Last Name]
+Sep 15,2016 16:02:51 [info]  **********The default values & columns in the window based on search names -Companies/Individual Parties ************
+Sep 15,2016 16:02:51 [info]  Selected "Companies/Individual Parties" in "Contributor_PartyList_DropDown" drop down
+Sep 15,2016 16:02:53 [info]  Verified that Expected value :[Companies/Individual Parties] is matched with Actual value :[Companies/Individual Parties]
+Sep 15,2016 16:02:54 [info]  Deafult value 
+Sep 15,2016 16:02:54 [info]  Verified that Expected value :[Company Name] is matched with Actual value :[Company Name]
+Sep 15,2016 16:02:54 [info]  ***********Verifying The Header for 'Companies/Individual Parties'***********
+Sep 15,2016 16:02:54 [info]  Verified that Expected value :[Company Name] is matched with Actual value :[Company Name]
+Sep 15,2016 16:02:54 [info]  Verified that Expected value :[Type] is matched with Actual value :[Type]
+Sep 15,2016 16:02:54 [info]  **********Verifying All buttons in the search Contributor window ************
+Sep 15,2016 16:02:54 [info]  Verified that Expected value :[Add..] is matched with Actual value :[Add..]
+Sep 15,2016 16:02:54 [info]  Verified that Expected value :[Edit..] is matched with Actual value :[Edit..]
+Sep 15,2016 16:02:55 [info]  Verified that Expected value :[Deactivate] is matched with Actual value :[Deactivate]
+Sep 15,2016 16:02:55 [info]  Verified that Expected value :[Export] is matched with Actual value :[Export]
+Sep 15,2016 16:02:55 [info]  Verified that Expected value :[Select] is matched with Actual value :[Select]
+Sep 15,2016 16:02:55 [info]  Verified that Expected value :[Cancel] is matched with Actual value :[Cancel]
+Sep 15,2016 16:02:55 [info]  Selected "Internal Parties" in "Contributor_PartyList_DropDown" drop down
+Sep 15,2016 16:02:57 [info]  Clicked on the ''Add' Button at Contributor Edit window' using JS Executor
+Sep 15,2016 16:02:59 [info]  **********Fields & Buttons in the Add  dialog - Detail frame (Internal Parties)************
+Sep 15,2016 16:02:59 [info]  Verified that Expected value :[Prefix] is matched with Actual value :[Prefix]
+Sep 15,2016 16:02:59 [info]  Verified that Expected value :[First Name] is matched with Actual value :[*First Name]
+Sep 15,2016 16:02:59 [info]  Verified that Expected value :[Middle Name] is matched with Actual value :[Middle Name]
+Sep 15,2016 16:03:00 [info]  Verified that Expected value :[*Last Name] is matched with Actual value :[*Last Name]
+Sep 15,2016 16:03:00 [info]  Verified that Expected value :[Suffix] is matched with Actual value :[Suffix]
+Sep 15,2016 16:03:00 [info]  Verified that Expected value :[AKA] is matched with Actual value :[AKA]
+Sep 15,2016 16:03:00 [info]  Verified that Expected value :[Add] is matched with Actual value :[ Add ]
+Sep 15,2016 16:03:00 [info]  Verified that Expected value :[Delete] is matched with Actual value :[Delete]
+Sep 15,2016 16:03:00 [info]  Verified that Expected value :[Address Line1] is matched with Actual value :[Address Line1]
+Sep 15,2016 16:03:00 [info]  Verified that Expected value :[Address Line2] is matched with Actual value :[Address Line2]
+Sep 15,2016 16:03:00 [info]  Verified that Expected value :[City] is matched with Actual value :[City]
+Sep 15,2016 16:03:01 [info]  Verified that Expected value :[Country] is matched with Actual value :[Country]
+Sep 15,2016 16:03:01 [info]  Verified that Expected value :[State] is matched with Actual value :[State]
+Sep 15,2016 16:03:01 [info]  Verified that Expected value :[Zip] is matched with Actual value :[Zip]
+Sep 15,2016 16:03:01 [info]  		**********Fields & Buttons in the Add  dialog - Communication frame (Internal Parties or MTVN Employees)************
+Sep 15,2016 16:03:01 [info]  Verified that Expected value :[Business Phone] is matched with Actual value :[Business Phone]
+Sep 15,2016 16:03:01 [info]  Verified that Expected value :[Primary Email] is matched with Actual value :[Primary Email]
+Sep 15,2016 16:03:01 [info]  Drop Down values of Contributor_ContributorSearch_Add_ContactListDropDown
+Sep 15,2016 16:03:01 [info]  Actual Drop Down Values are: 
+[External Contributors, Companies/Individual Parties, Internal Parties, (Select One), Home Phone, Mobile Phone, Personal Email, Primary Fax, Personal Fax]
+Sep 15,2016 16:03:01 [info]  Expected Drop Down Values are: 
+[External Contributors, Companies/Individual Parties, Internal Parties, (Select One), Home Phone, Mobile Phone, Personal Email, Primary Fax, Personal Fax]
+Sep 15,2016 16:03:01 [info]  Total Number of Dropdown Valus in Contributor_ContributorSearch_Add_ContactListDropDown:9
+Sep 15,2016 16:03:02 [info]  Verified that Expected value :[Web Address] is matched with Actual value :[Web Address]
+Sep 15,2016 16:03:02 [info]  Verified that Expected value :[Clear Address] is matched with Actual value :[ Clear Address ]
+Sep 15,2016 16:03:02 [info]  Verified that Expected value :[Add Custom Address Type...] is matched with Actual value :[  Add Custom Address Type...  ]
+Sep 15,2016 16:03:02 [info]  Verified that Expected value :[Close] is matched with Actual value :[Close]
+Sep 15,2016 16:03:02 [info]  **********Adding Contributor at 'Add window' for Internal Parties************
+Sep 15,2016 16:03:02 [info]  Clicked on the 'First Name'
+Sep 15,2016 16:03:03 [info]  Entered "InternalRSG_0915201640058" in field 'ConrtibutorsEdit_ConrtibutorsSearch_AddWindow_FirstName'
+Sep 15,2016 16:03:04 [info]  Clicked on the '*Last Name'
+Sep 15,2016 16:03:04 [info]  Entered "InternalMedia_0915201640058" in field 'ConrtibutorsEdit_ConrtibutorsSearch_AddWindow_LastName'
+Sep 15,2016 16:03:04 [info]  Verified that Expected value :[Alternate Name] is matched with Actual value :[Alternate Name]
+Sep 15,2016 16:03:05 [info]  Verified that Expected value :[Type] is matched with Actual value :[Type]
+Sep 15,2016 16:03:05 [info]  Clicked on the 'Contributor_ContributorSearch_Add_AKA_TypeField'
+Sep 15,2016 16:03:05 [info]  Clicked on the 'Contributor_ContributorSearch_Add_AKA_TypeField'
+Sep 15,2016 16:03:05 [info]  ***********The below mentioned are drop down values of AKA Type****************
+Sep 15,2016 16:03:05 [info]  Verified that Expected value :[(Select One)] is matched with Actual value :[(Select One)]
+Sep 15,2016 16:03:05 [info]  Verified that Expected value :[AKA ] is matched with Actual value :[AKA ]
+Sep 15,2016 16:03:06 [info]  Verified that Expected value :[EAKA ] is matched with Actual value :[EAKA ]
+Sep 15,2016 16:03:06 [info]  Verified that Expected value :[FKA ] is matched with Actual value :[FKA ]
+Sep 15,2016 16:03:06 [info]  Verified that Expected value :[Legal ] is matched with Actual value :[Legal ]
+Sep 15,2016 16:03:06 [info]  Clicked on the 'Contributor_ContributorSearch_Add_AKA_AlternateNameField'
+Sep 15,2016 16:03:07 [info]  Entered "RSGTest_1" in field 'Contributor_ContributorSearch_Add_AKA_AlternateNameField'
+Sep 15,2016 16:03:09 [info]  Clicked on the 'Contributor_ContributorSearch_Add_AKA_AlternateTypeHeader'
+Sep 15,2016 16:03:10 [info]  Entered "AKA" in field 'Contributor_ContributorSearch_Add_AKA_AlternateTypeHeader'
+Sep 15,2016 16:03:12 [info]  Clicked on the 'Contributor_ContributorSearch_Add_AKA_AlternateNameField'
+Sep 15,2016 16:03:12 [info]  Clicked on the 'Contributor_ContributorSearch_Add_AKA_AddButton' using JS Executor
+Sep 15,2016 16:03:13 [info]  Clicked on the 'Contributor_ContributorSearch_Add_AKA_Row2_TypeField'
+Sep 15,2016 16:03:13 [info]  Entered "FKA" in field 'Contributor_ContributorSearch_Add_AKA_Row2_TypeInputField'
+Sep 15,2016 16:03:14 [info]  Clicked on the 'Support click Contributor_ContributorSearch_Add_AKA_Row2_AlternateNameField'
+Sep 15,2016 16:03:14 [info]  Clicked on the ''Save Button' Contributor_ContributorSearch_Add_SaveGeneralInfoButton' using JS Executor
+Sep 15,2016 16:03:24 [info]  Verified that Expected value :[  Please enter Alternate Name or delete Alternate Name Type in grid above.  ] is matched with Actual value :[  Please enter Alternate Name or delete Alternate Name Type in grid above.  ]
+Sep 15,2016 16:03:25 [info]  Clicked on the 'Contributor_ContributorSearch_Add_AKA_Row2_AlternateNameField'
+Sep 15,2016 16:03:25 [info]  Entered "RSGTest_2" in field 'Contributor_ContributorSearch_Add_AKA_Row2_AlternateNameInput Field'
+Sep 15,2016 16:03:26 [info]  Clicked on the 'Contributor_ContributorSearch_Add_AKA_Row2_TypeField'
+Sep 15,2016 16:03:26 [info]  Clicked on the 'Contributor_ContributorSearch_Add_LastNameField'
+Sep 15,2016 16:03:26 [info]  Clicked on the 'ConrtibutorsEdit_ConrtibutorsSearch_AddWindow_AKADelete' using JS Executor
+Sep 15,2016 16:03:27 [info]  Verified that Expected value :[Are you sure you want to delete the Alias information? You cannot undo this action.] is matched with Actual value :[Are you sure you want to delete the Alias information? You cannot undo this action.]
+Sep 15,2016 16:03:30 [info]  Clicked on the 'OK Button at Alert While While deleting the AKA Information' using JS Executor
+Sep 15,2016 16:03:30 [info]  Clicked on the 'Contributor_ContributorSearch_Add_AddCustomAddressTypeLabel' using JS Executor
+Sep 15,2016 16:03:32 [info]  		**********Fields & Buttons in the Custom address dialog - Detail & Attribute frame ************
+Sep 15,2016 16:03:32 [info]  Verified that Expected value :[Reference Type ID] is matched with Actual value :[Reference Type ID]
+Sep 15,2016 16:03:32 [info]  Verified that Expected value :[Reference Type] is matched with Actual value :[Reference Type]
+Sep 15,2016 16:03:32 [info]  Verified that Expected value :[*Value] is matched with Actual value :[*Value]
+Sep 15,2016 16:03:32 [info]  Verified that Expected value :[Display Value] is matched with Actual value :[Display Value]
+Sep 15,2016 16:03:32 [info]  Verified that Expected value :[Display Order] is matched with Actual value :[Display Order]
+Sep 15,2016 16:03:32 [info]  Verified that Expected value :[Select Module] is matched with Actual value :[Select Module]
+Sep 15,2016 16:03:33 [info]  Verified that Expected value :[Display] is matched with Actual value :[Display]
+Sep 15,2016 16:03:33 [info]  Verified that Expected value :[Attribute1] is matched with Actual value :[Attribute1]
+Sep 15,2016 16:03:33 [info]  Verified that Expected value :[Attribute2] is matched with Actual value :[Attribute2]
+Sep 15,2016 16:03:33 [info]  Verified that Expected value :[Attribute3] is matched with Actual value :[Attribute3]
+Sep 15,2016 16:03:33 [info]  Save
+Sep 15,2016 16:03:33 [info]  Cancel
+Sep 15,2016 16:03:33 [info]  Clicked on the 'Contributor_ContributorSearch_Add_AddReferenceValue_ValueLabel'
+Sep 15,2016 16:03:35 [info]  Entered "REFER_InternalRSG_0915201640058" in field 'Contributor_ContributorSearch_Add_AddReferenceValue_ValueLabel Field'
+Sep 15,2016 16:03:35 [info]  Clicked on the ''Save' Button at Contributor_ContributorSearch_Add_AddReferenceValue window' using JS Executor
+Sep 15,2016 16:03:35 [info]  Clicked on the ''Cancel' Button at Contributor_ContributorSearch_Add_AddReferenceValue window' using JS Executor
+Sep 15,2016 16:03:39 [info]  Verified that Expected value :[Primary] is matched with Actual value :[Primary]
+Sep 15,2016 16:03:39 [info]  Clicked on the 'Contributor_ContributorSearch_Add_AddressLine1InputField' using JS Executor
+Sep 15,2016 16:03:40 [info]  Entered "AddressLine1" in field 'ConrtibutorsEdit_ConrtibutorsSearch_AddWindow_AddressLine1 Field'
+Sep 15,2016 16:03:40 [info]  Clicked on the 'Contributor_ContributorSearch_Add_AddressLine2InputField' using JS Executor
+Sep 15,2016 16:03:42 [info]  Entered "AddressLine2" in field 'ConrtibutorsEdit_ConrtibutorsSearch_AddWindow_AddressLine2 Field'
+Sep 15,2016 16:03:42 [info]  Clicked on the 'ConrtibutorsEdit_ConrtibutorsSearch_AddWindow_City' using JS Executor
+Sep 15,2016 16:03:42 [info]  Entered "City" in field 'ConrtibutorsEdit_ConrtibutorsSearch_AddWindow_City Field'
+Sep 15,2016 16:03:42 [info]  Selected "United States" in "Country Input Field" drop down
+Sep 15,2016 16:03:43 [info]  Selected "New York" in "Contributor_ContributorSearch_Add_StateInputField" drop down
+Sep 15,2016 16:03:43 [info]  Clicked on the 'Contributor_ContributorSearch_Add_ZipCodeField' using JS Executor
+Sep 15,2016 16:03:43 [info]  Entered "12345" in field 'ConrtibutorsEdit_ConrtibutorsSearch_AddWindow_ZipCode Field'
+Sep 15,2016 16:03:53 [info]  Clicked on the 'Contributor_ContributorSearch_Add_BusinessPhone Input Field' using JS Executor
+Sep 15,2016 16:03:54 [info]  Entered "6176828224" in field 'Contributor_ContributorSearch_Add_BusinessPhone Field'
+Sep 15,2016 16:03:54 [info]  Clicked on the 'Contributor_ContributorSearch_Add_PrimaryEmail' using JS Executor
+Sep 15,2016 16:03:54 [info]  Entered "primary1@gmail.com" in field 'Contributor_ContributorSearch_Add_PrimaryEmail Input Field'
+Sep 15,2016 16:03:54 [info]  Clicked on the 'Contributor_ContributorSearch_Add_Contact1_InputField' using JS Executor
+Sep 15,2016 16:03:55 [info]  Entered "Home Phone" in field 'Contributor_ContributorSearch_Add_Contact1_InputField'
+Sep 15,2016 16:03:55 [info]  Selected "Mobile Phone" in "Contributor_ContributorSearch_Add_ContactList2DropDown" drop down
+Sep 15,2016 16:03:55 [info]  Clicked on the 'Contributor_ContributorSearch_Add_Contact2_InputField' using JS Executor
+Sep 15,2016 16:03:56 [info]  Entered "6176828224" in field 'Contributor_ContributorSearch_Add_Contact2_InputField Field'
+Sep 15,2016 16:03:56 [info]  Selected "Personal Email" in "Contributor_ContributorSearch_Add_ContactList3DropDown" drop down
+Sep 15,2016 16:03:56 [info]  Clicked on the 'Contributor_ContributorSearch_Add_ContactList3DropDown' using JS Executor
+Sep 15,2016 16:03:56 [info]  Entered "personal1@gmail.com" in field 'Contributor_ContributorSearch_Add_ContactList3DropDown Field'
+Sep 15,2016 16:03:56 [info]  Clicked on the 'Web Address' using JS Executor
+Sep 15,2016 16:03:57 [info]  Entered "www.web.com" in field 'Contributor_ContributorSearch_Add_WebAddressField'
+Sep 15,2016 16:03:57 [info]  Clicked on the ''Save Button' Contributor_ContributorSearch_Add_SaveGeneralInfoButton' using JS Executor
+Sep 15,2016 16:05:07 [info]  ====Failed==== Expected value is:[Changes have been saved successfully.] but Actual value is[  Please enter Alternate Name or delete Alternate Name Type in grid above.  ]. Please check the screenshot with name: Changes have been saved successfully.for more details
+Sep 15,2016 16:05:08 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Sep2016\\15\Contributor_ContributorSearch_Add_SaveGeneralInfo_EnterAleternate_ValidationMessage_CheckpointFailure_09-15-2016 4-05-07 PM.jpg
+Sep 15,2016 16:09:27 [info]  Clicked on the 'close Add Reference Window'
+Sep 15,2016 16:09:31 [info]  Clicked on the 'Contributor_ContributorSearch_SearchField'
+Sep 15,2016 16:09:32 [info]  Entered "InternalMedia_0915201640058" in field 'Contributor_ContributorSearch_SearchField'
+Sep 15,2016 16:09:32 [info]  Clicked on the 'find Button at Contributor Search Window' using JS Executor
+Sep 15,2016 16:09:34 [info]  Clicked on the 'Edit Button at Contributor Search Window' using JS Executor
+Sep 15,2016 16:09:35 [info]  Verified that Expected value :[Please select an item in the list before clicking Edit button.] is matched with Actual value :[  RightsLogic Alert  
+    Please select an item in the list before clicking Edit button.
+       ]
+Sep 15,2016 16:09:38 [info]  Clicked on the 'OK Button at Alert While While deleting the AKA Information' using JS Executor
+Sep 15,2016 16:09:39 [info]  Clicked on the 'Contributor_ContributorSearch_FirstContributor'
+Sep 15,2016 16:09:39 [info]  Clicked on the 'Edit Button at Contributor Search Window' using JS Executor
+Sep 15,2016 16:09:45 [info]  Clicked on the 'Contributor_ContributorSearch_Add_ClearAddressLabel' using JS Executor
+Sep 15,2016 16:09:45 [info]  Verified that Expected value :[Are you sure you wish to clear the selected Address type's information? You cannot undo this action.] is matched with Actual value :[  Clear Address  
+    Are you sure you wish to clear the selected Address type's information? You cannot undo this action.
+       ]
+Sep 15,2016 16:09:49 [info]  Clicked on the 'OK Button at Alert While While deleting the AKA Information' using JS Executor
+Sep 15,2016 16:09:49 [info]  Clicked on the 'Contributor_ContributorSearch_Add_PrimaryEmail' using JS Executor
+Sep 15,2016 16:09:49 [info]  Entered "rsg.rsg" in field 'Contributor_ContributorSearch_Add_PrimaryEmail Input Field'
+Sep 15,2016 16:09:49 [info]  Clicked on the ''Save Button' Contributor_ContributorSearch_Add_SaveGeneralInfoButton' using JS Executor
+Sep 15,2016 16:09:57 [info]  ====Failed==== Expected value is:[Please enter valid Email. ID may consist of only a-z, 0-9, underscores, hyphens, and dots(.)] but Actual value is[  Please enter valid Email.  ]. Please check the screenshot with name: Please enter valid Email. ID may consist of only a-z, 0-9, underscores, hyphens, and dots(.)for more details
+Sep 15,2016 16:09:57 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Sep2016\\15\Contributor_ContributorSearch_Editbutton_WrongCharactersGiven_ValidationMessage_CheckpointFailure_09-15-2016 4-09-57 PM.jpg
+Sep 15,2016 16:09:57 [info]  Clicked on the 'Contributor_ContributorSearch_Add_PrimaryEmail' using JS Executor
+Sep 15,2016 16:09:58 [info]  Entered "validemail@gmail.com" in field 'Contributor_ContributorSearch_Add_PrimaryEmail Input Field'
+Sep 15,2016 16:09:58 [info]  Clicked on the ''Save Button' Contributor_ContributorSearch_Add_SaveGeneralInfoButton' using JS Executor
+Sep 15,2016 16:10:07 [info]  Verified that Expected value :[Changes have been saved successfully.] is matched with Actual value :[Changes have been saved successfully.]
+Sep 15,2016 16:10:08 [info]  Clicked on the 'close Add Reference Window'
+Sep 15,2016 16:10:11 [info]  Clicked on the 'Select Contributor at Contributor_ContributorSearch window' using JS Executor
+Sep 15,2016 16:10:12 [info]  Clicked on the 'Save button at Contributor_ContributorSearch window' using JS Executor
+Sep 15,2016 16:10:19 [info]  Verified that Expected value :[Please enter values for required(*) fields.] is matched with Actual value :[Please enter values for required(*) fields.]
+Sep 15,2016 16:10:20 [info]  Clicked on the 'Applies To field'
+Sep 15,2016 16:10:21 [info]  Entered "AUT_AssetSeries_0915201622820" in field 'Applies To first Row'
+Sep 15,2016 16:10:22 [info]  Clicked on the 'Support click'
+Sep 15,2016 16:10:22 [info]  Clicked on the 'Applies To field'
+Sep 15,2016 16:10:23 [info]  Entered "      Ep.101: Episode101" in field 'Applies To first Row'
+Sep 15,2016 16:10:24 [info]  Clicked on the 'Support click'
+Sep 15,2016 16:10:24 [info]  Clicked on the 'Rank Order field'
+Sep 15,2016 16:10:25 [info]  Entered "1" in field 'Rank Order Field of first Row'
+Sep 15,2016 16:10:25 [info]  Clicked on the 'Support click on Applies To Field'
+Sep 15,2016 16:10:26 [info]  Clicked on the 'Role field'
+Sep 15,2016 16:10:26 [info]  Entered "Composer" in field 'Role Field of first Row'
+Sep 15,2016 16:10:26 [info]  Clicked on the 'Support click on Applies To Field'
+Sep 15,2016 16:10:27 [info]  Clicked on the 'Character field'
+Sep 15,2016 16:10:28 [info]  Entered "qwe123!!@@" in field 'Character Field of first Row'
+Sep 15,2016 16:10:28 [info]  Clicked on the 'Support click on Applies To Field'
+Sep 15,2016 16:10:29 [info]  Clicked on the 'PromotableStar Check Box'
+Sep 15,2016 16:10:29 [info]  Clicked on the 'ContactInformation field'
+Sep 15,2016 16:10:30 [info]  Entered "qwe123!!@@" in field 'ContactInformation Field of first Row'
+Sep 15,2016 16:10:30 [info]  Clicked on the 'Support click on Applies To Field'
+Sep 15,2016 16:10:30 [info]  Clicked on the 'Note Image Icon' using JS Executor
+Sep 15,2016 16:10:31 [info]  Clicked on the 'Note_Restriction Check Box'
+Sep 15,2016 16:10:32 [info]  Entered "RSG Test" in field 'Note Body'
+Sep 15,2016 16:10:32 [info]  Clicked on the 'OK button at Note Window' using JS Executor
+Sep 15,2016 16:10:36 [info]  *******Verifying the Entered details in the Edit Contributor window*******
+Sep 15,2016 16:10:36 [info]  Verified that Expected value :[      Ep.101: Episode101] is matched with Actual value :[      Ep.101: Episode101]
+Sep 15,2016 16:10:36 [info]  Verified that Expected value :[1] is matched with Actual value :[1]
+Sep 15,2016 16:10:37 [info]  Verified that Expected value :[Composer] is matched with Actual value :[Composer]
+Sep 15,2016 16:10:37 [info]  Verified that Expected value :[qwe123!!@@] is matched with Actual value :[qwe123!!@@]
+Sep 15,2016 16:11:02 [info]  Verified that Expected value :[Checked] is matched with Actual value :[Checked]
+Sep 15,2016 16:11:02 [info]  Verified that Expected value :[qwe123!!@@] is matched with Actual value :[qwe123!!@@]
+Sep 15,2016 16:11:02 [info]  Clicked on the 'Save Button at 'Edit Window'' using JS Executor
+Sep 15,2016 16:11:09 [info]  *******Verifying the Entered details in the Contributor TAB in View Mode*******
+Sep 15,2016 16:11:09 [info]  ====Failed==== Expected value is:[      Ep.101: Episode101] but Actual value is[Ep.101: Episode101]. Please check the screenshot with name:       Ep.101: Episode101for more details
+Sep 15,2016 16:11:09 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Sep2016\\15\'Applies To' of First Data Row_CheckpointFailure_09-15-2016 4-11-09 PM.jpg
+Sep 15,2016 16:11:10 [info]  Verified that Expected value :[1] is matched with Actual value :[1]
+Sep 15,2016 16:11:10 [info]  Verified that Expected value :[Composer] is matched with Actual value :[Composer]
+Sep 15,2016 16:11:10 [info]  Verified that Expected value :[qwe123!!@@] is matched with Actual value :[qwe123!!@@]
+Sep 15,2016 16:11:10 [info]  "PortableStar is checked in View Mode" is Present
+Sep 15,2016 16:11:10 [info]  Verified that Expected value :[qwe123!!@@] is matched with Actual value :[qwe123!!@@]
+Sep 15,2016 16:11:11 [info]  Selected "IFC Linear" in "Network Drop Down" drop down
+Sep 15,2016 16:11:14 [info]  Verified that Expected value :[IFC Linear] is matched with Actual value :[IFC Linear]
+Sep 15,2016 16:11:17 [info]  Clicked on the 'Edit Button' using JS Executor
+Sep 15,2016 16:11:23 [info]  Clicked on the 'Role field'
+Sep 15,2016 16:11:24 [info]  ====Failed==== "Role Field of first Row" field is not present'Role Field of first Row'
+Sep 15,2016 16:11:24 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Sep2016\\15\Role Field of first Row_CheckpointFailure_09-15-2016 4-11-24 PM.jpg
+Sep 15,2016 16:11:24 [info]  Clicked on the 'Support click on Applies To Field'
+Sep 15,2016 16:11:25 [info]  Clicked on the 'Character field'
+Sep 15,2016 16:11:25 [info]  Entered "abcd" in field 'Character Field of first Row'
+Sep 15,2016 16:11:25 [info]  Clicked on the 'Support click on Applies To Field'
+Sep 15,2016 16:11:26 [info]  Clicked on the 'PromotableStar Check Box'
+Sep 15,2016 16:11:26 [info]  Clicked on the 'ContactInformation field'
+Sep 15,2016 16:11:27 [info]  Entered "qwe123!!@@" in field 'ContactInformation Field of first Row'
+Sep 15,2016 16:11:27 [info]  Clicked on the 'Support click on Applies To Field'
+Sep 15,2016 16:11:28 [info]  Clicked on the 'Note Image Icon' using JS Executor
+Sep 15,2016 16:11:28 [info]  Clicked on the 'Note_Restriction Check Box'
+Sep 15,2016 16:11:31 [info]  Entered "Test Notes with Special Characters !@#$%^&*()_12345 Updated" in field 'Note Body'
+Sep 15,2016 16:11:31 [info]  Clicked on the 'OK button at Note Window' using JS Executor
+Sep 15,2016 16:11:35 [info]  *******Verifying the Entered details in the Edit Contributor window*******
+Sep 15,2016 16:11:35 [info]  ====Failed==== Expected value is:[      Ep.101: Episode101] but Actual value is[Ep.101: Episode101]. Please check the screenshot with name:       Ep.101: Episode101for more details
+Sep 15,2016 16:11:35 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Sep2016\\15\'Applies To' of First Data Row_CheckpointFailure_09-15-2016 4-11-35 PM.jpg
+Sep 15,2016 16:11:35 [info]  ====Failed==== Expected value is:[1] but Actual value is[<!---->]. Please check the screenshot with name: 1for more details
+Sep 15,2016 16:11:35 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Sep2016\\15\Rank Order of First Data Row_CheckpointFailure_09-15-2016 4-11-35 PM.jpg
+Sep 15,2016 16:11:36 [info]  ====Failed==== Expected value is:[Cameo] but Actual value is[Composer]. Please check the screenshot with name: Cameofor more details
+Sep 15,2016 16:11:36 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Sep2016\\15\Role of First Data Row_CheckpointFailure_09-15-2016 4-11-36 PM.jpg
+Sep 15,2016 16:11:36 [info]  Verified that Expected value :[abcd] is matched with Actual value :[abcd]
+Sep 15,2016 16:11:36 [info]  ====Failed==== Expected value is:[Unchecked] but Actual value is[Checked]. Please check the screenshot with name: Uncheckedfor more details
+Sep 15,2016 16:11:36 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Sep2016\\15\'Portable Star Status' of First Data Row_CheckpointFailure_09-15-2016 4-11-36 PM.jpg
+Sep 15,2016 16:11:37 [info]  Verified that Expected value :[qwe123!!@@] is matched with Actual value :[qwe123!!@@]
+Sep 15,2016 16:11:37 [info]  Clicked on the 'Save Button at 'Edit Window'' using JS Executor
+Sep 15,2016 16:11:43 [info]  *******Verifying the Entered details in the Contributor TAB in View Mode*******
+Sep 15,2016 16:11:43 [info]  Verified that Expected value :[Ep.101: Episode101] is matched with Actual value :[Ep.101: Episode101]
+Sep 15,2016 16:11:43 [info]  ====Failed==== Expected value is:[1] but Actual value is[<!---->]. Please check the screenshot with name: 1for more details
+Sep 15,2016 16:11:43 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Sep2016\\15\Rank Order of First Data Row_CheckpointFailure_09-15-2016 4-11-43 PM.jpg
+Sep 15,2016 16:11:43 [info]  ====Failed==== Expected value is:[Cameo] but Actual value is[Composer]. Please check the screenshot with name: Cameofor more details
+Sep 15,2016 16:11:44 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Sep2016\\15\Role of First Data Row_CheckpointFailure_09-15-2016 4-11-43 PM.jpg
+Sep 15,2016 16:11:44 [info]  Verified that Expected value :[abcd] is matched with Actual value :[abcd]
+Sep 15,2016 16:11:44 [info]  ====Failed==== "PortableStar is checked in View Mode"  should not be shown but it exist.
+Sep 15,2016 16:11:44 [info]  ScreenShot of CheckPoint Failure: C:\SeleniumProject\Screenshots\Sep2016\\15\PortableStar is checked in View Mode_CheckpointFailure_09-15-2016 4-11-44 PM.jpg
+Sep 15,2016 16:11:44 [info]  Verified that Expected value :[qwe123!!@@] is matched with Actual value :[qwe123!!@@]
+Sep 15,2016 16:16:21 [info]  Selected "IFC Linear" in "Network Drop Down" drop down
